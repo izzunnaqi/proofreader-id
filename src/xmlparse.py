@@ -16,60 +16,78 @@ def extract_xml(argv):
 
 	tree = et.parse(in_file)
 	pages = tree.getroot()
-	page = pages.find("page")
 	allpage = pages.findall("page")
-
-	temp = ''
-	pages = {}
-	textbox = page.findall("textbox")
 
 	temp = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<document>\n"
 	
 	# read page
 	for p in allpage:
-		temp = temp + '<page id=\"'+ p.attrib['id']+'\">\n'
 		page_str = ""
 
 		# read line
 		for el in p.findall("textbox"):
 			line = ""
-			
+			flag_it = 0
+			flag_bo = 0
+
 			for t in el.findall("textline/text"):
-				if 'bbox' in t.attrib:
-					if t.text is None:
-						# temp = temp + " "
-						line = line + " "
+				if t.text is None:
+					
+					if flag_bo == 1:
+						line = line + "</bo>"
+						flag_bo = 0
+
+					if flag_it == 1:
+						line = line + "</it>"
+						flag_it = 0
+					
+					if line is not "" and line[-1] is " ":
+						line = line	
 					else:
-						if t.text == '&':
-							# temp = temp + '&amp;'
-							line = line + '&amp;'
-						elif t.text == '>':
-							# temp = temp + "&gt;"
-							line = line + "&gt;"
-						elif t.text == '<':
-							# temp = temp + "&lt;"
-							line = line + "&lt;"
-						else:
-							# temp = temp + t.text
-							line = line + t.text
+						line = line + " "
+				else:
+					if t.text == '&':
+						line = line + '&amp;'
+					elif t.text == '>':
+						line = line + "&gt;"
+					elif t.text == '<':
+						line = line + "&lt;"
+					else:
+						if "Italic" in t.attrib['font'] and flag_it == 0:
+							flag_it = 1
+
+							if line is "" or not line[-1].isalpha():
+								line = line + "<it>"
+						
+						if "Bold" in t.attrib['font'] and flag_bo == 0:
+							flag_bo = 1
+
+							if line is "" or not line[-1].isalpha():
+								line = line + "<bo>"
+
+						line = line + t.text
 
 			# temp = temp + '\n'
-			page_str = page_str + line
 			# sentences = tokenize.sent_tokenize(line)
 			# for i in range(0, len(sentences)):
-			# 	print "<sentence id=\"" + str(i) +"\">" +sentences[i]+"</sentence>"
-		
+			if line is not " ":
+				# page_str = page_str +  "<sentence>" +sentences[i]+"</sentence>\n"
+				if line[-1] is " ":
+					page_str = page_str +  "<line>" +line[0:-1]+"</line>\n"	
+				else:
+					page_str = page_str +  "<line>" +line+"</line>\n"
 	
-		sentences = tokenize.sent_tokenize(page_str)
-		page_str = ""
-		for i in range(0, len(sentences)):
-			page_str = page_str + "<sentence id=\"" + str(i+1) +"\">" +sentences[i]+"</sentence>\n"
-			
-		temp = temp + page_str + '</page>\n'
+		
+		page_num = re.findall('<line>[0-9]+</line>', page_str)
+		page_tag = ""
+		
+		if len(page_num) > 0:
+			page_tag = '<page id=\"'+ p.attrib['id']+'\" class=\"isi\">\n'
+		else:
+			page_tag = '<page id=\"'+ p.attrib['id']+'\" class=\"awal\">\n'
+		
+		temp = temp + page_tag + page_str + '</page>\n'
 
-		num = int(p.attrib['id'])
-		pages[num] = temp.splitlines()
-		# temp = ''
 
 	temp = temp + "</document>"
 	temp = temp.encode("utf-8")
