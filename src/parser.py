@@ -4,7 +4,6 @@
 import sys
 import re
 import xml.etree.ElementTree as et
-from nltk import tokenize
 
 def config():
 	reload(sys)
@@ -17,12 +16,14 @@ def extract_xml(argv):
 	tree = et.parse(in_file)
 	pages = tree.getroot()
 	allpage = pages.findall("page")
+	
 
 	temp = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<document>\n"
 	
 	# read page
 	for p in allpage:
 		page_str = ""
+		lines = []
 
 		# read line
 		for el in p.findall("textbox"):
@@ -68,26 +69,44 @@ def extract_xml(argv):
 
 						line = line + t.text
 
-			# print line
+			
 			if line is not " ":
-				if line[-1] is " ":
-					page_str = page_str +  "<line>" +line[0:-1]+"</line>\n"	
+				# if line[-1] is " ":
+				# 	lines.append(line[0:-1]);
+				# else:
+				# 	lines.append(line)
+				lines.append(line)
+		
+		
+		par = ""
+		flag_par = 0
+		
+		for item in lines:
+			
+			if not item.isspace():
+				if re.match('[<>a-zA-Z]+\.{0,1}', item) is not None:
+					if flag_par == 0:
+						par = par + "\n\t\t<par>\n\t\t\t" + item
+						flag_par = 1	
+					else:
+						par = par + item
 				else:
-					page_str = page_str +  "<line>" +line+"</line>\n"
-	
+					if flag_par == 1:
+						flag_par = 0
+						par = par + "\n\t\t</par>\n\t\t" + item
+					else:
+						par = par + item
+			else:
+				par = par + item
 		
-		page_num = re.findall('<line>[0-9]+</line>', page_str)
-		page_tag = ""
-		
-		if len(page_num) > 0:
-			page_tag = '<page id=\"'+ p.attrib['id']+'\" class=\"isi\">\n'
+
+		page_tag = '\t<page id=\"'+ p.attrib['id']+'\">\n\t\t'
+		if flag_par == 1:
+			temp = temp + page_tag + par + "\n\t\t</par>" + '\n\t</page>\n'
 		else:
-			page_tag = '<page id=\"'+ p.attrib['id']+'\" class=\"awal\">\n'
-		
-		temp = temp + page_tag + page_str + '</page>\n'
+			temp = temp + page_tag + par + '\n\t</page>\n'
 
-
-	temp = temp + "</document>"
+	temp = temp + "\n</document>"
 	temp = temp.encode("utf-8")
 
 	return temp
@@ -97,7 +116,6 @@ def main():
 	a = extract_xml(sys.argv)
 	
 	print a
-
 
 if __name__ == '__main__':
 	main()
