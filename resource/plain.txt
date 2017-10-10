@@ -1,0 +1,1252 @@
+ 
+
+ 
+
+ 
+
+ 
+
+UNIVERSITAS  INDONESIA 
+
+ 
+
+LAPORAN  KERJA PRAKTIK 
+
+OTOMATISASI  TESTING UNTUK MENTIMUN.CO.ID 
+
+ 
+
+ 
+
+MUHAMMAD IZZUNNAQI 
+
+1306381774 
+
+FAKULTAS  ILMU KOMPUTER 
+
+PROGRAM STUDI ILMU KOMPUTER 
+
+DEPOK 
+
+NOVEMBER 2016
+
+ 
+
+ 
+
+HALAMAN PERSETUJUAN  DOSEN MATA KULIAH  KERJA PRAKTIK 
+
+ 
+
+ii 
+
+Laporan  ini  diajukan  oleh 
+
+: 
+
+ 
+
+Nama 
+
+NPM 
+
+:  Muhammad  Izzunnaqi 
+
+:  1306381774 
+
+Program  Studi 
+
+: 
+
+Ilmu  Komputer 
+
+Judul  Kerja Praktik 
+
+:  Otomatisasi  Testing untuk  mentimun.co.id 
+
+ 
+
+Telah  berhasil  diselesaikan 
+
+laporan  kerja  praktik  untuk  fakultas  dan 
+
+dipresentasikan  hasil  kerja  praktiknya  dalam  forum  seminar  kerja  praktik 
+
+sebagai persyaratan  yang harus  dipenuhi  dalam  mata kuliah  Kerja  Praktik. 
+
+ 
+
+DOSEN MATA KULIAH  KERJA PRAKTIK, 
+
+ 
+
+ 
+
+(Faiq  Miftakhul  Falakh,  S.Kom.,  M.Kom.) 
+
+ 
+
+ 
+
+Universitas  Indonesia 
+
+Ditetapkan  di  :   
+
+Tanggal 
+
+:   
+
+ 
+
+ 
+
+ 
+
+iii 
+
+ABSTRAK 
+
+Laporan berikut  membahas  mengenai  hal- hal  yang  terkait dengan kerja praktik  yang 
+
+dilakukan  oleh  penulis  seperti  proyek  yang  dikerjakan,  pengalaman  kerja,  teknologi 
+
+yang digunakan, serta  hal- hal  non-teknis yang diperoleh. Penulis  melaksanakan kerja 
+
+praktik  di  PT.  Dinamika  Mitra  Sukses  Makmur  (DMSUM)  yang  berada  di  daerah 
+
+Pecenongan, Jakata Pusat sebagai  software engineer pada divisi Development dalam 
+
+jangka  waktu  sekitar  10  minggu.  Penulis  berkesempatan  untuk  mengerjakan  proyek 
+
+automated  testing  untuk  aplikasi  website  Mentimun  dan  juga  beberapa  proyek 
+
+tambahan.  Dalam  mengerjakan  proyek  tersebut,  penulis  menggunakan  tools  untuk 
+
+membuat  automated testing yaitu  Selenium. 
+
+Kata kunci:  automated testing, Mentimun,  PT. DMSUM,  Selenium. 
+
+ 
+
+ 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+iv 
+
+DAFTAR  ISI 
+
+ 
+HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK  ...........ii 
+
+ABSTRAK  .................................................................................................................... iii 
+
+DAFTAR ISI.................................................................................................................iv 
+
+DAFTAR LAMPIRAN .................................................................................................vi 
+
+BAB  1  PENDAHULUAN  ........................................................................................... 1 
+
+1.1.  Proses Pencarian Kerja Praktik........................................................................ 1 
+
+1.2.  Tempat Kerja Praktik....................................................................................... 2 
+
+1.2.1.  Profil Tempat Kerja Praktik ...................................................................... 2 
+
+1.2.2.  Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3 
+
+BAB  2  ISI..................................................................................................................... 4 
+
+2.1.  Pekerjaan dalam Kerja Praktik ........................................................................ 4 
+
+2.1.1.  Latar Belakang Pekerjaan ......................................................................... 4 
+
+2.1.2.  Tinjauan Pustaka ....................................................................................... 5 
+
+2.1.3.  Metodologi ................................................................................................ 6 
+
+2.1.4.  Teknologi .................................................................................................. 6 
+
+2.1.5.  Non-Teknis................................................................................................ 8 
+
+2.2.  Analisis ............................................................................................................ 9 
+
+2.2.1.  Pelaksanaan Kerja Praktik ........................................................................ 9 
+
+2.2.2.  Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 12 
+
+BAB  3  PENUTUP...................................................................................................... 13 
+
+3.1.  Kesimpulan .................................................................................................... 13 
+
+3.2.  Saran .............................................................................................................. 13 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+v 
+
+DAFTAR REFERENSI .............................................................................................. 15 
+
+LAMPIRAN 1  KERANGKA ACUAN KERJA PRAKTIK  ..................................... 16 
+
+LAMPIRAN 2  LOG KERJA PRAKTIK ................................................................... 19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+vi 
+
+DAFTAR  LAMPIRAN 
+
+LAMPIRAN 1  KERANGKA ACUAN KERJA PRAKTIK  ..................................... 16 
+
+LAMPIRAN 2  LOG KERJA PRAKTIK ................................................................... 19 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+1 
+
+BAB 1  
+
+PENDAHULUAN 
+
+1.1.  Proses Pencarian  Kerja  Praktik 
+
+Proses  dimulai  ketika  penulis  mengikuti  mengikuti  seminar 
+
+job 
+
+fair  yang 
+
+diselenggarakan  oleh  Fasilkom  UI  pada  bulan  Januari  2016.  Penulis  mengikuti 
+
+beberapa seminar oleh beberapa perusahaan seperti  GDP  Labs dan PT. RUMA. Pada 
+
+sesi  seminar  PT.  RUMA  penulis  mendapat  kesempatan  untuk  mengikuti  onsite  test 
+
+untuk rekrutmen pegawai fulltime,  namun penulis belum  beruntung  untuk  mendapat 
+
+posisi  tersebut.  Satu  bulan  kemudian  penulis  belum  memikirkan  untuk  mencari 
+
+kembali  perusahaan  untuk  kerja praktik. 
+
+Sekitar  bulan  Maret  2016,  penulis  mulai  mencari  perusahaan  yang  membuka 
+
+lowongan  untuk internship pada bulan Juli  hingga Agustus 2016. Terdapat beberapa 
+
+perusahaan seperti  Bukalapak,  Tokopedia, GDP  Labs, Ruangguru dan  lain- lain. Pada 
+
+saat  ini  semua  perusahaan  mensyaratkan  curriculum  vitae,  namun  curriculum  vitae 
+
+penulis  belum  selesai  dibuat  sehingga  penulis  tidak  mengirimkan  lamaran  ke 
+
+perusahaan-perusahaan  tersebut. 
+
+Pada bulan April 2016 penulis  melihat  suatu aplikasi  lowongan  magang  yang dibuat 
+
+oleh  mahasiswa  Fasilkom  UI  yaitu  Quint.  Penulis  mencoba  membuka  platform 
+
+tersebut  dan  mencoba  menggunakannya.  Penulis  mengirimkan  lamaran  ke  semua 
+
+perusahaan  yang  membuka  lowongan  software engineer seperti Indivara Group, PT. 
+
+DMSUM,  Veritrans,  Happy  Fresh,  dan  lain- lain.  Namun,  penulis  tidak  berharap 
+
+banyak  karena  hanya  mencoba  mengirimkan  lamaran  dan  perusahaan  di  atas  bukan 
+
+perusahaan-perusahaan yang sangat penulis inginkan.  Penulis juga mendapatkan info 
+
+lowongan  dari  orang  tua  penulis  untuk  mencoba  mengirimkan  lamaran  ke  PT. 
+
+Achilles Advance System, sebuah perusahaan  multinasional  yang bergerak dibidang 
+
+IT, dan penulis  mencoba  mengirimkan  lamaran  ke perusahaan  tersebut.   
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+2 
+
+Sementara  mencari  perusahaan  lain,  pada  akhir  bulan  Mei  2016  penulis  mendapat 
+
+panggilan  melalui  telepon  dari  Indivara  Group  yang  menawarkan  wawancara  pada 
+
+akhir  bulan  Juni  2016  untuk  internship  di  PT.  DMSUM  (perusahaan  yang  bekerja 
+
+sama  dengan  Quint),  dan  penulis  menerima  tawaran  tersebut.  Beberapa  hari 
+
+kemudian penulis juga mendapat tawaran untuk wawancara pada bulan Juli 2016 dari 
+
+Happy  Fresh,  dan  penulis  juga  menerima  tawaran  tersebut.  Karena  mendapat 
+
+undangan  wawancara, penulis  merasa aman dan  tidak  lagi  mencari perusahaan  untuk 
+
+kerja praktik. 
+
+Pada bulan Juni 2016 akhir, penulis menghadiri undangan untuk wawancara di kantor 
+
+Indivara  Group  yang  berada  di  Pecenongan,  Jakarta  Pusat.  Di  sana,  penulis 
+
+diwawancara  oleh  seorang  HRD  dan  seorang  User  (yang  menggunakan  jasa 
+
+pegawai). Penulis diberi pertanyaan  mengenai proyek  yang penulis cantumkan pada 
+
+curriculum vitae. Penulis ditawari  untuk  mengerjakan proyek automated testing, dan 
+
+meskipun  bukan  minat  utama,  penulis  tetap  menerima  tawaran  tersebut  mengingat 
+
+sudah  mendekati  masa  libur  semester.  Pada  hari  itu  juga  penulis  menandatangani 
+
+kontrak  kerja  dengan  PT.  DMSUM  sebagai  software  engineer  dan  mengerjakan 
+
+proyek  automated  testing.  Karena  telah  menandatangani  kontrak  dengan  PT. 
+
+DMSUM,  penulis  tidak  menghadiri  undangan  wawancara  dengan  Happy  Fresh. 
+
+1.2.  Tempat  Kerja  Praktik 
+
+1.2.1.  Profil  Tempat  Kerja  Praktik 
+
+PT  Dinamika  Mitra  Sukses  Makmur  (DMSM  atau  DMSUM)  merupakan  anak 
+
+perusahaan  dari  Indivara  Group  yang  berfokus  pada  bisnis  digital  dan  e-
+
+commerce  untuk  diperkenalkan  kepada  pasar  yang  belum  tersentuh.  PT 
+
+DMSUM  memiliki 
+
+visi 
+
+untuk  memberdayakan  masyarakat  dengan 
+
+memanfaatkan  keuntungan  teknologi  untuk  pertumbuhan  dan  kesejahteraan 
+
+mereka  [1] [2].  
+
+PT.  DMSUM  memiliki  beberapa  produk  dalam  berbagai  platform  seperti 
+
+Android  dan  website.  Beberapa  contoh  produk  dari  PT.  DMS UM  adalah 
+
+ 
+
+Universitas  Indonesia 
+
+3 
+
+Mentimun,  Mentimun  Pay,  Mentimun  Ngobrol  dan  lain- lain.  E-commerce 
+
+mentimun  fokus  dalam  memenuhi  keinginan  masyarakat  kelas  menengah  ke 
+
+bawah  untuk  berbelanja  online  dengan  fitur  utama  yaitu  kredit  tanpa  perlu 
+
+memiliki  akun  bank 
+
+terlebih  dahulu.  Model  bisnis  dari  PT.  DMSUM 
+
+memungkinkan  integrasi  antara  pasar  offline  (menggunakan  agen)  dan  online 
+
+(menggunakan  aplikasi)  yang  dapat  memberikan  keuntungan  kepada  pebisnis.  
+
+Struktur perusahaan PT. DMSUM terdiri atas CEO, yang di bawahnya terdapat 
+
+CTO yang kurang  lebih  mengatur semua kegiatan perusahaan dan  membawahi 
+
+beberapa  divisi  seperti  Sales  and  Dealer  Acquisition,  Operational,  Technical, 
+
+dan Development. 
+
+1.2.2.  Posisi  Penempatan  Pelaksana  Kerja  Praktik  dalam  Struktur 
+
+Organisasi 
+
+Penulis berkesempatan  untuk  menempati posisi software engineer  yang berada 
+
+pada  divisi  Development  di  PT.  DMSUM.  Di  dalam  perusahaan,  penulis 
+
+bertanggung 
+
+jawab  kepada  seorang  penyelia  yang  merupakan  Head  of 
+
+Development  dari  PT.  DMSUM.  Dalam  mengerjakan  proyek  yang  diberikan  
+
+pada  masa  kerja  praktik,  penulis  didampingi  oleh  seorang  pegawai  magang 
+
+yang  juga  merupakan  mahasiswa  Fasilkom  UI.  Selain  itu,  juga  terdapat  dua 
+
+pegawai  magang  yang  juga  merupakan  mahasiswa  Fasilkom  UI  yang  masing-
+
+masing  ditempatkan  sebagai  web developer serta  business development 
+
+ 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+BAB 2  
+
+ISI 
+
+2.1.  Pekerjaan  dalam  Kerja  Praktik 
+
+2.1.1.  Latar  Belakang Pekerjaan 
+
+PT.  DMSUM  memecahkan  masalah  masyarakat  menengah  ke  bawah  yang 
+
+belum  tersentuh  teknologi  e-commerce  untuk  mencicipi  teknologi  tersebut. 
+
+Dalam  hal  ini PT.  DMSUM  menciptakan Mentimun sebagai  marketplace yang 
+
+mempertemukan  penjual  yang  ditargetkan  berasal  dari  daerah-daerah  yang 
+
+belum  terlalu  tersentuh  teknologi  dengan  pembeli  dari  kalangan  menengah  ke 
+
+bawah yang memerlukan pembayaran sistem kredit namun tidak memiliki kartu 
+
+kredit. 
+
+Aplikasi  Mentimun  dibagi  menjadi  dua  platform  yaitu  Android  dan  website. 
+
+Dalam  suatu  metodologi  pengembangan  perangkat  lunak  terdapat  fase  testing 
+
+yang  berguna  untuk  memastikan  seluruh  aspek  baik  fungsionalitas  atau  pun  
+
+tampilan  berjalan  dengan  baik.  Pada  saat  penulis  mengirimkan  lamaran,  fase 
+
+testing pada metodologi pengembangan perangkat  lunak  yang digunakan  untuk 
+
+produk Mentimun  masih bersifat manual  menggunakan  regression testing.  Hal 
+
+ini  memakan  waktu  yang  cukup  lama  karena  dalam  regression  testing  perlu 
+
+dilakukan  test  produk  yang  dikembangkan  pada  versi  sebelumnya  ketika 
+
+terdapat  versi  baru dari  produk tersebut.   
+
+PT.  DMSUM  membutuhkan  suatu  cara  untuk  mempersingkat  waktu  yang 
+
+dibutuhkan  untuk  fase  testing.  Untuk  itu,  dalam  kerja  praktik  kali  ini  penulis 
+
+diminta  untuk  membuat  suatu  testing  yang  terotomatisasi  pada  website 
+
+Mentimun  (http://mentimun.co.id).  Testing  yang  terotomatisasi  diharapkan 
+
+dapat  membuat  fase  testing  pada  pengembangan  aplikasi  Mentimun  tidak  lagi 
+
+membutuhkan  waktu  yang  lama  dan menguras  tenaga. 
+
+ 
+
+Universitas  Indonesia 
+
+5 
+
+2.1.2.  Tinjauan  Pustaka 
+
+1.  Software Testing 
+
+Dalam suatu pengembang perangkat  lunak perlu dievaluasi bahwa  yang 
+
+dikembangkan  memenuhi  requirement  yang  telah  ditentukan.  Proses 
+
+evaluasi  ini  dinamakan  Software  Testing  yang  terbagi  menjadi  dua 
+
+proses  yaitu  Software  Validation  dan  Software  Verification  [3].  Untuk 
+
+pengembangan  proyek  testing  pada  masa  kerja  praktik,  penulis  perlu 
+
+memahami  bentuk  dari  test  yang  baik  terhadap  suatu  perangkat  lunak, 
+
+yang  dalam  hal  ini  berada pada platform  website. 
+
+2.  Behavior-driven Development 
+
+BDD  merupakan  metode  pengembangan  perangkat 
+
+lunak  yang 
+
+dikembangan  dari  TDD  (Test-driven  Development).  BDD  mengacu 
+
+pengembangan  aplikasi  yang  spesifik  terhadap  deskripsi  bagaimana 
+
+tingkah  laku  (behavior)  yang  muncul  dari  aplikasi  tersebut  kepada 
+
+pengguna.  Penulis  perlu  memahami  BDD  untuk  mempermudah 
+
+pembuatan  testing  yang  terotomatisasi  karena  berfokus  kepada  3  tahap 
+
+yaitu  Given,  When,  Then. 
+
+3.  Automated Testing 
+
+Proses  testing  terbagi  menjadi  2  jenis  yaitu  manual  dan  automated. 
+
+Dalam  automated  testing,  proses  dilakukan  oleh  komputer  untuk 
+
+skenario  yang telah ditentukan dalam proses pembuatan sehingga  hanya 
+
+perlu  menunggu  hasil  dari  testing  yang  dijalankan  terhadap  suatu 
+
+aplikasi. Saat pembuatan automated testing perlu pertimbangan skenario 
+
+yang  perlu  dimasukkan  ke  dalam  test  agar  tetap  bersifat  robust  dan 
+
+reliable. 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+ 
+
+6 
+
+2.1.3.  Metodologi 
+
+Divisi  Development  pada  PT.  DMSUM  menggunakan  metode  semi  Scrum 
+
+dalam  pengembangan  perangkat  lunak.  Dikatakan  semi  karena  aturan-aturan 
+
+seperti daily scrum meeting tidak benar-benar dilakukan secara teratur.  Meeting 
+
+dilakukan  ketika  ada  keperluan  pembahasan  khusus,  selebihnya  progres 
+
+perorangan  dipantau  oleh  supervisor  masing- masing  proyek.  Pada  masa  kerja 
+
+praktik,  penulis  tidak  diminta  untuk  menggunakan  metodologi  pengembangan 
+
+perangkat  lunak apapun. Penulis juga  tidak bekerja dengan pegawai  fulltime di 
+
+PT.  DMSUM  karena  proyek  yang  penulis  buat  merupakan  hal  bar u  yang 
+
+sifatnya  independen.  Meski  tidak  menggunakan  metodologi  apapun,  pada  tiap 
+
+awal bulan  telah ditetapkan target  yang  ingin dicapai dan  tiap  harinya terdapat 
+
+laporan  progres  secara  verbal  terhadap  penyelia.  Selain  itu,  pada  pertengahan 
+
+masa  kerja  praktik 
+
+(awal  Agustus  2016)  penulis  diminta  untuk 
+
+mempresentasikan hasil dari proyek automated testing yang telah dibuat kepada 
+
+penyelia. 
+
+2.1.4.  Teknologi 
+
+Untuk  menunjang  pengerjaan  proyek  yang  diberikan  kepada  penulis,  terdapat 
+
+beberapa teknologi  yang  digunakan  seperti: 
+
+  Eclipse 
+
+Eclipse  merupakan  suatu  Integrated  Development  Environtment  yang 
+
+penulis  gunakan  untuk  menulis program  terkait proyek  yang dikerjakan. 
+
+Penulis  menggunakan  Eclipse  karena  merupakan  IDE  yang  paling 
+
+bersahabat  dengan  bahasa  pemrograman  Java,  dan  juga  penulis  telah 
+
+familiar menggunakan  Eclipse  semenjak  awal  berkuliah  di Fasilkom  UI. 
+
+  Mozilla  Firefox 
+
+Dalam  pembuatan  automated  testing  terhadap  website  Mentimun 
+
+diperlukan  web  browser  untuk  menyimulasikan  test  tersebut.  Mozilla 
+
+Firefox  penulis  gunakan  karena  merupakan  default  web  browser  yang 
+
+digunakan  oleh  perkakas untuk  membuat  automated testing. 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+7 
+
+  Selenium 
+
+Selenium  merupakan tools  untuk  mengotomatisasi test. Pada Selenium, 
+
+terdapat  beberapa  tools  yang  memiliki  fungsi  yang  berbeda  seperti 
+
+Selenium  IDE  dan  Selenium  WebDriver.  Selenium  IDE  merupakan 
+
+tools  untuk  otomatisasi  test  yang  berupa  add-on  pada  browser  Mozilla 
+
+Firefox.  Selenium  IDE  memiliki  user  interface  yang  memudahkan 
+
+pembuatan  automated  testing  jika  tidak  memiliki  pengalaman  menulis 
+
+program atau script [4]. Selenium IDE juga  memiliki  fitur  record  yang 
+
+memungkinkan  untuk  merekam  aktivitas  yang  dilakukan  pada  web 
+
+browser  dan  kemudian  rekaman  tersebut  di-export  menjadi  script 
+
+dengan  beberapa  pilihan  bahasa  pemrograman  untuk  digunakan  lebih 
+
+lanjut.  Selain  itu,  terdapat  Selenium  WebDriver,  suatu  Application 
+
+Programming  Interface  untuk  membuat  automated  testing  yang  dapat 
+
+digunakan  pada  berbagai  macam  browser  [5].  Selenium  WebDriver 
+
+tersedia  dalam  berbagai  macam  bahasa  pemrograman  seperti  Java, 
+
+Python, 
+
+.Net,  PHP,  Perl,  dan  Ruby.  Karena  pembuatan 
+
+test 
+
+menggunakan  script  maka 
+
+juga  dilakukan  hal-hal  yang 
+
+terkait 
+
+pemrograman  seperti  conditional  operation  (if- then-else)  dan  juga 
+
+looping (do-while). 
+
+  Bitbucket 
+
+Bitbucket  merupakan  version  control  repository  yang  memungkinkan 
+
+pelacakan  perubahan  dari  kode  yang  dibuat.  Bitbucket  mendukung  dua 
+
+version  control  system  yaitu  Mercurial  dan  Git.  Dalam  pelaksanaan 
+
+kerja  praktik,  penulis  bekerja  sama  dengan  seorang  rekan  pegawai 
+
+magang,  dan  untuk  menjaga  agar  kode  yang  dibuat 
+
+terdeteksi 
+
+perubahannya diperlukan penggunaan  version control.  Bitbucket dipilih 
+
+karena  penyelia  dari  penulis  menginginkan  repository  yang  sifatnya 
+
+private  dan  tidak  memerlukan  biaya  untuk  hal  tersebut.  Jenis  version 
+
+control system yang  digunakan  adalah  Git. 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+8 
+
+  Jenkins 
+
+Agar  automated  testing  yang  telah  dibuat  dapat  dirasakan  dampaknya 
+
+dibutuhkan  suatu  continous  integration  tools  yang  memungkinkan 
+
+dilakukannya  suatu  pekerjaan  ketika  terdapat  build  baru  untuk  suatu 
+
+program/aplikasi. Jenkins digunakan sebagai  continous integration tools 
+
+dalam pelaksanaan kerja praktik agar pada setiap build baru dari aplikasi 
+
+dilakukan  testing yang  terotomatisasi  terhadap  aplikasi  tersebut. 
+
+  Apache  JMeter 
+
+Apache JMeter  merupakan  suatu tools  untuk  melakukan stress test/load 
+
+test  terhadap  suatu  web  application.  Load  testing  berfungsi  untuk 
+
+melihat  seberapa kuat suatu web service  melayani beberapa  user dalam 
+
+jangka  waktu 
+
+tertentu.  Apache  JMeter  penulis  gunakan  untuk 
+
+melakukan  load test terhadap API  yang sedang dibuat oleh partner dari 
+
+PT. DMSUM. 
+
+  Apache  Spark 
+
+Apache Spark  merupakan data  processing  engine  yang  memungkinkan 
+
+untuk  melakukan  streaming,  maching  learning,  dan  lain- lain  yang 
+
+memerlukan  akses  yang  cepat  secara  berkala.  Apache  Spark  memiliki 
+
+tools  yang  bernama  Spark  Streaming  untuk  melakukan  streaming  data 
+
+dan  memprosesnya  secara  langsung.  Spark  Streaming  berfungsi  untuk 
+
+membuat  real time analytic terhadap  suatu  data yang  terus  berjalan. 
+
+2.1.5.  Non-Teknis 
+
+Dalam  pelaksanaan  kerja  praktik,  selain  pengetahuan  teknis  baru,  penulis  juga 
+
+mendapat  pengetahuan  non-teknis  dari  orang-orang  yang  berada  di  PT. 
+
+DMSUM.  Penulis  mendapat  kesempatan  untuk  berbincang-bincang  dengan 
+
+Chief Technology PT.  DMSUM  mengenai perjalanan karirnya dan  juga  hal- hal 
+
+yang  perlu  dipikirkan  ketika  mulai  memasuki  dunia  profesi.  Penulis  juga 
+
+dijelaskan  bahwa  tidak  ada  suatu  kedudukan  yang  tinggi  diperoleh  dari  usaha 
+
+yang  kecil.  Diperlukan  juga  pengetahua n  mengenai  hal  yang  dapat  dikerjakan 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+ 
+
+9 
+
+dengan  baik  dan 
+
+tidak  menjadi  beban  agar  suatu 
+
+individu  dapat 
+
+mengembangkan  keahlian  serta  mau  menjelajahi  lebih  jauh  mengenai  hal 
+
+tersebut. Selain itu, penulis juga mendapat cerita mengenai kehidupan di Kantor  
+
+PT. DMSUM dari  penyelia. 
+
+2.2.  Analisis 
+
+2.2.1.  Pelaksanaan Kerja  Praktik 
+
+Kontrak  kerja  dengan  PT.  DMSUM  yang  ditandatangani  oleh  penulis  adalah 
+
+selama  tiga bulan  yaitu  mulai  tanggal 13 Juni 2016  hingga 13 September 2016. 
+
+Namun pada realisasinya, pelaksanaan kerja  hanya berlangsung selama kurang 
+
+lebih 10 minggu dikarenakan telah memasuki masa perkuliahan semester ganjil.  
+
+Pada  hari  pertama  kedatangan  di  kantor  PT.  DMSUM,  penulis  diperkenalkan 
+
+kepada  seluruh  jajaran  karyawan  di  PT.  DMSUM  dan  juga  Indivara  Group. 
+
+Kemudian  penulis  diberi  penjelasan  mengenai  proyek  automated  testing  dan 
+
+ditugaskan untuk mempelajari dan mencoba tools yang digunakan untuk proyek 
+
+yaitu Selenium. Minggu pertama penulis bekerja di PT.  DMSUM diisi dengan 
+
+diskusi dan pembuatan Kerangka Acuan Kerja Praktik  yang sekaligus  menjadi 
+
+acuan  timeline  pengerjaan  proyek  automated  testing.  Dalam  diskusi  tersebut 
+
+dibahas  mengenai skenario  yang dapat dilakukan  test secara otomatis. Dan juga 
+
+pada minggu pertama, penulis mulai mencoba untuk melakukan test automation 
+
+menggunakan  Selenium  IDE  terhadap  staging website dari  Mentimun. 
+
+Minggu- minggu  selanjutnya  diisi  dengan  pembuatan 
+
+test  menggunakan 
+
+Selenium  WebDriver.  Penulis  menggunakan  bahasa  pemrograman  Java  dan 
+
+menggunakan browser Mozilla Firefox. Selama pembuatan  test, penulis sedikit 
+
+kebingungan  mengenai  hal  yang  perlu  di-test  secara  otomatis  karena  jika  test 
+
+yang dibuat  tidak sesuai  maka proses testing tetap  memakan  waktu  yang  lama 
+
+dan tidak reliable. Untuk  itu penulis  mulai  mencari  tahu  mengenai  hal- hal  yang 
+
+perlu diotomatisasi dan  yang tidak dalam suatu aplikasi  e-commerce. Akhirnya 
+
+penulis  membuat  test  mengacu  pada  panduan  yang  diberikan  oleh  website 
+
+ 
+
+Universitas  Indonesia 
+
+10 
+
+Testing  Excellence 
+
+(http://www.testingexcellence.com/testing-e-commerce-
+
+websites/).  Selain  itu  penulis  juga  perlu  memahami  skenario-skenario  dan 
+
+elemen-elemen  yang  terdapat  pada  website  Mentimun  agar  test  yang  dibuat 
+
+sesuai  dengan  website tersebut.    
+
+Teknis  pembuatan  test  dilakukan  dengan  membagi  skenario-skenario  kepada 
+
+penulis  dan  rekan  kerja  penulis.  Penulis  mendapat  bagian  untuk  membuat  test 
+
+pada  skenario  yang  terdapat  di  halaman  utama,  halaman  login,  halaman  cart 
+
+dan  halaman konfirmasi pembelian dan  untuk  halaman  lain, penulis  melakukan 
+
+review  terhadap  test  yang  dibuat  oleh  rekan  kerja  penulis.  Test  dibuat 
+
+berdasarkan prinsip Page Object Model (POM)  yang  memisahkan berkas  yang 
+
+elemen-elemen dan skenario yang dilakukan dari  suatu  webpage dengan berkas 
+
+test-nya. Penggunaan POM ditujukan agar kode  yang ditulis  lebih  modular.  Di 
+
+saat  pembuatan  test,  penulis  juga  diminta  oleh  penyelia  untuk  me mpelajari 
+
+Behavior-driven  Development  agar  mempermudah  membuat  test.  Setelah 
+
+dipelajari  terdapat  tools  untuk  membuat  test  sesuai  dengan  prinsip  BDD  yaitu 
+
+Cucumber.  Penulis  dan  rekan  akhirnya  memutuskan  untuk  menggunakan 
+
+Cucumber dan mencoba membuat test menggunakan tools tersebut. Penulis dan 
+
+rekan membuat test dengan mengintegrasikan Cucumber dan Selenium. Namun, 
+
+beberapa  hari  kemudian  penulis  menemukan  suatu  tulisan  bahwa  integrasi 
+
+Cucumber  dan  Selenium  bukanlah  hal  yang  baik  karena  bertentangan  prinsip 
+
+satu sama lain. Untuk itu, selanjutnya penulis dan rekan membuat test tidak lagi 
+
+menggunakan  Cucumber  dan hanya  menggunakan  Selenium. 
+
+Pada  awal  bulan  Agustus  2016,  penulis  dan  rekan  berkesempatan  untuk 
+
+mempresentasikan  proyek  automated  testing  yang  dibuat  kepada  penyelia. 
+
+Proyek  automated  testing  sudah  sekitar  90%  selesai.  Pada  saat  presentasi 
+
+penyelia cukup puas  mengenai test  yang dibuat  namun sedikit kaget  mengenai 
+
+waktu  yang  diperlukan  untuk  menjalankan  skenario  terhadap  suatu  halaman 
+
+karena menggunakan sekitar empat hingga lima menit dan terbilang cukup lama 
+
+untuk  test  skenario  pada  suatu  halaman.  Untuk  itu  proyek  automated  testing 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+11 
+
+diakhiri pada  minggu  tersebut dengan  melengkapi penggunaan Jenkins  sebagai 
+
+continous  integration  agar  dampak  pembuatan  automated  testing  dapat  lebih 
+
+dirasakan  dan  jika  telah  selesai  dilanjutkan  dengan  proyek  lain  yaitu  load 
+
+testing.  Pengintegrasian  Jenkins  dengan  test  yang  telah  dibuat  perlu  beberapa 
+
+hal  yang perlu diperhatikan seperti penggunaan  driver browser  untuk simulasi. 
+
+Automated  User  Interface  Testing  pada  Jenkins  hanya  dapat  dilakukan  pada 
+
+Headless  Browser  (web  browser  tanpa  tampilan  fisik),  untuk  itu  penggunaan 
+
+Mozilla Firefox diubah  menjadi Phantom JS. Dalam  implementasinya ternyata 
+
+testing  yang  dibuat  menemui  banyak  error  karena  Phantom  JS  tidak  dapat 
+
+membaca  elemen  yang  muncul  akibat  berjalannya  suatu  Javascript.  Maka  dari 
+
+itu,  proyek automated testing disudahi  dan dilanjutkan  ke proyek  load testing. 
+
+Load testing dilakukan terhadap API  yang dibuat NRI  yang  merupakan  partner 
+
+dari PT. DMSUM. Proses pengerjaan  load testing dapat dikatakan cukup cepat 
+
+dan  mudah karena  hanya perlu  menggunakan tools Apache JMeter  yang cukup 
+
+mudah  untuk  digunakan  karena  memiliki  user  interface  yang  sangat  user 
+
+friendly.  Setelah  load  test  telah  dilakukan  terhadap  API  yang  diberikan  dan 
+
+laporan  hasil  load test telah diserahkan kepada penyelia, penulis diminta  untuk 
+
+mengerjakan  satu  proyek  lagi  karena  waktu  kerja  masih  tersisa  sekitar  satu 
+
+setengah  minggu.  Proyek 
+
+tersebut  adalah  real-time  streaming  analysis 
+
+menggunakan  Apache  Spark  Streaming.  Selama  dua  minggu  tersebut  penulis 
+
+mempelajari  cara  kerja  Spark  Streaming  dan  juga  mencoba  membuat  program 
+
+untuk real time analysis tersebut. Namun, karena merupakan hal yang baru bagi 
+
+penulis, dibutuhkan  waktu  yang cukup  lama  untuk  memahami  cara kerja  tools 
+
+tersebut  karena  diperlukan  penulisan  program  menggunakan  bahasa 
+
+pemrograman  Scala  atau  Python  yang  penulis  sama  sekali  tidak  familiar. 
+
+Karena  hal  tersebut,  proyek  real-time  analysis  tidak  berhasil  diselesaikan 
+
+karena  masa  kerja telah  berakhir. 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+ 
+
+12 
+
+2.2.2.  Relevansi dengan  Perkuliahan  di Fasilkom  UI 
+
+Selama  menjalani  kerja  praktik,  ternyata  pengetahuan-pengetahuan  yang 
+
+sebelumnya telah dipelajari di Fasilkom UI ternyata sangat berguna. Banyak hal 
+
+yang  mungkin  akan  sulit  untuk  penulis  kerjakan  jika  tidak  terlebih  dahulu 
+
+mempelajari  hal  tersebut  di  Fasilkom  UI.  Beberapa  mata  kuliah  yang  berguna 
+
+sebagai  pengetahuan  penulis  dalam  menjalankan  kerja praktik  adalah: 
+
+  Struktur  Data dan  Algoritma 
+
+Dalam  membuat  test  yang  menggunakan  prinsip  Page  Object  Model 
+
+ternyata 
+
+dibutuhkan 
+
+pemahaman  mengenai  Object  Oriented 
+
+Programming  dan  struktur  data.  OOP  diperlukan  karena  dalam  POM 
+
+dipisahkan antara  halaman  yang di-test dengan test itu sendiri. Halaman 
+
+yang  di-test  dianggap  sebagai  suatu  objek  dengan  berbagai  macam 
+
+instance, constructor dan method. Selain  itu, dalam  memproses elemen-
+
+elemen  yang terdapat pada suatu  halaman diperlukan suatu struktur data 
+
+yang  sesuai  agar  proses eksekusi  skenario  berjalan  dengan  optimal. 
+
+  Perancangan  dan  Pemrograman  Web 
+
+Hal  yang  esensial  dalam  pembuatan  automated  user  interface  testing 
+
+pada  website  adalah  elemen-elemen  dari  website  itu  sendiri.  Perlu 
+
+pemahaman  yang  baik  mengenai  HTML,  CSS,  dan  Javascript  ketika 
+
+membuat  test yang  terkait  dengan  elemen-elemen  suatu  website.  
+
+  Proyek Perangkat  Lunak 
+
+Mendapat  mata  kuliah  PPL  membuat  penulis  mengenal  istilah  testing 
+
+dan  implementasinya. Walaupun hanya satu atau dua kali  membuat  test, 
+
+setidaknya  penulis  mendapat  gambaran  mengenai  prinsip  test  dan 
+
+bagaimana  seharusnya  suatu  test  dibuat.  Beberapa  hal  yang  berguna 
+
+dalam  pengerjaan  proyek  kerja  praktik  seperti  unit  testing  serta 
+
+verification and validation didapat  ketika  menjalani  kuliah  PPL. 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+BAB 3  
+
+PENUTUP 
+
+3.1.  Kesimpulan 
+
+Selama kerja praktik penulis  mendapat banyak pengetahuan dan pembelajaran terkait 
+
+dunia  profesi.  Penulis  berkesempatan  untuk  mengerjakan  proyek  automated  testing 
+
+menggunakan 
+
+Selenium 
+
+WebDriver 
+
+untuk 
+
+website 
+
+Mentimun 
+
+(https://mentimun.co.id).  Karena  proyek  selesai  lebih  cepat,  penulis  juga  mendapat 
+
+kesempatan  untuk  melakukan 
+
+load 
+
+testing  untuk  API  Mentimun  dan 
+
+juga 
+
+mengerjakan proyek real time analysis. Penulis mendapat banyak pengetahuan teknis 
+
+dan  non-teknis karena bekerja di PT. DMSUM  yang dapat diimplementasikan dalam 
+
+kehidupan  sehari- hari  baik  dalam  kuliah,  pengembangan  diri,  dan  bersosialisasi. 
+
+Cerita  perjalanan  karir  dari  CTO  PT.  DMSUM  sangat  menginspirasi  penulis  dalam 
+
+menentukan  hal  yang  ingin  penulis  jalani  ketika  memasuki  dunia  profesi.  Beberapa 
+
+hal  yang  sangat  penulis  ingat  untuk  dilakukan  ketika  berada  dalam  dunia  profesi 
+
+adalah jangan malu bertanya, miliki rasa ingin tahu yang besar, dan tetap rendah diri. 
+
+Penulis  sadar  bahwa  banyak  hal  yang  perlu  dibenahi  d ari  diri  penulis  agar  dapat 
+
+mencapai  hasil  yang  optimal  ketika  memasuki  dunia  profesi. 
+
+3.2.  Saran 
+
+Untuk tempat kerja praktik penulis, yaitu PT. DMSUM, perlu dilakukan pembenahan 
+
+dalam  program  internship- nya  dengan  pelibatan  langsung  para  peserta  internship 
+
+terhadap proyek  yang sedang dikerjakan oleh karyawan, atau sedemikian rupa dibuat 
+
+interaksi  antara  peserta  internship  dan  karyawan  mengenai  pekerjaan  agar  peserta 
+
+internship  merasakan  bekerja  sama  dengan  karyawan  di  suatu  perusahaan. 
+
+Selebihnya  program  internship  yang  dibuat  oleh  PT.  DMSUM  sudah  sangat  baik 
+
+karena  mendorong  pesertanya  untuk  selalu  ingin  tahu  dan  melatih  kemampuan 
+
+memecahkan  masalah.  Dalam  penyelenggaraan  mata  kuliah  kerja  praktik  sendiri, 
+
+diperlukan  persiapan  yang 
+
+lebih  matang  se-awal  mungkin  agar  tidak  terjadi 
+
+ketidakjelasan  mengenai alur kuliah kerja praktik dan  juga dokumen-dokumen  yang 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+14 
+
+perlu  dipersiapkan  oleh  peserta  mata  kuliah.  Perlu  ditingkatkan  juga  integrasi  antar 
+
+dosen  yang  mengampu  tiap-tiap  kelas  pada  mata  kuliah  kerja  praktik  supaya 
+
+kompetensi  yang  harus  diperoleh  oleh  tiap-tiap  peserta  mata  kuliah  tidak  berbeda-
+
+beda. 
+
+ 
+
+ 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+15 
+
+DAFTAR  REFERENSI 
+
+[1]  “DMSUM,”  [Online].  Available:  http://www.dmsum.com/.  [Diakses  14 Juni  2016]. 
+
+[2]  “PT  Dinamika  Mitra  Sukses  Makmur  -  INDIVARA,”  [Online].  Available: 
+
+http://www.indivaragroup.com/index.php/pt-dinamika- mitra-sukses-makmur-online-
+
+shop/.  [Diakses  14 Juni  2016]. 
+
+[3]  Tutorials 
+
+Point, 
+
+“Software 
+
+Testing  Overview,” 
+
+[Online].  Available: 
+
+https://www.tutorialspoint.com/software_engineering/software_testing_overview.htm
+
+. [Diakses  29 November  2016]. 
+
+[4]  Selenium  HQ,  “Introduction  -  Selenium  Documentation,”  [Online].  Available: 
+
+http://docs.seleniumhq.org/docs/01_introducing_selenium.jsp.  [Diakses 29 November 
+
+2016]. 
+
+[5]  Guru  99,  “Introduction  to  WebDriver  &  Comparison  with  Selenium  RC,”  [Online]. 
+
+Available: 
+
+http://www.guru99.com/introduction-webdriver-comparison-selenium-
+
+rc.html.  [Diakses  29 November  2016]. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAMPIRAN 1  
+
+KERANGKA  ACUAN  KERJA PRAKTIK 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LAMPIRAN 2  
+
+LOG  KERJA PRAKTIK 
+
+Universitas  Indonesia 
+
+ 
+
+ 
+
+vii 
+
+ 
+
+Universitas  Indonesia 
+
+

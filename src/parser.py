@@ -71,40 +71,53 @@ def extract_xml(argv):
 
 			
 			if line is not " ":
-				# if line[-1] is " ":
-				# 	lines.append(line[0:-1]);
-				# else:
-				# 	lines.append(line)
 				lines.append(line)
 		
 		
-		par = ""
-		flag_par = 0
+		segment = ""
+		flag_seg = 1
 		
 		for item in lines:
-			
 			if not item.isspace():
-				if re.match('[<>a-zA-Z]+\.{0,1}', item) is not None:
-					if flag_par == 0:
-						par = par + "\n\t\t<par>\n\t\t\t" + item
-						flag_par = 1	
+				trim = re.sub('<bo>|</bo>|<it>|</it>', '', item)
+
+				if re.match('[0-9]+\.+[0-9]+\.+[0-9]*\.*\s+', trim) is not None or (trim.isupper() and "." not in trim) :
+					if flag_seg == 0:
+						segment = segment + "\n\t\t</segment>" + "\n\t\t<title>" + item + "</title>"
+						flag_seg = 1
 					else:
-						par = par + item
+						segment = segment + "\n\t\t<title>" + item + "</title>"
+						flag_seg = 1
+				elif "Universitas Indonesia" in trim:
+					
+					if flag_seg == 0:
+						segment = segment + "\n\t\t</segment>" + "\n\t\t<footer>" + item + "</footer>"
+						flag_seg = 1
+					else:
+						segment = segment + "\n\t\t<footer>" + item + "</footer>"
+						flag_seg = 1
+				
+				elif (trim.strip().isdigit() and len(trim.strip()) <= 4) or (re.match(r'\b[vix]+\b(?![,])', trim) is not None and len(trim.strip()) <= 4):
+					if flag_seg == 0:
+						segment = segment + "\n\t\t</segment>" + "\n\t\t<pagenum>" + item + "</pagenum>"
+						flag_seg = 1
+					else:
+						segment = segment + "\n\t\t<pagenum>" + item + "</pagenum>"
+						flag_seg = 1
 				else:
-					if flag_par == 1:
-						flag_par = 0
-						par = par + "\n\t\t</par>\n\t\t" + item
+					if flag_seg == 1:
+						segment = segment + "\n\t\t<segment>\n\t\t\t" + item
+						flag_seg = 0
 					else:
-						par = par + item
-			else:
-				par = par + item
+						segment = segment + item
 		
 
-		page_tag = '\t<page id=\"'+ p.attrib['id']+'\">\n\t\t'
-		if flag_par == 1:
-			temp = temp + page_tag + par + "\n\t\t</par>" + '\n\t</page>\n'
+		page_tag = '\t<page id=\"'+ p.attrib['id']+'\">'
+		
+		if flag_seg == 0:
+			temp = temp + page_tag + segment + "\n\t\t</segment>" + '\n\t</page>\n'
 		else:
-			temp = temp + page_tag + par + '\n\t</page>\n'
+			temp = temp + page_tag + segment + '\n\t</page>\n'
 
 	temp = temp + "\n</document>"
 	temp = temp.encode("utf-8")
