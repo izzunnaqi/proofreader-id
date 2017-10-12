@@ -75,7 +75,7 @@ def extract_xml(argv):
 		
 		
 		segment = ""
-		flag_seg = 1
+		flag_seg = 1 
 		
 		for item in lines:
 			if not item.isspace():
