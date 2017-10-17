@@ -130,9 +130,6 @@ def main():
 						
 						print str(entity)
 
-
-						
-				
 				temp.append(line)
 	
 		

@@ -16,7 +16,7 @@ def extract_xml(argv):
 	tree = et.parse(in_file)
 	pages = tree.getroot()
 	allpage = pages.findall("page")
-	
+
 
 	temp = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<document>\n"
 	
@@ -83,26 +83,26 @@ def extract_xml(argv):
 
 				if re.match('[0-9]+\.+[0-9]+\.+[0-9]*\.*\s+', trim) is not None or (trim.isupper() and "." not in trim) :
 					if flag_seg == 0:
-						segment = segment + "\n\t\t</segment>" + "\n\t\t<title>" + item + "</title>"
+						segment = segment + "\n\t\t</segment>" + "\n\t\t<title>" + item[:-1] + "</title>"
 						flag_seg = 1
 					else:
-						segment = segment + "\n\t\t<title>" + item + "</title>"
+						segment = segment + "\n\t\t<title>" + item[:-1] + "</title>"
 						flag_seg = 1
-				elif "Universitas Indonesia" in trim:
+				elif "<bo>Universitas</bo> <bo>Indonesia</bo>" in item:
 					
 					if flag_seg == 0:
-						segment = segment + "\n\t\t</segment>" + "\n\t\t<footer>" + item + "</footer>"
+						segment = segment + "\n\t\t</segment>" + "\n\t\t<footer>" + item[:-1] + "</footer>"
 						flag_seg = 1
 					else:
-						segment = segment + "\n\t\t<footer>" + item + "</footer>"
+						segment = segment + "\n\t\t<footer>" + item[:-1] + "</footer>"
 						flag_seg = 1
 				
 				elif (trim.strip().isdigit() and len(trim.strip()) <= 4) or (re.match(r'\b[vix]+\b(?![,])', trim) is not None and len(trim.strip()) <= 4):
 					if flag_seg == 0:
-						segment = segment + "\n\t\t</segment>" + "\n\t\t<pagenum>" + item + "</pagenum>"
+						segment = segment + "\n\t\t</segment>" + "\n\t\t<pagenum>" + item[:-1] + "</pagenum>"
 						flag_seg = 1
 					else:
-						segment = segment + "\n\t\t<pagenum>" + item + "</pagenum>"
+						segment = segment + "\n\t\t<pagenum>" + item[:-1] + "</pagenum>"
 						flag_seg = 1
 				else:
 					if flag_seg == 1:
