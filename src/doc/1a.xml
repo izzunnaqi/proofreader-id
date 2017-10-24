@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>Revention</bo> <bo>Product</bo> <bo>Development</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>Aditya</bo> <bo>Rama</bo> <bo>1306397854</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<segment>
+			<bo>PROGRAM</bo> <bo>STUDI</bo> <bo>Ilmu</bo> <bo>Komputer</bo> 
+		</segment>
+		<title><bo>DEPOK</bo></title>
+		<segment>
+			<bo>Oktober</bo> <bo>2016</bo> 
+		</segment>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title>I</title>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Aditya Rama : 1306397854 : : Retention Product Development Ilmu Komputer <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<title>II</title>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja praktik (KP) merupakan salah satu mata kuliah wajib Fasilkom UI di mana peserta akan mencoba dunia kerja dengan magang pada perusahaan dengan fokus kerja yang diperbolehkan oleh fakultas. Pelaksana kerja praktik yang selanjutnya disebut penulis, melaksanakan KP di PT. Bukalapak.com sebagai <it>software</it> <it>engineer</it> <it>intern</it> pada tim Revention dari tanggal 13 Juni –  26  Agustus  2016.  Pada  divisi  tersebut,  penulis mengerjakan fitur-fitur yang bertujuan untuk mempertahakan <it>user</it> agar tetap berbelanja di Bukalapak. Ilmu-ilmu maupun teknologi yang digunakan pada saat pengembangan <it>software</it> merupakan ilmu baru dan berkesinambungan dengan mata kuliah yang pernah dipelajari di Fasilkom. Selama masa kerja praktik tersebut, banyak pembelajaran yang didapat dari sisi <it>hard</it> <it>skill</it> maupun <it>soft</it> <it>skill.</it> Kata kunci: Bukalapak, kerja praktik, Ruby on Rails, <it>web.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<title>III</title>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... I ABSTRAK ................................................................................................................... II DAFTAR ISI ............................................................................................................... III DAFTAR GAMBAR ................................................................................................... V DAFTAR TABEL ........................................................................................................ V DAFTAR LAMPIRAN ............................................................................................... VI BAB 1 PENDAHULUAN ............................................................................................ 1 1.1.Proses Pencarian Kerja Praktik ........................................................................... 1 1.2.Tempat Kerja Praktik .......................................................................................... 2 1.2.1.Profil Tempat Kerja Praktik ......................................................................... 2 1.2.2.Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi ..... 2 BAB 2 ISI ..................................................................................................................... 5 2.1.Pekerjaan dalam Kerja Praktik ............................................................................ 5 2.1.1.Latar Belakang Pekerjaan ............................................................................ 5 2.1.2.Tinjauan Pustaka .......................................................................................... 5 2.1.3.Metodologi ................................................................................................... 6 2.1.4.Teknologi ..................................................................................................... 7 2.2.Analisis ............................................................................................................. 10 2.2.1.Pelaksanaan Kerja Praktik ......................................................................... 10 2.2.2.Relevansi dengan Perkuliahan di Fasilkom UI .......................................... 11 BAB 3 PENUTUP ...................................................................................................... 13 3.1.Kesimpulan ....................................................................................................... 13 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title>IV</title>
+		<segment>
+			3.2.Saran ................................................................................................................. 13 DAFTAR REFERENSI .............................................................................................. 15 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ................................... VIII LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................... IX 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<title>V</title>
+		<segment>
+			Gambar 1: Struktur Organisasi Bukalapak ................................................................... 3 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Table 1: Teknologi yang digunakan ............................................................................. 8 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<title>VI</title>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ................................... VIII LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................... IX 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses pencarian diawali dengan penelusuran dan <it>googling</it> terhadap perusahaan yang bergerak di bidang <it>software</it> <it>engineering.</it> Pada awalnya, terdapat pertimbangan untuk mencoba melamar kerja praktik pada perusahaan yang bergerak pada sektor perbankan ataupun perminyakan. Setelah melewati beberapa proses pertimbangan lebih mendalam dan ketertarikan untuk belajar lebih banyak perihal teknis kerja sebagai <it>software</it> <it>engineer,</it> penulis memutuskan kecenderungan untuk melamar pada perusahaan yang bergerak dibidang IT. Informasi-informasi seputar magang baik itu perihal pengalaman, kenyamanan lingkungan kerja, gaji, dan perhitungan lain, penulis dapati pada awalnya dengan bertanya kepada senior yang melaksanakan kerja praktik pada tahun 2015. Terdapat banyak sekali referensi yang cukup baik serta saran untuk kerja praktik pada <it>startup-</it> <it>startup</it> seperti Tokopedia, Bukalapak, Traveloka, Veritrans, dan lain-lain. Penulis berusaha untuk melamar kerja praktik dari jauh-jauh hari untuk meminimalisir persaingan yang lebih ketat. Pada percobaan pertama, penulis melamar pada RajaPremi pada awal Januari 2016 namun gagal sampai tahap wawancara. Lamaran kedua penulis tujukan pada Traveloka sekitar pertengahan Januari, namun mendapat balasan bahwa pendaftaran untuk kerja praktik belum dibuka dan disarankan untuk melamar lagi sekitar bulan April atau Juni 2016 (sekitar satu bulan sebelum masa kerja praktik dimulai). Penulis mencoba juga untuk melamar ke Fabelio, namun <it>email</it> lamaran tidak mendapat balasan. Selanjutnya, penulis mencoba melamar ke Pertamina sebagai <it>software</it> <it>developer</it> <it>internship.</it> Pada proses tersebut, banyaknya berkas yang perlu dikumpulkan dan pertimbangan pribadi penulis menghasilkan keputusan untuk tidak melanjutkan proses lamaran tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			Percobaan terakhir pada sekitar akhir Januari adalah melamar ke Bukalapak melalui <it>website</it> Bukalapak[1]. Sekitar dua minggu setelah mengisi form pada halaman <it>career</it> tersebut, penulis mendapat <it>email</it> untuk membuat kode berupa <it>maze</it> <it>generator.</it> Setelah pengumpulan tugas tersebut, masuklah pada tahap wawancara serta <it>test</it> <it>coding</it> secara langsung, dan pada sekitar bulan Februari, didapati <it>email</it> yang menyatakan bahwa penulis diterima untuk kerja praktik di Bukalapak. Setelah beberapa kali berdiskusi dengan perwakilan dari bidang HR Bukalapak, hari pertama kerja praktik dimulai pada tanggal 13 Juni 2016. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukalapak merupakan salah satu <it>online</it> <it>marketplace</it> terkemuka di Indonesia. Seperti halnya situs layanan jual-beli menyediakan sarana jual-beli dari konsumen ke konsumen. Siapa pun dapat membuka toko online di Bukalapak dan melayani pembeli dari seluruh Indonesia untuk transaksi satuan maupun banyak [1]. Produk utama dari Bukalapak adalah aplikasi <it>website</it> dan <it>mobile</it> yang berfungsi sebagai media transaksi antara pembeli dan pelapak. Bukalapak mempunyai peran sebagai mediator antara pembeli dan pelapak, sehingga dapat terjadi transaksi jual beli yang aman dan terpercaya. Organisasi yang berada di Bukalapak dipimpin oleh seorang <it>President</it> yang membawahi langsung <it>Chief</it>  <it>Technology</it> <it>Officer</it> <it>(CTO),</it> <it>Chief</it> <it>Operating</it> <it>Officer</it> <it>(COO),</it> dan <it>Chief</it> <it>Financial</it> <it>Officer</it> <it>(CFO),</it> di mana ketiganya merupakan jajaran <it>Director</it> dari perusahaan. Departemen <it>software</it> <it>engineer</it> (SE) sendiri berada di bawah divisi <it>engineering</it> dan COO. Pada SE sendiri terdapat lagi banyak tim yang terbagi- bagi untuk mengerjakan fokus kerja / fitur masing-masing. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Struktur organisasi lengkap pada Bukalapak dapat dilihat pada gambar berikut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			<it>Gambar</it> <it>1:</it> <it>Struktur</it> <it>Organisasi</it> <it>Bukalapak</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<segment>
+			<it>Software</it> <it>engineer</it> dibagi menjadi beberapa divisi yang mempunyai fokus kerja masing-masing. Sebagai seorang <it>back</it> <it>end</it> <it>developer</it> <it>software</it> <it>engineer,</it> penulis diposisikan untuk berada di tim <it>Revention.</it> Tim <it>Revention</it> berfokus pada <it>developing</it> dan <it>maintaining</it> fitur-fitur pada produk Bukalapak yang berfokus pada fitur untuk pendapatan perusahaan serta membuat <it>user</it> (pembeli) kembali berbelanja lagi di Bukalapak. Pada tim ini terdapat satu <it>Product</it> <it>Manager</it> (PM), beberapa <it>front</it> <it>end</it> dan <it>backend</it> <it>developer,</it> serta satu orang <it>Quality</it> <it>Assurance.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Sebagai <it>backend</it> <it>developer</it> pekerjaan utama dalam tim <it>revention</it> adalah menganalisis, mengembangkan, dan <it>maintaining</it> fitur-fitur yang berdampak pada <it>revenue</it> untuk Bukalapak dan juga mempertahankan agar <it>user</it> tetap kembali berbelanja lagi di Bukalapak. Fokus utama dari <it>backend</it> terdiri dari perencanaan skema basis data yang diperlukan (jika fitur menggunakan <it>database),</it> membuat kode baik dari <it>model,</it> <it>view,</it> ataupun <it>controller</it> yang diperlukan untuk fitur tersebut, dan mempertahankan performa agar fungsi dapat berjalan optimal. Sebagian besar pekerjaan yang dikerjakan adalah <it>issue-issue</it> yang ada pada <it>backlog.</it> Fungsi-fungsi yang dikerjakan berhubungan dengan <it>bug</it> pada fitur-fitur sebelumnya yang mengganggu proses user untuk bertransaksi. Selain <it>bug,</it> Retention juga membuat <it>improvement</it> fitur untuk <it>user</it> dan juga internal organisasi. Fitur-fitur baru yang difokuskan untuk <it>user</it> bertujuan untuk mempermudah <it>user</it> dalam berbelanja di Bukalapak. Salah satu fitur internal organisasi yang dibutuhkan oleh divisi <it>sales</it> untuk mempermudah pemantauan status pelapak juga dikerjakan pada divisi Retention. Fitur-fitur yang menjadi fokus utama dari divisi ini bertujuan untuk menjaga <it>user</it> agar tetap menggunakan produk Bukalapak. Mempertahankan <it>user</it> agar tetap berbelanja di Bukalapak merupakan hal yang penting dalam persaingan <it>e-commerce,</it> yang mana <it>experience</it> buruk yang mungkin dialami <it>user</it> selama bertransaksi dapat memengaruhi keputusan <it>user</it> untuk menggunakan produk <it>e-commerce</it> lain. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.2.1.</bo> <bo>Ruby</bo> <bo>on</bo> <bo>Rails</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			Ruby on Rails (Rails) merupakan salah satu <it>server-side</it> <it>web</it> <it>application</it> <it>framework</it> yang dibangun dengan bahasa pemrograman Ruby. <it>Framework</it> ini dapat digunakan untuk membuat <it>web</it> biasa maupun <it>web</it> <it>service.</it> Rails merupakan <it>framework</it> dengan model MVC (Model <it>View</it> <it>Controller)</it> yang mempunyai banyak fitur untuk pengembangan <it>web</it> [2]. Model para Rails merupakan pemetaan dari tabel pada <it>database</it> menjadi sebuah <it>file.</it> Pada <it>file</it> tersebut dapat ditentukan atribut-atribut yang ada pada tabel dan juga fungsi/<it>method</it> yang dapat digunakan untuk mempermudah pemrosesan model. <it>Controller</it> berfungsi untuk mendefinisikan respon terhadap <it>request</it> yang ada. Pada dasarnya, <it>controller</it> ini biasa digunakan untuk mengambil data-data dari tabel menggunakan model yang sudah disebutkan sebelumnya (sebagai pengganti <it>query</it> secara langsung ke <it>database).</it> <it>Controller</it> ini juga mempunyai fungsi-fungsi lain untuk melakukan <it>logic-logic</it> <it>processing</it> yang dibutuhkan sebelum data dikirim ke <it>view.</it> <it>View</it> mempunyai tugas utama untuk menampilkan data-data yang diberikan dari <it>controller</it> dalam bentuk HTML. Segala macam <it>client-side</it> <it>javascript</it> dan <it>Cascading</it> <it>Style</it> <it>Sheets</it> (CSS) untuk memperindah kualitas tampilan yang ada ditaruh dalam kategori <it>view.</it> <bo>2.1.2.1.</bo> <bo>Mysql</bo> Mysql merupakan salah satu <it>open</it> <it>source</it> <it>relational</it> <it>database</it> <it>management</it> <it>system</it> (RDBMS) yang umum digunakan baik untuk <it>project</it> skala kecil maupun besar. RDBMS ini dikembangkan dan disebarkan oleh Oracle [4]. Dalam penggunaanya tidak jarang mysql digunakan dengan bantuan <it>tools</it> bernama phpMyAdmin. PhpMyAdmin merupakan <it>tools</it> untuk mempermudah penggunaan Mysql dengan bantuan <it>user</it> <it>interface</it> dan pengaksesan dari akses <it>browser</it> (www) [5]. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Selama proses kerja praktik, metode yang digunakan tim untuk <it>software</it> <it>developing</it> adalah Scrum. Metode tersebut dipilih sebagai <it>framework</it> pengembangan <it>software</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			yang sesuai untuk Bukalapak yang mempunyai sifat <it>agile.</it> Proses penambahan fitur- fitur baru ataupun <it>maintenance</it> fitur yang sudah ada selalu <it>update</it> seiring dengan bertambahnya kebutuhan <it>user</it> dan transaksi pada Bukalapak. Terdapat dua buah bagian utama pada proses dalam pengembangan tersebut baik dari sisi <it>mangement</it> <it>project</it> yaitu Scrum, dan juga metode pengembangan teknis <it>software.</it> Pada setiap <it>sprint</it> dalam Scrum, akan dijalankan proses-proses <it>planning,</it> <it>daily</it> <it>standup</it> <it>meeting,</it> scrum <it>meeting,</it> dan <it>sprint</it> <it>retrospective</it> <it>meeting.</it> Sebelum proses <it>sprint</it> <it>planning</it> dimulai, akan dilakukan perhitungan kompleksitas terhadap <it>backlog</it> yang ada. Selanjutnya, <it>sprint</it> <it>planning</it> dilakukan dengan fokus untuk membagi pekerjaan dan tanggung jawab seseorang terhadap suatu <it>backlog</it> yang diambil untuk <it>sprint</it> tersebut. Sebagai <it>intern,</it> penulis juga ikut dalam setiap rapat yang ada dalam proses tersebut, sehingga peserta kerja praktik juga dapat mengambil ilmu-ilmu baru, masukan-masukan, bahkan memberikan saran, ataupun ide. Pada teknis <it>developing</it> terdapat beberapa tahap pada proses pekerjaan penulis dari mulai analisis hingga <it>deployed</it> pada <it>production.</it> Hal yang pertama dilakukan pada saat mengembangkan fitur adalah analisis terhadap <it>case</it> seperti apa yang akan mempengaruhi proses dari fitur tersebut, <it>database</it> yang dibutuhkan, apakah terdapat <it>code</it> yang bisa digunakan dari kode-kode yang sudah ada atau haruskah membuat <it>full</it> <it>new</it> <it>code</it> (misalnya seperti bisa menggunakan <it>controller</it> yang sudah ada, harus membuat <it>model</it> baru, dan sebagainya). Setelah analisis pre-<it>coding</it> dilakukan, selanjutnya adalah proses implementasi dengan tetap mempertimbangkan <it>performance,</it> <it>readability</it> untuk <it>programmer</it> lain, dan hal-hal terkait lainya. Tahap terakhir sebelum akhirnya kode disatukan pada <it>branch</it> <it>master</it> dan <it>deployed</it> adalah <it>code</it> <it>review.</it> <it>Review</it> terdiri dari tiga alur yaitu kode diperiksa oleh mentor, <it>testing</it> oleh QA, dan terakhir diperiksa kembali oleh <it>deployer</it> tim. Setelah pengecekan kode selesai, barulah dilakukan proses <it>merging</it> pada <it>branch</it> <it>master</it> yang kemudian akan dideploy</it> ke <it>production.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Teknologi yang digunakan dalam <it>website</it> utama pada Bukalapak sangat beragam. Setiap bagian baik itu <it>backend,</it> <it>frontend,</it> dan <it>database</it> memiliki detail teknologi masing-masing. <it>Beberapa</it> teknologi yang langsung penulis pelajari dan pergunakan bisa dilihat pada table berikut. <bo>No</bo> 1 2 3. 4. 5. 6. <bo>Nama</bo> Git dan Github Ruby on Rails Mysql &amp; MongoDB Elasticsearch Haml Coffescript <bo>Kategori</bo> <it>Repository,</it> <it>version</it> <it>control</it> <it>Web</it> <it>framework</it> <it>Database</it> <it>Open</it> <it>source</it> <it>search</it> <it>engine</it> <it>view</it> <it>templating</it> <it>javascript</it> <it>Table</it> <it>1:</it> <it>Teknologi</it> <it>yang</it> <it>digunakan</it> Bukalapak menggunakan Ruby sebagai bahasa pemrograman dari <it>web</it> utama. Pada Ruby tersebut, terdapat <it>framework</it> yang sering digunakan yaitu Rails. Penggunaan Rails sebagai <it>framework</it> (<it>backend)</it> utama membuat proses <it>developing</it> dan <it>debugging</it> lebih mudah karena terdapat Rails <it>console</it> di mana <it>command-command</it> dapat dicoba sebelum dieksekusi langsung pada <it>server.</it> Bentuk MVC dari Rails yang mudah dipahami dan dokumentasi yang lengkap juga mempercepat proses pembelajaran dan pengembangan <it>web.</it> Teknologi <it>frontend</it> yang digunakan juga beragam seperti Haml, dan Coffescript. <it>Template</it> <it>engine</it> yang digunakan Rails untuk <it>rendering</it> HTML adalah erb <it>formatting,</it> sehingga Bukalapak menggunakan bantuan <it>pre-processing</it> <it>template</it> <it>engine</it> yaitu Haml. Haml sendiri meningkatan kemudahan dalam membaca dan menulis kode dengan strukturnya yang sangat deklaratif dan singkat. Pada bagian <it>logic</it> untuk <it>front-</it> <it>end,</it> Rails juga menggunakan coffee-script di mana fungsinya adala sebagai <it>pre-</it> <it>processing</it> untuk javascript dengan <it>syntax</it> yang dipermudah dan diperjelas secara intuitif. Basisdata yang digunakan pada Bukalapak diantaranya adalah Mongodb dan Mysql. Penulis juga belajar untuk menggunakan Mongodb sebagai salah satu database <it>website</it> no-SQL.</it> Terlepas dari penggunaan umum <it>relational</it> <it>database</it> seperti Mysql ataupun 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			semacamnya,</it> Mongodb adalah <it>non-relational</it> <it>database.</it> Untuk menggunakan Mongodb sebagai salah satu <it>database</it> pada Rails, perlu ada <it>connector</it> tambahan yang dinamakan Mongoid. Mongoid adalah ODM (<it>Object-Document-Mapper)</it> untuk model pada Rails dan digunakan sebagai pelengkap ORM (<it>Object-Relational-Mapper)</it> pada Rails. Selain menggunakan pencarian dari <it>database</it> menggunakan model dari Rails, Bukalapak juga menggunakan elasticsearch sebagai <it>search</it> <it>engine</it> untuk melakukan sekali <it>query</it> di mana atribut-atribut terkait suatu model, berada pada model lain yang berbeda-beda. Teknik ini mempermudah dan mempersingkat kode untuk proses pencarian <it>query</it> tertentu. Selain beberapa teknologi tersebut, penulis juga mempelajari teknis dan cara penggunaan dari <it>splitter</it> untuk keperluan AB <it>testing.</it> 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Gambaran</bo> <bo>Pekerjaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis mengerjakan berbagai macam fitur untuk kebutuhan baik eksternal (<it>user)</it> maupun internal (<it>sales).</it> Terdapat beberapa fitur yang penulis kerjakan juga sampai bagian <it>front-end.</it> Beberapa fitur yang penulis kerjakan selama masa kerja praktik yaitu:   Menambahkan <it>timeline</it> <it>feed</it> dan <it>sort</it> <it>by</it> pada halaman <it>subscription</it> (langganan  suatu <it>user</it> terhadap seorang pelapak)   Membuat  fungsi  internal  yang  berfungsi  untuk  mempermudah  divisi  <it>sales</it>  untuk memantau fitur pendukung penjualan yang digunakan oleh pelapak   Memasang <it>splitter</it> untuk keperluan AB <it>testing</it> pada menu beserta <it>tracker</it> yang  dibutuhkan untuk mengirim data tersebut   Mengimplementasikan beberapa fitur untuk <it>user</it> yang berlangganan <it>premium</it>    Penambahan <it>return</it> <it>value</it> pada salah satu API produk  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<pagenum>10</pagenum>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada awal pembuatan KAKP, detail dari pekerjaan yang akan dilakukan oleh penulis selama masa KP masih berupa rancangan secara umum. Hal ini disebabkan karena metode pengembangan <it>software</it> pada Bukalapak yang bersifat <it>agile.</it> Belum terdapat detail dari fitur yang dapat dikerjakan oleh penulis karena <it>backlog</it> yang ada mungkin saja berkurang atau bertambah pada <it>sprint</it> berikutnya. Sehingga, penulis masih perlu menunggu <it>sprint</it> pertama untuk dapat melihat dan mengerjakan fitur dari <it>backlog</it> yang ada. Minggu-minggu awal masa KP dimanfaatkan penulis sebagai masa belajar dan penyesuaian terhadap <it>software</it> yang dikembangkan Bukalapak. Pada masa ini juga terdapat sebuah <it>project</it> kecil berupa sebuah fitur <it>timeline</it> yang diberikan oleh penyelia sebagai bahan latihan untuk penulis. Pengerjaan fitur tersebut dilakukan kurang lebih selama satu-dua minggu bersamaan dengan pembelajaran <it>framework</it> yang digunakan. Setelah minggu-minggu awal tersebut, penulis baru dapat mengerjakan fitur-fitur dari <it>backlog</it> saat <it>sprint</it> berikutnya dimulai sampai berakhir masa KP. Pada keseharian dari pelaksanaan kerja praktik, terdapat banyak sekali <it>soft</it> <it>skill</it> yang penulis dapat baik secara langsung maupun tidak langsung. Hal yang paling dasar adalah kebutuhan untuk saling bekerja sama dalam tim untuk mencapai <it>goal</it> yang diinginkan. <it>Skill</it> komunikasi yang baik akan sangat menunjang performa dari anggota dan tim yang bersangkutan dalam mencapai <it>goal</it> tersebut. Tanggung jawab juga menjadi hal yang penting sebagai amanah dari setiap pekerjaan yang dikerjakan oleh individu dalam tim. Pengerjaan terhadap satu fitur yang terhambat bisa berdampak pada pekerjaan orang lain, sehingga perlu adanya tanggung jawab untuk menyelesaikan pekerjaan tepat waktu. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Ilmu-ilmu pemrograman yang penulis dapat selama belajar perkuliahan sangat berhubungan dengan pekerjaan yang penulis lakukan saat kerja praktik. Materi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			perkuliahan yang paling berkaitan erat dengan pekerjaan yang penulis lakukan sebagian besarnya adalah mata kuliah pemrograman : 1. Dasar-dasar pemrograman 2. Struktur data dan algoritma 3. Perancangan dan pemrograman web 4. Basis data. Bahasa pemrograman <it>Rails</it> sudah pernah penulis pelajari dasar-dasarnya sendiri, namun penggunaan <it>Rails</it> dalam aplikasi <it>real</it> dan skala yang besar baru penulis pelajari dan praktikan saat kerja praktik. Konsep dari pemrograman dasar dari DDP sangat berperan penting dalam proses penulis belajar terhadap pemrograman baru tersebut. Terdapat juga dalam beberapa kasus di mana penulis harus memikirkan bagaimana agar pemrosesan dengan data yang banyak bisa dilakukan dengan cepat dan efisien. Oleh karena itu, terdapat beberapa ilmu-ilmu dari SDA dan Basis data yang perlu penulis <it>review</it> kembali dan aplikasikan pada pekerjaan yang diberikan. Pembelajaran <it>framework</it> pada matakuliah Perancangan dan Pemrograman Web (PPW) sangat membantu dalam hal konsep dan pemahaman bagaimana <it>framework</it> MVC bekerja. Setiap <it>code</it> baik dalam lingkup <it>backend</it> maupun <it>frontend</it> sangat berkaitan dengan subjek-subjek yang sudah dipelajari pada mata kuliah PPW Selain mata kuliah yang sudah disebutkan diatas, terdapat hal-hal lain yang juga pernah dipelajari saat perkuliahan, seperti salah satu metode pengembangan <it>software</it> yaitu <it>Scrum</it> pada Rekayasa Perangkat Lunak (RPL), detail-detail agenda dalam pelaksanaan <it>sprint,</it> dan berbagai macam praktik nyata dari teori yang diajarkan pada mata kuliah RPL. Hal yang menarik mungkin berada pada teknologi yang digunakan, di mana kurikulum Fasilkom tahun 2010 relatif bisa dikatakan sudah <it>outdated</it> bila dibandingkan dengan teknologi yang sekarang sudah dipakai dibanyak <it>startup</it> IT yang berkembang di 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			Indonesia. Walaupun demikian, cara berfikir sistematis yang diajarkan selama masa perkuliahan sangat bermanfaat dalam dunia kerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Kerja praktik yang dilaksanakan sebagai mata kuliah wajib di Fasilkom UI sangat banyak membawa manfaat baik secara langsung maupun tidak langsung. Sejumlah proses baik dari pencarian tempat kerja praktik sampai pekerjaan yang didapat memberikan pengalaman yang unik dan berharga. Pada proses pencarian tempat kerja praktik, terdapat beberapa kasus yang mungkin terjadi seperti <it>email</it> lamaran yang tidak dibalas, tidak lulus salah satu tahap seleksi, dan lain-lain. Rajapremi, Pertamina, Fabelio, dan beberapa perusahaan lainya merupakan lamaran awal penulis sebelum akhirnya diterima di Bukalapak. Selama masa KP, penulis mengerjakan berbagai fitur yang terkait dengan <it>retention</it> dan <it>revenue</it> Bukalapak. <it>Backlog</it> yang dikerjakan bervariasi dari mulai untuk kebutuhan internal untuk <it>monitoring</it> pelapak, mempermudah <it>user</it> untuk melihat status pelapak yang berlangganan, dan paket <it>premium</it> berbayar untuk analisis penjualan. Banyaknya variasi teknologi yang digunakan serta masa adaptasi untuk belajar terhadap hal-hal baru memberikan penulis banyak pengetahuan akan teknologi yang sedang berkembang. Selain teknologi dan bahasa pemrograman yang baru, penulis juga belajar banyak tentang organisasi, tanggung jawab pekerjaan, <it>skill</it> komunikasi yang baik, perkembangan dan teknis dari teknologi yang ada, dan banyak hal lainya. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Penulis menyarankan untuk mempersiapkan kerja praktik dari jauh hari agar pengambilan keputusan lebih matang. Persiapan dokumen-dokumen terkait lamaran pekerjaan dan pemilihan tempat kerja praktik yang tepat harus dipikirkan dan diperhitungkan sematang mungkin. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			Terkait proses mata kuliah kerja praktik sendiri, hasil dari beberapa dokumen kerja praktik akan lebih optimal apabila komunikasi antara pelaksana KP dengan dosen pembimbing bisa dijaga dengan baik. Seberapa cepat respons dari dosen pembimbing KP akan sangat berpengaruh pada waktu penyelesaian proses beberapa dokumen KP. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<title>DAFTAR REFERENSI</title>
+		<pagenum>15</pagenum>
+		<segment>
+			[1] http://bukalalpak.com/career. Diakses pada 11 Oktober 2016, 22.45 WIB. [2] http://guides.rubyonrails.org/. Diakses pada 16 November 2016, 13:24 WIB. [3] http://guides.rubyonrails.org/action_controller_overview.html. Diakses pada 18 November 2016 14:25 WIB. [4] https://dev.mysql.com/doc/refman/5.7/en/what-is-mysql.html. Diakses pada 18 November 2016 14:49 WIB. [5] https://www.phpmyadmin.net/. Diakses pada 18 November 2016 14:44 WIB. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<title>VIII</title>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<title>IX</title>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

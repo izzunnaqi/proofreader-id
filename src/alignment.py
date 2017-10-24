@@ -5,6 +5,8 @@ import sys
 import re
 import xml.etree.ElementTree as et
 from bs4 import BeautifulSoup
+from nltk import word_tokenize
+from random import randint
 
 def config():
 	reload(sys)
@@ -13,7 +15,7 @@ def config():
 
 def align(arg1, arg2):
 	match = []
-	error_candidate = []
+	not_match = []
 	
 	soup1 = BeautifulSoup(arg1, 'xml').document
 	soup2 = BeautifulSoup(arg2, 'xml').document
@@ -31,18 +33,49 @@ def align(arg1, arg2):
 			if a == b:
 				indexes.append([doc1.index(a), doc2.index(b)])
 
-
-
 	for i in indexes:
-		if doc1[i[0]+1].name == "segment" and doc2[i[1]+1].name == "segment":
-			match.append([doc1[i[0]+1], doc2[i[1]+1]])
+		x = doc1[i[0]+1]
+		y = doc2[i[1]+1]
+
+		if x.name == "segment" and y.name == "segment":
+			str1 = "".join(str(e) for e in x.contents)
+			str2 = "".join(str(e) for e in y.contents)
+
+			# full match
+			regex = re.compile('(.*)%s(.*)'%re.escape(str1), re.IGNORECASE)
+			
+			if regex.match(str2):
+				match.append([str1, str2])
+			else:
+				not_match.append([str1, str2])
 
 
-	
+	if len(not_match) > 0:
+		a = partial(not_match)
+		for m, n in a:
+			match.append([m, n])
+
 	return match		
-		
 
 
+def partial(x):
+	match = []
+
+	for a, b in x:
+		token_a = word_tokenize(a)
+		token_b = word_tokenize(b)
+
+		for i in xrange(0, 5):
+			m = randint(0, len(token_a) - 7)
+			# n = randint(0, len(token_b) - 3)
+
+			rand_a = " ".join(token_a[m:m+7])
+			
+			if rand_a in b:
+				match.append([a, b])
+				break
+
+	return match
 
 def simplify(xmldoc):
 	res = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<document>"
@@ -54,7 +87,7 @@ def simplify(xmldoc):
 
 	for p in pages:
 
-		if p.pagenum.string is not None:
+		if p.pagenum is not None:
 			a = unicode(p.pagenum.string)
 			a = str(a)
 
@@ -83,15 +116,12 @@ def main():
 
 	xml_1 = simplify(doc1)
 	xml_2 = simplify(doc2)
-
-
-	# print xml_1
 	
 	result = align(xml_1, xml_2)
 
-	for a in result:
-		print str(a[0]) + "\n===||===\n" + str(a[1])
-		print "~~~~~~~~~~~~~~~~~~~~~~~~~"
+	for i in result:
+	 	print i[0] + "\n===||===\n" + i[1]
+	 	print "~~~~~~~~~~~~~~~~~~~~~~~~~"
 
 
 if __name__ == '__main__':

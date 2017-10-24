@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>VIRTUALIZATION</bo> <bo>AND</bo> <bo>NETWORKING:</bo> <bo>UNIFIED</bo> <bo>LOGGING</bo></title>
+		<title><bo>SYSTEM</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>IRVI</bo> <bo>FIRQOTUL</bo> <bo>AINI</bo></title>
+		<segment>
+			<bo>1306463591</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>1</pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : : : : Virtualization and Networking: Unified Logging  Irvi Firqtoul Aini 1306463591 Ilmu Komputer System <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<segment>
+			​ 
+		</segment>
+		<pagenum>2</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan kerja praktik ini mencakup hasil kerja praktik yang dilakukan oleh penulis bersama penyelia di Bukalapak. Kerja praktik dilaksanakan selama 10 minggu. Penulis berperan sebagai ​<it>software</it> <it>engineering</it> <it>intern</it> pada divisi ​<it>infrastructure</it>     dan <it>architecture</it> dengan penyelia Ardin Fardiansyah. Judul kerja praktik yang diberikan   adalah ​<it>“Virtualization</it> <it>and</it> <it>Networking:</it> <it>Unified</it> <it>Logging</it> <it>System”</it>   . Dalam proyek ini,   penulis membuat prototipe sistem ​<it>unified</it> <it>logging</it> <it>system</it> yang akan digunakan pada     mekanisme ​<it>infrastructure</it> baru yang akan diterapkan pada Bukalapak. Lebih lanjut,   <it>unified</it> <it>logging</it> <it>system</it> ini nantinya dapat digunakan sebagai sebuah ​<it>sevice</it> yang dapat   digunakan oleh komponen ​<it>microservices</it> dari sistem ​<it>infrastructure</it> baru yang akan   diterapkan di dalam Bukalapak.     Kata kunci: ​<it>infrastructure</it>   , prototipe, ​<it>unified</it> <it>logging</it> <it>system</it>   , ​<it>microservices</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>3</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<title> HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK</title>
+		<title>ABSTRAK</title>
+		<title>DAFTAR ISI</title>
+		<title>DAFTAR GAMBAR</title>
+		<title>DAFTAR LAMPIRAN</title>
+		<title>PENDAHULUAN</title>
+		<segment>
+			Proses Pencarian Kerja Praktik Tempat Kerja Praktik 
+		</segment>
+		<title>ISI</title>
+		<segment>
+			Pekerjaan dalam Kerja Praktik Latar Belakang Metodologi Teknologi Analisis Pelaksanaan Kerja Praktik Relevansi dengan Perkuliahan di Fasilkom UI 
+		</segment>
+		<title>PENUTUP</title>
+		<segment>
+			Kesimpulan Saran 
+		</segment>
+		<title>DAFTAR REFERENSI</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Struktur Organisasi di Bukalapak 
+		</segment>
+		<pagenum>4</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>5</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			 Kerangka Acuan Kerja Praktik (KAKP) ……...........…………………..21  Log Kerja Praktik …..…………………………………………………….....23  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>6</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			 , Sirclo, Bukalapak, dan juga Veritrans. Proses pencarian tempat KP berlangsung sejak bulan Januari 2016. Pada ​<it>software</it> <it>engineer</it> ​<it>intern</it> di bulan tersebut, saya melamar posisi sebagai   beberapa perusahaan baik di dalam maupun di   luar negeri. Perusahaan   tersebut adalah Google ​<it>Inc</it>   Sejak awal bulan Januari pada tahun 2016, penulis mengajukan lamaran   pada Google Inc yang berlokasi di Sydney melalui jalur mandiri. Lebih kurang       setelah 2 minggu mengajukan lamaran, terdapat seorang ​<it>recruiter</it> yang     memberikan penjelasan lebih lanjut mengenai mekanisme ​<it>recruitment</it>   . Salah satu tahapan yang harus dilalui oleh penulis adalah Google ​<it>Inc</it>     melakukan serangkaian wawancara teknis, penulis pada akhirnya dinyatakan     ditolak oleh pihak Google ​<it>Inc</it> . Lebih lanjut penulis mendapatkan ​<it>feedback</it>     masih mengenai proses penjelasan yang dilakukan selama proses ​<it>interview</it>       belum cukup lancar mengingat saat itu terdapat beberapa kendala teknis     yang menyebabkan penulis juga kurang fokus dalam melakukan wawancara.     
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>7</pagenum>
+		<segment>
+			​<it>intern</it>    dari masing-masing tempat.  ​<it>software</it> <it>engineer</it>  Selanjutnya, pada bulan April 2016, penulis mengajukan lamaran untuk di Veritrans dan juga Sirclo. Untuk posisi mekanisme aplikasi di kedua tempat tersebut kurang lebih sama, yaitu pertama proses ​<it>screening</it> Resume, ​<it>coding</it> <it>challenge</it>   , dan terakhir mengenai   <it>Official</it> <it>Offer</it>     Pada bulan Mei, penulis mendapatkan informasi mengenai ​<it>project</it> baru yang sedang dikerjakan di Bukalapak. Berdasarkan informasi tersebut, penulis   informasi mengenai sistem ​<it>infrastructure</it> baru yang akan mengetahui   diimplementasikan di Bukalapak. Sehubungan dengan tawaran ​<it>Return</it> <it>Offer</it>     yang diberikan karena penulis sudah pernah melakukan kerja praktik di   kemudian tempat   memberikan kesempatan pada penulis untuk mengerjakan ​<it>project</it> tersebut.       Berhubung penulis sedang merasa tertarik untuk belajar lebih lanjut di arah     implementasi sebuah serta ​<it>architecture</it>       sistem, maka penulis memutuskan untuk menerima tawaran tersebut.  ​<it>microservices</it> dan ​<it>infrastructure</it>  sebelumnya, pihak Bukalapak tersebut setahun 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			​<it>online</it> dari   yang menyediakan Bukalapak merupakan perusahaan ​<it>online</it> <it>marketplace</it>   . Semua orang dapat   <it>platform</it> jual-beli       ​<it>customer-to-customer</it> berjualan dan belanja di Bukalapak. Misi Bukalapak adalah menjadi ​<it>online</it>       <it>marketplace</it> nomor 1 di Indonesia. Sedangkan misi yang dibawa oleh   Bukalapak sendiri adalah ​<it>Empowering</it> <it>Small</it> <it>and</it> <it>Medium</it> <it>Enterprises</it> <it>Across</it>     <it>Indonesia</it>  [3]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>8</pagenum>
+		<segment>
+			Secara singkat, Bukalapak memiliki seorang pemimpin yang disebut sebagai , ​<it>President</it> ini yang kemudian membawahi ​<it>Chief</it> <it>Technology</it> <it>Officer</it>     <it>President</it> (CTO) dan ​<it>Chief</it> <it>Operation</it> <it>Officer</it>   (COO). Lebih lanjut, masing-masing dari   CTO dan COO akan membawahi bidangnya masing-masing. Berikut adalah     struktur organisasi singkat yang dimiliki Bukalapak:  <it>Gambar</it> <it>1</it> <it>Struktur</it> <it>Organisasi</it> <it>di</it> <it>Bukalapak</it> Pada kerja praktik kali ini, penulis ditempatkan pada divisi ​<it>Engineering</it> yaitu   sebagai ​<it>Software</it> <it>Engineering</it> <it>Infrastructure</it> yang langsung diawasi oleh   CTO. Posisi ini berperan secara langsung dalam mengurus segala sesuatu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<segment>
+			yang terkait dengan mekanisme ​<it>deployment</it>   <it>infrastructure</it>  yang ada pada Bukalapak. , ​<it>performance,</it> ​<it>networking</it>   , serta 
+		</segment>
+		<pagenum>9</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>10</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			untuk berbeda beberapa yang Bukalapak menggunakan beberapa bahasa pemrograman dan juga sistem yang <it>environment</it> diimplementasikan di dalamnya. Bersamaan dengan kompleksitas <it>deployment</it> yang meningkat untuk masalah ​<it>deployment</it> untuk setiap     divisi yang ada, maka Bukalapak berencana melakukan migrasi <it>infrastructure</it> untuk memudahkan kerja divisi ​<it>Engineer</it> serta ​<it>Product</it>   dalam upaya ​<it>development</it> serta ​<it>maintenance</it> <it>system</it> dengan      ​<it>microservices</it> memperkenalkan ​<it>architecture</it> . terdapat kebutuhan untuk mewujudkan Dalam perkembangannya, mekanisme ​<it>logging</it> sebagai suatu ​<it>service</it> yang dapat digunakan oleh     setiap komponen secara ​<it>centralized</it> . Untuk beberapa kasus, hal ini       tidaklah mudah. Salah satu hal yang perlu dipertimbangkan adalah   <it>design</it> sistem ​<it>logging</it> sebagai suatu ​<it>service</it> yang tidak memberatkan   <it>load</it>    kerja sistem utama. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo></title>
+		<pagenum>11</pagenum>
+		<segment>
+			, dengan Metodologi yang digunakan pada KP kali ini adalah ​<it>Scrum</it>           demikian untuk setiap ​<it>project</it> yang digunakan akan terdapat sebuah rapat ​<it>planning</it> yang dihadiri seluruh anggota ​<it>team</it> . Apabila seluruh         anggota sudah mendapatkan gambaran ide mengenai apa yang   harus dikerjakan selama periode tertentu, masing-masing anggota   <it>team</it> akan mengambil bagian dalam ​<it>project</it> tersebut untuk kemudian     dikerjakan hingga waktu yang ditentukan.  mengenai Penulis sendiri memilih ​<it>project</it> ​<it>unified</it> <it>logging</it> <it>system.</it>   Selama mengerjakan ​<it>project,</it> penulis melakukan pelaporan secara       berkala terhadap ​<it>supervisor</it> setiap 1 minggu sekali tentang     perkembangan ​<it>project</it> yang dikerjakan. Setiap terdapat penambahan     <it>use</it> <it>case</it> dari ​<it>requirement</it> yang dibutuhkan, akan diberikan ​<it>review</it>     dari ​<it>supervisor</it>   , serta ​<it>improvement</it> yang mungkin mengenai ​<it>use</it> <it>case</it>   tersebut.  
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Dalam pengerjaan proyek kali ini, penulis menggunakan beberapa teknologi yang sebelumnya belum pernah dipelajari atau belum dieksplorasi secara menyeluruh oleh penulis, diantaranya adalah . kubernetes, docker, docker-compose, serta ELK ​<it>stack</it> Kubernetes merupakan suatu ​<it>platform</it> <it>open</it> <it>source</it> yang dapat   digunakan untuk melakukan ​<it>automated</it> <it>provisioning,</it> <it>automated</it>       [5]. Kubernetes digunakan sebagai dasar <it>deploy</it> infrastruktur baru yang ada pada Bukalapak. Dengan menggunakan     Kubernetes, proses ​<it>deployment</it> diharapkan menjadi lebih ​<it>reliable</it>     , dan ​<it>self-healing</it>     
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>12</pagenum>
+		<segment>
+			dapat dilakukan masing-masing divisi sehingga proses ​<it>maintenance</it>     .   kecil dan diharapkan meningkatkan tingkat produktivitas ​<it>engineer</it>   Docker merupakan ​<it>software</it> yang dapat digunakan untuk melakukan   isolasi baik terhadap ​<it>environment</it> dan juga ​<it>dependency</it> terhadap     suatu aplikasi sebelum proses ​<it>deployment</it> dilakukan untuk aplikasi       tersebut   konsistensi <it>environment</it> dan juga ​<it>dependency</it> masing-masing ​<it>service</it> yang   disediakan sehingga mekanisme ​<it>development,</it>   , dan juga       <it>deployment</it>   untuk menjaga  menjadi lebih mudah. [6]. Docker digunakan <it>testing</it> ELK Stack digunakan dalam upaya membuat ​<it>unified</it> <it>logging</it> <it>system</it> yang akan diterapkan dalam sistem ​<it>infrastructure</it> baru yang akan   diterapkan oleh Bukalapak [7].   
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			tidak terdapat perbedaan antara Kerangka Acuan Kerja Secara umum, Praktik (KAKP) dan apa yang sudah penulis kerjakan selama Kerja Praktik (KP). Dalam KAKP, awalnya, penulis hanya diminta untuk melakukan proses ​<it>prototyping</it> sistem ​<it>logging</it> yang dapat digunakan untuk ​<it>infrastructure</it>   terbaru yang akan digunakan oleh Bukalapak, namun seiring dengan   berjalannya waktu KP, penulis diminta untuk membantu proses ​<it>scaling</it>   dengan mencari solusi bagi ​<it>bottleneck</it> yang mungkin timbul dalam upaya     pengembangan sistem tersebut. Selain itu, penulis juga diminta untuk melakukan mekanisme ​<it>stress</it> <it>testing</it> untuk mengetahui bagian mana saja   yang memungkinkan untuk menjadi ​<it>bottleneck</it> dalam sistem yang sedang   dikembangkan. Berikut adalah deskripsi pekerjaan yang dilakukan oleh   penulis:  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>13</pagenum>
+		<segment>
+			, ​<it>library</it>   1. Riset mengenai ​<it>tools</it> , serta ​<it>software</it> yang dapat     digunakan untuk melakukan proses pengembangan sistem ​<it>logging</it> .  2. Pembuatan dan ​<it>testing</it> <it>prototype</it> sistem ​<it>logging</it> yang akan , ​<it>plugin</it>   terbaru di Bukalapak. 3. Riset mengenai mekanisme ​<it>stress</it> <it>testing</it> yang dapat dilakukan   digunakan untuk ​<it>infrastructure</it>     dalam ​<it>environment</it>  di kubernetes. 4. Riset mengenai mekanisme pengukuran hasil ​<it>stress</it> <it>testing</it> berupa       <it>metrics</it> dan juga bagaimana cara menampilkan ​<it>metrics</it>   tersebut pada     user melalui sebuah ​<it>dashboard</it> .  5. Pembuatan ​<it>automated</it> <it>test</it> yang dapat digunakan untuk melakukan    <it>stress</it> <it>testing</it>  bagi ​<it>prototype</it> <it>system</it>    6. Pembuatan konfigurasi ​<it>metrics</it> dan ​<it>dashboard</it>   untuk melihat hasil ​<it>stress</it> <it>testing.</it>  yang sedang dikembangkan.  yang dapat digunakan 7. Riset lebih lanjut mengenai proses <it>scaling</it>  yang dapat dilakukan pada ​<it>prototype</it> sistem agar dapat digunakan pada ​<it>environment</it>   produksi yang diinginkan.   8. Pembuatan ​<it>prototype</it> sistem versi ke-2 dengan tambahan fitur   berupa tambahan mekanisme ​<it>scaling</it> yang mungkin dilakukan dalam   sistem ​tersebut.  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>14</pagenum>
+		<segment>
+			Terdapat beberapa kendala yang ditemukan oleh pelaksana KP. Kendala pertama adalah banyaknya ​<it>tools</it> yang harus dipelajari dalam   waktu yang cukup singkat, yaitu selama 1 minggu awal untuk     mempelajari teknologi umum yang akan digunakan dalam pembuatan <it>microservices</it> dan juga 1 minggu berikutnya yang digunakan untuk   yang mempelajari   diberikan oleh penyelia KP kepada pelaksana KP. Penyelesaian dari     kendala tersebut, akhirnya pelaksana KP memanfaatkan ​<it>weekend</it>     untuk melakukan uji coba terhadap kode yang dibuat untuk meningkatkan pemahaman mengenai dan teknologi yang     digunakan.   teknologi yang sifatnya lebih spesifik dengan ​<it>task</it>      ​<it>tools</it> Kendala kedua adalah keterbatasan ​<it>resource</it> latop yang dimiliki oleh     pelaksana KP, untuk melakukan proses ​<it>development</it> umumnya     dibutuhkan RAM sebesar 8 GB atas saran dari penyelia KP. Namun,     akibat ​<it>resource</it> yang diberikan oleh pihak penyelenggara KP untuk   memberikan pinjaman berupa mesin kepada pelaksana KP, dan terdapat beberapa pelaksana KP lain yang membutuhkan ​<it>resource</it>     berupa mesin dan sudah terlebih dahulu meminta pada penyelia masing-masing, sehingga pelaksana KP tidak mendapatkan mesin   dari penyelenggara KP. Untuk mengatasi hal tersebut, pelaksana KP   menggunakan laptop sendiri sehingga proses ​<it>development</it> dilakukan     secara lokal selama menunggu server yang digunakan untuk   melakukan ​<it>development</it>  nantinya. Kendala ketiga yang ditemui oleh penulis adalah masih minimnya yang mengetahui cakupan kerja praktik yang <it>Software</it> <it>Engineer</it> dilakukan oleh penulis. Upaya penyelesaian yang dilakukan penulis , dokumentasi, adalah melakukan ​<it>researching</it> lebih banyak dari ​<it>article</it>     
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<segment>
+			maupun buku-buku yang ada mengenai ​<it>tools</it> , ​<it>library</it>   dapat digunakan dalam cakupan kerja praktik.  , dan teknik yang 
+		</segment>
+		<pagenum>15</pagenum>
+		<segment>
+			Meskipun terdapat beberapa kendala seperti yang sudah dipaparkan di atas, penulis secara umum merasa nyaman ketika melakukan kerja praktik di lingkungan Bukalapak, karena struktur organisasi di Bukalapak yang terkesan ​<it>flat</it> sehingga memungkinakn penulis untuk   berinteraksi bahkan dengan CTO dan juga anggota tim lain yang   ini terlibat dengan upaya migrasi     nantinya akan melibatkan berbagai tim dalam upaya     penyusunan ​<it>standard</it> yang digunakan dalam proses ​<it>development</it>       selanjutnya.   ​<it>infrastructure</it> mengingat hal jenis Selain itu, suasana kerja yang ditawarkan juga cukup nyaman, terdapat beberapa tempat yang dapat digunakan untuk melakukan <it>coding</it> apabila penulis merasa bosan dengan tempat yang disediakan oleh pihak penyelenggara KP. Lebih lanjut, jam kerja yang ditawarkan juga cukup fleksibel sehingga membuat penulis merasa nyaman. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama pengerjaan kerja praktik, penulis merasa terbantu dengan beberapa mata kuliah yang diajarkan pada masa perkuliahan, diantaranya adalah: 1. Rekayasa Perangkat Lunak digunakan  dapat Pada mata kuliah ini, penulis diajarkan beberapa metodologi dalam proses pengembangan yang lunak. Pada mata kuliah tersebut, penulis diberi perangkat ​<it>scrum</it> yang kesempatan untuk mempelajari metodologi         digunakan oleh penyelenggara KP.  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>16</pagenum>
+		<segment>
+			2. Pengembangan Perangkat Lunak  Pada mata kuliah ini, penulis diajarkan untuk melakukan proses pengembangan perangkat lunak dengan lebih terstruktur Berikut adalah apa yang didapatkan dari mata kuliah PPL: a. Software Engineering Methodology, berupa ​<it>Scrum</it>  b. Software Design, misalnya saja konsep ​<it>Webservices</it> ,  , ​<it>Software</it> <it>Architectures(Microservices)</it> ,  <it>Refactoring</it> dan ​<it>Analyse</it> <it>Design</it> <it>and</it> <it>Evaluate</it> <it>Alternatives</it>  c. <it>Software</it> <it>Quality</it> <it>Assurance</it> , misalnya saja ​<it>Unit</it> <it>Test</it>  and ​<it>Test</it> <it>Coverage</it>  dan ​<it>Stress</it> <it>Testing</it>  d. <it>Development</it> <it>and</it> <it>Deployment</it> , berupa ​<it>Build</it> <it>Script</it>  dan ​<it>Continuous</it> <it>Deployment</it>   and <it>Software</it> <it>Integration</it> ). (​<it>Build</it> <it>Script</it> 3. Perancangan dan Pemrograman ​<it>Web</it>  
+		</segment>
+		<title>(PPW)</title>
+		<segment>
+			Pada mata kuliah ini, penulis diajarkan teknologi dasar yang . Dengan adanya digunakan untuk membuat suatu ​<it>website</it>     bekal tersebut, penulis dapat membuat kode program dengan   baik.  4. Sistem Operasi (OS) Pada mata kuliah ini, penulis belajar mekanisme ​<it>scheduling</it>   yang dapat digunakan dalam proses ​<it>queueing</it> selain itu pada   mata kuliah ini penulis juga belajar tentang ​<it>key</it> <it>value</it> <it>stores</it>   dan ​<it>consistency</it> yang dapat digunakan dalam proses     pengerjaan kerja praktik.  5. Pemrograman Sistem (Sysprog) Pada mata kuliah ini, penulis belajar konsep-konsep dasar yang digunakan pada linux yang dapat membantu dalam juga belajar proses kerja praktik. Selain itu, penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>17</pagenum>
+		<segment>
+			dasar-dasar ​<it>scripting</it> yang dapat memudahkan dalam proses pengerjaan kerja praktik.  Meskipun secara umum, penulis sudah mendapatkan dasar mengenai apa saja yang harus dipelajari dalam proses pembuatan ​<it>software</it> selama mengikuti kegiatan perkuliahan, tetapi penulis masih merasa terdapat beberapa mata kuliah   yang mungkin dibutuhkan tetapi belum penulis dapatkan,   diantaranya adalah mata kuliah yang secara khusus dapat   langsung bermanfaat di bidang industri. Misalnya saja untuk   kasus yang penulis alami adalah melakukan orkestrasi s​<it>ervice</it>       yang berjalan secara modular dengan menggunakan suatu . Kedepan, mungkin akan lebih     <it>container</it> <it>orchestration</it> <it>tertentu</it>   baik apabila terdapat mata kuliah dasar yang membahas teknologi apa yang dapat digunakan secara   berdasarkan mata kuliah tersebut, agar mahasiswa lebih     merasa termotivasi ketika belajar mata kuliah tersebut karena     mengetahui realisasinya dalam dunia nyata.   sekilas 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>18</pagenum>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			 Setelah menjalani masa kerja praktik selama 10 minggu, secara keseluruhan, penulis mendapatkan banyak manfaat dari kerja praktik ini. Salah satu yang penulis dapatkan adalah pengetahuan dari segi teknis maupun non-teknis yang mungkin tidak dapat penulis dapatkan di kegiatan perkuliahan​<it>.</it> Pengetahuan baru lain yang penulis dapatkan adalah mengenai   , serta tentang b​<it>est</it> teknologi     . Lebih lanjut, penulis juga belajar untuk     <it>practise</it>   beradaptasi dalam suasana lingkungan kerja.   , ​<it>containerization</it> dalam mekanisme ​<it>logging</it>   ​<it>container</it> <it>orchestration</it> 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			 Ketika melakukan kerja praktik, tentunya penulis menemukan banyak hal baru. Kerja praktik ini juga menjadi salah satu sarana yang dapat digunakan untuk melihat bagaimana aplikasi dari ilmu yang kita dapatkan selama kuliah. Selain itu, kerja praktik juga menjadi sarana bagi penulis untuk melihat seberapa siap penulis terjun di dalam dunia kerja di bidang industri, terutama dari segi apa-apa saja yang mungkin belum pernah penulis dapatkan selama menjalani kegiatan belajar mengajar di dunia perkuliahan. Calon pelaksana kerja praktik, hendaknya juga memerhatikan lokasi atau jarak tempuh antara tempat kerja praktik dengan teempatyang digunakan untuk tinggal oleh calon pelaksana kerja praktik selama masa kerja praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>19</pagenum>
+		<segment>
+			tersebut. Hal ini menjadi penting, mengingat jarak tempuh yang jauh mungkin akan menyebabkan pelaksana kerja praktik merasa lebih cepat lelah selama menjalani proses kerja praktik. Dengan memperhatikan jarak yang ada, diharapkan pengerjaan kerja praktik juga menjadi lebih optimal dalam melaksanakan kerja praktik.  Saran yang dapat penulis berikan pada calon pelaksana kerja praktik yang akan menjalankan masa kerja praktik di Bukalapak sebaiknya memilih bidang yang benar-benar diinginkan agar bisa dikoordinasikan terlebih dahulu dengan pihak penyelenggara KP. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>20</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Randy, Shoup. "From Monolith to Microservices: Evolving Your Architecture to Scale." N.p., n.d. [Online]. Available: http://qconsp.com/sp2015/system/files/presentation-slides/QConSP2015-MonolithToMicroSe rvices.pdf​. [Diakses 20 Sept. 2016].  [2]   https://smartbear.com/learn/api-design/what-are-microservices/​. [Diakses 20 Sept. 2016].   [3] “Tentang Bukalapak.” [Online]. Available: ​https://www.bukalapak.com/about​. [Diakses 20 Sept. 2016].  Architecture?.” Microservices Available: [Online]. “What   is a [4] Dua, Rajdeep et al. Virtualization vs Containerization to Support PaaS. 2014 IEEE International Conference on Cloud Engineering. is Kubernetes?.” [5] “What   [Diakses 20 Sept. 2016].  [Online]. Available: ​http://kubernetes.io/docs/whatisk8s/​. [6] “What is Docker?.” [Online]. Available: ​https://www.docker.com/what-docker​. [Diakses   20 Sept. 2016].  [7] “An Introduction to the ELK Stack (Now the Elastic Stack).” [Online]. Available:     https://www.elastic.co/webinars/introduction-elk-stack​. [Diakses 20 Sept. 2016].  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+	</page>
+	<page id="23">
+	</page>
+	<page id="24">
+	</page>
+	<page id="25">
+	</page>
+	<page id="26">
+	</page>
+	<page id="27">
+	</page>
+	<page id="28">
+	</page>
+	<page id="29">
+	</page>
+	<page id="30">
+	</page>
+	<page id="31">
+	</page>
+	<page id="32">
+	</page>
+	<page id="33">
+	</page>
+	<page id="34">
+	</page>
+	<page id="35">
+	</page>
+
+</document>

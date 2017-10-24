@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<it><bo>Mobile</bo></it> <bo>Application</bo> <bo>Developer</bo> <bo>–</bo> <bo>iOS</bo> <bo>Developer</bo>  
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>DANAN</bo> <bo>ARIEF</bo> <bo>DESPRIANTO</bo></title>
+		<segment>
+			<bo>1306381641</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Danan Arief Desprianto : 1306381641 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Mobile</it> Application Developer – iOS Developer  <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja praktik merupakan suatu mata kuliah wajib di Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI). Pelaksana kerja praktik yang selanjutnya disebut penulis, melaksanakan kerja praktik dengan cara bekerja dengan durasi 10 minggu dari 13 Juni hingga 26 Agustus 2016 di PT.Bukalapak.com. Penulis bekerja sebagai <it>mobile</it> <it>application</it> <it>developer</it> yang bertugas untuk mengembangkan aplikasi Bukalapak kategori iOS. Proses pelaksanaan kerja praktik memberikan berbagai pengalaman bagi penulis. Hal tersebut di antaranya adalah mengenal struktur organisasi lingkungan kerja di bidang teknologi informasi, belajar secara praktis terkait apa yang telah dipelajari selama perkuliahan, dan belajar teknologi serta hal baru yang mengembangkan kemampuan penulis baik secara <it>hard</it> <it>skill</it> ataupun <it>soft</it> <it>skills</it> Kata kunci: Bukalapak, iOS, kerja praktik, <it>mobile</it> <it>application</it> <it>developer</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 2</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 4</title>
+		<title>2.1.2. Metodologi ................................................................................................ 5</title>
+		<title>2.1.3. Teknologi .................................................................................................. 6</title>
+		<title>2.1.4. Gambaran Kerja Praktik ........................................................................... 8</title>
+		<title>2.2. Analisis .......................................................................................................... 11</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 11</title>
+		<segment>
+			2.2.1.1. Perbandingan KAKP dan Pelaksanaan KP ........................................ 11 2.2.1.2. Kendala Kerja Praktik ........................................................................ 12 2.2.1.2. Pembelajaran Hard Skill dan Soft Skill ............................................. 12 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			2.2.1.3. Penilaian Terhadap Tempat Kerja Praktik ......................................... 14 
+		</segment>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 14</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 16 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 16</title>
+		<title>3.2. Saran .............................................................................................................. 16</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 18 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1. Struktur Organisasi Bukalapak ………………………………………….     3  
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 2. Contoh Tampilan Aplikasi Bukalapak Kategori iOS …………………...   11  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<segment>
+			Tabel 1. Teknologi yang Digunakan Tim iOS Bukalapak …………………………..     6  
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 2. Pembagian Kerja Tim Kerja Praktik iOS Bukalapak .…………...………..     8  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ………………………...vii  
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 2 LOG KERJA PRAKTIK ……………………………………………ix  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis telah memulai proses pencarian kerja praktik sejak awal bulan Februari 2016. Pada bulan tersebut, penulis belum mencoba mengajukan lamaran, tetapi hanya sebatas melakukan pengumpulan informasi. Penulis mencari tempat kerja praktik di mana terdapat posisi yang sesuai minat penulis. Penulis memiliki minat di bidang pengembangan aplikasi <it>mobile.</it> Untuk kriteria perusahaan, penulis ingin mencari pengalaman di perusahaan yang bergerak di bidang <it>e-commerce.</it> Hal tersebut dikarenakan penulis merasa bidang <it>e-commerce</it> sedang berkembang di Indonesia dan penulis berharap mendapatkan banyak pelajaran dari perusahaan tersebut. Beberapa perusahaan yang sempat menarik perhatian saya adalah Bukalapak dan Tokopedia. Penulis mendapatkan informasi mengenai lowongan kerja praktik dari beberapa teman dan dari <it>website</it> kedua perusahaan <it>e-commerce</it> tersebut. Hanya saja di antara kedua perusahaan tersebut, hanya Bukalapak yang memiliki posisi untuk <it>mobile</it> <it>apps</it> <it>developer.</it> Oleh karena itu, penulis segera melamar di Bukalapak. Proses pengajuan lamaran di Bukalapak diawali dengan mendaftar melalui <it>website</it> di https://www.Bukalapak.com/careers pada 14 Maret 2016. Selain itu, penulis juga mengirimkan <it>email</it> lamaran kerja yang berisi <it>resumee</it> dan <it>cover</it> <it>letter</it> kepada salah satu HRD Bukalapak. Dalam selang beberapa jam, penulis mendapatkan email berisi tugas tahap pertama untuk posisi <it>mobile</it> <it>apps</it> <it>developer.</it> Dalam tugas tersebut, penulis diharuskan membuat aplikasi <it>mobile</it> sederhana yang memenuhi kriteria tertentu. Durasi pengerjaan tugas ini adalah selama tiga hari. Setelah mengerjakan tugas tersebut, penulis mengirimkan hasil tugas dengan membalas email sebelumnya. Satu minggu kemudian, penulis mendapatkan email untuk melaksanakan wawancara di kantor Bukalapak pada 24 Maret 2016. Beberapa jam setelah wawancara, penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			mendapatkan <it>email</it> yang menyatakan penulis diterima untuk kerja praktik di Bukalapak. Setelah diterima di Bukalapak, penulis sempat mencari beberapa informasi lain mengenai tempat kerja praktik, tetapi tidak sampai tahap melamar dikarenakan beberapa hal. Hal tersebut di antaranya adalah posisi <it>mobile</it> <it>apps</it> <it>developer</it> tidak tersedia atau tempat kerja yang dirasa kurang memfasilitasi. Kerja praktik di Bukalapak di mulai pada 13 Juni 2016 hingga 26 Agustus 2016. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukalapak merupakan sebuah <it>online</it> <it>marketplace</it> di Indonesia yang menyediakan sarana untuk melakukan kegiatan jual-beli dari konsumen ke konsumen. Visi Bukalapak adalah menjadi <it>online</it> <it>marketplace</it> nomor 1 di Indonesia, sedangkan misi Bukalapak adalah memberdayakan Usaha kecil Menengah (UKM) yang ada di seluruh Indonesia [1]. Layanan Bukalapak tersedia dalam bentuk <it>website</it> dan aplikasi <it>mobile.</it> Dalam struktur organisasinya terdapat tiga bagian secara umum, yaitu direktur, divisi, dan departemen. Untuk bagian direktur terdapat <it>President,</it> <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO), <it>Chief</it> <it>Operation</it> <it>Officer</it> (COO), dan <it>Chief</it> <it>Financial</it> <it>Officer</it> (CFO). Setiap direktur membawahi divisi atau departemen tertentu. Struktur organisasi Bukalapak dapat di lihat pada gambar 1. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada kegiatan kerja praktik ini, penulis ditempatkan di divisi <it>Engineering</it> dan di bawah departemen <it>mobile</it> <it>apps</it> <it>developer.</it> Di departemen tersebut, penulis bergabung di dalam tim iOS yang bertanggung jawab dalam mengembangkan aplikasi Bukalapak yang berbasis sistem operasi iOS. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Gambar 1. Struktur Organisasi Bukalapak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Bukalapak menyediakan berbagai media sehingga pengguna dapat mengakses <it>online</it> <it>marketplace</it> dengan berbagai pilihan. <it>Website</it> dan aplikasi <it>mobile</it> merupakan media yang disediakan Bukalapak untuk menjangkau penggunanya. Aplikasi <it>mobile</it> yang dikembangkan Bukalapak terdiri dari dua kategori berdasarkan sistem operasinya, yaitu Android dan aplikasi iOS. Untuk kategori Android, Bukalapak telah mengembangkannya lebih lama dibandingkan dengan kategori iOS. Hal ini berdampak pada masih terdapat beberapa layanan pada kategori iOS yang belum diimplementasikan. Terdapat dua isu utama pada layanan yang belum sempurna diimplementasikan pada aplikasi Bukalapak kategori iOS. Pertama, aplikasi belum kompatibel dengan perangkat iPad. Kedua, aplikasi belum memiliki layanan <it>chatting</it> seperti yang sudah ada di <it>website</it> atau aplikasi Bukalapak kategori Android. Beberapa masalah terkait kompatibilitas tersebut dikarenakan oleh penggunaan <it>library</it> yang tidak dapat digunakan pada perangkat iPad. Selain itu, dibutuhkan penanganan berbeda agar kode program dapat menampilkan layanan Bukalapak pada layar perangkat iPad. Dalam mengatasi permasalahan di atas, penulis bersama dua orang mahasiswa Fakultas Ilmu Komputer Universitas Indonesia yang juga sedang melaksanakan Kerja Praktik (Arief Radityo dan Azhar Fauzan), ditempatkan dalam satu tim. Fokus utama dalam tim ini adalah untuk menyelesaikan dua isu utama pada aplikasi Bukalapak kategori iOS. Di samping kedua fokus tersebut, penulis juga di tugaskan untuk membantu mengembangkan aplikasi Bukalapak kategori iOS secara umum seperti penambahan fitur baru, migrasi kode, atau perbaikan <it>bug.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam proses pengembangan, tim iOS menggunakan metodologi <it>scrum.</it> <it>Scrum</it> merupakan salah satu bentuk pengembangan <it>agile.</it> Ciri <it>agile</it> adalah proses pengembangan perangkat lunak diharuskan dapat beradaptasi secara cepat terhadap perubahan dalam bentuk apa pun. <it>Scrum</it> adalah kerangka kerja yang bersifat iterasi dan inkremental. Dalam pelaksanaannya tim iOS menggunakan JIRA untuk memantau <it>sprint</it> yang sedang berlangsung. Berikut merupakan tahapan yang dilakukan ketika tahap pengembangan dilaksanakan: 1. Membuat <it>product</it> <it>backlog</it> yang merupakan pengumpulan <it>requirement</it> baik terdiri dari fitur baru atau perbaikan <it>bug.</it> 2. Melakukan <it>Sprint</it> <it>planning</it> di mana <it>product</it> <it>backlog</it> akan dipilih dan di tugaskan kepada anggota tim. 3. Melakukan <it>Sprint,</it> pada umumnya durasi <it>sprint</it> dilakukan selama 14 hari. Setiap hari dilakukan <it>daily</it> <it>standup</it> <it>meeting</it> di mana tim dapat saling berbagi informasi mengenai progres pekerjaan yang dilakukan. Berikut merupakan tahapan dalam mengerjakan sebuah <it>backlog:</it> a. Mengimplementasi kode sesuai dengan <it>backlog</it> yang diambil. Pada tahap ini, <it>backlog</it> berada pada status <it>in</it> <it>progress.</it> b. Melakukan <it>push</it> ke Github setelah mengimplementasi kode. c. Mengubah status <it>backlog</it> di JIRA menjadi <it>Done</it> sehingga tim <it>Quality</it> <it>Assurance</it> dapat melakukan pengujian terhadap kode yang dikerjakan. d. Jika eksekusi kode telah berjalan sesuai <it>requirement</it> dan dianggap tidak ada <it>bug,</it> maka status <it>backlog</it> akan berubah menjadi <it>accepted</it> dan <it>backlog</it> dianggap selesai. Jika tidak, maka kode harus diperbaiki dan mengulang poin 3a secara iterasi hingga program berjalan dengan baik dan benar. 4. Melakukan <it>sprint</it> <it>review</it> dan <it>sprint</it> <it>retrospective,</it> pada tahap ini akan dibahas mengenai <it>backlog</it> yang sudah selesai ataupun yang belum selesai dalam rangka 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			meningkatkan kinerja berikutnya. Tahapan ini tidak dilakukan secara formal, bergantung kepada isu pada suatu <it>sprint.</it> 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis menggunakan beberapa teknologi yang memudahkan penulis dalam menyelesaikan tugas yang diberikan. Teknologi tersebut dapat dilihat pada tabel 1. No Teknologi Fungsi Objective-C Bahasa untuk mengembangkan aplikasi iOS Swift Xcode Github Bahasa alternatif untuk mengembangkan aplikasi iOS <it>Integrated</it> <it>Development</it> <it>Environment</it> (IDE) <it>Repository,</it> <it>Version</it> <it>Control</it> SourceTree Git <it>Client</it> 
+		</segment>
+		<title>JIRA</title>
+		<segment>
+			<it>Project</it> <it>Tracking</it> <it>Software</it> Tabel 1. Teknologi yang Digunakan Tim iOS Bukalapak 1. Objective-C Objective-C adalah bahasa pemrograman utama untuk membuat <it>software</it> berbasis OS X dan iOS. Bahasa ini merupakan <it>superset</it> dari bahasa pemrograman C. Objective-C juga sudah memiliki kemampuan <it>object-oriented</it> sehingga dapat memodelkan objek yang ada dalam kehidupan nyata. Semua hal yang dimiliki bahasa C secara otomatis diturunkan ke Objective-c. Namun, Objective-C menambahkan beberapa <it>syntax</it> dalam mendefinisikan kelas dan fungsi [2]. Pada aplikasi Bukalapak kategori iOS, pengembangan pada tahap awal menggunakan Objective-C, tetapi karena banyak kekurangan, maka seluruh kode baru ditulis dengan bahasa Swift.</it> Kode lama secara perlahan di migrasi ke bahasa Swift. Karena banyak kelas dengan bahasa Objective-C yang saling berkaitan pekerjaan penulis, maka penulis juga menggunakan bahasa Objective-C. 2. Swift 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+		<pagenum>1</pagenum>
+		<pagenum>2</pagenum>
+		<pagenum>3</pagenum>
+		<pagenum>4</pagenum>
+		<pagenum>5</pagenum>
+		<pagenum>6</pagenum>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Swift adalah bahasa pemrograman yang dibangun dengan pendekatan modern terhadap keamanan, performa, dan pola desain. Swift mempunyai tujuan untuk menjadi bahasa yang dapat digunakan di berbagai pemrograman sistem seperti aplikasi <it>mobile,</it> aplikasi <it>desktop,</it> hingga layanan <it>cloud</it> [3]. Swift juga di desain untuk memberi kemudahan bagi <it>developer.</it> Hal tersebut tergambar dari beberapa perbedaan bahasa Swift dengan Objective-C. Swift lebih mudah dibaca dibandingkan dengan Objective-C. Penggunaan <it>syntax</it> pada Swift lebih pendek dan lebih menggambarkan makna. Swift juga lebih aman di banding Objective-C karena sudah mengatasi permasalahan <it>null</it> <it>pointer.</it> <it>Null</it> <it>pointer</it> merupakan sumber <it>bug</it> pada Objective-C. Permasalahan lain yang dapat di atasi Swift adalah terkait manajemen memori. Jika menggunakan Swift, <it>developer</it> tidak perlu memperhatikan pelepasan memori ketika program sudah tidak terpakai [4]. Pengembangan aplikasi Bukalapak sudah meninggalkan bahasa Objective-C dan beralih menggunakan bahasa Swift. 3. Xcode Dalam mengembangkan aplikasi iOS, penggunaan <it>Integrated</it> <it>Development</it> <it>Environment</it> (IDE) merupakan hal yang sangat mendasar. Xcode merupakan IDE yang dikembangkan oleh Apple yang dapat digunakan untuk mengembangkan aplikasi yang berbasis sistem operasi macOS, iOS, watchOS, atau tvOS [5]. Xcode mendukung berbagai bahasa termasuk Objective-C dan Swift yang penulis gunakan dalam kerja praktik ini. Pada kerja praktik, penulis menggunakan Xcode versi 8. Pada Xcode versi ini, terdapat fitur <it>storyboard</it> yang memberi kemudahan dalam melakukan desain terhadap <it>user</it> <it>interface.</it> Terdapat berbagai pilihan <it>extension</it> yang dapat digunakan pada Xcode. Misalnya adalah <it>formatter</it> untuk <it>indentation</it> kode. 4. Github Github adalah platform untuk memudahkan <it>developer</it> dalam melakukan kontrol terhadap kode yang dibuat serta memudahkan kolaborasi [6]. Github sangat berguna dalam melakukan kolaborasi kerja seperti halnya melakukan <it>track</it> pada kode yang telah dikerjakan. Beberapa fitur yang mendukung hal 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			tersebut adalah <it>repository,</it> <it>branch,</it> <it>commit,</it> <it>pull</it> <it>request</it> , atau <it>merger</it> <it>request.</it> Bukalapak menggunakan Github privat sehingga hanya bisa diakses oleh pengembang Bukalapak. 5. SourceTree SourceTree adalah aplikasi yang memudahkan interaksi pengguna Git secara visual. SourceTree tersedia untuk sistem operasi Windows dan OS X. Ketika ada perubahan yang terjadi pada <it>repository,</it> SourceTree akan memberikan notifikasi sehingga pengguna lebih mudah dalam memperhatikan perubahan yang ada. Penggunaan Macbook yang berbasis OS X pada pengembangan aplikasi iOS Bukalapak, menjadikan SourceTree menjadi aplikasi yang dipilih dalam membantu visualisasi <it>repository.</it> 6. JIRA JIRA adalah <it>software</it> <it>development</it> <it>tool</it> yang dapat membantu dalam melakukan <it>plan,</it> <it>track,</it> <it>release,</it> dan <it>report</it> untuk suatu <it>software.</it> JIRA biasa digunakan oleh tim pengembang yang menggunakan sistem <it>agile.</it> Bukalapak menggunakan JIRA untuk memantau perkembangan pekerjaan setiap anggota tim dalam bentuk <it>backlog.</it> Setiap <it>daily</it> <it>standup</it> <it>meeting,</it> JIRA akan dipakai sebagai panduan berdiskusi. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Gambaran</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pembagian tugas kerja praktik dalam tim kerja praktik penulis dapat dilihat pada tabel 2 di bawah ini. No Azhar Fauzan Arie Radityo Danan Arief Desprianto 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			<it>Redesign</it> <it>placeholder</it> Kompatibilitas Halaman Kompatibilitas Halaman aplikasi Halaman aplikasi   <it>Home</it> <it>screen</it>    Halaman    Detail Produk  manajemen alamat   <it>Chat</it> <it>room</it>    Halaman    Ringkasan Akun  pengaturan rekening bank 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			  Halaman  semua produk 
+		</segment>
+		<pagenum>2</pagenum>
+		<segment>
+			Implementasi <it>chat</it> Implementasi chat Impelementasi chat   Penggunaan  <it>library</it>    Menulis  ulang  dengan    <it>View</it> Gambar  JSQMessanger bahasa swift   <it>Save</it> Gambar untuk kirim dan   Halaman chat room    Mengatasi duplikasi pesan  terima pesan   Halaman chat room iPad    Halaman detail <it>chat</it>  
+		</segment>
+		<pagenum>3</pagenum>
+		<segment>
+			Perbaikan <it>bug</it> Perbaikan <it>bug</it> Perbaikan <it>bug</it>   Kirim pesan dengan    Halaman cari produk    Posisi status barang   <it>emoticon</it>   Halaman produk    <it>Chat</it> <it>websocket</it>    Halaman transaksi    Pesan ganda    Halaman ringkasan akun  4 Migrasi kode Migrasi kode Migrasi kode dari Objective-C ke   Penambahan  Buka Swift Dompet   Dependensi  halaman  <it>home</it>    Pencarian Buka Dompet  <it>screen</it>   Buka Dompet    Halaman pengaturan akun    Pengaturan <it>Email</it>    Halaman  pengaturan <it>password</it> Tabel 2. Pembagian Kerja Tim Kerja Praktik iOS Bukalapak Selama masa kerja praktik, penulis mengerjakan beberapa <it>backlog</it> yang terangkum dalam poin di bawah ini. 1. Kompatibilitas <it>Home</it> <it>screen</it> Salah satu halaman yang tidak kompatibel untuk perangkat iPad adalah halaman <it>Home</it> <it>screen.</it> Beberapa hal yang penulis lakukan pada halaman ini adalah:   membuat  aplikasi  dapat  digunakan  secara  <it>portrait</it>  dan  <it>landscape,</it>  menambahkan fitur <it>infinite</it> <it>scoll</it> pada <it>banner</it> promo   menambahkan label sisa hari promo pada <it>banner</it> promo    menambahkan label sisa hari promo pada barang promo  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			  mengubah  ukuran  <it>grid</it>  <it>view</it>  barang  agar  proporsional  di  tampilan  iPhone dan iPad. Gambaran hasil pekerjaan ini dapat dilihat pada gambar 2a dan 2b. 2. Implementasi <it>chat</it> Dalam layanan implementasi <it>chat,</it> penulis mendapatkan tugas untuk mengimplementasikan fitur <it>View</it> Gambar, di mana fitur tersebut dapat menampilkan gambar secara <it>full</it> <it>screen</it> jika pengguna memilih pesan gambar yang ada di <it>chat</it> <it>room.</it> Gambar yang dapat dilihat bisa berformat jpg, png, atau gif. Gambar juga harus dapat di <it>zoom</it> <it>in</it> atau <it>zoom</it> <it>out</it> ketika pengguna melakukan <it>pinch</it> pada layar. Selain itu, gambar juga dapat disimpan ke dalam perangkat pengguna. Gambaran hasil pekerjaan ini dapat dilihat pada gambar 2c. Tugas lain untuk penulis dalam implementasi chat adalah memperbaiki <it>bug</it> pada penampilan pesan di <it>chat</it> <it>room.</it> <it>Bug</it> tersebut terjadi jika ada pesan <it>text</it> dan pesan gambar yang dikirimkan bersamaan dari <it>website</it> Bukalapak. Dampaknya adalah hanya muncul satu pesan dari kedua pesan tersebut. Selain itu, pesan yang muncul memiliki tampilan yang tidak sesuai pada aplikasi Bukalapak kategori iOS. 3. <it>Bug</it> Ketika penulis sedang menunggu tim <it>Quality</it> <it>Assurance</it> menguji program yang penulis buat, terkadang penulis memperbaiki <it>bug</it> yang berskala kecil. Terlepas apakah bug berasal dari kode yang pernah penulis buat atau dari kode lain di luar pekerjaan penulis. 4. Migrasi dari Objective-C ke Swift Seiring dengan mulai beralihnya kode yang ditulis dalam Objective-C ke Swift, maka penulis juga melakukan beberapa migrasi dari Objective-C ke Swift. Beberapa hal tersebut adalah migrasi dependensi pada halaman <it>home</it> <it>screen,</it> migrasi halaman pengaturan akun, dan migrasi halaman pengaturan <it>password.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			(a) (b) (c) Gambar 2 Contoh tampilan aplikasi Bukalapak kategori iOS. (a) tampilan <it>potrait</it> halaman <it>home</it> <it>screen.</it> (b) tampilan <it>landscape</it> halaman <it>home</it> <it>screen.</it> (c) tampilan <it>view</it> gambar pada layanan <it>chatting.</it> 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			<bo>2.2.1.1.</bo> <bo>Perbandingan</bo> <bo>KAKP</bo> <bo>dan</bo> <bo>Pelaksanaan</bo> <bo>KP</bo> Metode <it>scrum</it> yang digunakan di tim iOS, berdampak pada deskripsi pekerjaan yang tidak dapat diprediksikan di awal pelaksanaan kerja praktik. Hal tersebut dikarenakan penulis diberlakukan seperti pengembang lain di tim iOS. Anggota tim akan diberikan tugas sesuai pada <it>backlog</it> yang ada pada <it>sprint</it> yang sedang berlangsung. Oleh karena itu, pada rancangan awal Kerangka Kerja Acuan Kerja Praktik (KAKP), penulis hanya menuliskan tugas rencana kerja secara umum. Rencana umum tersebut adalah mengembangkan aplikasi iOS Bukalapak (penambahan fitur, perbaikan <it>bug).</it> Setelah penulis selesai menjalani masa <it>training,</it> penyelia berhasil memberikan tugas yang modular sehingga bisa dijadikan KAKP. Tugas tersebut adalah mengenai 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			mengembangkan aplikasi iOS untuk iPad dan layanan <it>chatting</it> seperti yang telah dijelaskan sebelumnya. Karena pada saat itu, KAKP penulis belum disetujui oleh dosen kerja praktik yang bersangkutan, maka penulis melakukan revisi terhadap KAKP sehingga secara umum pelaksanaan kerja praktik berjalan sesuai dengan KAKP yang telah direvisi. Namun, penulis memperbaiki beberapa <it>bug</it> berskala kecil pada aplikasi di luar KAKP. <bo>2.2.1.2.</bo> <bo>Kendala</bo> <bo>Kerja</bo> <bo>Praktik</bo> Dalam proses pelaksanaan kerja praktik, penulis tidak mengalami masalah non-teknis yang berarti. Namun, kendala yang sering dialami penulis biasanya adalah seputar hal teknis. Hal pertama adalah terkait pembelajaran bahasa yang digunakan. Bahasa yang digunakan dalam pengembangan aplikasi Bukalapak kategori iOS ini adalah Objective-c dan Swift. Padahal, penulis sama sekali belum pernah mencoba kedua bahasa tersebut. Sifat dari kedua bahasa tersebut juga cukup berbeda sehingga penulis kesulitan dalam memahami secara menyeluruh untuk kedua bahasa tersebut. Untungnya, penulis diberi kesempatan untuk belajar kedua bahasa tersebut selama sekitar 2 minggu (<it>training).</it> Penulis memanfaatkan waktu tersebut untuk mempelajari kedua bahasa tersebut. Karena bahasannya cukup luas, penulis mencoba belajar berdasarkan contoh sehingga ilmu yang di dapat lebih mudah dipahami. Permasalahan kedua adalah mengenai memahami kode aplikasi yang sudah ada di sistem Bukalapak. Hal ini cukup sulit bagi penulis karena dalam satu proyek terdapat banyak sekali kode dan pola tertentu yang harus dipahami agar dapat berkolaborasi di proyek tersebut. Penulis mencoba mengatasi hal ini dengan hanya mempelajari kode –  kode  yang  sekiranya dibutuhkan penulis dalam mengerjakan sebuah <it>backlog.</it> Selain itu, penulis juga sering bertanya kepada penyelia atau anggota tim iOS lain yang sudah memahami kode – kode yang bersangkutan.  <bo>2.2.1.2.</bo> <bo>Pembelajaran</bo> <bo>Hard</bo> <bo>Skill</bo> <bo>dan</bo> <bo>Soft</bo> <bo>Skill</bo> Selama pembelajaran kerja praktik, penulis mendapatkan beberapa pelajaran berharga. Pelajaran tersebut terbagi menjadi pelajaran <it>hard</it> <it>skills</it> dan <it>soft</it> <it>skills.</it> Untuk pelajaran <it>hard</it> <it>skills,</it> penulis mendapatkan ilmu yang sangat berharga terkait pengembangan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			aplikasi berbasis sistem operasi iOS. Penulis menjadi paham dengan pemanfaatan teknologi yang telah dijelaskan sebelumnya, untuk mengembangkan aplikasi berbasis sistem operasi iOS. Untuk pembelajaran <it>soft</it> <it>skills,</it> penulis mendapatkan bahwa terdapat beberapa hal yang sangat penting untuk diperhatikan untuk dapat beradaptasi di suatu lingkungan kerja.   Pertama, penulis merasa seseorang harus memiliki sikap inisiatif. Bahkan untuk  mencari suatu lowongan kerja praktik, kita harus berinisiatif untuk aktif mencari informasi.   Kedua, seseorang harus dapat mengimbangi pesatnya perkembangan teknologi  dengan kemampuan belajar mandiri yang baik. Selain itu, tidak selalu terdapat teman atau rekan kerja yang dapat membantu kita setiap saat. Karena itu kita harus melatih kemampuan belajar mandiri kita secara baik agar dapat bekerja secara independen. Sumber belajar tidak selalu berasal dari internet ataupun buku. Sumber belajar terkadang bisa didapatkan dari orang – orang di sekitar  kita.   Ketiga, kita harus memiliki kemampuan komunikasi dan bekerja sama dengan  orang lain. Terkadang memang lebih mudah bekerja secara individu, namun dalam <it>software</it> <it>development,</it> komunikasi dan kerja sama tim sangat dibutuhkan. Contoh bentuk kerja sama tim adalah menyelesaikan suatu permasalahan dengan metode <it>divide</it> <it>and</it> <it>conquer.</it> Pada kasus ini dibutuhkan koordinasi yang baik seperti keseragaman penulisan kode agar program dapat dimengerti oleh anggota lain. Komunikasi yang baik juga dapat membuat kita nyaman dalam lingkungan kerja.   Keempat,  kita  harus  memiliki  rasa  tanggung  jawab  yang  tinggi.  Dari  pengalaman penulis, lingkungan kerja di tempat kerja praktik merupakan lingkungan yang santai, tetapi semua orang dapat menyelesaikan tugas yang diberikan tepat waktu. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			Empat hal tersebutlah yang penulis rangkum sebagai pelajaran <it>soft</it> <it>skills</it> dari pelaksanaan kerja praktik. <bo>2.2.1.3.</bo> <bo>Penilaian</bo> <bo>Terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis merasa Bukalapak adalah tempat yang baik untuk melaksanakan kerja praktik. Hal tersebut dikarenakan Bukalapak adalah perusahaan yang sedang berkembang di bidang <it>e-commerce</it> sehingga banyak hal yang bisa dipelajari. Budaya kerja di sini juga tergolong santai dan nyaman, tetapi tetap menjunjung tanggung jawab. Fasilitas yang diberikan kepada peserta kerja praktik juga menunjang pekerjaan. Penulis diberikan fasilitas MacBook sebagai perangkat dasar pengembangan iOS. Selain itu, disediakan berbagai fasilitas seperti makan siang dan malam, tempat olahraga, tempat bermain, ruang salat, bahkan sampai perpustakaan. Hubungan antara karyawan pun sangat terbuka sehingga sangat nyaman untuk bertukar pikiran ataupun bermain bersama tanpa memandang jabatan pekerjaan. Bukalapak juga tidak ragu untuk mengikutsertakan pelaksana kerja praktik untuk bergabung langsung ke dalam tim yang mengembangkan segala hal terkait layanan Bukalapak. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Penulis menyadari bahwa pelaksanaan kerja praktik memiliki relevansi dengan perkuliahan yang penulis jalani selama ini di Fasilkom UI. Beberapa mata kuliah yang dirasa memiliki relevansi paling tinggi selama pelaksanaan kerja praktik adalah: 1. Dasar – Dasar Pemrograman (DDP)  Walaupun bahasa pemrograman yang dipelajari berbeda dengan yang digunakan dengan kerja praktik, tetapi kerangka materi yang dipelajari saat belajar dasar – dasar pemrograman sangat memudahkan penulis untuk belajar  bahasa baru. 2. Struktur Data dan Algoritma (SDA) Penggunaan algoritme yang efisien, akan berdampak pada performa yang lebih baik untuk suatu program. Hal tersebutlah yang dapat menggambarkan mata kuliah SDA. <it>Backlog</it> yang penulis kerjakan bukanlah merupakan <it>backlog</it> yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<segment>
+			fokus terhadap algoritme. Namun, selama kerja praktik penulis berusaha untuk menulis kode yang efisien terkait kondisi percabangan, <it>looping,</it> atau penyimpanan data yang ada. 3. Rekayasa Perangkat Lunak (RPL) Mata kuliah RPL memberikan materi perkuliahan terkait metodologi dan siklus dalam suatu <it>software</it> <it>development.</it> Materi RPL yang penulis dapat dikelas bersifat teori terkait berbagai metode <it>software</it> development. <it>Agile</it> dan <it>Scrum</it> merupakan hal yang penulis pelajari dalam mata kuliah RPL dan kedua hal tersebut diterapkan dalam pelaksanaan kerja praktik penulis. Secara umum, penerapan <it>scrum</it> di tim iOS sama seperti materi <it>scrum</it> yang telah penulis pelajari selama perkuliahan RPL. 4. Proyek Perangkat Lunak (PPL) Pembelajaran mengenai proyek perangkat lunak secara praktis, telah penulis pelajari dalam mata kuliah PPL. Baik secara implementasi program ataupun penggunaan metodologi dalam mengembangkan suatu proyek. Mata kuliah PPL merupakan mata kuliah yang paling memodelkan pelaksanaan kerja praktik. Hanya saja di tempat kerja praktik, menerapkan ilmu yang lebih baik, teratur, dan efisien. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Kerja praktik yang dilakukan oleh penulis sebagai pengembang aplikasi Bukalapak kategori iOS selama 10 minggu, memberikan berbagai pelajaran dan manfaat. Walaupun di awal pelaksanaan sempat memiliki masalah terkait detail pekerjaan terkait KAKP, tetapi hal tersebut dapat diatasi. Setelah beberapa minggu, penulis mendapatkan tugas yang modular oleh penyelia. Pembelajaran yang penulis dapat di antaranya adalah   Mengetahui  struktur  organisasi  dan  budaya  kerja  sebuah  perusahaan  dengan  <it>core</it> teknologi informasi,   Mengetahui  penerapan  metodologi  pengembangan  perangkat  lunak  yang  dipelajari selama kuliah,   Meningkatkan kemampuan  <it>soft-skill</it> penulis seperti inisiatif, belajar mandiri,  komunikasi, kerja sama, dan tanggung jawab.   Tentunya  ditambah  dengan  pembelajaran  terkait  teknologi  baru  yang  memperluas wawasan penulis di bidang pengembangan aplikasi. Dengan kondisi perusahaan yang berkembang serta pemberian fasilitas yang memadai, Bukalapak merupakan tempat yang baik untuk belajar mengembangkan kemampuan <it>hard</it> <it>skills</it> dan <it>soft</it> <it>skills</it> penulis. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Dalam mempersiapkan kerja praktik, ada baiknya calon peserta kerja praktik menentukan minat sebelum mencoba melamar ke berbagai tempat kerja praktik. Hal ini dirasa penting oleh penulis. Hal tersebut dikarenakan kerja praktik merupakan sarana yang tepat untuk belajar. Sangat disayangkan jika calon peserta kerja praktik tidak melaksanakan kerja praktik di bidang yang di minati. Selain itu, sangat disarankan untuk secara periodik melakukan <it>review</it> terhadap mata kuliah yang sifatnya fundamental seperti dasar-dasar pemrograman, struktur data dan algoritme, atau 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<segment>
+			perancangan pemrograman web. Hal tersebut akan memudahkan dalam mencari tempat kerja praktik, karena hampir semua tempat kerja praktik akan mengadakan seleksi yang mengujikan mata kuliah yang sifatnya mendasar. Untuk Bukalapak, semoga terus membuka peluang bagi mahasiswa yang ingin belajar mengenai lingkungan kerja di bidang teknologi informasi. Selain itu perlu diperbaiki beberapa hal seperti diberikannya kartu akses untuk peserta kerja praktik. Hal ini dibutuhkan karena terkadang pelaksana kerja praktik tidak dapat melewati pintu utama, sedangkan selain pintu utama, dibutuhkan kartu akses agar bisa melewatinya. Selain itu, sering ada acara tertentu yang membuat pintu utama tidak bisa dilewati. Peningkatan lain yang perlu dilakukan mungkin adalah mengenai pemilihan waktu <it>team-building</it> di awal pelaksanaan kerja. Berdasarkan pengalaman penulis, <it>team-</it> <it>building</it> diadakan di akhir kerja praktik. Penulis merasa akan lebih baik jika hal tersebut dilakukan di awal masa kerja praktik. Untuk pihak dosen dan fakultas, penulis berharap terdapat perbaikan sistem terkait pelaksanaan kerja praktik. Salah satu masalah yang cukup besar bagi penulis adalah kurang cepatnya tanggapan dari pihak dosen. Hal tersebut dapat menghambat proses pelaksanaan kerja praktik seperti pada saat pembuatan KAKP. Format laporan KAKP juga mungkin bisa diperjelas, dikarenakan terjadi perbedaan standar antar dosen saat penulis mencoba membandingkan forum laporan kerja praktik antar kelas. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Tentang Kami - About Us. (n.d.). Retrieved November 18, 2016, from https://www.bukalapak.com/about [2] Programming with Objective-C. (n.d.). Retrieved November 18, 2016, from http://developer.apple.com/library/content/documentation/Cocoa/Conceptual/Progra mmingWithObjectiveC/Introduction/Introduction.html [3] About Swift. (n.d.). Retrieved November 18, 2016, from https://Swift.org/about/#Swiftorg-and-open-source [4] Solt, P. (2015, May 11). Swift vs Objective-C: 10 reasons the future favors Swift. Retrieved November 18, 2016, from http://www.infoworld.com/article/2920333/mobile-development/Swift-vs-objective- c-10-reasons-the-future-favors-Swift.html [5] Xcode. (n.d.). Retrieved November 18, 2016, from https://developer.apple.com/xcode/ [6] Hello World. (n.d.). Retrieved November 18, 2016, from https://guides.github.com/activities/hello-world/ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

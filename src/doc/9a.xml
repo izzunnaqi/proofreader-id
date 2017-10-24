@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>SOFTWARE</bo></it> <it><bo>ENGINEER</bo></it> <it><bo>OF</bo></it> <it><bo>THAILAND</bo></it> <it><bo>BANK</bo></it> <it><bo>STATEMENT</bo></it></title>
+		<title><it><bo>FETCHER</bo></it> <it><bo>FOR</bo></it> <it><bo>TRAVELOKA</bo></it> <it><bo>PAYMENT</bo></it> <it><bo>MISSION</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>WIRATMIKA</bo> <bo>1306402873</bo></title>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Wiratmika : 1306402873 : Ilmu Komputer : <it>Software</it> <it>Engineer</it> <it>of</it> <it>Thailand</it> <it>Bank</it> <it>Statement</it> <it>Fetcher</it> <it>for</it> <it>Traveloka</it> <it>Payment</it> <it>Mission</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.A.,</bo> <bo>M.Sc.</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Penulis melakukan kerja praktik dalam rangka memenuhi mata kuliah kerja praktik semester ganjil 2016/2017 Fakultas Ilmu Komputer Universitas Indonesia. Pelaksanaan kerja praktik dilakukan di Traveloka pada tanggal 13 Juli hingga 12 September 2016. Penulis ditempatkan di <it>product</it> <it>team</it> bagian <it>payment</it> <it>mission</it> untuk membuat beberapa <it>fetcher</it> bank di Thailand dalam rangka peningkatan efisiensi operasional Traveloka. Tulisan ini akan membahas antara lain proses pencarian kerja praktik, pekerjaan yang dibuat, ilmu yang dipelajari, serta kendala yang ditemukan. Penulis memanfaatkan banyak teknologi dan bantuan untuk menyelesaikan tugas tersebut. Secara umum, pelaksanaan kerja praktik sesuai dengan kerangka acuan kerja praktik, namun memiliki beberapa perbedaan di jadwal kerja. <it>Fetcher</it> yang dibuat oleh penulis akan digunakan untuk jangka panjang dalam menunjang proses bisnis dan ekspansi Traveloka ke depannya. Kata kunci: <it>bank</it> <it>statement</it> <it>fetcher,</it> kerja praktik, <it>software</it> <it>engineering,</it> Traveloka 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR LAMPIRAN ................................................................................................. v BAB 1 PENDAHULUAN ........................................................................................... 1 1.1. Proses Pencarian Kerja Praktik ........................................................................ 1 1.2. Tempat Kerja Praktik ....................................................................................... 3 1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3 1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4 BAB 2 PELAKSANAAN KERJA PRAKTIK ............................................................ 5 2.1. Latar Belakang Pekerjaan ................................................................................ 5 2.2. Tinjauan Pustaka .............................................................................................. 6 2.3. Metodologi ....................................................................................................... 9 2.4. Teknologi ......................................................................................................... 9 2.5. Proyek Kerja dan Deliverables ...................................................................... 11 2.6. Non-Teknis .................................................................................................... 13 BAB 3 ANALISIS PEKERJAAN KERJA PRAKTIK .............................................. 14 3.1. Kesesuaian dan Perbedaan dengan KAKP .................................................... 14 3.2. Kendala dalam Kerja Praktik dan Cara Penanganannnya ............................. 15 3.3. Pembelajaran Soft Skill selama Kerja Praktik ............................................... 15 3.4. Penilaian Individu terhadap Tempat Kerja Praktik ....................................... 17 3.5. Relevansi dengan Perkuliahan di Fasilkom UI .............................................. 17 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			BAB 4 PENUTUP ..................................................................................................... 19 4.1. Kesimpulan .................................................................................................... 19 4.2. Saran .............................................................................................................. 20 DAFTAR REFERENSI .............................................................................................. 21 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>v</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis bercita-cita untuk merintis perusahaan yang mengembangkan produk berbasis teknologi khususnya perangkat lunak. Untuk mempersiapkan hal tersebut, sejak awal penulis berniat untuk mencari pekerjaan sebagai <it>software</it> <it>engineer</it> terutama untuk kerja praktik agar penulis bisa belajar mengenai pengembangan perangkat lunak langsung dari praktisi industri.</title>
+		<segment>
+			Ada beberapa kriteria spesifik mengenai perusahaan yang dicari oleh penulis, yaitu: •  Memandang  teknologi  sebagai  bagian  dari  nilai  utama  perusahaan,  bukan  sekedar alat bantu untuk mencapai tujuan bisnis •  Berukuran menengah, memiliki setidaknya 50 karyawan namun bukan korporat  yang sudah terlalu mapan •  Memiliki produk yang signifikan di mata penulis, dengan pasar dan masalah  konkret yang tervalidasi •  Memiliki budaya kerja yang kondusif dan progresif  •  Memiliki visi jangka panjang yang jelas  •  Didirikan oleh orang-orang dengan reputasi dan rekam jejak yang baik  Tujuan utama dari kriteria-kriteria tersebut adalah penulis ingin mendapat tanggung jawab dan pengalaman teknis sebanyak mungkin namun tetap dengan proporsional dengan kapabilitas penulis. Selain itu, perusahaan yang berukuran menengah biasanya sedang dalam fase pertumbuhan yang cepat sehingga bisa memberikan ilmu dan potensi pengembangan diri yang seharusnya paling besar. Dimulai sejak Maret 2016, penulis melamar di lima perusahaan yang sesuai dengan kriteria tersebut. Kelima perusahaan tersebut adalah Traveloka, Veritrans, Tokopedia, 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>2</pagenum>
+		<segment>
+			Bukalapak, dan Ninja Van. Penulis mengetahui seluruh perusahaan tersebut karena pernah memakai atau mendengar produk mereka dari berbagai sumber, khususnya media <it>online.</it> Seluruh pendaftaran penulis dilakukan melalui situs perusahaan masing- masing atau melalui surat elektronik (surel). Ninja Van adalah perusahaan rintisan berbasis di Singapura yang bergerak di bidang logistik <it>last-mile.</it> Penulis tertarik ke Ninja Van karena penulis juga memiliki keinginan untuk bekerja di Singapura, dan dari semua perusahaan teknologi Singapura yang ditemukan oleh penulis, Ninja Van merupakan pilihan yang paling menarik. Hal itu karena ukurannya sesuai dengan kriteria penulis dan mereka memanfaatkan teknologi sebagai nilai tambah utama produk mereka. Sayangnya, Ninja Van merespons penulis dengan menyatakan bahwa mereka tidak menerima karyawan magang dari luar negeri. Bukalapak adalah perusahaan <it>online</it> <it>marketplace</it> yang berbasis di Kemang. Meski sudah mendaftar melalui situs mereka, Bukalapak tidak memberi respons apa pun, dan penulis menduga posisi <it>software</it> <it>engineer</it> sudah penuh terisi. Sementara itu, Tokopedia, perusahaan kompetitor Bukalapak yang berbasis di Slipi, menawarkan kesempatan wawancara untuk penulis. Setelah melalui proses wawancara yang terdiri dari pertanyaan kepribadian dan teknis, penulis mendapat tawaran kerja praktik sebagai <it>software</it> <it>engineer</it> <it>intern.</it> Pada saat itu, penulis langsung menerima tawaran dari Tokopedia. Veritrans adalah perusahaan <it>payment</it> <it>gateway</it> yang berbasis di Jalan Sudirman. Veritrans memberikan respons melalui surel dan menawarkan penulis untuk mengikuti proses seleksi lebih lanjut melalui tes di tempat. Namun, karena lebih memilih Tokopedia, penulis tidak mengikuti tes tersebut. Traveloka adalah perusahaan <it>online</it> <it>travel</it> <it>agent</it> yang memiliki kantor di gedung yang sama dengan Tokopedia. Beberapa minggu setelah menerima tawaran dari Tokopedia, penulis dihubungi oleh <it>human</it> <it>resources</it> Traveloka dan menjalani wawancara teknis singkat melalui telepon. Setelah itu, penulis diberi kesempatan untuk menjalani proses wawancara tatap muka di Traveloka meskipun penulis sudah menyatakan ke mereka 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>3</pagenum>
+		<segment>
+			bahwa penulis sudah diterima di Tokopedia. Proses wawancara di Traveloka nyaris tidak memiliki pertanyaan mengenai kepribadian dan sangat menitik beratkan pada pertanyaan teknis. Pada akhirnya, penulis juga mendapat tawaran kerja praktik di Traveloka dengan posisi yang sama, yaitu sebagai <it>software</it> <it>engineer</it> <it>intern.</it> Setelah berkontemplasi mengenai kelebihan dan kekurangan kedua pilihan yang ada serta berdiskusi dengan orang tua, penulis memutuskan untuk melepas posisi di Tokopedia dan menerima tawaran dari Traveloka. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis melakukan kerja praktik selama tiga bulan di Traveloka, yang menjalankan bisnis sebagai PT Trinusa Travelindo.</title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Traveloka adalah layanan <it>online</it> <it>travel</it> <it>agent</it> di Asia Tenggara yang menyediakan layanan pemesanan tiket pesawat dan hotel secara <it>online.</it> Traveloka memiliki basis operasional di Jakarta, dan didirikan pada tahun 2016 oleh tiga orang <it>engineer</it> di Silicon Valley, yaitu Ferry Unardi, Derianto Kusuma, dan Albert Zhang. Selain di Indonesia, pada saat tulisan ini dibuat, Traveloka sudah beroperasi di beberapa negara di Asia Tenggara, yaitu Filipina, Malaysia, Singapura, Thailand, dan Vietnam, dengan lebih dari 1000 karyawan.</title>
+		<segment>
+			Traveloka memiliki visi jangka panjang untuk menjadi <it>mobility</it> <it>company,</it> yaitu mengubah cara manusia melakukan mobilisasi dengan memanfaatkan teknologi. Kantor pusat Traveloka terletak di gedung Wisma 77, dengan kantor cabang lokal di Bali. Traveloka memiliki struktur organisasi yang bersifat terdesentralisasi dan terdiri dari berbagai tim dengan <it>area</it> <it>of</it> <it>concern</it> yang berbeda-beda. Setiap tim memiliki struktur dan peran anggota yang berbeda-beda tergantung dengan kebutuhan dan tugas yang diemban. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>4</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Selama menjalani kerja praktik di Traveloka sebagai <it>software</it> <it>engineer</it> <it>intern,</it> penulis ditempatkan di <it>product</it> <it>team</it> bagian <it>payment</it> <it>mission,</it> yaitu tim yang membuat aplikasi dan layanan yang berkaitan dengan penerimaan pembayaran dari pengguna. Tujuan dari <it>payment</it> <it>mission</it> adalah untuk mendukung salah satu pilar bisnis Traveloka, yaitu pembayaran, dengan cara membuat proses pembayaran menjadi mudah dan memiliki friksi serendah mungkin.</title>
+		<segment>
+			Lebih spesifiknya lagi, penulis bekerja untuk <it>payment</it> <it>acquiring,</it> yaitu tim yang bertanggung jawab dalam menambah dan mengelola kanal pembayaran untuk memungkinkan pengguna membayar dengan cara yang lebih bervariasi. Dari sudut pandang bisnis, <it>payment</it> <it>acquiring</it> merupakan salah satu kepentingan yang paling krusial karena merupakan faktor prasyarat dalam membuka pasar baru, atau dengan kata lain, ekspansi ke luar negeri. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> Di dalam aplikasi Traveloka, baik <it>web,</it> <it>mobile,</it> maupun aplikasi <it>smartphone,</it> terdapat banyak metode pembayaran yang disesuaikan dengan kanal yang tersedia di suatu negara, seperti transfer bank, kartu kredit, dan gerai ritel. Transfer bank merupakan metode pembayaran yang paling populer karena mayoritas pengguna Traveloka memiliki rekening bank. Selain itu, transfer antar bank yang sama tidak terkena biaya, sehingga biaya operasionalnya lebih rendah dibanding metode lain seperti kartu kredit yang harus membayar biaya untuk pihak ketiga. Karena proposisi tersebut, membuka kanal pembayaran dengan metode transfer bank di seluruh negara tempat Traveloka beroperasi menjadi salah satu prioritas dari <it>payment</it> <it>acquiring.</it> Pilihan bank yang beragam akan menjadi nilai lebih di mata pengguna.</title>
+		<segment>
+			Pada saat tulisan ini dibuat, Traveloka sudah menerima sangat banyak pembayaran melalui transfer. Penulis pernah mendapat informasi bahwa terdapat sekitar puluhan ribu transaksi transfer per hari ketika penulis sedang melakukan kerja praktik. Angka tersebut akan terus bertambah dengan semakin banyaknya pengguna dan negara tempat Traveloka beroperasi. Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah, bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API) atau metode apapun bagi pihak luar untuk berkomunikasi dengan sistem mutasi mereka. Untuk itu, mengecek mutasi dan mendeteksi pembayaran pengguna harus dilakukan secara manual oleh operator manusia dari tim operasional Traveloka. Untuk membuat proses tersebut lebih efisien dan mempermudah tugas tim operasional, Traveloka mengembangkan sistem <it>fetcher</it> dengan menggunakan teknologi <it>in-house</it> buatan sendiri untuk mengambil data mutasi transaksi bank dan mengolahnya untuk dimasukkan ke dalam sistem secara otomatis, secara hampir <it>real-time.</it> Setelah data 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>6</pagenum>
+		<segment>
+			pembayaran masuk, maka tagihan yang bersesuaian juga akan diproses secara otomatis sehingga pengguna akan langsung mendapat tiket atau <it>voucher</it> hotel langsung setelah mereka melakukan transfer. Pada situasi normal yang diharapkan, waktu dari pengguna selesai melakukan transfer hingga mendapat konfirmasi dari sistem adalah sekitar satu menit, dengan asumsi tidak terdapat kendala pada sistem, baik milik Traveloka (sistem <it>payment</it> dan <it>booking)</it> maupun maskapai atau hotel yang bersangkutan. Sejak pertama kali diluncurkan, performa <it>fetcher</it> Traveloka mengalami fluktuasi dalam hal availabilitas dan waktu respons, baik karena faktor internal seperti pengubahan arsitektur <it>fetcher</it> maupun faktor eksternal seperti ketersediaan situs <it>internet</it> <it>banking</it> masing-masing bank. <it>Fetcher</it> terus diperbaiki dan dikembangkan untuk meningkatkan performa dan kapabilitasnya. Pada saat penulis melakukan kerja praktik, <it>fetcher</it> Traveloka sudah diimplementasikan untuk hampir seluruh bank besar di Indonesia. Tugas penulis adalah untuk membuat sistem yang serupa untuk bank-bank besar di Thailand. Ranah pekerjaan penulis adalah mempelajari situs <it>internet</it> <it>banking</it> beberapa bank di Thailand beserta keterbatasannya, mengadaptasi <it>fetcher</it> untuk mengambil dan mengolah mutasi rekening Traveloka, dan melakukan uji coba untuk sistem yang telah dibuat. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo> Selama satu setengah minggu pertama kerja praktik, penulis mempelajari konvensi penulisan kode, <it>codebase</it> dan arsitektur sistem yang sudah berjalan, serta alur kerja pengembangan perangkat lunak yang digunakan oleh Traveloka.</title>
+		<segment>
+			Traveloka menggunakan layanan <it>knowledge</it> <it>management</it> yaitu Confluence. Confluence adalah perangkat lunak kolaborasi tim untuk korporat yang dikembangkan dan dipasarkan oleh Atlassian [1]. Di dalam Confluence, terdapat seluruh informasi yang terkait dengan Traveloka, antara lain prosedur standar rekayasa perangkat lunak, informasi bisnis, alur teknis produk, hingga perencanaan untuk pengembangan produk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>7</pagenum>
+		<segment>
+			baru. Penulis memanfaatkan Confluence untuk mempelajari informasi sebanyak mungkin khususnya dalam segi teknis produk. Selain informasi yang terdapat di Confluence, penulis juga mempelajari hal lain yang terkait dengan pembuatan perangkat lunak terutama dengan konsiderasi arsitektur yang digunakan oleh Traveloka. Poin-poin tersebut adalah: <it>1.</it> <it>Asynchronous</it> <it>programming</it> Hal utama yang telah dipelajari oleh penulis adalah mengenai <it>async</it> <it>programming,</it> karena penulis belum pernah mendalaminya sebelumnya. <it>Async</it> <it>programming</it> memungkinkan kita untuk menulis kode yang tidak memblok proses lain, di mana sebuah <it>method</it> yang berpotensi menghabiskan waktu lama bisa dilewatkan terlebih dahulu sehingga proses lain bisa berjalan. Apabila method tersebut telah selesai dijalankan, barulah proses lain yang disebut <it>callback</it> akan dijalankan. Meski konsepnya sederhana, namun pengimplementasiannya dalam bahasa Java tidak begitu mudah. Bagi yang jarang menggunakannya, sintaksnya akan terasa aneh karena tidak begitu sederhana. Terkadang sebuah <it>async</it> <it>method</it> bisa merupakan <it>callback</it> dari <it>async</it> <it>method</it> lain sehingga berpotensi menghasilkan kode yang mengandung <it>callback</it> <it>hell.</it> <it>Async</it> <it>programming</it> diperlukan untuk <it>fetcher</it> Traveloka karena operasinya melibatkan koneksi dengan server lain menggunakan protokol <it>hypertext</it> <it>transfer</it> <it>protocol</it> (HTTP). Dengan menggunakan <it>async</it> <it>method,</it> ketika <it>fetcher</it> sedang mengambil data dari situs <it>internet</it> <it>banking,</it> proses lainnya tidak terhenti. 2. <it>Distributed</it> <it>network</it> <it>architecture</it> dan <it>remote</it> <it>procedure</it> <it>call</it> Besarnya jumlah pengguna Traveloka mengharuskan sistem yang memiliki kapasitas dan skalabilitas yang tinggi. Untuk memudahkan pengembangan dan pemeliharaan, layanan Traveloka dipecah menjadi banyak subkomponen yang saling berkomunikasi satu sama lain dengan menggunakan <it>remote</it> <it>procedure</it> <it>call</it> (RPC). Dengan begitu, satu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>8</pagenum>
+		<segment>
+			subkomponen bisa dipecah lagi menjadi beberapa <it>server</it> di balik <it>load</it> <it>balancer</it> untuk menjamin availabilitas, redundansi, dan performa. Untuk itu, meskipun masih berada di dalam satu <it>repository,</it> <it>codebase</it> Traveloka dipecah menjadi beberapa komponen besar. Terdapat dua komponen utama yang dipelajari dan disentuh oleh penulis, yaitu PG dan TAP. PG adalah komponen <it>payment</it> <it>gateway</it> yang bertugas untuk melayani seluruh kebutuhan terkait pembayaran. Karena transfer bank berada di dalam konteks pembayaran, maka sistem <it>fetcher</it> berada di dalam PG. Selain <it>fetcher,</it> seluruh metode pembayaran lain juga berada di dalam PG. TAP adalah platform untuk mengelola operasional sehari-hari Traveloka, dan sistem <it>fetcher</it> memerlukannya agar proses <it>fetcher</it> bisa dijalankan dan dikonfigurasi oleh tim operasional Traveloka yang mengurus pembayaran. 3. Hypertext transfer protocol Karena <it>fetcher</it> melibatkan banyak interaksi dengan server lain menggunakan HTTP, maka penulis juga mendalami lebih lanjut konsep terkait HTTP. Konsep-konsep dalam protokol HTTP yang dipelajari oleh penulis adalah mengenai pola <it>request-response,</it> <it>method,</it> <it>header,</it> <it>body,</it> <it>status</it> <it>code,</it> <it>cookie,</it> dan <it>session.</it> Selain itu, <it>fetcher</it> juga melibatkan penggunaan <it>hypertext</it> <it>markup</it> <it>language</it> (HTML) dan <it>scraping</it> menggunakan <it>library</it> jsoup. 4. <it>Software</it> <it>Development</it> <it>Life</it> <it>Cycle</it> (SDLC) SDLC adalah sebuah istilah yang mencakup banyak hal. Secara definisi, SDLC adalah model konseptual yang menjelaskan tahap-tahap yang ada dalam proyek pengembangan sistem informasi, dari studi feasibilitas awal hingga pemeliharaan aplikasi yang sudah selesai [2]. Agar kode yang baru dibuat bisa dipakai di Traveloka, kode tersebut harus melalui serangkaian proses yang terstandarisasi. Apa yang dipelajari oleh penulis mengenai SDLC lebih mengacu ke implementasi dan justifikasi di baliknya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>9</pagenum>
+		<title><bo>2.3.</bo> <bo>Metodologi</bo> <it>Product</it> <it>team</it> Traveloka menerapkan prinsip <it>agile</it> tanpa menggunakan kerangka kerja tertentu secara murni. Hal tersebut menyebabkan perencanaan kerja bersifat fleksibel dan tentatif, mengikuti kebutuhan bisnis dan proses pengembangan produk yang sedang berjalan. Traveloka menggunakan Confluence dan Google Docs untuk proses <it>design</it> <it>review</it> serta Asana untuk melacak pekerjaan dan koordinasi antar tim. Ketika penulis melakukan kerja praktik, Traveloka sedang merencanakan untuk beralih menggunakan JIRA.</title>
+		<segment>
+			Tim <it>payment</it> tidak mengadakan rapat formal rutin, melainkan hanya membuat laporan tiap minggu yang berisi hal yang sudah dilaksanakan, kendala yang dihadapi, dan hal yang akan dikerjakan. Laporan tersebut dikirim melalui surel ke milis tim <it>payment</it> agar bisa dibaca oleh semua orang. Namun, sesekali tim <it>payment</it> juga melakukan pertemuan langsung untuk berbagi ilmu dan pengalaman yang dipelajari oleh sesama anggota tim. Setiap kode yang dibuat harus melalui proses <it>code</it> <it>review</it> terlebih dahulu sebelum bisa dimasukkan ke <it>branch</it> <it>develop.</it> Code review tidak hanya bersifat basa-basi, melainkan benar-benar dilakukan menyeluruh di mana kode tidak akan bisa dimasukkan apabila belum di-review dan disetujui oleh reviewers. Hal ini diperlukan untuk mejmain kebeneran dan konssitensi kode serta engineer lain dari tim yang sama bisa saling mengetahui pekerjaan satu sama lain. 
+		</segment>
+		<title><bo>2.4.</bo> <bo>Teknologi</bo> Sebelum melakukan kerja praktik, penulis sudah mengetahui sedikit mengenai gambaran <it>technology</it> <it>stack</it> yang digunakan Traveloka setelah membaca tulisan CTO Traveloka, Derianto Kusuma, di Quora. Meski tulisan tersebut ditulis beberapa tahun yang lalu, banyak informasi yang masih valid sampai ketika penulis melakukan kerja praktik.</title>
+		<segment>
+			Traveloka menggunakan bahasa pemrograman Java untuk hampir seluruh kode yang dibuat, baik <it>backend</it> maupun <it>frontend.</it> <it>Template</it> <it>engine</it> yang digunakan untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>10</pagenum>
+		<segment>
+			menghasilkan HTML adalah Apache Velocity. Dulu, Traveloka menggunakan <it>framework</it> Play versi Java, akan tetapi, karena <it>framework</it> tersebut tidak sesuai dalam memenuhi kebutuhan yang ada, maka Traveloka sekarang sudah beralih menggunakan <it>framework</it> buatan Traveloka sendiri. <it>Database</it> <it>management</it> <it>system</it> utama yang digunakan adalah MongoDB karena banyak data Traveloka yang bersifat sesaat, dengan <it>accessor</it> yang sudah diimplementasikan dalam bahasa Java. Ketika penulis melakukan kerja praktik, sedang terjadi proses migrasi ke PostgreSQL untuk menangani data <it>transaksional</it> untuk menjamin integritas data dengan lebih baik. Traveloka banyak menggunakan <it>library</it> dan perangkat lunak <it>open</it> <it>source.</it> Misalnya, Jetty digunakan sebagai <it>embedded</it> <it>server</it> baik dalam lingkungan <it>development,</it> <it>staging,</it> maupun <it>production.</it> Git digunakan sebagai <it>version</it> <it>control</it> <it>system</it> untuk seluruh <it>repository</it> yang ada. <it>Codebase</it> utama Traveloka sangat besar sehingga memerlukan waktu yang lama untuk dikompilasi (30 hingga 60 menit). Untuk itu, terdapat beberapa <it>remote</it> <it>build</it> <it>server</it> untuk menjalankan proses <it>build</it> baik untuk keperluan <it>staging</it> maupun <it>production.</it> Untuk mengatur server tersebut, dulunya Traveloka menggunakan GoCD. Namun, ketika penulis melakukan kerja praktik, tim <it>devops</it> Traveloka melakukan migrasi untuk beralih ke Jenkins. <it>Integrated</it> <it>development</it> <it>environment</it> standar yang digunakan oleh <it>software</it> <it>engineer</it> adalah IntelliJ IDEA, kecuali untuk pengembangan aplikasi <it>smartphone.</it> Layanan <it>repository</it> <it>hosting</it> yang digunakan dulunya adalah Bitbucket, namun sekarang sudah dipindah ke Phabricator yang dijalankan di <it>server</it> internal Traveloka karena Phabricator memiliki fitur dan alur <it>code</it> <it>review</it> yang lebih baik. <it>Repository</it> yang ada di Bitbucket masih beroperasi, namun hanya sebagai <it>mirror.</it> Ansible digunakan untuk mengelola seluruh <it>server</it> <it>staging</it> dan <it>production.</it> Perkakas tersebut diperlukan karena terdapat banyak <it>server</it> yang dioperasikan oleh Traveloka, 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>11</pagenum>
+		<segment>
+			sehingga proses yang umum dilakukan seperti <it>deployment</it> dikemas dalam kode yang bisa digunakan berulang kali. Kode itu digunakan untuk melakukan operasi ke banyak <it>server</it> secara simultan. Selain teknologi yang sudah disebutkan di atas, ada juga beberapa perkakas yang dibuat oleh Traveloka sendiri khususnya skrip yang berkaitan dengan keperluan <it>devops.</it> Ada juga hal lain yang sudah diabstraksikan untuk langsung digunakan seperti berbagai layanan Amazon Web Services, namun penulis tidak berhubungan langsung dengan hal tersebut. 
+		</segment>
+		<title><bo>2.5.</bo> <bo>Proyek</bo> <bo>Kerja</bo> <bo>dan</bo> <bo>Deliverables</bo> Hari pertama kerja praktik diisi oleh sesi perkenalan oleh karyawan yang baru masuk serta penjelasan singkat mengenai profil perusahaan. Setelah itu, setiap orang mendapat pembagian inventori pinjaman, di mana penulis dan sebagian besar <it>software</it> <it>engineer</it> <it>intern</it> lainnya mendapat <it>notebook</it> Lenovo ThinkPad yang sudah berisi sistem operasi Ubuntu.</title>
+		<segment>
+			tersebut antara <it>Devops</it> Traveloka membuat skrip yang akan mengkonfigurasi komputer secara otomatis. Hal yang dilakukan skrip lain memasang dan mengkonfigurasi perkakas <it>system-wide,</it> memasang dan mengkonfigurasi IntelliJ IDEA, dan mengunduh <it>repository</it> utama Traveloka. Meski proses dan tujuannya cukup jelas, namun menjalankan skrip tersebut hingga tuntas cukup sulit karena banyaknya masalah yang ditemukan baik oleh penulis maupun <it>software</it> <it>engineer</it> lain. Sebagian masalah tersebut biasanya berkaitan dengan koneksi internet yang kurang memadai atau masalah <it>permission</it> pada beberapa direktori. Setiap karyawan baru Traveloka dianjurkan untuk membaca panduan <it>onboarding</it> yang terdapat di Confluence. Setiap posisi memiliki dokumen <it>onboarding</it> yang berbeda- beda tergantung kemampuan yang diharapkan serta pengetahuan dan perkakas yang sekiranya akan diperlukan. Di <it>backend</it> <it>engineer</it> <it>onboarding,</it> penulis membaca banyak informasi yang berkaitan dengan proses pengembangan perangkat lunak yang digunakan di Traveloka. Pada hari ketiga, penulis menghadiri pertemuan dengan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>12</pagenum>
+		<segment>
+			<it>product</it> <it>manager</it> untuk <it>payment</it> <it>acquiring,</it> Budi Waskita, untuk mendapat penjelasan mengenai tugas yang harus dikerjakan penulis. Setelah mendapat penjelasan mengenai <it>fetcher</it> dan garis besar pekerjaan yang harus dibuat penulis, pada awalnya, penulis tidak memiliki bayangan bagaimana teknis implementasinya sama sekali. Penulis harus mempelajari terlebih dahulu sistem <it>fetcher</it> yang sudah berjalan dengan cara membaca kode untuk <it>fetcher</it> bank Thailand yang sudah pernah diimplementasikan sebelumnya. Setelah mempelajari kode tersebut, penulis mulai mengembangkan <it>fetcher</it> untuk bank yang harus dibuat oleh penulis dengan cara melakukan uji coba berkali-kali. Hal ini dikarenakan situs <it>internet</it> <it>banking</it> setiap bank berbeda-beda dan sebagian besar memiliki perilaku yang sulit diprediksi. Satu-satunya cara yang paling efektif adalah dengan langsung mencoba menjalankan kodenya ke situs <it>internet</it> <it>banking</it> dengan rekening <it>dummy</it> atau rekening operasional agar bisa melihat langsung respons dan hasilnya. <it>Fetcher</it> pertama buatan penulis selesai sekitar sebulan setelah penulis melakukan kerja praktik. Hanya dalam beberapa hari setelah peluncurannya, angka transaksi transfer untuk bank tersebut melonjak tinggi karena bank tersebut merupakan bank dengan jumlah nasabah ketiga terbesar di Thailand. Pada akhirnya, penulis berhasil menyelesaikan lima <it>fetcher</it> untuk lima bank yang berbeda sesuai dengan jadwal. Dengan dorongan dan koordinasi dari beberapa <it>software</it> <it>engineer</it> lain yang lebih senior, penulis berhasil membuat <it>building</it> <it>blocks</it> untuk pengembangan <it>fetcher</it> selanjutnya. <it>Building</it> <it>blocks</it> tersebut adalah prosedur terstruktur dan terstandarisasi dalam pengembangan <it>fetcher,</it> yaitu diagram <it>nodes</it> dalam alur melakukan <it>scraping</it> serta struktur <it>async</it> <it>method</it> yang lebih elegan untuk mencegah <it>callback</it> <it>hell.</it> Hal itu diharapkan akan memudahkan pengembangan <it>fetcher</it> ke depannya khususnya bagi <it>software</it> <it>engineer</it> baru. Selain itu, diharapkan kode implementasi dan dokumentasinya lebih rapi karena sudah memiliki standar. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>13</pagenum>
+		<segment>
+			Selain membuat <it>fetcher</it> beserta <it>building</it> <it>blocknya,</it> penulis juga mendokumentasikan kode dan seluruh pekerjaan penulis ke dalam Confluence agar pembuat <it>fetcher</it> berikutnya bisa mengetahui apa kendala dan potensi masalah yang ada selama pembuatan <it>fetcher.</it> Selama belum ada sistem yang akan menggantikan <it>fetcher</it> (seperti API dari bank) atau perombakan masif dari infrastuktur <it>fetcher</it> yang ada, <it>fetcher</it> dan <it>building</it> <it>blocks</it> buatan penulis akan terus digunakan dan semakin meningkat penggunaan serta manfaatnya. Sayangnya, penulis tidak bisa mencantumkan sampel kode, diagram, ataupun dokumen lain yang sudah dibuat karena merupakan konten perusahaan yang bersifat konfidensial. Traveloka secara umum mempunyai kecenderungan untuk berbagi informasi mengenai teknologi yang diterapkan di Traveloka, kecuali untuk hal yang berkaitan dengan proses bisnis. Karena <it>fetcher</it> merupakan salah satu poin kelebihan bisnis kompetitif yang dimiliki oleh Traveloka, teknologi tersebut tidak bisa dibagikan ke pihak luar mana pun. 
+		</segment>
+		<title><bo>2.6.</bo> <bo>Non-Teknis</bo> Selama menjalani kerja praktik, penulis mendapat cukup banyak waktu untuk mempelajari berbagai hal, baik yang berkaitan langsung dengan pekerjaan atau pengetahuan lainnya yang tidak berkaitan. Sebagai contoh, apabila penulis sedang menunggu proses <it>remote</it> <it>build,</it> penulis sering meluangkan waktu dengan cara membaca artikel-artikel menarik di Confluence untuk mempelajari proses bisnis dan perencanaan produk masa depan Traveloka.</title>
+		<segment>
+			Traveloka memiliki jam kerja fleksibel untuk hampir seluruh divisi kecuali tim operasional. Penulis bekerja dari sekitar pukul 10 pagi hingga pukul 6 petang. Penulis dibimbing oleh seluruh <it>software</it> <it>engineer</it> dari tim <it>payment</it> dan mendapat seorang mentor untuk konsultasi dan pengawasan, yaitu David Bayu Ananda. Setiap minggu, penulis bertemu dengan penyelia, Kemal Darmawan, untuk membicarakan perkembangan, kendala, dan rencana penulis mengenai pekerjaan dan pengembangan diri penulis selama menjalani kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>14</pagenum>
+		<segment>
+			Secara umum, lingkungan kerja Traveloka sangat profesional namun tidak hierarkis sehingga siapa pun bisa saling berinteraksi tanpa adanya kecanggungan. Apabila penulis mengalami kendala di luar ranah tim <it>payment,</it> penulis bisa langsung menghubungi orang yang relevan tanpa pernah mendapat penolakan. 
+		</segment>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo> <bo>PEKERJAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Secara umum, pekerjaan yang dilakukan oleh penulis sesuai dengan apa yang sudah direncanakan di kerangka acuan kerja praktik (KAKP). Ranah pekerjaan dan langkah yang penulis lakukan hampir sama dengan apa sudah tercantum di KAKP.</title>
+		<segment>
+			Perbedaan yang cukup drastis adalah jadwal kerja yang disebabkan oleh dua faktor utama. Pertama, pada saat perancangan KAKP, penyelia belum bisa memberikan gambaran yang cukup mendetil mengenai jadwal kerja penulis. Kedua, penulis baru mengetahui setelah KAKP disetujui bahwa setiap <it>fetcher</it> sudah memiliki tenggat waktu peluncuran masing-masing, tidak seperti perkiraan penulis di mana <it>fetcher</it> bisa dikerjakan secara paralel. Oleh karena itu, <it>fetcher</it> pertama selesai ketika penulis memperkirakan masih melakukan uji coba dan pengembangan <it>fetcher</it> secara keseluruhan. Meskipun begitu, tanggal berakhirnya kerja praktik penulis sama dengan apa yang sudah direncanakan. Selain itu, penulis tidak sempat mencari tahu keterbatasan situs <it>internet</it> <it>banking</it> yang dibuat <it>fetcher-nya</it> oleh penulis. Beberapa situs <it>internet</it> <it>banking</it> seperti Bank BCA hanya mampu menampilkan sejumlah transaksi dalam satu hari, dan transaksi yang berlebih tidak bisa ditampilkan. Untuk mengatasi keterbatasan tersebut, Traveloka memiliki beberapa rekening untuk bank yang sama. Karena angka transaksi di Thailand belum sebanyak transaksi di Indonesia dan mengujinya tidak memungkinkan, maka penulis tidak sempat mencari tahu keterbatasannya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>15</pagenum>
+		<title><bo>3.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganannnya</bo> Selama pembuatan fetcher, penulis sempat menemui beberapa kendala, baik karena kesalahan atau kurangnya pengalaman penulis maupun faktor eksternal yang tidak mungkin penulis atasi sendiri. Namun dari semua kendala tersebut, penulis tidak menemui kendala yang benar-benar menghambat pekerjaan, di mana sebagian besar hanya masalah-masalah kecil yang tidak perlu penanganan khusus. Kendala yang dihadapi oleh penulis justru menambah pengalaman dan meningkatkan kemampuan penyelesaian masalah penulis.</title>
+		<segment>
+			Salah satu hal yang menyulitkan pekerjaan penulis adalah setiap situs <it>internet</it> <it>banking</it> memiliki pola dan cara kerja yang sangat berbeda satu sama lain. Hal itu menyebabkan pekerjaan penulis mengharuskan adanya banyak <it>trial</it> <it>and</it> <it>error,</it> di mana setiap <it>fetcher</it> harus menyesuaikan karakteristik masing-masing situs <it>internet</it> <it>banking.</it> Hal tersebut diperparah dengan durasi proses <it>build</it> yang cukup lama baik di komputer penulis maupun di <it>remote</it> <it>build</it> <it>server.</it> Pada kasus di mana pengujian harus dilakukan di <it>server</it> <it>staging</it> sehingga <it>full</it> <it>build</it> harus dilakukan, hal ini bisa sangat memakan waktu. Kendala lainnya adalah <it>repository</it> kode yang masih bersifat tunggal menyebabkan pekerjaan setiap orang terhubung satu sama lain, khususnya di <it>branch</it> <it>develop.</it> Adanya fitur atau komponen yang baru dibuat atau diubah terkadang memerlukan konfigurasi baru yang harus dikonfigurasi secara manual di <it>database.</it> Selain itu, sering terjadi kasus di mana kode tidak bisa dikompilasi karena adanya kesalahan yang dibuat oleh tim lain. Ada juga kasus langka di mana tim <it>devops</it> yang bertugas dalam mengelola prosedur rilis mengubah kode tanpa memberitahukan seluruh pihak yang berkepentingan, sehingga proses rilis tim <it>payment</it> sempat terkendala selama beberapa hari. Kedua masalah tersebut bisa diatasi dengan cara mengkomunikasikannya dengan tim lain atau penanggung jawab yang bersangkutan. 
+		</segment>
+		<title><bo>3.3.</bo> <bo>Pembelajaran</bo> <bo>Soft</bo> <bo>Skill</bo> <bo>selama</bo> <bo>Kerja</bo> <bo>Praktik</bo> Ada beberapa <it>soft</it> <it>skill</it> yang penulis pelajari selama menjalani kerja praktik di Traveloka. Pembelajaran yang paling dirasakan adalah beban tanggung jawab atas</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>16</pagenum>
+		<segment>
+			tugas yang diberikan terasa sangat nyata. Setiap karyawan Traveloka, khususnya bagi <it>product</it> <it>team,</it> memiliki tanggung jawab individu yang disesuaikan dengan perannya. Setiap karyawan juga mendapat perlakuan yang sama dan diharapkan bisa belajar secara mandiri. Oleh karena itu, tugas yang diemban oleh karyawan magang memiliki bobot dan tanggung jawab yang sederajat dengan karyawan biasa. Sebagai contoh, penulis pernah dihubungi pada akhir pekan dikarenakan terdapat masalah pada salah satu <it>fetcher.</it> Meski akhirnya masalah tersebut bisa diselesaikan hanya dengan mengubah konfigurasi, insiden tersebut menunjukkan bahwa sistem yang dibuat oleh penulis merupakan bagian dari sistem <it>mission-critical</it> yang memiliki peran penting bagi operasional Traveloka. Untuk itu, setiap pekerjaan harus dikerjakan dengan sungguh-sungguh dan sepenuh hati. Pernah ada masalah di <it>server</it> <it>production</it> ketika penulis ingin melakukan <it>deployment</it> salah satu <it>fetcher</it> baru. Karena jadwal rilis harus tetap dipenuhi, penulis harus menunggu sampai larut malam sampai masalah diselesaikan oleh <it>release</it> <it>engineer.</it> Apabila pada saat itu peluncuran fetcher diundur, akan ada banyak pemegang kepentingan yang terkena dampaknya, khususnya <it>product</it> <it>manager</it> yang bertanggung jawab atas <it>payment</it> serta tim operasional dan pemasaran di kantor Thailand. Pembelajaran penting lainnya adalah mau bertanya kepada orang lain yang lebih mengerti tanpa keraguan. Meski bantuan mentor memang sangat signifikan, namun ada kalanya penulis menemukan masalah yang hanya bisa dipecahkan oleh orang lain yang lebih mengerti konteksnya, sering kali dengan hal yang berhubungan dengan <it>devops.</it> Traveloka menggunakan Slack sebagai perkakas komunikasi internal untuk menghubungkan seluruh karyawan yang ada di Traveloka dari seluruh jajaran, sehingga siapa pun bisa dihubungi dengan mudah. Penulis juga mempelajari mengenai pengelolaan waktu. Traveloka memberikan otonomi dan kebebasan waktu bagi karyawannya dalam mengerjakan pekerjaan. Apabila waktu yang diberikan tersebut tidak dimanfaatkan dengan baik, maka pekerjaan bisa tidak selesai dan berpotensi merugikan banyak pihak. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>17</pagenum>
+		<segment>
+			Seluruh sistem dan Confluence di Traveloka menggunakan bahasa Inggris formal. Komunikasi antar tim khususnya dalam bentuk tertulis juga menggunakan bahasa Inggris. Untuk itu, kemampuan berbahasa dan memahami konteks sangat berguna di mana pun, tidak terkecuali di Traveloka. 
+		</segment>
+		<title><bo>3.4.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Traveloka merupakan tempat untuk melakukan kerja praktik yang sesuai dengan kriteria dan harapan penulis. Lingkungan kerja di Traveloka sangat kondusif untuk belajar dan berkarya, di mana struktur organisasinya cenderung datar sehingga tidak ada politik dalam kantor. Semua orang harus bertanggung jawab atas pekerjaannya, sehingga semua orang harus merespons ketika mendapat pertanyaan dari tim lain dari ranah yang berbeda. Penulis pernah memanfaatkan kesempatan ini untuk bertanya banyak kepada <it>product</it> <it>manager</it> di tim <it>payment</it> terkait dengan seluk beluk sistem pembayaran yang ada di Traveloka. Budaya kerja Traveloka tidak pernah memandang individu sebelah mata, namun lebih melihat hasil (<it>result-oriented)</it> dan menghargai keberhasilan (<it>merit-based).</it></title>
+		<segment>
+			Akan tetapi, Traveloka juga memiliki beberapa ketidak sempurnaan bagi penulis. Penulis merasa Traveloka sebenarnya sudah terhitung terlalu mapan, sehingga penulis merasa sebagai individu hanya merupakan satu bagian kecil dari roda bisnis yang sangat besar. Meski tim penulis sudah menyatakan bahwa kontribusi yang diberikan penulis memiliki dampak yang besar dan berjangka panjang, namun penulis tetap merasa bahwa penulis belum menambah nilai yang nyata bagi perusahaan. 
+		</segment>
+		<title><bo>3.5.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> Pekerjaan penulis memiliki beberapa kaitan dengan perkuliahan program studi penulis, yaitu ilmu komputer. Berikut merupakan penjabaran spesifik mengenai mata kuliah yang memiliki relevansi:</title>
+		<segment>
+			1. Dasar-Dasar Pemrograman dan Struktur Data &amp; Algoritma 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>18</pagenum>
+		<segment>
+			DDP dan SDA memberikan pengetahuan dasar mengenai pemrograman yang diperlukan oleh <it>software</it> <it>engineer</it> dalam konteks apapun. Untungnya, bahasa yang digunakan oleh Traveloka dan kedua perkuliahan tersebut adalah sama yaitu Java, sehingga penulis tidak merasakan kesulitan dalam beradaptasi. 2. Perancangan &amp; Pemrograman Web dan Jaringan Komputer Seperti yang sudah penulis jabarkan sebelumnya, <it>fetcher</it> banyak menyinggung konsep yang berkaitan dengan internet. Tidak hanya itu, penulis juga sempat memperbaiki halaman pengaturan <it>fetcher</it> untuk tim operasional serta memperbaiki kode JavaScript yang bermasalah dan menyebabkan <it>fetcher</it> tidak berjalan dengan semestinya. <it>Fetcher</it> juga memerlukan penyimpanan data di <it>database,</it> namun ilmu mengenai <it>database</it> yang penulis pelajari selama perkuliahan tidak langsung diaplikasikan karena Traveloka menggunakan <it>database</it> NoSQL dan penulis cukup menggunakan <it>accessor</it> yang sudah ada serta siap digunakan. 3. Proyek Perangkat Lunak Di mata kuliah PPL <it>mentorship</it> semester genap 2015/2016, terdapat materi dan praktek mengenai testing. Hal tersebut diaplikasikan penulis ketika mengembangkan <it>fetcher</it> dengan cara membuat <it>automated</it> <it>unit</it> <it>testing</it> agar uji coba dan pengecekan hasil <it>fetch</it> bisa berjalan secara otomatis. 4. Pemrograman Sistem Selama membuat, menguji coba, dan melakukan <it>deployment</it> <it>fetcher,</it> penulis sangat mengandalkan UNIX <it>shell</it> untuk memenuhi berbagai kebutuhan. Mata kuliah pemrograman sistem pada dasarnya memperkenalkan konsep dan pemakaian <it>terminal</it> ke mahasiswa. Penulis juga sering melakukan koneksi SSH ke <it>server</it> untuk melakukan beberapa pekerjaan administratif seperti melihat <it>error</it> <it>log</it> dan mengambil <it>database</it> <it>production</it> untuk digunakan di <it>server</it> <it>development</it> atau <it>staging.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>19</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo> Penulis melakukan kerja praktik selama tiga bulan di Traveloka dari 13 Juni hingga 12 September 2016. Selama waktu tersebut, penulis ditempatkan di <it>product</it> <it>team</it> bagian <it>payment</it> <it>mission</it> untuk mengembangkan beberapa <it>fetcher</it> untuk bank di Thailand dalam rangka meningkatkan efisiensi operasional transaksi pembayaran melalui transfer.</title>
+		<segment>
+			Metodologi yang digunakan selama penulis melakukan kerja praktik menerapkan prinsip <it>agile</it> tanpa menggunakan kerangka kerja tertentu. Dalam rangka mendukung pengembangan <it>fetcher,</it> penulis mempelajari lebih dalam beberapa konsep seperti <it>asynchronous</it> <it>programming,</it> <it>distributed</it> <it>network</it> <it>architecture,</it> <it>remote</it> <it>procedure</it> <it>call,</it> <it>life</it> <it>cycle.</it> Penulis <it>hypertext</it> memanfatkaan beberapa teknologi yang digunakan di internal Traveloka seperti bahasa pemrograman Java, MongoDB, Git, GoCD, Jenkins, IntelliJ IDEA, Phabricator, dan Ansible. <it>transfer</it> <it>protocol,</it> dan <it>software</it> <it>development</it> Penulis berhasil menyelesaikan lima fetcher untuk lima bank berbeda di Thailand dengan tepat waktu. Tidak hanya itu, penulis juga membuat dokumentasi atas pekerjaan penulis serta <it>building</it> <it>blocks</it> untuk pengembangan <it>fetcher</it> ke depannya. Secara umum, penulis merasa puas telah melakukan kerja praktik di Traveloka karena budaya perusahan, bobot pekerjaan, dan ilmu yang didapat cukup sesuai dengan ekspektasi penulis. Penulis mendapat pengalaman yang tidak bisa didapat di perkuliahan, dan segala hasil pekerjaan penulis mendapat apresiasi karena akan bermanfaat bagi proses bisnis Traveloka dalam jangka panjang. Tidak hanya pengetahuan teknis, penulis juga mempelajari berbagai kemampuan non- teknis khususnya mengenai rasa tanggung jawab karena penulis mendapat tanggung 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>20</pagenum>
+		<segment>
+			jawab yang sederajat dengan karyawan biasa. Kesempatan tersebut belum tentu bisa didapat oleh penulis apabila melakukan kerja praktik di tempat lain. 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo> Penulis memiliki beberapa saran untuk tempat kerja praktik. Seperti yang sudah dijabarkan sebelumnya, salah satu poin yang penulis kurang sukai dari Traveloka adalah ukurannya yang terlalu besar. Hal ini menyebabkan penulis sempat merasa kehilangan arah pada awal pekerjaan karena tidak ada pelatihan atau sesi khusus bagi karyawan baru. Dampak yang sangat terasa adalah penulis tidak memiliki pengetahuan garis besar mengenai Traveloka, seperti tim-tim yang ada di perusahaan dan bagaimana cara kerja sistem-sistem yang sudah berjalan. Meskipun pada akhirnya penulis bisa mempelajari hal tersebut secara otodidak, alangkah baiknya apabila ada penjelasan mengenai hal tersebut untuk memperlancar karyawan baru dalam beradaptasi dengan lingkungan kerja Traveloka.</title>
+		<segment>
+			Penulis ingin memberi beberapa saran kepada mahasiswa yang akan melakukan kerja praktik ke depannya. Carilah pekerjaan berdasarkan apa yang ingin dilakukan, bukan berdasarkan masukan orang lain apa yang harus dilakukan. Untuk memudahkan proses pencarian tempat kerja praktik, daftarlah sedini mungkin, karena jika mendekati liburan persaingan akan semakin sulit karena kuota yang tersedia semakin berkurang. Untuk dosen kerja praktik dan fakultas, alangkah baiknya apabila persetujuan KAKP dilakukan lebih awal. Format <it>log</it> kerja praktik juga seharusnya diberikan lebih awal agar peserta memiliki gambaran seperti apa jurnal yang harus dibuat. Selain itu, presentasi kerja praktik seharusnya dipublikasikan dengan lebih baik sehingga mahasiswa yang belum melakukan kerja praktik bisa ikut datang ke presentasi untuk mengetahui perusahaan dan pekerjaan yang cocok bagi mereka. Apabila memungkinkan, seharusnya orientasi peserta presentasi kerja praktik seharusnya tidak hanya mahasiswa yang sedang mengambil mata kuliah kerja praktik, melainkan bagi mereka yang belum pernah melakukan kerja praktik sama sekali. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>21</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] <it>Confluence</it> <it>-</it> <it>Team</it> <it>Collaboration</it> <it>Software</it> <it>|</it> <it>Atlassian.</it> (2016). Diakses 4 Oktober 2016, dari https://www.atlassian.com/software/confluence. [2] <it>What</it> <it>is</it> <it>systems</it> <it>development</it> <it>life</it> <it>cycle</it> <it>(SDLC)?</it> <it>-</it> <it>Definition</it> <it>from</it> <it>WhatIs.com.</it> (2016). dari http://searchsoftwarequality.techtarget.com/definition/systems-development-life- cycle. Oktober 2016, Diakses 
+		</segment>
+		<pagenum>4</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

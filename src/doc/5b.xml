@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>QUALITY</bo> <bo>ASSURANCE</bo> <bo>ANALYST</bo> <bo>:</bo> <bo>KUDO</bo> <bo>MOBILE</bo> <bo>APPLICATION</bo> &amp; <bo>FIELD</bo> <bo>OFFICER</bo> <bo>APPLICATION</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>BINTI</bo> <bo>NUR</bo> <bo>CAHAYATI</bo></title>
+		<segment>
+			<bo>1306383035</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Binti Nur Cahayati : 1306383035 Program Studi : Sistem Informasi Judul Kerja Praktik : Quality Assurance Analyst : Kudo Mobile Application &amp; Field Officer Application <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>Fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom,</bo> <bo>M.Sc)</bo> Ditetapkan di : [NAMA TEMPAT] Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini berisi rangkuman kegiatan kerja praktik yang telah dilaksanakan oleh penulis untuk memenuhi mata kuliah wajib Fakultas Ilmu Komputer Universitas Indonesia yaitu Kerja Praktik (KP). Kerja praktik dilaksanakan selama dua bulan dimulai pada tanggal 13 Juni 2016 sampai dengan 12 Agustus 2016 di PT. Kudo Teknologi Indonesia. Dalam pelaksanaan kerja praktik, penulis ditempatkan pada posisi <it>quality</it> <it>assurance</it> <it>analyst</it> yang diberi tanggung jawab untuk memastikan kualitas produk yang dihasilkan sesuai dengan <it>requirement</it> serta kriteria <it>release</it> produk. Ruang lingkup pekerjaan penulis secara garis besar adalah melakukan <it>frontend</it> <it>testing</it> untuk 2 aplikasi yaitu <it>kudo</it> <it>mobile</it> <it>application</it> dan <it>field</it> <it>officer</it> <it>application.</it> Secara keseluruhan penulis mendapat banyak pengetahuan dan pengalaman berharga selama melaksanakan kerja parktik yang tidak didapatkan di perkuliahan. Kata kunci: <it>field</it> <it>officer</it> <it>application,</it> <it>frontend</it> <it>testing,</it> <it>kudo</it> <it>mobile</it> <it>application,</it> PT. Kudo Teknologi Indonesia, <it>quality</it> <it>assurance</it> <it>analyst.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 3</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 5</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 6</title>
+		<title>2.1.3. Metodologi ................................................................................................ 7</title>
+		<title>2.1.4. Teknologi .................................................................................................. 9</title>
+		<title>2.1.5. <it>Deliverables</it> ............................................................................................ 10</title>
+		<title>2.2. Analisis .......................................................................................................... 17</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 17</title>
+		<title>2.2.2. Kesesuaian dan Perbedaan dengan KAKP ............................................. 18</title>
+		<title>2.2.3. Pembelajaran <it>Soft</it> <it>Skill</it> dari Kerja Praktik .............................................. 18</title>
+		<title>2.2.4. Kendala yang dihadapi dan Cara Menangani ......................................... 19</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>2.2.5. Penilaian Individu terhadap Tempat Kerja Praktik ................................. 20</title>
+		<title>2.2.6. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 20</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 22 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 22</title>
+		<title>3.2. Saran .............................................................................................................. 22</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 23 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... vii LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................... viii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur organisasi Kudo ............................................................................ 4 Gambar 2. <it>Sample</it> <it>test</it> <it>case</it> FO app ........................................................................... 11 Gambar 3. <it>Sample</it> <it>test</it> <it>case</it> FO app ........................................................................... 12 Gambar 4. <it>Sample</it> <it>test</it> <it>case</it> FO app ........................................................................... 13 Gambar 5. <it>Summary</it> hasil <it>testing</it> FO app .................................................................. 14 Gambar 6. Progres <it>testing</it> FO app ............................................................................. 15 Gambar 7. Hasil <it>testing</it> per fitur FO app .................................................................... 15 Gambar 8. Hasil <it>testing</it> per fitur FO app .................................................................... 16 Gambar 9. Hasil <it>testing</it> per fitur FO app .................................................................... 17 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... vii LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................... viii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses pencarian tempat kerja praktik dimulai pada bulan Februari 2016. Saat itu, penulis masih ragu mengenai posisi apa yang ingin dilamar. Pada awalnya, penulis secara serabutan melamar ke banyak perusahaan di banyak posisi magang yang dibuka oleh perusahaan baik di lingkungan kerja <it>corporate</it> maupun <it>startup.</it> Beberapa perusahaan tersebut antara lain Bank Mandiri, Veritrans, Traveloka, PLN <it>Corporate</it> <it>University,</it> dan Kudo. Proses pencarian informasi mengenai lowongan magang di perusahaan tersebut didapat dari <it>website</it> masing-masing perusahaan serta <it>website</it> pencarian pekerjaan yaitu jobstreet.com. Setelah mengirim lamaran ke perusahaan-perusahaan tersebut, Veritrans menjadi perusahaan pertama yang merespon lamaran penulis di posisi <it>business</it> <it>development</it> dan mengundang penulis untuk melakukan tes wawancara. Namun, karena pertimbangan jarak tempat yang cukup jauh dari domisili penulis di Depok, akhirnya penulis memutuskan untuk tidak melanjutkan ke tahapan tes wawancara. Selanjutnya penulis dipanggil untuk mengikuti seleksi di PLN <it>Corporate</it> <it>University</it> sebagai <it>web</it> <it>developer.</it> Namun, karena pertimbangan posisi yang kurang diminati, penulis akhirnya memutuskan untuk tidak melanjutkan proses seleksi. Pada saat yang bersamaan dengan proses melamar di PLN <it>Corporate</it> <it>University,</it> penulis juga sedang menjalani proses melamar di Kudo yang pada akhirnya menjadi tempat kerja praktik penulis. Proses melamar hingga akhirnya diterima di Kudo sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> <it>intern</it> tidak terlalu lama sekitar satu bulan. Pada awalnya, penulis memperoleh informasi dari <it>broadcast</it> <it>message</it> dari salah satu teman, bahwa Kudo sedang mengadakan seleksi Kudo <it>Academy</it> <it>Program</it> 2016 yaitu program magang untuk mahasiswa di bidang bisnis dan teknologi. Penulis kemudian tertarik dengan posisi <it>quality</it> <it>assurance</it> <it>analyst</it> karena lebih menekankan pada kemampuan analisis, tetapi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			masih memiliki <it>background</it> teknologi. Setelah mempersiapkan segala dokumen terkait lamaran yaitu CV dan surat lamaran, penulis mengirim lamaran melalui <it>email</it> dengan memilih bidang teknologi di mana posisi <it>quality</it> <it>assurance</it> <it>analyst</it> berada. Setelah dua minggu menunggu, penulis belum juga mendapat konfirmasi balasan terkait lamaran, sehingga penulis kembali mengirim <it>follow</it> <it>up</it> <it>email</it> untuk menanyakan status lamaran yang dikirim. Sehari setelahnya, pihak Kudo menghubungi penulis melalui telepon tetapi sayangnya tidak terjawab. Kemudian penulis mulai menghubungi pihak Kudo terkait panggilan yang terlewat tersebut melalui <it>email</it> tetapi tidak ada jawaban. Akhirnya setelah menunggu dua hari tepatnya pada tanggal 2 Mei 2016, akhirnya pihak Kudo kembali menghubungi penulis dan mengabarkan bahwa penulis lolos untuk seleksi administrasi dan mengundang penulis untuk melakukan tes wawancara yang dijadwalkan keesokan harinya yaitu tanggal 3 Mei 2016 di kantor Kudo daerah Radio Dalam, Jakarta Selatan. Sesuai undangan yang dijadwalkan, penulis mendatangi kantor Kudo di Kudoplex, Radio Dalam, Jakarta Selatan untuk mengikuti tes wawancara. Tes wawancara dilakukan dua kali yaitu pertama dengan <it>human</it> <it>capital</it> (HC) dan yang kedua wawancara denga <it>user</it> yaitu <it>quality</it> <it>assurance</it> <it>lead.</it> Wawancara dengan <it>human</it> <it>capital</it> (HC) dilakukan selama kurang lebih lima belas menit dengan suasana yang cukup santai tapi serius. Pada sesi wawancara ini penulis diberi pertanyaan seputar informasi pribadi, pengalaman kerja dan juga pengalaman organisasi. Sedangkan wawancara dengan <it>user</it> dilakukan selama 45 menit. Namun, berbeda dengan sesi bersama HC, wawancara kali ini cukup menegangkan. Hal ini dikarenakan bahasan pertanyaan yang sangat teknis. Di sela-sela pertanyaan, <it>user</it> memberi soal sebagai materi tes secara spontan terkait langkah-langkah <it>testing</it> yang ideal pada satu contoh kasus. Meskipun tidak menduga akan ada tes spontan, penulis merasa cukup baik dalam melewati tes tersebut. Di akhir sesi wawancara dengan <it>user,</it> penulis diberi tugas untuk dikerjakan di rumah berupa tugas untuk menemukan <it>bug</it> dan <it>improvement</it> pada <it>website</it> Kudo. <it>User</it> meminta penulis mengirim hasilnya paling lambat satu minggu setelah wawancara sebagai pertimbangan diterima atau tidaknya penulis di posisi <it>quality</it> <it>assurance</it> <it>analyst.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			Setelah selesai wawancara, penulis langsung mengerjakan tugas yang diberikan kemudian mengirimkan hasilnya melalui <it>email</it> keesokan harinya. Selang beberapa jam setelah tugas dikirim, pihak HC Kudo menghubungi penulis untuk mengabarkan bahwa penulis diterima sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> <it>intern</it> dan dijadwalkan memulai kerja pada bulan Juni 2016. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini akan dijelaskan profil PT. Kudo Teknologi Indonesia yang mencakup definisi bisnis perusahaan secara umum dan struktur organisasi terkait divisi di mana penulis ditempatkan pada saat bekerja. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Kudo Teknologi Indonesia merupakan perusahaan yang menyediakan <it>platform</it> dalam bentuk <it>website</it> dan aplikasi android yang memfasilitasi kegiatan jual- beli secara <it>online.</it> Kudo menerapkan model bisnis <it>online-to-offline</it> (O2O) <it>commerce.</it> Model bisnis O2O <it>commerce</it> merupakan model bisnis yang memungkinkan pelanggan <it>offline</it> yaitu pelanggan yang tidak memungkinkan bertransaksi secara <it>online</it> dengan berbagai macam alasan untuk tetap bertransaksi secara <it>online</it> melalui perantara pihak <it>online</it> tertentu [1]. Kudo memiliki dua bidang utama yaitu bidang bisnis yang dikepalai oleh seorang COO (<it>Chief</it> <it>Operational</it> <it>Officer)</it> dan bidang teknologi yang dikepalai oleh seorang CEO (<it>Chief</it> <it>Executive</it> <it>Officer)</it> yang bertindak juga sebagai CTO (<it>Chief</it> <it>Technology</it> <it>Officer).</it> Masing-masing divisi baik pada bidang teknologi maupun bisnis dikepalai oleh seorang <it>Head</it> <it>Division</it> yang dibantu oleh seorang <it>Lead</it> <it>Division.</it> Proses bisnis Kudo secara umum melibatkan 3 pihak terkait yaitu pelanggan yang bersifat <it>offline,</it> pihak perantara yang biasa disebut agen serta pihak <it>merchant</it> yang bekerjasama dengan Kudo yaitu perusahaan <it>ecommerce</it> lain seperti Lazada, Bukalapak, Berrybenka, Lakupon serta perusahaan layanan jasa seperti PLN, Telkom, BPJS, dan Adira Finance. Secara singkat proses bisnis Kudo dimulai saat pelanggan meminta kepada agen untuk bertransaksi <it>online</it> baik membeli barang atau membayar tagihan tertentu. Selanjutnya, agen akan bertransaksi di Kudo dengan memilih salah 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<segment>
+			satu <it>merchant</it> yang sesuai dengan barang yang akan dibeli pelanggan atau pembayaran yang diinginkan. Setelah menemukan <it>merchant</it> dengan barang yang sesuai dengan keinginan pelanggan dan pelanggan menyetujui transaksi, maka agen melanjutkan transaksi hingga pembelian diproses oleh <it>merchant.</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik ini penulis ditempatkan pada divisi <it>quality</it> <it>assurance</it> yang merupakan bagian dari bidang teknologi di Kudo. Divisi <it>quality</it> <it>assurance</it> bertanggung jawab dalam memastikan kualitas produk yang dikembangkan oleh divisi bidang teknologi lainnya baik produk untuk operasional internal Kudo maupun produk yang dirilis ke publik. Berikut posisi penempatan penulis selama pelaksanaan kerja praktik dalam struktur organisasi Kudo. Head of Data Scientist Head of Quality Assurance 
+		</segment>
+		<title>CTO</title>
+		<segment>
+			Head of Web Developer Data Analyst Data Engineer Fraud Specialist Support QA Analyst QA Engineer Front End Back End Android Developer Web Developer 
+		</segment>
+		<title>API</title>
+		<title>CMS</title>
+		<segment>
+			Head of UX UX Designer Head of Infrastructure PHP Server Developer Security Infrastucture Gambar 1. Struktur organisasi Kudo Gambar 1. Struktur Organisasi Kudo 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam melaksanakan kerja praktik ini, penulis ditempatkan pada divisi <it>quality</it> <it>assurance</it> sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> yang secara lebih spesifik bertanggung jawab untuk melakukan <it>frontend</it> <it>testing</it> untuk aplikasi kudo <it>mobile</it> <it>application</it> (KMA) dan kudo <it>field</it> <it>officer</it> <it>application</it> (FO app). Selama bekerja kurang lebih dua bulan di Kudo, penulis mendapat bimbingan dari mentor untuk mengerjakan semua tugas yang diberikan. Mentor juga sekaligus berperan sebagai penyelia kerja praktik yang bertanggung jawab mengawasi aktivitas sehari-hari penulis selama jam kerja dan hasil pekerjaan dilaporkan kepada mentor tersebut. Selain itu, penulis juga ditempatkan bersama tim sesama peserta magang lainnya yang diberi tanggung jawab mengerjakan proyek khusus yaitu FO app. Di akhir masa kerja praktik, penulis bersama anggota tim FO app lainnya diwajibkan untuk melakukan presentasi mengenai hasil proyek yang sudah dikerjakan. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Seiring semakin berkembangnya bisnis Kudo sejak berdirinya dua tahun lalu, semakin banyak pula pengguna aplikasi <it>mobile</it> maupun <it>website</it> Kudo yang terdaftar sebagai agen. Hal ini menyebabkan semakin banyak pula agen yang harus di-<it>manage</it> oleh <it>field</it> <it>officer</it> Kudo. <it>Field</it> <it>officer</it> (FO) adalah orang yang secara khusus direkrut oleh Kudo sebagai penanggung jawab agen-agen di bawahnya. FO bertanggung jawab untuk mengawasi kegiatan transaksi agen-agen tersebut seperti memantau performa agen dalam berjualan dan penghasilan agen setiap bulannya. Tanggung jawab FO dalam menjalankan tugasnya semakin kompleks dengan semakin bertambahnya jumlah agen. Selama ini, FO memantau para agen di bawahnya secara manual. Untuk memudahkan kinerja FO dalam memantau performa agen di bawahnya, Kudo memutuskan untuk mengembangkan <it>field</it> <it>officer</it> <it>application</it> (FO app) yang mengautomasi proses pemantauan kinerja agen oleh FO. Fungsi dari FO app adalah 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			untuk me-<it>manage</it> profil agen terkait aktivitas berjualannya di Kudo seperti memantau performa agen dalam berjualan, mengetahui penghasilan agen setiap bulannya, dan melakukan absensi agen. Pengembangan FO app ini secara penuh diserahkan kepada peserta magang yang terdiri dari 7 orang dari divisi yang berbeda-beda yaitu UI/UX <it>designer,</it> android <it>developer,</it> <it>web</it> <it>developer,</it> API <it>developer,</it> dan <it>quality</it> <it>assurance.</it> Penulis berperan sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> bagian <it>frontend</it> dalam tim ini. Peran <it>quality</it> <it>assurance</it> dalam tim FO app bukan sebagai pengembang aplikasi secara teknis dalam arti melakukan <it>development</it> terhadap aplikasi dengan teknik <it>programming.</it> Namun, FO app harus memenuhi standar kualitas produk yang layak untuk dipakai publik sehingga tim pengembang FO app tetap membutuhkan peran <it>quality</it> <it>assurance</it> di dalamnya. Selain bertanggung jawab sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> untuk FO app, penulis juga ditugaskan untuk memastikan kualitas produk kudo <it>mobile</it> <it>application</it> (KMA) dengan tanggung jawab yang sama dengan FO app yaitu melakukan <it>frontend</it> <it>testing</it> untuk KMA. Tim pengembang KMA ini berbeda dengan tim pada FO app sehingga penulis bergabung dengan dua tim berbeda selama bekerja di Kudo. Hal ini dikarenakan pada awal pengerjaan FO app, peran penulis sebagai <it>quality</it> <it>assurance</it> belum bisa dijalankan karena menunggu <it>developer</it> untuk menyelesaikan FO app terlebih dahulu. Untuk mengisi masa menunggu tersebut, penulis diberi tugas untuk melakukan <it>testing</it> KMA. KMA memiliki sistem pengembangan yang sudah stabil dengan periode rilis publik dua minggu sekali. Deangan demikian, penulis bisa melakukan <it>testing</it> dengan frekuensi dan jadwal yang lebih teratur. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Dalam menjalankan tanggung jawab sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> menerapkan teknik <it>testing</it> sebagai berikut. 1. <it>Black</it> <it>box</it> <it>testing</it> Tim <it>quality</it> <it>assurance</it> Kudo menerapkan teknik <it>black</it> <it>box</it> <it>testing</it> yaitu <it>software</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			<it>testing</it> yang melakukan pengujian fungsional dari aplikasi berdasarkan spesifikasi dan <it>requirements.</it> Penulis sebagai <it>tester</it> tidak perlu mengetahui komponen internal bagaimana aplikasi dibangun seperti struktur data yang digunakan, algoritma, dan implementasi kode. <it>Black</it> <it>box</it> <it>testing</it> memiliki beberapa teknik berdasarkan <it>behavior</it> dari <it>testing</it> yaitu <it>equivalence</it> <it>class,</it> <it>boundary</it> <it>value</it> <it>analysis,</it> <it>domain</it> <it>tests,</it> <it>orthogonal</it> <it>arrays,</it> <it>decision</it> <it>tables,</it> <it>state</it> <it>models,</it> <it>exploratory</it> <it>testing,</it> dan <it>all-pairs</it> <it>testing</it> [2]. 2. <it>Exploratory</it> <it>testing</it> Secara lebih spesifik, penulis melakukan <it>exploratory</it> <it>testing</it> yaitu eksekusi <it>testing</it> tanpa adanya perencanaan terlebih dahulu hal apa yang ingin dicapai dari eksekusi <it>testing</it> tersebut [3]<it>.</it> Penulis sebagai <it>tester</it> diberi cakupan <it>testing</it> berupa daftar fitur, <it>bugs,</it> dan <it>improvements</it> pada sekali <it>release</it> <it>train.</it> Dari cakupan <it>testing</it> tersebut, penulis mencoba semua kemungkinan kondisi untuk dilakukan <it>testing</it> secara berulang. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam melaksanakan tanggung jawab sebagai <it>quality</it> <it>assurance</it> <it>analyst,</it> penulis menggunakan metodologi yang dibagi menjadi dua metodologi yaitu pengembangan dan <it>testing</it> FO app serta <it>testing</it> KMA. 1. Metodologi pengembangan dan <it>testing</it> FO app Kudo menerapkan <it>software</it> <it>development</it> <it>life</it> <it>cycle</it> (SDLC) tipe <it>scrum</it> dalam pengembangan produknya. Meskipun peran penulis dalam tim FO app bukan sebagai <it>developer</it> yang secara langsung mengerjakan aplikasi, penulis tetap terlibat secara penuh dalam pengerjaan FO app mulai dari pengenalan proyek, <it>requirement</it> <it>gathering</it> hingga aplikasi dirilis. Pengerjaan FO app dilakukan melalui beberapa proses berikut. 1. Pengenalan proyek untuk produk FO app oleh tim produk. 2. <it>Requirement</it> <it>gathering</it> melalui diskusi dan <it>brainstorming</it> antar anggota tim FO app dan tim produk. 3. Perancangan desain tampilan aplikasi FO app. 4. Implementasi kode oleh API <it>developer,</it> android <it>developer,</it> dan <it>web</it> <it>developer.</it> 5. Menyiapkan <it>test</it> <it>case</it> untuk melakukan <it>testing</it> oleh <it>quality</it> <it>assurance</it> yang merupakan tanggung jawab penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			6. <it>Testing</it> oleh <it>quality</it> <it>assurance</it> yang merupakan tanggung jawab penulis. 7. <it>Bug</it> <it>fixing</it> dan <it>improvement</it> berdasarkan hasil <it>testing</it> oleh <it>quality</it> <it>assurance.</it> Dengan metode <it>scrum</it> yang diterapkan, setiap harinya penulis bersama anggota tim pengembang FO app lainnya melakukan <it>daily</it> <it>stand-up</it> <it>meeting</it> untuk membahas progres pengerjaan, kendala dalam mengerjakan dari masing-masing anggota, serta <it>feedback</it> dari tim produk terkait progress pengerjaan. Selain <it>daily</it> <it>stand-up</it> <it>meeting,</it> setiap minggunya juga diadakan <it>technology</it> <it>division</it> <it>weekly</it> <it>meeting</it> yaitu pertemuan antar semua karyawan Kudo bidang teknologi untuk membahas perkembangan bisnis Kudo dari sisi CEO, serta progres dari masing-masing divisi. 2. Metodologi <it>testing</it> KMA Selain dalam tim pengembang FO app, penulis juga diberi tanggung jawab memegang <it>kudo</it> <it>mobile</it> <it>application</it> (KMA). Penulis bekerja bersama anggota divisi <it>quality</it> <it>assurance</it> lainnya. Selama memegang tanggung jawab atas KMA, penulis bekerja dengan frekuensi yang lebih teratur dibandingkan saat memegang tanggung jawab FO app. Hal ini dikarenakan produk KMA sudah stabil dalam pengembangannya jika dibandingkan dengan pengembangan FO app. Berikut sistematika kerja yang diterapkan pada divisi <it>quality</it> <it>assurance.</it> 1. Tim <it>quality</it> <it>assurance</it> me-<it>review</it> semua <it>bugs</it> dan <it>improvements</it> yang direncanakan untuk diimplementasikan pada periode <it>release</it> <it>train</it> saat itu. 2. <it>Requirement</it> <it>gathering</it> untuk fitur-fitur baru (jika ada) berdasarkan dokumen <it>revamp</it> dan diskusi yang sudah dilakukan sebelumnya bersama tim produk dan <it>developer.</it> 3. Rilis produk KMA dilakukan dua minggu sekali yang dibagi menjadi beberapa versi rilis yaitu alfa, beta, dan publik. 4. Selama dua minggu tersebut, tim <it>quality</it> <it>assurance</it> akan melakukan <it>testing</it> untuk masing-masing versi alfa, beta, dan rilis publik/google <it>play</it> <it>store.</it> 5. Setelah <it>testing</it> selesai dan laporan hasil <it>testing</it> siap, tim <it>quality</it> <it>assurance</it> mengirimkan laporan hasil <it>testing</it> kepada seluruh divisi teknologi bahwa versi tersebut siap untuk rilis publik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			6. Jika setelah versi tersebut dirilis dan ternyata terdapat <it>bugs</it> yang bersifat mayor, maka akan dilakukan <it>hot</it> <it>fix</it> untuk segera memperbaiki <it>bugs</it> tersebut oleh <it>developer.</it> 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Dalam melaksanakan pekerjaan sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> khususnya melakukan <it>frontend</it> <it>testing,</it> penulis menggunakan teknologi berupa <it>tools</it> dan <it>software</it> sebagai berikut. 1. <it>Mobile</it> <it>device</it> <it>Mobile</it> <it>device</it> yang dimaksud adalah <it>smartphone</it> dengan sistem operasi android untuk menjalankan dan <it>testing</it> aplikasi KMA dan FO app terutama dalam hal <it>functionality</it> dan <it>user</it> <it>experience.</it> 2. Genymotion Genymotion adalah android <it>emulator</it> <it>tools</it> yang digunakan untuk menjalankan sistem operasi android di komputer. Penulis menggunakan genymotion agar dapat melakukan <it>testing</it> aplikasi KMA dan FO app pada <it>multiple</it> <it>virtual</it> <it>device</it> dengan <it>environment</it> yang sama dengan <it>device</it> sebenarnya. Fungsinya sama dengan <it>mobile</it> <it>device.</it> 3. Fiddler Fiddler merupakan <it>web</it> <it>debugging</it> <it>proxy</it> yang dapat memeriksa semua aktivitas <it>request</it> dan <it>post</it> dari aplikasi <it>website</it> maupun <it>mobile</it> untuk serta mengetahui data-data yang dikirim dari <it>backend</it> ke <it>frontend,</it> sehingga jika ada <it>bug</it> dapat diketahui bagian mana yang menyebabkan adanya <it>bug</it> tersebut. 4. Testrail Testrail adalah <it>web-based</it> <it>software</it> yang digunakan untuk melakukan <it>test</it> <it>case</it> <it>management</it> di mana penulis dapat menambahkan, menyimpan, menjalankan <it>test</it> <it>cases,</it> serta membuat laporan hasil <it>testing</it> berdasarkan <it>test</it> <it>case</it> yang dibuat untuk masing-masing aplikasi. 5. JIRA 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			JIRA merupakan <it>web-based</it> <it>software</it> yang digunakan untuk melakukan manajemen proyek untuk masing-masing aplikasi. Secara lebih spesifik, penulis menggunakan JIRA untuk melaporkan semua <it>bug</it> dan <it>improvement</it> yang ditemukan selama pelaksanaan <it>testing</it> aplikasi KMA dan FO app kepada anggota tim lainnya, sehingga memudahkan untuk <it>tracking</it> saat <it>bug</it> <it>fixing</it> dan <it>improvement</it> oleh <it>developer.</it> 6. MyQSL Workbench MySQL Workbench digunakan untuk mengakses <it>database</it> yang dimiliki Kudo saat melakukan <it>testing</it> tertentu. 7. Bitbucket Bitbucket merupakan <it>software</it> untuk melakukan <it>versioning</it> <it>control</it> dan <it>repository</it> untuk semua aplikasi yang dikembangkan Kudo. 
+		</segment>
+		<title><bo>2.1.5.</bo> <it><bo>Deliverables</bo></it></title>
+		<segment>
+			Hasil pekerjaan penulis sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> berupa dokemen <it>test</it> <it>case</it> serta laporan hasil <it>testing.</it> Berikut beberapa <it>sample</it> hasil pekerjaan penulis selama pelaksanaan kerja praktik. 1. <it>Test</it> <it>case</it> <it>frontend</it> <it>testing</it> FO app <it>Test</it> <it>case</it> yang dimaksud merupakan <it>checklists</it> untuk melakukan <it>testing</it> aplikasi sebagai acuan fitur dan kondisi apa saja yang harus dijalankan. Berikut contoh <it>checklists</it> dari FO app. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			Gambar 2. <it>Sample</it> <it>test</it> <it>case</it> FO app 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			 Gambar 3. <it>Sample</it> <it>test</it> <it>case</it> FO app 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			 Gambar 4. <it>Sample</it> <it>test</it> <it>case</it> FO app 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			2. Hasil <it>testing</it> FO app Setelah melakukan <it>testing</it> terhadap aplikasi, penulis harus memberikan laporan hasil pelaksanaan <it>testing,</it> termasuk di dalamnya progres status dari awal <it>testing</it> sampai aplikasi dinyatakan lolos <it>testing</it> oleh <it>quality</it> <it>assurance.</it> Berikut contoh laporan hasil <it>testing</it> FO app. Gambar 5. <it>Summary</it> hasil <it>testing</it> FO app 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<segment>
+			Gambar 6. Progres <it>testing</it> FO app Gambar 7. Hasil <it>testing</it> per fitur FO app 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			 Gambar 8. Hasil <it>testing</it> per fitur FO app 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<segment>
+			 Gambar 9. Hasil <it>testing</it> per fitur FO app 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada bagian ini akan dibahas analisis mengenai pelaksanaan kerja praktik, persamaan dan perbedaannya dengan KAKP, pembelajaran <it>soft</it> <it>skill,</it> kendala yang dihadapi, dan penilaian individu terhadap tempat kerja praktik. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilakukan selama dua bulan mulai tanggal 13 Juni 2016 hingga 12 Agustus 2016. Secara lebih detail, pada bagian ini akan dibahas mengenai kesesuaian dan perbedaan pelaksanaan kerja praktik sesungguhnya dengan KAKP, kendala yang dihadapi penulis selama kerja praktik, serta relevansi kerja praktik dengan apa yang sudah diterima selama perkuliahan di Fakultas Ilmu Komputer UI. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>18</pagenum>
+		<title><bo>2.2.2.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik tidak jauh berbeda dengan rencana awal di KAKP. Jadwal untuk pelaksanaan masing-masing aktivitas juga cukup sesuai. Namun, ada sedikit perbedaan pada ekseskusi untuk <it>testing</it> KMA. Pada KAKP, aktivitas membuat <it>test</it> <it>case</it> untuk KMA hanya dilakukan satu kali pada minggu ketiga kerja praktik mulai 27 Juni sampai 1 Juli 2016. Namun, pada pelaksanaan sesungguhnya <it>test</it> <it>case</it> dibuat secara berulang untuk setiap kali rilis baik menambahkan <it>test</it> <it>case</it> yang sudah ada maupun perbaikan <it>test</it> <it>case</it> sesuai fitur pada <it>release</it> <it>train.</it> Perbedaan lainnya terjadi pada ruang lingkup kerja terkait produk yang menjadi tanggung jawab penulis untuk dilakukan <it>testing.</it> Pada rencana awal berdasarkan hasil diskusi antara penyelia dan <it>lead</it> <it>quality</it> <it>assurance,</it> penulis hanya ditugaskan untuk bertanggung jawab melakukan <it>testing</it> pada dua aplikasi yaitu KMA dan FO app. Setelah kerja praktik berjalan selama satu bulan, penulis diminta untuk melakukan <it>testing</it> proyek FAQ. Proyek FAQ merupakan bagian dari <it>program</it> untuk mahasiswa magang bidang teknologi di Kudo, namun dengan anggota tim yang berbeda dari proyek FO app. Pelaksanaan <it>testing</it> untuk FAQ sendiri tidak ada pada rencana jadwal KAKP, sehingga penulis melakukan <it>testing</it> FAQ di sela-sela mengerjakan tanggung jawab untuk FO app dan KMA. 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>dari</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dari sisi non teknis, penulis mendapat banyak pelajaran dan pengetahuan yang tidak didapatkan selama masa perkuliahan terutama dalam hal <it>soft</it> <it>skills.</it> Kudo menerapkan metodologi <it>scrum</it> yang menuntut adanya interaksi yang terus menerus antar anggota tim. Hal ini sangat membantu penulis belajar dalam hal bekerjasama dengan sesama anggota tim, cara berkomunikasi yang baik melalui diskusi dan <it>stand-</it> <it>up</it> <it>meeting,</it> manajemen waktu, cara yang baik dalam bersosialisasi dengan karyawan lain melalui <it>weekly</it> <it>meeting</it> bidang teknologi, serta nasihat dan pengalaman yang diberikan oleh karyawan lain yang lebih berpengalaman di bidang masing-masing. Dalam mengerjakan setiap tugas yang diberikan, penulis juga dituntut untuk belajar mandiri, lebih berinisiatif dan aktif, serta bertanggung jawab atas setiap tugas 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>19</pagenum>
+		<segment>
+			yang diberikan kepada penulis. Contoh nyata pembelajaran mandiri dan inisiatif tersebut misalnya ketika penulis pertama kali bergabung dengan tim <it>quality</it> <it>assurance,</it> penulis harus meng-<it>install</it> dan mempelajari semua <it>tools</it> dan <it>software</it> yang digunakan. Proses instalasi ini cukup rumit sehingga perlu adanya bimbingan dari anggota <it>quality</it> <it>assurance</it> lain. Namun, penulis sadar bahwa anggota <it>quality</it> <it>assurance</it> lainnya juga sibuk dengan pekerjaan masing-masing sehingga tidak mungkin membimbing penulis secara eksplisit. Oleh karenanya, penulis harus berinisiatif mencari bantuan lain seperti mencari informasi dari internet kemudian secara mandiri mempelajari setiap langkah- langkahnya dan menerapkannya pada proses instalasi. Selain itu, penulis juga meminta mentor untuk mengajari bagaimana prinsip awal menggunakan <it>tools</it> tersebut kemudian penulis mengeksplorasi sendiri penggunaan <it>tools</it> secara lebih detail. 
+		</segment>
+		<title><bo>2.2.4.</bo> <bo>Kendala</bo> <bo>yang</bo> <bo>dihadapi</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menangani</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis mengalami beberapa kendala namun masih bersifat minor. Kendala utama yang dialami yaitu pada saat penambahan proyek FAQ sebagai tanggung jawab penulis secara tiba-tiba dan sudah mendekati masa <it>deadline</it> penyelesaian proyek. Pada awalnya penulis tidak di-<it>assign</it> ke dalam tim FAQ. Setelah proyek FAQ berjalan lebih dari satu bulan, tim produk tiba-tiba memberi tahu bahwa proyek FAQ butuh untuk dilakukan <it>testing</it> oleh <it>quality</it> <it>assurance.</it> Penulis kemudian diberi tanggung jawab untuk memegang proyek FAQ tersebut. Penulis harus mempelajari <it>requirement</it> dari awal di mana penulis sebelumnya tidak dilibatkan saat pengenalan dan <it>requirement</it> <it>gathering</it> proyek FAQ. Dekatnya <it>deadline</it> penyelesaian proyek FAQ dengan waktu pemberian tanggung jawab atas proyek FAQ membuat penulis harus bekerja lebih keras karena pada saat itu penulis masih memegang tanggung jawab FO app dan KMA yang belum selesai. Namun, kendala ini cukup mudah terselesaikan dengan berdiskusi bersama angota tim FAQ lainnya untuk memudahkan mengetahui <it>requirement,</it> manajemen waktu yang baik, serta selalu berdiskusi dan meminta bantuan kepada mentor. Selain penambahan proyek FAQ, kendala lain yang dihadapi yaitu jarak yang cukup jauh antara tempat kerja praktik dengan domisili penulis. Hal ini bisa terbantu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>20</pagenum>
+		<segment>
+			dengan penerapan jam kerja yang fleksibel di Kudo, sehingga jam kerja dapat disesuaikan dengan kebutuhan penulis asalkan masih bertanggung jawab. 
+		</segment>
+		<title><bo>2.2.5.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Lingkungan kerja di Kudo sangat nyaman dan mendukung untuk belajar pengetahuan baru. Kudo menyediakan banyak fasilitas untuk mendukung kenyamanan kerja karyawannya seperti ruang <it>gym,</it> ruang rekreasi, dan ruang rapat. Jam kerja yang fleksibel juga sangat membantu penulis untuk mengatur waktu kerja. Ketika sedang jenuh bekerja penulis dapat sejenak beristirahat untuk menghibur diri dengan fasilitas yang disediakan. Budaya kerja yang tidak mengenal senior dan junior membuat penulis juga nyaman dalam menjalankan aktivitas di tempat kerja. Tidak ada kesenjangan antar pekerja baik lama atau baru. Meskipun penulis berstatus sebagai karyawan magang, penulis diperlakukan sama oleh semua karyawan tetap Kudo. Hal terpenting adalah Kudo memberi kesempatan seluas mungkin bagi pekerjanya untuk berkembang dan memperoleh pengetahuan baru. Kudo menyediakan kesempatan berpindah divisi bagi anggota divisi yang ingin mengeksplor hal-hal di luar bidang divisinya. Penulis sendiri merasakan kesempatan berkembang tersebut sangat didukung oleh Kudo dengan adanya Kudo <it>academy</it> <it>program</it> yang benar-benar membimbing penulis dari awal dengan menyediakan mentor untuk masing-masing peserta magang. 
+		</segment>
+		<title><bo>2.2.6.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis menerapkan banyak ilmu yang didapatkan di perkuliahan. Berikut mata kuliah terkait pekerjaan penulis. 1. Basis Data (<it>Database)</it> Selama melakukan <it>testing</it> aplikasi baik FO app maupun KMA, penulis juga harus mengecek kebenaran data pada <it>database</it> aplikasi. Hal ini sangat terbantu dengan ilmu yang didapat dari mata kuliah basis data terutama untuk melihat keterkaitan antar tabel dan <it>query</it> untuk memperoleh data dari <it>database.</it> 2. Rekayasa Perangkat Lunak (RPL) 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>21</pagenum>
+		<segment>
+			Penggunaan metodologi <it>scrum</it> selama pengembangan FO app sangat terbantu oleh pengetahuan yang diperoleh dari mata kuliah RPL khususnya dalam hal dasar-dasar <it>software</it> <it>development</it> <it>life</it> <it>cycle</it> (SDLC). 3. Proyek Pengembangan Sistem Informasi (Propensi) Pengalaman melakukan <it>testing</it> terhadap sistem selama menjalani mata kuliah propensi membuat penulis lebih mudah dalam memahami kondisi yang harus dipertimbangkan ketika melakukan <it>testing,</it> pembuatan <it>test</it> <it>cases,</it> dan membuat dokumentasi hasil <it>testing.</it> 4. Manajemen Proyek Teknologi Informasi (Manpro TI) Ilmu yang didapat dari manpro dapat diterapkan dalam menjalankan proyek secara tim terutama bagaimana agar proyek selesai tepat waktu dan manajemen individu di dalam tim seperti pembagian peran dan tanggung jawab agar menghasilkan produk yang berkualitas. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>22</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Dari pelaksanaan kerja praktik di Kudo, penulis dapat memperoleh banyak pengetahuan baru baik secara teknis maupun non teknis. Secara teknis, pengetahuan yang diperoleh yaitu penggunaan <it>tools</it> pada divisi <it>quality</it> <it>assurance</it> untuk melakukan <it>testing</it> aplikasi,</it> prinsip dan detail dalam melaksanakan <it>testing,</it> serta kriteria kualitas produk yang baik. Sedangkan secara non teknis, penulis mendapat pengetahuan bagaimana menerapkan <it>softskill</it> yang baik seperti komunikasi, tanggung jawab, dan kerjasama dalam lingkungan kerja sesungguhnya. Lebih jauh lagi, penulis juga dapat belajar dari kendala dan hambatan yang dialami serta bagaimana mengatasinya untuk diterapkan di dunia kerja nanti. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Berdasarkan pengalaman penulis, sebagai calon peserta kerja praktik harus menyiapkan diri sebaik mungkin baik dalam hal pencarian tempat kerja praktik, pemilihan posisi sesuai dengan minat dan kemampuan, serta persiapan secara administrasi dan teknis seperti dokumen yang dibutuhkan dan kemungkinan adanya seleksi untuk posisi tertentu. Hal yang perlu diingat adalah peserta kerja praktik harus memiliki alternatif baik perusahaan yang dituju maupun posisi yang dingginkan. Kurangnya persiapan ini akan menyebabkan kurang maksimalnya pelaksanaan kerja praktik. Dari perusahaan tempat kerja parktik, penulis sangat merekomendasikan kepada peserta kerja praktik untuk memilih Kudo sebagai tempat melaksanakan kerja praktik, terutama bagi mereka yang ingin belajar di lingkungan <it>startup,</it> dengan sistematika kerja yang dinamis namun fleksibel, serta bekerja bersama jiwa-jiwa muda dan kreatif. Untuk pelaksanaan kerja praktik yang diterapkan Fasilkom sendiri masih perlu adanya perbaikan terutama mengenai mekanisme persetujuan KAKP yang cukup lama bahkan terkadang sulit untuk mendapatkan <it>feedback</it> dari dosen. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>23</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Investopedia. (2016). <it>Online-To-Offline</it> <it>Commerce.</it> Diakses 3 November 2016, dari http://www.investopedia.com/terms/o/onlinetooffline-commerce.asp. [2] Tutorialspoint. (2016). <it>Black</it> <it>box</it> <it>Testing.</it> Diakses 3 November 2016, dari https://www.tutorialspoint.com/software_testing_dictionary/black_box_testing.htm. [3] Satisfice.com. (2016). <it>What</it> <it>is</it> <it>Exploratory</it> <it>Testing?</it> <it>-</it> <it>James</it> <it>Bach</it> <it>-</it> <it>Satisfice,</it> <it>Inc..</it> Diakses 3 November 2016, dari http://www.satisfice.com/articles/what_is_et.shtml. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<pagenum>vii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="32">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

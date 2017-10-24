@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>SOFTWARE</bo> <bo>ENGINEER</bo> <bo>-</bo> <bo>TRUST</bo> <bo>AND</bo> <bo>SAFETY</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>RAHMI</bo> <bo>JULIANASARI</bo></title>
+		<segment>
+			<bo>1306381710</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>2</pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : : : :  Rahmi Julianasari 1306381710 Ilmu Komputer Software Engineer - Trust and Safety <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.Sc.)</bo> Ditetapkan di : [NAMA TEMPAT] Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>3</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan kerja praktik ini disusun berdasarkan pengalaman penulis selama melaksanakan kerja praktik di PT Bukalapak pada 13 Juni 2016 sampai dengan 26 Agustus 2016. Penulis ditempatkan dalam tim Trust and Safety sebagai <it>software</it> <it>engineer.</it> Selama masa kerja praktik, penulis diberi tanggung jawab untuk mengembangkan sistem pendeteksi penipuan terhadap suatu produk berdasarkan nama dan harga produk yang diberi nama <it>Product</it> <it>Keywords</it> dan <it>Product</it> <it>Keyword</it> <it>Suspects.</it> Kerja praktik memberikan kesempatan kepada penulis untuk mengaplikasikan ilmu serta mendapatkan pelajaran dan pengalaman berharga yang tidak didapatkan selama masa perkuliahan. Kata kunci: kerja praktik, PT Bukalapak, <it>software</it> <it>engineer</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>4</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			 HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ... 2 ABSTRAK ............................................................................................................. 3 DAFTAR ISI .......................................................................................................... 4 DAFTAR GAMBAR ............................................................................................. 5 DAFTAR TABEL .................................................................................................. 6 DAFTAR LAMPIRAN .......................................................................................... 7 BAB 1 PENDAHULUAN ..................................................................................... 8 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ................................................................ 8</title>
+		<title>1.2. Tempat Kerja Praktik ............................................................................... 9</title>
+		<title>1.1.1. Profil Tempat Kerja Praktik ...................................................... 9</title>
+		<title>1.1.2. Posisi Penempatan Pelaksanan Kerja Praktik ............................ 12</title>
+		<segment>
+			BAB 2 ISI ............................................................................................................... 13 
+		</segment>
+		<title>2.1. Pekerjaan Kerja Praktik ........................................................................... 13</title>
+		<title>2.1.1. Latar Belakang Pekerjaan .......................................................... 13</title>
+		<title>2.1.2. Tinjauan Pustaka ........................................................................ 14</title>
+		<title>2.1.3. Metodologi ................................................................................. 17</title>
+		<title>2.1.4. Teknologi ................................................................................... 18</title>
+		<title>2.1.5. Teknis ........................................................................................ 19</title>
+		<title>2.1.6. Non Teknis ................................................................................. 21</title>
+		<title>2.2. Analisis .................................................................................................... 21</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ......................................................... 21</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI .......................... 23</title>
+		<segment>
+			BAB 3 PENUTUP ................................................................................................. 25 
+		</segment>
+		<title>3.1. Kesimpulan .............................................................................................. 25</title>
+		<title>3.2. Saran ........................................................................................................ 25</title>
+		<segment>
+			DAFTAR REFERENSI ......................................................................................... 27 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ................................. 28 LAMPIRAN 2 LOG KERJA PRAKTIK ............................................................... 29 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			 Gambar 1 Struktur Organisasi PT Bukalapak ...................................................... 11 
+		</segment>
+		<pagenum>5</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>6</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			 Tabel 1 Proses Pencarian Kerja Praktik ............................................................... 9 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>7</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ............................... LAMPIRAN 2 LOG KERJA PRAKTIK ............................................................. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>8</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo></title>
+		<segment>
+			<bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Untuk pemilihan tempat pelaksanaan kerja praktik, penulis berminat pada perusahaan yang bergerak di bidang <it>e-commerce.</it> Berdasarkan minat tersebut, pada akhir semester penulis mulai mencari informasi perusahaan yang membuka lowongan kerja praktik. Berikut adalah beberapa sumber informasi lowongan kerja praktik yang penulis peroleh sebagai acuan. 1. PT Sanghiang Perkasa (KALBE Nutritionals) Penulis memperoleh informasi melalui Job &amp; Career Expo 2016 yang diadakan pihak Fasilkom UI. 2. PT Bukalapak Penulis memperoleh informasi mengenai PT Bukalapak dari teman yang sudah melamar untuk melakukan kerja praktik di perusahaan tersebut. Awal mula penulis mencari tempat kerja praktik adalah pada pertengahan bulan Januari. Penulis mengikuti Job &amp; Career Expo 2016 yang diselenggarakan oleh Fasilkom UI. Setelah acara tersebut selesai, penulis melampirkan berkas identitas kepada PT Sanghiang Perkasa (KALBE Nutritionals) karena perusahaan tersebut membuka lowongan kerja praktik untuk mengembangkan situs <it>e-commerce</it> miliknya. Setelah beberapa hari, penulis dihubungi oleh pihak HR dan diminta untuk mengirimkan berkas persyaratan untuk melakukan kerja praktik. Namun, penulis membatalkan lamaran kerja praktik di perusahaan tersebut karena lebih berminat pada perusahaan lain. Selanjutnya penulis kembali mengirim lamaran kerja praktik sebagai <it>software</it> <it>engineer</it> melalui <it>email</it> ke PT Bukalapak (selanjutnya akan ditulis Bukalapak). Penulis mendapatkan <it>email</it> balasan berupa soal <it>pre-test</it> yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>9</pagenum>
+		<segment>
+			harus dikerjakan dan dikirimkan kembali dalam waktu 3 hari. Kemudian penulis mengerjakan soal <it>pre-test</it> tersebut dan mengirimkannya kembali ke <it>email</it> Bukalapak. Setelah menunggu beberapa hari, penulis mendapat <it>email</it> balasan untuk melanjutkan ke tahap seleksi wawancara dan tes pemrograman. Penulis pun mengikuti tahap seleksi tersebut dan tidak lama setelah tes seleksi akhirnya penulis dinyatakan diterima dan dapat memulai kerja praktik pada tanggal 13 Juni 2016. Berdasarkan hasil uraian di atas mulai dari proses pencarian tempat kerja praktik hingga diterima di Bukalapak, penulis merangkumnya pada Tabel 1 berikut ini. Tabel 1 Proses Pencarian Tempat Kerja Praktik No. Nama Perusahaan Status 1. PT Sanghiang Perkasa (KALBE Nutritionals) 2. PT Bukalapak Melamar, dipanggil untuk mengirimkan berkas persyaratan, dan mengundurkan diri karena lebih berminat pada perusahaan lain. Melamar, dipanggil untuk melakukan tes dan wawancara, diterima, dan mengambil pekerjaan di PT Bukalapak. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo></title>
+		<segment>
+			<bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Bukalapak merupakan salah satu <it>online</it> <it>marketplace</it> terkemuka di Indonesia yang menyediakan sarana jual-beli dengan model bisnis <it>consumer-to-consumer</it> (C2C) [1]. Didirikan oleh Achmad Zaky pada awal tahun 2010 bernama Suitmedia. Bukalapak memiliki visi yaitu “Menjadi  <it>online</it>  <it>marketplace</it>  nomor  1  di  Indonesia”  dan  misi  adalah  “Memberdayakan  UKM  yang  ada  di  seluruh penjuru Indonesia”.  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>10</pagenum>
+		<segment>
+			PT Bukalapak bergerak di bidang <it>e-commerce</it> dengan menggunakan model <it>customer-to-customer</it> (C2C). Tentunya dengan model tersebut transaksi jual-beli dapat dilakukan oleh konsumen ke konsumen di mana pun dan kapan pun. Perusahaan yang berdiri sejak 6 tahun lalu ini dari waktu ke waktu terus melakukan perkembangan dari <it>website</it> dan <it>customer</it> <it>service.</it> PT Bukalapak sendiri memiliki beberapa sistem pembayaran, yaitu BukaDompet, <it>transfer</it> bank, Kartu Kredit, KlikPay, dan Rekening Ponsel. Dengan metode pembayaran tersebut diharapkan masyarakat semakin terbiasa belanja <it>online</it> dan dapat memberikan kenyamanan, kemudahan, dan keamanan bagi pelanggan atau pembeli dalam proses berbelanja [2]. Ditambah lagi terdapat fitur <it>Quick</it> <it>Buy,</it> yaitu pembeli tidak perlu melakukan registrasi akun terlebih dahulu ketika ingin membeli barang [5]. Tidak hanya dalam bentuk <it>website,</it> pada tahun 2014 PT Bukalapak meluncurkan aplikasi <it>mobile</it> dalam bentuk Android [3]. Hal ini terdorong oleh semakin meningkatnya pengguna <it>smartphone</it> dan memberi kemudahan kepada masyarakat untuk mengakses secara mudah dan cepat. Untuk meningkatkan penjualan, PT Bukalapak memiliki komunitas bernama Komunitas Bukalapak. Komunitas ini merupakan wadah bagi para penjual dan pembeli untuk berdiskusi, <it>sharing</it> pengalaman, serta belajar tips dan trik berjualan di Bukalapak. Dengan kegiatan-kegiatan yang dilakukan komunitas diharapkan dapat menambah teman dan rekan bisnis, dengan begitu peluang untuk memasarkan produk menjadi lebih luas [4]. 
+		</segment>
+		<title><bo>1.2.2.</bo></title>
+		<segment>
+			<bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>11</pagenum>
+		<segment>
+			PT Bukalapak dipimpin oleh Presiden Direktur yang membawahi 3 bagian, yaitu <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO), <it>Chief</it> <it>Operation</it> <it>Officer</it> (COO), dan <it>Chief</it> <it>Financial</it> <it>Officer</it> (CFO). Gambar 1 di bawah ini adalah sebagian dari struktur orgaisasi Bukalapak. Gambar 1 Struktur Organisasi PT Bukalapak Pada kerja praktik ini penulis berada pada divisi <it>Engineering,</it> departemen <it>Software</it> <it>Engineer</it> yang ditunjukkan oleh Gambar 1, dan ditempatkan dalam tim Trust and Safety. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>12</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo></title>
+		<segment>
+			<bo>Pekerjaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Selama pelaksanaan kerja praktik ini, penulis ditempatkan pada tim Trust and Safety sebagai <it>software</it> <it>engineer.</it> Penulis dibimbing oleh satu orang mentor yang merupakan <it>senior</it> <it>software</it> <it>engineer.</it> Tim ini menerapkan <it>scrum</it> sebagai metodologi pengembangannya. Namun, penulis tidak sepenuhnya mengikuti proses kerja dari <it>scrum</it> karena penulis diberikan proyek khusus yang harus diselesaikan selama masa kerja praktik, dan tim kami baru menggunakan <it>scrum</it> setelah beberapa minggu masa kerja praktik berlangsung. Di samping mengerjakan proyek yang diberikan, penulis juga ikut berkontribusi dalam pengembangan sistem <it>Sieve</it> yang akan dijelaskan lebih lanjut pada bagian berikutnya. Pada akhir masa kerja praktik yaitu tanggal 26 Agustus 2016, penulis melaksanakan presentasi kepada seluruh <it>engineer</it> Bukalapak. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Seiring majunya Bukalapak sebagai salah satu perusahaan <it>e-</it> <it>commerce</it> terkemuka di Indonesia, semakin banyak pula pihak-pihak tidak bertanggung jawab yang melakukan tindakan kejahatan untuk meraih keuntungan melalui layanan yang diberikan oleh <it>website</it> Bukalapak. Kejahatan yang sering ditemui sekarang ini adalah penipuan terhadap harga barang di mana harga yang diberikan jauh lebih rendah dari harga pasaran. Ditambah lagi dengan pemberian nama produk dan deskripsi produk yang menarik menambah minat <it>customer</it> untuk membeli barang tersebut. Untuk menangani kasus penipuan tersebut penulis diberikan tugas untuk mengembangkan sebuah sistem berupa <it>dashboard</it> pada 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>13</pagenum>
+		<segment>
+			halaman <it>admin.</it> <it>Dashboard</it> ini diberi nama <it>Product</it> <it>Keywords</it> dan <it>Product</it> <it>Keyword</it> <it>Suspects,</it> fungsinya adalah untuk melakukan manajemen data produk seperti nama, harga, dan deskripsi produk juga menampilkan produk-produk yang terindikasi adanya penipuan.</it> <it>Dashboard</it> ini nantinya akan digunakan oleh tim Anti Fraud untuk melakukan investigasi terhadap produk yang terindikasi adanya penipuan. Tim Trust and Safety ini adalah tim yang baru dibentuk pada bulan Februari lalu sehingga tim ini membuat sebuah sistem baru yaitu <it>fraud</it> <it>detection</it> <it>system</it> yang khusus dibuat untuk menangani kasus penipuan bernama <it>Sieve.</it> Oleh karena itu, penulis juga ikut berkontribusi dalam menyiapkan kebutuhan dalam proses pembuatan sistem tersebut, seperti melakukan <it>user</it> <it>requirement</it> <it>gathering,</it> merancang <it>mockup</it> dan <it>workflow</it> dari sistem, dokumentasi, dan membantu membuat sisi <it>front</it> <it>end</it> dari sistem tersebut. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			1. Transaksi Penipuan pada <it>E-commerce</it> Transaksi yang terjadi pada <it>e-commerce</it> dilakukan secara <it>online</it> seperti pembayaran melalui kartu kredit, <it>transfer</it> uang melalui internet, atau contohnya adalah fitur BukaDompet yang terdapat di Bukalapak. Metode tersebut dilakukan untuk memberikan kemudahan kepada pembeli atau penjual dalam melakukan transaksi jual-beli. Namun, dengan kemajuan teknologi yang semakin canggih melalui suatu jaringan internet memungkinkan pelaku kejahatan mencari celah untuk melakukan aksi kejahatan demi mengambil keuntungan. Selain itu, pembeli hanya bisa melihat produk melalui gambar yang ditampilkan pada situs <it>e-commerce.</it> Hal itu pun memberikan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>14</pagenum>
+		<segment>
+			peluang kepada pelaku kejahatan untuk melakukan penipuan melalui penawaran harga yang lebih rendah dan menampilkan gambar yang menarik perhatian pembeli. Ada banyak jenis tindakan penipuan pada <it>e-commerce,</it> berikut adalah kategori dari penipuan yang terjadi pada <it>e-</it> <it>commerce</it> [6].   Pencurian identitas  Pencurian identitas dilakukan untuk melakukan transaksi dengan menggunakan identitas yang berbeda. Pada kasus ini pelaku menggunakan identitas seseorang yang dicurinya. Peretas situs <it>e-commerce</it> untuk mencuri identitas termasuk dalam ketegori ini melalui <it>malware</it> pada komputer.   <it>Clean</it> <it>fraud</it>  <it>Clean</it> <it>fraud</it> adalah penipuan melalui pencurian kartu kredit yang dilakukan untuk melakukan pembelian. Proses transaksi dilakukan dengan manipulasi data sedemikian rupa sehingga tidak terbaca oleh pendeteksi.   Penipuan afiliasi  Penipuan pada kategori ini bertujuan untuk meningkatkan keuntungan melalui afiliasi. Kasus ini dilakukan secara otomatis atau dengan membuat orang-orang untuk <it>login</it> ke situs pedagang menggunakan akun palsu.   <it>Triangulation</it> <it>fraud</it>  Terdapat 3 poin utama dalam aksi penipuan pada kategori ini. Pertama, pelaku membuat toko <it>online</it> palsu yang menawarkan produk dengan harga lebih rendah. Tujuan dari pembuatan toko <it>online</it> palsu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>15</pagenum>
+		<segment>
+			ini adalah untuk mengumpulkan data pengguna dan data kartu kredit. Kedua, data yang telah dikumpulkan digunakan pelaku untuk memesan barang di toko <it>online</it> lain dan nantinya dikirimkan kepada pembeli. Ketiga, data kartu kredit tersebut digunakan untuk melakukan pembelian tambahan produk lain.   <it>Merchant</it> <it>fraud</it>  Penipuan dilakukan dengan menawarkan harga yang lebih rendah namun barang tidak dikirimkan kepada pembeli.   <it>International</it> <it>fraud</it> Penipuan ini dilakukan pada transaksi internasional karena manajemen penipuan untuk transaksi jenis ini sulit dilakukan. Hal ini menjadi celah bagi para pelaku kejahatan untuk melakukan penipuan.   <it>Different</it> <it>devices</it>  Metode penipuan bergantung pada <it>channel</it> penjualan, dan kebanyakan dari <it>e-commerce</it> menerapkan penjualan <it>multi-channel.</it> Contohnya adalah melakukan deteksi melalui IP dari suatu perangkat. Hal ini memungkinkan pelaku kejahatan melakukan penipuan melalui jenis perangkat atau <it>channel</it> yang berbeda. Terdapat beberapa pendekatan yang dapat dilakukan untuk menangani masalah penipuan transaksi pada <it>e-commerce</it> [11].   <it>Risk-based</it> <it>authentication</it> (RBA)  Pendekatan ini dilakukan dengan melakukan penyaringan terhadap data dari perilaku pembeli atau 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>16</pagenum>
+		<segment>
+			penjual dalam melakukan transaksi. Terlebih lagi upaya tersebut dapat dilakukan secara <it>real</it> <it>time</it> untuk menentukan sebuah transaksi dapat disetujui atau tidak.   <it>Data</it> <it>tokens</it>  Konsep dari pendekatan ini adalah mengidentifikasi data pemilik kartu kredit seperti data nomor jaminan sosial, data nomor rekening, dll. Semua bagian dari transaksi diberikan sebuah token di mana token tersebut merupakan kode identifikasi yang dihasilkan oleh sistem secara acak. Kode tersebut hanya dimiliki oleh pejual.   <it>Brand</it> <it>security</it>  Dalam pendekatan ini, <it>brand</it> dari suatu produk memegang peran penting. Untuk melindungi <it>brand</it> dari produk tersebut dapat dilakukan dengan cara memonitoring aktivitas interet, memblokir situs-situs berbahaya, dan mengirim peringatan kepada pembeli terkait isu tersebut. <it>2.</it> <it>Scrum</it> <it>Scrum</it> adalah salah satu <it>agile</it> <it>software</it> <it>development</it> yang terdiri dari tim kecil yang bekerja dalam lingkungan intensif dan saling berketergantungan. Proses <it>Scrum</it> harus didasarkan atas keputusan yang <it>real</it> <it>time</it> berdasarkan kejadian dan informasi yang aktual. Dalam tim <it>Scrum</it> dibutuhkan tim dengan spesialisasi dari masing-masing pekerjaan, dan dibutuhkan komunikasi yang baik dari setiap anggota tim [9]. Konsep dari <it>Scrum</it> diperkenalkan oleh Hirotaka Takeuchi dan Ikujiro Nonaka dalam sebuah artikel tahun 1986 dalam The Harvard Business Review dengan judul “The  New  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>17</pagenum>
+		<segment>
+			Product Development Game”. Konsep ini dideskripsikan sebagai  pendekatan baru untuk mengkomersilkan <it>product-development</it> yang akan meningkatkan fleksibilitas dengan proses pengembangan yang cepat [10]. Peran-peran yang terlibat dalam pengembangan menggunakan metodologi <it>Scrum</it> terdiri dari 3 peran, yaitu sebagai berikut [7]:   <it>Product</it> <it>Owner</it>  <it>Product</it> <it>Owner</it> bertanggung jawab untuk meneruskan komunikasi kepada tim pengembang mengenai visi dan prioritas dari sistem yang dikembangkan serta membangun dan menajamenen <it>product</it> <it>backlog.</it>   <it>Scrum</it> <it>Master</it>  <it>Scrum</it> <it>Master</it> berperan sebagai fasilitator untuk <it>Product</it> <it>Owner.</it> <it>Scrum</it> <it>Master</it> bekerja untuk memanajemen kerja tim untuk mencapai <it>sprint</it> <it>goals.</it>   <it>Scrum</it> <it>Team</it>  <it>Scrum</it> <it>team</it> merupakan tim pengembang yang bertanggung jawab untuk menyelesaikan pekerjaan membangun sistem. Biasanya tim pengembang terdiri dari 3-9 orang yang terdiri atas <it>software</it> <it>engineer,</it> <it>architects,</it> <it>programmers,</it> <it>analayst,</it> QA, dan UI <it>designer.</it> Proses pengembangan menggunakan metodologi <it>Scrum</it> melalui beberapa fase, yaitu sebagai berikut [8]:   <it>Sprint</it> <it>planning</it>  Tim melakukan perencanaan dan menentukan pekerjaan yang harus diselesaikan pada masa <it>sprint.</it>   <it>Daily</it> <it>stand-up</it>  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>18</pagenum>
+		<segment>
+			<it>Daily</it> <it>stand-up</it> dilakukan setiap hari pada masa <it>sprint</it> selama 15 menit untuk membahas dan mensinkronisasi pekerjaan dari masing-masing anggota tim.   <it>Sprint</it> <it>demo</it>  Tim melakukan <it>sharing</it> dan menunjukkan hasil pekerjaan yang dilakukan selama masa <it>sprint.</it>   <it>Sprint</it> <it>retrospective</it>  Tim melakukan <it>review</it> terhadap pekerjaan yang telah dilakukan dan belum dilakukan dengan baik. 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam melaksanakan melaksanakan kerja praktik ini, penulis tidak sepenuhnya menerapkan <it>scrum.</it> Metodologi <it>scrum</it> dilakukan ketika proses pengembangan sistem <it>Sieve.</it> Pengerjaan proyek <it>dashboard</it> <it>Product</it> <it>Keywords</it> dan <it>Product</it> <it>Keyword</it> <it>Suspects</it> dilakukan melalui proses berikut ini. 1. Melakukan <it>requirement</it> <it>gathering</it> dengan penyelia dan tim Anti Fraud. 2. Merancang tampilan sistem. 3. Implementasi kode untuk membuat modul-modul yang diperlukan, seperti <it>create,</it> <it>update,</it> <it>delete,</it> dan modul lainya. 4. Melakukan internal testing oleh penulis. 5. Melakukan <it>review</it> dan <it>quality</it> <it>control</it> oleh penyelia dan tim Quality Assurance (QA). 6. Melakukan <it>bug</it> <it>fixing</it> terhadap hasil <it>review.</it> Proses yang dilakukan oleh penulis adalah proses mengembangkan <it>dashboard</it> <it>Product</it> <it>Keywords</it> dan <it>Product</it> <it>Keyword</it> <it>Suspects.</it> Pada proses pengembangan sistem <it>Sieve</it> barulah 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>19</pagenum>
+		<segment>
+			<it>scrum</it> diterapkan. Metodologi <it>scrum</it> yang diterapkan oleh tim kami tidak jauh berbeda dengan <it>scrum</it> pada umumnya. Berikut adalah proses <it>scrum</it> yang diterapkan oleh tim Trust and Safety. <it>1.</it> <it>Task</it> <it>detailing</it> Proses ini adalah proses di mana seluruh anggota tim menentukan <it>backlog</it> dan dilakukan pembobotan untuk setiap <it>backlog.</it> <it>2.</it> <it>Sprint</it> <it>planning</it> <it>Sprint</it> <it>planning</it> ini dilakukan sebelum proses <it>sprint</it> berlangsung. Dalam proses ini dilakukan <it>sprint</it> <it>retrospective</it> dan penentuan <it>backlog</it> yang akan dimasukan ke dalam <it>sprint.</it> <it>3.</it> <it>Sprint</it> <it>Sprint</it> merupakan proses pengerjaan <it>sprint</it> <it>backlog</it> yang telah ditentukan ketika <it>sprint</it> <it>planning</it> dan proses ini dilakukan selama 2 minggu. <it>4.</it> <it>Daily</it> <it>standup</it> <it>Daily</it> <it>standup</it> dilakukan setiap harinya pada pukul 16:00 WIB selama kurang lebih 20 menit untuk membahas <it>progress</it> pekerjaan yang dilakukan oleh setiap anggota tim. 
+		</segment>
+		<title><bo>2.2.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			1. Git dan GitHub Git merupakan <it>version</it> <it>control</it> dan GitHub adalah <it>repository</it> yang digunakan oleh sistem Bukalapak. 2. JIRA JIRA adalah <it>software</it> manajemen proyek yang digunakan oleh tim Trust and Safety. Dalam <it>software</it> ini tim melakukan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>20</pagenum>
+		<segment>
+			manajemen terhadap proyek yang sedang dikerjakan selama masa <it>sprint.</it> 3. Ruby on Rails Ruby on Rails adalah <it>platform</it> yang digunakan untuk mengembangkan sistem <it>Product</it> <it>Keywords</it> dan <it>Product</it> <it>Keywords</it> <it>Suspects.</it> Bahasa yang digunakan dalam <it>platform</it> ini adalah Ruby serta bahasa-bahasa lainnya seperti SCSS, Haml, dan Coffeescript. 4. MySQL dan MongoDB MySQL dan MongoDB adalah <it>server</it> yang digunakan sistem Bukalapak untuk mengolah seluruh data. 5. Balsamiq Balsamiq adalah <it>software</it> untuk merancang <it>mockup.</it> <it>Software</it> ini khususnya digunakan ketika penulis merancang <it>mockup</it> dari sistem <it>Sieve</it> . 
+		</segment>
+		<title><bo>2.2.5.</bo> <bo>Teknis</bo></title>
+		<segment>
+			Secara teknis, berikut adalah beberapa pekerjaan yang diakukan penulis selama 10 minggu. 1. Membuat <it>dasboard</it> <it>Product</it> <it>Keywords</it> untuk melakukan manajemen data produk seperti nama, harga, dan deskripsi produk. 2. Membuat <it>dashboard</it> <it>Product</it> <it>Keyword</it> <it>Suspects</it> untuk menampilkan produk-produk yang terindikasi adanya penipuan. 3. Melakukan <it>user</it> <it>requirement</it> <it>gathering</it> dengan tim Anti Fraud mengenai sistem <it>Sieve.</it> 4. Merancang <it>mockup</it> dan <it>workflow</it> dari sistem <it>Sieve.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>21</pagenum>
+		<segment>
+			5. Membantu tim <it>Front</it> <it>End</it> untuk membuat sisi <it>front</it> <it>end</it> sistem <it>Sieve.</it> 6. Membantu <it>Product</it> <it>Manager</it> dalam melakukan dokumentasi sistem <it>Sieve.</it> 
+		</segment>
+		<title><bo>2.2.6.</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<segment>
+			Secara non teknis, penulis banyak mendapatkan pelajaran dan pengalaman berharga yang tidak didapatkan selama masa perkuliahan. Aspek pembelajaran yang terpenting adalah <it>soft</it> <it>skills.</it> Metodologi <it>scrum</it> yang diterapkan dalam tim Trust and Safety sangat membantu penulis untuk belajar kerjasama dalam tim dan manajemen waktu. Selain itu kemampuan komunikasi yang semakin terasah melalui diskusi-diskusi yang dilakukan baik dengan sesama anggota tim maupun dengan karyawan lain. Selama pengerjaan proyek pun penulis dituntut untuk belajar mandiri, inisiatif, dan tanggung jawab terhadap tugas yang diemban oleh penulis. Secara keseluruhan banyak manfaat yang didapatkan selama masa kerja praktik di Bukalapak. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo></title>
+		<segment>
+			<bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Jika mengacu pada KAKP, terdapat perbedaan antara rancangan awal seperti yang ditulis dalam KAKP dengan realisasi kerja praktik yang dilakukan penulis. Dalam KAKP tertulis bahwa pengerjaan proyek dilakukan menggunakan <it>scrum</it> dan <it>sprint</it> dilakukan pada tanggal 12 Juli 2016. Namun, tim kami secara efektif baru menggunakan scrum pada tanggal 19 Agustus 2016 sehingga pengerjaan proyek dilakukan secara mandiri tanpa mengikuti proses <it>scrum.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>22</pagenum>
+		<segment>
+			Pengerjaan proyek dilakukan selama kurang lebih 3-4 minggu dan di sisa minggu waktu kerja praktik penulis lebih banyak membantu proses pengembangan sistem <it>Sieve</it> dan menunggu QA memeriksa hasil pekerjaan proyek. Pekerjaan yang penulis lakukan ketika proses pengembangan sistem <it>Sieve</it> ini di luar tugas penulis sebagai <it>software</it> <it>engineer.</it> Pekerjaan yang diberikan adalah membantu tim <it>Front</it> <it>End</it> melakukan <it>user</it> <it>requirement</it> <it>gathering</it> bersama tim Anti Fraud, merancang <it>mockup</it> dari sistem, merancang <it>workflow</it> dari sistem, membuat dokumentasi, dan membantu membuat sisi <it>front</it> <it>end</it> dari sistem. Meskipun begitu, pekerjaan yang ditugaskan kepada penulis memberikan banyak pelajaran dan pengalaman, pengalaman bekerja di luar tugas sebagai <it>software</it> <it>engineer.</it> Selama kerja praktik penulis mengalami beberapa kendala. Kendala utama yang dialami adalah pengetahuan penulis tentang pemrograman mengguanakan Ruby on Rails dan menggunakan <it>database</it> MongoDB, karena ini adalah kali pertama penulis menggunakan <it>platform</it> dan <it>database</it> tersebut. Namun, kendala tersebut dapat diatasi dengan bertanya kepada mentor dan anggota tim lain, selain itu dari buku acuan yang diberikan mentor dan melalui situs-situs di internet. Kendala lainnya adalah spesifikasi laptop yang penulis miliki tidak cukup untuk menjalankan sistem Bukalapak yang sangat besar. Selain itu, lokasi tempat kerja praktik yang jauh dari tempat tinggal. Untuk mengatasi kondisi tersebut penulis menyikapi dengan sabar, berupaya mengatur penggunaan laptop agar berjalan dengan baik. Ditambah lagi penulis merasa terbantu oleh jam kerja Bukalapak yang fleksibel sehingga penulis bisa mengatur waktu kerja dengan baik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>23</pagenum>
+		<segment>
+			Lingkungan kerja di Bukalapak sangat nyaman dan terbuka. Mahasiswa kerja praktik diperlakukan sama dengan karyawan lainnya ditambah lagi karyawan Bukalapak sangat ramah. Selain itu, fasilitas yang diberikan sangat baik seperti makan siang dan malam, fasilitas olah raga, dan fasilitas lainnya. Secara keseluruhan suasana lingkungan kerja Bukalapak sangat nyaman sehingga memberikan semangat bekerja kepada seluruh karyawan Bukalapak. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik ini banyak ilmu yang didapat di perkuliahan yang berguna dalam menyelesaikan kerja praktik ini. Berikut mata kuliah yang berkaitan dengan pekerjaan penulis. 1. Struktur Data Algoritma (SDA) SDA sangat berguna bagi penulis dalam implementasi kode yang mengharuskan penulis untuk menggunakan berbagai struktur data. Hal ini berpengaruh terhadap performa kode yang diimplementasikan 2. Perancangan dan Pemrograman Web (PPW) Pada mata kuliah ini penulis diajarkan membuat <it>website</it> dan pekerjaan dilakukan penulis selama berkerja di Bukalapak adalah mengembangkan <it>website</it> Bukalapak.<it>.</it> Hal tersebut memberikan bekal bagi penulis sehingga penulis dapat bekerja dengan baik selama proses pengerjaan proyek. 3. Basis Data <it>Database</it> adalah komponen yang sangat penting untuk mengembangkan proyek ini. Oleh karena itu, mata kuliah Basis Data sangat membantu penulis seperti membangun <it>query</it> untuk memperoleh data dan hal-hal lain yang berkaitan dengan mata kuliah tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>24</pagenum>
+		<segment>
+			4. Pemrograman Sistem Mata kuliah ini mengajarkan konsep dasar penggunaan sistem operasi Linux sehingga penulis sangat terbantu oleh mata kuliah ini terutama dalam menjalankan <it>script</it> dan menggunakan <it>command</it> <it>line</it> dalam terminal. 5. Rekayasa Perangkat Lunak (RPL) Selama kerja praktik, tim kami menggunakan <it>scrum</it> sebagai metodologi pengembangannya. Oleh karena itu, dengan adanya kerja praktik ini penulis diberi kesempatan untuk mengaplikasikan ilmu yang didapat dari mata kuliah ini sehingga penulis dapat bekerja dengan baik. Secara umum, pelajaran dari mata kuliah yang penulis dapatkan selama di perkuliahan adalah dasar-dasar proses pengembangan sebuah <it>website</it> dan produk teknologi lainnya. Namun, terdapat mata kuliah yang penulis belum dapatkan di perkuliahan seperti mata kuliah yang secara khusus mengajarkan ilmu di bidang bisnis. Misalnya dalam merancang sebuah strategi untuk menangani masalah penipuan yang dilakukan <it>user</it> kita harus mempertimbangkan pengaruhnya terhadap tingkat penjualan. Oleh karena itu, akan lebih baik mahasiswa khususnya untuk program studi Ilmu Komputer dibekali ilmu dalam bidang bisnis agar dalam proses mengembangkan suatu produk teknologi mahasiswa mampu melihat <it>business</it> <it>process</it> dalam produk tersebut. Selain itu, mahasiswa akan lebih siap menghadapi pekerjaan di dunia nyata di mana bisnis merupakan fokus utama dalam pekerjaan di perusahaan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>25</pagenum>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			Kerja praktik yang dilakukan penulis selama 10 minggu sebagai <it>software</it> <it>engineer</it> memberikan banyak pengalaman dan pelajaran berharga. Secara teknis pelajaran yang penulis dapatkan meliputi proses pengembangan <it>website</it> <it>e-commerce</it> menggunakan Ruby on Rails, menggunakan <it>database</it> MongoDB, dan menggunakan bahasa pemrograman lainnya.</it> Di samping itu, penulis juga mendapatkan ilmu tentang pekerjaan di luar pekerjaan sebagai <it>software</it> <it>engineer,</it> seperti melakukan <it>user</it> <it>requirement</it> <it>gathering,</it> membuat sisi <it>front</it> <it>end</it> dari sistem, membuat <it>mockup</it> dan <it>flowchart,</it> dan melakukan dokumentasi. Selain itu penulis mendapatkan pelajaran khususnya di bidang bisnis yang penulis belum dapatkan selama di perkuliahan. Selama masa kerja praktik ini, penulis diberi kesempatan untuk dapat mengaplikasikan ilmu yang didapat di perkuliahan. Tidak dipungkiri bahwa pengetahuan yang didapat selama perkuliahan sangat membantu sebagai dasar yang bisa digunakan untuk menyelesaikan pekerjaan yang diberikan di tempat kerja walaupun dengan berbagai kendala yang dihadapi namun penulis dapat mengatasinya dengan baik. Di tambah lagi, Bukalapak memiliki lingkungan dan budaya kerja yang baik sehingga memberikan kenyamanan dan menambah semangat bagi penulis dalam bekerja. 
+		</segment>
+		<title><bo>3.2.</bo></title>
+		<segment>
+			<bo>Saran</bo> Saran dari penulis adalah sebaiknya calon pelaksana kerja praktik mencari tempat kerja praktik dari jauh-jauh hari dan mempersiapkan lebih awal kelengkapan persyaratan seperti <it>resume</it> atau CV untuk melaksanakan kerja praktik. Ilmu yang didapat selama di perkuliahan sangat berguna sehingga butuh persiapan dan belajar kembali terkait materi yang berhubungan dengan topik kerja praktik agar calon pelaksana kerja praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>26</pagenum>
+		<segment>
+			dapat bekerja dengan baik. Apabila telah diterima di suatu perusahaan jangan ragu untuk bertanya dan membangun koneksi dengan seluruh karyawan perusahaan. Selama kerja praktik, penulis memiliki keluhan terhadap lamanya waktu persetujuan KAKP, keluhan ini mungkin dirasakan oleh mahasiswa lain. Penulis berharap agar hal-hal seperti ini tidak terjadi lagi karena menimbulkan ketidakpastian di samping penulis memiliki tanggung jawab terhadap pekerjaan yang diberikan penyelia dan keputusan dari pihak penyelenggara kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>27</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Tentang Kami. 24 September 2016 &lt;https://www.bukalapak.com/about&gt;. [2] Priambada, Adjie. Lima Tahun Beroperasi, Bukalapak Akhirnya Lengkapi Metode Pembayaran. 16 September 2015. 2016 September 24 &lt;https://dailysocial.id/post/bukalapak-payment-method&gt;. [3] DailySocial. BukaLapak Luncurkan Aplikasi Mobile dan Situs Baru. 19 Maret 2014. 24 September 2016 &lt;https://dailysocial.id/post/bukalapak- luncurkan-aplikasi-mobile-dan-situs-baru?refresh=1&gt;. [4] Utami, Eulis. KOMUNITAS BUKALAPAK: NAMBAH ILMUNYA, LARIS 2016 JUALANNYA. &lt;http://komunita.id/2016/02/18/komunitas-bukalapak-nambah-ilmunya-laris- jualannya/#prettyphoto/0/&gt;. September 
+		</segment>
+		<pagenum>18</pagenum>
+		<segment>
+			Februari 2016. 
+		</segment>
+		<pagenum>24</pagenum>
+		<segment>
+			[5] Wijayanti, Renny. Fitur Baru: Quick Buy. 30 Juni 2014. 24 September 2016 &lt;https://blog.bukalapak.com/2014/06/fitur-baru-quick-buy/&gt;. [6] Lonergan, Kevin. The seven types of e-commerce fraud explained. 15 April 2016. 12 November 2016. &lt; http://www.information-age.com/seven-types-e- commerce-fraud-explained-123461276/&gt;. [7] James, Michael. Scrum Methodology. 13 November 2016. &lt;http://scrummethodology.com/&gt;. [8] Radigan, Dan. Scrum. 
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			November 2016. &lt;https://www.atlassian.com/agile/scrum&gt;. [9] Rouse, Margaret. Scrum. 
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			November 2016. &lt;http://searchsoftwarequality.techtarget.com/definition/Scrum&gt;. [10] Takeuchi, Hirotaka; Nonaka, Ikujir. "New New Product Development Game". <it>Harvard</it> <it>Business</it> <it>Review.</it> 1 Januari 1986. 13 November 2016. [11] Leader, Payments. Three Approach to Reducing E-commerce Fraud. 3 Agustus 2013. 13 November 2016. &lt;http://www.paymentsleader.com/three- approaches-to-reducing-ecommerce-fraud/&gt;. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>28</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>29</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>
