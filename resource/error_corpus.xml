@@ -311,27 +311,27 @@
 </PAIR>
 
 <PAIR id="53">
-<MISTAKE></MISTAKE>
-<CORRECTION></CORRECTION>
-<ERRTYPE></ERRTYPE>
+<MISTAKE>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah, bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API)</MISTAKE>
+<CORRECTION>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API)</CORRECTION>
+<ERRTYPE>PUNCT</ERRTYPE>
 </PAIR>
 
 <PAIR id="54">
-<MISTAKE></MISTAKE>
-<CORRECTION></CORRECTION>
-<ERRTYPE></ERRTYPE>
+<MISTAKE>Untuk membuat proses tersebut lebih efisien dan mempermudah tugas tim operasional, Traveloka mengembangkan sistem <it>fetcher</it> dengan menggunakan teknologi <it>in-house</it> buatan sendiri untuk mengambil data mutasi transaksi bank dan mengolahnya untuk dimasukkan ke dalam sistem secara otomatis, secara hampir <it>real-time.</it> Setelah data pembayaran masuk, maka tagihan yang bersesuaian juga akan diproses secara otomatis sehingga pengguna akan langsung mendapat tiket atau <it>voucher</it> hotel langsung setelah mereka melakukan transfer.</MISTAKE>
+<CORRECTION>Untuk membuat proses tersebut lebih efisien dan mempermudah tugas tim operasional, Traveloka mengembangkan sistem <it>fetcher</it> dengan menggunakan teknologi <it>in-house</it> buatan sendiri. <it>Fetcher</it> tersebut dioperasikan untuk mengambil data mutasi transaksi bank dan mengolahnya untuk dimasukkan ke dalam sistem secara otomatis secara hampir <it>real-time.</it> Setelah data pembayaran masuk, tagihan yang bersesuaian akan diproses secara otomatis sehingga pengguna akan langsung mendapat tiket atau <it>voucher</it> hotel langsung setelah mereka melakukan transfer.</CORRECTION>
+<ERRTYPE>SPLIT</ERRTYPE>
 </PAIR>
 
 <PAIR id="55">
-<MISTAKE></MISTAKE>
-<CORRECTION></CORRECTION>
-<ERRTYPE></ERRTYPE>
+<MISTAKE>Sejak pertama kali diluncurkan, performa <it>fetcher</it> Traveloka mengalami fluktuasi dalam hal availabilitas dan waktu respons, baik karena faktor internal seperti pengubahan arsitektur <it>fetcher</it> maupun faktor eksternal seperti ketersediaan situs <it>internet</it> <it>banking</it> masing-masing bank.</MISTAKE>
+<CORRECTION>Sejak pertama kali diluncurkan, performa <it>fetcher</it> Traveloka mengalami fluktuasi dalam hal availabilitas dan waktu respons yang dikarenakan faktor internal maupun eksternal, antara lain karena pengubahan arsitektur <it>fetcher</it> atau ketersediaan situs <it>internet</it> <it>banking</it> masing-masing bank.</CORRECTION>
+<ERRTYPE>PARAPHRASE</ERRTYPE>
 </PAIR>
 
 <PAIR id="56">
-<MISTAKE></MISTAKE>
-<CORRECTION></CORRECTION>
-<ERRTYPE></ERRTYPE>
+<MISTAKE>Secara umum, lingkungan kerja Traveloka sangat profesional namun tidak hierarkis sehingga siapa pun bisa saling berinteraksi tanpa adanya kecanggungan.</MISTAKE>
+<CORRECTION>Lingkungan kerja Traveloka sangat profesional tetapi tidak hierarkis sehingga siapa pun bisa saling berinteraksi tanpa adanya kecanggungan.</CORRECTION>
+<ERRTYPE>PARAPHRASE</ERRTYPE>
 </PAIR>
 
 <PAIR id="57">
