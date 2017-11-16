@@ -1,0 +1,116 @@
+===========
+Segment 1
+===========
+Full Match
+Distance: 2
+Before: Kudo memiliki dua bidang utama yaitu bidang bisnis yang dikepalai oleh seorang COO (<it>Chief</it> <it>Operational</it> <it>Officer)</it> dan bidang teknologi yang dikepalai oleh seorang CEO (<it>Chief</it> <it>Executive</it> <it>Officer)</it> yang bertindak juga sebagai CTO (<it>Chief</it> <it>Technology</it> <it>Officer).</it> Masing-masing divisi baik pada bidang teknologi maupun bisnis dikepalai oleh seorang <it>Head</it> <it>Division</it> yang dibantu oleh seorang <it>lead</it> <it>division.</it> Proses bisnis Kudo secara umum melibatkan 3 pihak terkait yaitu pelanggan yang bersifat <it>offline,</it> pihak perantara yang biasa disebut agen serta pihak <it>merchant</it> yang bekerjasama dengan Kudo yaitu perusahaan <it>ecommerce</it> lain seperti Lazada, Bukalapak, Berrybenka, Lakupon serta perusahaan layanan jasa seperti PLN, Telkom, BPJS, dan Adira Finance.
+After: Kudo memiliki dua bidang utama yaitu bidang bisnis yang dikepalai oleh seorang COO (<it>Chief</it> <it>Operational</it> <it>Officer)</it> dan bidang teknologi yang dikepalai oleh seorang CEO (<it>Chief</it> <it>Executive</it> <it>Officer)</it> yang bertindak juga sebagai CTO (<it>Chief</it> <it>Technology</it> <it>Officer).</it> Masing-masing divisi baik pada bidang teknologi maupun bisnis dikepalai oleh seorang <it>Head</it> <it>Division</it> yang dibantu oleh seorang <it>Lead</it> <it>Division.</it> Proses bisnis Kudo secara umum melibatkan 3 pihak terkait yaitu pelanggan yang bersifat <it>offline,</it> pihak perantara yang biasa disebut agen serta pihak <it>merchant</it> yang bekerjasama dengan Kudo yaitu perusahaan <it>ecommerce</it> lain seperti Lazada, Bukalapak, Berrybenka, Lakupon serta perusahaan layanan jasa seperti PLN, Telkom, BPJS, dan Adira Finance.
+
+Distance: 0
+Before: Selanjutnya, agen akan bertransaksi di Kudo dengan memilih salah satu <it>merchant</it> yang sesuai dengan barang yang akan dibeli pelanggan atau pembayaran yang diinginkan.
+After: Selanjutnya, agen akan bertransaksi di Kudo dengan memilih salah satu <it>merchant</it> yang sesuai dengan barang yang akan dibeli pelanggan atau pembayaran yang diinginkan.
+
+Distance: 0
+Before: Setelah menemukan <it>merchant</it> dengan barang yang sesuai dengan keinginan pelanggan dan pelanggan menyetujui transaksi, maka agen melanjutkan transaksi hingga pembelian diproses oleh <it>merchant.</it>
+After: Setelah menemukan <it>merchant</it> dengan barang yang sesuai dengan keinginan pelanggan dan pelanggan menyetujui transaksi, maka agen melanjutkan transaksi hingga pembelian diproses oleh <it>merchant.</it>
+
+--------------
+
+Partial
+Distance: 40
+Before: Kudo Teknologi Indonesia merupakan perusahaan yang menyediakan <it>platform</it> dalam bentuk <it>website</it> dan aplikasi android yang memfasilitasi kegiatan jual- beli secara <it>online.</it> Kudo menerapkan model bisnis <it>online-to-offline</it> (O2O) <it>commerce.</it> Model bisnis O2O <it>commerce</it> merupakan model bisnis yang memungkinkan pelanggan <it>offline</it> yaitu pelanggan yang tidak memungkinkan bertransaksi secara <it>online</it> karena berbagai macam alasan untuk tetap bertransaksi secara <it>online</it> melalui perantara pihak yang memungkinkan transaksi <it>online</it> [1].
+After: Kudo Teknologi Indonesia merupakan perusahaan yang menyediakan <it>platform</it> dalam bentuk <it>website</it> dan aplikasi android yang memfasilitasi kegiatan jual- beli secara <it>online.</it> Kudo menerapkan model bisnis <it>online-to-offline</it> (O2O) <it>commerce.</it> Model bisnis O2O <it>commerce</it> merupakan model bisnis yang memungkinkan pelanggan <it>offline</it> yaitu pelanggan yang tidak memungkinkan bertransaksi secara <it>online</it> dengan berbagai macam alasan untuk tetap bertransaksi secara <it>online</it> melalui perantara pihak <it>online</it> tertentu [1].
+
+Distance: 13
+Before: Secara singkat proses bisnis Kudo dimulai saat pelanggan menemui atau meminta kepada agen untuk bertransaksi <it>online</it> baik membeli barang atau membayar tagihan tertentu.
+After: Secara singkat proses bisnis Kudo dimulai saat pelanggan meminta kepada agen untuk bertransaksi <it>online</it> baik membeli barang atau membayar tagihan tertentu.
+
+
+===========
+Segment 2
+===========
+Full Match
+--------------
+
+Partial
+
+===========
+Segment 3
+===========
+Full Match
+Distance: 0
+Before: Selain bertanggung jawab sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> untuk FO app, penulis juga ditugaskan untuk memastikan kualitas produk kudo <it>mobile</it> <it>application</it> (KMA) dengan tanggung jawab yang sama dengan FO app yaitu melakukan <it>frontend</it> <it>testing</it> untuk KMA.
+After: Selain bertanggung jawab sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> untuk FO app, penulis juga ditugaskan untuk memastikan kualitas produk kudo <it>mobile</it> <it>application</it> (KMA) dengan tanggung jawab yang sama dengan FO app yaitu melakukan <it>frontend</it> <it>testing</it> untuk KMA.
+
+--------------
+
+Partial
+Distance: 8
+Before: Seiring semakin berkembangnya bisnis Kudo sejak berdirinya 2 tahun lalu, semakin banyak pula pengguna aplikasi <it>mobile</it> maupun <it>website</it> Kudo yang terdaftar sebagai agen Kudo.
+After: Seiring semakin berkembangnya bisnis Kudo sejak berdirinya dua tahun lalu, semakin banyak pula pengguna aplikasi <it>mobile</it> maupun <it>website</it> Kudo yang terdaftar sebagai agen.
+
+Distance: 1
+Before: Hal ini menyebabkan semakin banyak pula agen yang harus di- <it>manage</it> oleh <it>field</it> <it>officer</it> Kudo.
+After: Hal ini menyebabkan semakin banyak pula agen yang harus di-<it>manage</it> oleh <it>field</it> <it>officer</it> Kudo.
+
+Distance: 5
+Before: <it>Field</it> <it>officer</it> (FO) adalah orang yang secara khusus direkrut oleh Kudo sebagai penanggung jawab agen-agen Kudo di bawahnya.
+After: <it>Field</it> <it>officer</it> (FO) adalah orang yang secara khusus direkrut oleh Kudo sebagai penanggung jawab agen-agen di bawahnya.
+
+Distance: 19
+Before: FO bertanggung jawab untuk mengawasi kegiatan transaksi agen-agen Kudo di bawahnya seperti memonitor performa agen dalam berjualan dan penghasilan agen setiap bulannya.
+After: FO bertanggung jawab untuk mengawasi kegiatan transaksi agen-agen tersebut seperti memantau performa agen dalam berjualan dan penghasilan agen setiap bulannya.
+
+Distance: 5
+Before: Tanggung jawab FO dalam menjalankan tugasnya yang semakin kompleks dengan semakin bertambahnya jumlah agen.
+After: Tanggung jawab FO dalam menjalankan tugasnya semakin kompleks dengan semakin bertambahnya jumlah agen.
+
+Distance: 1
+Before: Selama ini, FO memantau para agen dibawahnya secara manual.
+After: Selama ini, FO memantau para agen di bawahnya secara manual.
+
+Distance: 32
+Before: Untuk memudahkan kinerja <it>field</it> <it>officer</it> dalam memantau performa agen dibawahnya, Kudo memutuskan untuk mengembangkan <it>field</it> <it>officer</it> <it>application</it> (FO app) yang mengautomasi proses pemantauan kinerja agen oleh FO.
+After: Untuk memudahkan kinerja FO dalam memantau performa agen di bawahnya, Kudo memutuskan untuk mengembangkan <it>field</it> <it>officer</it> <it>application</it> (FO app) yang mengautomasi proses pemantauan kinerja agen oleh FO.
+
+Distance: 4
+Before: Fungsi dari FO app adalah untuk me-<it>manage</it> profil agen terkait aktivitas berjualannya di Kudo seperti memonitor performa agen dalam berjualan, mengetahui penghasilan agen setiap bulannya, dan melakukan absensi agen.
+After: Fungsi dari FO app adalah untuk me-<it>manage</it> profil agen terkait aktivitas berjualannya di Kudo seperti memantau performa agen dalam berjualan, mengetahui penghasilan agen setiap bulannya, dan melakukan absensi agen.
+
+Distance: 48
+Before: Pengembangan <it>field</it> <it>officer</it> <it>application</it> ini secara penuh diserahkan kepada peserta magang yang terdiri dari 7 orang dari divisi yang berbeda-beda yaitu UI/UX <it>designer,</it> android <it>developer,</it> <it>web</it> <it>developer,</it> API <it>developer,</it> dan <it>quality</it> <it>assurance.</it> Penulis berperan sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> bagian <it>frontend</it> dalam tim ini.
+After: Pengembangan FO app ini secara penuh diserahkan kepada peserta magang yang terdiri dari 7 orang dari divisi yang berbeda-beda yaitu UI/UX <it>designer,</it> android <it>developer,</it> <it>web</it> <it>developer,</it> API <it>developer,</it> dan <it>quality</it> <it>assurance.</it> Penulis berperan sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> bagian <it>frontend</it> dalam tim ini.
+
+Distance: 3
+Before: Tim pengembang KMA ini berbeda dengan tim pada FO app sehingga penulis bergabung dengan 2 tim berbeda selama bekerja di Kudo.
+After: Tim pengembang KMA ini berbeda dengan tim pada FO app sehingga penulis bergabung dengan dua tim berbeda selama bekerja di Kudo.
+
+
+===========
+Segment 4
+===========
+Full Match
+--------------
+
+Partial
+Distance: 47
+Before: Pada bagian ini akan dibahas analisis mengenai pelaksanaan kerja praktik, persamaan dan perbedaannya dengan KAKP, kendala yang dihadapi, penilaian individu terhadap tempat kerja praktik.
+After: Pada bagian ini akan dibahas analisis mengenai pelaksanaan kerja praktik, persamaan dan perbedaannya dengan KAKP, pembelajaran <it>soft</it> <it>skill,</it> kendala yang dihadapi, dan penilaian individu terhadap tempat kerja praktik.
+
+
+===========
+Segment 5
+===========
+Full Match
+Distance: 0
+Before: Sedangkan secara non teknis, penulis mendapat pengetahuan bagaimana menerapkan <it>softskill</it> yang baik seperti komunikasi, tanggung jawab, dan kerjasama dalam lingkungan kerja sesungguhnya.
+After: Sedangkan secara non teknis, penulis mendapat pengetahuan bagaimana menerapkan <it>softskill</it> yang baik seperti komunikasi, tanggung jawab, dan kerjasama dalam lingkungan kerja sesungguhnya.
+
+Distance: 0
+Before: Lebih jauh lagi, penulis juga dapat belajar dari kendala dan hambatan yang dialami serta bagaimana mengatasinya untuk diterapkan di dunia kerja nanti.
+After: Lebih jauh lagi, penulis juga dapat belajar dari kendala dan hambatan yang dialami serta bagaimana mengatasinya untuk diterapkan di dunia kerja nanti.
+
+--------------
+
+Partial
+

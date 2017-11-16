@@ -8,6 +8,7 @@ from bs4 import BeautifulSoup
 from nltk import word_tokenize
 from nltk import sent_tokenize
 from random import randint
+from Levenshtein import distance
 
 def config():
 	reload(sys)
@@ -47,9 +48,9 @@ def simplify(xmldoc):
 	return res
 
 
-
 def align(arg1, arg2):
-	match = []
+	full_match = []
+	partial_match = []
 	not_match = []
 	
 	soup1 = BeautifulSoup(arg1, 'xml').document
@@ -80,24 +81,22 @@ def align(arg1, arg2):
 			regex = re.compile('(.*)%s(.*)'%re.escape(str1), re.IGNORECASE)
 			
 			if regex.match(str2):
-				match.append([str1, str2])
+				full_match.append([str1, str2])
 			else:
 				not_match.append([str1, str2])
 
 
 	if len(not_match) > 0:
-		a = partial(not_match, 10, 5)
-		for m, n in a:
-			match.append([m, n])
-
-	return match		
+		partial_match, not_match = partial(not_match, 10, 5)
+		
+	return full_match, partial_match, not_match
 
 
 def partial(x, k, t):
-
 	match = []
-
-	for a, b in x:
+	not_match = x
+	
+	for a, b in not_match:
 		token_a = word_tokenize(a)
 		token_b = word_tokenize(b)
 
@@ -110,62 +109,126 @@ def partial(x, k, t):
 			rand_a = " ".join(token_a[m:m+t])
 			
 			if rand_a in b:
+				not_match.remove([a, b])
+
 				match.append([a, b])
 				break
 
-	return match
-
-
+	return match, not_match
 
 def label(x):
 	result = ""
 
+	m = 1
 	for a, b in x:
 		sent_a = sent_tokenize(a)
 		sent_b = sent_tokenize(b)
 
-		sentences = sent_align(sent_a, sent_b)
+		print "==========="
+		print "Segment " + str(m)
+		print "==========="
 		
-		# print sentences
-		for i, j in sentences:
-			print i
-			print "--------"
-			print j
-			print 
+		sentences = sent_align(sent_a, sent_b)
+		m += 1
 
-			token_a = word_tokenize(i)
-			token_b = word_tokenize(j)
-
-			result = result + italic(token_a, token_b)
 
 	return result
 
 
 def sent_align(sentlist_a, sentlist_b):
 	match = []
+	not_match = []
+	indexes = []
+	partial = []
 
-	for a in sentlist_a:
-		for b in sentlist_b:
+	i = 0
+	j = 0
+	m = len(sentlist_a)
+	n = len(sentlist_b)
+	
+	while (i < m and j < n):
+		
+		# full match
+		regex_1 = re.compile('(.*)%s(.*)'%re.escape(sentlist_a[i]), re.IGNORECASE)
+		regex_2 = re.compile('(.*)%s(.*)'%re.escape(sentlist_b[j]), re.IGNORECASE)
+		
+		if i != (m-1) and j != (n-1):
+			if len(sentlist_a[i]) > 15 and len(sentlist_b[j]) > 15 and len(sentlist_a[i+1]) > 15 and len(sentlist_b[j+1]) > 15:
 
-			# full match
-			regex_1 = re.compile('(.*)%s(.*)'%re.escape(a), re.IGNORECASE)
-			regex_2 = re.compile('(.*)%s(.*)'%re.escape(b), re.IGNORECASE)
+				if regex_1.match(sentlist_b[j]):
+					match.append([sentlist_a[i], sentlist_b[j]])
+					
+				elif regex_2.match(sentlist_a[i+1]):  
+					match.append([sentlist_a[i+1], sentlist_b[j]])
+					
+					if distance(sentlist_a[i], sentlist_b[j]) < 65:
+						partial.append([sentlist_a[i], sentlist_b[j]])
+					else:
+						not_match.append([sentlist_a[i], sentlist_b[j]])
 
-			if regex_1.match(b):
-				match.append([a, b])
+				elif regex_1.match(sentlist_b[j+1]):
+					match.append([sentlist_a[i], sentlist_b[j+1]])
+					
+					if distance(sentlist_a[i], sentlist_b[j]) < 65:
+						partial.append([sentlist_a[i], sentlist_b[j]])
+					else:
+						not_match.append([sentlist_a[i], sentlist_b[j]])
 
-			elif regex_2.match(a):
-				match.append([a, b])
-			
-			else:
-				pair = [[a, b]]
+				else:
+					indexes.append([i,j])
+					
+					if distance(sentlist_a[i], sentlist_b[j]) < 65:
+						partial.append([sentlist_a[i], sentlist_b[j]])
+					else:
+						not_match.append([sentlist_a[i], sentlist_b[j]])
+					
+					if distance(sentlist_a[i+1], sentlist_b[j]) < 65:
+						partial.append([sentlist_a[i+1], sentlist_b[j]])
+					else:
+						not_match.append([sentlist_a[i+1], sentlist_b[j]])
+					
+					if distance(sentlist_a[i], sentlist_b[j+1]) < 65:
+						partial.append([sentlist_a[i], sentlist_b[j+1]])
+					else:
+						not_match.append([sentlist_a[i+1], sentlist_b[j]])
+		else:
+			if len(sentlist_a[i]) > 15 and len(sentlist_b[j]) > 15:			
+				if regex_1.match(sentlist_b[j]):
+					match.append([sentlist_a[i], sentlist_b[j]])
 
-				part = partial(pair, 5, 3)
+				else:
+					indexes.append([i,j])
+					if distance(sentlist_a[i], sentlist_b[j]) < 65:
+						partial.append([sentlist_a[i], sentlist_b[j]])
+					else:
+						not_match.append([sentlist_a[i], sentlist_b[j]])
 
-				for m, n in part:
-					match.append([m,n])
+		i += 1
+		j += 1	
 
+	print "Full Match"
+	for a, b in match:
+		print "Distance: " + str(distance(a, b))
+		print "Before: " + a
+		print "After: " + b
+		print ""
+
+	print "--------------\n"
+	print "Partial"
+	for a, b in partial:
+		print "Distance: " + str(distance(a, b))
+		print "Before: " + a
+		print "After: " + b
+		print ""
+
+	print ""
 	return match
+
+
+def word_align(wordlist_1, wordlist_2):
+	pair_candidate = []
+
+	return pair_candidate
 
 
 def italic(token_a, token_b):
@@ -175,25 +238,7 @@ def italic(token_a, token_b):
 	after_tag = "<AFTER>"
 	c_after_tag = "</AFTER>"
 
-	for i in xrange(0, len(token_a)):
-			
-			for j in xrange(0, len(token_b)):
-
-				tag_i = "".join(token_a[i-3:i])
-				ctag_i = "".join(token_a[i+1:i+4])
-
-				tag_j = "".join(token_b[j-3:j])
-				ctag_j = "".join(token_b[j+1:j+4])
-
-				if token_a[i] == token_b[j]:
-					
-					if tag_i == "<it>" and tag_j !="<it>":
-						result = result + before_tag + tag_i + token_a[i] + ctag_i + c_before_tag + "\n" + after_tag + token_b[j] + c_after_tag +  "\n\n"
-						
-
-					elif (tag_j == "<it>" and tag_i != "<it>"):
-						result = result + before_tag + token_a[i] + c_before_tag + "\n" + after_tag + tag_j + token_b[j] + ctag_j + c_after_tag + "\n\n"
-
+	
 	return result
 
 
@@ -206,14 +251,9 @@ def main():
 	xml_1 = simplify(doc1)
 	xml_2 = simplify(doc2)
 	
-	result = align(xml_1, xml_2)
+	full, partial, not_match = align(xml_1, xml_2)
 
-	lbl = label(result)
-
-	print lbl
-	# for i in result:
-	#  	print i[0] + "\n===||===\n" + i[1]
-	#  	print "~~~~~~~~~~~~~~~~~~~~~~~~~"
+	a = label(partial)
 
 
 if __name__ == '__main__':

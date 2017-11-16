@@ -1,0 +1,164 @@
+===========
+Segment 1
+===========
+Full Match
+Distance: 1
+Before: Proses pencarian tempat kerja praktik dimulai pada bulan februari 2016.
+After: Proses pencarian tempat kerja praktik dimulai pada bulan Februari 2016.
+
+Distance: 0
+Before: Saat itu, penulis masih ragu mengenai posisi apa yang ingin dilamar.
+After: Saat itu, penulis masih ragu mengenai posisi apa yang ingin dilamar.
+
+Distance: 2
+Before: Pada awalnya, penulis secara serabutan melamar ke banyak perusahaan di banyak posisi magang yang dibuka oleh perusahaan baik di lingkungan kerja <it>corporate</it> maupun <it>startup.</it> Beberapa perusahaan tersebut antara lain Bank Mandiri, Veritrans, Traveloka, PLN <it>corporate</it> <it>university,</it> dan Kudo.
+After: Pada awalnya, penulis secara serabutan melamar ke banyak perusahaan di banyak posisi magang yang dibuka oleh perusahaan baik di lingkungan kerja <it>corporate</it> maupun <it>startup.</it> Beberapa perusahaan tersebut antara lain Bank Mandiri, Veritrans, Traveloka, PLN <it>Corporate</it> <it>University,</it> dan Kudo.
+
+Distance: 0
+Before: Proses pencarian informasi mengenai lowongan magang di perusahaan tersebut didapat dari <it>website</it> masing-masing perusahaan serta <it>website</it> pencarian pekerjaan yaitu jobstreet.com.
+After: Proses pencarian informasi mengenai lowongan magang di perusahaan tersebut didapat dari <it>website</it> masing-masing perusahaan serta <it>website</it> pencarian pekerjaan yaitu jobstreet.com.
+
+Distance: 0
+Before: Setelah mengirim lamaran ke perusahaan-perusahaan tersebut, Veritrans menjadi perusahaan pertama yang merespon lamaran penulis di posisi <it>business</it> <it>development</it> dan mengundang penulis untuk melakukan tes wawancara.
+After: Setelah mengirim lamaran ke perusahaan-perusahaan tersebut, Veritrans menjadi perusahaan pertama yang merespon lamaran penulis di posisi <it>business</it> <it>development</it> dan mengundang penulis untuk melakukan tes wawancara.
+
+Distance: 2
+Before: Pada saat yang bersamaan dengan proses melamar di PLN <it>corporate</it> <it>university,</it> penulis juga sedang menjalani proses melamar di Kudo yang pada akhirnya menjadi tempat kerja praktik penulis.
+After: Pada saat yang bersamaan dengan proses melamar di PLN <it>Corporate</it> <it>University,</it> penulis juga sedang menjalani proses melamar di Kudo yang pada akhirnya menjadi tempat kerja praktik penulis.
+
+Distance: 0
+Before: Setelah mempersiapkan segala dokumen terkait lamaran yaitu CV dan surat lamaran, penulis mengirim lamaran melalui <it>email</it> dengan memilih bidang teknologi di mana posisi <it>quality</it> <it>assurance</it> <it>analyst</it> berada.
+After: Setelah mempersiapkan segala dokumen terkait lamaran yaitu CV dan surat lamaran, penulis mengirim lamaran melalui <it>email</it> dengan memilih bidang teknologi di mana posisi <it>quality</it> <it>assurance</it> <it>analyst</it> berada.
+
+Distance: 0
+Before: Sesuai undangan yang dijadwalkan, penulis mendatangi kantor Kudo di Kudoplex, Radio Dalam, Jakarta Selatan untuk mengikuti tes wawancara.
+After: Sesuai undangan yang dijadwalkan, penulis mendatangi kantor Kudo di Kudoplex, Radio Dalam, Jakarta Selatan untuk mengikuti tes wawancara.
+
+--------------
+
+Partial
+Distance: 1
+Before: Namun karena pertimbangan jarak tempat yang cukup jauh dari domisili penulis di Depok, akhirnya penulis memutuskan untuk tidak melanjutkan ke tahapan tes wawancara.
+After: Namun, karena pertimbangan jarak tempat yang cukup jauh dari domisili penulis di Depok, akhirnya penulis memutuskan untuk tidak melanjutkan ke tahapan tes wawancara.
+
+Distance: 5
+Before: Selanjutnya penulis dipanggil untuk mengikuti seleksi di PLN <it>corporate</it> <it>university</it> sebagai <it>web</it> <it>developer,</it> namun karena pertimbangan posisi yang kurang diminati, penulis akhirnya memutuskan untuk tidak melanjutkan proses seleksi.
+After: Selanjutnya penulis dipanggil untuk mengikuti seleksi di PLN <it>Corporate</it> <it>University</it> sebagai <it>web</it> <it>developer.</it> Namun, karena pertimbangan posisi yang kurang diminati, penulis akhirnya memutuskan untuk tidak melanjutkan proses seleksi.
+
+Distance: 4
+Before: Proses melamar hingga akhirnya diterima di Kudo sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> <it>intern</it> tidak terlalu lama sekitar 1 bulan.
+After: Proses melamar hingga akhirnya diterima di Kudo sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> <it>intern</it> tidak terlalu lama sekitar satu bulan.
+
+Distance: 26
+Before: Pada awalnya, penulis memperoleh informasi dari <it>broadcast</it> <it>message</it> dari salah satu teman, bahwa Kudo sedang mengadakan seleksi <it>Kudo</it> <it>Academy</it> <it>Program</it> 2016 <it>batch</it> 2 yaitu program magang untuk mahasiswa di bidang bisnis dan teknologi.
+After: Pada awalnya, penulis memperoleh informasi dari <it>broadcast</it> <it>message</it> dari salah satu teman, bahwa Kudo sedang mengadakan seleksi Kudo <it>Academy</it> <it>Program</it> 2016 yaitu program magang untuk mahasiswa di bidang bisnis dan teknologi.
+
+Distance: 6
+Before: Penulis kemudian tertarik dengan posisi <it>quality</it> <it>assurance</it> <it>analyst</it> karena lebih menekankan pada kemampuan analisis, namun masih memiliki <it>background</it> teknologi.
+After: Penulis kemudian tertarik dengan posisi <it>quality</it> <it>assurance</it> <it>analyst</it> karena lebih menekankan pada kemampuan analisis, tetapi masih memiliki <it>background</it> teknologi.
+
+Distance: 3
+Before: Setelah 2 minggu menunggu, penulis belum juga mendapat konfirmasi balasan terkait lamaran, sehingga penulis kembali mengirim <it>follow</it> <it>up</it> <it>email</it> untuk menanyakan status lamaran yang dikirim.
+After: Setelah dua minggu menunggu, penulis belum juga mendapat konfirmasi balasan terkait lamaran, sehingga penulis kembali mengirim <it>follow</it> <it>up</it> <it>email</it> untuk menanyakan status lamaran yang dikirim.
+
+Distance: 39
+Before: Sehari setelahnya, pihak Kudo menghubungi penulis melalui telepon namun sayangnya telefon tersebut terlewatkan dan tidak terjawab.
+After: Sehari setelahnya, pihak Kudo menghubungi penulis melalui telepon tetapi sayangnya tidak terjawab.
+
+Distance: 39
+Before: Kemudian penulis mulai menghubungi pihak Kudo terkait panggilan yang terlewat tersebut baik melalui <it>email</it> maupun mencoba menelefon balik, namun tidak ada jawaban.
+After: Kemudian penulis mulai menghubungi pihak Kudo terkait panggilan yang terlewat tersebut melalui <it>email</it> tetapi tidak ada jawaban.
+
+Distance: 5
+Before: Akhirnya setelah menunggu 2 hari tepatnya pada tanggal 2 mei 2016, akhirnya pihak Kudo kembali menghubungi penulis dan mengabarkan bahwa penulis lolos untuk seleksi administrasi dan mengundang penulis untuk melakukan tes wawancara yang dijadwalkan keesokan harinya yaitu tanggal 3 mei 2016 di kantor Kudo daerah Radio Dalam, Jakarta Selatan.
+After: Akhirnya setelah menunggu dua hari tepatnya pada tanggal 2 Mei 2016, akhirnya pihak Kudo kembali menghubungi penulis dan mengabarkan bahwa penulis lolos untuk seleksi administrasi dan mengundang penulis untuk melakukan tes wawancara yang dijadwalkan keesokan harinya yaitu tanggal 3 Mei 2016 di kantor Kudo daerah Radio Dalam, Jakarta Selatan.
+
+
+===========
+Segment 2
+===========
+Full Match
+Distance: 0
+Before: Pada pelaksanaan kerja praktik ini penulis ditempatkan pada divisi <it>quality</it> <it>assurance</it> yang merupakan bagian dari bidang teknologi di Kudo.
+After: Pada pelaksanaan kerja praktik ini penulis ditempatkan pada divisi <it>quality</it> <it>assurance</it> yang merupakan bagian dari bidang teknologi di Kudo.
+
+Distance: 0
+Before: Divisi <it>quality</it> <it>assurance</it> bertanggung jawab dalam memastikan kualitas produk yang dikembangkan oleh divisi bidang teknologi lainnya baik produk untuk operasional internal Kudo maupun produk yang dirilis ke publik.
+After: Divisi <it>quality</it> <it>assurance</it> bertanggung jawab dalam memastikan kualitas produk yang dikembangkan oleh divisi bidang teknologi lainnya baik produk untuk operasional internal Kudo maupun produk yang dirilis ke publik.
+
+Distance: 0
+Before: Berikut posisi penempatan penulis selama pelaksanaan kerja praktik dalam struktur organisasi Kudo.
+After: Berikut posisi penempatan penulis selama pelaksanaan kerja praktik dalam struktur organisasi Kudo.
+
+Distance: 0
+Before: Head of Data Scientist Head of Quality Assurance
+After: Head of Data Scientist Head of Quality Assurance
+
+--------------
+
+Partial
+
+===========
+Segment 3
+===========
+Full Match
+Distance: 0
+Before: Mentor juga sekaligus berperan sebagai penyelia kerja praktik yang bertanggung jawab mengawasi aktivitas sehari-hari penulis selama jam kerja dan hasil pekerjaan dilaporkan kepada mentor tersebut.
+After: Mentor juga sekaligus berperan sebagai penyelia kerja praktik yang bertanggung jawab mengawasi aktivitas sehari-hari penulis selama jam kerja dan hasil pekerjaan dilaporkan kepada mentor tersebut.
+
+--------------
+
+Partial
+Distance: 3
+Before: Selama bekerja kurang lebih 2,5 bulan di Kudo, penulis mendapat bimbingan dari mentor untuk mengerjakan semua tugas yang diberikan.
+After: Selama bekerja kurang lebih dua bulan di Kudo, penulis mendapat bimbingan dari mentor untuk mengerjakan semua tugas yang diberikan.
+
+Distance: 26
+Before: Selain itu, penulis juga ditempatkan bersama tim sesama peserta magang lainnya yang diberi tanggung jawab mengerjakan proyek khusus yaitu aplikasi kudo field officer.
+After: Selain itu, penulis juga ditempatkan bersama tim sesama peserta magang lainnya yang diberi tanggung jawab mengerjakan proyek khusus yaitu FO app.
+
+Distance: 7
+Before: Di akhir masa kerja praktik, penulis bersama anggota tim lainnya diwajibkan untuk melakukan presentasi mengenai hasil proyek yang sudah dikerjakan.
+After: Di akhir masa kerja praktik, penulis bersama anggota tim FO app lainnya diwajibkan untuk melakukan presentasi mengenai hasil proyek yang sudah dikerjakan.
+
+
+===========
+Segment 4
+===========
+Full Match
+--------------
+
+Partial
+Distance: 1
+Before: <it>Black</it> <it>box</it> <it>testing</it> Tim <it>quality</it> <it>assurance</it> Kudo menerapkan teknik <it>black</it> <it>box</it> <it>testing</it> yaitu <it>software</it> <it>testing</it> yang melakukan pengujian fungsional dari aplikasi berdasarkan spesifikasi dan <it>requirements.</it> Penulis sebagai <it>tester</it> tidak perlu mengetahui komponen internal bagaimana aplikasi dibangun seperti struktur data yang digunakan, algoritma, dan implementasi kode.
+After: <it>Black</it> <it>box</it> <it>testing</it> Tim <it>quality</it> <it>assurance</it> Kudo menerapkan teknik <it>black</it> <it>box</it> <it>testing</it> yaitu <it>software</it><it>testing</it> yang melakukan pengujian fungsional dari aplikasi berdasarkan spesifikasi dan <it>requirements.</it> Penulis sebagai <it>tester</it> tidak perlu mengetahui komponen internal bagaimana aplikasi dibangun seperti struktur data yang digunakan, algoritma, dan implementasi kode.
+
+Distance: 28
+Before: <it>Exploratory</it> <it>testing</it> Secara lebih spesifik, penulis melakukan <it>exploratory</it> <it>testing</it> yaitu eksekusi <it>testing</it> tanpa adanya perencanaan terlebih dahulu hal apa yang ingin dicapai dari eksekusi <it>testing</it> tersebut [3]<it>.</it> Penulis sebagai <it>tester</it> diberi <it>scope</it> berupa daftar fitur, <it>bugs,</it> dan <it>improvements</it> pada sekali <it>release</it> <it>train.</it> Dari <it>scope</it> tersebut, penulis mencoba semua kemungkinan kondisi untuk dilakukan <it>testing</it> secara berulang.
+After: <it>Exploratory</it> <it>testing</it> Secara lebih spesifik, penulis melakukan <it>exploratory</it> <it>testing</it> yaitu eksekusi <it>testing</it> tanpa adanya perencanaan terlebih dahulu hal apa yang ingin dicapai dari eksekusi <it>testing</it> tersebut [3]<it>.</it> Penulis sebagai <it>tester</it> diberi cakupan <it>testing</it> berupa daftar fitur, <it>bugs,</it> dan <it>improvements</it> pada sekali <it>release</it> <it>train.</it> Dari cakupan <it>testing</it> tersebut, penulis mencoba semua kemungkinan kondisi untuk dilakukan <it>testing</it> secara berulang.
+
+
+===========
+Segment 5
+===========
+Full Match
+--------------
+
+Partial
+Distance: 47
+Before: Pada bagian ini akan dibahas analisis mengenai pelaksanaan kerja praktik, persamaan dan perbedaannya dengan KAKP, kendala yang dihadapi, penilaian individu terhadap tempat kerja praktik.
+After: Pada bagian ini akan dibahas analisis mengenai pelaksanaan kerja praktik, persamaan dan perbedaannya dengan KAKP, pembelajaran <it>soft</it> <it>skill,</it> kendala yang dihadapi, dan penilaian individu terhadap tempat kerja praktik.
+
+
+===========
+Segment 6
+===========
+Full Match
+Distance: 0
+Before: Pelaksanaan kerja praktik tidak jauh berbeda dengan rencana awal di KAKP.
+After: Pelaksanaan kerja praktik tidak jauh berbeda dengan rencana awal di KAKP.
+
+--------------
+
+Partial
+

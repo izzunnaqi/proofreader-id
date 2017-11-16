@@ -1,525 +1,208 @@
-Selama masa kerja praktik, penulis merupakan bagian dari tim <it>Marketing</it> <it>Technology</it> yang merupakan bagian dari departemen <it>Marketing</it> & <it>Analytics.</it> Tujuan dari <it>Marketing</it> <it>Technology</it> <it>team</it> adalah untuk menyinergikan tujuan bisnis Traveloka dengan memanfaatkan teknologi, serta mengoptimalkan strategi <it>marketing</it> dengan bantuan teknologi [2].
---------
-Selama masa kerja praktik, penulis merupakan bagian dari tim <it>Marketing</it> <it>Technology</it> yang merupakan bagian dari departemen <it>Marketing</it> & <it>Analytics.</it> Tujuan dari <it>Marketing</it> <it>Technology</it> <it>team</it> adalah untuk menyinergikan tujuan bisnis Traveloka dengan memanfaatkan teknologi, serta mengoptimalkan strategi <it>marketing</it> dengan bantuan teknologi [2].
-
-Selama menjalankan kerja praktik, penulis langsung disupervisi oleh Marketing technology Lead, Aurora Marsye.
---------
-Selama menjalankan kerja praktik, penulis langsung disupervisi oleh Marketing Technology Lead, Aurora Marsye.
-
-Traveloka merupakan startup dibidang teknologi yang berdiri pada tahun 2012 oleh tiga orang mantan <it>engineer</it> di Silicon Valley.
---------
-Traveloka merupakan startup di bidang teknologi yang berdiri pada tahun 2012 oleh tiga orang mantan <it>engineer</it> di Silicon Valley.
-
-Traveloka bertujuan untuk mengubah cara manusia melakukan mobilisasi dengan memanfaaatkan teknologi [1].
---------
-Traveloka bertujuan untuk mengubah cara manusia melakukan mobilisasi dengan memanfaaatkan teknologi [1].
-
-Sampai saat tulisan ini dibuat, Traveloka sudah beroperasi di enam negara yaitu: Indonesia, Singapura, Thailand, Vietnam, Filipina, dan Malaysia dengan total karyawan mencapai 1000 orang.
---------
-Traveloka sudah beroperasi di enam negara yaitu: Indonesia, Singapura, Thailand, Vietnam, Filipina, dan Malaysia dengan total karyawan mencapai 1000 orang.
-
-Untuk di Indonesia sendiri, traveloka beroperasi di 3 lokasi yang berbeda yaitu Wisma 77 Tower 1 (Traveloka HQ), Wisma 77 Tower 2, dan Bali.
---------
-di Indonesia, Traveloka beroperasi di 3 lokasi yang berbeda yaitu Wisma 77 Tower 1 (Traveloka HQ), Wisma 77 Tower 2, dan Bali.
-
-Berikut adalah logo dari Traveloka: <it>Gambar</it> <it>1:</it> <it>Logo</it> <it>Traveloka</it> Bisnis utama dari Traveloka sendiri adalah penjualan tiket pesawat dan hotel secara <it>online.</it> Bisnis tersebut dijalankan dengan mengembangkan aplikasi di Android, IOS, dan web.
---------
-Gambar 1: Logo Traveloka Bisnis utama dari Traveloka adalah penjualan tiket pesawat dan hotel secara <it>online.</it> Bisnis tersebut dijalankan dengan mengembangkan aplikasi di Android, IOS, dan web.
-
-Berikut adalah logo dari Traveloka: <it>Gambar</it> <it>1:</it> <it>Logo</it> <it>Traveloka</it> Bisnis utama dari Traveloka sendiri adalah penjualan tiket pesawat dan hotel secara <it>online.</it> Bisnis tersebut dijalankan dengan mengembangkan aplikasi di Android, IOS, dan web.
---------
-Melalui aplikasi tersebut, konsumen dapat membeli tiket pesawat dan hotel dengan mudah.
-
-Melalui aplikasi tersebut, konsumen dapat membeli tiket pesawat dan hotel dengan mudah.
---------
-Gambar 1: Logo Traveloka Bisnis utama dari Traveloka adalah penjualan tiket pesawat dan hotel secara <it>online.</it> Bisnis tersebut dijalankan dengan mengembangkan aplikasi di Android, IOS, dan web.
-
-Melalui aplikasi tersebut, konsumen dapat membeli tiket pesawat dan hotel dengan mudah.
---------
-Melalui aplikasi tersebut, konsumen dapat membeli tiket pesawat dan hotel dengan mudah.
-
-Untuk lebih jelasnya, berikut adalah <it>screenshot</it> dari salah satu aplikasi traveloka (aplikasi web), yang dapat diakses pada traveloka.com: <it>Gambar</it> <it>2:</it> <it>Screenshot</it> Aplikasi Web  Dalam menjalankan bisnisnya, Traveloka memiliki struktur organisasi yang fleksibel dan tidak terpusat.
---------
-Gambar <it>2:</it> <it>Screenshot</it> Aplikasi Web
-
-Sebagai <it>data-driven</it> <it>company,</it> segala keputusan bisnis yang ada di Traveloka harus berdasarkan data yang ada.
---------
-Sebagai <it>data-driven</it> <it>company,</it> segala keputusan bisnis yang ada di Traveloka harus didasari oleh data yang ada.
-
-Seperti yang kita ketahui, salah satu <it>marketing</it> <it>channel</it> yang digunakan Traveloka saat ini adalah iklan di TV.
---------
-Seperti yang kita ketahui, salah satu <it>marketing</it> <it>channel</it> yang digunakan Traveloka saat ini adalah iklan di TV.
-
-Pemasangan iklan di TV ini tentunya membutuhkan biaya yang cukup besar.
---------
-Pemasangan iklan di TV ini tentunya membutuhkan biaya yang cukup besar.
-
-Oleh karena itu, perlu diukur apakah sebuah iklan di TV menguntungkan perusahaan atau tidak.
---------
-Pemasangan iklan di TV ini tentunya membutuhkan biaya yang cukup besar.
-
-Oleh karena itu, perlu diukur apakah sebuah iklan di TV menguntungkan perusahaan atau tidak.
---------
-Oleh karena itu, perlu diukur apakah sebuah iklan di TV menguntungkan perusahaan atau tidak.
-
-Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka namun belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.
---------
-Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka tetapi belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.
-
-Hal ini mengakibatkan tim <it>Media</it> <it>Planner</it> harus mengolah sendiri hasil perhitungan efektivitas TVC dengan menggunakan excel yang memakan waktu cukup lama.
---------
-Hal ini mengakibatkan tim <it>Media</it> <it>Planner</it> harus mengolah sendiri hasil perhitungan efektivitas TVC dengan menggunakan Excel yang memakan waktu cukup lama.
-
-Selain itu, meskipun tim <it>Media</it> <it>Planner</it> membutuhkan data efektivitas dari TVC setiap hari untuk merencanakan TVC keesokan harinya, namun perhitungan efektivitas tersebut dilakukan secara mingguan.
---------
-Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka tetapi belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.
-
-Karena alasan tersebut, maka diputuskan proyek kerja praktik penulis adalah mengotomatiskan proses perhitungan efektivitas dari TVC serta melakukan visualisasi terhadap hasil dari perhitungan tersebut.
---------
-Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka tetapi belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.
-
-Karena alasan tersebut, maka diputuskan proyek kerja praktik penulis adalah mengotomatiskan proses perhitungan efektivitas dari TVC serta melakukan visualisasi terhadap hasil dari perhitungan tersebut.
---------
-Karena alasan tersebut, maka diputuskan proyek kerja praktik penulis adalah mengotomasi proses perhitungan efektivitas dari TVC serta melakukan visualisasi terhadap hasil dari perhitungan tersebut.
-
-Langkah pertama yang dilakukan oleh penulis adalah membuat <it>project</it> <it>plan.</it> <it>Project</it> <it>plan</it> ini kemudian diserahkan kepada Marketing Technology Lead untuk di-<it>review</it> dan disetujui.
---------
-Langkah pertama yang dilakukan oleh penulis adalah membuat <it>project</it> <it>plan.</it> <it>Project</it> <it>plan</it> ini kemudian diserahkan kepada <it>Marketing</it> <it>Technology</it> <it>Lead</it> untuk di-<it>review</it> dan disetujui.
-
-Setelah disetujui, penulis memulai masuk ke dalam fase analisis.
---------
-Setelah disetujui, pekerjaan penulis masuk ke dalam fase analisis.
-
-Pada fase ini, penulis melakukan analisis terhadap proses bisnis, <it>script,</it> dan algoritma yang berkaitan dengan pengelolaan data TVC.
---------
-Penulis melakukan analisis terhadap proses bisnis, <it>script,</it> dan algoritma yang berkaitan dengan pengelolaan data TVC.
-
-Pada fase ini, penulis melakukan analisis terhadap proses bisnis, <it>script,</it> dan algoritma yang berkaitan dengan pengelolaan data TVC.
---------
-Terakhir, penulis melakukan presentasi final pada minggu terakhir di Traveloka.
-
-Dalam melakukan analisis bisnis proses, pada awalnya penulis, diajarkan oleh salah satu karyawan yang saat itu bertugas untuk mengelola data TVC, mengenai bagaimana ia melakukan pekerjaannya.
---------
-Dalam melakukan analisis bisnis proses, awalnya penulis diajarkan oleh salah satu karyawan yang saat itu bertugas untuk mengelola data TVC mengenai bagaimana ia melakukan pekerjaannya.
-
-Setelah memahami hal tersebut, penulis diberikan tanggung jawab atas pengelolaan dan perhitungan efektivitas dari
---------
-Setelah memahami hal tersebut, penulis diberikan tanggung jawab atas pengelolaan dan perhitungan efektivitas dari TVC tersebut secara menyeluruh.
-
-Setelah memahami hal tersebut, penulis diberikan tanggung jawab atas pengelolaan dan perhitungan efektivitas dari
---------
-Proses pengelolaan dan perhitungan efektivitas dari TVC tersebut antara lain: mengambil <it>raw</it> data dari <it>spreadsheet,</it> melakukan <it>data</it> <it>cleaning</it> & <it>formatting</it> secara manual, mengunggah data yang sudah dibersihkan dan diformat ke dalam sistem, menjalankan <it>script</it> untuk perhitungan efektivitas TVC, membuat laporan dan mengirimkannya kepada <it>Marketing</it> <it>Technology</it> <it>Lead,</it> <it>Media</it> <it>Planner,</it> serta <it>Country</it> <it>Manager.</it> Setelah memahami proses bisnis yang ada, penulis melakukan analisis terhadap algoritma yang digunakan dengan membuka dan membedah seluruh <it>script</it> yang terlibat dalam proses perhitungan efektivitas TVC.
-
-Berikut adalah teknologi yang digunakan penulis selama menjalani kerja praktik di Traveloka: 1.
---------
-Berikut adalah teknologi yang digunakan penulis selama menjalani kerja praktik di Traveloka.
-
-Berikut adalah teknologi yang digunakan penulis selama menjalani kerja praktik di Traveloka: 1.
---------
-1.
-
-Berikut adalah teknologi yang digunakan penulis selama menjalani kerja praktik di Traveloka: 1.
---------
-Q Q merupakan <it>business</it> <it>intelligence</it> <it>tools</it> yang digunakan penulis untuk melakukan visualisasi data terkait efektivitas TVC.
-
-P P merupakan platform baru yang digunakan Traveloka untuk mengatur seluruh <it>script</it> <it>marketing.</it> Saat ini, sebagian besar <it>script</it> yang ada masih berada di luar tools ini.
---------
-P P merupakan platform baru yang digunakan Traveloka untuk mengatur seluruh <it>script</it> <it>marketing.</it> Saat ini, sebagian besar <it>script</it> yang ada masih berada di luar tools ini.
-
-Namun, nantinya, seluruh <it>script</it> yang dimiliki tim <it>marketing</it> akan dipindahkan ke dalam P. P dapat dianggap seperti <it>automated</it> <it>ETL</it> <it>tools</it> yang dapat mengekstrak data dari berbagai macam sumber seperti: basis data, Google drive, dan aplikasi pihak ketiga lainnya.
---------
-Namun, nantinya, seluruh <it>script</it> yang dimiliki tim <it>marketing</it> akan dipindahkan ke dalam P. P dapat dianggap seperti <it>automated</it> <it>ETL</it> <it>tools</it> yang dapat mengekstrak data dari berbagai macam sumber seperti: basis data, Google drive, dan aplikasi pihak ketiga lainnya.
-
-Setelah melakukan ekstraksi data, pengguna dapat membuat <it>script</it> untuk melakukan transformasi data, kemudian disimpan ke dalam basis data yang sudah disediakan oleh platform tersebut.
---------
-Setelah melakukan ekstraksi data, pengguna dapat membuat <it>script</it> untuk melakukan transformasi data, kemudian disimpan ke dalam basis data yang sudah disediakan oleh platform tersebut.
-
-Setelah melakukan ekstraksi data, pengguna dapat membuat <it>script</it> untuk melakukan transformasi data, kemudian disimpan ke dalam basis data yang sudah disediakan oleh platform tersebut.
---------
-Setelah data hasil transformasi tersebut disimpan ke dalam basis data, pengguna dapat menulis data tersebut ke suatu tempat yang diinginkan seperti basis data internal organisasi, <it>google</it> <it>drive,</it> atau aplikasi pihak ke tiga lainnya yang sudah didukung oleh platform ini.
-
-Setelah data hasil transformasi tersebut disimpan ke dalam basis data, pengguna dapat menulis data tersebut ke suatu tempat yang diinginkan seperti basis data internal organisasi, <it>google</it> <it>drive,</it> atau aplikasi pihak ke tiga lainnya yang sudah didukung oleh platform ini.
---------
-Setelah data hasil transformasi tersebut disimpan ke dalam basis data, pengguna dapat menulis data tersebut ke suatu tempat yang diinginkan seperti basis data internal organisasi, <it>google</it> <it>drive,</it> atau aplikasi pihak ke tiga lainnya yang sudah didukung oleh platform ini.
-
-Seluruh proses tersebut dapat dijadwalkan untuk berjalan secara otomatis setiap waktu tertentu.
---------
-Seluruh proses tersebut dapat dijadwalkan untuk berjalan secara otomatis setiap waktu tertentu.
-
-2.
---------
-2.
-
-Dalam proyek kerja praktik, penulis menggunakan Q untuk melakukan visualisasi data.
---------
-Q Q merupakan <it>business</it> <it>intelligence</it> <it>tools</it> yang digunakan penulis untuk melakukan visualisasi data terkait efektivitas TVC.
-
-Hasil visualisasi ini kemudian digunakan oleh tim <it>Media</it> <it>Planner</it> untuk mendapakan <it>insight</it> terkait TVC dengan memanfaatkan data historis dari efektivitas TVC tersebut, untuk kemudian membuat keputusan terkait perencanaan TVC keesokan hari.
---------
-Hasil visualisasi ini kemudian digunakan oleh tim <it>Media</it> <it>Planner</it> untuk mendapatkan <it>insight</it> terkait TVC dengan memanfaatkan data historis dari efektivitas TVC tersebut, untuk kemudian membuat keputusan terkait perencanaan TVC keesokan hari.
-
-Untuk membuat visualisasi, penulis meng-<it>inject</it> data dari <it>tools</it> P ke Q , lalu melakukan <it>query</it> dengan menggunakan tools Q. Hasil dari <it>query</it> tersebut kemudian akan disajikan dalam bentuk <it>chart</it> dan diagram.
---------
-Untuk membuat visualisasi, penulis meng-<it>inject</it> data dari <it>tools</it> P ke Q, lalu melakukan <it>query</it> dengan menggunakan tools Q. Hasil dari <it>query</it> tersebut kemudian akan disajikan dalam bentuk <it>chart</it> dan diagram.
-
-3.
---------
-3.
-
-R R merupakan <it>database</it> <it>management</it> <it>system</it> (DBMS) yang dikembangkan oleh suatu perusahaan teknologi terkemuka.
---------
-R R merupakan <it>database</it> <it>management</it> <it>system</it> (DBMS) yang dikembangkan oleh suatu perusahaan teknologi terkemuka.
-
-DBMS ini didesain agar dapat melakukan agregasi data dan <it>query</it> dengan sangat cepat, relatif terhadap DBMS lainnya.
---------
-DBMS ini didesain agar dapat melakukan agregasi data dan <it>query</it> dengan sangat cepat, jika dibandingkan dengan DBMS lainnya.
-
-Penulis menggunakan DBMS ini untuk menyimpan <it>raw</it> data serta hasil perhitungan efektivitas dari TVC.
---------
-Penulis menggunakan DBMS ini untuk menyimpan <it>raw</it> data serta hasil perhitungan efektivitas dari TVC.
-
-4.
---------
-4.
-
-S S merupakan <it>online</it> <it>spreadsheet</it> <it>software</it> yang tersedia secara gratis di internet.
---------
-S S merupakan <it>online</it> <it>spreadsheet</it> <it>software</it> yang tersedia secara gratis di internet.
-
-Penulis memanfaatkan <it>software</it> ini untuk menulis laporan yang kemudian akan diberikan kepada tim <it>Media</it> <it>Planner</it> dan <it>Country</it> <it>Manager.</it> 5.
---------
-Penulis memanfaatkan <it>software</it> ini untuk menulis laporan yang kemudian akan diberikan kepada tim <it>Media</it> <it>Planner</it> dan <it>Country</it> <it>Manager.</it> 5.
-
-T T merupakan <it>drawing</it> <it>tools</it> yang tersedia secara online.
---------
-T T merupakan <it>drawing</it> <it>tools</it> yang tersedia secara online.
-
-<it>Tools</it> tersebut biasanya dimanfaatkan oleh penggunananya untuk membuat diagram.
---------
-<it>Tools</it> tersebut biasanya dimanfaatkan oleh penggunananya untuk membuat diagram.
-
-Berikut adalah mata kuliah di Fasilkom UI yang membantu penulis selama mengerjakan proyek kerja praktik: 1.
---------
-Berikut adalah mata kuliah di Fasilkom UI yang membantu penulis selama mengerjakan proyek kerja praktik: 1.
-
-DDP, PPW dan SDA DDP, PPW dan SDA sangat membantu penulis dalam mengerjakan proyek kerja praktik.
---------
-DDP, PPW dan SDA DDP, PPW dan SDA sangat membantu penulis dalam mengerjakan proyek kerja praktik karena ketiga mata kuliah tersebut mengajarkan <it>problem</it> <it>solving</it> dengan cukup <it>language-agnostic</it> dan mendalam.
-
-DDP, PPW dan SDA DDP, PPW dan SDA sangat membantu penulis dalam mengerjakan proyek kerja praktik.
---------
-Selain itu, selama menjalankan proyek kerja praktik, penulis juga banyak melakukan <it>query</it> dari basis data.
-
-DDP, PPW dan SDA DDP, PPW dan SDA sangat membantu penulis dalam mengerjakan proyek kerja praktik.
---------
-Manajemen Proyek Dalam mengerjakan proyek kerja praktik, penulis diberikan keleluasaan untuk membuat <it>project</it> <it>timeline</it> sendiri.
-
-Hal ini karena ketiga mata kuliah tersebut mengajarkan <it>problem</it><it>solving</it> dengan cukup <it>language-agnostic</it> dan mendalam.
---------
-DDP, PPW dan SDA DDP, PPW dan SDA sangat membantu penulis dalam mengerjakan proyek kerja praktik karena ketiga mata kuliah tersebut mengajarkan <it>problem</it> <it>solving</it> dengan cukup <it>language-agnostic</it> dan mendalam.
-
-Hal ini membuat penulis tidak mengalami kesulitan dalam mengimplementasikan proyek kerja praktik meskipun bahasa pemrograman yang digunakan cukup berbeda.
---------
-Hal ini membuat penulis tidak mengalami kesulitan dalam mengimplementasikan proyek kerja praktik meskipun bahasa pemrograman yang digunakan cukup berbeda.
-
-Hal ini membuat penulis tidak mengalami kesulitan dalam mengimplementasikan proyek kerja praktik meskipun bahasa pemrograman yang digunakan cukup berbeda.
---------
-Selain itu, selama menjalankan proyek kerja praktik, penulis juga banyak melakukan <it>query</it> dari basis data.
-
-Hal ini membuat penulis tidak mengalami kesulitan dalam mengimplementasikan proyek kerja praktik meskipun bahasa pemrograman yang digunakan cukup berbeda.
---------
-Manajemen Proyek Dalam mengerjakan proyek kerja praktik, penulis diberikan keleluasaan untuk membuat <it>project</it> <it>timeline</it> sendiri.
-
-Bahasa pemrograman utama yang digunakan penulis selama menjalani kerja praktik adalah Python.
---------
-Bahasa pemrograman utama yang digunakan penulis selama menjalani kerja praktik adalah Python.
-
-Bahasa pemrograman utama yang digunakan penulis selama menjalani kerja praktik adalah Python.
---------
-Statistika dan Probabilitas Selama menjalani kerja praktik, penulis berkomunikasi dengan <it>data</it> <it>scientist</it> di Traveloka untuk dapat membuat, membandingkan, dan mengevaluasi model perhitungan CPV dari TVC.
-
-2.
---------
-2.
-
-Basis Data Selama kerja praktik, penulis mendesain basis data dengan membuat ERD.
---------
-Basis Data Selama kerja praktik, penulis mendesain basis data dengan membuat ERD.
-
-ERD tersebut kemudian dipetakan ke dalam <it>relational</it> <it>model</it> dan kemudian di implementasikan pada DBMS yang dimiliki oleh Traveloka.
---------
-ERD tersebut kemudian dipetakan ke dalam <it>relational</it> <it>model</it> dan kemudian di implementasikan pada DBMS yang dimiliki oleh Traveloka.
-
-Selain itu, selama menjalankan proyek kerja praktik, penulis juga banyak melakukan <it>query</it> dari basis data.
---------
-Selain itu, selama menjalankan proyek kerja praktik, penulis juga banyak melakukan <it>query</it> dari basis data.
-
-Tentunya hal ini akan sulit dilakukan apabila penulis tidak pernah atau tidak serius dalam mengambil mata kuliah basis data.
---------
-Tentunya seluruh aktivitas tersebut akan sulit dilakukan apabila penulis tidak pernah atau tidak serius dalam mengambil mata kuliah basis data.
-
-3.
---------
-3.
-
-Manajemen Proyek Dalam mengerjakan proyek kerja praktik, penulis diberikan keleluasaan untuk membuat <it>project</it> <it>timeline</it> sendiri.
---------
-Berikut adalah mata kuliah di Fasilkom UI yang membantu penulis selama mengerjakan proyek kerja praktik: 1.
-
-Manajemen Proyek Dalam mengerjakan proyek kerja praktik, penulis diberikan keleluasaan untuk membuat <it>project</it> <it>timeline</it> sendiri.
---------
-Hal ini membuat penulis tidak mengalami kesulitan dalam mengimplementasikan proyek kerja praktik meskipun bahasa pemrograman yang digunakan cukup berbeda.
-
-Manajemen Proyek Dalam mengerjakan proyek kerja praktik, penulis diberikan keleluasaan untuk membuat <it>project</it> <it>timeline</it> sendiri.
---------
-Manajemen Proyek Dalam mengerjakan proyek kerja praktik, penulis diberikan keleluasaan untuk membuat <it>project</it> <it>timeline</it> sendiri.
-
-<it>Project</it> <it>timeline</it> yang penulis buat kemudian baru diajukan kepada penyelia untuk kemudian di-<it>review</it> dan disetujui.
---------
-<it>Project</it> <it>timeline</it> yang penulis buat kemudian baru diajukan kepada penyelia untuk kemudian di-<it>review</it> dan disetujui.
-
-Tentunya mata kuliah manajemen proyek cukup membantu penulis dalam membuat dan mengatur proyek yang dihadapi.
---------
-Tentunya mata kuliah manajemen proyek cukup membantu penulis dalam membuat dan mengatur proyek yang dihadapi.
-
-4.
---------
-4.
-
-Rekayasa Perangkat Lunak Dalam mendesain sistem, penulis menggunakan beberapa diagram untuk mendokumentasikan <it>behavior</it> dari <it>user</it> maupun sistem.
---------
-Rekayasa Perangkat Lunak Dalam mendesain sistem, penulis menggunakan beberapa diagram untuk mendokumentasikan <it>behavior</it> dari <it>user</it> maupun sistem.
-
-Diagram yang digunakan antara lain adalah <it>usecase</it> diagram dan <it>swimlane</it> diagram yang diajarkan pada mata kuliah Rekayasa Perangkat Lunak.
---------
-Diagram yang digunakan antara lain adalah <it>usecase</it> diagram dan <it>swimlane</it> diagram yang diajarkan pada mata kuliah Rekayasa Perangkat Lunak.
-
-Selain itu, mata kuliah rekayasa perangkat lunak juga mengajarkan beberapa <it>process</it> <it>model</it> yang bisa digunakan dalam mengembangkan sebuah sistem ataupun <it>software</it> 5.
---------
-Selain itu, mata kuliah rekayasa perangkat lunak juga mengajarkan beberapa <it>process</it> <it>model</it> yang bisa digunakan dalam mengembangkan sebuah sistem ataupun <it>software</it> 5.
-
-Statistika dan Probabilitas Selama menjalani kerja praktik, penulis berkomunikasi dengan <it>data</it> <it>scientist</it> di Traveloka untuk dapat membuat, membandingkan, dan mengevaluasi model perhitungan CPV dari TVC.
---------
-Bahasa pemrograman utama yang digunakan penulis selama menjalani kerja praktik adalah Python.
-
-Statistika dan Probabilitas Selama menjalani kerja praktik, penulis berkomunikasi dengan <it>data</it> <it>scientist</it> di Traveloka untuk dapat membuat, membandingkan, dan mengevaluasi model perhitungan CPV dari TVC.
---------
-Statistika dan Probabilitas Selama menjalani kerja praktik, penulis berkomunikasi dengan <it>data</it> <it>scientist</it> di Traveloka untuk dapat membuat, membandingkan, dan mengevaluasi model perhitungan CPV dari TVC.
-
-Statistika dan Probabilitas Selama menjalani kerja praktik, penulis berkomunikasi dengan <it>data</it> <it>scientist</it> di Traveloka untuk dapat membuat, membandingkan, dan mengevaluasi model perhitungan CPV dari TVC.
---------
-Dalam melakukan hal tersebut, penulis merasa terbantu dengan ilmu-ilmu yang diberikan dalam mata kuliah Statistika dan Probabilitas seperti: distribusi dari suatu persebaran data, <it>T-test,</it> dan hal-hal lainnya.
-
-Dalam melakukan hal tersebut, penulis merasa terbantu dengan ilmu-ilmu yang diberikan dalam mata kuliah Statistika dan Probabilitas seperti: distribusi dari suatu persebaran data, uji perbedaan data, dan hal-hal lainnya.
---------
-Dalam melakukan hal tersebut, penulis merasa terbantu dengan ilmu-ilmu yang diberikan dalam mata kuliah Statistika dan Probabilitas seperti: distribusi dari suatu persebaran data, <it>T-test,</it> dan hal-hal lainnya.
-
-Selain itu, penulis juga diberikan “<it>mini</it> <it>course”</it>  mengenai  statistika  dan probabilitas.
---------
-Selain itu, selama menjalankan proyek kerja praktik, penulis juga banyak melakukan <it>query</it> dari basis data.
-
-Selain itu, penulis juga diberikan “<it>mini</it> <it>course”</it>  mengenai  statistika  dan probabilitas.
---------
-Selain itu, penulis juga diberikan <it>mini</it> <it>course</it> mengenai statistika dan probabilitas.
-
-6.
---------
-6.
-
-Komunikasi Bisnis dan Teknis Selama kerja praktik penulis merasa terbantu dengan ilmu yang diberikan oleh mata kuliah Komunikasi Bisnis dan Teknis.
---------
-Dalam melakukan hal tersebut, penulis merasa terbantu dengan ilmu-ilmu yang diberikan dalam mata kuliah Statistika dan Probabilitas seperti: distribusi dari suatu persebaran data, <it>T-test,</it> dan hal-hal lainnya.
-
-Komunikasi Bisnis dan Teknis Selama kerja praktik penulis merasa terbantu dengan ilmu yang diberikan oleh mata kuliah Komunikasi Bisnis dan Teknis.
---------
-Komunikasi Bisnis dan Teknis Selama kerja praktik penulis merasa terbantu dengan ilmu yang diberikan oleh mata kuliah Komunikasi Bisnis dan Teknis.
-
-Hal ini karena selama menjalani kerja praktik, penulis berhubungan dengan banyak orang yang lebih dewasa baik itu secara usia maupun secara struktural.
---------
-Bahasa pemrograman utama yang digunakan penulis selama menjalani kerja praktik adalah Python.
-
-Hal ini karena selama menjalani kerja praktik, penulis berhubungan dengan banyak orang yang lebih dewasa baik itu secara usia maupun secara struktural.
---------
-Hal ini karena selama menjalani kerja praktik, penulis berhubungan dengan banyak orang yang lebih dewasa baik itu secara usia maupun secara struktural.
-
-Mata kuliah Komunikasi Bisnis dan Teknis mengajarkan bagaimana untuk bersikap di dunia bisnis.
---------
-Komunikasi Bisnis dan Teknis Selama kerja praktik penulis merasa terbantu dengan ilmu yang diberikan oleh mata kuliah Komunikasi Bisnis dan Teknis.
-
-Mata kuliah Komunikasi Bisnis dan Teknis mengajarkan bagaimana untuk bersikap di dunia bisnis.
---------
-Mata kuliah Komunikasi Bisnis dan Teknis mengajarkan bagaimana untuk bersikap di dunia bisnis.
-
-Penulis telah melaksanakan kerja praktik selama tiga bulan di Traveloka dengan posisi <it>Marketing</it> <it>Technology</it> <it>Intern</it> pada divisi <it>Marketing</it> <it>Technology</it> yang berada di bawah departement <it>Marketing</it> & <it>Analytics.</it> Selama menjalani kerja praktik, penulis diberikan tanggung jawab untuk mengotomatiskan proses pengelolaan data TVC dan melakukan visualisasi terhadap hasil perhitungan efektivitas dari TVC tersebut.
---------
-Penulis telah melaksanakan kerja praktik selama tiga bulan di Traveloka dengan posisi <it>Marketing</it> <it>Technology</it> <it>Intern</it> pada divisi <it>Marketing</it> <it>Technology</it> yang berada di bawah departement <it>Marketing</it> & <it>Analytics.</it> Selama menjalani kerja praktik, penulis diberikan tanggung jawab untuk mengotomasi proses pengelolaan data TVC dan melakukan visualisasi terhadap hasil perhitungan efektivitas dari TVC tersebut.
-
-Dalam pelaksanaannya, terdapat berbagai kesulitan dan hambatan yang harus dihadapi penulis.
---------
-Dalam pelaksanaannya, terdapat berbagai kesulitan dan hambatan yang harus dihadapi penulis.
-
-Meskipun demikian, penulis berhasil menyelesaikan proyek tersebut sesuai dengan <it>scope</it> dan waktu yang diberikan.
---------
-Meskipun demikian, penulis berhasil menyelesaikan proyek tersebut sesuai dengan <it>scope</it> dan waktu yang diberikan.
-
-Meskipun tidak mudah, pemilihan tempat kerja praktik yang tepat merupakan hal fundamental pada mata kuliah kerja praktik ini.
---------
-Pemilihan tempat kerja praktik yang tepat merupakan hal fundamental.
-
-Dengan menjalankan kerja praktik di tempat yang tepat, pelaksana kerja praktik akan mendapatkan pengalaman yang nyata dan berharga.
---------
-Dengan menjalankan kerja praktik di tempat yang tepat, pelaksana kerja praktik akan mendapatkan pengalaman yang nyata dan berharga.
-
-Dengan menjalankan kerja praktik di tempat yang tepat, pelaksana kerja praktik akan mendapatkan pengalaman yang nyata dan berharga.
---------
-Hal ini karena pelaksana kerja praktik tidak dibedakan dengan karyawan lainnya, sehingga dapat mendapatkan pengalaman yang nyata terkait dunia kerja.
-
-Dengan menjalankan kerja praktik di tempat yang tepat, pelaksana kerja praktik akan mendapatkan pengalaman yang nyata dan berharga.
---------
-Selain itu, penulis juga merasa dapat menerapkan ilmu yang didapatkan di kelas secara langsung dengan menjalankan kerja praktik di divisi <it>Marketing</it> <it>Technology.</it>
-
-Tidak hanya itu saja, pelaksana kerja praktik dapat mencoba menerapkan ilmu yang didapatkan di kelas pada dunia yang lebih nyata.
---------
-Tidak hanya itu saja, pelaksana kerja praktik dapat mencoba menerapkan ilmu yang didapatkan di kelas pada dunia yang lebih nyata.
-
-Penulis merasa pengalaman ini adalah pengalaman berharga dan Traveloka, terutama divisi <it>Marketing</it> <it>Technology,</it> merupakan salah satu tempat yang ideal untuk melaksanakan kerja praktik.
---------
-Menurut penulis, Traveloka, terutama divisi <it>Marketing</it> <it>Technology,</it> merupakan tempat yang baik untuk melaksanakan kerja praktik.
-
-Berikut adalah saran yang dapat penulis sampaikan berdasarkan pengalaman menjalankan kerja praktik selama tiga bulan:   Untuk  Traveloka:  o Penulis merasa bahwa penulis dituntut untuk dapat menguasai seluruh teknologi yang dibutuhkan secara mandiri, sama seperti karyawan lainnya.
---------
-Berikut adalah saran yang dapat penulis sampaikan berdasarkan pengalaman menjalankan kerja praktik selama tiga bulan:   Untuk Traveloka:  o Penulis merasa bahwa penulis dituntut untuk dapat menguasai seluruh teknologi yang dibutuhkan secara mandiri, sama seperti karyawan lainnya.
+===========
+Segment 1
+===========
+Full Match
+Distance: 0
+Before: Proses pencarian kerja praktik dimulai pada bulan September 2015.
+After: Proses pencarian kerja praktik dimulai pada bulan September 2015.
+
+Distance: 0
+Before: Menyadari waktu pelaksanaan kerja praktik yang semakin dekat, penulis akhirnya memutuskan untuk memulai pencarian kerja praktik di Indonesia.
+After: Menyadari waktu pelaksanaan kerja praktik yang semakin dekat, penulis akhirnya memutuskan untuk memulai pencarian kerja praktik di Indonesia.
+
+Distance: 0
+Before: Setelah melakukan pencarian di internet dan bertanya kepada senior, penulis mendapatkan informasi bahwa salah satu tempat kerja praktik yang paling ideal untuk mahasiswa Fasilkom UI adalah Traveloka.
+After: Setelah melakukan pencarian di internet dan bertanya kepada senior, penulis mendapatkan informasi bahwa salah satu tempat kerja praktik yang paling ideal untuk mahasiswa Fasilkom UI adalah Traveloka.
+
+Distance: 0
+Before: Dalam waktu satu minggu, penulis mempersiapkan wawancara dengan membaca beberapa artikel terkait dengan <it>marketing,</it> penggunaan data dalam <it>marketing,</it> serta mengulang kembali beberapa materi pada perkuliahan DDP, SDA dan Basis Data.
+After: Dalam waktu satu minggu, penulis mempersiapkan wawancara dengan membaca beberapa artikel terkait dengan <it>marketing,</it> penggunaan data dalam <it>marketing,</it> serta mengulang kembali beberapa materi pada perkuliahan DDP, SDA dan Basis Data.
+
+Distance: 0
+Before: Wawancara di Traveloka terdiri dari dua tahap.
+After: Wawancara di Traveloka terdiri dari dua tahap.
+
+Distance: 0
+Before: Pada tahap pertama, penulis diberikan empat soal.
+After: Pada tahap pertama, penulis diberikan empat soal.
+
+Distance: 0
+Before: Setelah dinyatakan lulus wawancara tahap pertama, penulis pun dijadwalkan untuk mengikuti wawancara tahap kedua.
+After: Setelah dinyatakan lulus wawancara tahap pertama, penulis pun dijadwalkan untuk mengikuti wawancara tahap kedua.
+
+--------------
+
+Partial
+Distance: 25
+Before: Pada saat itu, penulis mencoba untuk mendaftarkan diri pada tiga perusahaan yang berada di luar negeri: Google Inc., Sabre Coorporation, dan Siemens United Kingdom (UK).
+After: Pada saat itu, penulis mengajukan aplikasi ketiga perusahaan yang berada di luar negeri: Google Inc., Sabre Coorporation, dan Siemens United Kingdom (UK).
+
+Distance: 37
+Before: Untuk Google Inc. dan Sabre Coorporation, penulis dinyatakan gagal pada <it>interview</it> tahap awal.
+After: Pada seleksi magang di Google Inc. dan Sabre Coorporation, penulis dinyatakan gagal pada wawancara tahap awal.
+
+Distance: 16
+Before: Karena baru tahap awal, kedua perusahaan tersebut belum bisa memberikan <it>feedback</it> terkait dengan <it>interview</it> yang dilakukan.
+After: Karena baru tahap awal, kedua perusahaan tersebut belum bisa memberikan <it>feedback</it> terkait dengan wawancara yang dilakukan.
+
+Distance: 53
+Before: Sementara itu untuk <it>interview</it> kedua, yang merupakan final <it>interview,</it> dilakukan dengan <it>Project</it> <it>Manager.</it> Pertanyaan yang diberikan pada interview tahap terakhir ini lebih banyak mengenai studi kasus.
+After: Wawancara tahap kedua, yang merupakan <it>final</it> <it>interview,</it> dilakukan dengan <it>Project</it> <it>Manager.</it> Pertanyaan yang diberikan pada wawancara tahap akhir ini lebih banyak mengenai studi kasus.
+
+Distance: 3
+Before: Setelah selesai mengikuti serangkaian proses seleksi, pada akhir bulan Februari 2016 penulis mendapatkan informasi bahwa Siemens UK belum bisa menerima penulis sebagai <it>intern,</it> tanpa memberikan <it>feedback</it> lebih lanjut.
+After: Setelah selesai mengikuti serangkaian proses seleksi pada akhir bulan Februari 2016, penulis mendapatkan informasi bahwa Siemens UK belum bisa menerima penulis sebagai <it>intern</it> tanpa memberikan <it>feedback</it> lebih lanjut.
+
+Distance: 5
+Before: Alasannya karena Traveloka merupakan perusahaan teknologi yang paling berkembang di Indonesia dan memiliki standar yang tinggi dalam merekrut karyawannya.
+After: Alasannya adalah Traveloka merupakan perusahaan teknologi yang paling berkembang di Indonesia dan memiliki standar yang tinggi dalam merekrut karyawannya.
+
+Distance: 44
+Before: Oleh karena itu, mahasiswa Fasilkom yang melaksanakan kerja praktik di sana akan “bermain”  dengan  teknologi  terbaru, dan dibimbing oleh mentor-mentor yang berkualitas.
+After: mahasiswa Fasilkom yang melaksanakan kerja praktik di Traveloka akan menggunakan teknologi terbaru dan dibimbing oleh mentor-mentor yang berkualitas.
+
+Distance: 57
+Before: Setelah memutuskan untuk mendaftar Traveloka, penulis pun menghubungi salah satu pegawai Traveloka yaitu Elsa Anggraini Darwin (Fasilkom 2010) dan menyampaikan maksud dari penulis.
+After: Setelah memutuskan untuk mengajukan lamaran ke Traveloka, penulis pun menghubungi salah seorang pegawai Traveloka yaitu Elsa Anggraini Darwin (Fasilkom 2010).
+
+Distance: 36
+Before: Pada tahap pertama, penulis diberikan empat soal.
+After: Wawancara di Traveloka terdiri dari dua tahap.
+
+Distance: 1
+Before: Dua soal pertama merupakan pertanyaan seputar pemrograman, dan dua soal lainnya merupakan analisis mengenai penggunaan data dalam membantu perusahaan untuk menyelesaikan kasus-kasus tertentu.
+After: Dua soal pertama merupakan pertanyaan seputar pemrograman dan dua soal lainnya merupakan analisis mengenai penggunaan data dalam membantu perusahaan untuk menyelesaikan kasus-kasus tertentu.
+
+Distance: 32
+Before: Pada wawancara ini, penulis diwawancarai oleh <it>Marketing</it> <it>Technology</it> <it>Lead.</it> Pada tahap ini, penulis diberikan tiga jenis pertanyaan.
+After: Pada wawancara tahap kedua, penulis diwawancarai oleh <it>Marketing</it> <it>Technology</it> <it>Lead</it> dan diberikan tiga jenis pertanyaan.
+
+Distance: 9
+Before: Pertanyaan pertama adalah sedikit mengenai kehidupan di kampus seperti aktivitas dan mata kuliah yang disukai.
+After: Pertanyaan pertama adalah eksplorasin mengenai kehidupan di kampus seperti aktivitas dan mata kuliah yang disukai.
+
+Distance: 56
+Before: Pertanyaan jenis kedua adalah pertanyaan pemrograman, lebih mudah dari pada pertanyaan pada tahap pertama.
+After: Dua jenis pertanyaan lainnya adalah pertanyaan pemrograman dan pertanyaan analisis.
+
+
+===========
+Segment 2
+===========
+Full Match
+Distance: 0
+Before: Seperti yang kita ketahui, salah satu <it>marketing</it> <it>channel</it> yang digunakan Traveloka saat ini adalah iklan di TV.
+After: Seperti yang kita ketahui, salah satu <it>marketing</it> <it>channel</it> yang digunakan Traveloka saat ini adalah iklan di TV.
+
+Distance: 0
+Before: Pemasangan iklan di TV ini tentunya membutuhkan biaya yang cukup besar.
+After: Pemasangan iklan di TV ini tentunya membutuhkan biaya yang cukup besar.
+
+Distance: 0
+Before: Oleh karena itu, perlu diukur apakah sebuah iklan di TV menguntungkan perusahaan atau tidak.
+After: Oleh karena itu, perlu diukur apakah sebuah iklan di TV menguntungkan perusahaan atau tidak.
 
-Berikut adalah saran yang dapat penulis sampaikan berdasarkan pengalaman menjalankan kerja praktik selama tiga bulan:   Untuk  Traveloka:  o Penulis merasa bahwa penulis dituntut untuk dapat menguasai seluruh teknologi yang dibutuhkan secara mandiri, sama seperti karyawan lainnya.
---------
-Selain itu, penulis juga mengusulkan agar memulai proses <it>code</it> <it>review</it> di internal divisi <it>Marketing</it> <it>Technology.</it>   Untuk dosen pembimbing kerja praktik:  o Penulis merasakan perlunya sosialisasi bagaimana cara mencari tempat kerja praktik yang tepat, seperti tempat kerja praktik yang memiliki program magang atau yang sesuai dengan minat mahasiswa.
-
-Padahal kemampuan penulis belum seberapa jika dibandingkan dengan karyawan Traveloka.
---------
-Padahal, kemampuan penulis belum seberapa jika dibandingkan dengan karyawan Traveloka.
-
-Oleh karena itu, akan lebih baik apabila Traveloka memberikan lebih banyak pelatihan dan tutorial terutama yang bersifat <it>technical</it> secara lebih intensif kepada pelaksana kerja praktik guna mendukung pekerjaan.
---------
-Oleh karena itu, akan lebih baik apabila Traveloka memberikan lebih banyak pelatihan dan tutorial terutama yang bersifat teknis secara lebih intensif kepada pelaksana kerja praktik guna mendukung pekerjaan.
-
-o Penulis terkadang merasa iri dengan pelaksana kerja praktik lainnya, terutama dengan mereka yang bekerja di bawah departemen <it>Engineering.</it> Hal ini karena peraturan yang ada untuk departemen <it>Engineering</it> jauh lebih fleksibel jika dibandingkan dengan peraturan yang berlaku di departemen <it>Marketing</it> & <it>Analytics.</it> Misalnya, proses pengajuan izin cuti, jam kerja, dan lain sebagainya.
---------
-Padahal, kemampuan penulis belum seberapa jika dibandingkan dengan karyawan Traveloka.
-
-o Penulis terkadang merasa iri dengan pelaksana kerja praktik lainnya, terutama dengan mereka yang bekerja di bawah departemen <it>Engineering.</it> Hal ini karena peraturan yang ada untuk departemen <it>Engineering</it> jauh lebih fleksibel jika dibandingkan dengan peraturan yang berlaku di departemen <it>Marketing</it> & <it>Analytics.</it> Misalnya, proses pengajuan izin cuti, jam kerja, dan lain sebagainya.
---------
-o Penulis merasakan adanya kesenjangan dengan pelaksana kerja praktik lainnya, terutama dengan mereka yang bekerja di bawah departemen <it>Engineering.</it> Hal ini karena peraturan yang ada untuk departemen <it>Engineering</it> jauh lebih fleksibel jika dibandingkan dengan peraturan yang berlaku di departemen <it>Marketing</it> & <it>Analytics,</it> seperti proses pengajuan izin cuti, jam kerja, dan lain sebagainya.
-
-Oleh karena itu penulis mengusulkan agar pengelolaan dan peraturan untuk <it>intern</it> dilakukan secara terpusat.
---------
-Oleh karena itu, akan lebih baik apabila Traveloka memberikan lebih banyak pelatihan dan tutorial terutama yang bersifat teknis secara lebih intensif kepada pelaksana kerja praktik guna mendukung pekerjaan.
-
-Oleh karena itu penulis mengusulkan agar pengelolaan dan peraturan untuk <it>intern</it> dilakukan secara terpusat.
---------
-Oleh karena itu, penulis mengusulkan agar pengelolaan dan peraturan untuk <it>intern</it> dilakukan secara terpusat.
-
-o Penulis mengalami kesulitan ketika mencoba untuk memahami sistem yang sudah ada.
---------
-o Penulis mengalami kesulitan ketika mencoba untuk memahami sistem yang sudah ada.
-
-Hal ini karena minimnya dokumentasi, serta tidak ada proses <it>code</it> <it>review</it> pada <it>script</it> milik divisi <it>Marketing</it> <it>Technology.</it> Padahal, menurut teman-teman di departemen <it>engineering,</it> dokumentasi yang baik dan proses <it>code</it> <it>review</it> sangat memudahkan mereka dalam memahami <it>code</it> yang sudah ada.
---------
-Hal ini karena minimnya dokumentasi, serta tidak ada proses <it>code</it> <it>review</it> pada <it>script</it> milik divisi <it>Marketing</it> <it>Technology.</it> Padahal, menurut teman-teman di departemen <it>engineering,</it> dokumentasi yang baik dan proses <it>code</it> <it>review</it> sangat memudahkan mereka dalam memahami <it>code</it> yang sudah ada.
-
-Oleh karena itu, penulis mengusulkan agar setiap <it>script</it> yang dimiliki oleh divisi <it>Marketing</it> <it>Technology</it> harus didampingi dengan dokumentasi yang baik.
---------
-Oleh karena itu, penulis mengusulkan agar setiap <it>script</it> yang dimiliki oleh divisi <it>Marketing</it> <it>Technology</it> harus didampingi dengan dokumentasi yang baik.
-
-Selain itu, penulis juga mengusulkan agar memulai proses <it>code</it> <it>review</it> di internal divisi <it>Marketing</it> <it>Technology.</it>   Untuk  dosen pembimbing  kerja praktik:  o Penulis merasakan perlunya sosialisasi bagaimana cara mencari tempat kerja praktik yang tepat.
---------
-Selain itu, penulis juga mengusulkan agar memulai proses <it>code</it> <it>review</it> di internal divisi <it>Marketing</it> <it>Technology.</it>   Untuk dosen pembimbing kerja praktik:  o Penulis merasakan perlunya sosialisasi bagaimana cara mencari tempat kerja praktik yang tepat, seperti tempat kerja praktik yang memiliki program magang atau yang sesuai dengan minat mahasiswa.
-
-Misalnya, carilah tempat kerja praktik yang memiliki program magang, carilah tempat kerja praktik yang sesuai dengan minat.
---------
-Selain itu, penulis juga mengusulkan agar memulai proses <it>code</it> <it>review</it> di internal divisi <it>Marketing</it> <it>Technology.</it>   Untuk dosen pembimbing kerja praktik:  o Penulis merasakan perlunya sosialisasi bagaimana cara mencari tempat kerja praktik yang tepat, seperti tempat kerja praktik yang memiliki program magang atau yang sesuai dengan minat mahasiswa.
-
-Hal ini dirasa penting agar pelaksana kerja praktik dapat merasakan lingkungan pekerjaan yang sesungguhnya o Sebaiknya setiap laporan kerja praktik dikelompokkan berdasarkan perusahaan, lalu kemudian dibagikan kepada calon mahasiswa yang ingin mengambil mata kuliah kerja praktik.
---------
-Hal ini dirasa penting agar pelaksana kerja praktik dapat merasakan lingkungan pekerjaan yang sesungguhnya.
-
-Hal ini dirasa penting agar pelaksana kerja praktik dapat merasakan lingkungan pekerjaan yang sesungguhnya o Sebaiknya setiap laporan kerja praktik dikelompokkan berdasarkan perusahaan, lalu kemudian dibagikan kepada calon mahasiswa yang ingin mengambil mata kuliah kerja praktik.
---------
-o Sebaiknya setiap laporan kerja praktik dikelompokkan berdasarkan perusahaan, lalu kemudian dibagikan kepada calon mahasiswa yang ingin mengambil mata kuliah kerja praktik.
-
-Hal ini ditujukan agar mahasiswa tersebut memiliki gambaran mengenai bagaimana menjalankan kerja praktik di perusahaan tersebut
---------
-Berikut adalah saran yang dapat penulis sampaikan berdasarkan pengalaman menjalankan kerja praktik selama tiga bulan:   Untuk Traveloka:  o Penulis merasa bahwa penulis dituntut untuk dapat menguasai seluruh teknologi yang dibutuhkan secara mandiri, sama seperti karyawan lainnya.
-
-Hal ini ditujukan agar mahasiswa tersebut memiliki gambaran mengenai bagaimana menjalankan kerja praktik di perusahaan tersebut
---------
-Hal ini ditujukan agar mahasiswa tersebut memiliki gambaran mengenai bagaimana menjalankan kerja praktik di perusahaan tersebut.
-
-[1]"About Traveloka.
---------
-[1]"About Traveloka.
-
-", About Traveloka, 2016.
---------
-", About Traveloka, 2016.
-
-[Online].
---------
-[Online].
-
-[Online].
---------
-[Online].
-
-Available: https://sites.google.com/a/traveloka.com/working-at-traveloka/about-traveloka [Accessed : 14- Jun- 2016] [2]"Traveloka.com - Careers - Join a world class team in Indonesia!
---------
-Tersedia: https://sites.google.com/a/traveloka.com/working-at-traveloka/about-traveloka [Diakses : 14- Jun- 2016] [2]"Traveloka.com - Careers - Join a world class team in Indonesia!
-
-", Traveloka.com, 2016.
---------
-", Traveloka.com, 2016.
-
-[Online].
---------
-[Online].
-
-[Online].
---------
-[Online].
-
-<BEFORE><it>Gambar</it></BEFORE>
-<AFTER>Gambar</AFTER>
-
-<BEFORE><it>1:</it</BEFORE>
-<AFTER>1</AFTER>
-
-<BEFORE><it>Logo</it></BEFORE>
-<AFTER>Logo</AFTER>
-
-<BEFORE><it>Traveloka</it></BEFORE>
-<AFTER>Traveloka</AFTER>
-
-<BEFORE><it>Traveloka</it></BEFORE>
-<AFTER>Traveloka</AFTER>
-
-<BEFORE><it>Gambar</it></BEFORE>
-<AFTER>Gambar</AFTER>
-
-<BEFORE>Marketing</BEFORE>
-<AFTER><it>Marketing</it></AFTER>
-
-<BEFORE>Technology</BEFORE>
-<AFTER><it>Technology</it></AFTER>
-
-<BEFORE>Lead</BEFORE>
-<AFTER><it>Lead</it></AFTER>
-
-<BEFORE><it>tools</it></BEFORE>
-<AFTER>tools</AFTER>
-
-<BEFORE>tools</BEFORE>
-<AFTER><it>tools</it></AFTER>
-
-<BEFORE><it>data</it></BEFORE>
-<AFTER>data</AFTER>
+Distance: 1
+Before: Hal ini mengakibatkan tim <it>Media</it> <it>Planner</it> harus mengolah sendiri hasil perhitungan efektivitas TVC dengan menggunakan excel yang memakan waktu cukup lama.
+After: Hal ini mengakibatkan tim <it>Media</it> <it>Planner</it> harus mengolah sendiri hasil perhitungan efektivitas TVC dengan menggunakan Excel yang memakan waktu cukup lama.
+
+--------------
+
+Partial
+Distance: 9
+Before: Sebagai <it>data-driven</it> <it>company,</it> segala keputusan bisnis yang ada di Traveloka harus berdasarkan data yang ada.
+After: Sebagai <it>data-driven</it> <it>company,</it> segala keputusan bisnis yang ada di Traveloka harus didasari oleh data yang ada.
+
+Distance: 6
+Before: Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka namun belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.
+After: Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka tetapi belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.
+
+Distance: 62
+Before: Selain itu, meskipun tim <it>Media</it> <it>Planner</it> membutuhkan data efektivitas dari TVC setiap hari untuk merencanakan TVC keesokan harinya, namun perhitungan efektivitas tersebut dilakukan secara mingguan.
+After: Selain itu, meskipun tim <it>Media</it> <it>Planner</it> setiap harinya membutuhkan data efektivitas TVC untuk merencanakan TVC keesokan hari, perhitungan efektivitas TVC dilakukan dengan frekuensi mingguan.
+
+
+===========
+Segment 3
+===========
+Full Match
+Distance: 0
+Before: Namun, nantinya, seluruh <it>script</it> yang dimiliki tim <it>marketing</it> akan dipindahkan ke dalam P. P dapat dianggap seperti <it>automated</it> <it>ETL</it> <it>tools</it> yang dapat mengekstrak data dari berbagai macam sumber seperti: basis data, Google drive, dan aplikasi pihak ketiga lainnya.
+After: Namun, nantinya, seluruh <it>script</it> yang dimiliki tim <it>marketing</it> akan dipindahkan ke dalam P. P dapat dianggap seperti <it>automated</it> <it>ETL</it> <it>tools</it> yang dapat mengekstrak data dari berbagai macam sumber seperti: basis data, Google drive, dan aplikasi pihak ketiga lainnya.
+
+Distance: 0
+Before: Setelah melakukan ekstraksi data, pengguna dapat membuat <it>script</it> untuk melakukan transformasi data, kemudian disimpan ke dalam basis data yang sudah disediakan oleh platform tersebut.
+After: Setelah melakukan ekstraksi data, pengguna dapat membuat <it>script</it> untuk melakukan transformasi data, kemudian disimpan ke dalam basis data yang sudah disediakan oleh platform tersebut.
+
+Distance: 0
+Before: Setelah data hasil transformasi tersebut disimpan ke dalam basis data, pengguna dapat menulis data tersebut ke suatu tempat yang diinginkan seperti basis data internal organisasi, <it>google</it> <it>drive,</it> atau aplikasi pihak ke tiga lainnya yang sudah didukung oleh platform ini.
+After: Setelah data hasil transformasi tersebut disimpan ke dalam basis data, pengguna dapat menulis data tersebut ke suatu tempat yang diinginkan seperti basis data internal organisasi, <it>google</it> <it>drive,</it> atau aplikasi pihak ke tiga lainnya yang sudah didukung oleh platform ini.
+
+Distance: 0
+Before: R R merupakan <it>database</it> <it>management</it> <it>system</it> (DBMS) yang dikembangkan oleh suatu perusahaan teknologi terkemuka.
+After: R R merupakan <it>database</it> <it>management</it> <it>system</it> (DBMS) yang dikembangkan oleh suatu perusahaan teknologi terkemuka.
+
+Distance: 0
+Before: S S merupakan <it>online</it> <it>spreadsheet</it> <it>software</it> yang tersedia secara gratis di internet.
+After: S S merupakan <it>online</it> <it>spreadsheet</it> <it>software</it> yang tersedia secara gratis di internet.
+
+Distance: 0
+Before: Penulis memanfaatkan <it>software</it> ini untuk menulis laporan yang kemudian akan diberikan kepada tim <it>Media</it> <it>Planner</it> dan <it>Country</it> <it>Manager.</it> 5.
+After: Penulis memanfaatkan <it>software</it> ini untuk menulis laporan yang kemudian akan diberikan kepada tim <it>Media</it> <it>Planner</it> dan <it>Country</it> <it>Manager.</it> 5.
+
+Distance: 0
+Before: T T merupakan <it>drawing</it> <it>tools</it> yang tersedia secara online.
+After: T T merupakan <it>drawing</it> <it>tools</it> yang tersedia secara online.
+
+Distance: 0
+Before: <it>Tools</it> tersebut biasanya dimanfaatkan oleh penggunananya untuk membuat diagram.
+After: <it>Tools</it> tersebut biasanya dimanfaatkan oleh penggunananya untuk membuat diagram.
+
+--------------
+
+Partial
+Distance: 1
+Before: Hasil visualisasi ini kemudian digunakan oleh tim <it>Media</it> <it>Planner</it> untuk mendapakan <it>insight</it> terkait TVC dengan memanfaatkan data historis dari efektivitas TVC tersebut, untuk kemudian membuat keputusan terkait perencanaan TVC keesokan hari.
+After: Hasil visualisasi ini kemudian digunakan oleh tim <it>Media</it> <it>Planner</it> untuk mendapatkan <it>insight</it> terkait TVC dengan memanfaatkan data historis dari efektivitas TVC tersebut, untuk kemudian membuat keputusan terkait perencanaan TVC keesokan hari.
+
+Distance: 19
+Before: DBMS ini didesain agar dapat melakukan agregasi data dan <it>query</it> dengan sangat cepat, relatif terhadap DBMS lainnya.
+After: DBMS ini didesain agar dapat melakukan agregasi data dan <it>query</it> dengan sangat cepat, jika dibandingkan dengan DBMS lainnya.
+
+Distance: 15
+Before: Selama proyek kerja praktik, penulis menggunakan <it>tools</it> T untuk membuat <it>swimlane</it> diagram, <it>script</it> <it>flow,</it> ERD, dan diagram lainnya.
+After: Selama proyek kerja praktik, penulis menggunakan T untuk membuat <it>swimlane</it> diagram, <it>script</it> <it>flow,</it> ERD, dan diagram lainnya.
+
+
+===========
+Segment 4
+===========
+Full Match
+Distance: 0
+Before: Dalam pelaksanaannya, terdapat berbagai kesulitan dan hambatan yang harus dihadapi penulis.
+After: Dalam pelaksanaannya, terdapat berbagai kesulitan dan hambatan yang harus dihadapi penulis.
+
+Distance: 0
+Before: Meskipun demikian, penulis berhasil menyelesaikan proyek tersebut sesuai dengan <it>scope</it> dan waktu yang diberikan.
+After: Meskipun demikian, penulis berhasil menyelesaikan proyek tersebut sesuai dengan <it>scope</it> dan waktu yang diberikan.
+
+Distance: 0
+Before: Dengan menjalankan kerja praktik di tempat yang tepat, pelaksana kerja praktik akan mendapatkan pengalaman yang nyata dan berharga.
+After: Dengan menjalankan kerja praktik di tempat yang tepat, pelaksana kerja praktik akan mendapatkan pengalaman yang nyata dan berharga.
+
+Distance: 0
+Before: Tidak hanya itu saja, pelaksana kerja praktik dapat mencoba menerapkan ilmu yang didapatkan di kelas pada dunia yang lebih nyata.
+After: Tidak hanya itu saja, pelaksana kerja praktik dapat mencoba menerapkan ilmu yang didapatkan di kelas pada dunia yang lebih nyata.
+
+--------------
+
+Partial
+Distance: 5
+Before: Penulis telah melaksanakan kerja praktik selama tiga bulan di Traveloka dengan posisi <it>Marketing</it> <it>Technology</it> <it>Intern</it> pada divisi <it>Marketing</it> <it>Technology</it> yang berada di bawah departement <it>Marketing</it> & <it>Analytics.</it> Selama menjalani kerja praktik, penulis diberikan tanggung jawab untuk mengotomatiskan proses pengelolaan data TVC dan melakukan visualisasi terhadap hasil perhitungan efektivitas dari TVC tersebut.
+After: Penulis telah melaksanakan kerja praktik selama tiga bulan di Traveloka dengan posisi <it>Marketing</it> <it>Technology</it> <it>Intern</it> pada divisi <it>Marketing</it> <it>Technology</it> yang berada di bawah departement <it>Marketing</it> & <it>Analytics.</it> Selama menjalani kerja praktik, penulis diberikan tanggung jawab untuk mengotomasi proses pengelolaan data TVC dan melakukan visualisasi terhadap hasil perhitungan efektivitas dari TVC tersebut.
+
+Distance: 58
+Before: Meskipun tidak mudah, pemilihan tempat kerja praktik yang tepat merupakan hal fundamental pada mata kuliah kerja praktik ini.
+After: Pemilihan tempat kerja praktik yang tepat merupakan hal fundamental.
 
 
