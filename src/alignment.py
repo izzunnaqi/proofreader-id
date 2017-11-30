@@ -123,12 +123,8 @@ def label(x):
 	for a, b in x:
 		sent_a = sent_tokenize(a)
 		sent_b = sent_tokenize(b)
-
-		print "==========="
-		print "Segment " + str(m)
-		print "==========="
 		
-		sentences = sent_align(sent_a, sent_b)
+		full, partial = sent_align(sent_a, sent_b)
 		m += 1
 
 
@@ -206,23 +202,23 @@ def sent_align(sentlist_a, sentlist_b):
 		i += 1
 		j += 1	
 
-	print "Full Match"
-	for a, b in match:
-		print "Distance: " + str(distance(a, b))
-		print "Before: " + a
-		print "After: " + b
-		print ""
+	# print "Full Match"
+	# for a, b in match:
+	# 	print "Distance: " + str(distance(a, b))
+	# 	print "Before: " + a
+	# 	print "After: " + b
+	# 	print ""
 
-	print "--------------\n"
-	print "Partial"
-	for a, b in partial:
-		print "Distance: " + str(distance(a, b))
-		print "Before: " + a
-		print "After: " + b
-		print ""
+	# print "--------------\n"
+	# print "Partial"
+	# for a, b in partial:
+	# 	print "Distance: " + str(distance(a, b))
+	# 	print "Before: " + a
+	# 	print "After: " + b
+	# 	print ""
 
-	print ""
-	return match
+	# print ""
+	return match, partial
 
 
 def word_align(wordlist_1, wordlist_2):
@@ -251,9 +247,29 @@ def main():
 	xml_1 = simplify(doc1)
 	xml_2 = simplify(doc2)
 	
-	full, partial, not_match = align(xml_1, xml_2)
+	full, partial_seg, not_match = align(xml_1, xml_2)
 
-	a = label(partial)
+	candidate = []
+
+	for a, b in partial_seg:
+		print "<PAIR>"
+		print "<BEFORE>" + a + "</BEFORE>"
+		print "<AFTER>" + b + "</AFTER>"
+		print "</PAIR>"
+		print
+
+		sent_a = sent_tokenize(a)
+		sent_b = sent_tokenize(b)
+
+		full_sent, partial_sent = sent_align(sent_a, sent_b)
+
+		for x, y in partial_sent:
+			print "<PAIR>"
+			print "<BEFORE>" + x + "</BEFORE>"
+			print "<AFTER>" + y + "</AFTER>"
+			print "</PAIR>"
+			print
+
 
 
 if __name__ == '__main__':

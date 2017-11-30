@@ -3,8 +3,8 @@
 
 for i in xrange(20, 101):
 	print "<PAIR id=\"" + str(i) + "\">"
-	print "<MISTAKE></MISTAKE>"
-	print "<CORRECTION></CORRECTION>"
+	print "<BEFORE></BEFORE>"
+	print "<AFTER></AFTER>"
 	print "<ERRTYPE></ERRTYPE>"
 	print "</PAIR>\n"
 
