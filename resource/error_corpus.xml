@@ -1,79 +1,81 @@
+<?xml version=\"1.0\" encoding=\"utf-8\" ?>
+<CORPUS>
 <PAIR id="1">
-<BEFORE>Informasi-informasi</BEFORE>
-<AFTER>Informasi</AFTER>
+<BEFORE>Informasi-informasi seputar magang baik itu perihal pengalaman, kenyamanan lingkungan kerja, gaji, dan perhitungan lain, penulis dapati pada awalnya dengan bertanya kepada senior yang melaksanakan kerja praktik pada tahun 2015.</BEFORE>
+<AFTER>Informasi seputar magang baik itu perihal pengalaman, kenyamanan lingkungan kerja, gaji, dan perhitungan lain, penulis dapati pada awalnya dengan bertanya kepada senior yang melaksanakan kerja praktik pada tahun 2015.</AFTER>
 <ERRTYPE>REDUNDANT</ERRTYPE>
 </PAIR>
 
 <PAIR id="2">
-<BEFORE>softwareyang</BEFORE>
-<AFTER>software yang</AFTER>
-<ERRTYPE>SPACE</ERRTYPE>
+<BEFORE>Meski sudah mendaftar melalui situs mereka, Bukalapak tidak memberi respons apa pun, dan penulis menduga posisi <it>software</it> <it>engineer</it> sudah penuh terisi.</BEFORE>
+<AFTER>Penulis mendaftar melalui situs Bukalapak tetapi tidak memberi respons apa pun. Penulis menduga posisi <it>software</it> <it>engineer</it> sudah penuh terisi.</AFTER>
+<ERRTYPE>SPLIT</ERRTYPE>
 </PAIR>
 
 <PAIR id="3">
-<BEFORE>mempengaruhi</BEFORE>
-<AFTER>memengaruhi</AFTER>
+<BEFORE>Hal yang pertama dilakukan pada saat mengembangkan fitur adalah analisis terhadap <it>case</it> seperti apa yang akan mempengaruhi proses dari fitur tersebut, <it>database</it> yang dibutuhkan, apakah terdapat <it>code</it> yang bisa digunakan dari kode-kode yang sudah ada atau haruskah membuat <it>full</it> <it>new</it> <it>code</it> (misalnya seperti bisa menggunakan <it>controller</it> yang sudah ada, harus membuat <it>model</it> baru, dan sebagainya).</BEFORE>
+<AFTER>Hal yang pertama dilakukan pada saat mengembangkan fitur adalah analisis terhadap <it>case</it> seperti apa yang akan memengaruhi proses dari fitur tersebut, <it>database</it> yang dibutuhkan, apakah terdapat <it>code</it> yang bisa digunakan dari kode-kode yang sudah ada atau haruskah membuat <it>full</it> <it>new</it> <it>code</it> (misalnya seperti bisa menggunakan <it>controller</it> yang sudah ada, harus membuat model baru, dan sebagainya).</AFTER>
 <ERRTYPE>TYPO</ERRTYPE>
 </PAIR>
 
 <PAIR id="4">
-<BEFORE><it>model</it></BEFORE>
-<AFTER>model</AFTER>
+<BEFORE>Hal yang pertama dilakukan pada saat mengembangkan fitur adalah analisis terhadap <it>case</it> seperti apa yang akan mempengaruhi proses dari fitur tersebut, <it>database</it> yang dibutuhkan, apakah terdapat <it>code</it> yang bisa digunakan dari kode-kode yang sudah ada atau haruskah membuat <it>full</it> <it>new</it> <it>code</it> (misalnya seperti bisa menggunakan <it>controller</it> yang sudah ada, harus membuat <it>model</it> baru, dan sebagainya).</BEFORE>
+<AFTER>Hal yang pertama dilakukan pada saat mengembangkan fitur adalah analisis terhadap <it>case</it> seperti apa yang akan memengaruhi proses dari fitur tersebut, <it>database</it> yang dibutuhkan, apakah terdapat <it>code</it> yang bisa digunakan dari kode-kode yang sudah ada atau haruskah membuat <it>full</it> <it>new</it> <it>code</it> (misalnya seperti bisa menggunakan <it>controller</it> yang sudah ada, harus membuat model baru, dan sebagainya).</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="5">
-<BEFORE>table</BEFORE>
-<AFTER>tabel</AFTER>
+<BEFORE><it>Beberapa</it> teknologi yang langsung penulis pelajari dan pergunakan bisa dilihat pada table berikut.</BEFORE>
+<AFTER><it>Beberapa</it> teknologi yang langsung penulis pelajari dan gunakan dapat dilihat pada tabel</AFTER>
 <ERRTYPE>TYPO</ERRTYPE>
 </PAIR>
 
 <PAIR id="6">
-<BEFORE>no-SQL</BEFORE>
-<AFTER><it>no-SQL</it></AFTER>
+<BEFORE>Penulis juga belajar untuk menggunakan Mongodb sebagai salah satu database <it>website</it> no-SQL.</BEFORE>
+<AFTER>Penulis juga belajar untuk menggunakan Mongodb sebagai salah satu database <it>website</it> <it>no-SQL.</it></AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="7">
-<BEFORE>disebabkan karena</BEFORE>
-<AFTER>karena</AFTER>
+<BEFORE>Hal ini disebabkan karena metode pengembangan <it>software</it> pada Bukalapak yang bersifat <it>agile.</it></BEFORE>
+<AFTER>Hal ini karena metode pengembangan <it>software</it> pada Bukalapak yang bersifat <it>agile.</it></AFTER>
 <ERRTYPE>REDUNDANT</ERRTYPE>
 </PAIR>
 
 <PAIR id="8">
-<BEFORE>web</BEFORE>
-<AFTER><it>Web</it></AFTER>
-<ERRTYPE>ITALIC,CAPITAL</ERRTYPE>
+<BEFORE>Pembelajaran <it>framework</it> pada matakuliah Perancangan dan Pemrograman Web (PPW) sangat membantu dalam hal konsep dan pemahaman bagaimana <it>framework</it> MVC bekerja.</BEFORE>
+<AFTER>Pembelajaran <it>framework</it> pada matakuliah Perancangan dan Pemrograman <it>Web</it> (PPW) sangat membantu dalam hal konsep dan pemahaman bagaimana <it>framework</it> MVC bekerja.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="9">
-<BEFORE><it>Rails</it></BEFORE>
-<AFTER>Rails</AFTER>
+<BEFORE>Bahasa pemrograman <it>Rails</it> sudah pernah penulis pelajari dasar-dasarnya sendiri, namun penggunaan <it>Rails</it> dalam aplikasi <it>real</it> dan skala yang besar baru penulis pelajari dan praktikan saat kerja praktik.</BEFORE>
+<AFTER>Bahasa pemrograman Rails sudah pernah penulis pelajari dasar-dasarnya sendiri, namun penggunaan Rails dalam aplikasi <it>real</it> dan skala yang besar baru penulis pelajari dan praktikan saat kerja praktik.</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="10">
-<BEFORE>scrum</BEFORE>
-<AFTER><it>scrum</it></AFTER>
-<ERRTYPE></ERRTYPE>
+<BEFORE>Selain mata kuliah yang sudah disebutkan diatas, terdapat hal-hal lain yang juga pernah dipelajari saat perkuliahan, seperti salah satu metode pengembangan <it>software</it> yaitu <it>Scrum</it> pada Rekayasa Perangkat Lunak (RPL), detail-detail agenda dalam pelaksanaan <it>sprint,</it> dan berbagai macam praktik nyata dari teori yang diajarkan pada mata kuliah RPL.</BEFORE>
+<AFTER>Selain mata kuliah yang sudah disebutkan diatas, terdapat hal-hal lain yang juga pernah dipelajari saat perkuliahan, seperti salah satu metode pengembangan <it>software</it> yaitu Scrum pada Rekayasa Perangkat Lunak (RPL), detail-detail agenda dalam pelaksanaan <it>sprint,</it> dan berbagai macam praktik nyata dari teori yang diajarkan pada mata kuliah RPL.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="11">
-<BEFORE>Marketing</BEFORE>
-<AFTER><it>Marketing</it></AFTER>
+<BEFORE><it>Project</it> <it>plan</it> ini kemudian diserahkan kepada Marketing Technology Lead untuk di-<it>review</it> dan disetujui.</BEFORE>
+<AFTER><it>Project</it> <it>plan</it> ini kemudian diserahkan kepada <it>Marketing Technology Lead</it> untuk di-<it>review</it> dan disetujui.</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="12">
-<BEFORE>Technology</BEFORE>
-<AFTER><it>Technology</it></AFTER>
-<ERRTYPE>ITALIC</ERRTYPE>
+<BEFORE>Penulis tertarik ke Ninja Van karena penulis juga memiliki keinginan untuk bekerja di Singapura, dan dari semua perusahaan teknologi Singapura yang ditemukan oleh penulis, Ninja Van merupakan pilihan yang paling menarik.</BEFORE>
+<AFTER>Penulis tertarik ke Ninja Van karena penulis juga memiliki keinginan untuk bekerja di Singapura. Dari semua perusahaan teknologi Singapura yang ditemukan oleh penulis, Ninja Van merupakan pilihan yang paling menarik.</AFTER>
+<ERRTYPE>SPLIT</ERRTYPE>
 </PAIR>
 
 <PAIR id="13">
-<BEFORE>Lead</BEFORE>
-<AFTER><it>Lead</it></AFTER>
-<ERRTYPE>ITALIC</ERRTYPE>
+<BEFORE>Memiliki produk yang signifikan di mata penulis, dengan pasar dan masalah konkret yang tervalidasi</BEFORE>
+<AFTER>Memiliki produk yang signifikan di mata penulis dengan pasar dan masalah konkret yang tervalidasi</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
 </PAIR>
 
 <PAIR id="14">
@@ -83,8 +85,8 @@
 </PAIR>
 
 <PAIR id="15">
-<BEFORE>technical</BEFORE>
-<AFTER>teknis</AFTER>
+<BEFORE>Oleh karena itu, akan lebih baik apabila Traveloka memberikan lebih banyak pelatihan dan tutorial terutama yang bersifat <it>technical</it> secara lebih intensif kepada pelaksana kerja praktik guna mendukung pekerjaan.</BEFORE>
+<AFTER>Oleh karena itu, akan lebih baik apabila Traveloka memberikan lebih banyak pelatihan dan tutorial terutama yang bersifat teknis secara lebih intensif kepada pelaksana kerja praktik guna mendukung pekerjaan.</AFTER>
 <ERRTYPE>TRANS</ERRTYPE>
 </PAIR>
 
@@ -113,27 +115,27 @@
 </PAIR>
 
 <PAIR id="20">
-<BEFORE>Gender</BEFORE>
-<AFTER><it>Gender</it></AFTER>
+<BEFORE>Pemanfaatan materi kuliah DDP yang pelaksana kerja praktik rasakan pada pelaksanaan kerja praktik adalah konsep <it>OOP</it> <it>(Object</it> <it>Oriented</it> <it>Programming)</it> dan tipe data ketika pelaksana kerja praktik mengerjakan proyek yang membutuhkan kemampuan programming, seperti Gender Predictor, Dashboard System dll.</BEFORE>
+<AFTER>Pemanfaatan materi kuliah DDP yang pelaksana kerja praktik rasakan pada pelaksanaan kerja praktik adalah konsep <it>OOP</it> <it>(Object</it> <it>Oriented</it> <it>Programming)</it> dan tipe data ketika pelaksana kerja praktik mengerjakan projek yang membutuhkan kemampuan programming, seperti <it>Gender</it> <it>Predictor,</it> <it>Dashboard</it> <it>System</it> dll.</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="21">
-<BEFORE>Predictor</BEFORE>
-<AFTER><it>Predictor</it></AFTER>
-<ERRTYPE>ITALIC</ERRTYPE>
+<BEFORE>Berukuran menengah, memiliki setidaknya 50 karyawan namun bukan korporat yang sudah terlalu mapan</BEFORE>
+<AFTER>Berukuran menengah dan memiliki setidaknya 50 karyawan tetapi bukan korporat yang sudah terlalu mapan</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
 </PAIR>
 
 <PAIR id="22">
-<BEFORE>business</BEFORE>
-<AFTER><it>business</it></AFTER>
+<BEFORE>Pelaksana kerja praktik yang bekerja di divisi business intelligence tentu harus mempraktekan segala hal yang berhubungan dengan <it>database,</it> <it>data</it> <it>warehousing,</it> <it>report,</it> <it>dashboard,</it> <it>classification,</it> dll.</BEFORE>
+<AFTER>Pelaksana kerja praktik yang bekerja di divisi <it>Business</it> <it>Intelligence</it> tentu harus mempraktekan segala hal yang berhubungan dengan <it>database,</it> <it>data</it> <it>warehousing,</it> <it>report,</it> <it>dashboard,</it> <it>classification,</it> dll.</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="23">
-<BEFORE>intelligence</BEFORE>
-<AFTER><it>intelligence</it></AFTER>
-<ERRTYPE>ITALIC</ERRTYPE>
+<BEFORE>Dari pelaksanaan kerja praktik penulis dapat menerapkan pengetahuan yang sudah diperoleh selama masa perkuliahan sekaligus memperoleh pengetahuan baru baik secara teknis maupun non teknis.</BEFORE>
+<AFTER>Dari pelaksanaan kerja praktik di Kudo, penulis dapat memperoleh banyak pengetahuan baru baik secara teknis maupun non teknis.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
 </PAIR>
 
 <PAIR id="24">
@@ -143,20 +145,20 @@
 </PAIR>
 
 <PAIR id="25">
-<BEFORE>Dashboard</BEFORE>
-<AFTER><it>Dashboard</it></AFTER>
-<ERRTYPE>ITALIC</ERRTYPE>
+<BEFORE>Alasan mengapa penulis di-<it>assign</it> untuk 2 aplikasi dan tim berbeda adalah posisi <it>quality</it> <it>assurance</it> yang tidak secara langsung mengembangkan aplikasi pada tim FO app pada masa awal pengembangannya, melainkan menunggu anggota <it>developer</it> untuk menyelesaikan FO app terlebih dahulu baru bisa mengeksekusi tugasnya sebagai <it>quality</it> <it>assurance</it> yaitu melakukan <it>testing</it> aplikasi yang dibuat, sehingga untuk mengisi masa menunggu tersebut, penulis diberi tugas untuk melakukan <it>testing</it> KMA yang memiliki periode rilis publik 2 minggu sekali, dengan demikian penulis bisa melakukan <it>testing</it> secara <it>frequently.</it></BEFORE>
+<AFTER>Hal ini dikarenakan pada awal pengerjaan FO app, peran penulis sebagai <it>quality</it> <it>assurance</it> belum bisa dijalankan karena menunggu <it>developer</it> untuk menyelesaikan FO app terlebih dahulu. Untuk mengisi masa menunggu tersebut, penulis diberi tugas untuk melakukan <it>testing</it> KMA. KMA memiliki sistem pengembangan yang sudah stabil dengan periode rilis publik dua minggu sekali. Dangan demikian, penulis bisa melakukan <it>testing</it> dengan frekuensi dan jadwal yang lebih teratur.</AFTER>
+<ERRTYPE>WSTYLE,SPLIT</ERRTYPE>
 </PAIR>
 
 <PAIR id="26">
-<BEFORE>System</BEFORE>
-<AFTER><it>System</it></AFTER>
-<ERRTYPE>ITALIC</ERRTYPE>
+<BEFORE>Meskipun peran sebagai <it>quality</it> <it>assurance</it> dalam tim ini bukan sebagai pengembang aplikasi secara teknis dalam arti melakukan <it>development</it> terhadap aplikasi dengan teknik <it>programming,</it> namun FO app harus tetap memenuhi standar kualitas produk yang layak untuk dipakai publik seperti produk Kudo lainnya, sehingga tim pengembang <it>field</it> <it>officer</it> <it>application</it> ini tetap membutuhkan peran <it>quality</it> <it>assurance</it> di dalamnya.</BEFORE>
+<AFTER>Peran <it>quality</it> <it>assurance</it> dalam tim FO app bukan sebagai pengembang aplikasi secara teknis dalam arti melakukan <it>development</it> terhadap aplikasi dengan teknik <it>programming.</it> Namun, FO app harus memenuhi standar kualitas produk yang layak untuk dipakai publik sehingga tim pengembang FO app tetap membutuhkan peran <it>quality</it> <it>assurance</it> di dalamnya.</AFTER>
+<ERRTYPE>SPLIT</ERRTYPE>
 </PAIR>
 
 <PAIR id="27">
-<BEFORE>course</BEFORE>
-<AFTER><it>course</it></AFTER>
+<BEFORE>Meskipun pelaksana kerja praktik belum mengambil mata kuliah tersebut pelaksana kerja praktik mencoba membaca silabus dan membaca bahan pembelajaran yang ada di course mata kuliah tersebut untuk menjadi landasan pelaksana kerja praktik mengerjakan proyek yang berhubungan dengan mata kuliah tersebut seperti <it>sentiment</it> <it>analysis,</it> <it>gender</it> <it>predictor</it> dan <it>NLP</it> <it>Analysis</it></BEFORE>
+<AFTER>Meskipun pelaksana kerja praktik belum mengambil mata kuliah tersebut pelaksana kerja praktik mencoba membaca silabus dan membaca bahan pembelajaran yang ada di <it>course</it> mata kuliah tersebut untuk menjadi landasan pelaksana kerja praktik mengerjakan proyek yang berhubungan dengan mata kuliah tersebut seperti <it>sentiment</it> <it>analysis,</it> <it>gender</it> <it>predictor</it> dan <it>NLP</it></AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
@@ -173,8 +175,8 @@
 </PAIR>
 
 <PAIR id="30">
-<BEFORE>februari</BEFORE>
-<AFTER>Februari</AFTER>
+<BEFORE>Proses pencarian tempat kerja praktik dimulai pada bulan februari 2016.</BEFORE>
+<AFTER>Proses pencarian tempat kerja praktik dimulai pada bulan Februari 2016.</AFTER>
 <ERRTYPE>CAPITAL</ERRTYPE>
 </PAIR>
 
@@ -197,20 +199,20 @@
 </PAIR>
 
 <PAIR id="34">
-<BEFORE><it>Kudo</it></BEFORE>
-<AFTER>Kudo</AFTER>
+<BEFORE>Pada awalnya, penulis memperoleh informasi dari <it>broadcast</it> <it>message</it> dari salah satu teman, bahwa Kudo sedang mengadakan seleksi <it>Kudo</it> <it>Academy</it> <it>Program</it> 2016 <it>batch</it> 2 yaitu program magang untuk mahasiswa di bidang bisnis dan teknologi.</BEFORE>
+<AFTER>Pada awalnya, penulis memperoleh informasi dari <it>broadcast</it> <it>message</it> dari salah satu teman, bahwa Kudo sedang mengadakan seleksi Kudo <it>Academy</it> <it>Program</it> 2016 yaitu program magang untuk mahasiswa di bidang bisnis dan teknologi.</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
 </PAIR>
 
 <PAIR id="35">
-<BEFORE>Setelah 2 minggu menunggu</BEFORE>
-<AFTER>Setelah dua minggu menunggu</AFTER>
-<ERRTYPE></ERRTYPE>
+<BEFORE>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah, bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API)</BEFORE>
+<AFTER>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API)</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
 </PAIR>
 
 <PAIR id="36">
-<BEFORE>telefon</BEFORE>
-<AFTER>telepon</AFTER>
+<BEFORE>Sehari setelahnya, pihak Kudo menghubungi penulis melalui telepon namun sayangnya telefon tersebut terlewatkan dan tidak terjawab.</BEFORE>
+<AFTER>Sehari setelahnya, pihak Kudo menghubungi penulis melalui telepon tetapi sayangnya tidak terjawab.n</AFTER>
 <ERRTYPE>TYPO</ERRTYPE>
 </PAIR>
 
@@ -221,8 +223,8 @@
 </PAIR>
 
 <PAIR id="38">
-<BEFORE>mei</BEFORE>
-<AFTER>Mei</AFTER>
+<BEFORE>Akhirnya setelah menunggu 2 hari tepatnya pada tanggal 2 mei 2016, akhirnya pihak Kudo kembali menghubungi penulis dan mengabarkan bahwa penulis lolos untuk seleksi administrasi dan mengundang penulis untuk melakukan tes wawancara yang dijadwalkan keesokan harinya yaitu tanggal 3 mei 2016 di kantor Kudo daerah Radio Dalam, Jakarta Selatan.</BEFORE>
+<AFTER>Akhirnya setelah menunggu dua hari tepatnya pada tanggal 2 Mei 2016, akhirnya pihak Kudo kembali menghubungi penulis dan mengabarkan bahwa penulis lolos untuk seleksi administrasi dan mengundang penulis untuk melakukan tes wawancara yang dijadwalkan keesokan harinya yaitu tanggal 3 Mei 2016 di kantor Kudo daerah Radio Dalam, Jakarta Selatan.</AFTER>
 <ERRTYPE>CAPITAL</ERRTYPE>
 </PAIR>
 
@@ -251,8 +253,8 @@
 </PAIR>
 
 <PAIR id="43">
-<BEFORE>challenge</BEFORE>
-<AFTER>tugas</AFTER>
+<BEFORE>Di akhir sesi wawancara dengan <it>user,</it> penulis diberi tugas untuk dikerjakan di rumah berupa <it>challenge</it> untuk menemukan <it>bug</it> dan <it>improvement</it> pada <it>website</it> Kudo dan segera mengirimkan hasilnya paling lambat satu minggu setelah wawancara sebagai pertimbangan diterima atau tidaknya penulis di posisi <it>quality</it> <it>assurance</it> <it>analyst.</it></BEFORE>
+<AFTER>Di akhir sesi wawancara dengan <it>user,</it> penulis diberi tugas untuk dikerjakan di rumah berupa tugas untuk menemukan <it>bug</it> dan <it>improvement</it> pada <it>website</it> Kudo.</AFTER>
 <ERRTYPE>TRANS</ERRTYPE>
 </PAIR>
 
@@ -265,53 +267,6 @@
 <PAIR id="45">
 <BEFORE>Untuk memudahkan kinerja <it>field</it> <it>officer</it> dalam memantau performa agen dibawahnya, Kudo memutuskan untuk mengembangkan <it>field</it> <it>officer</it> <it>application</it> (FO app) yang mengautomasi proses pemantauan kinerja agen oleh FO.</BEFORE>
 <AFTER>Untuk memudahkan kinerja FO dalam memantau performa agen di bawahnya, Kudo memutuskan untuk mengembangkan <it>field</it> <it>officer</it> <it>application</it> (FO app) yang mengautomasi proses pemantauan kinerja agen oleh FO.</AFTER>
-<ERRTYPE></ERRTYPE>
+<ERRTYPE>ABBR</ERRTYPE>
 </PAIR>
-
-<PAIR id="46">
-<BEFORE>Meskipun peran sebagai <it>quality</it> <it>assurance</it> dalam tim ini bukan sebagai pengembang aplikasi secara teknis dalam arti melakukan <it>development</it> terhadap aplikasi dengan teknik <it>programming,</it> namun FO app harus tetap memenuhi standar kualitas produk yang layak untuk dipakai publik seperti produk Kudo lainnya, sehingga tim pengembang <it>field</it> <it>officer</it> <it>application</it> ini tetap membutuhkan peran <it>quality</it> <it>assurance</it> di dalamnya.</BEFORE>
-<AFTER>Peran <it>quality</it> <it>assurance</it> dalam tim FO app bukan sebagai pengembang aplikasi secara teknis dalam arti melakukan <it>development</it> terhadap aplikasi dengan teknik <it>programming.</it> Namun, FO app harus memenuhi standar kualitas produk yang layak untuk dipakai publik sehingga tim pengembang FO app tetap membutuhkan peran <it>quality</it> <it>assurance</it> di dalamnya.</AFTER>
-<ERRTYPE>SPLIT</ERRTYPE>
-</PAIR>
-
-<PAIR id="47">
-<BEFORE>Alasan mengapa penulis di-<it>assign</it> untuk 2 aplikasi dan tim berbeda adalah posisi <it>quality</it> <it>assurance</it> yang tidak secara langsung mengembangkan aplikasi pada tim FO app pada masa awal pengembangannya, melainkan menunggu anggota <it>developer</it> untuk menyelesaikan FO app terlebih dahulu baru bisa mengeksekusi tugasnya sebagai <it>quality</it> <it>assurance</it> yaitu melakukan <it>testing</it> aplikasi yang dibuat, sehingga untuk mengisi masa menunggu tersebut, penulis diberi tugas untuk melakukan <it>testing</it> KMA yang memiliki periode rilis publik 2 minggu sekali, dengan demikian penulis bisa melakukan <it>testing</it> secara <it>frequently.</it></BEFORE>
-<AFTER>Hal ini dikarenakan pada awal pengerjaan FO app, peran penulis sebagai <it>quality</it> <it>assurance</it> belum bisa dijalankan karena menunggu <it>developer</it> untuk menyelesaikan FO app terlebih dahulu. Untuk mengisi masa menunggu tersebut, penulis diberi tugas untuk melakukan <it>testing</it> KMA. KMA memiliki sistem pengembangan yang sudah stabil dengan periode rilis publik dua minggu sekali. Dangan demikian, penulis bisa melakukan <it>testing</it> dengan frekuensi dan jadwal yang lebih teratur.</AFTER>
-<ERRTYPE>WSTYLE,SPLIT</ERRTYPE>
-</PAIR>
-
-<PAIR id="48">
-<BEFORE>Dari pelaksanaan kerja praktik penulis dapat menerapkan pengetahuan yang sudah diperoleh selama masa perkuliahan sekaligus memperoleh pengetahuan baru baik secara teknis maupun non teknis.</BEFORE>
-<AFTER>Dari pelaksanaan kerja praktik di Kudo, penulis dapat memperoleh banyak pengetahuan baru baik secara teknis maupun non teknis.</AFTER>
-<ERRTYPE>PUNCT</ERRTYPE>
-</PAIR>
-
-<PAIR id="49">
-<BEFORE>Berukuran menengah, memiliki setidaknya 50 karyawan namun bukan korporat  yang sudah terlalu mapan</BEFORE>
-<AFTER>Berukuran  menengah  dan  memiliki  setidaknya  50  karyawan  tetapi  bukan  korporat yang sudah terlalu mapan</AFTER>
-<ERRTYPE>CONJ</ERRTYPE>
-</PAIR>
-
-<PAIR id="50">
-<BEFORE>Memiliki produk yang signifikan di mata penulis, dengan pasar dan masalah konkret yang tervalidasi</BEFORE>
-<AFTER><Memiliki produk yang signifikan di mata penulis dengan pasar dan masalah konkret yang tervalidasi/AFTER>
-<ERRTYPE>PUNCT</ERRTYPE>
-</PAIR>
-
-<PAIR id="51">
-<BEFORE>Penulis tertarik ke Ninja Van karena penulis juga memiliki keinginan untuk bekerja di Singapura, dan dari semua perusahaan teknologi Singapura yang ditemukan oleh penulis, Ninja Van merupakan pilihan yang paling menarik.</BEFORE>
-<AFTER>Penulis tertarik ke Ninja Van karena penulis juga memiliki keinginan untuk bekerja di Singapura. Dari semua perusahaan teknologi Singapura yang ditemukan oleh penulis, Ninja Van merupakan pilihan yang paling menarik.</AFTER>
-<ERRTYPE>SPLIT</ERRTYPE>
-</PAIR>
-
-<PAIR id="52">
-<BEFORE>Meski sudah mendaftar melalui situs mereka, Bukalapak tidak memberi respons apa pun, dan penulis menduga posisi <it>software</it> <it>engineer</it> sudah penuh terisi.</BEFORE>
-<AFTER>Penulis mendaftar melalui situs Bukalapak tetapi tidak memberi respons apa pun. Penulis menduga posisi <it>software</it> <it>engineer</it> sudah penuh terisi.</AFTER>
-<ERRTYPE>SPLIT</ERRTYPE>
-</PAIR>
-
-<PAIR id="53">
-<BEFORE>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah, bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API)</BEFORE>
-<AFTER>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API)</AFTER>
-<ERRTYPE>PUNCT</ERRTYPE>
-</PAIR>
+</CORPUS>

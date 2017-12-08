@@ -202,22 +202,7 @@ def sent_align(sentlist_a, sentlist_b):
 		i += 1
 		j += 1	
 
-	# print "Full Match"
-	# for a, b in match:
-	# 	print "Distance: " + str(distance(a, b))
-	# 	print "Before: " + a
-	# 	print "After: " + b
-	# 	print ""
-
-	# print "--------------\n"
-	# print "Partial"
-	# for a, b in partial:
-	# 	print "Distance: " + str(distance(a, b))
-	# 	print "Before: " + a
-	# 	print "After: " + b
-	# 	print ""
-
-	# print ""
+	
 	return match, partial
 
 
