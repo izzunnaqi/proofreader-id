@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>QUALITY</bo> <bo>ASSURANCE</bo> <bo>(QA)</bo> <bo>TESTER</bo> <bo>-</bo> <bo>ANDROID</bo></title>
+		<title><bo>BUKALAPAK</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>INTAN</bo> <bo>AMALIA</bo> <bo>SARI</bo></title>
+		<segment>
+			<bo>1306463894</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>JANUARI</bo> <bo>2017</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: : Intan Amalia Sari : 1306463894 Program Studi : Sistem Informasi Judul Kerja Praktik : Quality Assurance (QA) Tester – Android  <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom,</bo> <bo>M.Sc</bo> Ditetapkan di : Depok Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan kerja praktik ini mencakup seluruh hasil kerja praktik yang dilakukan oleh penulis di salah satu perusahaan <it>e-commerce</it> di Indonesia yaitu Bukalapak. Penulis melakukan kerja praktik dalam waktu 10 minggu dimulai pada bulan Juli hingga Agustus 2016. Penulis berada di bawah divisi <it>Product</it> sebagai seorang <it>quality</it> <it>assurance</it> <it>tester</it> untuk Android.Dalam pelaksanaannya, penulis bertugas untuk melakukan pengujian terhadap fitur dan fungsi yang baru diimplementasikan dan yang telah diimplementasikan pada aplikasi Bukalapak Android. Kata kunci: <it>Quality</it> <it>assurance,</it> <it>tester,</it> <it>android,</it> <it>e-commerce</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK ............................................................................................................... ii DAFTAR ISI ........................................................................................................... iii DAFTAR GAMBAR ................................................................................................ v DAFTAR TABEL ................................................................................................... vi BAB 1 PENDAHULUAN ....................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik..................................................................... 1</title>
+		<title>1.2. Tempat Kerja Praktik ................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ................................................................................................................ 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ..................................................................... 4</title>
+		<title>2.1.1. Latar Belakang ...................................................................................... 4</title>
+		<title>2.1.2. Metodologi ............................................................................................ 4</title>
+		<title>2.1.3. Teknologi .............................................................................................. 5</title>
+		<title>2.1.4. Gambaran Pelaksanaan Kerja Praktik .................................................... 7</title>
+		<title>2.2. Analisis ...................................................................................................... 10</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ................................................................... 10</title>
+		<title>2.2.2. Penilaian Terhadap Tempat Kerja Praktik ............................................ 12</title>
+		<title>2.2.3. Relevansi dengan Perkuliahan di Fasilkom UI ..................................... 13</title>
+		<segment>
+			BAB 3 PENUTUP ................................................................................................. 15 
+		</segment>
+		<title>3.1. Kesimpulan ................................................................................................ 15</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.2. Saran.......................................................................................................... 15</title>
+		<segment>
+			DAFTAR REFERENSI .......................................................................................... 17 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................. ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1.1 Sebagian Struktur Organisasi Bukalapak ............................................... 3 Gambar 2.1 Halaman Pencairan BukaDompet sebelum redesign ............................... 9 Gambar 2.2 Halaman Pencairan BukaDompet setelah redesign ................................. 9 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<segment>
+			Tabel 2.1 Teknologi yang digunakan oleh <it>Quality</it> <it>Assurance</it> ................................... 6 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis mulai mencari tempat kerja praktik pada bulan April 2016. Pada bulan April- Juni, penulis melamar ke beberapa tempat kerja praktik seperti IBM-JTI, Kudo, Nestle, Flipbox dan Bukalapak. Pada awal bulan April, penulis mencoba melamar ke IBM-JTI melalui senior yang bekerja disana dan penulis mendapatkan informasi bahwa IBM-JTI tidak menerima kerja praktik termin pendek. Beberapa minggu kemudian, penulis mendapatkan <it>e-</it> <it>mail</it> dari IBM-JTI untuk menghadiri seleksi tahap pertama. Penulis menghadiri tes tersebut, tetapi tidak mendapat kejelasan atas hasil tes, sehingga penulis menyimpulkan bahwa penulis tidak lolos seleksi. Masih pada bulan April, penulis mencoba untuk melamar di Kudo sebagai <it>backend</it> <it>developer</it> dan penulis mendapat balasan dari Kudo untuk melakukan wawancara di kantor mereka. Sekitar 2 minggu dari hari wawancara, penulis tidak mendapatkan kabar mengenai kelanjutan lamaran tersebut. Sehingga penulis menyimpulkan bahwa ia tidak diterima di Kudo. Pada bulan Mei 2016, penulis mencoba melamar di Nestle Indonesia dan penulis mendapat undangan untuk melakukan wawancara di kantor Nestle. Pada saat wawancara, penulis diberikan proyek untuk membuat sebuah sistem <it>web</it> <it>based</it> untuk divisi <it>Human</it> <it>Resources.</it> Penulis merasa ruang lingkup pekerjaan yang diberikan oleh <it>interviewer</it> terlalu besar jika dikerjakan sendirian dan sulit jika harus selesai dalam waktu 3 bulan. Oleh karena ketidaksanggupan penulis, maka penulis tidak melanjutkan lamaran di perusahaan tersebut. Pada saat <it>job</it> <it>fair</it> yang diselenggarakan oleh Fasilkom pada bulan Mei, penulis melamar sebagai <it>web</it> <it>backend</it> <it>developer</it> di Flipbox. Beberapa hari kemudian, penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			mendapat <it>email</it> konfirmasi untuk melakukan sesi wawancara dan tes untuk melakukan kerja praktik di Flipbox. Sekitar tujuh hari kemudian, penulis mendapatkan <it>email</it> balasan bahwa penulis diterima sebagai <it>web</it> <it>backend</it> <it>developer</it> di Flipbox. Pada awal bulan Juni, penulis mendapat informasi kesempatan kerja praktik di Bukalapak sebagai <it>quality</it> <it>assurance</it> melalui forum kerja praktik di SCELE Fasilkom UI. Penulis kemudian mencoba melamar posisi tersebut. Tiga hari kemudian, penulis menerima <it>email</it> balasan yang berisi tes awal sebagai <it>quality</it> <it>assurance</it> di Bukalapak. Setelah mengirim jawaban tes tersebut, penulis mendapat undangan untuk mengikuti wawancara lanjutan di kantor Bukalapak. Di kantor Bukalapak, penulis kembali mengerjakan beberapa tes dan wawancara lanjutan yang berkaitan dengan tugas <it>quality</it> <it>assurance,</it> terutama <it>quality</it> <it>assurance</it> <it>mobile.</it> Dua hari setelah wawancara di kantor Bukalapak, penulis menerima <it>email</it> konfirmasi yang menyatakan bahwa penulis diterima sebagai <it>quality</it> <it>assurance</it> <it>intern</it> di Bukalapak. Setelah penulis melakukan konsultasi dengan salah seorang dosen kerja praktik mengenai kesempatan kerja praktik yang diperoleh dan minat penulis yang ingin belajar mengenai <it>quality</it> <it>assurance,</it> penulis memutuskan untuk memilih Bukalapak sebagai tempat melaksanakan kerja praktik. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bagian ini akan menjelaskan mengenai perusahaan tempat penulis melaksanakan kerja praktik dan posisi penulis selama kerja praktik. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukalapak merupakan salah satu perusahaan yang bergerak di bidang <it>e-commerce</it> di Indonesia.Bukalapak merupakan <it>C2C</it> <it>(customer-to-customer)</it> <it>e-commerce,</it> sehingga Bukalapak tidak menjual barang kepada konsumen.Bukalapak memiliki visi “Menjadi  online  marketplace  nomor  1  di  Indonesia”  dan  misi  “Memberdayakan  UKM yang ada di seluruh penjuru Indonesia” [1].  Gambar 1.1 adalah sebagian dari struktur organisasi dari Bukalapak. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			Gambar 1.1Sebagian Struktur Organisasi Bukalapak 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada tempat kerja praktik, penulis ditempatkan pada departemen <it>QA</it> di bawah divisi <it>Product.Lebih</it> khusus, penulis ditempatkan sebagai <it>QA</it> <it>mobile</it> <it>Android.Posisi</it> ini bertanggung jawab untuk melakukan <it>testing</it> terhadap aplikasi Bukalapak pada <it>platform</it> Android. Pada pelaksanaannya, penulis berada pada timAndroid</it> <it>Mobile</it> yang terdiri atas <it>Project</it> <it>Manager,</it> <it>Developer,</it> <it>UI</it> <it>Designer</it> dan <it>Quality</it> <it>Assurance.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bagian ini akan menjelaskan pekerjaan yang dilakukan oleh penulis ketika melakukan kerja praktik, termasuk metodologi dan teknologi yang digunakan. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Bukalapak adalah salah satu <it>e-commerce</it> yang mengembangkan aplikasi pada <it>platform</it> Android untuk memudahkan konsumen untuk melakukan transaksi.Aplikasi Bukalapak Android mulai dirilis pada bulan Maret 2014.Sejak dirilis, Bukalapak rutin melakukan pembaruan aplikasinya sekitar satu bulan sekali. Untuk memastikan setiap pembaruan aplikasi Bukalapak di <it>platform</it> Android berjalan dengan baik dan tidak mengganggu fungsionalitas aplikasi, maka dibutuhkan seorang <it>quality</it> <it>assurance.Quality</it> <it>assurance</it> bertugas untuk melakukan pengujian aplikasi pada tahap pengembangan hingga produksi untuk memastikan setiap perubahan yang dilakukan berjalan dengan benar dan hasilnya sesuai dengan yang diharapkan, serta tidak mengganggu atau mengubah fungsionalitas fitur lain. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Pada kerja praktik ini, tim Android <it>Mobile</it> menggunakan metode <it>scrum,</it> yaitu sebuah proses pengembangan perangkat lunak yang dinamis (<it>requirement</it> dapat berubah pada suatu waktu). Pada awal pengerjaan suatu fungsi atau fitur baru, <it>Project</it> <it>Managerdan</it> <it>Project</it> <it>Owner</it> membuat <it>backlog</it> fitur atau fungsi baru yang akan diimplementasikan. Kemudian, <it>Project</it> <it>Manager</it> dan <it>Project</it> <it>Owner</it> menentukan fitur dan fungsi apa yang akan dilakukan pada sebuah <it>sprint.</it> Selanjutnya dilakukan sesi <it>marketplace</it> untuk menentukan bobot dari setiap <it>backlog</it> yang diikuti oleh seluruh anggota timMobile</it> Android. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<segment>
+			Proses selanjutnya adalah implementasi seluruh pekerjaan pada <it>sprint</it> tersebut di aplikasi Bukalapak Android. Setelah implementasi selesai dilakukan oleh <it>developer,</it> maka <it>quality</it> <it>assuranceakan</it> melakukan pengujian dari fitur atau fungsi tersebut dan memastikan fitur atau fungsi baru tersebut berjalan dengan benar dan tidak mengganggu fungsionalitas dari fitur dan fungsi lain yang telah terlebih dulu diimplementasi. Pengujian fitur dimulai dengan mengetahui fungsi dari fitur yang akan diuji. Setelah mengetahui fungsi dari fitur tersebut, maka akan dibuat skenario <it>testing</it> dan selanjutnya dilakukan skenario tersebut untuk pengujian fitur. Skenario <it>testing</it> tersebut juga digunakan oleh <it>quality</it> <it>assurance</it> <it>engineer</it> untuk membuat kode <it>automation</it> <it>testing.</it> Ketika melaksanakan pengujian <it>testing,</it> seorang <it>quality</it> <it>assurance</it> <it>tester</it> harus memastikan bahwa fitur tersebut telah berjalan dengan baik sesuai dengan fungsinya, serta tidak mengganggu fungsionalitas fitur lain. Jika terdapat hal yang kurang jelas, maka <it>quality</it> <it>assurance</it> <it>terster</it> dapat mengkomunikasikannya dengan <it>developer.</it> Jika hasil pengujian tersebut masih tidak sesuai dengan hasil yang seharusnya, maka fitur tersebut dikembalikan ke tahap <it>development</it> danquality</it> <it>assuranceakan</it> menginformasikan hal tersebut kepada <it>developer</it> agar dapat dilakukan perbaikan. Jika hasil pengujian sudah sesuai, maka fitur atau fungsi baru tersebut diterima/ lulus uji. Setiap harinya dilakukan <it>standup</it> <it>meeting</it> untuk mengetahui perkembangan dari <it>sprint</it> yang sedang dilaksanakan. Hal yang akan dibahas adalah bagaimana perkembangan implementasi, kesulitan yang dihadapi dan hasil pengujian fitur atau fungsi tersebut pada tahap <it>quality</it> <it>assurance.</it> 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik, penulis menggunakan beberapa teknologi yang digunakan untuk melakukan <it>testing</it> atau pengujian terkait fitur dan fungsi yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			diimplementasikan pada aplikasi Bukalapak Android.Sehingga, sebelum memulai pekerjaanya, penulis melakukan instalasi dan konfigurasi terkait teknologi yang dibutuhkan untuk melaksanakan tugas <it>quality</it> <it>assurance.</it> Untuk lebih jelasnya akan dijelaskan pada Tabel 2.1. Tabel 2.1 Teknologi yang digunakan oleh <it>Quality</it> <it>Assurance</it> No Teknologi Fungsi Android studio <it>Android</it> <it>platform</it> <it>development</it> 
+		</segment>
+		<title>JIRA</title>
+		<segment>
+			Source tree Genymotion Robotium Java Github <it>Project</it> <it>Management</it> <it>Version</it> <it>control</it> <it>Emulator</it> <it>Test</it> <it>framework</it> Bahasa Pemrograman <it>Repository</it> 
+		</segment>
+		<pagenum>1</pagenum>
+		<pagenum>2</pagenum>
+		<pagenum>3</pagenum>
+		<pagenum>4</pagenum>
+		<pagenum>5</pagenum>
+		<pagenum>6</pagenum>
+		<pagenum>7</pagenum>
+		<segment>
+			Android studio adalah <it>Integrated</it> <it>Development</it> <it>Environment</it> <it>(IDE)</it> untuk pengembangan aplikasi Android, berdasarkan IntelliJ IDEA [2].Android studio digunakan oleh <it>quality</it> <it>assurance</it> untuk membuat kode <it>automation</it> <it>testing</it> dan melakukan <it>gradle</it> (<it>install)</it> terhadap aplikasi yang dikembangkan oleh <it>developer.</it> JIRA adalah sebuah <it>project</it> <it>management</it> <it>tools</it> yang digunakan untuk merancang dan melakukan <it>tracking</it> dari setiap tugas yang ada pada sebuah <it>sprint.</it> JIRA digunakan untuk mengetahui perkembangan dari aplikasi yang sedang dikerjakan, apakah masih dalam daftar <it>to-do,</it> <it>developing,</it> <it>done,</it> <it>quality</it> <it>assurance</it> atau <it>accepted.</it> Genymotion adalah sebuah emulator yang digunakan untuk melakukan <it>deployment</it> dari fitur yang dikerjakan [3].Emulator adalah perangkat keras atau perangkat lunak yang bekerja selayaknya perangkat lain [4].Dalam hal ini, emulator digunakan sebagai Android <it>device</it> untuk melakukan pengujian fitur. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			Robotium adalah sebuah <it>extension</it> dari Android <it>test</it> <it>framework</it> yang digunakan untuk mempermudah penulisan <it>testcasedariaplikasi</it> Android [5].Robotium digunakan untuk membuat kode dari <it>automation</it> <it>testing</it> untuk aplikasi di Android. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Gambaran</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik selama 10 minggu, penulis menguji beberapa fitur dan fungsi yang baru diimplementasikan serta menguji fitur yang telah diimplementasikan oleh aplikasi Bukalapak Android sebelumnya untuk mencari <it>bug.</it> Secara garis besar, pengujian terhadap fitur dapat dikelompokkan menjadi tiga kelompok besar, yaitu fungsionalitas, desain dan <it>API</it> <it>response.Berikut</it> ini adalah beberapa fitur yang diuji oleh penulis ketika melaksanakan tugas sabagai <it>quality</it> <it>assurance.</it> Fungsionalitas: <it>1.</it> <it>List</it> <it>invoice</it> 2. Cek status <it>invoice</it> di <it>quickbuy</it> 3. <it>Sync</it> BukaChat <it>push</it> <it>notification</it> <it>4.</it> <it>Chat</it> dari detail transaksi dan cart <it>5.</it> <it>Multiple</it> <it>order</it> <it>in</it> <it>one</it> <it>payment</it> Desain: 1. Info detail bank pada detail produk (lihat info cicilan) 2. <it>Badge</it> <it>user</it> <it>premium</it> 3. <it>Redesign</it> rekening kosong 4. <it>Banner</it> gambar di atas <it>list</it> <it>banner</it> 5. <it>Redesign</it> halaman pencairan BukaDompet API Response: 1. <it>Priority</it> <it>queue</it> <it>on</it> <it>XTT</it> <it>data</it> 2. <it>Tracking</it> <it>Tools</it> 3. <it>Change</it> <it>event</it> <it>bus</it> <it>library</it> <it>4.</it> <it>Deeplink</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			<it>5.</it> Parameter <it>publisher</it> Untuk melakukan pengujian terhadap suatu fitur, terdapat beberapa hal yang perlu diperhatikan oleh penulis. Jika pengujian dilakukan terhadap <it>redesignsuatu</it> halaman atau <it>design</it> sebuah fitur baru, maka penulis harus memastikan bahwa fungsionalitas fitur tersebut berjalan dengan baik. Selain itu, pengujian juga harus dilakukan menggunakan <it>device</it> yang memiliki resolusi dan ukuran layar yang berbeda, untuk memastikan bahwa <it>redesign</it> halaman dan <it>design</it> fitur baru telah berjalan dengan baik untuk semua ukuran layar. Misalnya untuk melakukan pengujian <it>redesignhalaman</it> pencairan BukaDompet, skenario <it>testing-nya</it> adalah sebagai berikut: 1. <it>User</it> masuk ke dalam sistem. 2. <it>User</it> menuju halaman BukaDompet. 3. <it>User</it> memilih <it>tab</it> pencairan. 4. a. Jika sudah memiliki nomor rekening, <it>user</it> memilih nomor rekening yang akan digunakan untuk pencairan dana b. Jika belum memiliki noor rekening, <it>usermemasukkan</it> nomor rekening baru untuk mencairkan dana 5. <it>User</it> memasukkan nominal dana yang akan dicairkan <it>6.</it> <it>User</it> memilih tombol cairkan <it>7.</it> <it>User</it> menerima notifikasi terkait pencairan dana Gambar 2.1 merupakan tampilan awal dari halaman pencairan BukaDompet sebelum dilakukan redesign. Skenario testing yang telah dibuat akan diimplementasikan pada halaman pencairan BukaDompet yang telah di-redesign (Gambar 2.2). 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			Gambar 2.1 Halaman Pencairan BukaDompet sebelum redesign Gambar 2.2 Halaman Pencairan BukaDompet setelah redesign 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			Jika pengujian dilakukan pada suatu fitur baru, maka penulis harus memperhatikan tujuan fungsi tersebut, serta membuat skenario <it>testcase</it> untuk memastikan fitur tersebut diuji sesuai dengan fungsinya, serta desain dari fitur baru tersebut sudah sesuai dengan yang dibuat oleh <it>UI</it> <it>designer.Ketika</it> menguji sebuah fitur baru, penulis lebih banyak berinteraksi dengan <it>developer</it> dan mentor untuk memastikan skenario <it>testcase</it> yang dibuat sesuai.Selain itu, penulis juga melakukan pengujian fitur baru tersebut pada setiap versi android yang telah rilis, untuk memastikan fitur tersebut berjalan dengan baik. Untuk melakukan pengujian sebuah fitur, tidak dapat ditentukan berapa lama waktu yang dibutuhkan untuk menguji.Hal ini dikarenakan sebuah fitur dapat diuji beberapa kali dalam suatu waktu.Misalkan untuk fitur <it>Tracking</it> <it>Tools,</it> fitur tersebut digunakan oleh beberapa fitur lain, sehingga memerlukan waktu pengujian yang lebih lama jika dibandingkan dengan pengujian <it>redesign</it> halaman. Untuk menjaga kerahasiaan Bukalapak, penulis tidak dapat menjelaskan lebih jauh tentang detail setiap pekerjaan. Selama melaksanakan kerja praktik, penulis juga mendapat pengembangan <it>softskill,</it> antara lain kerja sama dengan tim, komunikasi dengan banyak orang serta disiplin waktu terhadap pekerjaan yang dikerjakan. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Bagian ini akan menjelaskan mengenai realisasi kerja praktik yang dilakukan penulis dan keterkaitan dengan kuliah di Fasilkom UI. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Secara garis besar, tidak ada perbedaan dari KAKP yang disusun dengan pelaksaan kerja praktik.Penulis melaksanakan kerja praktik sebagai <it>quality</it> <it>assurancetester</it> pada aplikasi Bukalapak Android.Namun, pada pelaksanaannya, penulis mendapat tambahan pekerjaan seperti membuat dan memperbarui <it>script</it> <it>automation</it> <it>testing</it> yang tidak dicakup dalam KAKP.Penulis menjalankan semua <it>script</it> <it>automation</it> <it>testing</it> untuk memilih <it>script</it> mana yang masih sesuai dengan aplikasi saat ini dan <it>script</it> mana yang perlu diperbarui. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			Pada minggu pertama, penulis mempelajari tugas seorang <it>quality</it> <it>assurance,</it> baik sebagai <it>tester</it> <it>maupun</it> <it>engineer.Pada</it> minggu kedua, penulis sudah mulai melakukan pengujian terhadap fitur yang ada pada <it>sprint</it> yang sedang berjalan pada Bukalapak Android.Pada minggu ini, penulis mulai belajar mengenai pembuatan <it>script</it> <it>automation</it> <it>testing</it> untuk menguji fitur. Pada minggu ketiga hingga sembilan, penulis melakukan sesi <it>sprintplanning</it> <it>(marketplace</it> <it>session)</it> dan pengujian terhadap fitur yang diimplementasikan oleh developer. Pada minggu kesepuluh, penulis melakukan dokumentasi terkait skenario <it>testing</it> dari fitur yang diuji oleh penulis dan membuat script</it> <it>automation</it> <it>testing</it> yang yang digunakan untuk menguji fitur <it>Multiple</it> <it>Order</it> <it>in</it> <it>One</it> <it>Payment.Pada</it> minggu ini, penulis juga melakukan dua kali sesi presentasi dari hasil pekerjaan selama kerja praktik. Presentasi pertama dilakukan secara tertutup dengan timquality</it> <it>assurance</it> <it>mobile,</it> yaitu bersama <it>supervisor</it> dan mentor. Sedangkan presentasi kedua dilakukan secara terbuka pada acara <it>Talk</it> <it>with</it> <it>Product</it> di hadapan seluruh divisi <it>ProductBukalapak.</it> Berikut adalah pekerjaan yang dilakukan penulis selama melakukan kerja praktik: 1. Belajar mengenai <it>tools,</it> sistematika pengujian dan pembuatan skenario <it>testing</it> sebagai <it>quality</it> <it>assurance</it> <it>tester.</it> 2. Belajar mengenai pembuatan <it>script</it> <it>automation</it> <it>testing.</it> 3. Mengikuti sesi <it>marketplace</it> untuk menentukan bobot fitur yang akan dikerjakan pada sebuah <it>sprint.</it> 4. Membuat skenario <it>testinguntuk</it> pengujian fitur baru. 5. Menguji fitur-fitur yang telah selesai dikembangkan oleh <it>developer</it> untuk memastikan fitur berjalan dengan baik dan tidak mengganggu fitur lain. 6. Melakukan pembaruan terhadap <it>script</it> <it>automation</it> <it>testing</it> agar sesuai dengan fitur-fitur yang tersedia saat ini. 7. Membuat <it>script</it> <it>automation</it> <it>testing</it> untuk aplikasi Bukalapak Android.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			Selain itu, terdapat beberapa kendala dalam pelaksanaan kerja praktik yang dialami penulis.Kesulitan pertama yang dialami penulis adalah laptop yang dimiliki penulis kurang memadai untuk mengerjakan tugas di tempat kerja praktik. Laptop penulis menggunakan sistem operasi Windows 32 bit dengan RAM 2 GB. Sedangkan kebutuhan minimum sebagai seorang <it>quality</it> <it>assurance</it> adalah sistem operasi dengan 64 bit dengan minimum RAM 8 GB. Sehingga untuk menanggulangi hal tersebut, penulis menggunakan laptop yang disediakan oleh Bukalapak. Kesulitan kedua adalah penulis belum mengenal lingkungan kerja sebagai seorang <it>quality</it> <it>assurance.</it> Penulis hanya memiliki waktu satu minggu untuk mempelajari <it>tools</it> yang digunakan oleh <it>quality</it> <it>assurance</it> untuk menjalankan tugasnya. Untuk menanggulangi hal tersebut, penulis menggunakan waktu senggang selama pelaksanaan kerja praktik untuk mempelajari <it>tools</it> tersebut. Meskipun mengalami beberapa kendala di atas, penulis dapat melakukan kerja praktik dengan baik. Hal ini disebabkan oleh lingkungan kerja yang nyaman, yang memungkinkan penulis untuk berinteraksi dan berkomunikasi dengan anggota tim lain. Selain itu penulis mendapatkan mentor yang bersedia memberikan pengarahan kepada penulis ketika menemukan kesulitan. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Penilaian</bo> <bo>Terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Lokasi Bukalapak yang cukup mudah dijangkau dengan kendaraan umum membuat penulis merasa nyaman bekerja disana. Jam kerja yang ditawarkan oleh Bukalapak juga fleksibel, yang membuat penulis dapat mengatur jadwal sendiri. Selain itu, fasilitas makan siang dan malam yang disediakan juga memudahkan penulis ketika bekerja karena tidak perlu mencari makan ke keluar. Fasilitas penunjang yang diberikan oleh Bukalapak dirasa baik oleh penulis.Bukalapak menyediakan beberapa tempat yang dapat digunakan untuk menyelesaikan pekerjaan, sehingga jika merasa jenuh, penulis dapat berpindah tempat untuk menyelesaikan tugasnya. Fasiltas lain seperti <it>gym,</it> ruang baca dan ruang bermain dapat digunakan penulis untuk melepas penat ketika waktu istirahat. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<title><bo>2.2.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik, penulis merasa terbantu dengan beberapa mata kuliah yang diajarkan ketika perkuliahan, diantaranya: 1. Rekayasa Perangkat Lunak Mata kuliah ini mengajarkan beberapa metodologi terkait pengembangan suatu perangkat lunak.Pada mata kuliah ini diajarkan metode <it>scrum</it> yang digunakan oleh penulis ketika melaksanakan kerja praktik. 2. Proyek Pengembangan Sistem Informasi Pada mata kuliah ini, terdapat bagian mengenai <it>unit</it> <it>testing</it> dan <it>user</it> <it>testing</it> ketika sebuah fitur selesai dikerjakan.Hal ini cukup membantu penulis ketika melaksanakan kerja praktik terutama terkait dengan prosedur pelaksanaan pengujian dan dokumentasi <it>testing</it> yang dilakukan. 3. Dasar - Dasar Pemrograman Mata kuliah ini mengajarkan mengenai dasar pemrograman menggunakan bahasa Java.Hal ini sangat membantu penulis ketika membuat kode <it>automation</it> <it>testing</it> untuk Android yang menggunakan bahasa Java. 4. Manajemen Proyek Mata kuliah ini mengajarkan mengenai perencanaan pengembangan sebuah proyek IT. Hal ini cukup membantu penulis ketika mengikuti <it>marketplace</it> yang dilaksanakan ketika akan memulai sebuah <it>sprint.</it> 5. Komunikasi Bisnis dan Teknis Mata kuliah ini mengajarkan cara untuk berkomunikasi dan berinteraksi dengan orang lain. Hal ini membantu penulis ketika berinteraksi dengan banyak orang dalam waktu singkat ketika pelaksanaan kerja praktik. Meskipun penulis cukup mendapat dasar mengenai tugas sebagai seorang quality assurance, tetapi penulis merasa terdapat mata kuliah yang dapat membantu tetapi belum didapatkan, seperti mata kuliah Penjaminan Mutu Perangkat Lunak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			(PMPL).Namun karena beberapa hal, penulis tidak dapat mengambil mata kuliah tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis melakukan kerja praktik selama 10 minggu, mulai 13 Juli – 26 Agustus 2016  di Bukalapak. Penulis ditempatkan pada tim Bukalapak Android sebagai <it>quality</it> <it>assurance.</it> Selama menjalankan kerja praktik, penulis melakukan pengujian fitur baru dan membuat <it>automation</it> <it>testing.</it> Selama menjalankan kerja praktik, penulis ikut terlibat dalam <it>sprint</it> <it>planning</it> <it>(marketplace</it> <it>session),</it> <it>daily</it> <it>stand</it> <it>up</it> <it>meeting,</it> pembuatan skenario <it>testing</it> dan <it>testing</it> fitur yang diimplementasikan.Pengujian yang dilakukan penulis dapat dikelompokkan menjadi 3 bagian, yaitu uji fungsionalitas, desain, dan <it>API</it> <it>response.Setiap</it> pengujian fitur, dilakukan pada <it>devicedan</it> <it>Android</it> version yang berbeda untuk memastikan fitur berjalan dengan baik.Selama masa kerja praktik, penulis juga membuat dokumentasi terkait seluruh fitur yang diuji. Selama kerja praktik, penulis mendapat banyak pengalaman dan ilmu baru mengenai <it>quality</it> <it>assurance,</it> yaitu pengetahuan mengenai pekerjaan seorang <it>quality</it> <it>assurance</it> dari sebuah produk dari tahap pengembangan hingga beredar di pasaran.Penulis mendapat pengetahuan baru bahwa keterlibatan seorang <it>quality</it> <it>assurance</it> sudah dimulai saat menentukan fitur pada sebuah <it>sprint,</it> yaitu turut menentukan bobot sebuah fitur juga menentukan tingkat kerumitan pengujiannya.Ketika tahap <it>developmentfitur</it> pada sebuah <it>sprint,</it> <it>quality</it> <it>assurance</it> melakukan pencarian terhadap <it>bug</it> agar dapat segera ditangani atau membuat <it>script</it> <it>automation</it> <it>testing</it> untuk <it>quality</it> <it>assurance</it> <it>angineer.</it> Saat fitur selesai dikerjakan oleh <it>developer,quality</it> <it>assurance</it> bekerja untuk melakukan pengujian fitur dan pembuatan skenario <it>testing.</it> 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Kerja praktik merupakan salah satu sarana yang dapat digunakan penulis untuk merasakan langsung bagaimana ilmu yang diperoleh ketika kuliah diaplikasikan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			secara nyata di dunia kerja.Selain itu, penulis juga dapat merasakan bagaimana lingkungan kerja sesungguhnya ketika melaksanakan kerja praktik. Untuk calon pelaksana kerja praktik, lebih baik jika mencari tempat kerja praktik dari jauh hari.Jika melamar dari jauh hari, peluang calon pelaksana kerja praktik diterima lebih besar karena posisi yang masih belum banyak terisi.Selain itu, hendaknya calon pelaksana kerja praktik mempersiapkan diri secara matang untuk wawancara serta mengetahui detail dari posisi yang dilamar.Jangan hanya persiapan seadanya agar calon pelaksana mendapat kesan yang baik di perusahaan tersebut. Selain itu, hendaknya jarak antara tempat tinggal dan lokasi kerja praktik juga dipertimbangkan oleh calon pelaksana.Hal ini cukup penting agar calon pelaksana kerja praktik dapat optimal selama melaksanakan kerja praktik. Untuk Fakultas, hendaknya semua informasi terkait kerja praktik dapat diberikan jauh hari agar calon pelaksana kerja praktik dapat mempersiapkannya dengan lebih baik. Sehingga tidak terdapat kebingungan calon pelaksana kerja praktik ketika mencari tempat kerja praktik atau membuat dokumen terkait kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Tentang Kami –  About Us |  Bukalapak. (22 Jul 2014). Bukalapak.com. Diakses  23 November 2016, dari https://www.bukalapak.com/about. [2]<it>Meet</it> <it>Android</it> <it>Studio</it> <it>|</it> <it>Android</it> <it>Studio.</it> (16 May 2016). Developer.android.com. Diakses 
+		</segment>
+		<pagenum>23</pagenum>
+		<segment>
+			November 2016, dari https://developer.android.com/studio/intro/index.html. [3] Jakuben, Ben. (17 Feb 2014). <it>What</it> <it>is</it> <it>Genymotion?.Online.Diakses</it> pada 6 Desember 2016, dari https://teamtreehouse.com/library/android-tools/getting-started- with-genymotion/what-is-genymotion. [4]<it>What</it> <it>is</it> <it>emulator?</it> <it>-</it> <it>Definition</it> <it>from</it> <it>WhatIs.com.</it> (15 Nov 2005). <it>Whatis.techtarget.com.</it> Diakses 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			Desember 2016, dari http://whatis.techtarget.com/definition/emulator. [5] <it>Android</it> <it>user</it> <it>interface</it> <it>testing</it> <it>with</it> <it>Robotium</it> <it>–</it>  <it>Tutorial.</it>  (1  Sept  2016).  <it>Vogella.com.</it> Diakses 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			Desember 2016, dari http://www.vogella.com/tutorials/Robotium/article.html. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+	</page>
+	<page id="27">
+		<segment>
+			7,, Rercena Jedral Keria Prahik Tebd l.l *enceor Jedrd lftrjaPreldik Waku 13 &amp;mi }Arc* 24Jmi2016 27 Jwi20l6- I Juti 2016 4 Juli 2016 - I Juli 20t6 ll Juli 2016-22 Juli 2016 25 Juli 2016 - 5 fuxrstus 2016 I Agu*us 20t6 - 19 Agustus 2016 22 A$$tus 2016- 26 Agustus2016 Remcama Keria Merganal prosw bisnis Bulcalryak Mernnetaiari tusas Ouality,4,sxtrattce Sprint26 - T?ackittg loalt - Passu'ord firl usen ame eriteria in login and reslrler Libwldul Firi Spritrt 26 Trackingtercl* - Pa.ssword and u,rernane erileria in lagin andresirler Sprint 27 - Trac*ing tools - RedcsignhalammpencairmBul&lt;aDorrp€t -  Listfavarite -  Bawrcr  information -  Redesign halarm ulasboang -  Exoiredpush Meryusnn  dokrrnen Presentasi  Akhir Sprint 28 Jalmrte 13 September 2016 Menyetujui, Pelakmna Kerja Praltik Penyelia Kerja Praktik Dosen MataKuliah Kerja ,/ l\ .(^-.-' \'-/- 
+		</segment>
+		<title>YD/</title>
+		<segment>
+			ef,Av" AmhRefadi ill ,,[l 
+		</segment>
+		<title>T</title>
+		<segment>
+			Ave A&amp;iana Pinem Sari 
+		</segment>
+	</page>
+	<page id="28">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+	</page>
+	<page id="30">
+	</page>
+	<page id="31">
+	</page>
+	<page id="32">
+	</page>
+	<page id="33">
+	</page>
+	<page id="34">
+	</page>
+	<page id="35">
+	</page>
+	<page id="36">
+	</page>
+	<page id="37">
+	</page>
+	<page id="38">
+	</page>
+	<page id="39">
+	</page>
+	<page id="40">
+	</page>
+	<page id="41">
+	</page>
+	<page id="42">
+	</page>
+	<page id="43">
+	</page>
+	<page id="44">
+	</page>
+	<page id="45">
+	</page>
+	<page id="46">
+	</page>
+	<page id="47">
+	</page>
+	<page id="48">
+	</page>
+	<page id="49">
+	</page>
+	<page id="50">
+	</page>
+	<page id="51">
+	</page>
+	<page id="52">
+	</page>
+
+</document>

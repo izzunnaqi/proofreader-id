@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PERANCANGAN</bo> <bo>DAN</bo> <bo>PENGEMBANGAN</bo> <bo>SOFTWARE</bo> <bo>ERP</bo></title>
+		<segment>
+			<bo>PADA</bo> <bo>PT.</bo> <bo>DENBE</bo> <bo>ANUGERAH</bo> <bo>SOLUSINDO</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>SUKRIAN</bo> <bo>SYAHNEL</bo> <bo>PUTRA</bo></title>
+		<segment>
+			<bo>1306402066</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Sukrian Syahnel Putra : 1306402066 Program Studi : Sistem Informasi Judul Kerja Praktik : Perancangan dan Pengembangan <it>software</it> ERP pada PT. Denbe Anugerah Solusindo <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini dibuat sebagai salah satu dokumen untuk mata kuliah Kerja Praktik. Laporan ini berisi semua hal yang dilakukan oleh penulis selama pelaksanaan Kerja Praktik. Penulis mengawali pelaksanaan Kerja Praktik pada tanggal 13 Juni 2016 dan mengakhiri pelaksanaan Kerja Praktik pada tanggal 5 Agustus 2016. Penulis menerima pekerjaan berupa perancangan dan pengembangan Sistem Informasi berupa Denbe ERP di PT. Denbe Anugerah Solusindo. Selama masa pengerjaan proyek ERP, penulis mengimplementasikan beberapa pengetahuan dan pengalaman yang penulis dapatkan selama menjalani perkuliahan di Fasilkom. Beberapa mata kuliah yang membantu penulis selama pelaksanaan Kerja Praktik adalah Rekayasa Perangkat Lunak, Basis Data, Enterprise Resource Planning, dan Proyek Pengembangan Sistem Informasi. Selama pelaksanaan Kerja Praktik, penulis menemukan beberapa kendala yang dihadapi dan solusi dalam menghadapi kendala-kendala tersebut. Penulis juga menerapkan metodologi, teknologi, dan aspek-aspek non-teknis terkait dengan hal Kerja Praktik. Kata kunci: [<it>Database,</it> <it>Enterprise</it> <it>Resource</it> <it>Planning,</it> Kerja Praktik] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 4</title>
+		<title>2.1.3. Metodologi ................................................................................................ 6</title>
+		<title>2.1.4. Teknologi .................................................................................................. 7</title>
+		<title>2.1.5. Non-Teknis ............................................................................................... 8</title>
+		<title>2.2. Analisis ............................................................................................................ 9</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 9</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 10</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 13 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 13</title>
+		<title>3.2. Saran .............................................................................................................. 13</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 14 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1 Struktur Organisasi PT Denbe Anugerah Solusindo .................................... 3 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis menerima informasi mengenai kuliah Kerja Praktik dari dua orang teman penulis, salah satu dari mereka telah mengikuti seminar mata kuliah Kerja Praktik dan yang lainnya telah melakukan konsultasi dengan salah satu dosen mata kuliah tersebut. Berdasarkan informasi yang didapat dari kedua teman penulis, persyaratan untuk pekerjaan yang dapat diikuti oleh penulis dalam mata kuliah Kerja Praktik untuk Sistem Informasi, program studi yang diikuti penulis, adalah pekerjaan yang dilaksanakan penulis harus memiliki keterkaitan dengan Sistem Informasi. Penulis kemudian bertanya kepada salah satu teman penulis mengenai tempat Kerja Praktik karena ayahnya bekerja di PT Denbe Anugerah Solusindo, sebuah perusahaan yang kebetulan bergerak di bidang konsultan Teknologi Informasi. Karena beliau mengabarkan bahwa ada lowongan pekerjaan tersedia untuk penulis, penulis kemudian bergabung bersama lima orang teman penulis yang juga mengikuti Kerja Praktik di PT Denbe Anugerah Solusindo, termasuk teman-teman penulis yang telah disebutkan sebelumnya. Penulis bersama rekan-rekan penulis lainnya kemudian mengunjungi kantor PT Denbe Anugerah Solusindo di daerah Fatmawati, Jakarta Selatan guna membahas beberapa aspek terkait pekerjaan yang akan dilakukan dalam Kerja Praktik, seperti lokasi, lowongan yang dibuka, dan ruang lingkup dari pekerjaan tersebut. Setelah melalui beberapa proses pertimbangan, penulis dan rekan-rekan setuju untuk magang di tempat tersebut. Penulis dan rekan-rekan kemudian diharuskan menyusun keperluan administrasi agar diterima magang di tempat Kerja Praktik seperti surat permohonan Kerja Praktik dari fakultas dan data diri masing-masing. Setelah melengkapi administrasi, penulis dan rekan-rekan resmi memulai Kerja Praktik di PT Denbe Anugerah Solusindo pada tanggal 13 Juni 2016. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Denbe Anugerah Solusindo adalah sebuah perusahaan konsultan Teknologi Informasi (TI) yang menyediakan jasa berupa konsultasi di bidang TI [1]. Selain konsultasi TI, perusahaan ini juga menyediakan jasa layanan <it>hardware</it> dan infrastruktur, implementasi <it>software,</it> <it>maintenance</it> <it>service,</it> solusi bisnis TI, dan <it>service</it> <it>provider.</it> Perusahaan ini memiliki produk jasa berupa Denbe Solusi, yaitu sebuah produk yang bergerak di bidang pelatihan TI dan Sumber Daya Manusia. Alamat tempat Kerja Praktik penulis adalah Ruko ITC Fatmawati Blok C2 No. 8, Jakarta Selatan. Jam Kerja Praktik yang diikuti oleh penulis dimulai dari pukul 10.00 hingga 16.00 WIB. Secara garis besar, struktur organisasi PT. Denbe Anugerah Solusindo terdiri dari Presiden Direktur, yang kemudian memimpin GM Marketing, GM Operation &amp; Support, dan Direktur. Direktur memimpin Kepala Accounting &amp; Finance. Kepala Accounting &amp; Finance memimpin Admin dan Staf Accounting &amp; Finance. GM Operation &amp; Support memimpin Application Development &amp; Support dan Network &amp; Infrastructure Support. GM Marketing memimpin Marketing dan Project Support. Berikut ini adalah diagram struktur organisasi Denbe: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			<it>Gambar</it> <it>1</it> <it>Struktur</it> <it>Organisasi</it> <it>PT</it> <it>Denbe</it> <it>Anugerah</it> <it>Solusindo</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Posisi penempatan penulis selaku pelaksana Kerja Praktik dalam Struktur Organisasi adalah pada divisi Application Development &amp; Support, yaitu pada sebuah tim yang menangani proyek perancangan dan pengembangan ERP operasional PT. Denbe Anugerah Solusindo bernama Denbe ERP. Pada divisi ini, penulis menerima peran sebagai <it>database</it> <it>designer,</it> <it>system</it> <it>designer,</it> <it>tester,</it> dan <it>documenter.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			PT Denbe Anugerah Solusindo merupakan sebuah perusahaan bidang konsultan Teknologi Informasi (TI) yang telah menangani berbagai macam proyek di bidang tersebut. Berdasarkan informasi yang didapat dari Penyelia Kerja Praktik, Denbe berencana membangun sebuah <it>software</it> berbasis <it>Enterprise</it> <it>Resource</it> <it>Planning</it> (ERP) bernama Denbe ERP. Denbe ERP merupakan sebuah <it>software</it> ERP operasional yang bertujuan menjadi alat bantu Denbe dalam meningkatkan efisiensi dan efektivitas operasional perusahaan. Proyek pengembangan <it>software</it> Denbe ERP dimulai ketika penulis dan rekan-rekan memulai masa Kerja Praktik di Denbe. Proyek direncanakan berlangsung selama sekitar dua hingga tiga bulan lamanya. Berdasarkan pengalaman, pengetahuan, ketertarikan, dan rasa keingin-tahuan yang dimiliki oleh penulis dalam bidang ERP, basis data, pengembangan <it>software,</it> dan teknologi informasi, penulis memutuskan untuk bergabung dalam proyek Denbe ERP dengan mengambil bidang kerja yang berkaitan dengan hal-hal tersebut. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.2.1.</bo> <it><bo>Database</bo></it> <it>Database</it> merupakan sebuah kumpulan data yang memiliki struktur yang teratur dan tersusun sedemikian rupa sehingga sebuah komputer dapat menemukan informasi yang diinginkan [2]. Secara umum <it>database</it> dapat diumpamakan sebagai kumpulan catatan entitas yang berbeda-beda dan saling terkait satu sama lain dimana masing- masing entitas berisi informasi terkait sebuah item di dalam entitas tersebut. Contoh dari <it>database</it> adalah <it>database</it> mahasiswa, yang berisi data-data yang terkait dengan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			mahasiswa tersebut seperti nama, NPM, nilai, fakultas, program studi, dan mata kuliah yang pernah diambil. Salah satu bentuk dasar dari <it>database</it> adalah <it>database</it> relasional. <it>Database</it> relasional merupakan sebuah metode penyusunan data dengan merepresentasikan data kepada user dalam bentuk tabel yang saling berhubungan [2]. Karena data tersusun ke dalam sebuah tabel relasional, <it>user</it> dapat dengan mudah memahami makna dari setiap data yang masuk ke dalam <it>database</it> [3]. Kemudahan dalam mencari informasi ini menyebabkan bentuk <it>database</it> ini banyak dipakai di berbagai macam sistem di dalam perusahaan-perusahaan. <it>Database</it> di dalam komputer dikelola menggunakan <it>Database</it> <it>Management</it> <it>System</it> (DBMS). DBMS adalah sebuah <it>software</it> yang dibuat untuk memudahkan penggunaan dan manajemen <it>database</it> [2]. DBMS bertujuan agar <it>database</it> menjadi lebih representatif melalui <it>user</it> <it>interface</it> sehingga pengelolaan <it>database</it> lebih mudah dilakukan. Salah satu kemudahan pengelolaan <it>database</it> yang ditawarkan oleh DBMS adalah kemudahan dalam melacak perubahan dalam <it>database</it> ketika salah satu operasi DBMS seperti <it>create,</it> <it>update,</it> atau <it>delete</it> dieksekusi. <bo>2.1.2.2.</bo> <it><bo>Enterprise</bo></it> <it><bo>Resource</bo></it> <it><bo>Planning</bo></it> <it>Enterprise</it> <it>Resource</it> <it>Planning</it> (ERP) merupakan sebuah <it>software</it> manajemen proses bisnis yang membantu organisasi dalam mengelola bisnis dan melakukan automasi beberapa fungsi <it>back-office</it> yang berhubungan dengan teknologi, layanan, dan sumber daya manusia [4]. Sebuah <it>software</it> ERP mengaitkan semua aspek operasi di dalam perusahaan termasuk <it>product</it> <it>planning,</it> <it>development,</it> <it>manufacturing,</it> <it>sales</it> dan <it>marketing</it> ke dalam suatu sistem yang terdiri dari <it>database,</it> aplikasi, dan <it>user</it> <it>interface.</it> Dengan mengaitkan semua aspek operasi, ERP kini menjadi suatu <it>software</it> yang berperan sangat penting di dunia <it>enterprise.</it> Sebuah <it>software</it> ERP biasanya terdiri dari banyak modul <it>software</it> <it>enterprise</it> yang dipilih berdasarkan kebutuhan dan kemampuan teknis dari organisasi tersebut, dimana setiap modul ERP memiliki fokus di satu daerah proses bisnis [4]. Modul ERP yang paling banyak digunakan di dalam organisasi di antaranya <it>product</it> <it>planning,</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			<it>material</it> <it>purchasing,</it> <it>inventory</it> <it>control,</it> <it>distribution,</it> <it>accounting,</it> <it>marketing,</it> <it>finance,</it> dan <it>human</it> <it>resources.</it> Beberapa kebutuhan ERP yang umum adalah sebagai berikut [5]:   Sebuah sistem terintegrasi yang beroperasi secara tepat atau mendekati <it>real-</it> <it>time</it> tanpa ketergantungan terhadap pembaruan periodik,   Sebuah <it>database</it> yang mendukung semua aplikasi,    Pandangan dan suasana yang konsisten di setiap modul, dan    Instalasi sistem dengan integrasi aplikasi secara rinci oleh departemen TI <it>in-</it> <it>house.</it> Beberapa area fungsional atau modul dari ERP adalah sebagai berikut [5]:   <it>Financial</it> <it>Accounting,</it>    <it>Managerial</it> <it>Accounting,</it>    <it>Human</it> <it>Resources,</it>    <it>Supply</it> <it>Chain</it> <it>Management,</it>    <it>Project</it> <it>Management,</it>    <it>Customer</it> <it>Relationship</it> <it>Management,</it> dan    <it>Data</it> <it>Services.</it>  
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Metodologi yang diterapkan selama Kerja Praktik berlangsung adalah <it>agile</it> <it>development.</it> Di dalam metode ini, <it>user</it> dan klien terlibat dan aktif pada seluruh tahapan proses pengembangan <it>software</it> berdasarkan salah satu dari 10 prinsip <it>agile</it> <it>programming,</it> yaitu keterlibatan <it>user</it> sangat penting [6]. Penulis menilai metode ini cocok digunakan untuk proyek pengembangan <it>software</it> Denbe ERP karena alasan waktu Kerja Praktik yang cukup singkat dan setiap anggota tim proyek masih memiliki pengetahuan dan pengalaman terbatas mengenai proyek pengembangan <it>software</it> <it>enterprise.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Setiap minggu, penulis dan rekan-rekan Kerja Praktik lainnya akan mempresentasikan kemajuan hasil pekerjaan proyek. Kemudian, klien dan <it>user</it> akan memberikan <it>feedback</it> dalam bentuk kritik, saran, dan masukan kepada tim proyek mengenai hasil pekerjaan untuk minggu tersebut. Tim proyek menjadikan <it>feedback</it> yang diterima dari klien sebagai bahan acuan untuk revisi dan pekerjaan di minggu berikutnya. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Ada beberapa teknologi yang digunakan oleh penulis selama proses Kerja Praktik berlangsung. Teknologi-teknologi tersebut adalah sebagai berikut: 1. <bo>Google</bo> <bo>Drive</bo> Google Drive merupakan sebuah aplikasi penyimpanan <it>cloud</it> gratis dari Google yang digunakan oleh penulis dan rekan-rekan dalam menyimpan dan mendistribusikan berkas-berkas yang berhubungan dengan proyek Denbe ERP. Berkas-berkas yang dibagikan dapat berupa dokumen, diagram, grafik, dan konten-konten lain yang relevan. <it>Folder</it> yang digunakan dalam proyek hanya dibagikan kepada rekan-rekan tim pengembang proyek Denbe ERP. Penulis dapat membuat, melihat, dan memperbaiki dokumen secara kolektif dalam waktu bersamaan dengan bantuan Google Drive. Penulis dapat memantau perubahan dan penambahan setiap berkas dan pihak yang terkait dengan perubahan tersebut menggunakan fitur <it>recent</it> <it>activity</it> <it>tracking</it> pada Google Drive. 2. <bo>Draw.io</bo> Draw.io merupakan sebuah aplikasi pengolahan grafis berbasis web yang digunakan oleh penulis dan rekan-rekan dalam membuat diagram yang digunakan dalam proses perancangan Denbe ERP. Salah satu contoh diagram yang dibuat adalah <it>Entity-Relationship</it> <it>Diagram</it> (ERD), <it>sitemap</it> <it>diagram,</it> dan <it>sequence</it> <it>diagram.</it> Berkas diagram yang telah dibuat disimpan di dalam Google Drive agar dapat dilakukan revisi oleh penulis dan rekan-rekan selama perancangan berlangsung. 3. <bo>Microsoft</bo> <bo>Word</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Microsoft Word merupakan sebuah aplikasi pengolahan dokumen yang digunakan oleh penulis dan rekan-rekan selama proses pelaksanaan Kerja Praktik. Dengan Microsoft Word, penulis dapat mengerjakan proses dokumentasi seperti pengerjaan dokumen <it>User</it> <it>Acceptance</it> <it>Test</it> (UAT) dan <it>Use</it> <it>Case</it> <it>Realization</it> <it>Specification</it> (UCRS) tanpa harus terhubung ke internet. Microsoft Word juga menyediakan fitur <it>formatting</it> dokumen yang lebih <it>familiar</it> daripada Google Drive karena penulis dan sebagian besar rekan penulis telah terbiasa menggunakan Microsoft Word. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non-Teknis</bo></title>
+		<segment>
+			Ada beberapa aspek non-teknis yang menurut penulis esensial dalam pelaksanaan Kerja Praktik. Salah satu aspek tersebut adalah kemampuan komunikasi, baik antara penulis dan rekan-rekan penulis yang tergabung dalam tim pengembang proyek Denbe ERP maupun antara penulis dan <it>stakeholder</it> lainnya yang terlibat dalam proyek ini termasuk klien. Komunikasi yang efektif dan efisien merupakan salah satu pemicu dalam memaksimalkan <it>overall</it> <it>performance</it> dari kerja tim dan mengurangi kemungkinan terjadi miskomunikasi antara tim pengembang dan para <it>stakeholder</it> ketika proses <it>requirement</it> <it>gathering</it> dan presentasi sedang berlangsung. Aspek non-teknis lainnya yang menurut penulis penting adalah kemampuan manajemen waktu dan suasana hati. Kedua aspek ini penting bagi penulis mengingat Kerja Praktik dilaksanakan dalam waktu sebentar dan penulis menghadapi tekanan dari berbagai pihak, mulai dari rekan-rekan penulis, para <it>stakeholder,</it> hingga tekanan dari luar Kerja Praktik seperti lingkungan tempat tinggal penulis selama Kerja Praktik dan keluarga penulis sendiri. Manajemen waktu yang baik akan mempermudah penulis dalam mengerjakan setiap tugas yang diberikan kepada penulis, sementara manajemen suasana hati yang baik akan membantu penulis dalam mengerjakan setiap tugas secara maksimal dan damai. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<pagenum>9</pagenum>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan Kerja Praktik oleh penulis berawal dari tahap <it>project</it> <it>planning,</it> yang dimulai dengan <it>requirement</it> <it>gathering</it> bersama rekan-rekan tim dan klien dari proyek Denbe ERP. Pada bagian ini klien menjelaskan kebutuhan-kebutuhan yang diperlukan dalam proyek, sementara tim proyek membahas mengenai <it>scope</it> dari proyek agar tim tetap sanggup dalam memenuhi kebutuhan klien. Tim proyek kemudian melakukan pembagian tugas dan peran kepada setiap anggota tim. Ketika proyek telah memasuki tahapan selanjutnya yaitu <it>analysis</it> dan <it>design,</it> penulis membantu melakukan analisis dan desain <it>database</it> untuk Denbe ERP dalam bentuk <it>Entity-Relationship</it> <it>Diagram</it> (ERD). Selama proses pengerjaan ERD berlangsung, penulis dibantu oleh salah seorang rekan penulis dalam tugasnya dengan membagi tanggung jawab pengerjaan menjadi dua bagian. Penulis juga berpartisipasi dalam mengerjakan sitemap agar rekan-rekan penulis yang bertindak sebagai <it>programmer</it> dapat mengetahui hubungan antar setiap modul <it>software</it> ERP. Penulis bersama salah seorang rekan penulis juga membantu merancang dokumen <it>User</it> <it>Acceptance</it> <it>Test</it> (UAT) yang digunakan sebagai pedoman dalam melakukan <it>testing</it> setiap <it>use</it> <it>case</it> yang ada di dalam software ERP yang telah diimplementasikan oleh tim <it>programmer,</it> sehingga <it>bug</it> atau implementasi yang masih belum sesuai dengan <it>requirement</it> klien pada <it>software</it> dapat segera dilaporkan kepada tim <it>programmer</it> untuk segera ditangani. Selain itu, penulis juga sedikit terlibat dalam pengerjaan <it>Use</it> <it>Case</it> <it>Realization</it> <it>Specification</it> (UCRS). Perbedaan yang terjadi ketika pelaksanaan Kerja Praktik sedang berlangsung adalah pengerjaan UCRS oleh penulis hanya terjadi selama 3 hari saja. Perbedaan yang terjadi disebabkan perubahan <it>requirement</it> dari sistem setelah menerima <it>feedback</it> dari klien ketik presentasi. <it>Project</it> <it>manager</it> menyarankan penulis untuk menghentikan pengerjaan UCRS dan fokus ke perancangan <it>database</it> bersama salah seorang rekan tim. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			Kendala pertama yang dihadapi penulis adalah kondisi jalan menuju lokasi Kerja Praktik yang selalu ramai di pagi hari sehingga rawan macet. Berbeda dengan beberapa rekan penulis yang rumahnya berdekatan dengan lokasi Kerja Praktik, penulis yang tinggal di kontrakan di Depok harus berjalan cukup jauh dan melalui lebih banyak ruas jalan untuk tiba di lokasi Kerja Praktik sehingga semakin tinggi kesempatan untuk terjebak macet jika mengendarai sepeda motor. Tim proyek bersama penulis mengatasi hal ini dengan mengidentifikasi “jadwal  macet”  untuk  perjalanan  ke  lokasi  Kerja  Praktik dan mencari rute dan metode transportasi alternatif menuju lokasi, sehingga penulis dapat tiba di lokasi Kerja Praktik dengan tepat waktu. Salah satu usaha yang penulis lakukan adalah bergantian menggunakan modus transportasi setiap harinya, misalnya jika hari ini memakai sepeda motor, hari selanjutnya menggunakan gabungan antara transportasi umum KRL dan layanan ojek <it>online.</it> Kendala selanjutnya yang penulis hadapi adalah pengetahuan yang terbatas mengenai <it>database.</it> Karena penulis belum pernah mengambil peran sebagai <it>database</it> <it>designer,</it> penulis mengalami beberapa kendala dalam pengerjaan ERD, salah satunya adalah kendala dalam mengimplementasikan <it>database</it> ke dalam ERD. Penulis mengatasi hal ini dengan bertanya kepada salah seorang rekan penulis yang lebih memahami <it>database</it> sehingga implementasi ke dalam ERD lebih mudah dilakukan. Penulis menilai bahwa proses pelaksanaan Kerja Praktik cukup baik, walaupun penulis sempat menghadapi banyak kendala, baik dari dalam maupun dari luar kondisi Kerja Praktik sendiri. Komunikasi yang dibangun antara tim proyek dan klien cukup baik sehingga tim selalu responsif terhadap perubahan <it>requirement</it> proyek dari klien. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama pelaksanaan Kerja Praktik, penulis menemukan beberapa relevansi dengan beberapa mata kuliah yang diajarkan di Fakultas Ilmu Komputer yang pernah diambil oleh penulis. Mata kuliah yang terkait dengan pelaksanaan Kerja Praktik penulis adalah sebagai berikut: <bo>1.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>(RPL)</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			Di dalam mata kuliah Rekayasa Perangkat Lunak (RPL), penulis mempelajari secara mendalam proses pengembangan <it>software,</it> termasuk salah satu di antaranya adalah metode <it>agile</it> <it>software</it> <it>development.</it> Pada pelaksanaan Kerja Praktik, penulis dan rekan-rekan memutuskan untuk menggunakan metode <it>agile</it> sebagai acuan untuk perancangan dan pengembangan <it>software</it> Denbe ERP. Materi yang diajarkan dalam kuliah RPL dinilai dapat membantu penulis selama proses Kerja Praktik berlangsung. Di dalam mata kuliah ini juga diajarkan bagaimana penulis dapat menyusun sebuah <it>sitemap</it> <it>diagram</it> dan <it>sequence</it> <it>diagram</it> sehingga membantu penulis dalam mengerjakan kedua diagram tersebut. <bo>2.</bo> <bo>Basis</bo> <bo>Data</bo> <bo>(Basdat)</bo> Di dalam mata kuliah Basis Data (Basdat), penulis mempelajari secara mendalam proses perancangan sebuah basis data untuk diterapkan ke dalam sebuah sistem. Karena Denbe ERP membutuhkan basis data di dalamnya, penulis menilai bahwa pengalaman dan pengetahuan yang didapatkan di mata kuliah ini dapat membantu proses perancangan basis data untuk software tersebut. Di mata kuliah ini penulis juga diajarkan cara membuat <it>entity-</it> <it>relationship</it> <it>diagram</it> (ERD) sehingga membantu penulis dalam mengerjakan diagram tersebut. <bo>3.</bo> <bo>Proyek</bo> <bo>Pengembangan</bo> <bo>Sistem</bo> <bo>Informasi</bo> <bo>(Propensi)</bo> Di dalam mata kuliah Proyek Pengembangan Sistem Informasi (Propensi), penulis mempelajari proses pengembangan sistem informasi dengan mengerjakan sebuah proyek untuk suatu perusahaan. Mata kuliah ini membantu penulis dalam mengetahui peran masing-masing anggota dalam pengembangan software Denbe ERP. Mata kuliah ini unik karena penulis tidak diajarkan melalui teori di kelas, namun melalui praktikum lapangan dengan mengerjakan sebuah proyek sistem informasi sehingga pengalaman yang didapatkan penulis di mata kuliah ini dapat membantu penulis selama pelaksanaan Kerja Praktik. Di dalam mata kuliah ini dijelaskan lima tahapan pengembangan sistem informasi, yaitu <it>planning,</it> <it>analysis,</it> <it>design,</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			implementasi, dan <it>testing,</it> beserta proses-proses yang terjadi di dalam kelima tahapan tersebut. Penulis terlibat di setiap tahapan ketika mengikuti mata kuliah ini sehingga dapat membantu penulis ketika proses pelaksanaan Kerja Praktik sedang berlangsung. <bo>4.</bo> <it><bo>Enterprise</bo></it> <it><bo>Resource</bo></it> <it><bo>Planning</bo></it> <bo>(ERP)</bo> Mata kuliah <it>Enterprise</it> <it>Resource</it> <it>Planning</it> (ERP) mengajarkan pemahaman dan fungsi ERP pada perusahaan. Mata kuliah ini juga menjelaskan karakteristik yang dimiliki setiap modul di dalam sebuah software ERP. Mata kuliah ini membantu penulis dalam memahami ERP secara luas sehingga penulis memiliki dasar-dasar pengetahuan yang diperlukan ketika mengembangkan <it>software</it> Denbe ERP. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis dan rekan-rekan melaksanakan Kerja Praktik di PT. Denbe Anugerah Solusindo dengan mengerjakan sebuah proyek <it>software</it> Enterprise Resource Planning (ERP) bernama Denbe ERP. Selama pelaksanaan Kerja Praktik, klien dan <it>stakeholder</it> terkait seringkali melakukan perubahan <it>requirement</it> sehingga tim proyek diharuskan bertindak responsif terhadap perubahan tersebut, sehingga metode <it>agile</it> <it>programming</it> dipilih untuk pengembangan <it>software</it> ini. Penulis mengubah fokus dari <it>system</it> <it>and</it> <it>database</it> <it>design</it> menjadi <it>database</it> <it>design</it> saja karena perubahan <it>requirement</it> dari klien ketika proses <it>system</it> <it>design</it> sedang berlangsung. Pelaksanaan Kerja Praktik ini memberikan penulis pandangan baru mengenai dunia kerja di bidang sistem informasi, yang mungkin terkesan santai karena Kerja Praktik ini bersifat <it>project-based,</it> namun tidak semudah ekspektasi dari penulis. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Penulis mengharapkan agar ada beberapa <it>requirement</it> pasti yang diberikan oleh klien dalam proyek, mengingat proyek yang dilaksanakan berupa proyek <it>software</it> ERP yang pasti memiliki beberapa <it>requirement</it> yang esensial untuk perusahaan. Selain itu, penulis mengharapkan agar sebelum memulai Kerja Praktik, pengetahuan yang dibutuhkan dalam aktivitas yang akan dilaksanakan telah tersedia terlebih dahulu sehingga lebih mudah untuk memahami konteks dari setiap aktivitas dalam Kerja Praktik tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT. Denbe Anugerah Solusindo, “Tentang  Kami:  PT.  Denbe  Anugerah  Solusindo,”  PT.  Denbe  Anugerah  Solusindo,  [Online]. Available: http://www.denbe.co.id/about. [Diakses 27 September 2016]. [2] The Linux Information Project, “Database  Definition,”  The  Linux  Information  Project, 22 June 2006. [Online]. Available: http://www.linfo.org/database.html. [Diakses 27 September 2016]. [3] HowStuffWorks, “What  are  relational databases? | HowStuffWorks,”  HowStuffWorks, [Online]. Available: http://computer.howstuffworks.com/question599.htm. [Diakses 27 September 2016]. [4] V. Beal, “What is ERP - Enterprise Resource Planning? Webopedia Definition,”  
+		</segment>
+		<title>IT</title>
+		<segment>
+			Business Edge, [Online]. Available: http://www.webopedia.com/TERM/E/ERP.html. [Diakses 27 September 2016]. [5] SelectHub, “Key  ERP  Functional  Requirements  -  Functions  of  ERP  Systems,”  SelectHub, 
+		</segment>
+		<pagenum>26</pagenum>
+		<segment>
+			October 2015. [Online]. Available: https://selecthub.com/enterprise-resource-planning/key-erp-functional- requirements/. [Diakses 27 September 2016]. [6] K. Waters, “What Is Agile? (10 Key Principles of Agile) | All About Agile,” 101  Ways, 
+		</segment>
+		<pagenum>10</pagenum>
+		<segment>
+			February 2007. [Online]. Available: http://www.allaboutagile.com/what-is-agile-10-key-principles/. [Diakses 
+		</segment>
+		<pagenum>27</pagenum>
+		<segment>
+			September 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

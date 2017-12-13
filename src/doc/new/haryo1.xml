@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<pagenum>8</pagenum>
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>Implementasi</bo> <bo>Teknik</bo> <it><bo>Information</bo></it> <it><bo>Retrieval</bo></it> <bo>untuk</bo> <bo>Fitur</bo> <bo>Rekomendasi</bo> <bo>Produk</bo> <bo>pada</bo> <bo>Sistem</bo> <it><bo>e-Commerce</bo></it> <bo>PT.</bo> <bo>Kudo</bo> <bo>Teknologi</bo> <bo>Indonesia</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>Haryo</bo> <bo>Akbarianto</bo> <bo>Wibowo</bo> <bo>1306403850</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<segment>
+			<bo>PROGRAM</bo> <bo>STUDI</bo> <bo>Ilmu</bo> <bo>Komputer</bo> 
+		</segment>
+		<title><bo>DEPOK</bo></title>
+		<segment>
+			<bo>Agustus</bo> <bo>2016</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="2">
+		<pagenum>9</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>10</pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Haryo Akbarianto Wibowo : 1306403850 : Ilmu Komputer : Implementasi Teknik Information Retrieval untuk Fitur Rekomendasi Produk pada Sistem e- Commerce PT. Kudo Teknologi Indonesia <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.Sc.)</bo> Ditetapkan di : Depok Tanggal 
+		</segment>
+		<title>: X</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>11</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini berisi tentang hasil kerja praktik yang dilaksanakan pada tanggal 13 Juni 2016 sampai 19 Agustus 2016 di PT. Kudo Teknologi Indonesia. Penulis ditetapkan sebagai <it>Data</it> <it>Engineer</it> pada PT. Kudo Teknologi Indonesia. Pekerjaan yang didapatkan oleh penulis adalah perancangan implementasi teknik <it>Information</it> <it>Retrieval</it> untuk fitur rekomendasi produk pada PT. Kudo Teknologi indonesia. Pada saat menjalani pekerjaan tersebut, penulis mendapat tugas untuk mencari rekomendasi barang yang mirip dan komplemen dengan barang yang ditargetkan. Beberapa teknologi penulis gunakan untuk melaksanakan pekerjaan tersebut. Pada laporan ini terdapat analisis perbedaan kerangka acuan kerja praktik dengan pelaksanaan kerja praktik. Kerja praktik yang penulis lakukan mempunyai relevansi terhadap mata kuliah yang diajarkan di Fakultas Ilmu Komputer. Kata kunci: <it>data</it> <it>engineer,</it> <it>recommendation</it> <it>engine,</it> <it>information</it> <it>retrieval,</it> kerja praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>12</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			 HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........ 10 ABSTRAK .................................................................................................................. 11 DAFTAR ISI ............................................................................................................... 12 DAFTAR GAMBAR .................................................................................................. 14 DAFTAR TABEL ....................................................................................................... 15 DAFTAR LAMPIRAN ............................................................................................... 16 
+		</segment>
+		<title>BAB 1</title>
+		<segment>
+			PENDAHULUAN .................................................................................... 17 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik .................................................................... 17</title>
+		<title>1.2. Tempat Kerja Praktik ................................................................................... 19</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik .................................................................. 19</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi</title>
+		<pagenum>21</pagenum>
+		<title>BAB 2</title>
+		<segment>
+			ISI ............................................................................................................. 22 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ..................................................................... 22</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ..................................................................... 22</title>
+		<title>2.2. Tinjauan Pustaka ....................................................................................... 23</title>
+		<title>2.2.1. Metodologi ............................................................................................ 27</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>13</pagenum>
+		<title>2.2.2. Teknologi .............................................................................................. 28</title>
+		<title>2.2.3. Gambaran Pekerjaan ............................................................................. 30</title>
+		<title>2.2.4. Nonteknis .............................................................................................. 34</title>
+		<title>2.3. Analisis ......................................................................................................... 35</title>
+		<title>2.3.1. Pelaksanaan Kerja Praktik .................................................................... 35</title>
+		<title>2.3.2. Relevansi dengan Perkuliahan di Fasilkom UI ..................................... 37</title>
+		<title>BAB 3</title>
+		<segment>
+			PENUTUP ................................................................................................ 39 
+		</segment>
+		<title>3.1. Kesimpulan ................................................................................................... 39</title>
+		<title>3.2. Saran ............................................................................................................. 40</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 40 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... 43 LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................... 44 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>14</pagenum>
+		<segment>
+			Gambar 1 Struktur Organisasi……………………………………………………... 21  
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 2 Posisi penulis pada pelaksanaan kerja praktik………………………….. 22  Gambar 3 Visualisasi Vector Space Model………………………………………... 25  Gambar 4 Alur gambaran kerja penulis…………………………………………..... 31  Gambar 5 Pemasangan kategori komplemen………………………………………  35  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar tabel, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<pagenum>15</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>16</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>17</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses penulis mencari tempat kerja praktik lumayan panjang. Penulis memulai pencarian lowongan tempat magang sejak awal bulan Maret 2016. Penulis lebih fokus terhadap pencarian lowongan pekerjaan pada perusahaan <it>startup</it> dikarenakan penulis mendengar bahwa di perusahaan <it>startup</it> peluang belajarnya lebih besar dibanding yang bukan perusahaan <it>startup.</it> beberapa perusahaan yang penulis coba untuk daftar yaitu Tokopedia, Traveloka, Bukalapak, Kudo, Suitmedia, dan Indivara. Dari 6 perusahaan tersebut, hanya Indivara yang bersedia untuk menerima penulis melalui jalur biasa. Namun karena PT. Kudo menawarkan jalan lain untuk mendaftar, penulis memilih untuk masuk PT. Kudo dikarenakan PT. Kudo merupakan perusahaan <it>startup</it> dan bidang yang ditawarkan sesuai dengan minat penulis, yaitu <it>Data</it> <it>Engineer.</it> Pada awalnya, penulis mendaftar pada perusahaan Tokopedia, Bukalapak, dan Traveloka yang membuka lowongan pekerjaan magang. Penulis mendapatkan kontak <it>e-mail</it> dari website masing-masing perusahaan tersebut. Setelah penulis mendapatkan kontak <it>e-mail,</it> penulis mengirimkan CV dan permohonan untuk melamar magang di perusahaan tersebut. Adapun posisi yang penulis minta pada perusahaan Tokopedia dan Bukalapak yaitu <it>Software</it> <it>Engineer.</it> Sedangkan posisi yang penulis minta pada perusahaan Traveloka yaitu <it>Data</it> <it>Analyst.</it> Respon tercepat pertama yang penulis dapatkan yaitu dari perusahaan Tokopedia. Pertama-tama penulis diberikan soal tentang <it>programming</it> secara online. penulisngnya, karena ketidaktelitian penulis, penulis gagal pada tahap ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>18</pagenum>
+		<segment>
+			 Respon tercepat kedua didapatkan dari perusahaan Traveloka. Perusahaan tersebut mengundang penulis untuk melakukan wawancara di kantornya. Wawancara yang dilakukan oleh perusahaan Traveloka adalah wawancara dalam menjawab soal. Soal yang diberikan adalah soal tentang <it>binary</it> <it>search</it> <it>tree</it> dan basis data. Penulis dapat menyelesaikan masalah tersebut dengan baik. Setelah penulis selesai melakukan wawancara, penulis menunggu hasil dari wawancara tersebut. penulisngnya, perusahaan ini menolak penulis dengan <it>e-mail</it> yang dikirimkan sebulan setelah wawancara tersebut. Perusahaan Bukalapak tidak merespon lamaran yang penulis kirimkan. Penulis mencari informasi kembali mengenai kerja praktik. Penulis mendapat kabar bahwa perusahan Kudo dan Suitmedia membuka lowongan magang. Perusahaan Kudo menawarkan posisi sebagai <it>Data</it> <it>Engineer</it> dan Suitmedia menawarkan posisi sebagai <it>Software</it> <it>Engineer.Penulis</it> mendaftar magang ke kedua perusahaan tersebut. Penulis menjalani tes wawancara kedua perusahaan tersebut dalam waktu yang berdekatan. Namun, penulis ditolak oleh keduanya. Setelah penulis ditolak kedua perusahaan tersebut, penulis mendaftar salah satu jasa penyedia lowongan magang yaitu Quint. Setelah beberapa hari, penulis mendapat tawaran tes wawancara untuk magang di salah satu perusahaan yang bekerjasama dengan Quint. Perusahaan itu adalah PT. Indivara Group. Tawaran ini muncul pada tengah bulan Mei 2016. Pada saat tawaran tes wawancara untuk magang tersebut ditawarkan, penulis mengikuti lomba Hackaton yang ditawarkan oleh perusahaan Kudo. Lomba tersebut diadakan pada tanggal 28 Mei 2016 sampai 29 Mei 2016. Pada saat lomba tersebut, penulis menanyakan tentang tawaran magang di Kudo ke CEO Kudo (<it>Chief</it> <it>Executive</it> <it>Officer).</it> Beliau berkata bahwa jika penulis ikut lomba ini, penulis bisa diterima tanpa tes. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<segment>
+			 Penulis perlu mengirimkan <it>e-mail</it> ke HRD (<it>Human</it> <it>Research</it> <it>Development)</it> perusahaan Kudo tentang lamaran magang terlebih dahulu. 
+		</segment>
+		<pagenum>19</pagenum>
+		<segment>
+			Dua hari setelah lomba tersebut, penulis melakukan tes wawancara terhadap perusahaan PT. Indivara Group. Posisi yang ditawarkan adalah <it>Software</it> <it>Engineer.</it> Setelah melakukan tes wawancara, penulis diterima magang di perusahaan ini. Penulis meminta ke HRD perusahaan ini untuk memberikan waktu seminggu karena penulis ingin mencoba mendaftar ke perusahaan Kudo lagi. Permintaan penulis diterima oleh HRDnya. Penulis mencoba kembali mendaftar Kudo dengan mengirimkan langsung <it>e-mail</it> ke CEOnya. Dalam beberapa menit, penulis mendapat respon bahwa penulis diterima di perusahaan Kudo sebagai <it>Data</it> <it>Engineer.</it> Penulis mendapatkan posisi ini karena penulis menulis posisi yang diminati pada kiriman <it>e-mail</it> tersebut. Setelah itu, penulis memberitahu perusahaan PT. Indivara Group bahwa penulis diterima di perusahaan Kudo. Penulis lebih memilih perusahaan Kudo disebabkan karena minat penulis adalah bidang data sesuai yang ditawarkan oleh perusahaan Kudo. Suasana pekerjaan yang terbuka dan jam waktu yang fleksibel membuat penulis memilih perusahaan Kudo sebagai tempat magang. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Kudo adalah perusahaan <it>startup</it> yang bergerak sebagai <it>platform</it> yang memberikan peluang usaha menjadi <it>reseller</it> produk dari berbagai <it>e-commerce.</it> Perusahaan ini didirikan pada Juli 2014. Startup ini mengembangkan solusi praktis untuk marketplace dan ekosistem pembayaran di Indonesia. Perusahaan Kudo memberikan solusi untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<segment>
+			 masyarakat Indonesia yang tidak memiliki akses dan tidak mau bertransaksi <it>online</it> untuk melakukan pembelanjaan <it>online</it> <it>shop</it> secara tunai. Perusahaan Kudo bekerja sama dengan perusahaan <it>e-commerce</it> lainnya untuk mengembangkan solusi tersebut 
+		</segment>
+		<pagenum>20</pagenum>
+		<segment>
+			[1]. Kudo membuat aplikasi <it>mobile</it> dan website untuk menjalankan bisnis utamanya. Pengguna aplikasi tersebut disebut agen. Agen akan menjual barang dagangan yang dipesan secara <it>online</it> dari aplikasi Kudo kepada konsumennya. Secara organisasi, perusahaan Kudo memiliki dua bidang utama yaitu bidang bisnis yang dibawahi oleh <it>Chief</it> <it>Executive</it> <it>Officer</it> (COO) dan bidang teknologi yang dikepalai oleh <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) yang juga bertindak sebagai <it>Chief</it> <it>Executive</it> <it>Officer</it> (CEO). Bidang bisnis fokus terhadap kegiatan bisnis seperti <it>marketing,</it> <it>product,</it> <it>accounting,</it> dan <it>marketing.</it> Sedangkan bidang teknologi lebih berfokus terhadap pengembangan teknologi yang dipasarkan. Dalam masing-masing bidang terdapat posisi yang diketuai oleh seorang <it>Head</it> <it>Division.</it> Dibawah <it>Head</it> <it>Division</it> masih terdapat <it>Lead</it> <it>Position</it> yang bertugas untuk membantu <it>Head</it> <it>Division</it> mengawasi bagian bidang yang lebih spesifik. Gambar 1 Struktur Organisasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>21</pagenum>
+		<segment>
+			 <bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Pada saat menjalankan kerja praktik, penulis ditempatkan sebagai <it>Data</it> <it>Engineer</it> yang berada di bawah divisi data. <it>Data</it> <it>Engineer</it> berperan untuk mengolah data yang terkumpul di perusahaan Kudo. Dari data yang terkumpul tersebut dicari abstraksi model dengan menggunakan algoritma yang berhubungan dengan data dan menggunakannya untuk memecahkan masalah yang ada. Gambar 2 menjelaskan struktur organisasi yang memuat penempatan penulis. Gambar 2 Posisi penulis pada pelaksnaan kerja praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>22</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Perusahaan Kudo merupakan perusahaan <it>startup</it> dibidang <it>e-commerce</it> yang didalamnya banyak melakukan transaksi antar penggunanya. Transaksi antar pengguna ini disimpan didalam suatu basis data dimana jumlah dari datanya lumayan besar. Data yang besar ini mempunyai potensi untuk diolah untuk memecahkan suatu permasalahan atau meningkatkan fitur yang ada pada perusahaan Kudo untuk memperbesar keuntungan penjualannya. Untuk memecahkan masalahnya, perlu dibuat suatu abstraksi model yang akan menjadi barang inti untuk memecahkan masalah tersebut. Pembuatan abstraksi model inilah yang menjadi pekerjaan penulis. Pekerjaan yang diberikan untuk penulis dan rekan penulis yang berada pada posisi <it>Data</it> <it>Engineer</it> yaitu membuat dua fitur. Dua fitur itu adalah <it>recommender</it> <it>system</it> dan <it>agent</it> <it>profiling.</it> Kedua fitur tersebut belum pernah dikembangkan oleh perusahaan ini. Penulis diperintahkan untuk mengerjakan fitur <it>recommender</it> <it>system</it> dalam melakukan kerja praktik disini. Fitur <it>recommender</it> <it>system</it> ini dibuat karena banyaknya barang yang tersedia untuk dijual kembali oleh agen. Fitur ini berguna untuk memudahkan agen mencari barang yang mirip yang sesuai dengan barang yang diminatinya. <it>recommender</it> <it>system</it> yang akan dibuat dibagi menjadi dua, yaitu <it>recommender</it> <it>system</it> berdasarkan personalisasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<segment>
+			 dan <it>recommender</it> <it>system</it> berdasarkan kemiripan barang. Penulis ditugaskan untuk membuat <it>recommender</it> <it>system</it> berdasarkan kemripan barang. 
+		</segment>
+		<pagenum>23</pagenum>
+		<segment>
+			<it>Recommender</it> <it>system</it> yang penulis buat juga dibagi menjadi dua, yaitu <it>recommender</it> <it>system</it> untuk pencarian rekomendasi barang yang mirip dan rekomendasi barang yang komplemen terhadap barang yang dilihat oleh pengguna.. Fitur <it>recommender</it> <it>system</it> tersebut juga diimplementasikan kedalam suatu API. Pembuatan API ini juga menjadi tugas penulis. API ini berguna untuk memberikan akses kepada divisi lain untuk mencoba fitur <it>recommender</it> <it>system</it> ini. Penulis juga diminta untuk membuat visualisasi terhadap fitur <it>recommender</it> <it>system</it> ini melalui tampilan. Mentor kami menyarankan untuk membuat website sederhana untuk visualisasinya. Website ini nantinya akan diperlihatakan pada saat presentasi ke semua divisi untuk didemokan. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.2.1.</bo> <it><bo>Information</bo></it> <it><bo>Retrieval</bo></it> <it>Information</it> <it>Retrieval</it> (IR) adalah metode untuk mengekstraksi informasi dengan otomatis dari beberapa sumber informasi. Operasi pencarian informasi dapat dilakukan dengan teknik <it>indexing.</it> Tujuan utama dari IR adalah untuk mencari informasi yang relevan dari <it>query</it> yang diberikan terhadap kumpulan dokumen yang tersedia [2] . <bo>2.1.2.2.</bo> <it><bo>Recommender</bo></it> <it><bo>System</bo></it> <it>Recommender</it> <it>System</it> adalah alat perangkat lunak yang memberikan rekomendasi atau saran sesuatu terhadap penggunanya. Rekomendasi tersebut berhubungan dengan kegiatan memilih sesuatu yang dilakukan oleh pengguna. Contohnya yaitu memilih barang yang akan dibeli dan memilih film yang akan ditonton [3]. Tujuan utama dari 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<segment>
+			 <it>Recommender</it> <it>System</it> adalah untuk membuat rekomendasi yang bermakna kepada pengguna untuk barang atau produk yang bisa menarik perhatian mereka. [4] 
+		</segment>
+		<pagenum>24</pagenum>
+		<segment>
+			<bo>2.1.2.3.</bo> <it><bo>Vector</bo></it> <it><bo>Space</bo></it> <it><bo>Model</bo></it> <it>Vector</it> <it>Space</it> <it>Model</it> (VSM) adalah teknik IR untuk pembuatan model dimana teknik ini merepresentasikan dokumen yang tersedia pada koleksi menjadi titik pada <it>space.</it> Titik tersebut adalah vektor pada suatu ruang vektor. Jarak titik satu sama lain menyatakan kedekatan dan kemiripan [5]. Gambar 3 Visualisasi <it>Vector</it> <it>Space</it> <it>Model</it> Cara kerja dari VSM pada sistem IR yaitu <it>query</it> dari user direpresentasikan menjadi suatu titik yang sama dengan ruang vektor pada dokumen. Dokumen-dokumen tersebut di urutkan berdasarkan kedekatan titik dokumen terhadap titik <it>query</it> tersebut. Setelah itu, Urutan dokumen tersebut akan dikembalikan kepada pengguna. <bo>2.1.2.4.</bo> <bo>Bobot</bo> <bo>Tf-Idf</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<segment>
+			 <it>Term</it> <it>Frequency</it> <it>-</it> <it>Inverse</it> <it>Document</it> <it>Frequency</it> (Tf-idf) adalah salah satu cara untuk memberi pembobotan untuk representasi titik pada VSM [6][7]. Pembobotan tf-idf 
+		</segment>
+		<pagenum>25</pagenum>
+		<segment>
+			dirumuskan sebagai berikut: Dimana: ●   adalah frekuensi kata <it>t</it> muncul pada dokumen <it>d</it> ●  D adalah jumlah dokumen yang ada di koleksi  ●   adalah frekuensi jumlah dokumen yang muncul pada koleksi dimana dokumen tersebut memiliki kata <it>t.</it> <bo>2.1.2.5.</bo> <it><bo>Cosine</bo></it> <it><bo>Similarity</bo></it> <it>Cosine</it> <it>similarity</it> adalah salah satu pengukuran kedekatan antar titik pada ruang vektor [8]. <it>Cosine</it> <it>similarity</it> juga bisa diaplikasikan untuk mencari kedekatan ruang titik pada VSM. Rumus <it>cosine</it> <it>similarity</it> didefinisikan sebagai berikut: Dimana: ●  a dan b adalah vektor suatu titik yang merepresentasikan suatu dokumen yatau  query yang direpresentasikan oleh suatu bobot. a dan b tidak negatif <bo>2.1.2.6.</bo> <it><bo>Jaccard</bo></it> <it><bo>Similarity</bo></it> <it>Jaccard</it> <it>Similarity</it> adalah salah satu pengukuran kedekatan antar titik pada <it>keyword</it> yang dimasukkan dengan dokumen yang tersedia. [9]. Bobot yang diberikan untuk semua kata pada setiap dokumen harus berupa biner (0 atau 1). Bobot akan bernilai 0 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<segment>
+			 jika kata tersebut tidak ada pada dokumen dan 1 jika sebaliknya. Berikut adalah rumus 
+		</segment>
+		<pagenum>26</pagenum>
+		<segment>
+			dari <it>Jaccard</it> <it>Similarity:</it> Dimana: ●  a dan b adalah himpunan kata yang berada pada dokumen a dan b  <bo>2.1.2.7.</bo> <it><bo>Euclidean</bo></it> <it><bo>Distance</bo></it> <it>Euclidean</it> <it>Distance</it> adalah salah satu pengukuran kedekatan antar titik pada ruang vektor yang bisa digunakan untuk VSM. <it>Euclidean</it> <it>Distance</it> melihat jarak antara kedua titik dilihat dari panjang garis lurus yang digambarkan untuk kedua titik tersebut [10]. Berikut adalah rumus dari <it>Euclidean</it> <it>Distance:</it> Dimana: ●   adalah nilai vektor a dan b pada dimensi ke-i. <bo>2.1.2.8.</bo> <it><bo>Chevychev</bo></it> <it><bo>Distance</bo></it> <it>Chevychev</it> <it>Distance</it> adalah salah satu cara untuk mencari kedekatan antar titik pada ruang vektor. <it>Chevychev</it> <it>Distance</it> menghitung jumlah perbedaan kedua vektor yang terbesar pada setiap dimensi [11]. Berikut adalah rumus dari <it>Chevychev</it> <it>Distance:</it> Dimana: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<segment>
+			●   adalah nilai vektor a dan b pada dimensi ke-i. <it><bo>2.1.2.9.</bo></it> <it><bo>RESTful</bo></it> <it><bo>API</bo></it> 
+		</segment>
+		<pagenum>27</pagenum>
+		<segment>
+			Representational State Transfer Application Program Interface (RESTful API) adalah aplikasi program yang menggunakan HTTP <it>Request</it> untuk GET, PUT, POST, dan DELETE suatu data. RESTful API memecah transaksi yang masuk menjadi beberapa modul yang kecil. Modul yang kecil tersebut akan menangani bagian tertentu dari transaksi ini [12] . <it><bo>2.1.2.10.</bo></it> <it><bo>Complementary</bo></it> <it><bo>Good</bo></it> <it>Complementary</it> <it>Good</it> adalah barang yang digunakan untuk dihubungkan dengan barang lain dimana <it>Complementary</it> <it>Good</it> tersebut akan menghasilkan <it>demand</it> terhadap barang yang berelasi dengan barang tersebut [13]. Contoh dari <it>Complementary</it> <it>Good</it> adalah laptop dengan tetikus. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik pada tim data di Kudo, penulis tidak menggunakan metode pengembangan secara khusus. Penulis diberikan kebebasan mengenai <it>timeline</it> pengerjaan fitur <it>recommender</it> <it>system.</it> Walaupun diberi kebebasan, penulis harus memperhatikan <it>deadline</it> untuk presentasi progress fitur tersebut ke Kudo. Selama menjalankan pelaksanaan kerja praktik, penulis sering berkomunikasi dengan mentor mengenai <it>requirement</it> dan kemajuan dari fitur <it>recommender</it> <it>system</it> ini. Komunikasi ini berlangsung bebas sesuai dengan kesepakatan penulis dan mentor. Penulis juga mengikuti budaya <it>weekly</it> <it>meeting</it> khusus untuk <it>technology</it> <it>team</it> yang dilakukan seminggu sekali untuk membahas kemajuan dari projek yang dikerjakan oleh setiap divisi. Selain <it>weekly</it> <it>meeting,</it> penulis juga mengikuti <it>stand</it> <it>up</it> <it>meeting</it> yang membahas kemajuan untuk tiap proyek yang sedang dikerjakan pada tim data. <it>stand</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<segment>
+			 <it>up</it> <it>meeting</it> dilakukan dalam waktu tidak tentu sesuai dengan keinginan <it>head</it> dari tim 
+		</segment>
+		<pagenum>28</pagenum>
+		<segment>
+			data. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Berikut adalah teknologi yang penulis pakai saat menjalankan Kerja Praktik: 1. Bitbucket Bitbucket adalah <it>web-based</it> <it>hosting</it> <it>service</it> untuk pekerjaan yang menggunakan Git atau Mercurial untuk melakukan kontrol pada revisi [14]. Bitbucket dimiliki oleh perusahaan Atlassian. Beberapa tim pada perusahaan Kudo memakai teknologi ini dalam pekerjaannya Penulis diperintahkan oleh atasan untuk memakai teknologi ini. Menurut penulis, teknologi ini sangat berguna untuk mengontrol revisi pada pekerjaan penulis. Penulis juga memakai teknologi ini untuk berkolaborasi dengan rekan penulis yang mengerjakan pekerjaan yang sama dengan penulis. 2. E-mail dan Slack Dalam berkomunikasi pada saat kerja, penulis mengandalkan E-mail dan Slack. E-mail pada perusahaan Kudo menurut penulis biasanya digunakan untuk pengingat atau pengunguman suatu <it>meeting</it> dan pekerjaan. Slack biasa penulis gunakan untuk komunikasi tentang pekerjaan atau hal non-formal lainnya kepada karyawan atau mahasiswa yang magang pada perusahaan Kudo. 3. Python versi 2.7 Penulis menggunakan bahasa Python untuk mengerjakan pekerjaannya. Python adalah bahasa yang <it>interpreted,</it> <it>object-oriented,</it> <it>high-level</it> <it>programming</it> <it>language</it> dengan semantik yang dinamis [15]. Dalam mengerjakan pekerjaan penulis yang berhubungan dengan data, penulis memakai beberapa <it>package.</it> <it>package</it> yang penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<segment>
+			 gunakan untuk mengolah data antara lain: <it>sk-learn,</it> <it>pandas,</it> <it>numpy,</it> dan <it>scipy.</it> Penulis menggunakan <it>package</it> <it>flask</it> untuk membuat RESTful API. 
+		</segment>
+		<pagenum>29</pagenum>
+		<segment>
+			4. Jupyter Notebook Jupyter Notebook adalah aplikasi website yang digunakan untuk membuat dokumen yang berisi <it>live</it> <it>code,</it> <it>equations,</it> visualisasi, dan penjelasan teks [16]. Penulis menggunakan teknologi ini untuk hasil dan visualisasi data yang sudah penulis <it>code</it> dan membagikannya ke rekan dan mentor penulis untuk dianalisis. 5. Sublime Text Sublime Text adalah suatu <it>text</it> <it>editor</it> yang dilengkapi dengan beberapa fitur yang canggih. Sublime Text digunakan untuk <it>code,</it> <it>markup,</it> dan <it>prose</it> [17]. Penulis menggunakan teknologi ini untuk menulis modul <it>recommender</it> <it>system</it> yang penulis buat dengan bahasa Python. Penulis merasa bahwa <it>text</it> <it>editor</it> ini mampu meningkatkan produktivitas penulis dalam melakukan <it>coding.</it> 6. Pycharm IDE Pycharm adalah <it>Integrated</it> <it>Development</it> <it>Environment</it> yang digunakan untuk <it>programming</it> bahasa Python. Pycharm dibuat oleh perusahaan Jetbrains [18]. IDE ini mempunyai fitur untuk analisis kode, <it>debug,</it> <it>unit</it> <it>test,</it> Integrasi dengan <it>version</it> <it>control,</it> dan <it>web</it> <it>development.</it> Penulis menggunakan teknologi ini untuk merapihkan kualitas dari kode yang dibuat. Penulis juga menggunakan IDE ini untuk melakukan <it>debug</it> pada program yang penulis buat. 7. Laravel Laravel adalah <it>web</it> <it>framework</it> bahasa PHP yang gratis dan <it>open</it> <it>source</it> yang memakai model MVC <it>pattern</it> [19]. Penulis menggunakan <it>framework</it> ini untuk membuat website yang melakukan visualisasi terhadap <it>recommender</it> <it>system</it> yang penulis buat. Website ini akan ditujukan pada presentasi penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>30</pagenum>
+		<segment>
+			 <bo>2.2.3.</bo> <bo>Gambaran</bo> <bo>Pekerjaan</bo> Selama kerja praktik, penulis fokus pada mengerjakan rekomendasi produk dengan teknik <it>content-based</it> <it>recommender</it> <it>system.</it> Adapun fitur yang penulis buat pada kerja praktik dengan teknik ini dibagi menjadi dua, yaitu <it>recommender</it> <it>system</it> untuk pencarian rekomendasi barang yang mirip dan rekomendasi barang yang komplemen terhadap barang yang dilihat oleh pengguna. Fitur yang penulis kerjakan terlebih dahulu yaitu <it>recommender</it> <it>system</it> untuk pencarian rekomendasi barang yang mirip terhadap barang yang dilihat oleh pengguna. Gambar 4 memperlihatkan alur kerja penulis nelaksanakan kerja praktik di Kudo. Dalam melakukan pekerjaannya, penulis tidak bekerja secara sendiri. Penulis dibantu oleh rekan penulis yang bernama Hayyu. Dia merupakan mahasiswa Institut Teknologi Bandung (ITB) yang juga menjadi bagian dari anggota magang di perusahaan Kudo. Rekan penulis hanya melakukan magang selama 8 minggu saja, sehingga penulis mengerjakan fitur ini sendiri. Gambar 4 Alur gambaran kerja penulis Untuk fitur yang pertama, karena penulis tidak tahu bagaimana cara membuatnya, penulis dan rekan penulis diberikan waktu untuk melakukan penelitian terhadap teknik ini. Penulis mendapat beberapa tulisan mengenai <it>content-based</it> <it>recommender</it> <it>system.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>31</pagenum>
+		<segment>
+			 Penulis menemukan bahwa pekerjaan penulis bukan <it>content-based</it> <it>recommender</it> <it>system</it> namun merupakan masalah <it>information</it> <it>retrieval</it> yang bisa direpresentasikan dalam bentuk VSM. Salah satu pembobotan populer pada VSM yang penulis temukan yaitu dengan menggunakan tf-idf. Selain itu, penulis menemukan bahwa untuk melakukan ranking terhadap rekomendasi produk, diperlukan suatu fungsi kemiripan antara satu barang dengan barang yang lain. Disini penulis menemukan empat fungsi kemiripan, yaitu <it>cosine</it> <it>similarity,</it> <it>jaccard</it> <it>similarity,</it> <it>euclidean</it> <it>distance,</it> <it>dan</it> <it>chebychev</it> <it>distance.</it> Setelah penulis melakukan penelitian, penulis dan rekan penulis diminta untuk mencari fungsi kemiripan mana yang terbaik dari beberapa fungsi kemiripan yang penulis temukan. Untuk mengetesnya, pertama perlu dibuat programnya <it>recommender</it> <it>system</it> dengan fungsi kemiripan tersebut. Untuk meringankan pekerjaan, penulis hanya membuat program untuk <it>cosine</it> <it>similarity</it> dan <it>jacard</it> <it>similarity</it> saja sedangkan rekan penulis membuat program sisanya. Penulis dan rekan penulis membuat programnya dengan bahasa Python dan menggunakan beberapa <it>package</it> dari bahasa python. Untuk <it>cosine</it> <it>similarity</it> sudah diimplementasikan pada package <it>sk-learn,</it> sehingga penulis hanya perlu memakainya saja. Sedangkan untuk <it>jaccard</it> <it>similarity,</it> penulis perlu membuatnya sendiri. Penulis membuat fungsi kemiripan <it>jaccard</it> <it>similarity</it> dengan bantuan <it>package</it> <it>numpy</it> dan <it>scipy.</it> Penulis mengerjakan keduanya dengan bantuan teknologi Jupyter Notebook dan Sublime Text. Dalam membuat fungsi kemiripan tersebut, penulis menggunakan dataset yang diberikan oleh mentor penulis. Dataset tersebut berisi tentang barang-barang yang tersedia di basis data perusahaan Kudo. Beberapa fitur yang penulis dan rekan penulis gunakan pada dataset tersebut yaitu nama barang, deskripsi barang, kategori, dan harga. Kategori dan harga akan menjadi fitur untuk menyortir barang rekomendasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<segment>
+			 dimana barang yang kategori yang sama dan harga yang berdekatan akan 
+		</segment>
+		<pagenum>32</pagenum>
+		<segment>
+			direkomendasi lebih dahulu dibanding yang lain. Setelah itu, kami diperintahkan untuk evaluasi fungsi kemiripan tersebut dengan <it>testing</it> kepada manusia. Untuk mengetesnya, perlu dibuat suatu wadah untuk bisa memperlihatkan fungsi kemiripan tersebut terhadap <it>tester.</it> Kami mendapat ide untuk membuat suatu website yang dapat melakukan visualisasi terhadap hasil dari <it>recommender</it> <it>systemnya.</it> Kami menggunakan <it>flask</it> dan <it>laravel</it> untuk membuat websitenya. Setelah kami membuat websitenya, kami mengetesnya ke semua orang pada tim data dan beberapa orang pada tim lain. Cara evaluasinya yaitu dengan memilih barang rekomendasi yang relevan terhadap barang yang dilihat dengan menggunakan sebuah fungsi kedekatan. Barang yang relevan akan membuat <it>score</it> dari fungsi kedekatn tersebut naik. Jika ada barang yang tidak relevan, maka <it>score</it> fungsi kedekatan tersebut akan dikurangi. <it>Score</it> yang terdapat pada keempat fungsi kedekatan tersebut akan diurutkan dan dicari fungsi kedekatan yang mempunyai nilai paling tinggi. Kami mendapat hasil bahwa <it>cosine</it> <it>similarity</it> merupakan fungsi kemiripan yang paling baik dibanding yang lain. Setelah kami mendapatkan hasilnya, kami diperintahkan untuk membuat modul untuk program <it>recommender</it> <it>system</it> dengan memakai fungsi kemiripan <it>cosine</it> <it>similarity.</it> Modul yang penulis buat memuat fungsi untuk pembuatan model VSM dan fungsi untuk prediksi hasil rekomendasinya. Dalam proses pembuatannya, penulis memanfaatkan hasil <it>code</it> yang digunakan pada saat melakukan evaluasi fungsi kemiripan. Modul ini akan dimanfaatkan oleh RESTful API yang dibuat oleh penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<segment>
+			 Dalam pembuatan RESTful API, penulis juga memanfaatkan RESTful API yang dibuat pada saat evaluasi fungsi kemiripan. Transaksi yang dilayani pada API ini adalah GET untuk mengambil rekomendasi produk dan POST dalam pembuatan model. Transaksi yang dipakai untuk website demo nantinya hanyalah GET untuk 
+		</segment>
+		<pagenum>33</pagenum>
+		<segment>
+			mengambil rekomendasi produk. Setelah penulis dan rekan penulis selesai mengerjakan fitur yang pertama, penulis melanjutkan untuk mengerjakan fitur rekomendasi barang yang komplemen terhadap barang yang dilihat oleh pengguna. Pada saat mengerjakan ini, rekan penulis sudah tidak bersama penulis lagi dalam mengerjakan fitur ini dikarenakan masa kerja praktik rekan penulis sudah berakhir. Oleh karena itu, penulis hanya bekerja sendiri dalam menyelesaikan fitur ini. Karena penulis kurang tahu cara membuat fitur ini, penulis diperintahkan oleh mentor penulis untuk riset caranya dengan mencari <it>paper</it> yang berhubungan. Penulis menemukan paper yang berjudul “Inferring  Networks  of  Substitutable  and  Complementary Products”  [20]    yang  menurut  penulis  relevan  dengan  pekerjaan  penulis. Sayangnya, data yang tersedia di Kudo tidak bisa menggunakan algoritma pada <it>paper</it> tersebut. Penulis tidak menemukan <it>paper</it> lain yang relevan dengan fitur ini. Akhirnya, penulis mempunyai ide untuk menggunakan <it>content-based</it> <it>filtering</it> dengan melihat kategori barang yang dilihat terhadap kategori barang komplemennya. Sebagai contoh barang laptop akan dipasangkan terhadap kategori aksesoris laptop dan charger laptop. Untuk memasangkan kategori komplemennya, penulis memasangkan kategorinya secara manual. Setelah penulis memasangkan semua kategori komplemennya secara manual, penulis mulai membuat modul untuk fitur ini. Contoh pemasangan kategori secara manual 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<segment>
+			 ynag dilakukan penulis digambarkan pada gambar Y. Karena implementasi fitur ini sangat mirip dengan fitur sebelumnya, penulis hanya perlu memodifikasi <it>code</it> yang dibuat sebelumnya agar bisa digunakan untuk fitur ini. Yang berbeda dari fitur sebelumnya adalah pada fitur ini hanya akan mencari rekomendasi berdasarkan 
+		</segment>
+		<pagenum>34</pagenum>
+		<segment>
+			kategori yang dipasangkan saja. Gambar 5 Pemasangan kategori komplemen Setelah itu, penulis membuat RESTful API untuk fitur ini. API pada fitur ini juga mirip dengan fitur sebelumnya, dimana transaksi yang dilayani pada API ini adalah GET untuk mengambil rekomendasi produk dan POST dalam pembuatan model. Untuk mengerjakannya, penulis mengubah sedikit <it>code</it> pada API yang digunkan untuk fitur sebelumnya. 
+		</segment>
+		<title><bo>2.2.4.</bo> <bo>Nonteknis</bo></title>
+		<segment>
+			Kemampuan nonteknis yang penulis dapatkan pada kerja praktik di perusahaan Kudo antara lain, kemampuan presentasi, komunikasi, dan <it>problem</it> <it>solving.</it> Kemampuan presentasi merupakan kemampuan yang penulis anggap penting pada kerja praktik di perusahaan Kudo. Penulis dituntut untuk dapat menjelaskan fitur yang penulis kerjakan dengan cara presentasi didepan karyawan Kudo. Pada saat penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<segment>
+			 melakukan presentasi didepan petinggi Kudo, Penulis merasa bahwa penulis melakukan presentasi dengan kurang baik. Penulis mendapat beberapa nasihat dari beberapa orang yang menonton presentasi penulis. Disini, penulis mendapat banyak 
+		</segment>
+		<pagenum>35</pagenum>
+		<segment>
+			hal baru tentang bagaimana cara presentasi yang baik. Kemampuan komunikasi juga merupakan hal nonteknis penulis dapatkan. Pada saat hari kerja, beberapa anggota tim data sering menanyakan kepada penulis tentang <it>progress</it> pekerjaan pada saat pertemuan tim data. Penulis harus menjelaskan tentang pekerjaan penulis ke penanya penulis dengan baik. Selain itu, untuk menjelaskan fitur yang penulis buat kepada tim yang lain, penulis harus bisa menerjemahkan bahasa teknis ke bahasa yang dapat dimengerti oleh orang non-IT. Tidak jarang penulis dan rekan penulis dipanggil oleh mentor untuk berkumpul membahas tentang masalah pekerjaan. Penulis perlu memikirkan jalan keluar yang sesuai untuk memecahkan masalah ini. Disinilah penulis perlu kemampuan untuk <it>problem</it> <it>solving.</it> Banyaknya masalah pekerjaan yang timbul pada saat kerja praktik di perusahaan Kudo menaikkan kemampuan untuk <it>problem</it> <it>solving</it> dari penulis. 
+		</segment>
+		<title><bo>2.3.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.3.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik di perusahaan Kudo, terdapat perbedaan antara Kerangka Acuan Kerja Praktik (KAKP) dengan pelaksanaan kerja praktik. Terdapat perbedaan tanggal yang terdapat pada KAKP dengan log kerja praktik disebabkan penulis sakit beberapa hari. Selain itu, penulis hanya menuliskan jika penulis akan mengaplikasikan algoritma <it>Machine</it> <it>Learning</it> saja pada fitur <it>recommender</it> <it>system.</it> Penulis tidak menuliskan bahwa masalah ini diselesaikan dengan mengaplikasikan teknik <it>Information</it> <it>Retrieval.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<segment>
+			 Perbedaan lain pada KAKP penulis yaitu tentang judul KP yang memuat implementasi algoritma <it>content-based</it> <it>filtering.</it> Penulis baru mengetahui setelah penulis melakukan <it>research</it> tentang hal ini. Pekerjaan yang diberikan kepada penulis dikerjakan dengan menggunakan teknik <it>Information</it> <it>Retrieval.</it> Penulis tidak memakai teknik <it>content-</it> <it>based</it> <it>filtering</it> pada pekerjaan yang penulis kerjakan pada saat melaksanakan kerja 
+		</segment>
+		<pagenum>36</pagenum>
+		<segment>
+			praktik. Kendala utama yang penulis alami pada saat pelaksanaan kerja praktik yaitu tidak ada yang mengajarkan penulis tentang fitur <it>recommender</it> <it>system.</it> Hal ini disebabkan karena tim <it>Data</it> <it>Engineer</it> di perusahaan Kudo baru saja terbentuk dan mengambil pekerja dari bidang lain, sehingga tidak ada yang sangat ahli di bidang <it>Data</it> <it>Engineer.</it> Untuk mengatasinya, penulis harus belajar sendiri tentang pengembangan fitur ini. Karena tidak ada yang ahli di bidang ini, tidak ada yang tahu pasti bagaimana cara mengevaluasi <it>recommender</it> <it>system</it> dengan baik. Evaluasi yang penulis lakukan merupakan evaluasi yang dibuat dari ide mentor penulis, penulis, dan rekan penulis. Tentunya hasil evaluasi ini belum tentu hasil yang terbaik dikarenakan belum pernah diuji oleh orang yang ahli. Selain itu, kendala yang penulis rasakan yaitu keterbatasan akses basis data Kudo. Penulis tidak diberikan akses ke basis data Kudo. Hal ini menyebabkan keterbatasan kreativitas penulis dalam mengolah data untuk fitur yang penulis kerjakan. Untuk mendapatkan datanya, penulis harus meminta data kepada mentor penulis. Penulis merasa bahwa hari kerja penulis lebih banyak dipakai untuk membuat website demo dibandingkan dengan pekerjaan yang berkaitan dengan data. Penulis merasa bahwa pekerjaan ini bukan merupakan <it>jobdesk</it> dari penulis. Namun karena tidak ada yang bisa diminta tolong untuk website demo, penulis terpaksa untuk membuat website demo dimana pembuatan websitenya memakan waktu yang lama. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>37</pagenum>
+		<segment>
+			 Terlepas dari kendala dan keluhan yang penulis rasakan, penulis merasa nyaman dalam melaksanakan kerja praktik di perusahaan Kudo. Lingkungan kerja yang terbuka dan bebas membuat penulis betah untuk bekerja di perusahaan ini. Penulis bisa datang ke kantor secara bebas. Perusahaan Kudo juga merupakan tempat yang baik untuk belajar. Karyawan perusahaan Kudo sangat terbuka untuk berbagi ilmunya. Selain itu, ada seminar yang diadakan tiap minggu yang penulis bisa ikuti. Mentor yang sangat responsif juga salah satu hal yang membuat penulis merasa nyaman melaksanakan kerja praktik disini. 
+		</segment>
+		<title><bo>2.3.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Terdapat beberapa relevansi mata kuliah di Fasilkom UI dengan pekerjaan kerja praktik. Mata kuliah yang relevan dengan pekerjaan di Bukapintu antara lain Information Retrieval (IR), Perancangan dan Pemrograman Web (PPW), dan Dasar- Dasar Pemrograman (DDP). Pada mata kuliah DDP, penulis mempelajari bagaimana cara pembuatan <it>class</it> pada modul yang penulis buat. Meskipun bahasa yang diajarkan pada DDP menggunakan bahasa Java, tetapi konsep pembuatan <it>class</it> dengan memakai prinsip <it>Object</it> <it>Oriented</it> <it>Programming</it> (OOP) di Java mirip dengan Python. Prinsip <it>loop,</it> <it>decision,</it> <it>array</it> yang diajarkan di DDP juga membantu penulis dalam melaksanakan pekerjaan praktik. Selanjutnya mata kuliah PPW membantu penulis untuk membuat website demo. <it>Web</it> <it>Framework,</it> <it>Cascading</it> <it>Style</it> <it>Sheet</it> (CSS), Javascript, dan <it>Hypertext</it> <it>Markup</it> <it>Language</it> (HTML) sangat membantu penulis dalam melaksanakan kerja praktik. Dengan pengetahuan yang penulis dapatkan setelah mengambil mata kuliah PPW, penulis tidak merasa kesulitan dalam membuat website demo. Terakhir, mata kuliah IR adalah kunci utama dari pekerjaan yang penulis kerjakan. Pada saat pelaksanaan kerja praktik, penulis belum mengambil mata kuliah ini. Materi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<segment>
+			 tentang evaluasi dan <it>Vector</it> <it>Space</it> <it>Model</it> sangat dipakai dalam pekerjaan penulis. Jika penulis sudah mengambil mata kuliah ini, penulis dapat mengatasi kendala tentang 
+		</segment>
+		<pagenum>38</pagenum>
+		<segment>
+			evaluasi <it>recommender</it> <it>system</it> yang penulis buat. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="32">
+		<pagenum>39</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis telah melaksanakan kerja praktik selama sepuluh minggu mulai 13 Juni 2016 sampai 19 Agustus 2016. Penulis telah melaksanakan kerja praktik di salah satu perusahaan <it>startup</it> yang bernama Kudo. Sebelum diterima di perusahan ini, penulis bekerja keras untuk mendapatkan perusahaan yang dapat menerima penulis dalam melaksanakan kerja praktik. Selama bekerja di perusahaan Kudo, penulis ditempatkan pada posisi <it>Data</it> <it>Engineer</it> yang berada di bawah divisi <it>data</it> <it>scientist.</it> Penulis mendapat pengalaman kerja mengimplementasikan fitur <it>recommender</it> <it>system</it> pada aplikasi perusahaan Kudo. Penulis mendapatkan pengalaman berharga kerja praktik di perusahaan Kudo yang memakai teknologi yang terkait dengan data. kemampuan komunikasi, presentasi, dan <it>problem</it> <it>solving</it> penulis juga terlatih dalam pelaksanaan kerja praktik. Terlepas dari kendala dan keluhan yang penulis dapatkan, penulis merasa nyaman dalam pelaksanaan kerja praktik di perusahaan Kudo. Penulis mempunyai kebebasan dalam memperoleh ilmu disini. Penulis merasa bersyukur dapat melaksanakan suasana lingkungan perusahaan <it>startup</it> yang cenderung santai namun bergerak cepat. Pekerjaan yang ditawarkan juga terdapat relevansi dengan mata kuliah yang diajarkan di perkuliahan di Fasilkom UI. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="33">
+		<pagenum>40</pagenum>
+		<segment>
+			 <bo>3.2.</bo> <bo>Saran</bo> Melaksanakan kerja praktik akan mendapatkan pengalaman banyak terutama mendapatkan pengetahuan hal yang baru. namun untuk mendapatkannya, penulis menyarankan kepada calon pengambil mata kuliah kerja praktik untuk menyiapkan diri untuk mencari tempat kerja praktik. Perlu diperhatikan tata cara mendaftar magang pada suatu perusahaan. Jangan mengulur waktu dalam melamar kerja praktik di suatu perusahaan. Calon pengambil mata kuliah kerja praktik harus gencar mencari informasi lowongan kerja praktik. Sebelum dipanggil <it>interview,</it> penulis menyarankan untuk menyiapkan diri sehingga pada saat <it>interview</it> tidak terjadi kesalahan bicara. Persiapan diri merupakan hal yang penting untuk dapat diterima magang di perusahaan. Penulis juga menyarankan kepada calon pengambil mata kuliah kerja praktik untuk mendaftar bidang yang sesuai dengan minat. Penulis berharap dengan mendaftar bidang yang sesuai minat, calon pengambil mata kuliah kerja praktik dapat melakukan eksplorasi mengenai pekerjaan bidang tersebut. Calon pengambil mata kuliah kerja praktik dapat mengetahui gambaran tentang lingkungan kerja sebenarnya dari bidang yang ia senangi. Kerja praktik dilakukan agar calon pengambil mata kuliah kerja praktik tidak terkejut dengan dunia kerja sebenarnya jika mengeluti bidang yang disenangi.. [1] "Profil Perusahaan - Kudo." <it>Kudo.</it> N.p., n.d. Web. 22 Nov. 2016. 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[2] M. Khari, A. Jain, S. Vij and M. Kumar, "Analysis of various information retrieval models," 2016 3rd International Conference on Computing for Sustainable Global Development (INDIACom), New Delhi, 2016, pp. 2176-2181. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="34">
+		<segment>
+			 [3] Ricci, Francesco, Lior Rokach, and Bracha Shapira. "Introduction to Recommender Systems Handbook." <it>Recommender</it> <it>Systems</it> <it>Handbook</it> (2010): 1-35. Web. 
+		</segment>
+		<pagenum>41</pagenum>
+		<segment>
+			[4] Melville, Prem, and Vikas Sindhwani. "Recommender systems." Encyclopedia of machine learning. Springer US, 2011. 829-838. [5] Turney, Peter D., and Patrick Pantel. "From frequency to meaning: Vector space models of semantics." Journal of artificial intelligence research 37.1 (2010): 141-188. [6] Salton, Gerard, Anita Wong, and Chung-Shu Yang. "A vector space model for automatic indexing." Communications of the ACM 18.11 (1975): 613-620. [7] Fautsch, Claire, and Jacques Savoy. "Adapting the tf idf vector-space model to domain specific information retrieval." Proceedings of the 2010 ACM Symposium on Applied Computing. ACM, 2010. [8] Qian, Gang, et al. "Similarity between Euclidean and cosine angle distance for nearest neighbor queries." Proceedings of the 2004 ACM symposium on Applied computing. ACM, 2004. [9] Niwattanakul, Suphakit, et al. "Using of Jaccard coefficient for keywords similarity." Proceedings of the International MultiConference of Engineers and Computer Scientists. Vol. 1. 2013. [10] Barrett, Paul. "Euclidean distance: Raw, normalised, and double-scaled coefficients." Unpublished paper retrieved from http://www. pbmetrix. com/techpapers/Euclidean_Distance. pdf (2006). [11] Abello, James, Panos M. Pardalos, and Mauricio GC Resende, eds. Handbook of massive data sets. Vol. 4. Springer, 2013. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="35">
+		<segment>
+			 [12] Rouse, Margaret. "What Is RESTful API? - Definition from WhatIs.com." 
+		</segment>
+		<pagenum>42</pagenum>
+		<segment>
+			<it>SearchCloudStorage.</it> N.p., n.d. Web. 22 Nov. 2016. [13] "What Is Complementary Good? Definition and Meaning." BusinessDictionary.com. N.p., n.d. Web. 22 Nov. 2016. [14] Atlassian. "Bitbucket | The Git Solution for Professional Teams." <it>Bitbucket.</it> N.p., n.d. Web. 22 Nov. 2016. [15] "Welcome to Python.org." <it>Python.org.</it> N.p., n.d. Web. 22 Nov. 2016. [16] "Project Jupyter." <it>Project</it> <it>Jupyter.</it> N.p., n.d. Web. 22 Nov. 2016. [17] "Sublime Text." <it>Sublime</it> <it>Text:</it> <it>The</it> <it>Text</it> <it>Editor</it> <it>You'll</it> <it>Fall</it> <it>in</it> <it>Love</it> <it>with.</it> N.p., n.d. Web. 22 Nov. 2016. [18] Taft, Darryl K. "JetBrains Strikes Python Developers with PyCharm 1.0 IDE." <it>Technology</it> <it>News,</it> <it>Tech</it> <it>Product</it> <it>Reviews,</it> <it>Research</it> <it>and</it> <it>Enterprise</it> <it>Analysis</it> <it>-</it> <it>EWeek.com.</it> N.p., n.d. Web. 22 Nov. 2016. [19] Gafitescu, Daniel. "Goodbye CodeIgniter, Hello Laravel." <it>SitePoint.</it> N.p., 2013. Web. 22 Nov. 2016. [20] McAuley, Julian, Rahul Pandey, and Jure Leskovec. "Inferring networks of substitutable and complementary products." Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining. ACM, 2015. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="36">
+		<pagenum>43</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="37">
+		<pagenum>44</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

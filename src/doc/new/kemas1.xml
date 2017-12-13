@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <it><bo>BACK-END</bo></it> <it><bo>SOFTWARE</bo></it> <it><bo>ENTERPRISE</bo></it> <it><bo>RESOURCE</bo></it></title>
+		<title><it><bo>PLANNING</bo></it> <bo>(ERP)</bo> <bo>PADA</bo> <bo>PT</bo> <bo>DENBE</bo> <bo>ANUGERAH</bo> <bo>SOLUSINDO</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>KEMAS</bo> <bo>MUHAMMAD</bo> <bo>RAMADHAN</bo></title>
+		<segment>
+			<bo>1306403844</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Kemas Muhammad Ramadhan : 1306403844 Program Studi : Ilmu Komputer Judul Kerja Praktik : <bo>Pengembangan</bo> <bo>Back-End</bo> <bo>Software</bo> <bo>Enterprise</bo> <bo>Resource</bo> <bo>Planning</bo> <bo>(ERP)</bo> <bo>pada</bo> <bo>Pt</bo> <bo>Denbe</bo> <bo>Anugerah</bo> <bo>Solusindo</bo> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			 Laporan ini dibuat sebagai syarat maka kuliah Kerja Praktik. Penulis telah melaksanakan kerja praktik selama delapan minggu terhitung 13 Juni 2016 - 5 Agustus 2016. Penulis berkerja sebagai back-end engineer dalam pengembangan software ERP pada PT Denbe Anugerah Solusindo. Selama pelaksanaan KP penulis memiliki tugas untuk mengimplementasi fitur-fitur yang nantinya dimiliki oleh software yang dikembangkan. Penulis menggunakan beberapa aplikasi yang dapat membantu penulis selama masa pelaksanaan KP, diantaranya adalah aplikasi web framework, XAMPP, Sublime Text dan Heidi SQL. Kendala yang dihadapi oleh penulis dan tim pelaksana KP menambah pengalaman penulis dalam bekerja sama dan berkomunkasi. KP yang dilakukan penulis memiliki relevansi dengan mata kuliah di Fasilkom UI yang pernah diikuti oleh penulis, diantaranya adalah Rekayasa Perangkat Lunak, Basis Data, Perancangan dan Pemrograman Web, dan Pengembangan Perangkat Lunak. Kata kunci: [Kerja praktik, <it>Enterprise</it> <it>Resource</it> <it>Planning,</it> PT Denbe Anugerah Solusindo] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 1</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 1</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 2</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 3 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 3</title>
+		<title>2.1.1. Latar Belakang ........................................ <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.2. Tinjauan Pustaka ..................................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.3. Metodologi .............................................. <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.4. Teknologi ................................................ <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.5. Non-Teknis ............................................. <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.2. Analisis ............................................................................................................ 8</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 8</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 10</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 11 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 11</title>
+		<title>3.2. Saran .............................................................................................................. 11</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 12 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<segment>
+			[Daftar Gambar, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<pagenum>v</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<segment>
+			[Daftar tabel, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<pagenum>vi</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<segment>
+			<bo>Bab</bo> <bo>1</bo> 
+		</segment>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Setelah mengikuti seminar untuk kuliah Kerja Praktik, penulis berkonsultasi dengan salah satu dosen yang mengisi seminar. Berdasarkan informasi yang didapatkan dari konsultasi yang sudah dilakukan, jenis pekerjaan yang dapat di daftarkan untuk memenuhi kuliah adalah pekerjaan yang sebagian besar aktivitasnya adalah <it>programming.</it> Setelah memperoleh informasi tersebut, penulis mulai mencari lowongan magang dan melengkapi CV dengan kemampuan <it>programming</it> yang penulis miliki. Penulis lalu menanyakan ke teman penulis setelah mendengar kabar bahwa teman penulis mengetahui adanya lowongan magang di PT Denbe Anugerah Solusindo. Pertimbangan penulis untuk adalah lokasi dan ruang lingkup kerja yang dapat penulis penuhi. Setelah itu penulis dan rekan-rekan yang ingin mendaftarkan diri untuk magang di PT Denbe Anugerah Solusindo mengurus berkas administrasi yang terdiri dari surat permohonan KP dari fakultas dan menyerahkan data diri masing- masing. Setelah menyelessaikan proses administrasi, tim magang di PT Denbe Anugerah Solusindo resmi memulai magang pada tanggal 13 Juni 2016 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Denbe Anugerah Solusindo adalah perusahaan konsultan di bidang IT. Selain jasa konsultasi IT, perusahaan ini juga menyediakan layanan hardware dan infrastruktur, implementasi software dan maintenance service. Selain itu, perusahaan ini juga memiliki Denbe Solusi, covering end to end solution, yaitu layanan di bidang training IT dan SDM [1]. Alamat dari tempat KP penulis adalah Ruko ITC Fatmawati Blok C2 no.8, Jakarta Selatan. Jam kerja dari penulis dimulai pada pukul 10:00 dan selesai pada pukul 16:00 WIB 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Struktur singkat organisasi PT Denbe Anugerah Solusindo terdiri dari presiden direktur, GM Marketing, GM Operation &amp; Support, dan direktur. Direktur membawahi Kepala Acc &amp; Finance, Kepala Acc &amp; Finance membawahu Admin dan Staf Acc &amp; Finance sedangkan GM Marketing dan GM Operation &amp; Support membawahi beberapa bidang. Berikut gambar diagram struktur organisasi Denbe : Gambar 1 Struktur Organisasi PT Denbe Anugerah Solusindo 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Posisi yang diberikan kepada tim magang adalah sebagai <it>back-end</it> <it>programmer</it> divisi App Dev &amp; Support yang menangani proyek perancangan dan pengembangan ERP operasional PT Denbe Anugerah Solusindo. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			<bo>Bab</bo> <bo>2</bo> 
+		</segment>
+		<title><bo>ISI</bo></title>
+		<segment>
+			<bo>2.1</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pada bab ini dijelaskan latar belakang pihak penyelia memberikan tugas kepada pelaksana, metodologi yang digunakan pelaksana dan tim, teknologi serta <it>softskills</it> yang diigunakan selama melaksanakan Kerja Praktik. 
+		</segment>
+		<title><bo>2.1.1</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Salah satu usaha mengembangkan perusahaannya, PT Denbe Anugerah Solusindo meminta pelaksana kerja praktik dan tim untuk membuat program Enterprise Rersource Planning berbasis web. Program yang dibuat tim direncanakan untuk membuat proses operasional PT Denbe Anugerah Solusindo menjadi lebih efisien dan efektif. Setelah pihak penyelia menerangkan spesifikasi dari produk yang ingin dibuat, tim pelaksana mengajukan alur kerja yang akan diterapkan selama proses pengerjaan produk yaitu Agile. Selama pengerjaan proyek berlangsung penulis berperan sebagai <it>back-end</it> <it>programmer.</it> 
+		</segment>
+		<title><bo>2.1.2</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.2.1</bo> <bo>Proyek</bo> Proyek adalah usaha sementara yang dilakukan untuk membuat produk yang unik, layanan, atau hasil. Proyek memiliki batas waktu tertentu, memiliki tujuan yang unik dan fleksibel dalam pengambilan sumber daya [2]. Sementara menurut KBBI, proyek didefinisikan sebagai sebagai usaha sementara, temporer, dan bukan permanen, yang meiliki sasaran khhusus dengan waktu pelaksanaan yang tegas[3]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			<bo>2.1.2.2</bo> <bo>ERP</bo> Enterprise Resource Planning adalah proses dimana perusahaan mengelola dan mengintegrasikan bagian-bagian penting dari bisnis mereka. Sistem manajemen dalam sebuah ERP mengintegrasikan beberapa bidang dalam perusahaan seperti <it>planning,</it> <it>purchasing,</it> <it>inventory,</it> <it>sales,</it> <it>marketing,</it> <it>finance,</it> dan <it>human</it> <it>resource.</it> ERP pada umumnya digunakan dalam bentuk <it>software.</it> Saat ini penerapan ERP menjadi semakin popular. Oleh karena itu, barbagai macam <it>software</it> telah dikembangkan untuk membantu perusahaan dalam menerapkan ERP [4]. <bo>2.1.2.3</bo> <bo>Web</bo> <bo>Framework</bo> <it>Web</it> <it>application</it> <it>framework</it> atau <it>web</it> <it>framework</it> adalah suatu tipe <it>framework</it> atau <it>foundation</it> yang secara spesifik dirancang untuk membantu <it>developer</it> untuk membuat aplikasi web. <it>Web</it> <it>application</it> <it>framework</it> biasanya menyediakan fungsionalitas inti yang pada umumnya dimiliki aplikasi web. Dengan menggunakan framework yang tepat, seorang <it>developer</it> sering kali dapat menghemat waktu secara signifikan dalam membangun sebuah website [5]. <bo>2.1.2.4</bo> <bo>Relational</bo> <bo>Database</bo> <bo>Management</bo> <bo>System</bo> Relational database management system adalah sistem database dengan basis relational model yang dispesifikasikan oleh Edgar F. Codd. RDBMS memiliki aturan yang disederhanakan menjadi 1. Data harus disimpan dan ditampilkan sebagai relasi. Contohnya suatu tael yang memiliki hubungan dengan table lainnya. 2. Untuk memanipulasi data yang tersimpan di suatu table, sistem harus memiliki relational operational operator dan code yang menjalankan relationship terhadap dua entity [6]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<title><bo>2.1.3</bo> <bo>Metodologi</bo></title>
+		<pagenum>5</pagenum>
+		<segment>
+			Metodologi yang digunakan selama pengerjaan proyek KP adalah Agile. Pemilihan metode ini adalah kemampuannya yang dapat mengantisipasi perubahan rencana secara fleksibel. Hal ini disebabkan adanya keterlibatan dari awal hingga akhir pengembangan proyek, serta adanya tahapan yang berkelanjutan dan terintegrasi sehinngga dapat mengidentifikasi dan memperbaiki ketidaksesuaian rancangan dan produk yang di deliver dengan permintaan dari client di setiap jangka waktu tertentu [7]. Bentuk dari tahapan tersebut adalah setiap minggunya tim pelaksana KP mempresentasikan hasil kerjanya kepada pihak penyelia dan mendapat feedback secara langsung. Feedback yang diberikan akan menjadi bahan acuan untuk revisi atau progress yang akan di deliver kedepannya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<title><bo>2.1.4</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Berkut adalah teknologi yang digunakan selema perngerjaan proyek beserta alasan penggunaannya. <bo>1.</bo> <bo>Git</bo> Tim pelaksana KP menggunakan git untuk menyimpan dan mendistribusikan hasil kerja berupa code yang sudah dikerjakan ataupun file yang berhubungan terkait code generation selama proyek berlangsung. Dengan menggunakan git, anggota tim pelaksana KP dapat membuat backup dan mengontrol versi code dengan lebih mudah. <bo>2.</bo> <bo>XAMPP</bo> Tim pelaksana KP menggunakan XAMPP untuk melakukan <it>local</it> <it>testing</it> dari proyek yang dikembangkan. Tim pelaksana KP memilih XAMPP karena mudah digunakan dan menyediakan hal-hal yang dibutuhkan dalam pemasangan web server, seperti server aplikasi (Apache), database (MariaDB), scsripting language (PHP). <bo>3.</bo> <bo>Heidi</bo> <bo>SQL</bo> Penulis menggunakan HeidiSQL sebagai tampilan untuk pengolahan database. Menurut penulis HeidiSQL memiliki tampilan yang lebih baik dan lebih mudah digunakan dibandingkan phpMyAdmin yang sudah disiapkan oleh XAMPP. Selain itu penggunaan HeidiSQL tidak menyebabkan konflik dengan aplikasi dan fitur yang sudah disediakan oleh XAMPP. <bo>4.</bo> <bo>Sublime</bo> <bo>Text</bo> Sublime text adalah text editor yang dapat digunakan untuk kepeliuan <it>code</it> <it>generating,</it> <it>markup,</it> dll. Alasan penulis menggunakan sublime text adalah 1. Penulis menyukai interfacenya 2. Memiliki banyak package yang dapat membantu penggunanya 3. Memiliki fitur split editing 4. Tampilan yang mudah dimodifikasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<title><bo>2.1.5</bo> <bo>Non-Teknis</bo></title>
+		<pagenum>7</pagenum>
+		<segment>
+			Aspek non teknis yang dibutuhkan penulis dalam pelaksanaan KP adalah kemampuan komunikasi terutama dengan stakeholder dan client pada PT Denbe Anugerah Solusindo. Dengan komunikasi yang baik, tim pelaksana KP dapat membina hubungan dengan baik dengan pihak penyelia dan mengurangi adanya kesalahpahaman saat requirement gathering dan setiap presentasi yang sudah dilakukan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<segment>
+			<bo>2.2</bo> <bo>Analisis</bo> 
+		</segment>
+		<pagenum>8</pagenum>
+		<title><bo>2.1.1</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada awal pelaksanaan kerja praktik, pihak penyelia KP memberikan briefing untuk memperkenalkan lingkungan kerja dan penjelasan tentang proyek yang akan dikerjakan oleh tim pelaksana KP. Setelah itu, tim pelaksana KP menyusun jadwal mengenai aktivitas yang akan dilakukan selama pelaksanaan KP. Jadwal yang sudah dibuat lalu dipresentasikan kepada pihak penyelia untuk mendapat <it>feedback</it> ataupun persetujuan dari pihak penyelia. Setelah mendapatkan persetujuan dari pihak penyelia KP, tim pelaksana KP melakukan analisis dan perancangan berdasarkan <it>requirement</it> yang didapatkan dari <it>requirement</it> <it>gathering</it> yang dilakukan oleh rekan penulis. Dari <it>requirement</it> <it>gathering</it> yang sudah dilakukan secara bertahap, terdapat 6 modul yang yang perlu drancang dan implementasi oleh tim pelaksana KP. Modul – modul tersebut adalah modul <it>General</it>  <it>Feature,</it> <it>Human</it> <it>Resource,</it> <it>Procurement,</it> <it>Marketing,</it> <it>Fix</it> <it>Asset,</it> dan GL. Penulis dan rekan penulis yang bertugas sebagai programmer lalu mempersiapkan kebutuhan <it>development</it> seperti meng-<it>install</it> <it>Boilerplate</it> <it>framework,</it> dan <it>software</it> yang dapat membantu jalannya <it>development,</it> dan menyiapkan migrasi di <it>framework</it> yang nantinya digunakan untuk membuat <it>model,</it> <it>view</it> dan <it>controller</it> pada modul yang akan diimplementasi. Setelah model dibuat dan selesai direvisi, penulis mulai mengimplementasi fitur-fitur yang dibutuhkan pada setiap modulnya. Fitur-fitur yang diimplementasi dibuat berdasarkan dokumen yang telah dibuat oleh rekan-rekan penulis KP. Setelah suatu modul selsai diimplementasi, modul tersebut akan di-debug dan direvisi jika ditemukan kesalahan. Setelah seluruh fitur pada modul selesai diimplementasi, rekan-rekan Penulis melakukan <it>integration</it> <it>testing.</it> Pada integration testing seluruh modul diintegrasikan dan dipastikan bahwa produk memenuhi <it>requirement</it> yang diminta oleh penyelia dan siap di-<it>deliver.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			Perbedaan pelaksanaan KP dengan KAKP terdapat pada hilangnya implementasi modul GL. Modul ini tidak diimplementasi atas perubahan <it>requirement</it> yang diminta oleh pihak penyelia. Waktu yang awalnya digunakan untuk mengimplementasikan modul GL, dialokasikan untuk mengimplementasi dan <it>debugging</it> modul-lainnya. Selama pelaksanaan KP, penulis mengalami beberapa kendala dan berhasil menanganinya dengan cara yang berbeda-beda. Kendala pertama adalah jalan menuju lokasi PT Denbe Anugerah Solusindo yang rawan macet. Untuk menghadapi masalah tersebut penulis menggunakan moda transportasi roda 2 dan berangkat 2 jam sebelum waktu yang ditentukan. Kendala kedua adalah kurangnya pengetahuan penulis mengenai pengguanaan package yang sudah tersedia di internet yang dapat membantu penulis dalam mengimplementasi suatu fitur. Untuk menghadapai masalah tersebut penulis sering bertanya ke rekan-rekan penulis baik didalam tim pelaksana KP atau diluar tim pelaksana KP. Kendala yang terakhir adalah perubahan requirement yang terjadi selam jalannya pengembangan software. Penulis merasa sangat terbantu, karena untuk menghadapi kendala ini rekan-rekan penulis dengan melakukan pemeriksaan pada setiap perubahan dan melaporkan <it>progress</it> beserta kendala yang membuat <it>requirement</it> tetap jelas dan lebih mudah diimplementasi. Suasana tempat kerja yang disediakan sangat nyaman menurut penulis. PT Denbe Anugerah Solusindo menyediakan fasilitas yang lengkap seperti mushola, dispenser, ruang tunggu, ruang istirahat, toilet dan akses internet yang cepat. Lokasi yang strategis juga memudahkan untuk memenuhi kebutuhan tim pelaksana KP. Komunikasi dengan pihak penyelia yang fleksible juga menambah kenyamanan pelaksanaan KP dan memudahkan tim pelaksana KP untuk menjalin hubungan baik dengan pihak penyelia. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<title><bo>2.1.2</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Berikut adalah mata kuliah yang memiliki keterkaitan selama pelaksanaan KP. <bo>1.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>dan</bo> <bo>Pengembangal</bo> <bo>Perangkat</bo> <bo>Lunak</bo> Metode pengembangan software jenis <it>agile</it> pernah dipelajari di mata kuliah Rekayasa Perangkat Lunak, dan pada mata kuliah pengembangan perangkat lunak digunakan metodologi Scrum yang merupakan saalah satu jenis dari <it>Agile.</it> Pada masa pelakasanaan KP, tim pelaksana KP menggunakan <it>Agile</it> sebagai acuan dalam metode perancangan dan pengambangan <it>software</it> yang dikembangkan. Pelajaran dari kuliah RPL dan pengalaman dari kuliah PPL sangat membantu penulis dalam mengerti alur dari perancangan dan pengembangan <it>software</it> selama pelaksanaan KP <bo>2.</bo> <bo>Basis</bo> <bo>Data</bo> Pada mata kuliah basis data diajarkan penggunaan sql ditingkat dasar dan lanjutan, <it>constraint</it> yang harus dipenuhi selama pembuatan <it>database,</it> dan relasi antar tabel di <it>database.</it> Meskipun tidak selalu bersentuhan langsung dengan lapisan database, pengetahuan yang didapatkan dari mata kuliah basis data membantu penulis dalam membuat model yang dalam <it>software</it> yang dikembangkan, menentukan hubungan antar model, serta <it>debugging</it> jika <it>bug</it> yang terjadi disebabkan pelanggaran <it>constraint</it> di lapisan <it>database.</it> <bo>3.</bo> <bo>Perancangan</bo> <bo>dan</bo> <bo>Pemrograman</bo> <bo>Web</bo> Pada mata kuliah PPW dikenalkan bahasa pemrograman PHP, HTML, dan Javascript. Selain itu pada akhir kuliah PPW peserta kuliah diminta membuat suatu <it>website</it> menggunakan <it>framework.</it> Selama pengembangan <it>software</it> pada masa pelaksanaan KP, penullis menggunakan <it>framework</it> yang dikembangkan menggunakan bahasa pemrograman PHP di lapisan <it>back-end,</it> dan HTML dan Javascript di lapisan <it>front-end.</it> Walaupun tidak ikut mengembangakan di bagian <it>front-end,</it> pengetahuan yang penulis dapatkan selama kuliah PPW membuat penulis memahami alur <it>framework</it> bekerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			<bo>Bab</bo> <bo>3</bo> 
+		</segment>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			<bo>3.1</bo> <bo>Kesimpulan</bo> Setelah pihak penyelia menunjukkan rasa puas pada <it>testing</it> terakhir, penulis merasa lega karena tidak mengecawakan pihak penyelia yang telah memberikan amanah kepada tim pelaksana KP. Selama proses pelaksanaan KP penulis mendapatkan pengalaman mengembangkan software di tingkat perusahaan. Terlepas dari pengalaman tersebut, penulis juga mempelajari cara berkomunikasi dan cara bekerja sama yang baik selama pengerjaan proyek. <bo>3.2</bo> <bo>Saran</bo> Setelah melaksanakan KP, penulis ingin memberikan saran kepada rekan-rekan yang nantinya akan melaksanakan KP agar mempersiapkan diri sebaik-baiknya. Menurut penulis persiapan baik dapat membantu diri kita masing-masing baik dibidang hardskill ataupun softskill serta dapat membantu jalannya tim yang akan pasangkan dengan kita saat pelaksanaan KP sehinnga dapat membantu mendapatkan hasil yang optimal di akhir pelaksanaan KP. Selain itu saya juga ingin memberikan saran kepada pihak penyelia agar lebih mempertimbangkan scope yang berikan kepada SDM yang ada agar tim pelaksana KP dapat memberikan hasil yang lebih optimal pada hasil kerja yang nantinya diberikan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Teknologi, Pt Duta Media. "End to End Solution Make Us Different." PT Denbe Anugerah Solusindo. N.p., n.d. Web. 27 Sept. 2016. [2] <it>PMBOK®</it> <it>Guide,</it> 4th ed. 2013, 2016.  [3] Setiawan, Ebta. "Kamus Besar Bahasa Indonesia (KBBI)." <it>Arti</it> <it>Kata</it> <it>Proyek.</it> N.p., n.d. Web. 27 Sept. 2016. [4] ]"Enterprise Resource Planning - ERP", Investopedia, 2005. [Online]. Available: http://www.investopedia.com/terms/e/erp.asp. [Accessed: 25- Sep- 2016]. [5] By Using an Appropriate Framework, a Developer Can Often save a Significant Amount of Time Building a Web Site. "Web Application Framework." <it>-</it> <it>DocForge.</it> N.p., n.d. Web. 27 Sept. 2016. [6] @Techopedia. "What Is a Relational Database Management System (RDBMS)? - Definition from Techopedia." <it>Techopedia.com.</it> N.p., n.d. Web. 27 Sept. 2016. [7] @Techopedia. "What Is Agile Software Development? - Definition from Techopedia." <it>Techopedia.com.</it> N.p., n.d. Web. 27 Sept. 2016. [8] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>QUALITY</bo> <bo>ASSURANCE:</bo> <bo>IMPLEMENTASI</bo> <it><bo>AUTOMATED</bo></it></title>
+		<title><it><bo>TESTING</bo></it> <bo>UNTUK</bo> <it><bo>WEB</bo></it> <it><bo>APPLICATION</bo></it> <bo>BOBOBOBO</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>PRIMA</bo> <bo>PERMATA</bo> <bo>LUSIANA</bo></title>
+		<segment>
+			<bo>1306382644</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Prima Permata Lusiana : 1306382644 Program Studi : Sistem Informasi Judul Kerja Praktik : <it>Quality</it> <it>Assurance:</it> Implementasi <it>Automated</it> <it>Testing</it> untuk <it>Web</it> <it>Application</it> Bobobobo. <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Muhammad</bo> <bo>B.</bo> <bo>Jusuf,</bo> <bo>S.</bo> <bo>Kom.,</bo> <bo>M.I.S.</bo> Ditetapkan di : Depok Tanggal : 4 Oktober 2016 
+		</segment>
+		<pagenum>ii</pagenum>
+	</page>
+	<page id="3">
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini berisi tentang proses pencarian tempat kerja praktik, profil tempat kerja praktik, kegiatan kerja praktik, serta analisis pelaksanaan kerja praktik. Penulis melaksanakan kerja praktik di Bobobobo sebagai Quality Assurance. Pelaksanaan kerja praktik berjalan selama sebelas minggu. Penulis memiliki tanggung jawab untuk membangun <it>test</it> <it>automation</it> untuk Bobobobo. Untuk memulai <it>test</it> <it>automation,</it> penulis memahami proses bisnis perusahaan, melengkapi dan membuat spesifikasi, skenario, dan <it>test</it> <it>case</it> dengan <it>manual</it> <it>testing.</it> <it>Test</it> <it>automation</it> ini dibangun dengan Selenium. Penulis dapat menerapkan pengetahuan yang didapat selama perkuliahan selama pelaksanaan kerja praktik ini. Selain itu penulis juga banyak mendapatkan pengetahuan dan pengalaman baru dengan menjalankan proses kerja praktik ini. Kata kunci: Quality assurance, Selenium, <it>test</it> <it>automation</it> 
+		</segment>
+		<pagenum>iii</pagenum>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ......................................... ii ABSTRAK ............................................................................................................................................. iii DAFTAR ISI .......................................................................................................................................... iv DAFTAR GAMBAR.............................................................................................................................. vi DAFTAR TABEL ................................................................................................................................. vii DAFTAR LAMPIRAN ........................................................................................................................ viii BAB 1 PENDAHULUAN ..................................................................................................................... 1 
+		</segment>
+		<title>1.1.</title>
+		<segment>
+			Proses Pencarian Kerja Praktik ................................................................................................. 1 
+		</segment>
+		<title>1.2.</title>
+		<segment>
+			Tempat Kerja Praktik ............................................................................................................... 2 
+		</segment>
+		<title>1.2.1.</title>
+		<segment>
+			Profil Tempat Kerja Praktik .............................................................................................. 2 
+		</segment>
+		<title>1.2.2.</title>
+		<segment>
+			Posisi Penempatan Pelaksana Kerja Praktik dalan Struktur Organisasi .............................. 3 BAB 2 ISI ............................................................................................................................................... 4 
+		</segment>
+		<title>2.1.</title>
+		<segment>
+			Pekerjaan Kerja Praktik ............................................................................................................ 4 
+		</segment>
+		<title>2.1.1.</title>
+		<segment>
+			Latar Belakang Pekerjaan ................................................................................................. 4 
+		</segment>
+		<title>2.1.2.</title>
+		<segment>
+			Tinjauan Pustaka Pekerjaan .............................................................................................. 5 2.1.2.1. Quality Assurance ........................................................................................................ 5 2.1.2.2. <it>Bugs</it> ............................................................................................................................. 5 2.1.2.3. <it>Teknik</it> pada <it>testing</it> ....................................................................................................... 5 2.1.2.4. <it>Manual</it> <it>testing</it> dan <it>Automated</it> <it>testing</it> ........................................................................... 6 
+		</segment>
+		<title>2.1.3.</title>
+		<segment>
+			Deskripsi Pekerjaan .......................................................................................................... 7 
+		</segment>
+		<title>2.1.4.</title>
+		<segment>
+			<it>Deliverable</it> dan Sampel Pekerjaan .................................................................................... 9 
+		</segment>
+		<title>2.1.5.</title>
+		<segment>
+			Teknologi ....................................................................................................................... 10 2.1.5.1. Selenium .................................................................................................................... 10 2.1.5.2. JavaScript ................................................................................................................... 11 2.1.5.3. JUnit .......................................................................................................................... 11 2.1.5.4. Firebug ....................................................................................................................... 11 2.1.5.5. IntelliJ IDEA .............................................................................................................. 12 2.1.5.6. Apache Maven ............................................................................................................ 12 2.1.5.7. Web Browsers ............................................................................................................ 12 
+		</segment>
+		<title>2.2. Analisis .................................................................................................................................. 12</title>
+		<pagenum>iv</pagenum>
+	</page>
+	<page id="5">
+		<title>2.2.1.</title>
+		<segment>
+			Pelaksanaan Kerja Praktik .............................................................................................. 13 
+		</segment>
+		<title>2.2.2.</title>
+		<segment>
+			Relevansi dengan Perkuliahan di Fasilkom UI ................................................................ 14 BAB 3 PENUTUP ................................................................................................................................. 16 
+		</segment>
+		<title>3.1. Kesimpulan ............................................................................................................................ 16</title>
+		<title>3.2.</title>
+		<segment>
+			Saran...................................................................................................................................... 16 DAFTAR REFERENSI ......................................................................................................................... 17 
+		</segment>
+		<pagenum>v</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<pagenum>vi</pagenum>
+	</page>
+	<page id="7">
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<pagenum>vii</pagenum>
+	</page>
+	<page id="8">
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ............................................. ix LAMPIRAN 2 LOG KERJA PRAKTIK .............................................................................x 
+		</segment>
+		<pagenum>viii</pagenum>
+	</page>
+	<page id="9">
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<segment>
+			Pada bab ini akan dijelaskan mengenai proses pencarian kerja praktik. Proses pencarian kerja praktik sendiri akan mencakup hal – hal seperti pertimbangan memilih tempat kerja praktik,  sumber informasi, dan proses yang dilalui sampai diterima bekerja praktik. Selain itu, pada bab ini juga akan dibahas secara rinci mengenai tempat kerja praktik seperti profil tempat kerja praktik. Profil tempat kerja praktik berisi bidang inti bisnis dan struktur singkat perusahaan. Lalu, posisi penempatan pelaksana kerja praktir dalam struktur perusahaan juga akan dibahas. 
+		</segment>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Mencari tempat kerja praktik dapat dikatakan mudah namun, dapat juga dikatakan sulit. Ketika kita terlalu lama membuang waktu dalam membuat <it>curriculum</it> <it>vitae</it> atau CV, mengontak perusahaan, menunggu balasan dari perusahaan, melakukan <it>interview,</it> hingga menunggu pengumuman, pencarian tempat kerja praktik dapat dikatakan sulit. Hal tersebut mungkin yang terjadi kepada penulis. Dari awal penulis memutuskan akan memilih tempat kerja praktik di <it>startup.</it> Penulis lebih tertarik dengan <it>startup</it> karena lingkungan kerjanya akan lebih santai dan fleksibel daripada korporat. <it>Startup</it> yang penulis inginkan juga merupakan <it>startup</it> yang memiliki produk yang bisa digunakan oleh masyarakat sehari – hari. Hal tersebut menurut penulis  menarik karena penulis merasa akan mendapat banyak pelajaran dari berbagai macam aspek. Karena waktu yang dapat dikatakan sedikit, penulis mulai mencari informasi <it>startup</it> apa yang masih <it>available</it> untuk menerima <it>intern.</it> Ketika itu penulis berbincang –  bincang  dengan senior Fasilkom UI 2012 yang pernah kerja praktik di Bobobobo dan dia menyarankan untuk mencoba mengirimkan CV kesana. Setelah mendapatkan rekomendasi tempat, penulis mencoba mencari tahu mengenai Bobobobo. Pada akhirnya penulis tertarik karena memenuhi kriteria <it>startup</it> yang penulis inginkan, memiiki <it>sleek</it> <it>design</it> pada produknya, dan dekat dengan tempat tinggal. Penulis mencoba mengirimkan 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			surel yang berisi CV dan divisi yang penulis inginkan yaitu Technology karena belum ada posisi spesifik yang <it>available</it> pada saat itu. Keesokan harinya, penulis mendapat telepon dari Bobobobo. Penulis harus mengikutin <it>interview</it> esok harinya. Satu hari setelah itu, penulis melakukan <it>interview</it> dan ditawarkan posisi menjadi Quality Assurance untuk <it>automated</it> <it>testing.</it> Pada saat itu penulis mengatakan bahwa penulis tertarik karena belum mengetahui <it>automated</it> <it>testing</it> sebelumnya. Setelah <it>interview</it> selesai, penulis disuruh untuk menunggu satu hari untuk pengumuman. Keesokan harinya penulis kembali dikontak oleh <it>human</it> <it>resource</it> dari Bobobobo dan mereka mengatakan bahwa penulis diterima untuk <it>intern</it> sebagai Quality Assurance disana. Proses selanjutnya adalah mereka mengirimkan surel yang berisi kontrak perusahaan dan waktu <it>intern</it> yang akan berlangsung. Namun, penandatanganan kontrak dilakukan pada hari pertama kerja. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada subbab ini akan dijelaskan lebih rinci mengenai tempat kerja praktik seperti profil tempat kerja praktik dan posisi penempatan pelaksana kerja praktik dalam struktur organisasi. Struktur organisasi sendiri akan dijelaskan sebelumnya pada profil tempat kerja praktik. Selain struktur organisasi, akan dijelaskan juga mengenai bidang inti bisnis tempat kerja praktik. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bobobobo merupakan <it>e-commerce</it> yang memiliki fokus di bidang <it>lifestyle,</it> <it>fashion,</it> <it>travel,</it> makanan, dan <it>design</it> [1]. Bobobobo menghubungkan <it>retailers</it> dan <it>partners</it> pada bidang –  bidang  yang  sudah  disebutkan  sebelumnya.  Selain  menghubungkan  <it>retailers</it> dan <it>partners,</it> Bobobobo juga menjual beberapa produk dengan <it>brand</it> yang disebut Teman Bobo. Target pelanggan dari Bobobobo merupakan pasar menengah keatas. Hal tersebut ditunjukkan dengan harga produk dari <it>retailers</it> dan <it>partner</it> yang dapat dikatakan relatif mahal. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			<it>Startup</it> yang berdiri pada tahun 2013 ini, menawarkan barang terkait <it>fashion</it> untuk wanita dan pria. Selain itu, barang peralatan rumah atau <it>living</it> <it>product</it> juga banyak dijual. Selain barang –  barang  yang  memiliki  <it>fashion</it>  <it>taste</it>  yang  tinggi  tersebut,  Bobobobo juga menawarkan makanan dan minuman. Tidak hanya makanan saja, namun ada <it>voucher</it> untuk beberapa restoran yang bisa dibeli lewat Bobobobo. <it>Voucher</it> yang ditawarkan selain makanan, juga tersedia untuk kategori <it>travel.</it> Terdapat berbagai macam paket wisata untuk pelanggan. Selain itu, Bobobobo juga menawarkan tiket untuk acara – acara seperti konser, teater, dan lain – lain.  
+		</segment>
+		<title>[STRUKTUR ORGANISASI]</title>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalan</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada kerja praktik ini, penulis bergabung dengan tim Technology. Dalam tim tersebut, penulis ditempatkan menjadi Quality Assurance. Penulis bertanggung jawab untuk proyek <it>test</it> <it>automation.</it> Penulis membuat dan melengkapi seluruh <it>test</it> <it>case,</it> spesifikasi, skenario, <it>script,</it> dan dokumentasi yang ada. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<segment>
+			Pada bab ini akan dijelaskan mengenai dua hal yaitu ulasan tentang pekerjaan kerja praktik dan analisis pekerjaan. Subbab mengenai pekerjaan kerja praktik akan membahas secara lengkap tentang pekerjaan kerja praktik mulai dari tinjauan pustaka hingga teknis dari pekerjaan. Sedangkan untuk subbab analisis pekerjaan akan membahas mengenai pelaksanaan kerja praktik yaitu kesesuaian rencana dengan kenyataan saat bekerja dan relevansi dengan perkuliahan di Fasilkom UI. 
+		</segment>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada subbab ini akan dijelaskan mengenai detil dari pekerjaan kerja praktik. Hal yang akan dibahas meliputi latar belakang dan tinjauan pustaka pekerjaan. Pada bagian tersebut akan dijelaskan mengenai Quality Assurance dan hal –  hal  yang  memiliki  keterkaitan  dengan pekerjaan Quality Assurance berdasarkan sumber pustaka yang ada. Yang akan dibahas selanjutnya adalah deskripsi pekerjaan. Pada bagian tersebut akan dijelaskan mengenai apa yang dilakukan selama kerja praktik dan keterkaitannya dengan tinjauan pustaka pada bagian sebelumnya. Selanjutnya yang akan dibahas adalah <it>deliverable</it> dan sampel dari pekerjaan. Karena pekerjaan ini menghasilkan kode, contoh dari kode tersebut akan dibahas secara singkat pada bagian tersebut. Pembahasan yang terakhir adalah teknologi. Pada bagian ini akan dibahas mengenai teknologi –  teknologi  apa  yang  digunakan selama kerja praktik yang mendukung pekerjaan penulis. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Seperti yang sudah dikatakan sebelumnya, penulis ditempatkan menjadi Quality Assurance selama kerja praktik. Quality Assurance diperlukan untuk berbagai macam produk. Ketika suatu produk dikembangkan oleh <it>developer,</it> sering kali <it>developer</it> sudah merasa puas dengan apa yang mereka kerjakan. Terkadang, mereka tidak dapat melihat kesalahan kecil yang telah mereka perbuat. Hal tersebut karena <it>developer</it> tidak bisa begitu saja menemukan kesalahan yang mereka perbuat sendiri. Oleh karena itu, dibutuhkan orang lain yang lebih objektif untuk mencari kekurangan 
+		</segment>
+		<pagenum>4</pagenum>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			pada suatu produk. Dengan adanya seorang Quality Assurance, sebuah bisnis dapat terus dijaga agar memenuhi kebutuhan penggunanya. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Pada subbab ini akan dijelaskan mengenai hal – hal yang berkaitan dan banyak  ditemukan dalam proses kerja praktik. Hal – hal tersebut ditinjau sesuai dengan  sumber yang didapat. <bo>2.1.2.1.</bo> <bo>Quality</bo> <bo>Assurance</bo> Quality assurance atau QA merupakan fungsi yang memastikan bahwa standar, proses, dan prosedur dari suatu <it>software</it> sudah berjalan dan diimplementasikan dengan baik dan benar [2]. Dalam kenyataan kerja praktik, seorang QA memiliki tugas utama seperti definisi yang dikatakan sebelumnya. Tugas lain dari seorang QA adalah membuat dokumentasi lengkap terkait <it>software</it> yang sedang dikembangkan, melakukan <it>testing</it> terus menerus, dan mencari <it>bugs</it> baik dalam fungsi atau tampilan. <bo>2.1.2.2.</bo> <it><bo>Bugs</bo></it> <it>Bugs</it> sendiri merupakan suatu indikasi dari tingkah laku yang tidak terduga dari suatu sistem atau program atas kebutuhan – kebutuhan yang sudah ditentukan [3].  Kata lain dari definisi <it>bugs</it> adalah suatu ketidaksempurnaan dari proses pengembangan <it>software</it> yang menyebabkan program atau <it>software</it> tersebut gagal memenuhi kebutuhan yang diinginkan [3]. Berdasarkan tinjauan pustaka tersebut, hal – hal itu merupakan tugas dari seorang QA untuk selalu bisa menemukan <it>bugs</it>  yang dapat mengganggu proses bisnis. Dalam kasus <it>e-commerce</it> seperti pada pekerjaan kerja praktik ini, <it>bugs</it> bisa menyebabkan kerugian pada proses penjualan hingga menurunnya <it>customer</it> <it>experience</it> yang dampak jangka panjangnya tentu kerugian juga. <bo>2.1.2.3.</bo> <it><bo>Teknik</bo></it> <bo>pada</bo> <it><bo>testing</bo></it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			Dalam melakukan <it>testing</it> dan penjagaan kualitas, terdapat dua jenis teknik yaitu <it>black</it> <it>box</it> dan <it>white</it> <it>box.</it> <it>Black</it> <it>box</it> <it>testing</it> dapat disebut juga <it>functional</it> <it>testing,</it> yaitu sebuah teknik membuat <it>test</it> <it>case</it> berdasarkan informasi yang didapat dari spesifikasi [4]. Dengan melakukan <it>black</it> <it>box</it> <it>testing,</it> seorang QA tidak perlu mengakses kode yang dibuat oleh <it>programmer</it> [4]. QA hanya akan fokus terhadap <it>output</it> dari <it>input</it> yang dieksekusi [4]. Pada pekerjaan praktik ini, <it>black</it> <it>box</it> <it>testing</it> dilakukan dengan mencoba fitur –  fitur  yang  ada.  Sedangkan  <it>white</it>  <it>box</it>  <it>testing</it>  merupakan kebalikan dari <it>black</it> <it>box</it> <it>testing.</it> <it>White</it> <it>box</it> <it>testing</it> dapat disebut juga <it>structural</it> <it>testing,</it> yaitu sebuah teknik membuat <it>test</it> <it>case</it> berdasarkan informasi yang didapat dari <it>source</it> <it>code</it> yang dibuat oleh <it>programmer</it> [4]. Oleh karena itu, semua <it>programmer</it> dan <it>developer</it> akan melakukan teknik <it>testing</it> ini dibandingkan QA. Teknik <it>black</it> <it>box</it> dan <it>white</it> <it>box</it> <it>testing</it> memerlukan usaha yang cukup besar. QA harus melakukan <it>testing</it> berulang kali untuk setiap <it>test</it> <it>case</it> jika ada perubahan kebutuhan. Hal tersebut akan memakan waktu yang cukup lama sehingga terkadang untuk mengejar waktu, hanya beberapa fitur terkait saja yang dicoba. Kondisi seperti itu memperbesar peluang terdapatnya <it>bugs.</it> Contoh <it>testing</it> yang dilakukan dengan cara seperti itu dapat dikatakan <it>manual</it> <it>testing.</it> <bo>2.1.2.4.</bo> <it><bo>Manual</bo></it> <it><bo>testing</bo></it> <bo>dan</bo> <it><bo>Automated</bo></it> <it><bo>testing</bo></it> Untuk produk yang berbasis <it>website,</it> menerapkan <it>manual</it> <it>testing</it> tentu akan memakan waktu yang lama untuk mencoba segala kondisi yang mungkin apalagi jika terjadi perubahan kebutuhan. Saat ini, telah berkembang <it>automated</it> <it>testing</it> dimana proses <it>testing</it> dapat dilakukan dengan menggunakan <it>tools.</it> Hal ini tentu lebih efisien, dapat menghemat waktu, dapat membantu QA dalam melakukan <it>integration</it> <it>testing</it> dan membuat dokumen. Ada berbagai <it>tools</it> yang dapat digunakan untuk mengimplementasikan <it>automated</it> <it>testing.</it> Salah satu <it>web</it> <it>automation</it> <it>testing</it> <it>tools</it> yang cukup terkenal dan mudah digunakan adalah Selenium. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<title><bo>2.1.3.</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo></title>
+		<pagenum>7</pagenum>
+		<segment>
+			Perkerjaan kerja praktik ini dimulai dari perencanaan dan perancangan kerangka acuan kerja praktik (KAKP). Kerja praktik ini dijadwalkan selama sebelas minggu termasuk dengan libur Hari Raya Idul Fitri selama satu minggu. Dalam pelaksanaan kerja praktik, penulis mendapatkan bimbingan dan pengawasan dari James Immanuel Luke selaku penyelia, Riris Septivani, dan Fitrah Anshari selaku QA. Pada perencaan pekerjaan dan KAKP, hal yang dilakukan penulis salah satunya adalah membuat dan melengkapi dokumen. Dokumen yang diperlukan meliputi dokumen yang berisi seluruh use case, spesifikasi, skenario, dan <it>test</it> <it>case.</it> Kebanyakan <it>startup</it> tidak memiliki dokumen yang lengkap terkait produk yang sedang dikembangkan. Oleh karena itu, penulis melengkapi dokumen –  dokumen  yang penulis rasa kurang. Hal tersebut tentu dengan komunikasi dan konfirmasi dari penyelia dan QA lainnya. Pekerjaan lain yang dilakukan penulis adalah melakukan <it>testing</it> dengan teknik <it>black</it> <it>box</it> <it>testing.</it> <it>Testing</it> ini sangat terkait dengan pencarian <it>bugs.</it> Setelah melakukan <it>black</it> <it>box</it> <it>testing</it> dan mengetahui alur dari produk Bobobobo, penulis mengembangkan <it>automated</it> <it>testing.</it> Selama sekitar satu bulan, penulis memahami proses bisnis dan alur dari produk Bobobobo. Karena Bobobobo merupakan suatu <it>web</it> <it>application</it> dari <it>e-commerce,</it> penulis memahami dari modul –  modul  yang  digunakan  untuk  menunjang  proses  pembelian. Modul yang paling dasar adalah User Management. Modul ini berisi sub modul yang terkait dengan pelanggan seperti <it>authentication,</it> profil pelanggan, alamat pelanggan, pemesanan, <it>wishlist,</it> dan pengembalian barang. Modul yang penting selanjutnya adalah Shopping. Modul ini berisi sub modul seperti <it>searching,</it> <it>filtering,</it> dan <it>cart.</it> Modul ini berhubungan dengan proses belanja yang dilakukan pelanggan. Modul terakhir adalah Checkout. Dalam modul ini terdapat sub modul seperti <it>review,</it> <it>shipping,</it> dan <it>payment.</it> Modul ini merupakan modul dengan prioritas paling tinggi karena terkait proses pembelian. Selain memahami alur dari setiap modul dan integrasinya, penulis juga memahami proses bisnis atau lebih mudah dikatakan proses pembelian setiap kategori. Terdapat enam kategori yang ditawarkan oleh Bobobobo yaitu, Women, Men, Living, Eats, 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Travel, dan Events. Untuk kategori Women, Men, Living, dan sebagian Eats dapat dikatakan kategori <it>shop</it> karena merupakan benda atau barang yang memiliki bentuk fisik. Sedangkan untuk kategori sebagian Eats, Travel, dan Events dikatakan kategori <it>non</it> <it>shop</it> atau <it>experience</it> karena nantinya hanya berbentuk tiket atau <it>voucher</it> digital. Perbedaan lainnya ada di cara memesan kedua kategori tersebut. Untuk kategori <it>shop,</it> pemesanan dapat dilakukan dengan mudah seperti memilih ukuran, warna, dan kuantitas. Sedangkan untuk kategori <it>experience,</it> pemesanan dilakukan dengan memilih jenis paket. Setelah itu, pihak Bobobobo akan menyetujui atau menolak pesanan tersebut. Jika pesanan diterima, akan dilanjutkan ke proses selanjutnya. Sebagai QA, penulis melakukan <it>testing</it> dan melengkapi dokumen spesifikasi, skenario, dan <it>test</it> <it>case.</it> Teknik yang dilakukan oleh QA saat ini adalah <it>black</it> <it>box</it> <it>testing.</it> Setiap QA melakukan <it>testing</it> dengan <it>test</it> <it>case</it> yang berbeda – beda.   Fitur yang paling krusial adalah Checkout. Oleh karena itu, setiap QA harus selalu melakukan <it>testing</it> setiap hari. Untuk menghindari permasalahan dengan <it>partner</it> atau <it>merchant,</it> tim QA harus membuat barang palsu untuk <it>testing.</it> Demikian, penulis juga harus memahami alur <it>back-end</it> karena ada perbedaan pembuatan barang palsu antara kategori. Seperti yang sudah dijelaskan pada sub bab sebelumnya, <it>testing</it> dilakukan agar <it>bugs</it> dapat ditemukan. <it>Bugs</it> yang ditemukan pada <it>website</it> lebih banyak pada tampilan. Namun, untuk beberapa kondisi tertentu untuk penambahan fungus baru seperti saat ada Jakarta Great Online Sale Event, <it>bugs</it> ditemukan pada fungsionalitas. Namun selama kerja praktik ini, penulis lebih bertanggung jawab sebatas memahami alur dan pencarian <it>bugs</it> minor saja. Setelah satu bulan melakukan <it>manual</it> <it>testing,</it> penulis mulai membangun dan mengembangkan <it>automated</it> <it>testing.</it> <it>Automated</it> <it>testing</it> di Bobobobo menggunakan <it>tools</it> yang cukup sering digunakan untuk <it>web</it> <it>application</it> yaitu Selenium. Selain itu, <it>framework</it> yang digunakan adalah Junit sehingga Bahasa pemrograman yang digunakan adalah Java. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			Pengembangan <it>automated</it> <it>testing</it> dimulai dengan mempersiapkan seluruh <it>software</it> dan <it>tools</it> yang diperlukan. <it>Automated</it> <it>testing</it> yang dilakukan penulis ada dua tahap. Tahap awal adalah menggunakan Selenium IDE. Pada tahap ini, penulis cukup merekam <it>test</it> <it>case</it> pada Mozilla Firefox dan memodifikasi komando yang tersedia dengan JavaScript. Setelah test case direkam, penulis dapat memutar kembali <it>test</it> <it>case</it> tersebut. Tahap kedua adalah menggunakan Selenium WebDriver. Pada tahap ini, penulis membangun seluruh <it>test</it> <it>case</it> dengan kode penuh dengan Java. Setelah kode selesai dibuat, penulis mengeksekusi <it>test</it> <it>case</it> tersebut. Jika tidak ditemukan kesalahan pada penulisan kode, akan terlihat apakah <it>test</it> <it>case</it> yang telah dibuat tersebut sudah berhasil atau gagal. Dari masing – masing tahap yang sudah disebutkan sebelumnya,  penulis membuat <it>test</it> <it>suite</it> yaitu kumpulan dari berbagai macam <it>test</it> <it>case.</it> 
+		</segment>
+		<title><bo>2.1.4.</bo> <it><bo>Deliverable</bo></it> <bo>dan</bo> <bo>Sampel</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Seperti yang sudah dijelaskan sebelumnya, penulis bertanggung jawab dalam melengkapi dan membuat spesifikasi, skenario, dan <it>test</it> <it>case.</it> Nantinya, penulis akan membuat <it>test</it> <it>automation</it> berdasarkan spesifikasi, skenarion, dan <it>test</it> <it>case</it> yang sudah dibuat. Salah satu <it>use</it> <it>case</it> yang penting adalah Add to Cart dimana pembeli dapat memasukkan barang yang sudah dipilih untuk diproses. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			Gambar 1 Penggalan kode Add to Cart Gambar diatas merupakan penggalan dari kode <it>test</it> <it>case</it> untuk <it>use</it> <it>case</it> Add to Cart. Fitur dan <it>use</it> <it>case</it> lainnya juga telah dibuat dengan cara seperti diatas. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Pada subbab ini akan dijelaskan mengenai teknologi apa yang digunakan oleh penulis ketika melaksanakan kerja praktik. Teknologi – teknologi yang disebutkan nantinya  sangat berpengaruh pada kelangsungan pekerjaan penulis. <bo>2.1.5.1.</bo> <bo>Selenium</bo> Selenium merupakan salah satu testing tools yang bersifat open source untuk mencoba web application dan mendukung berbagai macam browser, platforms, dan sistem operasi [5]. Selenium juga mendukung berbagai macam Bahasa pemrograman dan framework seperti JUnit untuk Java, PyUnit untuk Phyton, PHPUnit untuk PHP, dan lain – lain. Selenium sendiri tersedia dalam empat tools  yaitu Selenium IDE, Selenium WebDriver, Selenium RC, dan Selenium Grid. Selama kerja praktik, penulis menggunakan Selenium IDE dan Selenium WebDriver seperti yang sudah dijelaskan pada bagian sebelumnya. Selenium IDE 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			dapat dijalankan dengan Firefox karena Selenium IDE ini merupakan plug-in dari Firefox. Selenium IDE menawarkan perintah –  perintah  yang  dapat  penulis  gunakan namun, perintah tersebut terbatas. Setelah test case berhasil dibuat dengan cara direkam dan dengan perintah – perintah yang disediakan, Selenium  IDE akan membuat script dan membolehkan penggunanya untuk mengulang script tersebut. Selenium WebDriver merupakan cara membangun test case dan testing dengan keterampilan pemrograman. Dengan Selenium WebDriver, pengguna dapat menggunakan Bahasa Java, Phyton, Ruby, PHP, dan lain – lain dengan framework  yang sesuai. Untuk kerja praktik ini, penulis menggunakan Java dengan framework JUnit. Selenium WebDriver memiliki kelebihan yaitu pengguna dapat lebih bebas menciptakan test case yang diperlukan dan tidak terbatas oleh perintah – perintah yang ada seperti pada Selenium IDE.  <bo>2.1.5.2.</bo> <bo>JavaScript</bo> JavaScript merupakan salah satu Bahasa pemrograman yang penulis gunakan ketika mengoperasikan Selenium IDE. JavaScript didukung oleh <it>web</it> <it>browsers.</it> Oleh karena itu, penggunaan JavaScript untuk membangun <it>test</it> <it>case</it> ini didukung oleh Firefox. <bo>2.1.5.3.</bo> <bo>JUnit</bo> JUnit adalah <it>framework</it> sederhana dan <it>open</it> <it>source</it> untuk menulis dan mengeksekusi <it>test</it> <it>case</it> [6]. JUnit digunakan ketika mengoperasikan Selenium WebDriver. JUnit berbasis Bahasa Java dengan beberapa <it>method</it> dan fitur tambahan. Salah satu fitur yang paling sering digunakan yang disediakan oleh JUnit adalah <it>Assertion</it> untuk mencoba hasil yang diinginkan [6]. <bo>2.1.5.4.</bo> <bo>Firebug</bo> Firebug adalah salah satu <it>web</it> <it>development</it> <it>tool</it> dimana penggunanya dapat mengubah, <it>debug,</it> dan mengamati CSS, HTML, dan JavaScript pada halaman 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			<it>website</it> manapun. Firebug digunakan penulis untuk Firefox karena Firebug merupakan <it>add-ons</it> untuk Firefox. Salah satu tambahan dari Firebug adalah Firepath dimana penggunanya bisa melihat XPath, HTML, dan Sizzle. Penulis menggunakan XPath dan HTML ketika sedang membuat <it>test</it> <it>case.</it> <bo>2.1.5.5.</bo> <bo>IntelliJ</bo> <bo>IDEA</bo> IntelliJ IDEA adalah salah satu <it>integrated</it> <it>development</it> <it>environment</it> (IDE) seperti Eclipse atau NetBeans. Penulis menggunakan versi Ultimate yang mendukung <it>web,</it> <it>mobile,</it> dan <it>enterprise</it> <it>development.</it> IDE ini dipilih karena dirasa lebih mudah digunakan dibandingkan IDE lainnya untuk Selenium. <bo>2.1.5.6.</bo> <bo>Apache</bo> <bo>Maven</bo> Apache Maven merupakan <it>software</it> untuk manajemen proyek sehingga pengguna dapat mengakses proyek di IDE yang lain. Maven merupakan <it>tool</it> untuk Java sehingga berhubungan dengan teknologi –  teknologi  yang  sudah  dijelaskan  sebelumnya. Maven berhubungan juga dengan IntelliJ sehingga dapat dengan mudah diatur pada project object model (POM). <bo>2.1.5.7.</bo> <bo>Web</bo> <bo>Browsers</bo> <it>Web</it> <it>browsers</it> adalah teknologi yang paling penting untuk digunakan pada saat <it>testing.</it> Karena Selenium pada dasarnya sangat mendukung Firefox, penulis lebih sering menggunakan Firefox. Namun, ketika manual testing pada awal jadwal kerja, Chrome dan Safari juga sering digunakan. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada subbab ini akan dijelaskan mengenai pelaksanaan kerja praktik yang mencakup ulasan kesesuaian dan perbedaan dengan KAKP, ulasan tentang kendala dan cara menanganinya, dan penilaian penulis terhadap tempat kerja praktik. Selain itu, akan dijelaskan juga mengenai relevansi pekerjaan kerja praktik dengan perkuliahan di Fasilkom UI. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<pagenum>13</pagenum>
+		<segment>
+			Seperti yang sudah dijelaskan pada bagian sebelumnya, pada awal masa kerja praktik penulis beserta penyelia membuat rancangan timeline kerja yang ditulis dalam kerangka acuan kerja praktik (KAKP). Selama masa pelaksanaan kerja, <it>job</it> <it>description</it> sudah sesuai dengan yang tertulis pada KAKP. Dimulai dari awal waktu pengenalan terhadap proses bisnis dan website Bobobobo sudah sesuai dengan kenyataan pelaksanaan. Setelah itu dilanjutkan dengan melengkapi dan membuat dokumen spesifikasi dan skenario yang berjalan paralel dengan <it>manual</it> <it>testing.</it> Lalu, pada akhirnya penulis membuat <it>test</it> <it>automation</it> dengan Selenium sesuai dengan <it>test</it> <it>case</it> yang sudah dibuat sebelumnya. Perbedaan yang ada adalah yang pertama pada KAKP ditulis bahwa penulis akan lebih banyak melengkapi dokumen <it>acceptance</it> <it>test</it> dan <it>test</it> <it>case.</it> Pada kenyataannya, dokumen yang paling banyak dikerjakan oleh penulis adalah dokumen awal tentang spesifikasi dan skenario setiap fitur. Dokumen <it>acceptance</it> <it>test</it> lebih menjadi tanggung jawab QA lainnya namun tetap dikerjakan bersama penulis. Yang kedua adalah lama pelaksanaan manual testing dan automated testing. Pada KAKP direncanakan bahwa manual testing akan dikerjakan selama empat minggu dan hanya akan fokus dengan Checkout Module. Kenyataannya, manual testing merupakan salah satu cara membangun <it>test</it> <it>case,</it> spesifikasi, dan skenario. Karena pergeseran waktu tersebut, penulis lebih memiliki banyak waktu untuk melakukan <it>automated</it> <it>testing</it> yaitu selama enam minggu. Pelaksanaan kerja praktik tentu memiliki beberapa kendala. Kendala pertama adalah pekerjaan test automation ini belum pernah diimplementasikan sebelumnya sehingga penulis harus memulai semuanya dari awal. Penyelia dapat membantu penulis namun tidak dapat selalu membimbing penulis secara penuh karena kesibukannya dan fokus terhadap pengembangan <it>software.</it> Untuk mengatasi masalah tersebut, penulis mencari sumber sebanyak –  banyaknya  mengenai  test  automation  dan  Selenium  secara mandiri. Penulis juga menanyakan orang lain yang pernah menggunakan Selenium. Dengan sumber –  sumber yang didapatkan, penulis bisa mengimplementasikan <it>test</it> <it>automation.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			Kendala yang kedua adalah kurangnya <it>programming</it> <it>skill</it> pada QA yang lain. Karena waktu kerja praktik ini hanya sepuluh minggu dan waktu untuk membangun test automation hanya enam minggu, penulis tidak bisa menyelesaikan semua fitur yang ada. Oleh karena itu, penulis wajib <it>handover</it> proyek ini kepada QA lainnya. Penulis harus menjelaskan implementasi Selenium dari awal dan memberikan tutorial singkat mengenai Java kepada QA yang ada. Untungnya pengarahan yang diberikan penulis dapat ditangkap dengan cepat oleh QA lainnya. Secara garis besar tempat kerja praktik penulis yaitu Bobobobo adalah tempat yang menyenangkan. Lingkungan kerjanya santai dan orang – orang disana juga banyak  bercanda dan tidak terlalu serius. Selain itu, batasan antara atasan dan bawahan juga tidak terlalu terasa karena hubungan yang erat antara satu sama lain tapi, untuk saat –  saat tertentu tetap ada waktunya untuk serius. Namun, dibalik semua itu penulis merasa Bobobobo kurang menantang dan memberikan pelajaran banyak untuk penulis sehingga jika ada kesempatan untuk kerja praktik lagi mungkin penulis akan mencari <it>startup</it> yang lain. Selain itu karena Bobobobo bukanlah <it>startup</it> yang berbasis teknologi, sumber daya manusia di tim teknologi sangatlah sedikit. Sehingga terkadang beban pekerjaan menjadi tidak sesuai. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Perkuliahan sangat membantu dalam pelaksanaan kerja praktik. Dengan pengetahuan yang didapatkan penulis dapat menrapkannya selama kerja praktik. Mata kuliah yang menunjang pelaksanaan kerja praktik ini antara lain Rekayasa Perangkat Lunak (RPL), Basis Data, Proyek Pengembangan Sistem Informasi (Propensi), Struktur Data dan Algoritma (SDA), dan Proyek Pengembangan Web (PPW). Mata kuliah RPL membantu penulis memahami tahapan SDLC yang diterapkan di Bobobobo dan cara membuat use case spesification. Mata kuliah Basis Data membantu penulis dalam memahami relational database. Mata kuliah Propensi, khususnya, sangat membantu penulis dalam berbagai aspek. Penulis memahami cara penulisan dokumen mulai dari dokumen SRS hingga UAT. Mata kuliah selanjutnya yang tidak kalah penting adalah SDA. SDA sangat membantu penulis dalam 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<segment>
+			membangun test automation dengan Java object oriented programming. Selanjutnya mata kuliah PPW membantu penulis untuk mengetahui elemen – elemen dan struktur  website Bobobobo. Seperti yang sudah dijelaskan bahwa perkuliahan sangat membantu proses kerja praktik. Namun, pada kenyataannya ada beberapa teori – teori  yang lebih fleksibel  dan tidak banyak digunakan. Contoh perbedaan tersebut adalah dokumentasi terkadang dibuat tidak serinci yang ada pada Propensi karena setiap divisi sudah sibuk dengan pekerjaannya sehingga terkadang diperlukan sumber daya baru untuk mengurus dokumen atau menjadi technical writer. Namun, pada intinya penulis memahami suasana perkuliahan sangat berbeda dengan suasana bekerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			Pada bab ini akan dijelaskan kesimpulan dari pelaksanaan kerja praktik dan saran untuk pelaksanaan kerja praktik selanjutnya untuk tempat kerja praktik. 
+		</segment>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Mencari kerja praktik kadang memakan waktu yang cukup lama sehingga dibutuhkan persiapan dari jauh hari dan kesabaran. Pemilihan tempat dan posisi kerja praktik juga harus didasari minat agar nyaman ketika menjalani kerja praktik. Penulis melaksanakan kerja praktik di Technology Team Bobobobo sebagai Quality Assurance. Pelaksanaan kerja praktik ini adalah sebelas minggu termasuk libur Hari Raya Idul Fitri. Selama menjadi QA, penulis bertanggung jawab untuk melakukan <it>test</it> <it>automation</it> yang dimulai dari memahami proses bisnis perusahaan, melengkapi dan membuat spesifikasi, skenario, dan <it>test</it> <it>case</it> dengan manual testing. <it>Test</it> <it>automation</it> ini dibangun dengan Selenium. Penulis merasa pengetahuan yang didapatkan selama perkuliahan sangat membantu dalam melaksanakan pekerjaan. Penulis juga mengalami beberapa kendala dalam pelaksanaan kerja praktik. Namun, kendala tersebut harus dihadapi dan pada akhirnya penulis mendapatkan pembelajaran baru yang berbeda dengan perkuliahan. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Saran untuk Bobobobo adalah agar memiliki Product Manager sehingga ada wadah untuk mengurus segala hal terkait teknis karena setiap posisi terkadang sudah terbebani dengan pekerjaan mereka masing – masing dan tidak ada jembatan yang dapat mengontrol apa  yang menjadi tugas masing –  masing  orang  dan  mana  yang  bukan.  Selain  itu,  agar  dokumen yang ada di Bobobobo menjadi lebih rinci dan rapi sehingga setiap orang bisa mengetahui hal – hal yang ingin diketahui lewat dokumen dan Product Manager. Saran  selanjutnya adalah sebaiknya Bobobobo melebarkan Technology team jika ingin terus bersaing dengan <it>e-commerce</it> lainnya. 
+		</segment>
+		<pagenum>16</pagenum>
+	</page>
+	<page id="25">
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] 2016. [Online]. Available: https://id.linkedin.com/company/pt-bobobobo. [Accessed: 20- Sep- 2016]. [2] "SQA Software Quality Assurance", <it>Sqa.net,</it> 2016. [Online]. Available: http://www.sqa.net/. [Accessed: 27- Sep- 2016]. [3] S. Aleem, L. Capretz and F. Ahmed, "Benchmarking Machine Learning Techniques for Software Defect Detection", <it>IJSEA,</it> vol. 6, no. 3, pp. 11-23, 2015. [4] S. Nidhra, "Black Box and White Box Testing Techniques - A Literature Review", <it>International</it> <it>Journal</it> <it>of</it> <it>Embedded</it> <it>Systems</it> <it>and</it> <it>Applications,</it> vol. 2, no. 2, pp. 29-50, 2012. [5] R. Angmo and M. Sharma, "Performance evaluation of web based automation testing tools", <it>2014</it> <it>5th</it> <it>International</it> <it>Conference</it> <it>-</it> <it>Confluence</it> <it>The</it> <it>Next</it> <it>Generation</it> <it>Information</it> <it>Technology</it> <it>Summit</it> <it>(Confluence),</it> 2014. [6] "JUnit - Frequently Asked Questions", <it>Junit.org,</it> 2016. [Online]. Available: http://junit.org/junit4/faq.html#overview_1. [Accessed: 28- Sep- 2016]. 
+		</segment>
+		<pagenum>17</pagenum>
+	</page>
+	<page id="26">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+	</page>
+	<page id="27">
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>x</pagenum>
+	</page>
+
+</document>

@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<it><bo>User</bo></it> <it><bo>Experience</bo></it> <it><bo>Research</bo></it> <bo>Bukalapak</bo> <it><bo>(Product</bo></it> <it><bo>Discovery</bo></it> <it><bo>to</bo></it> <it><bo>Paid</bo></it> &amp; <it><bo>User</bo></it> <it><bo>Retention)</bo></it> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>Puti</bo> <bo>Fitri</bo> <bo>Larasati</bo> <bo>1306397923</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title>HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK</title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Puti Fitri Larasati : 1306397923 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>User</it> <it>Experience</it> <it>Research</it> Bukalapak (<it>Product</it> <it>Discovery</it> <it>to</it> <it>Paid</it> &amp; <it>User</it> <it>Retention)</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.Sc.)</bo> Ditetapkan di : …………….  Tanggal : …………….  
+		</segment>
+		<pagenum>ii</pagenum>
+	</page>
+	<page id="3">
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			 Dalam rangka memenuhi mata kuliah Kerja Praktik, penulis melaksanakan Kerja Praktik di PT Bukalapak sebagai <it>User</it> <it>Experience</it> <it>Researcher</it> <it>intern.</it> Posisi kerja tersebut meberikan tanggung jawab kepada penulis untuk melakukan riset dengan beberapa metodologi yang berbeda untuk fitur yang sedang dikerjakan oleh tim <it>product</it> dan <it>engineer</it> PT Bukalapak. Laporan ini akan menjelaskan proses pencarian Kerja Praktik yang dialami oleh penulis, profil perusahaan Tempat Kerja Praktik, pelaksanaan Kerja Praktik, analisis penulis selama melaksanakan Kerja Praktik, dan kesimpulan serta saran penulis setelah selesai melaksanakan Kerja Praktik. Kata kunci: Bukalapak, <it>User</it> <it>experience,</it> UX <it>research,</it> 
+		</segment>
+		<pagenum>iii</pagenum>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			 <bo>ABSTRAK</bo> <bo>..................................................................................................................</bo> <bo>iii</bo> <bo>DAFTAR</bo> <bo>ISI</bo> <bo>...............................................................................................................</bo> <bo>iv</bo> <bo>DAFTAR</bo> <bo>GAMBAR</bo> <bo>..................................................................................................</bo> <bo>vi</bo> <bo>DAFTAR</bo> <bo>TABEL</bo> <bo>.....................................................................................................</bo> <bo>vii</bo> <bo>DAFTAR</bo> <bo>LAMPIRAN</bo> <bo>............................................................................................</bo> <bo>viii</bo> <bo>BAB</bo> <bo>1</bo> <bo>PENDAHULUAN</bo> <bo>.........................................................................................</bo> <bo>9</bo> 
+		</segment>
+		<title><bo>1.1.</bo></title>
+		<segment>
+			<bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>................................................................</bo> <bo>9</bo> 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>..............................................................................</bo> <bo>11</bo></title>
+		<title><bo>1.2.1.</bo></title>
+		<segment>
+			<bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>...........................................................</bo> <bo>11</bo> 
+		</segment>
+		<title><bo>1.2.2.</bo></title>
+		<segment>
+			<bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> <bo>..........................................................................................................</bo> <bo>13</bo> <bo>BAB</bo> <bo>2</bo> <bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>......................................................</bo> <bo>14</bo> 
+		</segment>
+		<title><bo>2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> <bo>.......................................................................</bo> <bo>14</bo></title>
+		<title><bo>2.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo> <bo>......................................................................................</bo> <bo>14</bo></title>
+		<title><bo>2.2.1.</bo></title>
+		<segment>
+			<it><bo>User</bo></it> <it><bo>Experience</bo></it> <bo>dan</bo> <bo>UX</bo> <it><bo>Research</bo></it> <bo>...................................................</bo> <bo>14</bo> 
+		</segment>
+		<title><bo>2.2.2.</bo></title>
+		<segment>
+			<it><bo>Scrum</bo></it> <bo>..................................................................................................</bo> <bo>15</bo> 
+		</segment>
+		<title><bo>2.2.3.</bo> <it><bo>Heuristic</bo></it> <it><bo>Evaluation</bo></it> <bo>..........................................................................</bo> <bo>15</bo></title>
+		<title><bo>2.2.4.</bo></title>
+		<segment>
+			<it><bo>Usability</bo></it> <it><bo>Testing</bo></it> <bo>.................................................................................</bo> <bo>15</bo> 
+		</segment>
+		<title><bo>2.2.5.</bo></title>
+		<segment>
+			<it><bo>Competitive</bo></it> <it><bo>Analysis</bo></it> <bo>..........................................................................</bo> <bo>16</bo> 
+		</segment>
+		<title><bo>2.2.6.</bo></title>
+		<segment>
+			<it><bo>User</bo></it> <it><bo>Interview</bo></it> <bo>....................................................................................</bo> <bo>16</bo> 
+		</segment>
+		<title><bo>2.2.7.</bo> <it><bo>Wireframe</bo></it> <bo>...........................................................................................</bo> <bo>16</bo></title>
+		<title><bo>2.3.</bo> <bo>Metodologi</bo> <bo>.................................................................................................</bo> <bo>17</bo></title>
+		<title><bo>2.4.</bo> <bo>Teknologi</bo> <bo>...................................................................................................</bo> <bo>18</bo></title>
+		<pagenum>iv</pagenum>
+	</page>
+	<page id="5">
+		<title><bo>2.4.1.</bo> <bo>Trello</bo> <bo>........................................................................................................</bo> <bo>18</bo></title>
+		<title><bo>2.4.2.</bo> <bo>Balsamiq</bo> <bo>Mockups</bo> <bo>..................................................................................</bo> <bo>18</bo></title>
+		<title><bo>2.4.3.</bo> <bo>Google</bo> <bo>Drive,</bo> <bo>Google</bo> <bo>Docs,</bo> <bo>dan</bo> <bo>Google</bo> <bo>Slides</bo> <bo>....................................</bo> <bo>18</bo></title>
+		<title><bo>2.4.4.</bo> <bo>Teamviewer</bo> <bo>.............................................................................................</bo> <bo>18</bo></title>
+		<title><bo>2.5.</bo> <bo>Gambaran</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>..................................................</bo> <bo>18</bo></title>
+		<segment>
+			<bo>BAB</bo> <bo>3</bo> <bo>ANALISIS....................................................................................................</bo> <bo>21</bo> 
+		</segment>
+		<title><bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> <bo>............................................</bo> <bo>21</bo></title>
+		<segment>
+			<bo>Tabel</bo> <bo>1.</bo> <bo>Rencana</bo> <bo>Jadwal</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>.............................................................</bo> <bo>21</bo> 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganannya</bo> <bo>....................</bo> <bo>22</bo></title>
+		<title><bo>3.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> <bo>......................................</bo> <bo>22</bo></title>
+		<title><bo>3.3.1.</bo></title>
+		<segment>
+			<bo>Sistem</bo> <bo>Interaksi</bo> <bo>.....................................................................................</bo> <bo>22</bo> 
+		</segment>
+		<title><bo>3.3.2.</bo></title>
+		<segment>
+			<bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>.................................................................</bo> <bo>22</bo> 
+		</segment>
+		<title><bo>3.3.3.</bo></title>
+		<segment>
+			<bo>Proyek</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>.....................................................................</bo> <bo>23</bo> 
+		</segment>
+		<title><bo>3.3.4.</bo> <bo>Komunikasi</bo> <bo>Bisnis</bo> <bo>dan</bo> <bo>Teknis</bo> <bo>............................................................</bo> <bo>23</bo></title>
+		<title><bo>3.4.</bo></title>
+		<segment>
+			<bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>Selama</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>......................................</bo> <bo>23</bo> 
+		</segment>
+		<title><bo>3.5.</bo></title>
+		<segment>
+			<bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>.............................</bo> <bo>23</bo> <bo>BAB</bo> <bo>4</bo> <bo>PENUTUP....................................................................................................</bo> <bo>25</bo> 
+		</segment>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo> <bo>................................................................................................</bo> <bo>25</bo></title>
+		<title><bo>4.2.</bo></title>
+		<segment>
+			<bo>Saran</bo> <bo>..........................................................................................................</bo> <bo>25</bo> <bo>DAFTAR</bo> <bo>REFERENSI</bo> <bo>............................................................................................</bo> <bo>26</bo> <bo>LAMPIRAN</bo> <bo>1</bo> <bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>.................................</bo> <bo>27</bo> <bo>LAMPIRAN</bo> <bo>2</bo> <bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>...............................................................</bo> <bo>28</bo> 
+		</segment>
+		<pagenum>v</pagenum>
+	</page>
+	<page id="6">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			(ditambahkan setelah revisi selesai) 
+		</segment>
+		<pagenum>vi</pagenum>
+	</page>
+	<page id="7">
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			(ditambahkan setelah revisi selesai) 
+		</segment>
+		<pagenum>vii</pagenum>
+	</page>
+	<page id="8">
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			(ditambahkan setelah revisi selesai) 
+		</segment>
+		<pagenum>viii</pagenum>
+	</page>
+	<page id="9">
+		<pagenum>9</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<segment>
+			 <bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> tipe Penulis memulai proses pencarian kerja praktik dengan mempersiapkan berkas- berkas yang akan digunakan untuk melamar kerja praktik. Berkas-berkas tersebut antara lain adalah resume, transkrip nilai, dan surat keterangan mahasiswa. Persiapan berkas-berkas tersebut penulis lakukan pada akhir bulan Februari 2016 bersamaan dengan pencarian informasi mengenai pelaksanaan kerja praktik melalui konsultasi kepada beberapa senior di Fakultas Ilmu Komputer Universitas Indonesia. Sebelum penulis melamar kerja praktik, penulis terlebih dahulu berkonsultasi kepada beberapa senior mengenai tipe tempat kerja praktik dan posisi penempatan kerja praktik. Hal ini penulis lakukan untuk mendapatkan gambaran mengenai proses kerja praktik yang berlangsung pada dua tipe tempat kerja praktik yaitu <it>startup</it> dan korporat. Melalui konsultasi yang penulis lakukan, penulis menemukan bahwa <it>startup</it> merupakan tempat kerja praktik yang dapat membantu penulis untuk berkembang lebih baik. Sehingga penulis memutuskan untuk mencari lowongan kerja praktik di berbagai macam <it>startup</it> di Indonesia. Pada saat itu, penulis memutuskan untuk tidak memilih posisi <it>software</it> <it>engineer</it> dikarenakan kemampuan penulis yang dirasa kurang dalam bidang <it>programming.</it> Maka dari itu, penulis kembali berkonsultasi dan mencari informasi menganai alternatif posisi pekerjaan yang tidak melibatkan <it>programming.</it> Setelah melakukan konsultasi dan pencarian informasi, penulis menemukan berbagai macam alternatif posisi seperti SEO, <it>digital</it> <it>marketing</it> dan <it>user</it> <it>experience</it> <it>designer.</it> Ketertarikan penulis terhadap pengembangan <it>web</it> mendorong penulis untuk tetap mempertimbangkan posisi <it>front-end</it> <it>developer</it> dan alternatif posisi yang penulis temukan. Setelah penulis selesai mempersiapkan berkas dan berkonsultasi, penulis kemudian mulai melakukan pencarian tempat kerja praktik. Pencarian ini penulis lakukan dengan mengunjungi beberapa situs <it>startup</it> yang ada di Indonesia. Melalui informasi yang diberikan situs-situs tersebut penulis mulai melamar kerja praktik pada <it>startup</it> yang memiliki lowongan dengan posisi yang penulis inginkan. Tidak hanya melalui situs perusahaan, penulis juga mengikuti <it>job</it> <it>fair</it> yang diadakan oleh CDC UI. Pada <it>job</it> <it>fair</it> tersebut penulis menyerahkan resume kepada beberapa perusahaan teknologi dan perbankan yang ada. Berkat <it>job</it> <it>fair</it> tersebut penulis mendapatkan dua panggilan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>10</pagenum>
+		<segment>
+			wawancara. Namun, karena beberapa alasan penulis memutuskan untuk tidak melanjutkan proses perekrutan. Karena tidak mendapatkan respon dari lamaran kerja praktik yang penulis lakukan melalui situs salah satu <it>startup,</it> penulis memutuskan untuk mengirim ulang lamaran melalui surel kepada HRD perusahaan. Tidak lama setelah penulis mengirimkan lamaran, penulis mendapatkan respon mengenai tugas yang harus dilakukan sebagai salah satu proses perekrutan. dengan posisi <it>front-end</it> <it>developer.</it> Penulis kemudian mengerjakan tugas yang diberikan dan mengirimkan balasan surel kepada HRD mengenai jawaban dari tugas tersebut. Setelah HRD me-<it>review</it> hasil tugas yang penulis kerjakan, penulis mendapatkan panggilan wawancara. Beberapa hari setelah wawancara selesai, penulis mendapatkan kabar bahwa penulis belum dapat diterima oleh perusahaan tersebut. Salah satu teman penulis mengabarkan penulis mengenai lowongan UX <it>designer</it> yang ada di salah satu perusahaan <it>E-commerce</it> di Indonesia. Informasi tersebut didapatkan dari salah satu staf pengajar Fakultas Ilmu Komputer Universitas Indonesia. Seperti proses yang sudah penulis laksanakan sebelumnya, penulis mengirimkan resume dan tersebut dan melaksanakan wawancara. Sayangnya, penulis kembali mengalami penolakan dari perusahaan tersebut. Walaupun penulis merasa sedikit kecewa mengenai hal tersebut, penulis kembali melanjutkan pencarian tempat kerja praktik. Persiapan portofolio yang penulis lebih mendalami bidang UX dan memutuskan untuk mencari lowongan kerja praktik dengan fokus posisi UX <it>designer</it> atau UX <it>researcher.</it> Penulis kemudian mendapatkan informasi mengenai lowongan kerja praktik dengan posisi UX <it>researcher</it> yang ada di Bukalapak. Setelah mendengar kabar ini, penulis melamar kerja praktik dengan mengirimkan lamaran melalui surel kepada HRD perusahaan. Lamaran tersebut direspon dengan baik dan penulis mendapatkan panggilan wawancara. Penulis mempersiapkan diri dengan mempelajari ulang materi <it>user</it> <it>experience</it> dan metodologi yang digunakan selama riset. Setelah melaksanakan wawancara, penulis menunggu kabar mengenai lamaran penulis. Kabar tersebut datang empat hari setelah penulis melaksanakan wawancara. Pihak Bukalapak menerima lamaran penulis dan menawarkan posisi UX <it>researcher</it> <it>intern</it> kepada penulis. Karena tersebut sesuai dengan keinginan penulis, penulis memutuskan untuk menerima tawaran dan melaksanakan kerja praktik di Bukalapak. juga portofolio kepada perusahaan lakukan meyakinkan penulis untuk tawaran 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>11</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukalapak merupakan salah satu <it>e-commerce</it> terbesar yang ada di Indonesia. Bukalapak memiliki model bisnis berupa <it>customer-to-customer</it> (C2C) yang juga biasa disebut <it>marketplace</it> [1]<it>.</it> Bukalapak menyediakan layanan yang meyediakan sarana untuk jual-beli barang. Karena model bisnisnya yang berupa <it>marketplace,</it> seluruh konsumen Bukalapak dapat menjadi pembeli dan penjual barang di situs layanan Bukalapak [1]. Bukalapak menyediakan layanan dalam berbagai macam <it>platform</it> seperti situs dan aplikasi <it>mobile.</it> <bo>Gambar</bo> <bo>1.</bo> Logo Bukalapak Bukalapak memiliki misi untuk memberdayakan usaha kecil dan menegah (UKM) yang ada di seluruh Indonesia [1]. Saat ini, Bukalapak telah melayani berjuta-juta konsumen di seluruh wilayah Indonesia dengan jumlah transaksi sebesar 20 miliar per harinya [2]. Bukalapak memiliki tujuh divisi yang dibawahi oleh <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO), <it>Chief</it> <it>Operation</it> <it>Officer</it> (COO) dan <it>Chief</it> <it>Financial</it> <it>Officer</it> (CFO) serta kurang lebih 36 departmen. Struktur organisasi Bukalapak dapat dilihat pada Gambar 2. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>12</pagenum>
+		<segment>
+			<bo>Gambar</bo> <bo>2.</bo> Struktur Organisasi Bukalapak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>13</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Selama kerja praktik penulis menempati posisi UX <it>researcher</it> yang berada di bawah departemen <it>User</it> <it>Experience</it> yang berada dibawah divisi produk.</it> Departemen ini bertujuan untuk memastikan produk yang dikembangkan oleh Bukalapak memiliki <it>user</it> <it>experience</it> yang baik. Penulis ditempatkan di dalam tim <it>Product</it> <it>Discovery,</it> penjelasan mengenai pekerjaan yang dilakukan selama berada di tim terebut akan dijelaskan pada bagian selanjutnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>14</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			tidak Pengembangan sebuah produk seringkali hanya berfokus pada penggunaan teknologi dan <it>business</it> <it>goals.</it> Kebiasaan ini dapat menyebabkan produk yang dihasilkan tidak sesuai dengan kebutuhan pengguna dan tidak pat memenuhi kebutuhan pengguna. Dalam mengembangkan sebuah produk, kita harus selalu mengutamakan pengguna dan melibatkan pengguna sesering mungkin. Hal ini dikarenakan penciptaan produk yang ditujukan pada pengguna dan ditujukan untuk mengatasi masalah yang pengguna miliki. Sayangnya, seringkali pengembang produk terlalu memikirkan pengalaman yang didapatkan pengguna dari produk tersebut. Maka, dibutuhkan sebuah peran yang dapat menyatukan aspek teknologi, bisnis dan juga pengguna. Pada konteks ini, UX dapat berperan untuk menyatukan ketiga aspek tersebut. Bukalapak menempatkan departemen UX dibawah divisi produk. Departmen ini akan melaksanakan metode, menganalisis, mendokumentasikan dan melaporkan umpan balik yang berasal dari hasil riset kepada tim <it>poduct</it> dan tim <it>engineer.</it> Hasil riset tersebut akan menjadi pertimbangan dalam mengembangkan sebuah fitur pada produk Bukalapak. Maka, UX <it>researcher</it> juga akan bekerja sama dengan tim dalam divisi produk untuk menentukan topik yang akan diteliti lebih lanjut melalui riset dalam mengembangkan sebuah fitur pada produk Bukalapak. Selama pelaksanaan kerja praktik, penulis berperan sebagai salah satu UX <it>research</it> pada tim <it>Product</it> <it>Discovery</it> yang bekerja sama dengan <it>lead</it> tim, <it>software</it> <it>engineer</it> dan <it>data</it> <it>analyst.</it> Tim tersebut bertanggung jawab untuk mengembangkan fitur yang mendukung penemuan barang yang dijual melalui Bukalapak seperti fitur pencarian barang, fitur pencarian penjual dan fitur <it>add</it> <it>to</it> <it>cart.</it> Dalam mengembangkan fitur, tim <it>Product</it> <it>Discovery</it> menggunakan metodologi <it>scrum.</it> 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<title><bo>2.2.1.</bo> <it><bo>User</bo></it> <it><bo>Experience</bo></it> <bo>dan</bo> <bo>UX</bo> <it><bo>Research</bo></it></title>
+		<segment>
+			<it>User</it> <it>experience</it> (UX) adalah pengelaman, perasaan, emosi, seluruh aspek yang dirasakan oleh pengguna selama berinteraksi dengan sebuah produk, jasa, maupun 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>15</pagenum>
+		<segment>
+			perusahaan [3]. Keberadaan UX dibutuhkan untuk memebihi kebutuhan pengguna atas produk atau jasa tanpa kesulitan. Maka, UX <it>research</it> adalah sebum aktivitas yang dilaksanakan untuk menginvestigasi sesuatu secara sistematis [4]. Tujuan dari UX <it>research</it> adalah untuk mendapatkan konteks dan masukan pada sebuah proses desain, menemukan atau memvalidasi masalah, mengidentifikasi kebutuhan pengguna dan mengidentifikasi <it>requirements</it> dari produk [4]. Terdapat berbagai macam metodologi riset yang dapat dilakukan seperti <it>usability</it> <it>testing,</it> <it>contextual</it> <it>interview,</it> <it>competitive</it> <it>analysis,</it> dsb. 
+		</segment>
+		<title><bo>2.2.2.</bo> <it><bo>Scrum</bo></it></title>
+		<segment>
+			Scrum merupakan salah satu <it>framework</it> <it>agile</it> yang dapat digunakan untuk mengembangkan produk yang kompleks [5]. Pada <it>scrum</it> terdapat empat aktivitas utama yaitu <it>sprint</it> <it>planning,</it> <it>daily</it> <it>scrum</it> <it>meeting,</it> <it>sprint</it> <it>review,</it> dan <it>sprint</it> <it>retrospective.</it> <it>Sprint</it> <it>planning</it> merupakan activities yang laksanakan sebelum memulai <it>sprint</it> untuk mempersiapakan detail mengenai <it>sprint</it> yang akan berlangsung. Selama <it>sprint</it> berjalan anggota tim diharuskan melaksanakan <it>daily</it> <it>scrum</it> <it>meeting</it> untuk melaporkan <it>progress</it> pekerjaan yang judah dilakukan oleh masing-masing anggota tim serta melaporkan apa yang akan dikerjakan selanjutnya. <it>Sprint</it> <it>review</it> akan dilaksanakan setelah <it>sprint</it> selesai yang kemudian dilanjutkan dengan <it>sprint</it> <it>retrospective.</it> <it>Sprint</it> <it>review</it> ditujukan untuk membahas pencapaian yang diselesaikan selama <it>sprint,</it> mengevaluais apakah seluruh <it>backlog</it> sudah selesai diselesaikan atau belum. Pada <it>sprint</it> <it>retrospective,</it> seluruh anggota tim merefleksikan pekerjaan yang dilakukan selama <it>scrum</it> agar dapat memperbaiki jalannya <it>sprint</it> selanjutnya. <bo>2.2.3.</bo> <it><bo>Heuristic</bo></it> <it><bo>Evaluation</bo></it> <it>Heuristic</it> <it>evaluation</it> adalah salah satu teknik riset UX yang dapat dilakukan untuk mencari masalah <it>usability</it> pada sebuah desain tampilan UI yang sudah dibuat [6]. Pada pelaksanaannya, <it>heuristic</it> <it>evaluation</it> dilaksanakan oleh beberapa ahli dengan mengevaluasi produk berdasarkan prinsip - prinsip <it>usability</it> atau yang dapat disebut <it>heuristic.</it> <it>Heuristic</it> <it>evaluation</it> sebaiknya dilaksanakan oleh lebih dari satu ahli karena mungkin terdapat penemuna yang berbeda antara satu ahli dengan ahli lainnya. Setelah evaluasi selesai dilaksanakan, para ahli akan berkumpul dan menyampaikan masalah yang ditemukan pada produk. <bo>2.2.4.</bo> <it><bo>Usability</bo></it> <it><bo>Testing</bo></it> <it>Usability</it> <it>testing</it> merupakan serangkaian testing yang dilaksakan untuk mengevaluasi produk atau jasa dengan melakukan testing langsung kepada pengguna yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>16</pagenum>
+		<segment>
+			sebagai moderator representatif. <it>Usability</it> <it>testing</it> bertujuan untuk mengidentifikasi masalah <it>usability,</it> mengumpulkan data kualitatif, mengumpulkan data kuantitatif untuk menentukan kepuasan pengguna terhadap produk yang diuji [7]. Terdapat tiga tahapan yang akan dilewati pada <it>usability</it> <it>testing,</it> tahapan tersebut adalah sebelum <it>testing,</it> <it>testing,</it> dan setelah <it>testing.</it> Pada <it>usability</it> <it>testing</it> terdapat dua buah peran yaitu fasilitator yang testing dan <it>observer</it> yang mengamati dan berperan mendokumentasikan tindakan dan perilaku partisipan selama testing [8]. Sebelum melaksanakan <it>usability</it> <it>testing,</it> fasilitator harus terlebih dahulu menentukan tujuan dari <it>usability</it> <it>testing.</it> Selanjutnya, fasilitator akan menyusun <it>task</it> <it>scenario</it> yang akan digunakan pada saat testing, menyiapkan perlengkapan testing lainnya, serta mencari partisipan yang sesuai dengan target pengguna produk. Sebelum melaksanakan testing, <it>pilot</it> <it>testing</it> harus terlebih dahulu dilaksanakan untuk memastikan bahwa seluruh persiapan telah siap untuk digunakan. Jika diperlukan, kita dapat memperbaiki <it>task</it> <it>scenario</it> yang akan digunakan. Selama testing, fasilitator akan membimbing partisipan untuk melaksanakan beberapa tugas dengan berkomentar secara vokal. Setelah <it>testing</it> selesai, fasilitator akan berdiskusi dengan <it>observer</it> mengenai hasil yang didapatkan selama testing dan menganalisis temuan yang bermanfaat untuk disampaikan kepada tim pengembang. <bo>2.2.5.</bo> <it><bo>Competitive</bo></it> <it><bo>Analysis</bo></it> Metodi riset UX lainnya adalah <it>competitive</it> <it>analysis,</it> <it>competitive</it> <it>analysis</it> adalah proses mengidentifikasi dan mengevaluasi strategi yang digunakan oleh kompetitor bisnis untuk mengetahui kelebihan dan kelemahan produk kompetitor [9]. Hasil <it>competitive</it> <it>analysis</it> nantinya dapat digunakan untuk memberikan masukan perbaikan terhadap produk yang kita kembangkan. <bo>2.2.6.</bo> <it><bo>User</bo></it> <it><bo>Interview</bo></it> Salah satu metode riset UX yang sering digunakan selama masa pengembangan sebuah produk atau jasa adalah <it>user</it> <it>interview.</it> Tipe riset ini memberikan data kualitatif yang berasak dari calon pengguna. <it>User</it> <it>interview</it> biasanya dilaksanakan oleh dua orang dengan peran sebagai <it>interviewer</it> dan <it>observer</it> yang mencatat hasil <it>user</it> <it>interview.</it> Tujuan dari <it>user</it> <it>interview</it> adalah untuk mengetahui tujuan (<it>goals),</it> motivasi dan <it>pain</it> <it>points</it> [10]. Biasanya, <it>user</it> <it>interview</it> dilaksanakan untuk mengembangkan produk atau fitur baru. Pada proses desain UX, <it>user</it> <it>interview</it> juga dapat digunakan untuk mengembangkan persona. <bo>2.2.7.</bo> <it><bo>Wireframe</bo></it> rangcangan sebuah desain <it>Wireframe</it> merupakan tampilan digital yang mendemonstrasikan tata letak dari berbagai elemen di tampilan tersebut. Pada proses desain UX, <it>wireframe</it> merupakan salah satu <it>deliverables</it> yang dihasilkan. <it>Wireframe</it> bertujuan utnuk mengomunikasi kan dan mempermudah pemahaman bersama mengenai tampilan sebuah produk yang masih berada pada masa awal pengembangan. Karena tingkatannya yang masih <it>low</it> <it>level,</it> desai dari sebuah 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>17</pagenum>
+		<segment>
+			<it>wireframe</it> masih dapat diperbaiki melalui beberapa iterasi untuk mendapatkan desain optimal yang memenuhi kebutuhan pengguna. [11] <bo>2.3.</bo> <bo>Metodologi</bo> Seperti yang sudah dijelaskan sebelumnya, tim <it>Product</it> <it>Discovery</it> menggunakan metodologi <it>scrum</it> dalam mengembangkan fitur-fiturnya. Sehingga, proses desain yang ada di Bukalapak disesuaikan dengan penggunaan metodologi <it>scrum.</it> Proses pengembangan pada <it>scrum</it> dibagi menjadi 3 tahapan yaitu <it>sprint</it> <it>planning,</it> <it>sprint,</it> dan <it>sprint</it> <it>review.</it> Pada umumnya, seorang UX <it>researcher</it> lebih banyak berperan pada <it>sprint</it> <it>planning.</it> Selama tahapan <it>sprint</it> <it>planning,</it> <it>lead</it> tim bersama dengan UX <it>researcher</it> akan berdiskusi mengenai fitur yang akan dikerjakan selama <it>sprint.</it> Fitur- fitur yang akan dikerjakan selama <it>sprint</it> bisa berupa sebuah perbaikan dari fitur yang sudah ada maupun berupa fitur baru yang belum ada dalam produk sebelumnya. Sebelum fitur dapat dikembangkan oleh <it>software</it> <it>engineers,</it> fitur tesebut akan terlebih dahulu melewati proses validasi masalah. Proses tersebut biasanya akan dilakukan dengan melaksanakan riset dengan berbagai macam cara seperti <it>usability</it> <it>testing,</it> <it>interview,</it> dsb. Setelah riset selesai dilaksanakan, UX <it>researcher</it> akan menyampaikan <it>insights</it> yang didapatkan melalui riset tersebut kepada <it>lead</it> tim dan kemudian mendiskusikan detail fitur dengan <it>stakeholder</it> terkait. Detail fitur yang sudah didefinisikan kemudian dirancang menjadi <it>wireframe</it> yang akan di testing kembali. Hal ini ini dilakukan untuk memastikan bahwa seluruh detail fitur sudah berjalan dengan baik dan sesuai dengan ekspektasi pengguna. Umpan balik yang didapatkan dari hasil testing akan digunakan untuk melakukan perbaikan pada <it>wireframe.</it> Proses ini akan terus beriterasi hingga <it>wireframe</it> dirasa sudah cukup baik. <it>Wireframe</it> yang sudah dirancang oleh UX <it>researcher</it> kemudian akan disampaikan kepada UI <it>designer</it> yang akan mengembangkan <it>mockup</it> dari fitur tersebut. Selama <it>sprint</it> berjalan, UX <it>researcher</it> akan berdiskusi kembali bersama dengan <it>lead</it> tim untuk membahas fitur yang akan dikerjakan pada <it>sprint</it> selanjutnya dan mengerjakan riset untuk fitur tersebut. Setelah persiapan <it>sprint</it> selesai dilaksanakan, <it>mockup</it> yang sudah di desain oleh UI <it>designer</it> akan dikembangkan oleh <it>software</it> <it>engineers</it> dalam bentuk <it>minimum</it> <it>viable</it> <it>product</it> (MVP). Setelah masa pengembangan MVP selesai, UX <it>researcher</it> akan ikut melaksanakan user</it> <it>acceptance</it> <it>test</it> (UAT) untuk memastikan bahwa MVP yang dikembangkan telah sesuai dengan definisi yang sudah dibuat sebelumnya. Pada tahapan <it>sprint</it> <it>review,</it> UX <it>researcher</it> akan ikut 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>18</pagenum>
+		<segment>
+			berpartisipasi dalam me-<it>review</it> hasil pekerjaan selama <it>sprint</it> dan melaksanakan riset maupun pendetailan fitur untuk <it>sprint</it> selanjutnya. <bo>2.4.</bo> <bo>Teknologi</bo> 
+		</segment>
+		<title><bo>2.4.1.</bo> <bo>Trello</bo></title>
+		<segment>
+			Salah satu <it>project</it> <it>management</it> <it>tools</it> yang digunakan di Bukalapak adalah Trello, khususnya untuk internal departemen UX. <it>Trello</it> digunakan untuk mengelola <it>backlog</it> yang akan dikerjakan oleh tim UX dan untuk memantau pekerjaan <it>software</it> <it>engineers</it> masing-masing tim yang dipegang oleh UX <it>researcher.</it> <it>Backlog</it> tersebut akan diperbaharui sesuai dengan <it>progress</it> yang terjadi <it>backlog</it> tersebut. Hal ini dilakukan untuk memudahkan komunikasi mengenai pekerjaan masing-masing UX <it>researcher.</it> 
+		</segment>
+		<title><bo>2.4.2.</bo> <bo>Balsamiq</bo> <bo>Mockups</bo></title>
+		<segment>
+			Setelah definisi fitur selesai ditentukan, penulis akan mendesain <it>wireframe</it> dan <it>flow</it> untuk fitur tersebut dengan menggunakan Balsamiq mockups. Penulis juga menggunakan Balsamiq mockups untuk menyampaikan hasil Heuristic evalution kepada tim. 
+		</segment>
+		<title><bo>2.4.3.</bo> <bo>Google</bo> <bo>Drive,</bo> <bo>Google</bo> <bo>Docs,</bo> <bo>dan</bo> <bo>Google</bo> <bo>Slides</bo></title>
+		<segment>
+			Google drive digunakan untuk menyimpan berkas-berkas riset, dokumentasi, dan <it>deliverable</it> yang sudah dikerjakan. Selain sebagai media penyimpanan, Google drive juga dikgunakan untuk membagikan berkas-berkas tersebut kepada <it>stakeholder</it> terkait. Hasil riset, dokumentasi dan deliverables biasanya dibuat dengan menggunakan Google docs dan Google slides. 
+		</segment>
+		<title><bo>2.4.4.</bo> <bo>Teamviewer</bo></title>
+		<segment>
+			testing kepada komputer lain dapat Teamviewer merupakan salah satu alat yang digunakan untuk mendukung keperluan <it>usability</it> <it>testing.</it> Teamviwer dapat menduplikasi tampilan komputer yang digunakan saat ikut mengobservasi testing tanpa mengganggu partisipan testing. <bo>2.5.</bo> <bo>Gambaran</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> lain, sehingga pihak-pihak Selama masa kerja praktik, penulis banyak membantu tim <it>Product</it> <it>Discovery</it> untuk mengembangkan fitur-fitur yang berhubungan dengan pencarian produk. Penulis yang berperan sebagai UX <it>researcher</it> membantu tim <it>Product</it> <it>Discovery</it> untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>19</pagenum>
+		<segment>
+			melaksanakan riset terkait dengan fitur yang akan dikembangkan. Beberapa fitur yang melibatkan penulis dalam pengerjaannya adalah halaman barang, pencarian tambahan, filter, dan fitur lain yang tidak berasal dari tim <it>Product</it> <it>Discovery.</it> Detail mengenai pekerjaan penulis selama masa pengembangan fitur tersebut akan disampaikan selanjutnya. Sebelum ikut berperan dalam pengembangan fitur di Bukalapak, penulis terlebih dahulu diberikan materi pembelajaran mengenai persona dan <it>usability</it> <it>testing.</it> Penulis diberikan penjelasan mengenai persona <it>buyer</it> Bukalapak dan kemudian turut berpartisipasi dalam menyusun naskah <it>interview</it> persona <it>buyer.</it> Setelah penulis menyelesaikan materi pembelajaran yang diberikan, penulis memulai kerja praktik dengan melaksanakan <it>usability</it> <it>testing</it> untuk fitur <it>Frequently</it> <it>Asked</it> <it>Question</it> (FAQ) dan kemudian menyampaikan hasil <it>usability</it> <it>testing</it> kepada internal UX. Penulis kemudian bergabung dengan tim <it>Product</it> <it>Discovery</it> dan memulai pekerjaan fitur terkait tim tersebut. Karena penggunaan metodologi <it>scrum</it> yang tergolong baru, maka tim <it>Product</it> <it>Discovery</it> diberikan penjelasan mengenai metodologi <it>scrum</it> yang akan digunakan dalam pengembangan fitur. Fitur halaman produk adalah fitur pertama yang melibatkan penulis dalam pengembangannya di tim <it>Product</it> <it>Discovery.</it> Selama masa pengembangan produk, penulis ikut berdiskusi dengan <it>lead</it> tim dan <it>stakeholder</it> terkait detail masalah yang dihadapi oleh fitur tersebut. Detail masalah tersebut kemudian divalidasi dengan menggunakan <it>usabiilty</it> <it>testing.</it> Dalam pengerjaan riset terkait fitur ini, penulis menyusun naskah testing, melakukan testing dan menyampaikan hasil testing yang didapat. Selain fitur halaman produk, penulis juga ikut berpartisipasi dalam pengembangan fitur pencarian tambahan. Karena fitur ini merupakan fitur yang belum ada di produk Bukalapak sebelumnya, penulis melaksanakan <it>interview</it> terlebih dahulu untuk mengetahui kebutuhan pengguna terkait dengan fitur ini. Penulis menysun pertanyaan <it>interview</it> dan melaksanakan <it>interview</it> lewat telepon. Setelah penulis melaksanakan <it>interview,</it> penulis menyampaikan hasil yang didapatkan dan mendefinisikan detail fitur bersama <it>lead</it> tim dan <it>stakeholder</it> terkait. Detail fitur tersebut kemudian dirancang menjadi sebuah <it>wireframe</it> dan ditesting. Fitur selanjutnya yang dikerjakan oleh penulis adalah fitur <it>filter</it> pada produk Bukalapak versi <it>dektop.</it> Dalam pengembangan fitur ini, penulis terlebih dahulu melaksanakan studi literatur dan kemudian melakukan <it>sharing</it> kepada anggota UX 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>20</pagenum>
+		<segment>
+			<it>reseacher</it> lainnya mengenai <it>best</it> <it>practices</it> yang dapat diterapkan pada fitur <it>filter</it> di Bukalapak. Penulis menyusun naskah <it>usability</it> <it>testing</it> dan melaksanakan testing. Berdasarkan hasil yang didapatkan melalui <it>usability</it> <it>testing,</it> penulis merancang <it>wireframe</it> yang merupakan solusi dari permasalahan yang ada. Penulis juga melaksanakan <it>heuristic</it> <it>evaluation</it> terhadap filter sebelum merancang <it>wireframe</it> tersebut. Selain membantu tim <it>Product</it> <it>Discovery,</it> penulis juga ikut berpartisipasi dalam perbaikan mengenai masalah yang dihadapi oleh tim lain. Pada tim <it>Buy</it> <it>to</it> <it>Paid</it> (BTP), Penulis melaksanakan <it>competitive</it> <it>analysis</it> untuk mengidentifikasi solusi yang ditawarkan oleh <it>e-commerce</it> lain terkait permasalahan keterangan pembayaran dan merancang solusi dalam bentuk <it>wireframe.</it> Selain itu, penulis juga membantu tim <it>mobile</it> untuk merancang menu navigasi baru pada aplikasi android Bukalapak. Penulis menyusun naskah testing, melaksanakan <it>usabilty</it> <it>testing</it> dan merancang <it>wireframe.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>21</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo></title>
+		<segment>
+			 <bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Kerja praktik dimulai pada tanggal 13 Juni 2016 dan berakhir pada tanggal 26 Agustus 2016. Tanggal berakhir kerja prakti tidak sesuai dengan jadwal yang sudah direncanakan sebelumnya karena terjadi miskomunikasi dengan pihak HRD mengenai durasi kerja praktik. Pada pelaksanaan kerja praktik, jadwal yang sudah didefinisikan sebelumnya berbeda dengan kenyataan yang ada. Hal ini disebabkan <it>scrum</it> dalam karena pengembangannya. Sehingga, pengerjaan riset tidak dapat direncanakan karena pengerjaan <it>backlog</it> bergantung dengan prioritas <it>backlog</it> yang ada. Prioritas pengerjaan juga berubah-ubah berdasarkan <it>KPI</it> yang ingin dicapai oleh tim. tim <it>Product</it> <it>Discovery</it> menggunakan metodologi <bo>Waktu</bo> <bo>Rencana</bo> <bo>Kerja</bo> 13 Juni 2016 - 17 Juni 2016   Mempelajari  sistem  Bukalapak  dan  alur  kerja  tim UX <it>Researcher.</it>   Mempelajari  teori-teori  UX  seperti  <it>heuristic</it>  <it>evaluation,</it> <it>usability</it> <it>testing,</it> <it>persona,</it> <it>dsb.</it> 20 Juni 2016 - 24 Juni 2016   Mempelajari  KPI  tim  <it>Product</it>  <it>Discovery</it>  <it>to</it>  <it>Buy</it>   Mempersiapkan  <it>user</it>  <it>research</it>  untuk  <it>issue</it>  tim  <it>Product</it> <it>Discovery</it> <it>to</it> <it>Buy</it> 27 Juni 2016 - 1 Juli 2016   Pelaksanaan  dan  pelaporan  <it>insights</it> <it>user</it> <it>research</it> 4 Juli 2016 - 8 Juli 2016 11 Juli 2016 - 15 Juli 2016 Libur Idul Fitri   Mempelajari  KPI  tim  <it>Revention</it>  bagian  <it>User</it>  18 Juli 2016 - 22 Juli 2016 25 Juli 2016 - 29 Juli 2016 1 Agustus 2016 - 5 Agustus 2016 <it>Retention</it>   Pelaksanaan <it>user</it> <it>research</it>    Pelaporan <it>insights</it> <it>user</it> <it>research</it>    Mempelajari KPI tim <it>Buy</it> <it>to</it> <it>Paid</it>    Mempersiapkan  <it>user</it>  <it>research</it>  untuk  <it>issue</it>  tim  <it>Buy</it> <it>to</it> <it>Paid</it> 8 Agustus 2016 - 12 Agustus 2016 15 Agustus 2016 - 19 Agustus 2016   Pelaksanaan <it>user</it> <it>research</it>    Pelaporan <it>insights</it> <it>user</it> <it>research</it>  <bo>Tabel</bo> <bo>1.</bo> Rencana Jadwal Kerja Praktik Pengerjaan riset yang dilaksanakan memiliki durasi waktu yang berbeda-beda. Hasil riset yang didapatkan kemudian dianalisis dan disiapkan selama beberapa hari untuk kemudian disampaikan kepada <it>lead</it> tim. Sehingga jadwal pelaporan <it>insights</it> juga tidak sesuai dengan jadwal yang ada. Penggantian tim yang seharusnya dilakukan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>22</pagenum>
+		<segment>
+			oleh penulis, tidak jadi dilakukan karena <it>load</it> kerja tim yang berbeda-beda. Penyelia tim <it>Product</it> <it>Discovery</it> kemudian meminta penulis untuk fokus membantu melaksanakan juga berkesempatan untuk membantu tim lain yang ada di Bukalapak. <bo>3.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganannya</bo> fitur yang akan dikembangkan. Penulis riset terkait Selama masa kerja praktik, penulis sempat mengalami beberapa kendala. Hanya saja, kendala yang ada tersebut bukan merupakan kendala yang besar sehingga tidak banyak menganggu jalannya kerja praktik. Kendala-kendala yang dihadapi oleh penulis diantara lain adalah terdapat beberapa metodologi yang belum penulis pahami, sehingga penulis kurang dapat memahami topik yang sedang dibahas. Penulis mengatasi kendala ini dengan langsung bertanya kepada internal UX maupun <it>stakeholder</it> terkait. Kendala lain yang penulis alami selama masa kerja praktik adalah ketidakfamiliaran penulis terhadap proses UX yang sesuai dengan metodologi <it>scrum.</it> Sama seperti kendala sebelumnya, penulis mengatasi kendala ini dengan langsung menanyakan proses UX kepada <it>lead</it> UX, meminta <it>lead</it> UX untuk memberikan penjelasan mengenai hal tersebut serta mencari informasi sendiri melalui internet. <bo>3.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> 
+		</segment>
+		<title><bo>3.3.1.</bo> <bo>Sistem</bo> <bo>Interaksi</bo></title>
+		<segment>
+			Sebagai UX <it>researcher,</it> penulis menggunakan berbagai macam metodologi riset UX. Beberapa metodologi riset UX yang penulis laksanakan selama kerja praktik telah penulis pelajari sebelumnya melalui mata kuliah Sistem Interaksi. Hal ini memudahkan penulis untuk mempelajari metodologi lainnya yang berhubungan dengan riset yang dikerjakan oleh penulis. Penulis juga mendapatkan gambaran kasar mengenai proses desain UX dalam mengembangkan sebuah produk atau fitur melalui mata kuliah ini. 
+		</segment>
+		<title><bo>3.3.2.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo></title>
+		<segment>
+			Pada mata kuliah Rekayasa Perangkat Lunak, penulis mendapatkan <it>overview</it> mengenai metodologi <it>scrum</it> yang digunakan oleh tim <it>Product</it> <it>Discovery.</it> Hal ini membantu penulis untuk beradaptasi dengan proses pengembangan produk atau fitur yang dilakukan di Bukalapak. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>23</pagenum>
+		<title><bo>3.3.3.</bo> <bo>Proyek</bo> <bo>Perangkat</bo> <bo>Lunak</bo></title>
+		<segment>
+			Pada mata kuliah Proyek Perangkat Lunak, penulis mendapatkan kesempatan untuk mengembangkan sebuah produk langsung dengan menerapkan metodologi <it>scrum.</it> Pemahaman teoritis yang penulis dapatkan pada mata kuliah Rekayasa Perangkat Lunak serta pengalaman praktek pada mata kuliah Proyek Perangkat Lunak membantu penulis untuk memahami bagaimana metodologi <it>scrum</it> bekerja dan bagaimana penerapannya selama masa kerja praktik di Bukalapak. 
+		</segment>
+		<title><bo>3.3.4.</bo> <bo>Komunikasi</bo> <bo>Bisnis</bo> <bo>dan</bo> <bo>Teknis</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis dituntut untuk dapat berkomunikasi dengan baik kepada internal UX dan juga anggota tim terkait. Teknis terkait komunikasi diajarkan pada mata kuliah Komunikas Bisnis dan Teknis untuk membantu penulis berkomunikasi dengan baik kepada anggota tim dalam konteks bisnis dan teknis.  <bo>3.4.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>Selama</bo> <bo>Kerja</bo> <bo>Praktik</bo> Dalam pelaksanaan kerja praktik, penulis tidak hanya dapat meningkatkan <it>hard</it> <it>skill</it> terkait dengan profesi UX <it>researcher.</it> Penulis juga mendapatkan banyak pembelajaran mengenai <it>soft</it> <it>skills</it> selama masa kerja praktik. Penulis belajar bagaimana bekerja sama dengan semua anggota tim yang masing-masing memiliki peran yang berbeda-beda. Kemampuan ini diperlukan untuk menyelesaikan fitur-fitur yang akan dikembangkan. Semua anggota tim yang memiilki berbagai macam peran harus bersatu dan bekerja sama untuk mencapai tujuan yang sudah ditentukan. Karena hasil yang baik tidak dapat didapatkan tanpa kerja sama yang baik antara masing-masing anggota tim Kemampuan <it>soft</it> <it>skill</it> lainnya yang penulis dapatkan adalah cara berkomunikasi dengan seluruh pihak terkait. Selama kerja praktik, penulis diharapkan dapat melakukan riset terkait dengan fitur-fitur yang sedang dikembangkan. Dalam pelaksanaan riset, penulis harus berkomunikasi dengan partisipan riset dan membimbing partisipan dengan baik untuk mendapatkan hasil riset yang optimal. Penulis juga akan melaporkan hasil riset yang telah dilaksanakan kepada <it>lead</it> tim dengan baik. Sehingga penulis banyak belajar mengenai cara berkomunikasi yang baik selama masa kerja praktik. <bo>3.5.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> PT Bukalapak merupakan sebuah tempat kerja praktik yang ideal dengan kriteria penulis. PT Bukalapak memiliki budaya kerja yang menyenangkan yang juga 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>24</pagenum>
+		<segment>
+			didukung dengan berbagai macam fasilitas untuk membuat pekerja semakin nyaman dan maksimal dalam mengerjakan pekerjaannya. Selama kerja praktik, peserta kerja praktik diperlakukan sebagaimana seorang pekerja <it>full-time</it> diperlakukan. PT Bukalapak sangat mempertimbangkan aspirasi yang disampaikan oleh peserta kerja praktik dan memberikan tugas yang benar-benar sedang dikembangkan oleh tim Bukalapak. Sehingga peserta kerja praktik tidak hanya mengerjakan projek sampingan saja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>25</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			<it>testing,</it> Penulis melaksanakan kerja praktik sebagai UX <it>researcher</it> selama 10 minggu, pelaksanaan kerja praktik dimulai pada tanggal 13 Juni 2016. Penulis melaksanakan sejumlah riset UX dengan menggunakan berbagai macam metodologi seperti <it>usability</it> <it>interview,</it> dan <it>heuristic</it> <it>evaluation</it> untuk mendukung pengembangan fitur di Bukalapak. Selama masa kerja praktik, penulis banyak mempelajari hal baru yang sebelumnya belum pernah penulis dapatkan pada mata kuliah di Fakultas Ilmu Komputer. Hal yang penulis pelajari tidak hanya sebatas kemampuan teknis tetapi juga kemampuan non-teknis. Setelah melaksanakan kerja praktik penulis dapat lebih memahami bagaimana riset UX dilaksanakan pada lingkungan yang nyata. Pengalaman kerja praktik di Bukalapak merupakan sebuah pengalaman berharga yang memberikan banyak ilmu bermanfaat kepada penulis. 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Menurut penulis, persiapan kerja praktik sebaiknya dilaksanakan sedini mungkin agar peserta kerja praktik dapat mencari dan memulai lamaran kerja praktik sedini mungkin. Mengingat, proses pencarian kerja praktik memakan waktu yang cukup lama dan melelahkan. Penulis menyarankan peserta kerja praktik untuk lebih proaktif dan inisiatif selama masa kerja praktik agar dapat melaksanakan kerja praktik dengan maksimal dan optimal. Selama kerja praktik, peserta sebaiknya jangan takut bertanya apabila kurang memahami pekerjaan yang diberikan. Sehingga ilmu yang didapatkan selama masa kerja praktik menjadi lebih bermanfaat. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>26</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Tentang Kami - About Us. (n.d.). Retrieved October 18, 2016, from https://www.bukalapak.com/about [2] Handayani, S. N. (2016, February 29). CEO Bukalapak: Tiap Hari Memfasilitasi Transaksi Rp20 ... Retrieved November 17, 2016, from http://swa.co.id/swa/ceo- interview/ceo-bukalapak-tiap-bulan-memfasilitasi-transaksi-rp20-miliar [3] Norman, D., &amp; Nielsen, J. (n.d.). The Definition of User Experience (UX). Retrieved November 17, 2016, from https://www.nngroup.com/articles/definition- user-experience/ [4] Cheng, N. (2014, January 13). What is UX Research and Why Should I Care? |. Retrieved November 17, 2016, from https://chaione.com/blog/what-is-ux-research- and-why-should-i-care/ [5] Learn About Scrum. https://www.scrumalliance.org/why-scrum [6] Nielsen, J. (1995, January 1). Heuristic Evaluation: How-To: Article by Jakob Nielsen. Retrieved November 18, 2016, from https://www.nngroup.com/articles/how- to-conduct-a-heuristic-evaluation/ [7] Usability Testing. https://www.usability.gov/how-to-and-tools/methods/usability-testing.html [8] Competitive Analysis. https://www.entrepreneur.com/encyclopedia/competitive-analysis [9] Mears, C. (2013, August 15). User Interviews - The Beginner's Guide - The UX Review. Retrieved November 18, 2016, from http://theuxreview.co.uk/user- interviews-the-beginners-guide/ [10] Rees, D. (n.d.). What is wireframing | Experience UX. Retrieved November 18, 2016, from http://www.experienceux.co.uk/faqs/what-is-wireframing/ (n.d.). Retrieved November 18, 2016, (n.d.). Retrieved November (n.d.). Retrieved November 18, 2016, from from 17, 2016, from 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>27</pagenum>
+		<title>LAMPIRAN 1</title>
+		<title>KERANGKA ACUAN KERJA PRAKTIK</title>
+		<segment>
+			(ditambahkan setelah revisi selesai) 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>28</pagenum>
+		<title>LAMPIRAN 2</title>
+		<title>LOG KERJA PRAKTIK</title>
+		<segment>
+			(ditambahkan setelah revisi selesai) 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

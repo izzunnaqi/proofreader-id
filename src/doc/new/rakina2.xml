@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>REALTIME</bo></it> <it><bo>AUDIO</bo></it> <it><bo>TRANSCRIPTION</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>RAKINA</bo> <bo>ZATA</bo> <bo>AMNI</bo></title>
+		<segment>
+			<bo>1306398951</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama NPM : Rakina Zata Amni : 1306398951 Program Studi Judul Kerja Praktik Ilmu Komputer : : <it>Realtime</it> <it>Audio</it> <it>Transcription</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>PESERTA</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom.,</bo> <bo>M.Kom.)</bo> <bo>(Rakina</bo> <bo>Zata</bo> <bo>Amni)</bo> Ditetapkan di : Depok Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama: Rakina Zata Amni Program Studi: Ilmu Komputer Judul: <it>Realtime</it> <it>Audio</it> <it>Transcription</it> Laporan kerja praktik ini berisi hasil dari kerja praktik yang telah penulis lakukan bersama penyelia di Google Inc selama dua belas minggu. Penulis berperan sebagai <it>software</it> <it>engineering</it> <it>intern</it> dengan penyelia Amit Dubey yang bekerja sebagai <it>software</it> <it>engineer</it> di Google. Dalam proyek kerja praktik yang diberikan oleh pihak penyelia, penulis membuat sistem <it>audio</it> <it>transcription</it> yang dapat menerima <it>audio</it> <it>stream</it> dan mengembalikan kumpulan teks hasil transkripsi dari <it>stream</it> tersebut. Proyek kerja praktik ini dibawahi oleh tim yang berada di dalam departemen <it>Research</it> <it>and</it> <it>Machine</it> <it>Intelligence</it> di Google dan nantinya akan digunakan dalam upaya meningkatkan performa pengolahan bahasa manusia di Google. Selama kerja praktik, banyak pengalaman menjadi seorang <it>software</it> <it>engineer,</it> penulis khususnya di perusahaan besar seperti Google dan di daerah yang menjunjung tinggi bidang teknologi seperti San Francisco Bay Area (Silicon Valley).  memperoleh Kata kunci: <it>audio</it> <it>transcription,</it> Google, kerja praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<title>HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK</title>
+		<segment>
+			............ 
+		</segment>
+		<pagenum>1</pagenum>
+		<title>ABSTRAK</title>
+		<segment>
+			.................................................................................................................... 
+		</segment>
+		<pagenum>2</pagenum>
+		<title>DAFTAR ISI</title>
+		<segment>
+			................................................................................................................. 
+		</segment>
+		<pagenum>3</pagenum>
+		<title>DAFTAR GAMBAR</title>
+		<segment>
+			..................................................................................................... 
+		</segment>
+		<pagenum>5</pagenum>
+		<title>DAFTAR TABEL</title>
+		<segment>
+			.......................................................................................................... 
+		</segment>
+		<pagenum>6</pagenum>
+		<title>DAFTAR LAMPIRAN</title>
+		<segment>
+			................................................................................................. 
+		</segment>
+		<pagenum>7</pagenum>
+		<title>BAB 1 1</title>
+		<title>1.1. Proses Pencarian Kerja Praktik</title>
+		<segment>
+			.......................................................................... 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			1.2 Tempat Kerja Praktik ........................................................................................... 
+		</segment>
+		<pagenum>2</pagenum>
+		<title>1.2.1. Profil Tempat Kerja Praktik</title>
+		<segment>
+			........................................................................ 
+		</segment>
+		<pagenum>2</pagenum>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi 2</title>
+		<segment>
+			.... 
+		</segment>
+		<title>BAB 2</title>
+		<pagenum>3</pagenum>
+		<segment>
+			2.1 Pekerjaan dalam Kerja Praktik ............................................................................ 
+		</segment>
+		<pagenum>3</pagenum>
+		<title>2.1.1. Latar Belakang Pekerjaan</title>
+		<segment>
+			............................................................................ 
+		</segment>
+		<pagenum>3</pagenum>
+		<title>2.1.2 Metodologi</title>
+		<segment>
+			................................................................................................... 
+		</segment>
+		<pagenum>4</pagenum>
+		<title>2.1.3 Teknologi yang Digunakan</title>
+		<segment>
+			.......................................................................... 
+		</segment>
+		<pagenum>5</pagenum>
+		<title>2.1.4 Hasil Pekerjaan</title>
+		<segment>
+			............................................................................................. 
+		</segment>
+		<pagenum>8</pagenum>
+		<segment>
+			2.2 Analisis .............................................................................................................. 
+		</segment>
+		<pagenum>10</pagenum>
+		<title>2.2.1. Pelaksanaan Kerja Praktik</title>
+		<segment>
+			......................................................................... 
+		</segment>
+		<pagenum>10</pagenum>
+		<title>2.2.2 Relevansi dengan Perkuliahan di Fasilkom UI</title>
+		<segment>
+			.......................................... 
+		</segment>
+		<pagenum>11</pagenum>
+		<title>BAB 3 13</title>
+		<segment>
+			3.1 Kesimpulan ........................................................................................................ 
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			3.2 Saran .................................................................................................................. 
+		</segment>
+		<pagenum>13</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title>DAFTAR REFERENSI LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK LAMPIRAN 2 LOG KERJA PRAKTIK</title>
+		<segment>
+			............................................................................................... ............................................................................................... 
+		</segment>
+		<pagenum>14</pagenum>
+		<segment>
+			.................................................................. 
+		</segment>
+		<pagenum>8</pagenum>
+		<pagenum>9</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis mulai mencari lowongan kerja praktik di akhir bulan Agustus 2015. Karena sebelumnya penulis sudah pernah melakukan <it>internship</it> di sebuah perusahaan di San Francisco, penulis memulai dengan melamar pekerjaan di beberapa perusahaan teknologi yang ada di daerah San Francisco Bay Area (Silicon Valley) lagi dengan cara mengirimkan <it>resume</it> penulis di halaman karir beberapa perusahaan tersebut.</title>
+		<segment>
+			Setelah beberapa minggu, penulis mendapat respon dari beberapa perusahaan untuk menjadwalkan wawancara. Salah satu perusahaan yang merespon lamaran kerja penulis adalah Google. Penulis melakukan wawancara dengan dua orang <it>software</it> <it>engineer</it> Google di pertengahan bulan Oktober 2015. Format kedua wawancara ini sama, yaitu 45 menit yang berisi sedikit perkenalan, dua buah pertanyaan pemrograman, dan sesi tanya jawab tentang pengalaman pewawancara di Google. Dua minggu setelah wawancara dilaksanakan, penulis mendapatkan kabar dari perekrut dari Google bahwa penulis diterima sebagai <it>software</it> <it>engineering</it> <it>intern</it> di kantor pusat Google di Mountain View, California, Amerika Serikat. Penulis mendapat beberapa tawaran magang juga dari beberapa perusahaan lain seperti Uber dan Square, namun akhirnya penulis memilih untuk menerima tawaran Google. Setelah menerima tawaran tersebut, penulis lalu menunggu kabar tentang tim dimana penulis akan ditempatkan. Penulis juga mengontak beberapa kenalannya yang bekerja di Google untuk mencari tim yang sesuai, dan salah satu kenalan penulis yang bekerja di bawah departemen <it>Research</it> <it>and</it> <it>Machine</it> <it>Intelligence</it> di Google memiliki kenalan di departemen yang sama yang punya lowongan untuk seorang <it>intern</it> di timnya. Tim tersebut akhirnya menjadi pilihan penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<segment>
+			<bo>1.2</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis melaksanakan kerja praktik di kantor pusat Google Inc. di Mountain View, California, Amerika Serikat. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Google Inc. adalah perusahaan multinasional Amerika Serikat yang berada di bawah Alphabet Inc. dan didirikan pada tahun 1998 oleh Larry Page dan Sergey Brin. Google Inc. bergerak di bidang jasa dan produk internet, dan memiliki berbagai macam produk seperti mesin pencari, sistem operasi, perangkat lunak, serta periklanan.</title>
+		<segment>
+			Secara struktur, Google dibagi menjadi beberapa departemen sesuai pekerjaan dari tiap departemen, seperti departemen <it>engineering,</it> departemen legal/hukum, departemen sumber daya manusia, dan sebagainya. Departemen terbesar di Google adalah departemen <it>engineering,</it> yang dibagi menjadi beberapa sub departemen lagi di bawahnya. Beberapa sub departemen ini berkaitan deangan produk yang dikembangkan di bawah sub departemen tersebut, seperti <it>Ads,</it> <it>Geo,</it> <it>Research</it> <it>and</it> <it>Machine</it> <it>Intelligence,</it> atau <it>YouTube.</it> Di bawah subdepartemen tersebut, terdapat banyak tim besar yang berisi tim-tim kecil yang lebih terfokus. Tiap tim memiliki <it>engineering</it> <it>manager</it> serta beberapa <it>software</it> <it>engineer.</it> Tiap karwayan di Google memiliki <it>level</it> masing-masing, yang menyatakan seberapa berpengalaman orang tersebut di bidang pekerjaannya. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Pada kerja praktik ini, penulis ditempatkan sebagai <it>software</it> <it>engineering</it> <it>intern</it> di bawah salah satu tim di bawah departemen <it>engineering,</it> di sub departemen <it>Research</it> <it>and</it> <it>Machine</it> <it>Intelligence.</it> Tim tempat penulis ditempatkan memiliki tujuan meningkatkan kemampuan Google dalam mengolah bahasa manusia.</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<segment>
+			<bo>2.1</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pegawai magang di Google biasanya diberikan suatu proyek kecil yang berkaitan dengan tim dimana pegawai magang tersebut ditempatkan. Proyek ini diharapkan dapat selesai diimplementasi di akhir masa kerja pegawai magang tersebut. Karena penulis ditempatkan di sub departemen <it>Research</it> <it>and</it> <it>Machine</it> <it>Intelligence,</it> proyek yang diberikan kepada penulis adalah proyek yang berkaitan dengan bidang tersebut. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> Google menawarkan banyak produk dan jasa bagi para penggunanya, seperti Google Search, Google Maps, Google Mail, YouTube serta beberapa produk dan jasa lainnya. Kebanyakan produk tersebut menerima masukan berupa bahasa manusia, seperti permintaan pencarian di Google Search, YouTube dan Google Maps atau pengategorian topik surat elektronik di Google Mail. Karena itu, pengolahan bahasa manusia atau <it>Natural</it> <it>Language</it> <it>Processing</it> adalah topik yang cukup penting bagi Google agar dapat mengolah data dari pengguna dengan lebih baik. Pengolahan bahasa manusia mencakup topik-topik seperti <it>Natural</it> <it>Language</it> <it>Understanding</it> yang bertujuan untuk mengerti bahasa manusia dan <it>Natural</it> <it>Language</it> <it>Generation</it> yang bertujuan untuk membangkitkan atau membuat kalimat-kalimat dalam bahasa manusia.</title>
+		<segment>
+			Google memiliki beberapa sub departmen di bawah departemen <it>engineering.</it> Sub departemen yang membawahi bidang <it>Natural</it> <it>Language</it> <it>Processing</it> di Google adalah sub departemen <it>Research</it> <it>and</it> <it>Machine</it> <it>Intelligence.</it> Penulis ditempatkan di sebuah tim <it>Natural</it> <it>Language</it> <it>Processing</it> di bawah sub departemen tersebut yang bertugas untuk mengembangkan sebuah aplikasi yang digunakan untuk mengumpulkan data dialog atau pembicaraan untuk meningkatkan kemampuan Google dalam bidang <it>Natural</it> <it>Language</it> <it>Generation.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<segment>
+			Aplikasi yang dikembangkan oleh tim ini berperan seperti asisten pribadi atau <it>Natural</it> <it>Language</it> <it>Assistant</it> bagi pengguna. Aplikasi ini mewajibkan pengguna untuk berinteraksi dengan aplikasinya menggunakan suara. Respon dari aplikasi berupa suara yang dibangkitkan dengan program <it>text-to-speech.</it> Dengan ini, Google bisa mendapatkan data berupa dialog antara pengguna dan aplikasi. Menurut penyelia kerja praktik penulis, data percakapan adalah data yang cukup berharga karena jumlahnya saat ini tidak terlalu banyak dan dapat membantu Google dalam membuat produk- produk yang memiliki bahasa yang lebih alami. Saat penulis memulai kerja praktik, data suara manusia yang diterima disimpan secara utuh dan belum diproses atau ditranskripsikan. Agar data tersebut dan seluruh data yang didapatkan selanjutnya dapat segera digunakan, penulis ditugaskan untuk membuat sistem yang menerima data suara manusia secara <it>real-time</it> dan mentranskripsikannya. Data hasil transkripsi ini nantinya akan diolah dan menjadi data latihan untuk algoritma <it>Natural</it> <it>Language</it> <it>Processing</it> milik Google. Proyek yang diberikan kepada penulis tidak mencakup pembuatan algoritma transkripsi, karena Google sudah memiliki jasa transkripsi sendiri yaitu Google Cloud Speech API [6]. Sistem yang dibuat penulis berfungsi sebagai penyambung antara aplikasi utama dengan Google Cloud Speech API dan harus mampu menerima banyak arus transkripsi dari beberapa percakapan berbeda sekaligus serta menangani transkripsi secara <it>real-</it> <it>time</it> yang rawan akan <it>latency.</it> Proyek yang diberikan penulis juga mencakup integrasi dengan aplikasi utama, seperti membuat arus komunikasi antara aplikasi utama dan sistem yang dibuat dan menampilkan hasil transkripsi di aplikasi utama secara <it>real-time</it> juga. 
+		</segment>
+		<title><bo>2.1.2</bo> <bo>Metodologi</bo> Proyek kerja praktik yang dibuat oleh penulis adalah proyek baru dan belum pernah diimplementasikan sebelumnya. Terdapat beberapa alternatif cara untuk mengimplementasikan proyek tersebut, namun belum ada cara yang dicoba. Saat memulai, penyelia kerja praktik memberitahu bahwa beberapa alternatif cara yang lebih gampang mungkin saja tidak dapat diimplementasikan karena batasan dari teknologi</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<segment>
+			yang digunakan oleh <it>server</it> aplikasi utama. Karena itu, penulis ditugaskan terlebih dahulu untuk membuat versi kecil dari sistem yang ingin dibangun sebagai <it>proof-of-</it> <it>concept</it> dan mengetahui batasan-batasan apa yang dapat menghalangi pengembangan sistem. Penulis memulai dengan membangun sistem yang menjadi bagian dari aplikasi utama dan berada sebagian besar di bagian <it>front-end,</it> lalu mencoba membangun sistem yang juga menjadi bagian dari aplikasi utama namun berada di bagian <it>back-end,</it> dan akhirnya membangun sistem terpisah dari aplikasi utama. Untuk setiap halangan baru yang penulis temukan dalam proses pengembangan sistem-sistem tersebut, penulis mendiskusikannya dengan penyelia kerja praktik untuk mencari cara untuk menyelesaikannya. Setelah melakukan eksplorasi dan mengetahui sistem seperti apa yang akan dibangun, penulis memulai pengembangan sistem secara bertahap. Setiap tahap berisi satu atau lebih fitur yang ingin dikembangkan dan diselesaikan dalam beberapa hari, yang diakhiri dengan tahap <it>code</it> <it>review</it> dari penyelia kerja praktik dan anggota tim lainnya. Selain mengerjakan proyek utama kerja praktik, penulis juga ditugaskan untuk mengerjakan beberapa fitur kecil dan <it>bugfix</it> di beberapa bagian dari aplikasi utama. Penulis mengerjakan pekerjaan-pekerjaan sampingan tersebut ketika penulis menunggu hasil dari <it>code</it> <it>review</it> untuk proyek utama milik penulis, agar tetap menghabiskan waktu dengan produktif. 
+		</segment>
+		<title><bo>2.1.3</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo> Dalam pengerjaan proyek kerja praktik, penulis mendapatkan banyak pengetahuan baru tentang teknologi-teknologi yang sebelumnya belum pernah dipakai oleh penulis seperti gRPC [4], Google <it>App</it> <it>Engine</it> [2], React [1] dan Google <it>Cloud</it> <it>Speech</it> API [6]. Penulis juga mendapat kesempatan untuk mendalami teknologi-teknologi yang sebelumnya tidak banyak digunakan oleh penulis seperti JavaScript dan Java.</title>
+		<segment>
+			Aplikasi utama yang dikembangkan oleh tim yang menampung penulis memiliki tiga bagian utama, yaitu <it>backend</it> API,</it> <it>front</it> <it>end</it> <it>client,</it> serta aplikasi Android. <it>Backend</it> API 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<segment>
+			adalah sekumpulan REST API yang dikembangan dengan bahasa Java dan menggunakan teknologi JavaServer Pages (JSP), aplikasi Android dikembangkan dengan bahasa Java, dan <it>front</it> <it>end</it> <it>client</it> dibuat dengan JavaScript dan <it>framework</it> React. <it>Server</it> dari aplikasi utama ini dideploy</it> di Google App Engine. Aplikasi Android berperan sebagai asisten pribadi yang dapat mendengarkan suara pengguna. Aplikasi kemudian akan mengirimkan masukan suara pengguna ke <it>front</it> <it>end</it> <it>client</it> yang akan memainkan suara pengguna secara <it>real-time</it> menggunakan <it>Web</it> <it>Audio</it> API.</it> <it>Front</it> <it>end</it> <it>client</it> juga mengirimkan berkas suara pengguna tersebut ke <it>endpoint</it> penyimpanan berkas di <it>backend</it> API menggunakan AJAX untuk disimpan di basis data. Karena keterbatasan basis data Google App Engine, berkas data hanya bisa memiliki panjang sekitar satu detik, sehingga sebuah percakapan dapat terdiri dari banyak potongan suara (<it>audio</it> <it>chunk).</it> Proses pemotongan berkas audio menjadi potongan kecil menggunakan <it>library</it> JavaScript bernama Recorderjs , dan menghasilkan sebuah potongan audio setiap satu detik dalam format berkas WAV. 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			Untuk proyek utama penulis, terdapat tiga alternatif pengerjaan yang semuanya dicoba oleh penulis saat tahap eksplorasi dan pembuatan <it>proof-of-concept.</it> Ketiga metode tersebut sama-sama menggunakan Google <it>Cloud</it> <it>Speech</it> API, yaitu API yang disediakan oleh Google yang dapat menerima masukan berupa berkas audio dan mengembalikan hasil berupa transkripsi dari berkas audio tersebut. Ketiga metode tersebut juga sama-sama mendapatkan berkas audio yang akan ditranskripsikan dari aplikasi utama. Metode pertama yang penulis implementasikan adalah membuat sistem <it>real-time</it> <it>transcription</it> menjadi bagian dari <it>front</it> <it>end</it> <it>client</it> aplikasi utama. Penulis menambahkan <it>request</it> AJAX baru ke <it>front</it> <it>end</it> <it>client,</it> sehingga setelah menerima berkas audio dari aplikasi Android, <it>front</it> <it>end</it> <it>client</it> bisa mengirimkan berkas audio tersebut ke Google Cloud Speech API. Google Cloud Speech API sendiri memiliki dua jenis protokol, yaitu 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			 https://github.com/mattdiamond/Recorderjs 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<segment>
+			HTTP dan RPC. Karena request AJAX menggunakan protokol HTTP, penulis menggunakan API versi HTTP di implementasi ini. Metode kedua yang penulis implementasikan adalah membuat sistem <it>real-time</it> <it>transcription</it> menjadi bagian dari <it>backend</it> API aplikasi utama. Penulis memodifikasi bagian dari <it>backend</it> API yang menerima berkas audio yang dikirimkan oleh <it>front</it> <it>end</it> <it>client,</it> agar mengirimkan berkas yang diterima tersebut ke versi RPC dari <it>Google</it> <it>Cloud</it> <it>Speech</it> API. Penulis menggunakan gRPC untuk melakukan komunikasi <it>bidirectional</it> <it>streaming</it> dengan <it>endpoint</it> RPC dari Google <it>Cloud</it> <it>Speech</it> API. Tidak seperti versi HTTP, <it>endpoint</it> RPC ini bersifat <it>asynchronous</it> dan <it>connection-based.</it> Ini berarti sistem yang dibuat penulis dapat mengirimkan berkas audio kapan pun ke sebuah koneksi yang sama, dan Google <it>Cloud</it> <it>Speech</it> API juga dapat mengirimkan hasil transkripsi kapan pun lewat koneksi tersebut. Metode ketiga yang penulis implementasikan mirip dengan metode kedua, namun sistem <it>real-time</it> <it>transcription</it> yang dibuat tidak menjadi bagian dari aplikasi utama. Aplikasi utama dideploy</it> di Google <it>App</it> <it>Engine,</it> yang menurut penyelia kerja praktik memiliki banyak batasan yang mungkin membuat metode kedua tidak dapat dilakukan. Sistem yang dibuat dengan metode ketiga berdiri sendiri dan tidak akan dideploy</it> di Google App Engine. Sistem terdiri dari sebuah <it>endpoint</it> yang menjadi titik komunikasi antara aplikasi utama dengan sistem ini untuk mengirimkan berkas audio dan menerima transkripsi. Sistem menggunakan <it>framework</it> milik Google dan dibuat dalam bahasa Java. Di dalam sistem, terdapat program utama yang mengatur pemanggilan Google <it>Cloud</it> <it>Speech</it> API untuk tiap percakapan. Komunikasi dilakukan dengan menggunakan gRPC, dan tiap percakapan memiliki koneksi masing-masing. Tiap percakapan memiliki sebuah <it>handler</it> yang berguna untuk mengatur koneksi, mengirim berkas audio, dan menerima hasil transkripsi dari percakapan tersebut. Tiap <it>handler</it> memiliki sebuah <it>BlockingQueue</it> [3] untuk menampung hasil transkripsi dari Google Cloud Speech API untuk percakapan tersebut.Program utama memiliki sebuah <it>BlockingQueue</it> terpusat untuk seluruh berkas audio yang diterima dan belum dikirimkan. Program utama akan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<segment>
+			menunggu sampai <it>BlockingQueue</it> tidak kosong, dan mengirimkan satu persatu berkas audio yang berada di <it>BlockingQueue</it> tersebut ke <it>handler</it> untuk tiap percakapan. Penulis menggunakan struktur data <it>BlockingQueue</it> karena struktur data yang menampung berkas audio maupun transkripsi mungkin diakses oleh banyak <it>thread</it> sekaligus. Setiap <it>request</it> yang dikirimkan ke <it>server</it> berisi berkas audio dan ID percakapan dari berkas tersebut dalam bentuk Protobuf [5] dan melalui protokol HTTP. Isi dari <it>request</it> ini kemudian dimasukkan ke BlockingQueue milik program utama agar dapat diproses. Respons untuk <it>request</it> ini adalah isi dari BlockingQueue milik <it>handler</it> untuk percakapan yang bersangkutan. Setelah diambil isinya, BlockingQueue yang bersangkutan akan menjadi kosong. Selain membuat sistem, penulis juga diharuskan mengintegrasikan sistem tersebut dengan aplikasi utama. Penulis membuat integrasi di bagian <it>backend</it> dan <it>frontend.</it> Di bagian <it>backend,</it> penulis menambahkan pemanggilan ke sistem yang dibuat penulis dari API endpoint milik aplikasi utama yang menerima berkas audio untuk disimpan. Setelah berkas audio disimpan, penulis menambahkan konversi berkas audio yang didapat dari format WAV menjadi format RAW dan mengirimkan berkas audio beserta ID dari percakapan yang bersangkutan. Konversi berkas audio diperlukan karena Google <it>Cloud</it> <it>Speech</it> API tidak dapat menerima berkas dalam bentuk WAV. Konversi dilakukan secara manual dengan manipulasi representasi biner dari berkas audio. Di bagian <it>front-end,</it> penulis menambahkan tampilan yang dapat menunjukkan hasil transkripsi berkas audio secara <it>real-time</it> dengan menggunakan JavaScript, React dan JSDoc [7]. 
+		</segment>
+		<title><bo>2.1.4</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo> Setelah mencoba mengimplementasikan <it>proof-of-concept</it> dari metode pertama, penulis menemukan bahwa versi HTTP dari Google Cloud Speech API tidak dapat menerima <it>request</it> dalam bentuk <it>stream.</it> Google Cloud Speech API versi HTTP memiliki konsep <it>stateless,</it> yang berarti bahwa versi ini hanya dapat mentranskripsikan berkas audio dari satu buah <it>request,</it> dan tidak bisa menggunakan informasi dari berkas audio yang lain</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<segment>
+			yang dikirim oleh pengguna yang sama. Tentunya ini sangat bermasalah, karena <it>front</it> <it>end</it> <it>client</it> mengirimkan berkas audio sepanjang satu detik di tiap <it>request.</it> Solusi yang mungkin dari masalah tersebut adalah menggabungkan berkas audio menjadi satu sampai cukup panjang lalu mentranskripsikannya, tapi ini berarti hasil yang didapatkan tidak akan <it>real-time.</it> Solusi lain adalah menggunakan versi RPC dari Google <it>Cloud</it> <it>Speech</it> API, yang mendukung <it>streaming.</it> Penulis mencari cara untuk menggunakan RPC di JavaScript, namun ternyata teknologi yang ada sekarang belum mendukung hal tersebut. Penulis kemudian berdiskusi dengan penyelia kerja praktik tentang masalah ini. Penulis dan penyelia akhirnya sepakat bahwa tidak ada solusi yang baik untuk masalah ini dan melanjutkan ke metode kedua. Penulis kemudian mengimplementasikan metode kedua secara lokal dan berhasil membuat program <it>proof-of-concept.</it> Program yang dibuat penulis berhasil mengirimkan berkas audio yang disimpan di komputer ke Google <it>Cloud</it> <it>Speech</it> API dan mendapatkan hasil transkripsi dari berkas audio tersebut. Namun saat program tersebut di-<it>deploy</it> di Google <it>App</it> <it>Engine,</it> program tidak berhasil berjalan karena Google <it>App</it> <it>Engine</it> tidak memiliki support untuk pemanggilan RPC. Setelah berdiskusi dengan penyelia kerja praktik, penulis dan penyelia memutuskan untuk melanjutkan ke metode ketiga. Program yang ditulis untuk metode kedua kemudian dipindahkan menjadi bagian dari sebuah sistem baru. Karena proses <it>deployment</it> sebuah sistem baru di Google harus melewati beberapa tahap <it>review</it> yang akan memakan waktu cukup lama, penulis dan penyelia memutuskan untuk menyelesaikan sistem sampai sempurna terlebih dahulu dan penyelia akan melakukan <it>deployment</it> setelah masa kerja praktik selesai. Karena itu, seluruh proses pengembangan dilakukan penulis di <it>server</it> lokal. Penulis melakukan pengembangan sistem secara bertahap. Pada tahap pertama, penulis hanya membuat <it>proof-of-concept</it> seperti program <it>proof-of-concept</it> untuk metode kedua, namun dalam bentuk sistem yang berdiri sendiri. Setelah itu, penulis melakukan penyempurnaan sistem secara bertahap. Penyempurnaan yang dilakukan antara lain 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<segment>
+			adalah <it>refactoring,</it> menambah dukungan untuk mentranskripsikan percakapan yang terdiri dari beberapa potongan atau <it>chunk,</it> membuat integrasi sistem dengan aplikasi utama, menambah dukungan untuk menangani banyak percakapan di suatu waktu, serta <it>testing.</it> Setiap tahap penyempurnaan melalui tahap <it>code</it> <it>review.</it> Di minggu terakhir kerja praktik, seluruh fitur yang diharapkan ada sudah berhasil diimplementasikan, <it>test</it> <it>coverage</it> untuk sistem yang dibuat sudah lebih dari 80 persen, dan integrasi sistem dengan aplikasi utama sudah berjalan dengan baik. Penulis, penyelia kerja praktik, dan anggota tim yang lain menguji sistem dengan cara bergantian berbicara dengan mikrofon dan sistem berhasil berjalan dengan baik dan menampilkan hasil transkripsinya di aplikasi utama. <bo>2.2</bo> <bo>Analisis</bo> Setelah pelaksanaan kerja praktik selesai, penulis menganalisis pelaksanaan kerja praktik yang dijalani penulis serta relevansi mata kuliah di Fasilkom UI dengan pekerjaan penulis di masa kerja praktik. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Terdapat beberapa ketidaksesuaian antara pelaksanaan kerja praktik dengan perencanaan yang tertulis di Kerangka Acuan Kerja Praktik. Pada awalnya, penulis dan penyelia kerja praktik mengira sistem yang akan dibuat akan cukup sederhana dan dapat diselesaikan dalam beberapa minggu. Sistem dijadwalkan selesai dalam waktu lima sampai tujuh minggu, yang kemudian akan diikuti dengan peluncuran sistem dan perolehan serta pengolahan data transkripsi yang dihasilkan sistem.</title>
+		<segment>
+			Pada kenyataannya, pengembangan sistem yang menjadi proyek utama kerja praktik penulis memakan waktu yang cukup banyak karena menemui beberapa kendala teknis dalam pengerjaannya. Kendala ini baru diketahui saat penulis mulai mencoba bereksperimen di minggu-minggu awal kerja praktik karena proyek kerja praktik penulis belum pernah dicoba diimplementasikan sebelumnya. Eksperimen dan pengembangan sistem menghabiskan waktu sampai akhir periode kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<segment>
+			Selain itu, penulis juga mengerjakan beberapa tugas kecil seperti <it>bugfix</it> minor di aplikasi utama yang sebelumnya tidak ada di KAKP. Penulis merasa puas bisa melakukan beberapa pekerjaan kecil tersebut karena bisa mengisi waktu penulis dengan produktif dan memberikan pengalaman di bidang yang sebelumnya jarang ditekuni penulis seperti pengembangan dan pengujian <it>frontend</it> serta aplikasi Android. Pelaksanaan kerja praktik di Google Inc. menambah wawasan penulis di berbagai bidang disiplin di dunia pengembangan perangkat lunak. Banyak sekali pelajaran baru yang penulis dapatkan selama pelaksanaan kerja praktik, baik pelajaran teknis ataupun non teknis yang bersumber dari penyelia kerja praktik penulis, anggota tim dimana penulis ditempatkan, sumber pembelajaran internal dari perusahaan, maupun dari sesama pelaku kerja praktik di perusahaan tempat kerja praktik penulis. 
+		</segment>
+		<title><bo>2.2.2</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> Pada proyek kerja praktik yang penulis kerjakan, terdapat cukup banyak relevansi dengan perkuliahan di Fasilkom UI yang pernah diikuti penulis.</title>
+		<segment>
+			Dalam mata kuliah DDP, penulis mempelajari pemrograman dalam bahasa Java yang merupakan bahasa yang digunakan di proyek kerja praktik penulis. Penulis juga mempelajari konsep-konsep <it>Object-oriented</it> <it>Programming</it> yang merupakan konsep yang sangat penting dan dipakai dalam perancangan sistem yang saya buat. Dalam mata kuliah PPW, penulis mempelajari dasar-dasar pemrograman berbasis <it>web.</it> Karena sistem yang dibuat penulis berbentuk <it>web</it> <it>service</it> dan penulis juga mengerjakan beberapa tugas di bagian <it>frontend</it> aplikasi utama yang berbasis web,</it> ilmu yang didapatkan di perkuliahan tersebut banyak digunakan, terutama penggunaan JavaScript dan AJAX. Dalam mata kuliah RPL, penulis mempelajari beberapa <it>design</it> <it>pattern</it> dan konsep- konsep penting dalam perancangan sebuah perangkat lunak. Pengetahuan penulis akan hal-hal ini sangat membantu penulis dalam merancang sistem yang dibuat penulis di kerja praktik ini. Penulis juga membuat beberapa laporan sebagai syarat peluncuran 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<segment>
+			sebuah sistem di Google Inc. dengan format yang mirip dengan beberapa tugas di perkuliahan RPL. Dalam mata kuliah Sistem Operasi (OS) dan Pemrograman Sistem, penulis mempelajari dasar-dasar penggunaan sistem operasi berbasis UNIX dan cara melakukan hal-hal yang berkaitan dengan pemrograman di sistem tersebut. Penulis memanfaatkan pengetahuan dan pengalaman dalam menggunakan sistem operasi berbasis UNIX untuk melakukan pekerjaan sehari-hari. Penulis juga menggunakan sedikit pengetahuan <it>scripting</it> saat melakukan beberapa eksperimen dengan berkas audio. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			<bo>3.1</bo> <bo>Kesimpulan</bo> Google Inc. merupakan tempat yang sangat baik untuk menjadi tujuan melaksanakan kerja praktik dan melanjutkan karir setelah lulus. Google Inc., memberikan sarana yang kondusif agar karyawannya mampu mengerjakan pekerjaan dengan baik. Selain itu, seluruh karyawan Google yang berinteraksi dengan penulis sangat terbuka untuk membantu dan mengajarkan penulis hal-hal baru dan kiat-kiat untuk memiliki karir yang suksed di bidang teknologi. Di Google Inc., penulis mendapat banyak pengalaman dan pengetahuan dari lingkungan kerja dan pekerjaan yang penulis lakukan. <bo>3.2</bo> <bo>Saran</bo> Penulis menyarankan untuk mahasiswa atau mahasiswi yang akan mengambil kerja praktik untuk giat mencari lowongan tidak hanya di dalam negeri. Menurut penulis, mendapatkan pekerjaan untuk magang di luar negeri lebih mudah daripada mendapatkan pekerjaan tetap di luar negeri, dan pengalaman yang didapatkan baik secara profesional maupun secara pribadi akan jauh lebih menarik daripada di dalam negeri. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			(1) (2) (3) (4) (5) (6) (7) <it>A</it> <it>JavaScript</it> <it>library</it> <it>for</it> <it>building</it> <it>user</it> <it>interfaces</it> <it>-</it> <it>React.</it> (2016). Facebook.github.io. Diakses 27 November 2016, from https:// facebook.github.io/react/ <it>App</it> <it>Engine</it> <it>-</it> <it>Platform</it> <it>as</it> <it>a</it> <it>Service</it> <it>|</it> <it>Google</it> <it>Cloud</it> <it>Platform.</it> (2016). Google Cloud Platform. Retrieved 27 November 2016, from https://cloud.google.com/ appengine/ <it>BlockingQueue</it> <it>(Java</it> <it>Platform</it> <it>SE</it> <it>7).</it> (2016). Docs.oracle.com. Retrieved 27 November 2016, from https://docs.oracle.com/javase/7/docs/api/java/util/ concurrent/BlockingQueue.html <it>grpc</it> <it>/</it> <it>About.</it> (2016). Grpc.io. Retrieved 27 November 2016, from http:// www.grpc.io/about/ <it>Protocol</it> <it>Buffers</it> <it>|</it> <it>Google</it> <it>Developers.</it> (2016). Google Developers. Retrieved 27 November 2016, from https://developers.google.com/protocol-buffers/ <it>Speech</it> <it>API</it> <it>-</it> <it>Speech</it> <it>Recognition</it> <it>|</it> <it>Google</it> <it>Cloud</it> <it>Platform.</it> (2016). Google Cloud Platform. Retrieved 27 November 2016, from https://cloud.google.com/ speech/ <it>Use</it> <it>JSDoc:</it> <it>Index.</it> (2016). Usejsdoc.org. Retrieved 27 November 2016, from http://usejsdoc.org/ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+	</page>
+	<page id="24">
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+	</page>
+
+</document>

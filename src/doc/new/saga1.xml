@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>Pengembangan</bo> <it><bo>Application</bo></it> <it><bo>Programming</bo></it> <it><bo>Interface</bo></it> <bo>(API)</bo> <bo>untuk</bo> <bo>Aplikasi</bo> <bo>Kudo</bo> <bo>Companion</bo> <bo>(Field</bo> <bo>Officer</bo> <bo>App)</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ADRIANUS</bo> <bo>SAGA</bo> <bo>EKAKRISTI</bo></title>
+		<segment>
+			<bo>1306409476</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Adrianus Saga Ekakristi : 1306409476 Program Studi : Ilmu Komputer Judul Kerja Praktik : Pengembangan <it>Application</it> <it>Programming</it> <it>Interface</it> (<it>API)</it> untuk Aplikasi <it>Kudo</it> <it>Companion</it> (<it>Field</it> <it>Officer</it> <it>App)</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.Sc.)</bo> Ditetapkan di : Depok Tanggal : 24 November 2016 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama Program Studi Judul : Adrianus Saga Ekakristi : Ilmu Komputer : Pengembangan <it>Application</it> <it>Programming</it> <it>Interface</it> (API) untuk Aplikasi Kudo Companion (Field Officer App) Laporan ini berisi hasil kerja praktik yang telah dilakukan penulis antara Juni hingga Agustus 2016. Laporan kerja praktik ini disusun sebagai pemenuhan mata kuliah Kerja Praktik pada semester Gasal 2016/2017. Penulis melaksanakan kerja praktik pada perusahaan PT. Kudo Teknologi Indonesia sebagai <it>back-end</it> API <it>developer</it> <it>intern.</it> Penulis membangun API yang digunakan dalam proyek Kudo Companion atau Field Officer App. API ini akan dikonsumsi oleh aplikasi <it>front-end</it> Field Officer App, yaitu <it>mobile</it> <it>app</it> dan <it>web</it> <it>app.</it> Field Officer App itu sendiri akan digunakan oleh <it>field</it> <it>officer</it> Kudo untuk memantau agen Kudo. Penulis belajar banyak hal selama melaksanakan kerja praktik di Kudo, baik itu hal teknis maupun non-teknis. Kata kunci: Kudo, <it>back-end,</it> <it>application</it> <it>programming</it> <it>interface</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 3</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 6 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 6</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 6</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 7</title>
+		<title>2.1.3. Metodologi dan Timeline .......................................................................... 7</title>
+		<title>2.1.4. Teknologi yang Digunakan ....................................................................... 8</title>
+		<title>2.1.5. Pelaksanaan dan Hasil Kerja Praktik ...................................................... 10</title>
+		<title>2.2. Analisis .......................................................................................................... 11</title>
+		<title>2.2.1. Kesesuaian dan Perbedaan dengan KAKP ............................................. 11</title>
+		<title>2.2.2. Kendala dalam Pelaksanaan Kerja Praktik ............................................. 13</title>
+		<title>2.2.3. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 13</title>
+		<segment>
+			BAB 3 PENUTUP...................................................................................................... 16 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 16</title>
+		<title>3.2. Saran .............................................................................................................. 16</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 17 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Struktur ......................................................................................................... 5 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada awal Semester Genap 2015/2016, penulis mulai mencari tempat magang untuk memenuhi mata kuliah Kerja Praktik. Sebagai persiapan, penulis meminta transkrip nilai penulis yang terbaru melalui Sistem Informasi Surat Fakultas Ilmu Komputer (Fasilkom) Universitas Indonesia (UI). Transkrip nilai digunakan untuk beberapa perusahaan yang meminta dalam proses pendaftaran. Transkrip nilai tersebut dapat penulis ambil dalam waktu 2 hari di Sekretariat Fasilkom UI. Perusahaan pertama dimana penulis mendaftar adalah PT. Global Digital Prima (GDP) Venture divisi teknologi yang lebih sering dikenal sebagai GDP Labs. Penulis mengenal GDP Labs dari beberapa seminar yang dibawakan oleh Bapak On Lee, <it>Chief</it> <it>Tehnology</it> <it>Officer</it> dari perusahaan ini. Untuk pendaftaran <it>internship</it> di GDP Labs, penulis perlu membuat <it>cover</it> <it>letter</it> berisi alasan, latar belakang, dan motivasi untuk magang di perusahaan tersebut. Langkah pertama penulis mendaftar di GDP Labs adalah mengirim <it>email</it> kepada Bapak On Lee pada 22 Februari 2016 dan melampirkan <it>cover</it> <it>letter</it> dan <it>curriculum</it> <it>vitae</it> (CV) pada <it>email</it> tersebut. Beberapa jam kemudian Bapak On Lee membalas <it>email</it> penulis dan memberitahu bahwa HR dari GDP Labs akan menghubungi penulis. Penulis kemudian mendapatkan <it>email</it> dari Ibu Stella Kurniawan bahwa Bapak Setiawan akan menghubungi penulis untuk <it>online</it> <it>coding</it> <it>test.</it> Hingga sebulan kemudian, penulis tidak dihubungi kembali. Ketika penulis mencoba menghubungi, Bapak Setiawan mengatakan bahwa <it>platform</it> yang digunakan untuk <it>online</it> <it>coding</it> <it>test</it> sedang mengalami migrasi dan <it>testing</it> sehingga belum siap. Pada tanggal 23 Maret 2016, penulis mendapatkan <it>email</it> berisi <it>link</it> menuju tempat <it>test,</it> yaitu olympia.id dan menjalani <it>test</it> tersebut. Pada tanggal 31 Maret 2016, penulis mendapatkan kabar berupa <it>email</it> bahwa pendaftaran <it>internship</it> penulis di GDP Labs tidak diterima. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			Penulis juga mendaftar program <it>internship</it> pada perusahaan Bukalapak pada awal April 2016. Pada tanggal 14 April 2016, salah satu pegawai divisi <it>Recruitment</it> <it>Specialist</it> Bukalapak mengirimkan penulis <it>email</it> beserta dengan soal test yang harus penulis kerjakan dan kumpulkan 2 hari kemudian. Pada tanggal 3 Mei 2016, Bukalapak mengirimkan penulis <it>email</it> bahwa pendaftaran <it>internship</it> penulis di Bukalapak tidak diterima. Selain itu, penulis juga mendaftar pada perusahaan Blibli dengan mengirimkan <it>email</it> beserta CV kepada salah satu <it>email</it> <it>recruitment</it> IT Blibli. Namun, Blibli tidak membalas pendaftaran tersebut. Pada pertengahan April 2016, penulis mendaftar program magang pada perusahaan YesBoss dengan mengirimkan <it>email</it> berisi CV dan <it>application</it> <it>letter</it> sesuai proses pendaftaran yang tertera pada situs resmi YesBoss. YesBoss baru membalas <it>email</it> penulis pada awal Juni 2016 dan memberitahukan bahwa penulis tidak diterima. Pada akhir April 2016, penulis mendaftar program magang pada perusahaan Dekoruma. Penulis mengetahui kesempatan magang tersebut dari salah satu alumni Fasilkom UI. Penulis mendaftar dengan cara mengirimkan <it>email</it> beserta CV kepada salah satu developer Dekoruma. Kemudian, penulis dipanggil untuk <it>interview</it> dan <it>test</it> di kantor Dekoruma dua hari kemudian. Namun, penulis tidak diterima pada perusahaan tersebut. Pada akhir April 2016, penulis mendaftar program <it>internship</it> pada perusahaan Kios Untuk Dagang Online (Kudo) yang dinamakan Kudo Class Academy 2016. Penulis mendapatkan informasi program <it>internship</it> ini dari berbagai sumber, seperti LinkedIn, poster yang tersebar di media komunikasi, dan teman-teman Fasilkom UI yang juga sedang mencari tempat kerja praktik. Penulis mendaftar dengan cara mengirimkan <it>email</it> kepada <it>email</it> resmi <it>Human</it> <it>Capital</it> (HC) Kudo beserta CV. Penulis mendaftar pada divisi <it>back-end</it> <it>application</it> <it>programming</it> <it>interface</it> (API). Kurang lebih seminggu kemudian, penulis menerima <it>email</it> berisi undangan wawancara pada 4 Mei 2016 di kantor Kudo yang terletak di Gedung Grand Lucky, Radio Dalam, Jakarta 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			Selatan. Penulis menghadiri wawancara tersebut dan ditanyakan beberapa hal terkait teknis maupun non-teknis. Wawancara non-teknis dilakukan bersama dengan seorang dari divisi HC. Wawancara teknis dilakukan bersama dengan seorang dari divisi dimana saya mendaftar, yaitu divisi <it>back-end</it> API. Sekitar seminggu kemudian, penulis dikabari oleh salah seorang dari divisi HC Kudo melalui telepon bahwa penulis diterima pada program <it>internship</it> yang dimulai pada 13 Juni 2016. Penulis memilih Kudo sebagi tempat kerja praktik dan tidak meneruskan pencarian. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bagian ini akan membahas mengenai profil tempat kerja praktik serta posisi penulis dan divisi dimana penulis magang dalam struktur organisasi perusahaan. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Kios Untuk Dagang Online atau Kudo adalah sebuah perusahaan yang menyediakan aplikasi dalam berbagai platform yang menghubungkan pedagang, baik itu <it>seller</it> ataupun <it>reseller</it> produk, untuk memasarkan usaha mereka kepada masyarakat melalui agen-agen Kudo. Konsep <it>marketplace</it> pada Kudo adalah <it>online-to-offline,</it> yaitu memasarkan produk <it>online</it> yang dapat berasal dari <it>marketplace</it> <it>online</it> seperti Bukalapak, Elevenia, Lazada, dan sebagainya, kepada masyarakat yang tidak memiliki akses <it>online.</it> Oleh karena itu, Kudo memiliki agen-agen Kudo, yang mana masyarakat dapat membeli produk yang tersedia secara <it>online</it> dan melakukan pembayaran kepada agen tersebut. Target pasar utama dari Kudo adalah masyarakat yang tidak memiliki akses terhadap platform belanja <it>online,</it> seperti masyarakat menengah kebawah di kota kecil. Kudo memiliki visi untuk menciptakan pengusaha-pengusaha digital untuk memajukan Indonesia. Seluruh masyarakat Indonesia memiliki kesempatan menjadi agen Kudo. Kudo didirikan pada tahun 2014 oleh Albert Lucius sebagai <it>Chief</it> <it>Executive</it> <it>Officer</it> (CEO) serta merangkap sebagai <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO), dan Agung Nugroho sebagai <it>Chief</it> <it>Operating</it> <it>Officer</it> (COO) [1]. Melihat pada sejarah berkembangnya Kudo, produk-produk Kudo mengalami evolusi yang signifikan untuk mencapai visi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<segment>
+			perusahaan. Produk pertama Kudo diluncurkan pada Desember 2014, yaitu Kudobox 1, yaitu <it>tablet</it> dalam <it>box</it> yang diletakkan pada tempat publik. Perangkat tersebut dapat digunakan pengunjung untuk berbelanja <it>online</it> [1]. Pada Januari 2015, Kudo meluncurkan Kudobox 2 yang berbentuk <it>tablet</it> yang dapat dibawa oleh agen Kudo perorangan [1]. Pada Maret 2016, Kudo meluncurkan aplikasi <it>mobile</it> <it>app</it> untuk mempermudah agen Kudo dan meningkatkan jumlah pelanggan [1]. Pada Mei 2016, Kudo sudah memiliki <it>web</it> <it>app</it> sehingga semua orang dapat menjadi agen Kudo tanpa aplikasi <it>mobile</it> Kudo [1]. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Penulis memiliki posisi sebagai <it>back-end</it> API <it>developer</it> <it>intern</it> yang berada dibawah divisi API yang merupakan bagian dari divisi besar <it>back-end.</it> Divisi <it>back-end</it> adalah salah satu divisi dari bidang <it>technology</it> Kudo yang dikepalai oleh CTO. Struktur organisasi bidang <it>technology</it> Kudo dapat dilihat pada Gambar 1. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<segment>
+			CMS Feature CMS Reporting Online Product Travel Internal API QA Analyst QA Engineer 
+		</segment>
+		<title>UI/UX</title>
+		<segment>
+			Front-End Web Development Mobile Apps 
+		</segment>
+		<title>CMS</title>
+		<segment>
+			Network 
+		</segment>
+		<title>API</title>
+		<segment>
+			Back-End Technology Release Engineer Release Engineer Quality Assurance Technology Evangelist Developer Relation Dev Operational Data Analyst Data Data Engineer Fraud Specialist <it>Gambar</it> <it>1.</it> <it>Struktur</it> <it>Organisasi</it> <it>Divisi</it> <it>Technology</it> <it>Kudo</it> <it>dan</it> <it>Posisi</it> <it>Penulis</it> <it>saat</it> <it>Kerja</it> <it>Praktik</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bagian ini akan membahas latar belakang, tinjauan pustaka untuk teknologi yang digunakan, dan hasil pekerjaan penulis pada kerja praktik. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Kudo menciptakan produk yang siap melayani <it>user</it> dalam jumlah yang besar dengan aman dan stabil. Untuk memenuhi hal tersebut, sistem aplikasi <it>web</it> Kudo harus memiliki arsitektur yang <it>reliable</it> dan <it>scalable.</it> Salah satu contoh arsitektur sistem yang baik adalah arsitektur yang modular, seperti pemisahan sisi <it>back-end</it> yang bertanggung jawab kepada logika aplikasi serta pengolahan data, dan <it>front-end</it> yang fokus kepada tampilan aplikasi kepada <it>user.</it> Divisi <it>back-end</it> Kudo bertanggung jawab pada <it>layer</it> <it>back-end</it> pada sistem Kudo, yaitu <it>network</it> pada <it>layer</it> paling dasar, <it>content</it> <it>management</it> <it>system</it> (CMS) untuk mengolah dan memanipulasi data, dan API yang bertanggung jawab menyediakan <it>interface</it> untuk melayani <it>request</it> informasi ataupun data yang dibutuhkan berbagai aplikasi di Kudo. <it>Field</it> <it>officer</it> (FO) di Kudo memiliki tanggung jawab untuk mengawasi kinerja agen serta membantu kendala teknis maupun non-teknis yang dihadapi agen dalam berjualan dengan aplikasi Kudo. Aplikasi untuk membantu pekerjaan FO sudah pernah dibuat sebelumnya, namun tidak digunakan kembali dikarenakan pergeseran <it>platform</it> aplikasi Kudo menjadi <it>mobile</it> <it>app.</it> Kudo sebagai sebuah perusahaan juga perlu memantau kinerja FO di lapangan. Perlunya aplikasi untuk membantu dan memantau FO inilah yang menjadi alasan dibuatnya aplikasi Kudo Companion, atau dikenal juga sebagai Kudo Field Officer App (FO App). Pada <it>internship</it> kali ini, penulis mendapatkan kesempatan untuk mengimplementasi API untuk aplikasi FO App. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Bagian ini akan membahas beberapa konsep penting terkait teknis pekerjaan penulis pada masa kerja praktik. <it>1.</it> <it>Application</it> <it>Programming</it> <it>Interface</it> <it>(API)</it> <it>Application</it> <it>programming</it> <it>interface,</it> atau <it>application</it> <it>program</it> <it>interface,</it> atau API adalah sekumpulan <it>code</it> yang memungkinkan dua buah aplikasi perangkat lunak untuk berkomunikasi dengan satu sama lain [2]. API digunakan dua buah sistem yang berbeda untuk bertukar, meminta, atau mengirim data. Dalam konteks <it>web</it> <it>development,</it> API yang disediakan melalui <it>network</it> disebut <it>web</it> API. Umumnya, implementasi <it>web</it> API memiliki bentuk <it>request-response</it> dalam <it>layer</it> HTTP. Beberapa tipe <it>web</it> API adalah <it>simple</it> <it>object</it> <it>access</it> <it>protocol</it> (SOAP) dan <it>representational</it> <it>state</it> <it>transfer</it> (REST). <it>2.</it> <it>Representational</it> <it>State</it> <it>Transfer</it> <it>(REST)</it> <it>API</it> <it>Representational</it> <it>state</it> <it>transfer</it> atau REST API adalah sebuah <it>architectural</it> <it>style</it> untuk mendefinisikan <it>web</it> API. REST API memiliki ide dasar mengakses <it>resource</it> dengan menjelajahi <it>link.</it> REST API mendefinisikan standar cara berkomunikasi dua buah sistem aplikasi perangkat lunak melalui <it>request</it> dan <it>response</it> HTTP. Beberapa karakteristik yang dimiliki REST API adalah terjadi antara <it>client-server,</it> <it>stateless,</it> <it>uniform</it> <it>interface</it> atau seluruh <it>resource</it> dapat diakses dengan <it>interface</it> yang <it>generic,</it> dan dapat terdiri dari beberapa <it>component</it> dalam setiap <it>layer.</it> 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo> <bo>dan</bo> <bo>Timeline</bo></title>
+		<segment>
+			<it>Developer</it> Kudo menggunakan <it>software</it> <it>development</it> <it>life</it> <it>cycle</it> (SDLC) bertipe <it>scrum.</it> Umumnya, tim API, yaitu penulis, akan membuat <it>design</it> <it>endpoint</it> beserta detil <it>format</it> <it>request</it> dan <it>response</it> setelah <it>mockup</it> selesai dikerjakan oleh tim divisi UI/UX. Setelah tim API membuka API pada <it>test</it> <it>environment,</it> tim dari divisi lain, seperti <it>mobile</it> <it>app</it> dan <it>web</it> <it>development,</it> dapat mulai menggunakan API untuk aplikasi yang sedang mereka kerjakan masing-masing. Namun tidak jarang terjadi perubahan terhadap <it>mockup</it> oleh divisi UI/UX setelah berdiskusi dengan berbagai pihak, termasuk <it>user.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			Oleh karena itu, perubahan terhadap <it>design</it> dan implementasi API juga dapat terjadi di saat berjalannya <it>sprint.</it> Dalam perubahan tersebut, tim API juga perlu mempertimbangkan berbagai faktor seperti <it>feasibility</it> dan dampak terhadap performa aplikasi. Pada pengerjaan proyek ini, terdapat <it>sprint-sprint</it> untuk target pengerjaan <it>feature</it> API untuk FO App. <it>Feature</it> yang dikerjakan pada <it>sprint</it> pertama dari 27 Juni hingga 3 Juli adalah <it>authentication</it> atau <it>login.</it> <it>Feature</it> yang dikerjakan pada <it>sprint</it> kedua dari 4 Juli hingga 17 Juli adalah absensi kunjungan FO terhadap agen Kudo. <it>Feature</it> yang dikerjakan pada <it>sprint</it> ketiga antara 18 Juli hingga 31 Juli adalah <it>list</it> agen, <it>detail</it> profil agen, dan <it>update</it> profil agen. Setelah <it>sprint</it> ketiga, akan diadakan <it>mid</it> <it>presentation</it> untuk proyek FO App yang akan dihadiri CEO serta <it>lead</it> dari seluruh divisi <it>technology</it> Kudo. Pada presentasi ini, akan dilaporkan seluruh <it>progress</it> pengerjaan proyek FO App, termasuk dari sisi API. Pada <it>sprint</it> keempat antara 1 Agustus hingga 7 Agustus, <it>Feature</it> yang dikerjakan adalah <it>forgot</it> <it>password</it> dan <it>reset</it> <it>password</it> akun FO. Setelah <it>sprint</it> keempat, akan diadakan <it>final</it> <it>presentation</it> proyek FO App yang dihadiri CEO, <it>lead</it> seluruh divisi <it>technology,</it> serta divisi <it>sales.</it> Waktu selanjutnya hingga masa kerja praktik selesai digunakan untuk <it>refactoring,</it> <it>bug</it> <it>fixing,</it> serta mempersiapkan <it>deployment</it> ke <it>environment</it> <it>staging</it> dan <it>production.</it> 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo></title>
+		<segment>
+			Dalam pekerjaan penulis dalam divisi <it>back-end</it> API, terdapat beberapa <it>tools</it> dan <it>framework</it> yang digunakan dalam mengerjakan proyek FO App. Beberapa teknologi yang digunakan penulis dalam masa kerja praktik adalah bahasa pemrograman PHP, Laravel, MariaDB, Postman. PHP adalah bahasa pemrograman untuk <it>web</it> yang relatif mudah dipahami <it>programmer</it> pemula, bahkan masyarakat umum yang belum punya pengalaman pemrograman. Karakteristik mudah dipahami inilah yang membuat bahasa pemrograman PHP masih berkembang dan digunakan masyarakat luas. <it>Developer</it> Kudo menggunakan bahasa pemrograman PHP, terutama <it>framework</it> Laravel dan Lumen. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			Laravel merupakan salah satu <it>framework</it> untuk membangun aplikasi <it>web</it> dalam bahasa pemrograman PHP. Laravel memiliki <it>architectural</it> <it>pattern</it> <it>model-view-</it> <it>controller</it> (MVC). Untuk mengelola data, Laravel memiliki <it>class</it> <it>model</it> yang merepresentasikan <it>table</it> dalam <it>database.</it> Hal ini merupakan realisasi konsep <it>object-</it> <it>relational</it> <it>mapping</it> (ORM) dalam Laravel. Dengan ORM, <it>developer</it> dapat lebih mudah memanipulasi data dalam bentuk <it>class</it> dan <it>object,</it> bukan dengan menuliskan SQL. SQL akan disusun oleh <it>model</it> Laravel dan mengeksekusinya pada <it>database.</it> <it>Model</it> pada Laravel juga dapat digunakan untuk mendefinisikan <it>relationship</it> antar <it>table</it> yang nantinya dapat mempermudah berbagai macam proses <it>join</it> <it>table.</it> Selain itu, Laravel juga menggunakan <it>migration</it> untuk mengelola <it>versioning</it> dari <it>blueprint</it> struktur <it>database.</it> Setiap <it>migration</it> pada Laravel berisi suatu perubahan struktur <it>database,</it> baik itu menambah <it>table,</it> mengubah <it>field</it> dari <it>table,</it> atau menghapus <it>table.</it> Secara garis besar, proses pengolahan <it>request</it> menjadi <it>response</it> pada Laravel dimulai dari <it>routing.</it> <it>Routing</it> akan mendefinisikan fungsi pada <it>controller</it> yang akan mendapatkan <it>request</it> dan menyusun bentuk <it>response,</it> baik itu data dalam format JSON ataupun hasil <it>render</it> sebuah <it>view.</it> <it>Controller</it> pada Laravel adalah bagian berisi <it>function</it> yang berisi logika pengolahan <it>request</it> dan penyusunan <it>response.</it> <it>Controller</it> juga dapat mengakses data dengan menggunakan <it>model.</it> Laravel menyediakan <it>templating</it> sebagai bagian <it>view</it> dalam MVC. <it>Templating</it> pada Laravel menggunakan Blade, yaitu salah satu cara mendefinisikan struktur <it>layout</it> dan bagaimana suatu data ditampilkan dalam <it>view.</it> Dalam pengerjaan API oleh penulis, <it>templating</it> Blade ini tidak digunakan karena API FO App mengembalikan data dalam format JSON. Dependensi <it>module</it> ataupun <it>library</it> pada suatu <it>project</it> Laravel dikelola oleh Composer. API FO App membutuhkan dependensi Guzzle untuk melakukan <it>request</it> HTTP terhadap API Kudo lain. <it>Database</it> yang digunakan dalam proyek Kudo ini adalah MariaDB. MariaDB memiliki kemiripan yang tinggi dengan MySQL. MariaDB bersifat <it>open-source.</it> Secara garis besar, MariaDB adalah salah satu jenis <it>relational</it> <it>database</it> <it>management</it> <it>system</it> (RDBMS). MariaDB digunakan untuk menyimpan data dalam bentuk <it>table</it> yang dapat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			memiliki <it>relationship,</it> <it>key,</it> dan properti lainnya. Penulis tidak banyak melakukan optimasi, seperti <it>indexing,</it> pada <it>database</it> Kudo. Postman adalah suatu aplikasi yang dapat mengirim <it>request</it> HTTP dalam berbagai bentuk. Postman memudahkan penggunanya untuk mengirim <it>request</it> HTTP dengan berbagai tipe seperti POST, GET, PUT, DELETE, dan sebagainya. Penulis menggunakan aplikasi Postman dalam <it>browser</it> Google Chrome untuk <it>development</it> dan uji coba API yang sudah dibuat, baik itu dalam <it>environment</it> <it>local,</it> <it>test</it> <it>server,</it> maupun <it>production</it> <it>server.</it> Postman relatif lebih mudah digunakan daripada metode lain, seperti curl pada Linux. Sebagai tambahan, untuk mengevaluasi jalannya aplikasi <it>mobile</it> <it>app</it> Kudo, baik itu <it>mobile</it> <it>app</it> FO App maupun <it>mobile</it> <it>app</it> produk Kudo, penulis menggunakan Genymotion. Genymotion adalah salah satu <it>emulator</it> Android yang relatif mudah digunakan. Penulis mencoba aplikasi <it>mobile</it> <it>app</it> untuk mempelajari dan mengevaluasi kekurangan atau hal yang dapat diperbaiki dari API yang digunakan oleh <it>mobile</it> <it>app.</it> Hal ini terkait dengan performa yang diberikan API dan beban yang diterima <it>server.</it> Terdapat beberapa <it>tools</it> pendukung lain yang digunakan penulis dalam masa kerja praktik, seperti JIRA dan PHPMyAdmin. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Pelaksanaan</bo> <bo>dan</bo> <bo>Hasil</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam <it>internship</it> ini, penulis membangun API untuk aplikasi FO App yang terdiri dari beberapa <it>endpoint.</it> API ini dibangun dari awal. Secara garis besar, penulis membangun sebuah <it>web</it> <it>service.</it> API ini dibangun dengan <it>framework</it> Laravel. <it>Versioning</it> pada <it>project</it> ini menggunakan BitBucket, yaitu <it>hosting</it> <it>service</it> untuk <it>version</it> <it>control,</it> yang salah satunya adalah Git. Penulis menggunakan <it>environment</it> <it>local</it> dan <it>environment</it> <it>test</it> <it>server</it> untuk <it>development.</it> <it>Server</it> untuk API FO App diurus oleh penyelia penulis dan <it>head</it> dari divisi <it>back-end,</it> sehingga penulis sering berkoordinasi dengan kedua pihak tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			Terdapat beberapa <it>feature</it> yang dikerjakan. <it>Feature</it> pertama adalah <it>authentication</it> yang terdiri dari <it>login,</it> <it>forgot</it> <it>password,</it> dan <it>reset</it> <it>password.</it> <it>Feature</it> kedua adalah absensi kunjungan FO terhadap agen. <it>Feature</it> ini terdiri dari <it>request</it> QR Code oleh aplikasi agen Kudo, absensi dengan akses internet, dan absensi tanpa akses internet. <it>Feature</it> ketiga adalah penampilan data agen. <it>Feature</it> ini terdiri dari <it>list</it> agen, <it>detail</it> data sebuah agen, statistik agen, <it>update</it> data agen, <it>search</it> terhadap agen berdasarkan <it>keyword,</it> dan <it>endpoint</it> pendukung lainnya. <it>Feature</it> terakhir adalah beberapa <it>feature</it> kecil pendukung aplikasi <it>mobile,</it> seperti informasi valid atau tidaknya <it>session,</it> informasi akun yang sedang <it>login,</it> <it>accomplishment</it> target kunjungan oleh akun yang sedang <it>login,</it> dan sebagainya. API yang penulis kerjakan perlu mengakses data dengan ukuran yang sangat besar. Penulis perlu mengimplementasi algoritma se-efisien mungkin agar tercapai skalabilitas untuk jangka panjang. Untuk beberapa <it>feature,</it> seperti <it>feature</it> <it>forgot</it> dan <it>reset</it> <it>password</it> akun FO, API yang penulis kerjakan perlu menggunakan <it>mail</it> <it>service.</it> Oleh karena itu, penulis juga berkoordinasi dengan divisi <it>network</it> yang menyediakan dan mengkoordinasikan <it>server</it> serta <it>domain</it> yang digunakan untuk <it>mail.</it> 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Bagian ini akan membahas mengenai kesesuaian pelaksanaan kerja praktik dengan KAKP, kendala atau hambatan dalam kerja praktik, serta relevansi dengan perkuliahan di Fasilkom UI. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Terdapat ketidaksesuaian pelaksanaan kerja praktik dengan KAKP, yaitu perbedaan <it>timeline</it> yang direncanakan dengan pengerjaan sesungguhnya. Pada <it>timeline</it> di KAKP, minggu kedua digunakan penuh untuk tahap <it>planning</it> untuk rancangan dan spesifikasi setiap <it>endpoint</it> API yang dibutuhkan untuk proyek FO App. Namun pada pelaksanaan sesungguhnya, penulis menyelesaikan lebih rancangan <it>endpoint</it> lebih dulu, selesai mengimplementasi <it>feature</it> <it>authentication,</it> termasuk <it>forgot</it> dan <it>reset</it> <it>password,</it> dan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			mulai mengimplementasi <it>feature</it> data agen. Minggu ketiga, yang pada KAKP direncanakan untuk implementasi <it>feature</it> <it>authentication,</it> pada pelaksanaan sesungguhnya digunakan untuk menyelesaikan sebagian besar implementasi <it>feature</it> data agen dan absensi. Pada masa ini, sebagian besar <it>feature</it> sudah terimplementasi, sehingga minggu-minggu selanjutnya lebih banyak digunakan untuk berbagai revisi terkait penambahan validasi parameter <it>request,</it> <it>bug</it> <it>fixing,</it> memperbaiki performa <it>query</it> terhadap <it>database,</it> dan mulai menyusun dokumentasi. Revisi juga banyak dilakukan terkait integrasi dengan API Kudo lainnya. Tujuan dari integrasi ini adalah memperbaiki performa sehingga beban terhadap <it>database</it> <it>server</it> lebih rendah. Perbedaan lain antara <it>timeline</it> KAKP dengan pelaksanaan sesungguhnya adalah pergeseran <it>timeline</it> untuk <it>feature</it> <it>forgot</it> <it>password</it> menjadi paling akhir. Perpindahan ini dilakukan ditengah masa kerja praktik berlangsung. Hal ini merupakan keputusan <it>lead</it> untuk proyek <it>intern</it> dengan mempertimbangkan kesulitan serta prioritas pentingnya <it>feature</it> lain. Perubahan ini relatif tidak mengganggu penulis pada pelaksanaan kerja praktik. Pengerjaan <it>feature</it> absensi juga mengalami banyak perubahan ditengah <it>sprint</it> berlangsung. Hal ini dikarenakan <it>feature</it> absensi adalah feature yang memiliki prioritas tertinggi dalam proyek FO App ini. Penulis dan tim <it>intern</it> divisi lain yang berada pada proyek FO App ini diharapkan mengusulkan suatu prosedur untuk absensi kunjungan FO kepada agen. Prosedur ini mendapat banyak usulan dari berbagai pihak agar lebih baik lagi, terutama setelah <it>mid</it> <it>presentation.</it> Masukkan tersebut antara lain seperti kasus ketika <it>user</it> atau FO berada pada daerah dengan koneksi yang buruk, bagaimana sistem FO App sebelumnya mengatasi masalah kecurangan, dan sebagainya. Penulis juga melakukan <it>refactoring,</it> <it>bug</it> <it>fixing,</it> dan perubahan <it>code</it> untuk <it>security</it> yang lebih baik di waktu yang tersebar pada setiap <it>sprint.</it> Aktivitas tersebut direncanakan pada <it>timeline</it> di KAKP pada minggu-minggu terakhir setelah <it>final</it> <it>presentation.</it> Penulis merasa perlu memprioritaskan hal ini agar <it>endpoint</it> yang sudah 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			dibuka oleh API dapat diuji oleh tim divisi <it>quality</it> <it>assurance</it> atau digunakan dengan baik oleh tim <it>front-end.</it> 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Terdapat beberapa kendala yang dihadapi penulis dalam menjalani kerja praktik. Salah satu kendala adalah ukuran data yang digunakan oleh aplikasi di Kudo sangatlah besar. Hal ini menyebabkan penulis perlu berhati-hati mengimplementasi <it>feature</it> yang memerlukan data dari <it>database,</it> terutama data yang merupakan gabungan dari lebih dari satu <it>table.</it> Penyusunan <it>query</it> yang tidak tepat, seperti <it>join</it> <it>table</it> yang berlebihan dapat menyebabkan <it>service</it> API atau <it>database</it> yang berhenti bekerja. Dari kendala ini, penulis belajar bahwa implementasi aplikasi dalam skala <it>enterprise</it> memerlukan ketelitian dan perhatian pada berbagai aspek, seperti <it>scalability.</it> Penulis juga perlu mempelajari beberapa <it>protocol</it> atau <it>library</it> yang digunakan <it>developer</it> API Kudo, seperti OAuth, Guzzle, dan sebagainya. Mengingat dalam implementasi API itu sendiri dapat muncul berbagai bug atau ketidaksesuaian, penulis merasa perlu mempelajari komponen-komponen tersebut dengan cepat agar memiliki waktu yang cukup untuk hal-hal yang tidak terduga. Kendala lain yang dihadapi penulis adalah penulis membutuhkan waktu untuk mempelajari karakteristik implementasi aplikasi yang digunakan oleh <it>developer</it> perusahaan. Hal ini mencakup hal teknis yang detail seperti <it>format</it> <it>response</it> <it>endpoint,</it> penggunaan <it>helper</it> <it>class,</it> struktur <it>project,</it> penggunaan <it>model,</it> struktur <it>conditional,</it> penggunaan <it>migration,</it> dokumentasi, dan sebagainya. Proyek FO App yang dikerjakan <it>intern</it> pada akhirnya akan diwariskan kepada <it>developer</it> Kudo. Penulis merasa perlu untuk memastikan bahwa proyek tersebut dapat dengan mudah diadopsi dan dikembangkan lebih lanjut oleh <it>developer</it> Kudo. 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Terdapat beberapa mata kuliah di Fasilkom UI yang terkait dan membantu penulis dalam melaksanakan kerja praktik. Mata kuliah tersebut mencakup Layanan Aplikasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			Web, Perancangan dan Pemrograman Web, Basis Data, dan Proyek Perangkat Lunak. Terdapat beberapa mata kuliah lain yang bersifat sebagai pilar dasar tentang bagaimana cara berpikir yang benar dalam membangun sebuah aplikasi, seperti Struktur Data dan Algoritma, Dasar Dasar Pemrograman. Mata kuliah seperti Sistem Operasi dan Pemrograman Sistem juga membantu penulis dalam hal-hal teknis menggunakan <it>environment</it> Linux, <it>shell,</it> dan sebagainya. Penulis memiliki pekerjaan membangun sebuah web service. Oleh karena itu, mata kuliah terkait teknologi aplikasi <it>web</it> sangat membantu penulis dalam menjalani kerja praktik. Layanan Aplikasi Web (LAW) adalah mata kuliah yang menurut penulis paling relevan. Mata kuliah LAW mempelajari dasar membangun <it>web</it> <it>service,</it> baik itu teori atau praktek. Dalam mata kuliah LAW, penulis mempelajari tipe <it>web</it> <it>service</it> seperti SOAP dan REST, serta implementasi <it>web</it> <it>service</it> menggunakan Java EE. Meskipun bahasa pemrograman yang digunakan berbeda dengan yang digunakan pada kerja praktik, penulis memiliki dasar teori yang cukup untuk mengerti tujuan dari <it>web</it> <it>service</it> yang akan dibangun. Penulis juga terbantu dengan mata kuliah Perancangan dan Pemrograman Web (PPW). PPW mempelajari kemampuan dasar membangun aplikasi <it>web</it> dengan berbagai bahasa pemrograman, termasuk PHP <it>native</it> ataupun menggunakan <it>framework.</it> Karena <it>database</it> merupakan salah satu komponen penting dalam aplikasi <it>web,</it> mata kuliah Basis Data (Basdat) juga sangat membantu penulis dalam masa kerja praktik. Dalam mata kuliah Basdat, penulis mempelajari bagaimana data disimpan dalam <it>table,</it> properti-properti dalam <it>table,</it> <it>relationship</it> antar <it>table,</it> penyusunan SQL, operasi <it>join</it> <it>table,</it> dan sebagainya. Dalam membangun API untuk aplikasi baru FO App, penulis juga merancang beberapa <it>table.</it> Selain itu, ilmu dari Basdat juga berguna dalam menyusun bagaimana aplikasi mengakses data dari <it>database</it> dengan baik dan benar. Dalam mata kuliah Proyek Perangkat Lunak (PPL), penulis juga membangun sebuah aplikasi <it>web</it> yang termasuk aspek <it>front-end</it> dan <it>back-</it> <it>end</it> dengan Laravel. Penulis pertama kali mendapat pengalaman langsung dengan <it>framework</it> Laravel pada mata kuliah PPL ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<segment>
+			Mata kuliah pada tahun pertama dan kedua berkontribusi dalam membangun dasar berpikir yang baik dalam <it>programming.</it> Dalam mata kuliah Struktur Data dan Algoritma (SDA), penulis mempelajari mengenai kompleksitas algoritma. Hal ini sangat berguna untuk membangun aplikasi yang <it>scalable</it> sehingga memiliki performa yang baik meskipun mengolah data yang besar. Mata kuliah <it>programming</it> yang paling dasar, yaitu Dasar Dasar Pemrograman (DDP), juga berkontribusi dalam membangun cara berpikir serta logika yang baik dalam <it>programming.</it> Meskipun tidak signifikan, mata kuliah seperti Sistem Operasi (OS) dan Pemrograman Sistem (Sysprog) juga berkontribusi dalam mengajarkan penulis bagaimana bekerja menggunakan <it>shell</it> dan bagaimana berhadapan dengan <it>environment</it> <it>server</it> yang menggunakan distribusi Linux. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Program internship pada perusahaan Kudo memberikan pengalaman kerja praktik yang berharga. Penulis belajar banyak hal baru baik itu secara teknis maupun non-teknis. Dalam hal teknis, penulis belajar bagaimana membangun aplikasi yang riil akan digunakan dalam perusahaan dan kepada <it>user.</it> Pembelajaran dalam hal non-teknis mencakup mengamati budaya <it>startup,</it> menganalisa dengan baik kebutuhan <it>user,</it> serta berkomunikasi dengan <it>developer</it> lain. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Pengalaman kerja praktik yang telah dilalui oleh mahasiswa tahun ketiga dalam perkuliahan di Fasilkom sangatlah berharga. Pengalaman tidak hanya mencakup pengalaman mencari tempat kerja praktik, namun juga bagaimana karakteristik pekerjaan dalam suatu divisi bidang tertentu, materi kuliah yang membantu pekerjaan dalam perusahaan, ataupun pengalaman berinteraksi dengan <it>client.</it> Ada baiknya pengalaman berharga ini juga dapat dibagikan kepada mahasiswa tahun-tahun sebelumnya. Adanya suatu wadah untuk saling berbagi pengalaman <it>internship</it> sangatlah penting, baik itu dalam bentuk sebuah acara terbuka dalam fakultas ataupun media digital untuk mendokumentasikan intisari pengalaman kerja praktik ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT. KUDO Teknologi Indonesia. (2016). <it>APA</it> <it>ITU</it> <it>KUDO.</it> [online] Available: https://kudo.co.id/apa-itu-kudo. [Accessed 21 Nov. 2016]. [2] Rouse, Margaret. (2014). <it>Application</it> <it>Program</it> <it>Interface</it> <it>(API).</it> [online] Available: http://searchexchange.techtarget.com/definition/application- program-interface. [Accessed 21 Nov. 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

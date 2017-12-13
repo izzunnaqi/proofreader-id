@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>QUALITY</bo> <bo>ASSURANCE:</bo> <bo>CONTENT</bo> <bo>MANAGEMENT</bo></title>
+		<segment>
+			<bo>SYSTEM</bo> &amp; <bo>FIELD</bo> <bo>OFFICER</bo> <bo>APPLICATION</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>LOUIS</bo> <bo>DAVID</bo></title>
+		<segment>
+			<bo>1306464096</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Louis David : 1306464096 Program Studi : Sistem Informasi Judul Kerja Praktik : Quality Assurance: Content Management System &amp; Field Officer Application <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom,</bo> <bo>M.Sc)</bo> Ditetapkan di : [NAMA TEMPAT] Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini berisi rangkuman pelaksanaan kerja praktik oleh penulis yang telah dilaksanakan dalam pemenuhan mata kuliah wajib yang ada di Fakultas Ilmu Komputer Universitas Indonesia yaitu Kerja Praktik. Kerja praktik dilaksanakan di PT. Kudo Teknologi Indonesia selama dua bulan (Juni sampai Agustus 2016). Penulis ditempatkan sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> yang bertanggung jawab melakukan testing terhadap produk yang berupa aplikasi untuk memastikan kualitas dari produk tersebut. <it>Scope</it> pekerjaan penulis sendiri yaitu <it>testing</it> <it>Content</it> <it>Mangement</it> <it>System</it> (CMS) dan aplikasi <it>field</it> <it>officer.</it> Adapun pengetahuan yang penulis dapatkan seperti cara melakukan <it>testing</it> yang baik, <it>tools</it> yang sering digunakan, hingga pembelajaran <it>soft</it> <it>skill.</it> Kata kunci: PT. Kudo Teknologi Indonesia, <it>quality</it> <it>assurance</it> <it>analyst,</it> <it>backbox</it> <it>testing,</it> <it>API</it> <it>testing.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 5</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 5</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 6</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 8 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 8</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 8</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 9</title>
+		<title>2.1.3. Metodologi .............................................................................................. 10</title>
+		<title>2.1.4. Teknologi ................................................................................................ 11</title>
+		<title>2.1.5. Gambaran Pelaksanaan Kerja Praktik ..................................................... 14</title>
+		<title>2.2. Analisis .......................................................................................................... 17</title>
+		<title>2.2.1. Kesesuaian dan Perbedaan dengan KAKP ............................................. 18</title>
+		<title>2.2.2. Kendala dalam Kerja Praktik dan Cara Penanganannya ......................... 19</title>
+		<title>2.2.3. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 20</title>
+		<title>2.2.4. Pembelajaran <it>Soft</it> <it>Skill</it> selama Kerja Praktik ......................................... 21</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>2.2.5. Penilaian Individu terhadap Tempat Kerja Praktik ................................. 22</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 23 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 23</title>
+		<title>3.2. Saran .............................................................................................................. 23</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 24 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi ..................................................................................... 6 Gambar 2. Posisi Penulis saat Kerja Praktik ................................................................. 7 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... 25 LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................... 26 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam proses pencarian kerja praktik, penulis melamar kerja praktik menggunakan media <it>website</it> karier perusahaan, email, dan LinkedIn. Terdapat 13 perusahaan yang penulis daftar hingga akhirnya penulis mendapatkan tempat magang. Dari 13 perusahaan tersebut, hanya satu perusahaan yang akhirnya menerima penulis untuk melakukan kerja praktik di perusahaannya. Posisi yang penulis lamar pun beragam, mulai dari <it>product</it> <it>manager,</it> <it>information</it> <it>technology,</it> <it>quality</it> <it>assurance,</it> <it>product</it> <it>analyst,</it> <it>data</it> <it>analyst,</it> <it>web</it> <it>developer,</it> hingga <it>front</it> <it>end</it> <it>developer.</it> Penulis sendiri menginginkan kerja praktik di <it>startup</it> karena penulis memiliki bahwa di <it>startup</it> penulis dapat belajar banyak dengan suasana yang biasanya menyenangkan. Penulis memulai pencarian kerja praktik pada tanggal 11 Maret 2016 untuk posisi <it>product</it> <it>manager</it> di Global Digital Prima yang biasa dikenal GDP. Penulis pernah magang di GDP satu semester sebelum masa kerja praktik. Adapun maksud penulis mendaftar magang di GDP satu semester sebelumnya agar penulis mendapatkan pengalaman tambahan dan mempermudah pencarian magang ketika masa kerja praktik. Penulis sebenarnya mengetahui bahwa beberapa teman penulis sudah mendaftar magang di GDP semenjak Februari 2016, namun karena penulis memiliki pemikiran bahwa terlalu cepat untuk mendaftar magang lagi di sana, akhirnya surat lamaran magang di GDP baru penulis kirimkan 11 Maret 2016. Setelah penulis mengirimkan email ke <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) GDP, penulis mendapatkan balasan bahwa pendaftaran akan diteruskan ke pihak <it>human</it> <it>resource,</it> namun tidak ada <it>email</it> dari pihak <it>human</it> <it>resource</it> setelah berhari-hari. Akhirnya penulis menghubungi pembimbing yang telah membimbing penulis ketika magang di GDP. Setelah pembimbing penulis mengonfirmasi kepada pihak HR, penulis diberi tahu oleh pembimbing bahwa magang dengan posisi <it>product</it> <it>manager</it> sudah penuh. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			Perusahaan kedua yang penulis daftar yaitu Kios untuk Dagang Online atau yang biasa dikenal Kudo. Pada bulan Maret 2016, terdapat pesan dari teman angkatan bahwa jika ingin mendaftar magang di Kudo dapat mengirimkan <it>email</it> ke orang tertentu dengan <it>email</it> Kudo. Penulis pun mengirimkan email kepada kontak yang tertera di pesan tersebut pada 21 Maret 2016, namun <it>email</it> tersebut tidak ada balasan. Selain <it>email,</it> ada teman penulis yang mendapatkan email dari <it>Human</it> <it>Capital</it> (HC) Kudo yang mengatakan bahwa perlu mengisi <it>form</it> yang terlampir pada <it>email-nya</it> dan akan dilakukan wawancara bersama teman yang diajak oleh teman penulis itu. Namun karena penulis tidak dapat memikirkan bagaimana cara ke Kudo, akhirnya penulis memutuskan untuk tidak melanjutkan proses pendaftaran ke Kudo saat itu. Penulis juga mendaftar di Mandiri dengan proyek <it>project</it> <it>automation.</it> Informasi ini penulis dapatkan dari poster yang disebarkan melalui grup angkatan. Penulis sangat tertarik untuk bekerja di Bank seperti mandiri. Oleh karena itu, penulis mengirimkan <it>email</it> ke Mandiri <it>Partnership</it> MUG beberapa kali (21, 23, dan 31 Maret 2016) dengan pemikiran bahwa <it>email</it> di kontak tersebut sangat banyak, oleh karena itu penulis mengirimkan email beberapa kali. Setelah menunggu beberapa lama, penulis tidak mendapatkan email balasan. Selain itu, penulis juga sempat mendapatkan penawaran untuk magang oleh <it>Co-</it> <it>Founder</it> Nayana, Edward Kumar, melalui pesan di LinkedIn pada 26 Maret 2016. Penulis sempat saling mengirim pesan dengan Beliau hingga akhirnya diadakan proses wawancara oleh Beliau. Wawancara ini dilakukan pada tanggal 29 Maret 2016. Setelah wawancara, penulis diberi tugas yang berisi apa yang ingin dipelajari dan apa <it>job</it> <it>desc</it> dari posisi yang penulis lamar, namun penulis tidak melanjutkan proses pendaftaran lebih lanjut karena melihat budaya dari perusahaan tersebut berkomunikasi menggunakan bahasa Inggris Penulis juga mengirimkan <it>email</it> pendaftaran magang ke Veritrans (yang kini telah berubah namanya menjadi Midtrans) dengan posisi <it>Business</it> <it>Development</it> pada 31 Maret 2016. Veritrans membalas <it>email</it> penulis dengan pemberitahuan untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			melanjutkan ke proses seleksi yang lebih lanjut. Proses seleksi dilakukan dalam satu hari. Setelah beberapa hari menunggu, teman penulis sudah mendapatkan konfirmasi dari pihak Veritrans akan dilanjutkan ke proses wawancara ataupun ditolak, namun penulis belum dikabari. Oleh karena itu penulis mengirimkan <it>email</it> kembali kepada pihak Veritrans untuk mengonfirmasi status pendaftaran penulis, namun penulis mendapatkan <it>email</it> yang menyatakan bahwa penulis masih belum bisa diterima untuk magang di Veritrans. Setelah itu penulis juga mengirimkan <it>email</it> pendaftaran magang ke Flipbox pada 31 Maret dengan posisi QA. <it>Email</it> ini sudah dibalas oleh pihak Flipbox, namun penulis menunda proses pendaftaran karena menunggu keputusan dari Veritrans. Hingga akhirnya karena sudah terlalu lama tidak membalas <it>email</it> Flipbox, akhirnya penulis memutuskan untuk tidak melanjutkan pendaftaran di Flipbox. Setelah beberapa lama tidak mendaftar magang di perusahaan-perusahaan, penulis mendapatkan informasi kembali mengenai kesempatan untuk magang di Kudo <it>batch</it> 2. Tentu penulis sangat tertarik untuk melakukan pendaftaran di Kudo kembali. Akhirnya penulis mengirimkan surat lamaran magang melalui <it>email</it> pada tanggal 27 April 2016. Namun <it>email</it> ini tidak kunjung mendapatkan balasan. Oleh karena itu, penulis melanjutkan pendaftaran magang ke Grab. Karena rasa penasaran apakah Grab membuka lowongan atau tidak, penulis mengirimkan <it>email</it> kepada <it>customer</it> <it>support</it> yang berisi pertanyaan apakah Grab Indonesia membuka kesempatan magang, namun tidak kunjung ada balasan. Setelah itu penulis mendaftar di Traveloka untuk posisi <it>anaytics</it> &amp; <it>marketing</it> pada Traveloka pada 3 Mei 2016, namun tidak ada balasan. Penulis juga sempat mendaftar ke Accenture melalui <it>website</it> dan mengikuti <it>test</it> <it>online</it> yang diberikan, namun tidak ada pemberitahuan lebih lanjut oleh pihak Accenture. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<segment>
+			Selain itu, pada tanggal 4 Mei 2016, penulis juga mengirimkan <it>email</it> lamaran magang ke beberapa perusahaan sekaligus, seperti CIMB Niaga, Lazada, Fabelio, IBM, dan Kudo. Pihak CIMB membalas <it>email</it> pendaftaran beserta <it>form</it> yang harus diisi. Namun penulis tidak melanjutkan proses pendaftaran. Lazada dan Fabelio tidak memberikan balasan <it>email</it> pendaftaran magang penulis. Pihak IBM membalas <it>email</it> penulis. Namun karena waktu mulai magang yang ditentukan oleh pihak IBM adalah masa perkuliahan, penulis tidak melanjutkan pendaftaran di sana. Dari <it>email</it> yang penulis kirimkan kepada <it>Human</it> <it>Capital</it> (HC) Kudo pada 4 Mei 2016, akhirnya dihubungi melalui telepon untuk melanjutkan ke proses wawancara. Selain ditelepon penulis juga diberikan email pada tanggal 9 Mei 2016 sebagai pengingat mengenai agenda wawancara. Wawancara diagendakan untuk dilaksanakan pada Rabu, 11 Mei 2016. Karena penulis sebelumnya belum pernah terlibat dalam bagian <it>quality</it> <it>assurance</it> (QA), penulis membaca-baca informasi mengenai QA beserta <it>job</it> <it>description</it> dari seorang QA agar ada pengetahuan sedikit mengenai QA ketika wawancara. Penulis juga sempat bertanya-tanya kepada teman yang telah diterima di Kudo mengenai konten pertanyaan yang diajukan pada saat wawancara dan juga cara untuk sampai di kantor Kudo. Pada hari H wawancara, penulis datang 30 menit lebih cepat dari jam yang dijadwalkan untuk menghindari kemungkinan kemacetan yang bisa membuat penulis terlambat. Ketika wawancara, penulis diwawancara oleh dua orang, orang yang pertama merupakan perwakilan HC yang lebih menanyakan nonteknis dan yang kedua merupakan perwakilan QA yang lebih menanyakan hal-hal teknis mengenai QA. Penulis diberikan tugas oleh perwakilan QA yang mewawancarai dengan waktu pengumpulan dua hari (Jumat, 13 Mei 2016). Penulis mengusahakan untuk mengerjakan tugas dengan sebaik mungkin, dan mengumpulkannya pada Jumat siang. Tiga jam setelah penulis mengumpulkan tugas tersebut, penulis dihubungi oleh pihak HC melalui telepon yang memberitahukan bahwa penulis lolos seleksi, <it>benefit</it> yang didapatkan, serta 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<segment>
+			menanyakan waktu mulai magang. Setelah disesuaikan dengan beberapa peserta magang lainnya, akhirnya diberi kabar lebih lanjut oleh pihak HC bahwa magang dimulai pada tanggal 13 Juni 2016. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian akan dibahas profil tempat kerja praktik yang menjelaskan proses beserta struktur organisasi dan juga posisi penulis ditempatkan dalam struktur organisasi pada saat melaksanakan kerja praktik. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Kudo Teknologi Indonesia atau yang biasa dikenal Kudo merupakan sebuah <it>startup</it> yang didirikan pada Juli 2014 oleh Albert Lucius yang kini menjabat sebagai <it>Chief</it> <it>Executive</it> <it>Officer</it> CEO dan Agung Nugroho yang menjabat sebagai <it>Chief</it> <it>Operating</it> <it>Officer</it> (COO) [1]. Kudo sendiri <it>startup</it> <it>assisted</it> <it>ecommerce</it> yang menerapkan konsep <it>Online</it> <it>to</it> <it>Offline</it> (O2O). Maksudnya yaitu Kudo membawa konsep yang bisa membawakan transaksi yang seharusnya dilakukan secara <it>online</it> menjadi dapat dilakukan secara <it>offline</it> melalui agen Kudo (pihak yang sudah mendaftar dan terdaftar). Dengan demikian, orang yang ingin melakukan pembelian produk <it>online</it> bisa langsung mengunjungi agen Kudo dan bertransaksi dengannya tanpa orang tersebut harus memiliki perangkat ataupun koneksi internet. Kudo merupakan <it>startup</it> yang berbasis di Indonesia dan berpusat di Jakarta. Kantor Kudo sendiri berada di jalan Radio Dalam Jakarta Selatan. Kudo sendiri memiliki tujuan mempermudah melakukan transaksi <it>e-commerce</it> bagi pihak yang masih memiliki keterbatasan teknologi melalui agen-agennya. Layanan Kudo kini bisa sudah tersedia melalui web dan aplikasi android. Layanan yang disediakan di Kudo sendiri pun dibagi menjadi empat kategori, yaitu produk <it>online,</it> pulsa, tagihan, dan tiket. Produk <it>online</it> yang tersedia di Kudo merupakan produk dari <it>merchant</it> yang telah bekerja sama dengan Kudo. Beberapa <it>Merchant</it> yang kini telah bekerja sama dengan Kudo yaitu Bukalapak, Lazada, Berrybenka, dan VIP Plaza. Untuk pulsa sendiri, Kudo menyediakan layanan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			pembelian pulsa dan paket internet. Pembayaran tagihan juga dapat dilakukan di Kudo. Tagihan yang dimaksud seperti tagihan listrik (PLN), air (PDAM), telepon, hingga asuransi. Untuk fitur tiket, kini Kudo telah melayani pembelian tiket pesawat dan kereta api. Kudo sendiri sebagai organisasi dibagi menjadi dua bidang penting yaitu bisnis dan teknologi. Bidang bisnis dikepalai oleh <it>Chief</it> <it>Operating</it> <it>Officer</it> (COO) dan bidang teknologi dikepalai oleh <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO). Bidang bisnis bergerak dalam perencanaan dan pelaksanaan proses bisnis yang ada di perusahaan seperti <it>sales,</it> <it>product,</it> dan <it>accounting.</it> Sedangkan bidang teknologi akan berfokus pada pengembangan teknologi yang ada di Kudo seperti pengembangan aplikasi, <it>web,</it> dan infrastruktur yang ada. General (Chief Executif Officer) Business (Chief Operating Officer) Technology (Chief Technology Officer) Gambar 1. Struktur Organisasi 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik, penulis ditempatkan pada bagian <it>quality</it> <it>assurance</it> (QA). <it>Quality</it> <it>assurance</it> sendiri merupakan bagian dari divisi tim <it>release</it> <it>engineer</it> karena <it>quality</it> <it>assurance</it> ikut ambil bagian dalam menentukan apakah suatu fitur akan di-<it>release</it> atau tidak berdasarkan dengan <it>bug</it> yang telah ditemukan. Secara umum, <it>quality</it> <it>assurance</it> memiliki tanggung jawab melakukan testing baik secara manual yang dipegang oleh QA <it>analyst,</it> maupun testing otomatis yang dipegang oleh QA <it>engineer.</it> Penulis memiliki peran sebagai <it>quality</it> <it>assurance.</it> Berikut penempatan penulis dalam struktur organisasi pada saat melakukan kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			User Experience Front End Web Developer Technology Back End Release Engineer Technology Evangelist Mobile Apps 
+		</segment>
+		<title>CMS</title>
+		<segment>
+			Network CMS Feature CMS Reporting Online Product 
+		</segment>
+		<title>API</title>
+		<segment>
+			Travel Internal API QA Analyst QA Engineer Release Engineer Quality Assurance Developer Relation Dev Operational Data Analyst Data Data Engineer Fraud Specialist Gambar 2. Posisi Penulis saat Kerja Praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bagian ini akan menjelaskan pekerjaan yang dilakukan oleh penulis selama menjalankan kerja praktik, mulai dari latar belakang pekerjaan, dilanjutkan dengan tinjauan pustaka yang mendukung pemahaman terhadap pekerjaan penulis, metodologi yang digunakan, teknologi yang penulis gunakan, hingga gambaran pelaksanaan kerja praktik. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Kudo merupakan <it>startup</it> yang mengedepankan kualitas dibanding kuantitas. Ini dapat terbukti dengan adanya <it>release</it> <it>engineer</it> yang memastikan bahwa setiap rilis sudah memiliki laporan yang baik dari <it>quality</it> <it>assurance.</it> Untuk bisa dirilis, fitur/aplikasi hanya boleh memiliki kekurangan yang bisa ditoleransi atau bahkan tidak ada <it>bug</it> sama sekali. Tim <it>quality</it> <it>assurance</it> sendiri dibentuk karena ketika Kudo baru dibentuk, tim pengembang kesulitan setiap kali rilis fitur/aplikasi. Setiap kali rilis, semua pengembang harus mengecek secara manual fitur/aplikasi yang akan dirilis sehingga pengembang tidak fokus dalam mengembangkan aplikasi, tetapi juga harus melakukan pengetesan yang bisa memakan waktu yang lama. Oleh karena itu, divisi <it>quality</it> <it>assurance</it> dibentuk agar terdapat satu divisi yang khusus melakukan testing dan para pengembang pun bisa lebih fokus dalam mengembangkan fitur/aplikasi. Dengan Kudo memiliki perhatian kepada kualitas kepada setiap produknya, aplikasi <it>Field</it> Officer pun juga harus melewati proses pengecekan oleh <it>quality</it> <it>assurance.</it> Aplikasi <it>field</it> <it>officer</it> merupakan sebuah aplikasi yang pengembangannya diserahkan kepada peserta magang. Oleh karena masing-masing anggota <it>quality</it> <it>assurance</it> memiliki kesibukan tersendiri terhadap setiap proyeknya, pengetesan aplikasi <it>field</it> <it>officer</it> ditugaskan kepada penulis dan satu teman penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			Kebutuhan akan aplikasi <it>field</it> <it>officer</it> ini dirasakan oleh Kudo karena <it>field</it> <it>officer</it> sering kesulitan untuk menawarkan produk yang tepat ke agen Kudo yang tepat. <it>Field</it> <it>officer</it> (FO) merupakan perwakilan yang mewakili Kudo untuk berkomunikasi dengan para agen Kudo sehingga Kudo pun bisa dapat dengan mudah memberikan promosi dan juga menerima saran dari agennya. Selain masalah yang dihadapi FO, pihak Kudo sendiri mengalami kesulitan untuk mengontrol setiap FO apakah sudah bekerja dengan baik atau belum karena FO bekerja di lapangan. Oleh karena itu, aplikasi yang dapat memantau performa agen, detil agen, dan absensi agen yang merupakan aplikasi <it>field</it> <it>officer</it> dikembangkan. Fitur performa agen dan detil agen merupakan fitur untuk para FO bisa lebih memahami jenis transaksi dari setiap agennya. Sedangkan fitur absensi agen merupakan fitur yang berguna bagi perusahaan untuk memantau apakah FO sudah mengunjungi agen yang ditugaskan kepada FO tersebut atau belum. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Bagian ini akan membahas pemahaman-pemahaman yang mendukung laporan ini yang berasal dari literatur lainnya. Pertama-tama bagian ini akan membahas <it>quality</it> <it>assurance</it> sebagai bagian penulis ditempatkan, kemudian dilanjutkan dengan pembahasan cara testing yang dilakukan oleh pengembang yaitu <it>blackbox</it> <it>testing</it> dan <it>exploratory</it> <it>testing.</it> <it>1.</it> <it>Quality</it> <it>assurance</it> <it>Quality</it> <it>assurance</it> merupakan proses sistematis yang bertujuan memastikan produk yang dibentuk sudah sesuai dengan <it>requirement</it> yang ada. <it>Quality</it> <it>assurance</it> juga yang berusaha mencari celah dari suatu produk sebelum produk menjadi produk yang final dan sampai ke pengguna. Dengan produk yang berkualitas, tentu akan meningkatkan kepercayaan pengguna dan kredibilitas perusahaan [2]. <it>2.</it> <it>Blackbox</it> <it>testing</it> <it>Quality</it> <it>assurance</it> di Kudo mengimplementasi <it>blackbox</it> <it>testing.</it> <it>Blackbox</it> <it>testing</it> merupakan <it>testing</it> dengan <it>tester</it> tidak memiliki pengetahuan mengenai 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			desain atau kode program. <it>Blackbox</it> <it>testing</it> akan melakukan <it>testing</it> berdasarkan <it>requirement</it> dan fungsionalitas yang sudah ditentukan [3]. <it>3.</it> <it>Exploratory</it> <it>testing</it> Beberapa produk tidak memiliki dokumentasi yang bisa menjadi panduan <it>testing,</it> oleh karena itu sering juga <it>tester</it> harus melakukan <it>exploratory</it> <it>testing.</it> <it>Exploratory</it> <it>testing</it> merupakan testing dengan tester mempelajari aplikasi seiring melakukan testing terhadap suatu aplikasi. Dengan demikian, diperlukan kreatifitas dari <it>tester</it> untuk mencari semua kemungkinan celah sambil mempelajari aplikasi yang diuji [3]. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Metode pengembangan produk di Kudo menggunakan <it>Software</it> <it>Development</it> <it>Life</it> <it>Cycle</it> (SDLC) dengan tipe <it>scrum.</it> Meskipun penulis bukan merupakan pengembang aplikasi, penulis sebagai <it>quality</it> <it>assurance</it> dilibatkan untuk setiap proses dalam pengembangan aplikasi <it>field</it> <it>officer,</it> mulai dari pemberian <it>requirement</it> oleh pihak produk hingga proses <it>deployment..</it> Tim aplikasi <it>field</it> <it>officer</it> pertama-tama diberitahukan <it>requirement</it> aplikasi atau <it>product</it> <it>backlog</it> dari tim produk. Setelah itu, tim diberitahukan <it>sprint</it> <it>backlog</it> beserta tanggal-tanggal untuk setiap <it>sprint.</it> Setiap <it>sprint</it> berisi fitur-fitur yang harus selesai untuk tanggal yang sudah ditentukan. Setiap <it>sprint</it> yang berlangsung, setiap hari diadakan <it>stand</it> <it>up</it> <it>meeting</it> untuk membahas perkembangan masing-masing divisi. Pembahasan itu berisi apa saja yang telah dilakukan, apa yang masih belum dilakukan atau kendala yang dihadapi, dan apa rencana selanjutnya. Implementasi fitur dimulai dari tim <it>user</it> <it>experience</it> (UX) memberikan rancangan tampilan yang nantinya akan diimplementasi oleh pihak <it>front</it> <it>end.</it> Seiring dengan desain oleh tim UX, tim API <it>developer</it> mengimplementasi API (<it>Application</it> <it>Programming</it> <it>Interface)</it> yang nantinya akan digunakan oleh pihak <it>front</it> <it>end</it> untuk melakukan transaksi data. Setelah desain dan API selesai diimplementasi, <it>front</it> <it>end</it> <it>developer,</it> baik android <it>developer</it> maupun <it>web</it> <it>developer,</it> mulai mengimplementasikan aplikasi tersebut. Seiring dengan implementasi oleh pihak <it>front</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			<it>end</it> <it>developer,</it> <it>quality</it> <it>assurance</it> membuat rancangan <it>test</it> <it>case</it> untuk <it>back</it> <it>end</it> dan <it>front</it> <it>end.</it> <it>Test</it> <it>case</it> untuk <it>back</it> <it>end</it> berupa API <it>testing,</it> sedangkan rancangan <it>test</it> <it>case</it> <it>front</it> <it>end</it> berisi tes dari komponen-komponen yang akan di tes dari desain yang telah dibuat. Penulis diberi tanggung jawab untuk membuat dan melakukan testing pada bagian <it>back</it> <it>end,</it> yaitu API <it>testing.</it> Jika dalam <it>testing</it> ditemukan <it>bug</it> atau ketidaksesuaian dengan <it>requirement,</it> penulis akan melaporkan <it>bug</it> tersebut ke API <it>developer.</it> Setelah developer mendapat laporan <it>bug,</it> <it>developer</it> akan melakukan perbaikan <it>bug</it> atau yang sering disebut <it>bug</it> <it>fixing</it> di Kudo. Setelah <it>developer</it> berhasil memperbaiki <it>bug,</it> <it>quality</it> <it>assurance</it> akan melakukan <it>test</it> kembali <it>bug</it> tersebut. Setelah fitur-fitur pada setiap sprint selesai diimplementasi, aplikasi akan ditunjukkan kepada pihak produk untuk mendapatkan umpan balik. Selain terlibat dalam proyek aplikasi <it>field</it> <it>officer,</it> penulis juga terlibat dalam <it>testing</it> untuk fitur-fitur <it>Content</it> <it>Management</it> <it>System</it> (CMS) karena terdapat jeda waktu dari awal proyek hingga akhirnya API selesai diimplementasi untuk penulis bisa lakukan tes. CMS merupakan sebuah sistem yang memungkinkan pihak Kudo mengatur konten digital dan mendapatkan laporan transaksi di Kudo. Pengembangan CMS juga menggunakan SDLC dengan tipe <it>scrum,</it> namun lama setiap <it>sprint</it> tidak dapat ditentukan karena sering rilis CMS tertunda karena menunggu antrian untuk dites oleh pihak QA. Dari segi rilis CMS sendiri, CMS dirilis setiap minggu. Setiap minggu pihak produk akan menentukan apa saja yang akan dimasukkan ke antrian. Dalam sebuah antian rilis, bisa saja berupa fitur baru CMS atau <it>bug</it> yang ditemukan pada CMS di lingkungan <it>production.</it> Tidak seperti produk Kudo lainnya yang memiliki <it>server</it> <it>staging,</it> CMS hanya memiliki <it>development</it> dan <it>production</it> <it>server</it> sehingga setelah melakukan testing di <it>development,</it> CMS langsung dirilis ke <it>production.</it> 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama penulis melaksanakan kerja praktik sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> khususnya di bagian <it>back</it> <it>end,</it> penulis telah menggunakan beberapa <it>tools</it> yang biasanya digunakan dalam <it>testing.</it> Tidak hanya diajarkan <it>tools</it> untuk <it>analyst,</it> penulis juga diberi kesempatan untuk belajar beberapa <it>tools</it> yang biasa digunakan oleh QA 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			<it>engineer.</it> Berikut beberapa <it>tools</it> yang telah penulis pelajari selama melaksanakan kerja praktik. 1. Genymotion Genymotion merupakan sebuah <it>emulator</it> untuk perangkat android. Dari Genymotion ini, QA dapat langsung melakukan <it>testing</it> terhadap aplikasi- aplikasi Kudo yang ada di android langsung dari laptop. Dengan genymotion, QA bisa melakukan testing terhadap suatu aplikasi dari beberapa perangkat berbeda tanpa harus benar-benar memilikinya. <it>Testing</it> dari beberapa perangkat berbeda ini dimaksudkan untuk melakukan <it>testing</it> kompatibilitas tampilan terhadap ukuran layar perangkat yang berbeda-beda. 2. Fiddler Fiddler merupakan sebuah aplikasi yang akan merekam koneksi internet yang dilakukan oleh perangkat baik perangkat sungguhan atau perangkat dalam sebuah emulator seperti genymotion. Fiddler digunakan untuk melakukan pengecekan terhadap koneksi yang dilakukan oleh aplikasi Kudo. Fiddler memungkinkan QA untuk mengecek apakah alamat API yang dituju aplikasi sudah benar dan apakah <it>response</it> yang diterima oleh perangkat itu dari <it>server</it> sudah benar. 3. Mysql workbench Mysql workbench merupakan sebuah aplikasi untuk menampilkan dan memanipulasi data-data yang tersimpan di basis data (<it>database)</it> Kudo. Mysql workbench penulis gunakan untuk mengecek apakah data yang ditampilkan pada aplikasi Kudo sudah sesuai dengan basis data atau perubahan data yang dilakukan oleh aplikasi Kudo sudah tersimpan di basis data secara benar. 4. Postman Postman merupakan sebuah <it>tool</it> untuk mengirimkan <it>request</it> terhadap suatu URL dengan <it>method</it> yang ditentukan. QA menggunakan postman untuk melakukan testing terhadap API. Komponen testing terhadap API terdiri dari 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			<it>response</it> <it>time</it> yang tidak boleh lebih dari sepuluh detik, <it>status</it> <it>code</it> yang harus 200 OK, dan isi <it>response.</it> 5. Newman Newman merupakan <it>tool</it> untuk menjalankan <it>collection</it> dari postman dari <it>command-line.</it> Dengan demikian, newman bisa digabungkan dengan <it>continuous</it> <it>integration.</it> 6. Jenkins Jenkins merupakan sebuah aplikasi <it>open</it> <it>source</it> untuk otomasi server. QA sendiri menggunakan jenkins untuk melakukan testing secara berkala terhadap API yang sedang berjalan. Dengan pengecekan secara berkala ini, diharapkan tim QA dapat mengetahui sesegera mungkin apabila ada API yang tidak berjalan di <it>server</it> <it>production.</it> Penulis sendiri tidak diwajibkan untuk mempelajari jenkins, namun penulis tetap ingin mempelajari Jenkins ini. Penulis sendiri menggunakan Jenkins untuk memantau API dari aplikasi <it>field</it> <it>officer</it> yang penulis tes. 7. Runscope Runscope merupakan sebuah layanan berbayar yang memiliki fungsi melakukan <it>testing</it> secara berkala terhadap API. Meskipun memiliki fungsionalitas yang mirip dengan jenkins dalam hal testing API secara berkala, namun runscope tetap digunakan karena tampilan laporan <it>testing</it> berupa grafik sehingga lebih nyaman untuk dilihat. 8. Jmeter Jmeter merupakan sebuah aplikasi untuk <it>load</it> <it>testing.</it> Jmeter digunakan untuk mengondisikan performa suatu API jika sudah dijalankan di lingkungan <it>production</it> dengan begitu banyak <it>request</it> dari pengguna. 9. Testrail Testrail merupakan aplikasi manajemen <it>test</it> <it>case</it> untuk QA yang berbasis <it>web.</it> Testrail digunakan oleh QA untuk membuat <it>test</it> <it>case,</it> melakukan <it>testing,</it> hingga pembuatan laporan <it>testing.</it> Laporan yang dibuat dari testrail ini yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			nantinya akan dikirimkan ke pihak <it>release</it> <it>engineer</it> mengenai hasil <it>testing</it> dari QA. 10. Jira Jira merupakan sebuah <it>tool</it> untuk <it>bug</it> <it>tracking,</it> <it>issue</it> <it>tracking,</it> dan manajemen proyek. Kudo khususnya tim teknologi menggunakan Jira untuk mengetahui tugas yang diberikan kepadanya dan <it>bug</it> yang ada yang ditunjukkan ke masing- masing tim. QA sendiri menggunakan Jira untuk pelaporan <it>bug</it> yang ditemukan dan melakukan <it>tracking</it> terhadap <it>bug</it> tersebut. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Gambaran</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik, penulis bersama enam peserta magang lainnya diberi proyek aplikasi <it>field</it> <it>officer.</it> Aplikasi <it>field</it> <it>officer</it> ini benar-benar dikembangkan dari awal dan dikembangkan seutuhnya oleh peserta magang. Meskipun demikian, terdapat satu perwakilan tim produk yang merupakan karyawan tetap menjadi <it>scrum</it> <it>master</it> untuk mengawasi pengembangan aplikasi <it>field</it> <it>officer</it> ini. Dengan demikian tim proyek aplikasi <it>field</it> <it>officer</it> beranggotakan tujuh orang yang terdiri dari satu <it>scrum</it> <it>master,</it> satu <it>user</it> <it>experience</it> <it>designer,</it> satu API <it>developer,</it> dua android <it>developer,</it> satu <it>web</it> <it>developer,</it> dan dua <it>quality</it> <it>assurance.</it> Masing-masing peran memegang tanggung jawab. <it>User</it> <it>experience</it> <it>designer</it> memiliki tanggung jawab membuat tampilan <it>mockup</it> aplikasi berdasarkan rancangan aplikasi yang telah diberikan oleh <it>scrum</it> master. Sedangkan API <it>developer</it> sebagai bagian dari <it>back</it> <it>end</it> <it>developer</it> memiliki tanggung jawab untuk membangun API yang akan digunakan oleh <it>front</it> <it>end</it> <it>developer</it> untuk transaksi data. Android dan <it>web</it> <it>developer</it> merupakan bagian dari <it>front</it> <it>end</it> <it>developer</it> yang masing-masing bertanggung jawab untuk memberikan tampilan pada andorid dan <it>web</it> berdasarkan data yang diterima dari API. Sedangkan <it>quality</it> <it>assurance</it> bertanggung jawab untuk memastikan bahwa aplikasi dari <it>front</it> <it>end</it> maupun <it>back</it> <it>end</it> sudah berjalan dengan baik dan sesuai dengan <it>requirement</it> yang diberikan. Oleh karena terdapat dua bagian yang harus dites, <it>quality</it> assurance pada tim proyek aplikasi field officer dibagi menjadi dua yaitu quality <it>assurance</it> untuk <it>front</it> <it>end</it> dan <it>quality</it> <it>assurance</it> untuk <it>back</it> <it>end.</it> <it>Quality</it> <it>assurance</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<segment>
+			untuk <it>front</it> <it>end</it> bertanggung jawab untuk memastikan bahwa aplikasi sudah menampilkan data yang sesuai dan fitur yang berjalan sudah benar. Penulis sendiri memegang peranan sebagai <it>quality</it> <it>assurance</it> untuk <it>back</it> <it>end</it> yang bertanggung jawab untuk memastikan bahwa API sudah berjalan sesuai dengan <it>requirement</it> dan data yang diberikan oleh API sudah sesuai dengan yang ada di basis data. Pekerjaan satu sama lain bisa dikatakan saling tergantung. Pertama-tama pekerjaan harus diselesaikan oleh pihak <it>user</it> <it>experience</it> <it>designer</it> dan API <it>developer</it> karena tanpa desain aplikasi dan API yang disediakan, <it>front</it> <it>end</it> <it>developer</it> tidak bisa membuat tampilan aplikasi dan implementasi fitur. Setelah desain tampilan aplikasi dibuat atau API selesai diimplementasi, <it>front</it> <it>end</it> <it>developer</it> baru mulai bisa mengimplementasi aplikasi android dan <it>web.</it> Seiring API yang sudah diimplementasi, penulis sebagai <it>quality</it> <it>assurance</it> untuk <it>back</it> <it>end</it> baru bisa mulai melakukan <it>testing</it> untuk API. Berbeda dengan <it>quality</it> <it>assurance</it> untuk <it>back</it> <it>end,</it> <it>quality</it> <it>assurance</it> untuk <it>front</it> <it>end</it> harus menunggu <it>front</it> <it>end</it> <it>developer,</it> baik android maupun <it>web,</it> selesai implementasi fitur untuk sebuah sprint baru bisa melakukan testing terhadap aplikasi. Dikarenakan penulis harus menunggu API <it>developer</it> untuk mengimplementasi API, terdapat jeda waktu kosong antara penulis mulai melakukan magang hingga bisa memulai <it>testing</it> terhadap API. Pada waktu kosong ini, penulis diberi kesempatan belajar banyak oleh tim <it>quality</it> <it>assurance</it> untuk mempelajari <it>tools</it> yang biasa digunakan oleh <it>quality</it> <it>assurance</it> untuk melakukan testing. Selain itu, pengembang juga diberikan akses terhadap basis data <it>development</it> Kudo untuk melakukan testing nantinya. Karena tabel yang begitu banyak, perlu beberapa minggu bagi penulis hingga akhirnya memahami keterkaitan tabel-tabel di dalam basis data tersebut. Selain mempelajari <it>tools</it> dan basis data, penulis juga diberi tanggung jawab untuk melakukan <it>testing</it> terhadap <it>Content</it> <it>Management</it> <it>System</it> (CMS). Rilis terhadap fitur baru ataupun perbaikan <it>bug</it> dilakukan per minggu. Pihak QA yang bertanggung jawab atas <it>testing</it> terhadap CMS yaitu penyelia penulis. Oleh karena itu, penulis bersama penyelia melakukan pembagian tugas terhadap testing CMS yang dilakukan per 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			minggunya. Selama melakukan testing CMS, penulis menggunakan sambil belajar aplikasi TestRail dan Jira. Penulis membuat rancangan <it>test</it> <it>case</it> di TestRail. Setelah rancangan <it>test</it> <it>case</it> disetujui oleh penyelia, penulis pun melakukan testing terhadap fitur CMS yang ditugaskan. Apabila menemukan <it>bug,</it> penulis melaporkan bug tersebut di Jira. Pada saat melaporkan <it>bug</it> di Jira, penulis menuliskan deskripsi singkat <it>bug,</it> langkah untuk menghasilkan <it>bug,</it> hasil yang diharapkan, dan orang yang bertanggung jawab untuk menyelesaikan <it>bug</it> itu. Setelah melakukan pelaporan, penulis melakukan <it>tracking</it> terhadap perkembangan perbaikan <it>bug.</it> Apabila <it>bug</it> sudah selesai diperbaiki, penulis melakukan tes kembali terhadap fitur yang memiliki <it>bug</it> itu. Setelah semua test case selesai dites, penulis membuat laporan testing dengan menggunakan fitur yang ada di TestRail. Setelah API <it>developer</it> aplikasi <it>field</it> <it>officer</it> menyelesaikan pengembangan API, penulis baru mulai fokus untuk melakukan <it>testing</it> API tersebut. <it>Testing</it> API ini penulis mulai dengan membaca dokumentasi API yang telah dibuat. Dokumentasi ini berisi <it>endpoint</it> (URL), <it>paramater</it> <it>input,</it> dan rancangan <it>output</it> dari API itu. Berdasarkan dokumentasi tersebut, penulis melakukan pengecekan kesesuaian <it>output</it> dengan rancangan <it>output</it> yang ada di dokumentasi. Selain itu, penulis melakukan pengecekan terhadap komponen API yang harus diperhatikan oleh QA seperti <it>response</it> <it>time</it> yang tidak boleh lebih dari sepuluh detik, <it>response</it> <it>code</it> yang harus 200 OK, dan hasil <it>response</it> yang sesuai dengan requirement dan basis data. Mekanisme pelaporan <it>bug</it> sama seperti pelaporan <it>bug</it> pada CMS, yaitu membuat laporan <it>bug</it> di Jira, <it>tracking</it> perbaikan <it>bug,</it> dan setelah selesai diperbaiki, penulis melakukan <it>testing</it> kembali. Setelah semua <it>test</it> <it>case</it> selesai dites, penulis kembali membuat laporan tes dengan menggunakan fitur yang tersedia pada TestRail. Setelah API aplikasi <it>field</it> <it>officer</it> lolos testing di <it>development</it> server, API perlu dimasukkan ke <it>staging</it> <it>server</it> untuk melakukan <it>testing</it> API dengan basis data <it>production.</it> Sebelum melakukan testing di lingkungan <it>staging,</it> penulis melakukan pembuatan dan pengaturan akun-akun di basis data <it>production.</it> Proses pembuatan akun <it>field</it> <it>officer</it> di basis data melibatkan bantuan dari pihak CMS, sedangkan proses 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<segment>
+			manipulasi data akun di basis data <it>production</it> melibatkan bantuan <it>release</it> <it>egineer</it> <it>head</it> dan pihak jaringan dan infrastruktur yang memiliki akses kepada basis data <it>production.</it> Di sela-sela kesibukan melakukan <it>testing</it> terhadap aplikasi <it>field</it> <it>officer,</it> penulis diberikan tugas tambahan untuk melakukan testing terhadap fitur <it>frequently</it> <it>asked</it> <it>question</it> (FAQ) yang juga merupakan proyek yang diberikan kepada peserta magang lainnya. Fitur FAQ ini memiliki tiga bagian yang harus dites, yaitu web, API, dan CMS. Penulis diberi tanggung jawab untuk melakukan testing terhadap API dan sebagian fitur yang ada di CMS. Sedangkan tampilan web beserta fitur CMS sisanya menjadi tanggung jawab rekan magang penulis di QA. Butuh manajemen waktu untuk membagi waktu testing antara aplikasi <it>field</it> <it>officer</it> dan FAQ apalagi waktu penyelesaian proyek hanya berbeda satu minggu. Namun setelah melakukan testing dengan tekun dan tekanan <it>deadline,</it> akhirnya testing terhadap FAQ bisa diselesaikan dengan baik. Di akhir-akhir masa kerja praktik, penulis lebih banyak membuat dokumentasi seperti dokumen hasil testing aplikasi <it>field</it> <it>officer</it> dan FAQ, dokumentasi cara <it>testing</it> API aplikasi <it>field</it> <it>officer,</it> dokumentasi fitur FAQ untuk QA, dan buku panduan penggunaan aplikasi <it>field</it> <it>officer</it> untuk para <it>field</it> <it>officer</it> yang nantinya akan menggunakan aplikasi. Dokumentasi ini penulis buat dengan tujuan memberikan pengetahuan terhadap tim QA mengenai apa saja yang penulis tes dan bagian yang perlu dites ketika ada pengembangan lebih lanjut terhadap aplikasi selanjutnya. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Bagian ini akan dijelaskan analisis penulis dalam melaksanakan kerja praktik. Dimulai dari kesesuaian dan perbedaan dengan KAKP, kendala yang penulis alami selama melaksanakan kerja praktik dan cara penulis menangani kendala tersebut. Dilanjutkan dengan relevansi pekerjaan yang penulis lakukan dengan mata kuliah yang penulis pelajari selama berkuliah di Fasilkom UI. Kemudian penulis akan menjelaskan kemampuan <it>soft</it> <it>skill</it> yang penulis dapatkan selama melaksanakan kerja praktik. Dan diakhiri dengan penilaian penulis terhadap Kudo setelah melaksanakan kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>18</pagenum>
+		<title><bo>2.2.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Dalam melaksanakan kerja praktik, secara umum tidak ada perbedaan yang banyak antara KAKP. Dari KAKP sudah tertulis bahwa penulis diberi tanggung jawab untuk melakukan testing CMS dan aplikasi <it>field</it> <it>officer.</it> Semenjak awal pembuatan KAKP, penulis sudah diberitahu oleh pihak penyelia bahwa perencanaan testing untuk CMS tidak dapat ditentukan dari jauh-jauh hari (lebih dari satu minggu) karena penentuan fitur CMS apa yang akan dites ditentukan per minggu. Meskipun demikian, penulis telah digambarkan melalui KAKP CMS apa saja yang akan penulis tes. Perbedaan lainnya yaitu testing untuk API aplikasi <it>field</it> <it>officer</it> yang penulis lakukan lebih cepat (menjadi 5 Juli) dari apa yang telah direncanakan dalam KAKP (tertulis 18 Juli). Hal ini bisa terjadi atas dasar keinginan penulis untuk mempersiapkan diri untuk melakukan tes terhadap beberapa API yang sudah siap untuk dites. Penulis mulai melakukan testing didorong juga oleh kekosongan kantor yang pada minggu itu merupakan minggu lebaran. Karena beberapa karyawan termasuk penyelia mengambil cuti pada minggu tersebut, rilis CMS pada minggu itu ditiadakan sehingga tidak ada jadwal testing untuk CMS. Untuk mengisi kekosongan itu, penulis berinisiatif untuk memulai testing API aplikasi <it>field</it> <it>officer.</it> Terdapat penambahan <it>scope</it> kerja dari <it>scope</it> pekerjaan yang diberikan saat tertulis di KAKP yaitu penambahan tanggung jawab untuk melakukan testing terhadap fitur FAQ. Beberapa minggu pertama penulis melaksanakan kerja praktik, memang ada kejanggalan bahwa proyek untuk peserta magang yang berupa FAQ belum ditentukan siapa yang melakukan testing, apakah peserta magang di QA atau <it>staff</it> QA. Namun setelah pihak penyelia berdiskusi dengan <it>scrum</it> <it>master</it> FAQ, ternyata belum ada perencanaan jadwal untuk testing oleh QA, oleh karena itu dengan segera penulis beserta rekan magang penulis di QA diberi tambahan tugas untuk melakukan <it>testing</it> FAQ. Perlu manajemen waktu yang baik untuk menyelesaikan tanggung jawab untuk melakukan <it>testing</it> terhadap dua proyek yang berjalan bersamaan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>19</pagenum>
+		<title><bo>2.2.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganannya</bo></title>
+		<segment>
+			Terdapat beberapa kendala yang penulis hadapi selama melaksanakan kerja praktik. Kendala yang pertama yaitu begitu banyak <it>tool</it> yang penulis perlu dipasang dan dipahami. Perlu waktu satu minggu pertama bagi penulis untuk memasang semua <it>tool</it> yang diperlukan untuk melakukan testing, belum lagi konfigurasi untuk masing-masing <it>tool.</it> Setelah memasang <it>tool,</it> penulis juga belum mengerti cara menggunakan <it>tool</it> tersebut dengan baik. Untuk menanganinya, penulis banyak bertanya kepada penyelia dan anggota QA lainnya mengenai <it>tool.</it> Selain bertanya, penulis juga berusaha belajar mandiri dari internet untuk mengetahui cara menggunakan <it>tool.</it> Selain <it>tool</it> yang begitu banyak, pada awal masa kerja praktik, penulis kebingungan fungsi tabel dan relasi antar tabel yang ada di basis data Kudo. Penyelia dari penulis pun memberikan penjelasan singkat untuk beberapa tabel yang penyelia rasa sering digunakan oleh aplikasi-aplikasi Kudo. Selain mempelajari dokumentasi yang diberikan penyelia, penulis juga sering bertanya secara langsung beberapa tabel yang belum ada di dokumentasi dan penulis juga sering melakukan eksplorasi terhadap setiap tabel yang ada. Eksplorasi mandiri terhadap setiap tabel yang ada di basis data Kudo masih memungkinkan karena nama-nama yang dibuat cukup jelas dan mewakili isi dari tabel tersebut. Kendala lainnya yang penulis hadapi yaitu penambahan <it>scope</it> kerja dengan pekerjaan tambahan berupa proyek FAQ yang berjalan secara paralel satu sama lain. Tentu menjadi kesulitan tersendiri bagi penulis karena jadwal <it>deadline</it> testing untuk kedua proyek yang penulis pegang hanya berbeda satu minggu. Untuk menangani kendala ini, penulis memberikan prioritas untuk kedua proyek tersebut dan juga mengatur waktu dengan baik. Dikarenakan <it>deadline</it> akhir untuk proyek aplikasi <it>field</it> <it>officer</it> lebih cepat dibanding proyek FAQ, penulis lebih memprioritaskan proyek aplikasi <it>field</it> <it>officer.</it> Setelah ada waktu senggang menunggu perbaikan <it>bug</it> oleh developer di aplikasi <it>field</it> <it>officer,</it> penulis melanjutkan <it>testing</it> untuk FAQ. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>20</pagenum>
+		<title><bo>2.2.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Pekerjaan yang penulis lakukan selama melaksanakan kerja praktik tidak terlepas dari pengimplementasian pengetahuan yang selama ini penulis dapatkan dari mengikuti kuliah di Fasilkom UI. Berikut mata kuliah yang penulis rasa relevan dengan pekerjaan yang penulis lakukan selama kerja praktik. 1. Rekayasa Perangkat Lunak Dari mata kuliah Rekayasa Perangkat Lunak penulis mempelajari beragam <it>Software</it> <it>Development</it> <it>Life</it> <it>Cycle</it> (SDLC). Pengetahuan SDLC ini berguna bagi penulis untuk memahami pola pengembangan aplikasi yang digunakan oleh Kudo. 2. Proyek Pengembangan Sistem Informasi Dari mata kuliah Proyek Pengembangan Sistem Informasi penulis telah belajar dan mengalami secara nyata mengembangkan sebuah sistem informasi, mulai dari perencanaan hingga testing. Dengan pengalaman itu, penulis lebih dapat memperkirakan kapan waktu yang tepat untuk melakukan testing 3. Basis Data <it>Testing</it> untuk <it>back</it> <it>end</it> sangat erat kaitannya dalam pengecekan kesesuaian data yang ada di aplikasi dengan data yang ada di basis data. Karena penulis sudah mempelajari perintah-perintah berupa <it>query</it> untuk menampilkan maupun manipulasi data di dalam basis data, penulis dapat menuliskan <it>query</it> dengan baik dalam melakukan testing. 4. Integrasi Aplikasi Perusahaan Dari mata kuliah Integrasi Aplikasi Perusahaan penulis mengetahui beberapa teknik integrasi aplikasi, salah satunya dengan menggunakan API. Dengan pengetahuan yang telah didapatkan dari mata kuliah ini, penulis lebih cepat memahami konsep penggunaan dan manfaat API dalam proyek aplikasi <it>field</it> <it>officer</it> dan FAQ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>21</pagenum>
+		<title><bo>2.2.4.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>selama</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik penulis mendapatkan pembelajaran beberapa <it>soft</it> <it>skill.</it> Beberapa yang penulis rasakan yaitu kerja sama dalam tim, berkomunikasi dengan baik, dan bertanggung jawab. 1. Kerja sama dalam tim Agar suatu proyek dapat berjalan dan selesai dengan baik, perlu ada kerja sama antar anggota tim. Masing-masing anggota bisa saja bekerja dan menyelesaikan tugasnya masing-masing tanpa membantu dan memerhatikan anggota lainnya, namun hasilnya pasti tidak maksimal. Hasilnya akan berbeda jika seluruh anggota dapat saling bekerja sama dan membantu anggota lainnya. Pekerjaan yang saling terkait satu sama lain seperti <it>quality</it> <it>assurance</it> yang akan melakukan tes API dari <it>back</it> <it>end</it> <it>developer.</it> Membantu anggota lain dalam tim bisa dengan membantu menjelaskan pekerjaannya yang nantinya akan digunakan oleh anggota lainnya. Seperti API <it>developer</it> menjelaskan cara menggunakan dan cara kerja dari API yang telah dibuatnya kepada <it>quality</it> <it>assurance</it> sehingga <it>quality</it> <it>assurance</it> dapat memahami dan membuat testing API dengan baik.. 2. Berkomunikasi dengan baik Selama penulis melaksanakan kerja praktik, penulis harus berkomunikasi dengan orang lain baik untuk bertanya maupun melaporkan bug. Penulis juga mengetes CMS yang pengembangnya belum penulis kenal sebelumnya. Penulis perlu menggunakan cara komunikasi yang baik untuk bisa menanyakan apakah benar kesalahan yang penulis temukan <it>bug</it> hingga menugaskan perbaikan <it>bug</it> tersebut kepada <it>developer</it> CMS di Jira. Jika tidak menggunakan cara komunikasi yang baik, bisa saja bahasa yang penulis gunakan salah hingga dapat menyinggung pengembang. 3. Bertanggung jawab Selama penulis melaksanakan kerja praktik, penulis diberikan tanggung jawab untuk melakukan testing CMS, aplikasi <it>field</it> <it>officer,</it> dan FAQ tanpa ada 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>22</pagenum>
+		<segment>
+			pengawasan khusus. Meskipun demikian, perlunya ada rasa tanggung jawab terhadap pekerjaan yang telah diberikan untuk tetap fokus selama bekerja dan tidak menyalahgunakan waktu yang diberikan. 
+		</segment>
+		<title><bo>2.2.5.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Setelah sekitar dua bulan setengah penulis melaksanakan kerja praktik di Kudo, penulis merasa bahwa Kudo merupakan <it>startup</it> yang tepat bagi mahasiswa yang ingin belajar sambil magang. Hal ini dikarenakan Kudo yang merancang program magang sebagai suatu fasilitas untuk belajar sesuai dengan namanya “Kudo  Academy”.  Selain  itu,  karyawan Kudo yang sangat ramah dan sabar dalam menjelaskan membuat penulis bisa memanfaatkan kesempatan selama magang untuk belajar sebanyak mungkin. Kerja praktik di Kudo pun menjadi terasa sangat menyenangkan karena Kudo membuat acara-acara seru di sela-sela waktu bekerja seperti acara kemerdekaan Indonesia dan ulang tahun Kudo. Acara-acara tersebut membuat penulis tidak menjadi penat selama melaksanakan pekerjaan. Oleh karena itu, penulis sangat merekomendasikan Kudo bagi mahasiswa yang ingin merasakan bekerja di dunia <it>startup</it> sambil belajar tanpa rasa stres. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>23</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Setelah menjalani kerja praktik di Kudo, penulis mendapatkan banyak pengetahuan dalam melakukan testing untuk aplikasi. Penulis juga kini mengetahui <it>tools</it> yang biasa digunakan oleh tim <it>quality</it> <it>assurance</it> dalam melakukan testing. Pengetahuan dan <it>tools</it> QA ini penulis yakini akan sangat berguna bagi karier penulis ke depannya jika ingin melanjutkan karier di bidang QA. Selain itu, penulis juga mendapatkan pembelajaran <it>soft</it> <it>skill</it> selama melaksanakan kerja praktik seperti kerja sama dalam tim, berkomunikasi dengan baik, dan bertanggung jawab. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Banyak pengalaman yang penulis dapatkan dalam melaksanakan kerja praktik, mulai dari pencarian tempat kerja praktik hingga akhir masa kerja praktik. Dari pengalaman yang penulis dapatkan itu, penulis memiliki dua saran bagi calon peserta kerja praktik dan juga dosen kerja praktik. Yang pertama, bagi calon peserta kerja praktik, sebaiknya melakukan pencarian dan pendaftaran kerja praktik dari jauh-jauh hari masa kerja praktik misalnya mulai bulan Februari untuk periode kerja praktik dimulai bulan Juni. Hal ini penulis rasa penting karena penulis sempat ditolak magang karena kebutuhan akan peserta magang di perusahaan tersebut sudah terpenuhi. Yang kedua, untuk dosen kerja praktik, sebaiknya umpan balik cepat diberikan kepada peserta kerja praktik agar peserta kerja praktik dapat mengetahui apakah pekerjaan yang dilakukan sudah memenuhi standar mata kuliah kerja praktik atau tidak. Akan menjadi kesulitan tersendiri bagi peserta kerja praktik apabila kerja praktiknya ditolak di tengah-tengah masa kerja praktik. Oleh karena itu, sebaiknya dosen kerja praktik lebih tanggap terhadap setiap pengajuan kerja praktik dari setiap peserta kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<pagenum>24</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			 [1] PT. KUDO Teknologi Indonesia. (2016). Profil Perusahaan. [online] Available at: https://kudo.co.id/profil-perusahaan [Accessed 12 Nov. 2016]. [2] Rouse, Margaret. (2007). Quality Assurance (QA). [online] Available at: http://searchsoftwarequality.techtarget.com/definition/quality-assurance [Accessed 13 Nov. 2016]. [3] Hower, Rick. (2016). Software QA and Testing Frequently-Asked-Questions, Part 1. [online] Available at: http://www.softwareqatest.com/qatfaq1.html [Accessed 13 Nov. 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="32">
+		<pagenum>25</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="33">
+		<pagenum>26</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

@@ -1,0 +1,41 @@
+Unannotated: 146
+ITALIC: 30
+SPACE: 16
+CAPITAL: 4
+REDUNDANT: 14
+EFF: 26
+PUNCT: 16
+OTHERS: 116
+LOGIC: 6
+SPLIT: 2
+TYPO: 28
+PARALELLISM: 2
+WSTYLE: 0
+ABBR: 13
+TRANS: 9
+CONJ: 16
+INCOMPLETE: 2
+BOLD: 0
+Total Pair: 446
+
+daftar jenis perbedaan lain yang tidak ada pada jenis-jenis kesalahan yang telah didefinisikan:
+	- penggunaan kata tidak baku (algoritma -> algoritme, analisa -> analisis)
+	- kesalahan kata depan (penambahan/pengurangan kata depan) (secara, pada, dari)
+	- kalimat dengan makna tidak jelas (unclear meaning)/ambigu, sehingga dilakukan perubahan kata (penambahan, pengurangan, mengubah urutan)
+	- penambahan/pengurangan informasi pada kalimat (kalimat secara struktur dan makna sebelumnya sudah jelas dan benar)
+	- penggunaan kata tidak perlu
+	- simplifikasi penyebutan entitas (PT ABC Indonesia -> ABC)
+	- penambahan informasi pada entitas (PT A -> PT A Indonesia)
+	- kesalahan penggunaan kata kerja (salah makna, aktif pasif, dan lain-lain)
+	- kata kurang imbuhan
+	- kesalahan penggunaan kata ganti
+	- penggabungan kalimat
+
+@misc{jaccard,
+	author = {Bill Chambers},
+	title = {Basic Statistical NLP Part 1 - Jaccard Similarity and TF-IDF},
+	howpublished = {\url{http://billchambers.me/tutorials/2014/12/21/tf-idf-explained-in-python.html}},
+	month = {Desember},
+	year = {2014},
+	note = {[Diakses pada 10 Desember 2017]}
+}

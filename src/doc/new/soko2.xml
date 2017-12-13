@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>INCREMENTAL</bo></it> <it><bo>INDEX</bo></it> <it><bo>ON</bo></it> <it><bo>CHANGES</bo></it> <it><bo>IN</bo></it> <it><bo>ADS</bo></it> <it><bo>LANDING</bo></it> <it><bo>PAGES</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>PUSAKA</bo> <bo>KALEB</bo> <bo>SETYABUDI</bo></title>
+		<segment>
+			<bo>1306398945</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Pusaka Kaleb Setyabudi : 1306398945 : Ilmu Komputer : <it>Incremental</it> <it>Index</it> <it>on</it> <it>Changes</it> <it>in</it> <it>Ads</it> <it>Landing</it> <it>Pages</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom.,</bo> <bo>M.Kom.)</bo> 
+		</segment>
+		<title><bo>PELAKSANA</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>(Pusaka</bo> <bo>Kaleb</bo> <bo>Setyabudi)</bo> Ditetapkan di : Depok Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<pagenum>i</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			: Pusaka Kaleb Setyabudi : <it>Incremental</it> <it>Index</it> <it>on</it> <it>Changes</it> <it>in</it> <it>Landing</it> <it>Pages</it> Nama Program Studi : Ilmu Komputer Judul Laporan kerja praktik ini berisi hasil dari kerja praktik yang telah penulis lakukan bersama penyelia di Google Inc. Kerja praktik ini telah dilaksanakan selama dua belas minggu. Penulis berperan sebagai <it>software</it> <it>engineering</it> <it>intern</it> dengan penyelia Vivekanand Venugopal yang bekerja sebagai <it>software</it> <it>engineer</it> di Google. Judul kerja praktik yang penulis telah laksanakan adalah “<it>Landing</it>  <it>Page</it>  <it>to</it>  <it>AdContext</it>  <it>Index</it>  <it>Prototype”.</it> Dalam proyek kerja praktik yang diberikan oleh pihak penyelia, penulis  membuat  <it>prototype</it>  dari  indeks  yang  memetakan  <it>landing</it>  <it>page</it>  dari  berbagai  iklan  dalam  Google  Ads  ke  kumpulan  AdContext—entitas  yang  merepresentasikan  periklanan dalam Google Ads. Indeks ini dapat digunakan dalam berbagai proses bisnis  yang terdapat dalam Google untuk memperkaya informasi mengenai iklan-iklan yang  terdapat  dalam  Google  Ads.  Selama  kerja  praktik,  penulis  memperoleh  banyak  pengalaman  dalam  bekerja  sebagai  <it>software</it>  <it>engineer</it>  dalam  industri  teknologi  di  Silicon Valley, Amerika Serikat.    Kata kunci:  Google, indeks, kerja praktik, <it>prototype</it>    
+		</segment>
+		<pagenum>ii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<pagenum><bo>2</bo></pagenum>
+		<segment>
+			 <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>.....</bo> <bo>i</bo> <bo>ABSTRAK</bo> <bo>...................................................................................................................</bo> <bo>ii</bo> <bo>DAFTAR</bo> <bo>ISI</bo> <bo>..............................................................................................................</bo> <bo>iii</bo> <bo>DAFTAR</bo> <bo>GAMBAR</bo> <bo>..................................................................................................</bo> <bo>iv</bo> <bo>DAFTAR</bo> <bo>LAMPIRAN</bo> <bo>...............................................................................................</bo> <bo>v</bo> <bo>1</bo> <bo>PENDAHULUAN</bo> <bo>................................................................................................</bo> <bo>1</bo> 1.1 Proses Pencarian Kerja Praktik ........................................................................ 1 1.2 Tempat Kerja Praktik ....................................................................................... 2 1.2.1 Profil Tempat Kerja Praktik ...................................................................... 2 1.2.2 Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3 <bo>ISI</bo> <bo>..........................................................................................................................</bo> <bo>4</bo> 2.1 Pekerjaan dalam Kerja Praktik ........................................................................ 4 2.1.1 Latar Belakang Pekerjaan ......................................................................... 4 2.1.2 Metodologi ................................................................................................ 5 2.1.3 Teknologi yang Digunakan ....................................................................... 5 2.1.4 Hasil Pekerjaan ......................................................................................... 7 2.2 Analisis .......................................................................................................... 10 2.2.1 Pelaksanaan Kerja Praktik ...................................................................... 10 2.2.2 Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 11 <bo>3</bo> <bo>PENUTUP</bo> <bo>...........................................................................................................</bo> <bo>14</bo> 3.1 Kesimpulan .................................................................................................... 14 3.2 Saran .............................................................................................................. 14 <bo>DAFTAR</bo> <bo>REFERENSI</bo> <bo>............................................................................................</bo> <bo>15</bo> <bo>LAMPIRAN</bo> <bo>1</bo> <bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>.................................</bo> <bo>16</bo> <bo>LAMPIRAN</bo> <bo>2</bo> <bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>...............................................................</bo> <bo>17</bo> 
+		</segment>
+		<pagenum>iii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			 Gambar 2.1 Alur proses MapReduce ............................................................................ 7 Gambar 2.2 Ilustrasi alur kerja service ......................................................................... 8 Gambar 2.3 Diagram UML dari komponen-komponen service ................................... 9 
+		</segment>
+		<pagenum>iv</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			 Lampiran 1 Kerangka Acuan Kerja Praktik ............................................................... vii Lampiran 2 Log Kerja Praktik .................................................................................. viii 
+		</segment>
+		<pagenum>v</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis pertama kali mengetahui informasi magang di Google Inc. dari rekan mahasiswa lainnya, yaitu Rakina Zata Amni (Fasilkom UI 2013) serta Jonathan Irvin Gunawan (NUS 2016). Keduanya pernah melaksanakan kegiatan magang di Silicon Valley. Selain itu, saya juga mengetahui lebih detil mengenai kegiatan magang di Google Inc. melalui salah satu halaman web yang ada pada Google1.</title>
+		<segment>
+			Penulis melamar untuk magang di Google Inc. pada bulan November 2015, melalui jalur <it>referral,</it> yaitu jalur rekomendasi oleh orang yang telah bekerja secara tetap di Google Inc.. Kurang dari dua minggu setelah mengirim lamaran, perekrut dari pihak Google Inc. mengontak saya mengenai wawancara teknis yang akan dilakukan sebanyak dua kali. Dalam wawancara teknis, pewawancara memberikan satu atau lebih soal yang berkaitan dengan algoritma dan struktur data. Pada awal Januari 2016, perekrut dari Google Inc. mengabarkan bahwa penulis lolos tahap wawancara teknis dan lanjut ke tahap pencarian proyek dan penyelia magang. Pada tahap ini, calon pemagang akan diwawancara oleh beberapa <it>software</it> <it>engineer</it> dari Google Inc. yang memiliki proyek dalam timnya untuk dikerjakan oleh seorang pemagang. Pada akhir Januari 2016, penulis mendapatkan tawaran sebagai <it>software</it> <it>engineering</it> <it>intern</it> di Google Inc, kantor Mountain View Sambil berkuliah, rentang waktu antara Februari hingga Juni 2016 (tepat sebelum durasi kerja praktik/magang dimulai) diisi oleh penulis dengan berbagai persiapan untuk dapat berangkat ke Amerika Serikat untuk melaksanakan kerja praktik. Beberapa  1 https://www.google.com/about/careers/students/ 
+		</segment>
+		<pagenum>1</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>2</pagenum>
+		<segment>
+			persiapan yang dilakukan mencakup permohonan pembuatan visa untuk dapat secara sah menjadi pemagang di Amerika Serikat, permohonan asuransi kesehatan (diwajibkan bagi seluruh pemagang dan tenaga kerja di Amerika Serikat), serta verifikasi identitas dan informasi dari diri penulis oleh pihak ketenagakerjaan di Amerika Serikat. Hampir seluruh proses tersebut dilakukan dengan dibantu oleh Cultural Vistas, perusahaan yang menjadi sponsor permohonan visa untuk tenaga kerja akan bekerja di Amerika Serikat. Selain Google Inc., penulis juga pernah untuk mencoba melamar ke perusahaan- perusahaan lain seperti Palantir, Twitter, Quora, dan Facebook. Penulis hanya sampai tahap wawancara oleh Palantir, serta tidak direspon/langsung ditolak oleh perusahaan- perusahaan lainnya. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Google Inc. adalah perusahaan berbasis teknologi yang berada di bawah Alphabet Inc., yang bergerak dalam berbagai bidang, mulai dari mesin pencari, peta, sistem operasi <it>desktop</it> dan <it>mobile,</it> dan lain-lainnya. Google Inc. didirikan pada tahun 1998 oleh Larry Page dan Sergey Brin.</title>
+		<segment>
+			Secara organisasi, Google terdiri dari berbagai cabang besar pengembangan seperti Ads, RMI, PeopleOps, dst. yang mengatasi berbagai bidang/fokus tertentu. Di bawah cabang tersebut terdapat banyak tim yang masing-masing memiliki satu fokus spesifik tertentu. Dalam bidang pengembangan perangkat lunak, terdapat beberapa tingkatan <it>software</it> <it>engineer</it> yang disebut sebagai <it>tech</it> <it>level.</it> Seorang <it>software</it> <it>engineer</it> dengan <it>tech</it> <it>level</it> lebih tinggi dapat membawahi satu atau lebih <it>software</it> <it>engineer</it> dengan <it>tech</it> <it>level</it> yang lebih rendah. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>3</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Pada kerja praktik ini, penulis ditempatkan sebagai <it>software</it> <it>engineering</it> <it>intern</it> di bawah salah satu tim di bawah Google Ads yang bekerja untuk infrastruktur dari keseluruhan Google Ads.</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> Google menggunakan bermacam-macam sistem penyimpanan data dalam sistemnya. Antara satu produk dengan produk lainnya dapat menggunakan sistem penyimpanan data yang berbeda. Beberapa contoh sistem penyimpanan data yang digunakan adalah BigTable [1], Spanner [2], serta sistem-sistem lainnya yang mungkin juga merupakan turunan/gabungan dari sistem-sistem penyimpanan yang telah ada.</title>
+		<segment>
+			Bersamaan dengan sistem-sistem penyimpanan tersebut, dapat digunakan sistem indeks terhadap data-data yang disimpan dalam sistem-sistem tersebut. Beberapa indeks dibuat dengan memanfaat BigTable sebagai sistem penyimpanan. BigTable adalah sistem penyimpanan non-relasional dan dapat dibayangkan sebagai <it>multi-</it> <it>dimensional</it> <it>sorted</it> <it>map</it> karena dalam BigTable karena suatu entri data disimpan sebagai pemetaan antara <it>key</it> yang berupa <it>tuple</it> (nilai baris, nilai kolom, <it>timestamp)</it> dengan <it>value</it> yang berupa <it>string.</it> BigTable mengatur penyimpanan data di dalamnya sedemikian hingga rupa sehingga pencarian entri data dengan diberikan suatu <it>key</it> dapat dilakukan dengan optimal. Google Ads memiliki beberapa indeks yang memetakan suatu kumpulan entitas periklanan dengan suatu data yang dapat berupa <it>string,</it> URL, atau kumpulan entitas lainnya. Beberapa diantaranya menggunakan BigTable sebagai pemeta dalam indeks. Dalam perkembangannya, terdapat kebutuhan untuk membuat suatu indeks sekunder (<it>secondary/inverted</it> <it>index)</it> terhadap indeks yang telah ada. Untuk beberapa indeks terutama untuk indeks yang berbasis BigTable, hal ini tidak mudah dilakukan karena BigTable tidak memiliki fitur untuk membuat suatu <it>secondary</it> <it>index</it> berdasarkan data yang telah ada. 
+		</segment>
+		<pagenum>4</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>5</pagenum>
+		<segment>
+			Pada saat proyek ini diberikan, Google Ads telah memiliki <it>pipeline</it> yang digunakan untuk membuat <it>secondary</it> <it>index</it> dari indeks yang telah ada. Namun, pembangunan <it>secondary</it> <it>index</it> tersebut masih dilakukan secara <it>batch</it> dan memakan waktu hingga berjam-jam. Dalam proyek ini, penulis diberikan pekerjaan untuk melakukan <it>prototyping</it> menggunakan beberapa teknologi Google untuk membuat sistem <it>secondary</it> <it>index</it> yang bersifat <it>real-time</it> terhadap data yang ada, sehingga sistem dapat selalu memiliki data/indeks yang keaktualannya terjamin. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo> Proyek kerja praktik ini dikerjakan tidak menggunakan suatu <it>process</it> <it>flow</it> yang serupa dengan <it>prototyping.</it> Dalam pengerjaannya, penulis melakukan beberapa iterasi pengerjaan proyek dengan <it>review</it> pada setiap akhir iterasi pengerjaan. <it>Review</it> dilakukan oleh penulis bersama-sama dengan penyelia. Di setiap <it>review,</it> hal yang dilakukan antara lain membahas perkembangan dari pengerjaan proyek, strategi- strategi desain untuk tahap selanjutnya, dan masukan-masukan/evaluasi dari tahap sebelumnya. <it>Review</it> dilakukan dalam dua cara, antara dengan bertatap muka selama kurang-lebih satu jam atau secara elektronik melalui surat elektronik atau melalui <it>platform</it> internal Google yang digunakan untuk melakukan <it>code</it> <it>review.</it></title>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo> Dalam pengerjaan proyek ini, penulis menggunakan beberapa teknologi yang sebelumnya belum pernah dieksplorasi oleh penulis, diantaranya adalah BigTable [2], Spanner [1], metode MapReduce [3], Borg [4], serta Protocol Buffer [5].</title>
+		<segment>
+			BigTable [2] adalah sebuah sistem basis data terstruktur yang terdistribusi. BigTable didesain sedemikian rupa sehingga mampu digunakan hingga untuk skala yang sangat besar, mencapai ukuran data dalam satuan petabyte (PB) dan dalam ribuan <it>server</it> terpisah. Karena performanya yang baik serta keleluasaan dalam penggunaannya, BigTable digunakan secara luas dalam berbagai proyek di dalam Google. Dalam kerja praktik ini, BigTable digunakan dalam dua hal, yaitu sebagai (1) struktur data yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>6</pagenum>
+		<segment>
+			digunakan untuk menyimpan indeks asli dari data yang akan dibangun <it>secondary</it> <it>index-nya,</it> serta sebagai (2) salah satu <it>backend</it> untuk membuat <it>secondary</it> <it>index</it> terhadap data awal yang telah terindeks. Spanner [1] adalah sistem basis data lainnya yang dibuat oleh Google, yang memiliki fitur-fitur: Suatu basis data dapat memiliki banyak versi, terdistribusi secara global, serta terduplikasi/terreplikasi secara sinkronus. Fitur yang menjadi unggulan dari Spanner adalah kemampuan dari Spanner untuk menyajikan data yang konsisten (<it>strong</it> <it>consistency)</it> antar pekerja-pekerja Spanner yang terletak tidak dalam satu <it>data</it> <it>center.</it> Spanner dapat digunakan menggunakan bahasa yang serupa dengan SQL. Dalam kerja praktik ini, Spanner digunakan sebagai salah satu <it>backend</it> (selain BigTable) untuk membuat <it>secondary</it> <it>index</it> terhadap data awal. MapReduce [3] adalah sebuah model dan implementasi pemrograman yang digunakan untuk memproses data yang ukurannya besar (satuan gigabyte atau terabyte). MapReduce menerima masukan berupa data dalam format pasangan <it>key</it> dan <it>value,</it> dan mengeluarkan data dalam format <it>key</it> dan <it>value</it> pula. MapReduce bekerja dengan cara memproses masukan menjadi keluaran dalam format <it>key</it> dan <it>value</it> dengan menggunakan fungsi Map yang telah didefinisikan. Keluaran dari fungsi Map tersebut kemudian diproses menggunakan fungsi Reduce menjadi keluaran akhir dalam format <it>key</it> dan <it>value.</it> Dalam kerja praktik ini, MapReduce digunakan untuk melakukan <it>sampling</it> terhadap data yang terdapat pada sistem produksi. MapReduce dibutuhkan dalam melakukan <it>sampling</it> karena ukuran data sangat besar (lebih dari 10 TB). 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<segment>
+			Masukan: data dalam &lt;<it>key,</it> <it>value&gt;</it> Keluaran: data dalam &lt;<it>key,</it> <it>value&gt;</it> Fungsi Map Masukan: data keluaran dari fungsi Map Keluaran: data/hasil akhir Fungsi Reduce Keluaran Akhir <it>Gambar</it> <it>2.1</it> <it>Alur</it> <it>proses</it> <it>MapReduce</it> 
+		</segment>
+		<pagenum>7</pagenum>
+		<segment>
+			Borg [4] adalah sebuah <it>cluster</it> <it>management</it> <it>system</it> yang dibuat oleh Google yang bertujuan untuk mengatur jalannya ribuan <it>jobs</it> yang dieksekusi oleh banyak aplikasi berbeda dan dijalankan pada banyak <it>cluster</it> yang masing-masing memiliki ribuan mesin. Dalam hal ini, Borg—dibantu  dengan  <it>platform</it>  internal  untuk  manajemen  program milik Google—digunakan sebagai alat untuk mengatur siklus dari program  pengindeks yang dieksekusi di suatu <it>data</it> <it>center.</it>  Protocol Buffer [5] adalah suatu media untuk melakukan serialisasi terhadap suatu struktur data. Protocol Buffer bertujuan untuk menyediakan suatu cara untuk melakukan serialisasi struktur data yang dapat diimplementasikan dalam berbagai bahasa pemrograman, berbagai <it>platform,</it> dan mudah untuk dikembangkan, namun tetap dapat melakukan serialisasi secara ringan dan menghasilkan hasil serialisasi yang kecil dalam hal ukuran. Dalam kerja praktik ini, Protocol Buffer dimanfaatkan sebagai format yang mendefinisikan <it>payload</it> dari pesan-pesan yang digunakan dalam komunikasi dengan <it>service</it> yang dibuat dalam pengerjaan proyek kerja praktik. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo> Secara garis besar, <it>secondary</it> <it>index</it> yang menjadi komponen utama dalam proyek kerja praktik ini dibuat sebagai sebuah <it>service</it> yang membungkus fitur-fitur pembangunan <it>secondary</it> <it>index</it> dari indeks yang telah ada. Pemilik-pemilik indeks yang ingin</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>8</pagenum>
+		<segment>
+			<it>index</it> dari membangun suatu <it>secondary</it> indeks yang mereka miliki dapat memanfaatkan <it>service</it> yang ada dengan cara mengirimkan setiap perubahan-perubahan (proses pemasukan entri baru, penghapusan entri, dan perubahan entri) yang terjadi dalam indeks asli kepada <it>service</it> yang dibuat. Berdasarkan <it>request-request</it> yang dikirimkan dan konfigurasi yang dipakai, <it>service</it> akan membangun suatu <it>secondary</it> <it>index</it> dengan menggunakan teknologi penyimpanan yang digunakan. <it>Gambar</it> <it>2.2</it> <it>Ilustrasi</it> <it>alur</it> <it>kerja</it> <it>service</it> <it>Service</it> yang dibuat menggunakan beberapa <it>wrapper</it> untuk dapat melakukan operasi- operasi pembangunan indeks menggunakan suatu teknologi penyimpanan seperti BigTable dan Spanner. Seluruh <it>wrapper</it> yang dibuat disetarakan perilakunya dengan terlebih dahulu membuat suatu <it>interface</it> yang mendefinisikan operasi-operasi yang dapat dilakukan terhadap suatu sistem penyimpanan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>9</pagenum>
+		<segment>
+			<it>Gambar</it> <it>2.3</it> <it>Diagram</it> <it>UML</it> <it>dari</it> <it>komponen-komponen</it> <it>service</it> Setiap komponen yang dibuat dalam pengerjaan kerja praktik ini—baik implementasi  <it>service</it> maupun <it>wrapper</it> yang dibuat—dilengkapi juga dengan <it>unit</it> <it>test.</it> <it>Test</it> dibuat  mengikuti standar yang telah ditetapkan Google Inc.. Adanya <it>interface</it> yang dibuat  terhadap  setiap  komponen  yang  dibuat  turut  mempermudah  dilakukannya  <it>unit</it>  <it>test</it>  karena dengan demikian, <it>dependency</it> <it>injection</it> dapat dilakukan dalam melakukan <it>unit</it>  <it>test</it> terhadap komponen-komponen yang memiliki banyak <it>dependent.</it>  Hasilnya, <it>service</it> yang dibuat mampu membangun <it>secondary</it> <it>index</it> secara <it>real-time</it> dengan <it>latency</it> yang cukup rendah (satuan menit) untuk <it>request</it> yang banyaknya mencapai sekitar 50 <it>request</it> per menit. Hasil yang didapat juga menunjukkan bahwa penggunaan Spanner dinilai lebih tepat dalam <it>use-case</it> yang ingin diraih dibandingkan dengan menggunakan indeks yang berbasis BigTable. Adapun hasil-hasil yang didapat dari eksperimen-eksperimen yang dilakukan dinilai belum dapat menggambarkan performa dari setiap teknologi yang digunakan secara penuh karena adanya keterbatasan hak akses dan sumber daya yang dapat diakses oleh penulis. Namun, penyelia menilai bahwa hasil-hasil yang didapat dari pengerjaan proyek ini dapat tetap 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>10</pagenum>
+		<segment>
+			digunakan sebagai bahan pertimbangan dalam mengembangkan <it>service</it> ini ke skala yang lebih besar nantinya. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Terdapat beberapa ketidaksesuaian antara pelaksanaan kerja praktik dengan perencanaan yang sebelumnya tertulis pada kerangka acuan kerja praktik (KAKP). Perbedaan pertama terdapat pada linimasa pekerjaan proyek: Pada KAKP, tertulis bahwa pengerjaan proyek akan dilakukan secara iteratif, mulai dari minggu pertama hingga minggu terakhir (minggu ke-12). Pada kenyataannya, pada minggu pertama kerja praktik belum terdapat pengerjaan terhadap proyek karena penulis melaksanakan orientasi yang wajib dilakukan oleh seluruh <it>tech</it> <it>intern.</it> Pada minggu terakhir, tidak ada pekerjaan teknis yang dilakukan, namun hanya pengerjaan dokumentasi, berbeda dengan rencana pada KAKP yang merencanakan adanya presentasi terhadap tim. Detail pekerjaan yang dilakukan untuk setiap harinya dapat dilihat pada log kerja praktik yang dilampirkan.</title>
+		<segment>
+			Perbedaan lainnya adalah, dalam <it>internship</it> <it>scope</it> tertulis bahwa pengerjaan yang dilakukan akan mengubah alur dari <it>pipeline</it> yang telah ada pada internal Google. Pada kenyataannya, proyek berubah lingkup menjadi bersifat <it>experimental</it> sehingga pekerjaan yang dilakukan lebih condong kepada pembuatan sebuah <it>prototype</it> yang dapat digunakan dengan memanfaatkan berbagai macam <it>storage</it> <it>backend</it> berbeda untuk kemudian dapat dilakukan <it>benchmarking</it> dari performa masing-masing <it>storage</it> <it>backend.</it> Kendala terbesar dalam pelaksanaan kerja praktik ini adalah dalam hal adaptasi terhadap <it>code</it> <it>convention</it> yang berlaku dalam Google Inc. dan dalam adaptasi penggunaan teknologi-teknologi yang terdapat pada Google Inc. Kendala ini dapat diatasi oleh penulis dengan cara berfokus dan mengambil waktu lebih untuk mempelajari dengan memohon dokumentasi-dokumentasi internal serta 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>11</pagenum>
+		<segment>
+			bantuan/bertanya pada pihak penyelia. Kendala ini berhasil ditangani penulis dalam waktu kurang-lebih satu hingga dua minggu. Kendala lain yang dihadapi oleh penulis selama pengerjaan kerja praktik ini adalah kendala dalam hal melakukan eksplorasi mengenai hal-hal yang dapat diubah-ubah dalam melakukan eksperimen dengan menggunakan berbagai teknologi penyimpanan data yang terdapat dalam internal Google. Salah satu hal yang menyebabkan hal ini terjadi adalah karena terdapat beberapa teknologi Google yang dokumentasinya tidak ditulis dengan baik sehingga kadang-kadang terdapat momen dimana penulis tidak tahu bahwa dalam penggunaan suatu teknologi, terdapat parameter-parameter atau pengaturan lain yang dapat dilibatkan dalam suatu eksperimen. Hal ini ditangani oleh penulis dengan cara berusaha untuk selalu mengontak tim yang membuat teknologi yang digunakan untuk bertanya mengenai solusi-solusi implementasi dari skenario- skenario eksperimen yang dilakukan. Pelaksanaan kerja praktik di Google Inc. sangat menambah pengalaman penulis dalam bekerja sebagai <it>software</it> <it>engineer</it> di dalam lingkungan industri dan profesional. Google Inc. memiliki banyak sumber-sumber informasi tulisan (dokumentasi serta media lainnya) dan lisan (<it>software</it> <it>engineer</it> lain yang lebih senior) yang dapat membantu mempermudah pencarian informasi dan kebutuhan teknis dan non-teknis lainnya yang dibutuhkan dalam pengerjaan kerja praktik. Selain itu, banyaknya sumber-sumber pembelajaran teknologi yang tersedia secara internal dalam Google Inc. juga menjadi salah satu nilai tambah yang dimiliki oleh Google Inc. yang ditawarkan kepada seluruh pegawainya untuk dapat mengembangkan diri berdasarkan minat yang dimiliki. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> terdapat cukup banyak Pada proyek kerja praktik yang penulis kerjakan, relevansi/kesesuaian dengan pengetahuan yang dipelajari pada perkuliahan di Fasilkom UI.</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>12</pagenum>
+		<segment>
+			Dengan mata kuliah Rekayasa Perangkat Lunak (RPL) dan Proyek Perangkat Lunak (PPL), banyak kesesuaian ditemukan terhadap materi-materi pengajaran yang lebih bersifat teknis. Pada pengerjaan proyek, suatu sistem <it>version</it> <it>control</it> yang menyerupai Perforce digunakan oleh Google Inc. dalam hampir seluruh proyek yang dikerjakan. Seluruh pekerjaan yang dilakukan oleh penulis didokumentasikan dalam beberapa berkas Google Docs, yang masing-masing berisi macam-macam informasi seperti dokumentasi cara menjalankan kode, dokumentasi hasil eksperimen terhadap beberapa implementasi teknologi, dan sebagainya. Untuk setiap <it>class</it> yang dibuat, <it>unit</it> <it>test</it> dibuat pula untuk <it>class</it> tersebut untuk menjamin kebenaran dari kode yang telah ditulis. Selain itu, penulis juga membuat bermacam-macam <it>class</it> dalam proyek dengan memanfaatkan beberapa <it>design</it> <it>pattern</it> seperti <it>encapsulation</it> dan <it>dependency</it> <it>injection.</it> Hal-hal tersebut sesuai dengan materi-materi yang diajarkan pada kedua kelas tersebut (PPL dan RPL). Dalam mata kuliah DDP yang diikuti oleh penulis pada tahun ajaran 2013/2014 lalu, seluruh mahasiswa bekerja dengan menggunakan bahasa pemrograman Java untuk mengerjakan tugas-tugas. Selain itu, dalam kedua mata kuliah tersebut mahasiswa (termasuk penulis) juga diajarkan mengenai <it>Object-oriented</it> <it>Programming</it> (OOP). Pada kerja praktik yang dilaksanakan penulis, penulis bekerja sepenuhnya menggunakan bahasa pemrograman C++ dan bekerja secara OOP. Konsep OOP yang diajarkan dalam matakuliah DDP sangat membantu penulis dalam mengerjakan proyek kerja praktik karena meski antara dalam pengajaran dan dalam proyek keduanya menggunakan bahasa yang berbeda (Java dan C++), dalam mata kuliah DDP konsep DDP diajarkan dengan cukup <it>language-agnostic</it> (tidak terikat dengan implementasi dengan satu bahasa) maka konsep yang sama dapat diterapkan penulis dalam bahasa C++. Dengan mata kuliah Basis Data Lanjut, penulis memanfaatkan pengetahuan mengenai konsep <it>indexing</it> serta konsep <it>hashing/sharding</it> dalam melakukan eksperimen untuk menentukan struktur basis data yang tepat untuk digunakan dalam <it>use-case</it> yang ingin dicapai. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>13</pagenum>
+		<segment>
+			Dengan mata kuliah Sistem Operasi (OS) dan Pemrograman Sistem (Sysprog), penulis memanfaatkan pengetahuan dan pengalaman dalam menggunakan sistem operasi berbasis UNIX untuk melakukan pekerjaan sehari-hari. Selain itu, pengetahuan akan <it>mutex/semaphore</it> juga dimanfaatkan dalam melakukan implementasi terhadap sebagian kecil dari proyek yang dikerjakan oleh penulis. Dengan mata kuliah Pemrograman Deklaratif (Pemdek), pengetahuan akan adanya operasi fungsional <it>Map</it> dan <it>Reduce</it> membantu penulis dalam memahami lebih lanjut mengenai model pemrograman MapReduce. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo> Google Inc. merupakan tempat yang sangat baik untuk menjadi tujuan melaksanakan kerja praktik. Di Google Inc., penulis mendapatkan banyak pengalaman dan pengetahuan baik dari proses pengerjaan proyek kerja praktik yang diberikan maupun dari proses sosialisasi dan pembelajaran internal yang dilakukan di dalam lingkungan kerja Google Inc.</title>
+		<title><bo>3.2.</bo> <bo>Saran</bo> Penulis menyarankan agar kedepannya laporan-laporan kerja praktik dari mahasiswa- mahasiswa yang telah mengambil mata kuliah kerja praktik pada semester-semester sebelumnya dapat diakses secara luas oleh seluruh mahasiswa Fakultas Ilmu Komputer Universitas Indonesia dengan harapan dapat membantu calon mahasiswa pengambil mata kuliah kerja praktik untuk dapat memiliki gambaran mengenai kegiatan kerja praktik. Melalui laporan-laporan kerja praktik yang dapat diakses secara luas, diharapkan pula adanya peningkatan motivasi mahasiswa untuk dapat belajar dan/atau berkaya lebih giat untuk dapat mendapatkan pengalaman-pengalaman kerja praktik yang lebih baik dari angkatan-angkatan mahasiswa sebelumnya.</title>
+		<pagenum>14</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>15</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] F. Chang, J. Dean, S. Ghemawat, W. C. Hsieh, D. A. Wallach, M. Burrows, T. Chandra, A. Fikes and R. E. Gruber, "Bigtable: A Distributed Storage System for Structured Data," <it>ACM</it> <it>Transactions</it> <it>on</it> <it>Computer</it> <it>Systems</it> <it>(TOCS),</it> vol. 26, no. 2, p. 4, 2008. [2] J. C. Corbett, J. Dean, M. Epstein, A. Fikes, C. Frost, J. Furman, S. Ghemawat, A. Gubarev, C. Heiser, P. Hochschild, W. Hsieh, S. Kanthak, E. Kogan, H. Li, A. Lloyd, S. Melnik, D. Mwaura, D. Nagle, S. Quinlan, R. Rao, L. Rolig, Y. Saito, M. Szymaniak, C. Taylor, R. Wang and D. Woodford, "Spanner: Google's Globally-Distributed Database," <it>ACM</it> <it>Transactions</it> <it>on</it> <it>Computer</it> <it>Systems</it> <it>(TOCS),</it> vol. 31, no. 3, p. 8, 2013. [3] J. Dean and S. Ghemawat, "MapReduce: Simplified Data Processing on Large Clusters," <it>Communications</it> <it>of</it> <it>the</it> <it>ACM,</it> vol. 51, no. 1, pp. 107-113, 2008. [4] A. Verma, L. Pedrosa, M. Korupolu, D. Oppenheimer, E. Tune and J. Wilkes, "Large-scale Cluster Management at Google with Borg," in <it>Proceedings</it> <it>of</it> <it>the</it> <it>Tenth</it> <it>European</it> <it>Conference</it> <it>on</it> <it>Computer</it> <it>Systems,</it> 2015. [5] Google Inc., "Protocol Buffers | Google Developers," Google Inc., [Online]. 23 https://developers.google.com/protocol-buffers/. Available: September 2016]. [Diakses 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>16</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>17</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

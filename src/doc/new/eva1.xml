@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>IMPLEMENTASI</bo> <it><bo>CONTINUOUS</bo></it> <it><bo>TRANSLATION</bo></it> <it><bo>TOOL</bo></it> <bo>UNTUK</bo></title>
+		<title><bo>APLIKASI</bo> <it><bo>MOBILE</bo></it> <bo>ANDROID</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>EVA</bo> <bo>MIRANDA</bo></title>
+		<segment>
+			<bo>1306401630</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Eva Miranda : 1306401630 : Sistem Informasi : Implementasi <it>Continuous</it> <it>Translation</it> <it>Tool</it> untuk Aplikasi <it>Mobile</it> Android <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.A.,</bo> <bo>M.Sc.</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilaksanakan selama tiga bulan dimulai dari 13 Juli – 12  September 2016 di PT Trinusa Travelindo atau lebih dikenal sebagai Traveloka. Kerja  praktik ini dilaksanakan untuk memenuhi mata kuliah Kerja Praktik di Fakultas Ilmu  Komputer,  Universitas  Indonesia.  Pelaksana  kerja  praktik  ditempatkan  pada  tim  <it>Mobile</it>  <it>Infrastructure</it>  dan  mengerjakan  proyek  <it>Continuous</it>  <it>Translation</it>  <it>Tool</it>  untuk  aplikasi  <it>mobile</it>  Android.  Laporan  ini  secara  umum  menjelaskan  pelaksanaan  kerja  praktik dan analisis pekerjaan kerja praktik. Teknologi yang digunakan oleh pelaksana  kerja praktik secara garis besar adalah Java untuk aplikasi mobile Android, Bash untuk  membuat  <it>script</it>  yang  mengotomasi  pekerjaan  yang  sebelumnya  dilakukan  secara  manual, dan JavaScript untuk membuat <it>chrome</it> extension. Terdapat beberapa kendala  dan  perubahaan  pelakasanaan  kerja  praktik  dari  kerangka  acuan  kerja  praktik  yang  telah  direncanakan  sebelumnya  namun  pelaksana  KP  dapat  menangani  kendala- kendala  tersebut  dan  dapat  beradaptasi  terhadap  perubahan  tersebut.  Proyek  yang  dikerjakan pelaksana KP merupakan salah satu bentuk <it>software</it> <it>process</it> <it>improvement</it>  sehingga  pelaksana  KP  mengharapkan  pekerjaan  yang  telah  dikerjakaan  membawa  dampak positif kepada perusahaan.   Kata kunci: <it>Continuous</it> <it>Translation,</it> kerja praktik, <it>Mobile</it> <it>Engineering,</it> Traveloka 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 3</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 PELAKSANAN KERJA PRAKTIK ............................................................... 5 
+		</segment>
+		<title>2.1. Latar Belakang Pekerjaan ................................................................................ 5</title>
+		<title>2.2. Tinjauan Pustaka .............................................................................................. 6</title>
+		<title>2.2.1. <it>Continuous</it> <it>Translation</it> ............................................................................ 6</title>
+		<title>2.2.2. <it>Software</it> <it>Development</it> <it>Life</it> <it>Cycle</it> ............................................................. 7</title>
+		<title>2.2.3. <it>Software</it> <it>Process</it> <it>Improvement</it> ................................................................ 8</title>
+		<title>2.3. Metodologi ....................................................................................................... 8</title>
+		<title>2.4. Proyek Kerja dan <it>Deliverables</it> ........................................................................ 9</title>
+		<title>2.5. Teknologi ....................................................................................................... 12</title>
+		<title>2.6. Non Teknis .................................................................................................... 15</title>
+		<segment>
+			BAB 3 ANALISIS PEKERJAAN KERJA PRAKTIK .............................................. 16 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesesuaian dan Perbedaan dengan KAKP ...................................................... 16</title>
+		<title>3.2. Kendala dalam Kerja Praktik dan Cara Penangananannya .............................. 17</title>
+		<title>3.3. Pembelajaran <it>Soft</it> <it>Skill</it> selama Kerja Praktik .................................................. 18</title>
+		<title>3.4. Penilaian Individu terhadap Tempat Kerja Praktik .......................................... 19</title>
+		<title>3.5. Relevansi dengan Perkuliahan di Fasilkom UI ................................................ 20</title>
+		<segment>
+			BAB 4 PENUTUP ...................................................................................................... 23 
+		</segment>
+		<title>4.1. Kesimpulan .................................................................................................... 23</title>
+		<title>4.2. Saran .............................................................................................................. 23</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 25 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Struktur Organisasi ...................................................................................... 3 Gambar 2 Continuous Translation Tool pada Aplikasi Android ................................ 10 Gambar 3 Fitur Tambahan Chrome Extension ........................................................... 10 Gambar 4 Contoh Konteks yang dipetakan oleh Continuous Translation Tool ......... 11 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<segment>
+			[Daftar tabel, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<pagenum>vi</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pelaksana Kerja Praktik (KP) memulai mencari tempat pelaksanaan kerja praktik dengan membuat daftar perusahaan yang diinginkan. Kriteria perusahaan yang diinginkan oleh pelaksana KP adalah <it>startup</it> yang bergerak teknologi informasi (TI) dan perusahaan konsultan. <it>Startup</it> merupakan perusahaan muda yang mulai berkembang dalam mengembangkan bisnisnya sedangkan perusahaan konsultan merupakan perusahaan yang memiliki keahlian dalam menyediakan layanan konsultasi kepada perusahaan lain. Pelaksana KP ingin melakukan kerja praktik di antara kedua perusahaan tersebut karena pelaksana KP merasa bahwa pengalaman yang mungkin akan didapatkan dari dua jenis perusahaan tersebut akan lebih banyak dari perusahaan jenis lainnya.</title>
+		<segment>
+			Pelaksana KP mulai melamar diri di beberapa tempat yang berkemungkinan untuk melaksanakan kerja praktik dimulai pada bulan Maret 2016. Pelaksana KP mendaftarkan diri di beberapa situs <it>online</it> <it>employment</it> seperti jobsDB dan JobStreet. Pelaksana KP mendaftarkan diri di situs <it>online</it> <it>employment</it> untuk mendapatkan informasi mengenai perusahaan-perusahaan yang sedang membuka lowongan kerja praktik. Situs <it>online</it> <it>employement</it> juga membantu pelaksana KP untuk mengetahui deskripsi pekerjaan dan spesifikasi pekerjaan dari peran yang diinginkan pelaksana KP. Selain mendaftarkan diri di situs <it>online</it> <it>employment,</it> pelaksana KP juga mendaftar di beberapa perusahaan melalui email yang terdapat pada daftar tempat kerja praktik mahasiswa tahun sebelumnya atau langsung ke <it>website</it> perusahaannya. Perusahaan- perusahaan tersebut adalah Traveloka, PricewaterhouseCoopers (PwC), Accenture, Tokopedia, KMKLabs, Protector &amp; Gamble (P&amp;G), Ruangguru.com, Deloitte, dan IBM. Beberapa perusahaan seperti PwC, Tokopedia, Deloitte dan IBM tidak merespon lamaran yang sudah pelaksana KP ajukan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Ruangguru.com merupakan perusahaan pertama yang merespon email yang telah dikirim oleh pelaksana KP. Di perusahaan ini, pelaksana KP melamar menjadi <it>mobile</it> <it>engineering</it> <it>intern.</it> Setelah mendapatkan balasan email, pelaksana KP melakukan wawancara melalui Skype dengan salah satu karyawan Ruangguru.com. Beberapa hari kemudian, pelaksana KP dinyatakan diterima menjadi salah satu <it>intern</it> di perusahaan tersebut. Namun, pelaksana KP menolak tawaran ini karena pelaksana KP mendapatkan balasan email dari Traveloka dan Accenture. Pelaksana KP melakukan dua tahap wawancara untuk melamar menjadi <it>intern</it> di Accenture. Wawancara tahap pertama dilakukan melalui telepon dengan salah satu staf <it>human</it> <it>resource</it> Accenture. Wawancara tahap ini mencakup hal-hal umum mengenai pelaksana KP dan penjelasan perusahaan. Tahap kedua wawancara juga dilakukan melalui telepon dengan <it>project</it> <it>manager</it> dari proyek yang akan ditangani jika pelaksana KP diterima. Setelah wawancara, pelaksana KP dinyatakan bisa melaksanakan kerja praktik di Accenture. Untuk Traveloka, pelaksana KP mendapatkan balasan email yang sedikit telat dibandingkan perusahaan lain. Pelaksana KP mendaftar sebagai <it>mobile</it> <it>engineering</it> <it>intern.</it> Tahap wawancara dilaksanakan di kantor Traveloka. Wawancara dilakukan dengan dua orang yang berbeda yang merupakan <it>software</it> <it>engineer</it> Traveloka dan wawancara bersifat teknis, yaitu pelaksana KP diberikan permasalahan dan harus menyelesaikan permasalahan dengan membuat kode di papan tulis. Beberapa minggu setelah wawancara, pelaksana KP dinyatakan diterima sebagai <it>intern.</it> Penerimaan pelaksana KP di Accenture dan Traveloka hampir bersamaan sehingga pelaksana KP harus dengan cepat memutuskan tempat kerja praktik. Pelaksana KP mengambil keputusan untuk melaksanakan kerja praktik di Traveloka. Hal ini sudah melalui beberapa pertimbangan dan masukan dari orang tua, senior, dan teman-teman. Yang menjadi pertimbangan pelaksana KP mengambil keputusan ini adalah deskripsi pekerjaan, jam masuk kerja, dan lokasi kantor. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Untuk KMKLabs, pelaksana KP mendaftar sebagai Quality Assurance. Tahap yang dilkakukan adalah wawancara <it>online</it> dengan mengisi <it>form</it> pertanyaan yang direkam sehingga pelamar tidak bisa berbuat curang. Beberapa hari kemudian, pelaksana KP diundang ke tahap kedua yaitu tes <it>pair</it> <it>programming</it> dengan salah satu <it>engineer</it> KMKLabs. Namun, karena pelaksana KP telah menerima tawaran Traveloka, pelaksana KP mengundurkan diri dan tidak melanjutkan ke tahap kedua. Begitu pula P&amp;G, pelaksana KP berhasil menyelesaikan tes tahap satu dan dua kemudian diundang tes tahap ketiga, yaitu tes tertulis di kantor P&amp;G. Dengan alasan yang sama, pelaksana KP mengundurkan diri dan tidak melanjutkan ke tahap ketiga. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pelaksana KP melaksanakan kerja praktik di PT Trinusa Travelindo atau lebih dikenal sebagai Traveloka selama tiga bulan. Pada bagian ini, akan dijelaskan mengenai profil Traveloka dan posisi pelaksana KP di Traveloka.</title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Traveloka merupakan perusahaan yang awalnya bergerak di bidang <it>travel</it> dan kemudian di awal tahun 2015 mengubah tujuannya menjadi perusahaan yang berfokus pada cara manusia melakukan mobilisasi dengan menggunakan teknologi. Traveloka berdiri pada tahun 2012 oleh Ferry Unardi, Derianto Kusuma, dan Albert. Layanan Traveloka tersedia di enam negara yaitu, Indonesia, Singapura, Malaysia, Thailand, Vietnam dan Filipina. Kantor Traveloka yang ada di Indonesia berlokasi di Jakarta dan Bali dan memiliki lebih dari 1000 karyawan.</title>
+		<segment>
+			Struktur organisasi Traveloka bersifat <it>network</it> yaitu tipe struktur organisasi yang baru yang tidak terlalu bersifat hierarki dan lebih terdesentralisasi. Tipe ini juga lebih fleksibel dari struktur lainnya. Struktur organisasi Traveloka bersifat <it>confidential</it> sehingga kira-kira bentuk struktur organisasi untuk bagian pengembangan aplikasi <it>mobile</it> Android adalah sebagai berikut: 
+		</segment>
+		<title>STRUKTUR ORGANISASI MENYUSUL</title>
+		<segment>
+			<it>Gambar</it> <it>1</it> <it>Struktur</it> <it>Organisasi</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Pelaksana KP ditempatkan pada bagian <it>Mobile</it> <it>Infrastucture</it> yang berhubungan dengan tim <it>Infrastucture</it> dan tim <it>Mobile</it> <it>Development</it> seperti yang ditunjukan pada Gambar 1. <it>Mobile</it> <it>Infrastructure</it> merupakan bagian yang bertanggung jawab untuk mengembangkan infrastruktur dan meningkatkan efektivitas dan efisiensi serta inovasi dari proses <it>development</it> aplikasi <it>mobile</it> yang dimiliki oleh perusahaan baik aplikasi Android dan iOS. Pelaksana KP ditempatkan pada posisi ini dikarenakan pelaksana KP mendaftarkan diri sebagai <it>mobile</it> <it>engineering</it> <it>intern.</it></title>
+		<segment>
+			Pelaksana KP diberikan seorang mentor yaitu Android <it>engineer</it> <it>lead</it> yang membantu baik hal-hal teknis maupun non-teknis selama pelaksanaan kerja praktik. Pelaksana KP ditempatkan di posisi yang bersebelahan dengan mentor yang diberikan agar memudahkan dalam berdiskusi atau bertanya jawab. Pada beberapa minggu awal pelaksanaan kerja praktik, pelaksana KP memiliki teman dalam melaksanakan kerja praktik yang berasal dari Universitas Bina Nusantara yang ditempatkan pada tim yang sama, yaitu <it>Mobile</it> <it>Infrastructure.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>PELAKSANAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> Traveloka merupakan salah satu <it>startup</it> yang berkembang dengan pesat karena Traveloka dapat melihat potensi industri teknologi khususnya di bidang pariwisata. Potensi ini dimanfaatkan dengan membawa produk Traveloka ke luar negeri, seperti Indonesia, Malaysia, Filipina, Singapura, Thailand dan Vietnam. Untuk dapat menjangkau seluruh pasar di enam negara tersebut Traveloka melakukan lokalisasi produk dengan memberikan konten sesuai dengan cara memberikan beberapa pilihan bahasa seperti Indonesia, Inggris, Malaysia, Filipina, Thailand dan Vietnam. Untuk menjaga konsistensi produk, Traveloka harus mengelola konten yang ada pada aplikasinya baik konten <it>website</it> maupun konten <it>mobile.</it> Pengelolaan konten pada perusahaan ditangani oleh tim <it>Content</it> <it>Management.</it></title>
+		<segment>
+			Tim <it>Content</it> <it>Management</it> telah mengimplementasi pengelolaan konten yang cukup baik untuk <it>website</it> Traveloka. Namun, untuk pengelolaan konten <it>mobile</it> belum sebaik pengelolaan konten <it>website</it> sehingga pelaksana KP membantu dalam memperbaiki pengelolaan konten <it>mobile</it> dengan mengimplementasikan <it>Continuous</it> <it>Translation</it> <it>Tool.</it> Dikarenakan keterbatasan waktu dan pengetahuan dari pelaksana KP, proyek <it>Continuous</it> <it>Translation</it> <it>Tool</it> difokuskan untuk aplikasi <it>mobile</it> Android saja. Sebelum adanya <it>Continuous</it> <it>Translation</it> <it>Tool</it> ini, Traveloka memiliki beberapa masalah dalam proses penerjemahan konten, yaitu tim <it>content</it> <it>writer</it> memiliki ketergantungan dengan tim Android <it>development</it> dalam proses penerjemahan konten, tidak adanya konteks sehingga menyulitkan proses penerjemahan konten, dan otomatisasi integrasi konten untuk berbagai fitur. Dengan adanya <it>Continuous</it> <it>Translation</it> <it>Tool</it> diharapkan tim <it>content</it> <it>writer</it> dapat melakukan proses penerjemahan konten secara independen serta lebih efektif dan efisien dengan adanya konteks yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			jelas untuk konten yang akan diterjemahkan. Otomatisasi integrasi juga bertujuan untuk memastikan konsistensi konten antar fitur. Pelaksana KP ditempatkan pada tim <it>Mobile</it> <it>Infastructure</it> sebagai Android <it>engineering</it> <it>intern.</it> Tim ini memiliki fungsi untuk mengembangkan infrastruktur dan meningkatkan proses <it>development</it> dari aplikasi <it>mobile</it> yang dimiliki oleh perusahaan baik aplikasi Android dan iOS. Pelaksana KP juga bekerja sama dengan tim Android <it>Development,</it> <it>Quality</it> <it>Assurance</it> dan <it>Content</it> <it>Management</it> dikarenakan proyek dikerjakan oleh pelaksana KP sangat terkait dengan ketiga tim tersebut. Selama masa KP berlangsung, pelaksana KP dibimbing oleh seorang mentor yang memimpin tim Android <it>Development</it> dan anggota tim Android <it>Development</it> selama pengerjaan proyek. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<title><bo>2.2.1.</bo> <it><bo>Continuous</bo></it> <it><bo>Translation</bo></it></title>
+		<segment>
+			<it>Continuous</it> <it>Translation</it> atau sering disebut lokalisasi merupakan sebuah proses penerjemahan konten ketika fitur atau konten baru ditambah pada aplikasi yang dikembangkan [3]. Proses ini dilakukan pada aplikasi yang memiliki lebih dari satu bahasa yang bisa dipilih oleh penggunanya. Lokalisasi dapat membuat aplikasi yang dirilis dapat digunakan oleh pengguna dengan berbagai macam bahasa disaat yang bersamaan. Hal ini menyebabkan proses ini merupakan proses yang kontinu, bukan hanya sekali dua kali, namun dilakukan setiap rilis aplikasi. Biasanya ketika <it>developer</it> mengembangkan aplikasi, terdapat satu bahasa utama yang digunakan yang menjadi patokan. Kemudian <it>string</it> baru dalam bahasa utama diunggah ke <it>tool</it> pengelolaan lokalisasi <it>online</it> untuk proyek penerjemahan aplikasi. Kemudian proses penerjemahan konten dilakukan melalui <it>tool</it> tersebut. Penerjemah dapat dilakukan secara internal misalnya menggunakan tim di dalam perusahaan atau menggunakan mekanisme <it>crowdsourcing.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Setelah semua konten baru diterjemahkan, <it>developer</it> mengunduh konten dalam semua bahasa yang digunakan. Unduhan dari <it>tool</it> pengelolaan lokalisasi <it>online</it> untuk proyek penerjemahan aplikasi berupa <it>file</it> yang sudah sesuai dengan aplikasi yang diinginkan, misalnya aplikasi <it>mobile</it> Android dalam bentuk <it>file</it> xml. <it>File</it> tersebut dapat langsung menggantikan <it>file</it> xml sebelumnya sehingga konten aplikasi sudah diterjemahkan secara keseluruhan. <it>continuous</it> <it>translation</it> dimaksudkan untuk membuat Proses pengembangan aplikasi baik dari sisi <it>developer</it> maupun <it>translator</it> menjadi lebih efektif dan efisien [4]. Ketika perusahaan ingin merilis aplikasi secara cepat, <it>developer</it> tidak perlu menghabiskan waktu untuk melakukan penerjemahan langsung pada aplikasi. Proses ini dapat menangani proses penerjemahan yang menyebabkan beban kerja <it>developer</it> menjadi lebih ringan. 
+		</segment>
+		<title><bo>2.2.2.</bo> <it><bo>Software</bo></it> <it><bo>Development</bo></it> <it><bo>Life</bo></it> <it><bo>Cycle</bo></it></title>
+		<segment>
+			<it>Software</it> <it>Development</it> <it>Life</it> <it>Cycle</it> (SDLC) merupakan sekumpulan aktivitas terstruktur yang diperlukan untuk mengembangkan sebuah sistem perangkat lunak [2]. SDLC secara umum dibagi menjadi dua jenis <it>prescriptive</it> yaitu proses terstuktur dan <it>agile</it> yaitu proses yang bersifat adaptif [2]. Setiap model SDLC memiliki proses yang berbeda- beda, namun secara garis besar tahapan SDLC adalah sebagai berikut. <it>1.</it> <it>Planning</it> <it>2.</it> <it>Analysis</it> <it>3.</it> <it>Design</it> <it>4.</it> <it>Development</it> <it>5.</it> <it>Testing</it> <it>6.</it> <it>Deployment</it> <it>7.</it> <it>Maintenance</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<title><bo>2.2.3.</bo> <it><bo>Software</bo></it> <it><bo>Process</bo></it> <it><bo>Improvement</bo></it></title>
+		<pagenum>8</pagenum>
+		<segment>
+			<it>Software</it> <it>Process</it> <it>Improvement</it> (SPI) merupakan proses untuk meningkatkan ekeftivitas proses pengembangan perangkat lunak [1]. Strategi SPI harus diukur dengan suatu ukuran yang telah ditetapkan sebelumnya. Hasil dari SPI diharapkan dapat mengurangi baik dari segi <it>cost</it> maupun waktu [1]. Proses SPI yang diterapkan dalam pelaksanaan kerja praktik dapat sebagai berikut yaitu <it>assessment/gap</it> <it>analysis,</it> didefinisikan implementasi, pelatihan, dan evaluasi. Pada tahap pertama, pelaksana KP diharuskan untuk mengetahui proses penerjemahan konten yang selama ini dilakukan perusahaan. Pada tahap ini juga dilakukan analisis di mana proses dapat diperbaiki untuk membuatnya lebih efektif dan efisien. Tahap ketiga merupakan implementasi <it>Continuous</it> <it>Translation</it> <it>Tool.</it> Tahap berikutnya yaitu tahap keempat, pelaksana KP memberikan pelatihan untuk tim Android <it>development</it> mengenai pemakaian <it>Continuous</it> <it>Translation</it> <it>Tool</it> yang mana juga mengubah proses pengembangan yang selama ini dilakukan. Dan tahap terakhir yaitu tahap evaluasi apakah solusi yang telah diimplementasikan pelaksana KP sesuai dengan harapan perusahaan. 
+		</segment>
+		<title><bo>2.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik tidak menerapkan metodologi khusus karena proyek yang dikerjakan oleh pelaksana KP bersifat <it>improvement</it> terhadap proses penerjemahan konten. Pelaksana KP melakukan rapat rutin dua kali seminggu dan beberapa rapat tambahan untuk melakukan <it>knowledge</it> <it>sharing.</it> Rapat rutin terbagi dua yaitu rapat bersama Android <it>engineer</it> <it>lead,</it> iOS <it>engineer</it> <it>lead,</it> <it>content</it> <it>business</it> <it>analyst,</it> <it>content</it> <it>engineer</it> <it>lead,</it> dan <it>infrastructure</it> <it>lead</it> dan <it>release</it> <it>manager</it> dan rapat bersama anggota tim Android <it>development.</it> Rapat rutin pertama dilaksanakan setiap hari Senin dengan tujuan untuk mendiskusikan solusi, membahas kendala yang dihadapi pelaksana KP dan sebagai wadah pelaksana KP untuk memberi informasi mengenai perkembangan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			solusi. Rapat rutin kedua dilakukan setiap Jumat yang merupakan rapat rutin tim Android Development, pelaksana KP diundang untuk mengetahui perkembangan arsitektur aplikasi <it>mobile</it> Android sehingga dapat memudahkan pelaksana KP dalam mengerjakan proyek <it>Continuous</it> <it>Translation</it> <it>Tool.</it> 
+		</segment>
+		<title><bo>2.4.</bo> <bo>Proyek</bo> <bo>Kerja</bo> <bo>dan</bo> <it><bo>Deliverables</bo></it></title>
+		<segment>
+			Proyek kerja pelaksana KP mencakup membuat seluruh <it>tools</it> yang akan digunakan seluruh anggota tim Android <it>development.</it> Diawal proses pelaksanaan proyek, pelaksana KP berfokus pada membuat beberapa <it>utility</it> yang diimplementasi pada aplikasi <it>mobile</it> Android. <it>Utility</it> dibagi menjadi beberapa fitur utama yaitu, melakukan <it>screenshot,</it> melakukan <it>travese</it> <it>string</it> yang ada di layar yang aktif dan menyimpan di basis data, unduh dan unggah <it>screenshot,</it> dan membuka aplikasi <it>file</it> <it>manager</it> melalui aplikasi Traveloka. <it>Utility</it> diimplementasikan pada aplikasi <it>mobile</it> Android dengan tampilan seperti gambar 2. <it>Utility</it> hanya bisa digunakan untuk aplikasi <it>debug</it> saja dan bukan aplikasi yang dipasarkan ke pengguna. <it>Screenshot</it> dan <it>string</it> yang telah disimpan kemudian akan digunakan sebagai konteks yang digunakan oleh <it>content</it> <it>writer</it> untuk melakukan penerjemahan konteks. <it>Mapping</it> <it>string</it> dan <it>screenshot</it> terkait dilakukan melalui sebuah <it>tool</it> pengelolaan lokalisasi <it>online</it> untuk proyek penerjemahan aplikasi, yaitu POEdito. Pelaksana KP membuat sebuah <it>chrome</it> <it>extension</it> untuk menambah fitur yang dibutuhkan perusahaan pada <it>tool</it> pengelolaan lokalisasi <it>online</it> tersebut namun belum tersedia. Fitur tersebut adalah penambahan tombol untuk melihat konteks suatu <it>string</it> dalam aplikasi <it>mobile</it> Android. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			<it>Gambar</it> <it>2</it> <it>Continuous</it> <it>Translation</it> <it>Tool</it> <it>pada</it> <it>Aplikasi</it> <it>Android</it> <it>Gambar</it> <it>3</it> <it>Fitur</it> <it>Tambahan</it> <it>Chrome</it> <it>Extension</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			<it>Gambar</it> <it>4</it> <it>Contoh</it> <it>Konteks</it> <it>yang</it> <it>dipetakan</it> <it>oleh</it> <it>Continuous</it> <it>Translation</it> <it>Tool</it> Selain itu, untuk mengotomatisasi proses penerjemahan konten, pelaksana KP juga membuat empat <it>script.</it> <it>Script</it> pertama berfungsi untuk memanipulasi file xml yang berisi <it>string</it> yang digunakan aplikasi <it>mobile</it> Android ke sebuah bahasa <it>dummy.</it> <it>Script</it> kedua berfungsi untuk mengunggah <it>string</it> baru ke <it>tool</it> pengelolaan lokalisasi <it>online</it> untuk proyek penerjemahan aplikasi yang digunakan perusahaan dengan menambah <it>tag</it> fitur terkait kepada <it>string</it> baru dan membuat notifikasi pada <it>tool</it> pengelolaan proyek yang digunakan perusahaan untuk <it>project</it> <it>manager</it> terkait dan tim <it>content</it> <it>writer</it> serta. <it>Script</it> ketiga berfungsi untuk mengunduh <it>file</it> konten yang telah diterjemahkan dan memperbarui konten sebelumnya pada aplikasi. Dan <it>script</it> terakhir berfungsi untuk memudahkan pelaksana KP saat memindahkan <it>screenshot</it> yang disimpan pada AWS S3 karena terjadi perubahan <it>requirement.</it> <it>Deliverables</it> dari proyek yang dikerjakan oleh pelaksana KP, yaitu: •  Dokumentasi   Dokumentasi diharuskan oleh Traveloka kepada seluruh <it>engineer</it> agar <it>engineer</it> lain dapat melanjutkan proyek yang telah dilaksanakan. Pelaksana KP membuat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			dokumentasi yang terdiri dari latar belakang proyek, bagaimana tahapan pencarian solusi dengan melampirkan sumber-sumber serta bagaimana solusi diterapkan pada aplikasi <it>mobile</it> Android. •  Manual   Agar proyek yang sudah dikerjakan oleh pelaksana KP dapat dimanfaatkan oleh perusahaan khususnya anggota tim Android <it>Development,</it> pelaksana KP diharuskan untuk membuat manual. Manual merupakan dokumen teknis yang digunakan untuk membantu pengguna dalam menggunakan <it>continuous</it> <it>translation</it> <it>tool.</it> Manual yang dihasilkan oleh pelaksana KP berisi langkah demi langkah cara menggunakan <it>continuous</it> <it>translation</it> <it>tool</it> beserta gambar yang terkait agar lebih jelas. •  <it>Source</it> <it>code</it>  Selain dokumentasi dan manual, <it>source</it> <it>code</it> juga merupakan bentuk <it>deliverables</it> dari pelaksanaan kerja praktik ini. <it>Source</it> <it>code</it> dibagi menjadi 3 yaitu beberapa <it>script,</it> <it>chrome</it> <it>extension,</it> dan implementasi langsung pada aplikasi <it>mobile</it> Android. 
+		</segment>
+		<title><bo>2.5.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, cukup banyak teknologi yang digunakan baik teknologi yang telah diketahui pelaksana KP maupun teknologi baru bagi pelaksana KP. Berikut adalah <it>tool</it> yang digunakan dan dipelajari oleh pelaksana KP, yaitu: •  Phabricator.  Phabricator  merupakan  sebuah  aplikasi  berbasis  <it>web</it>  yang  digunakan  sebagai  <it>tool</it>  kolaborasi  pengembangan  aplikasi.  Phabricator  mendukung fitur <it>code</it> <it>review,</it> <it>repository,</it> <it>monitoring,</it> <it>bug</it> <it>tracker</it> dan wiki.  Pelaksana  KP  menggunakan  Phabricator  untuk  menyimpan  kode  yang  telah  diimplementasikan dan meminta <it>code</it> <it>review</it> kepada mentor dan anggota tim  lainnya.   
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			•  Android  Studio.  Android  Studio  merupakan  <it>integrated</it> <it>development</it> <it>environment</it> (IDE) yang resmi untuk pengembangan aplikasi <it>mobile</it> Android. Android Studio dikeluarkan oleh Google pada tahun 2013 berbasis IntelliJ IDEA yang dikeluarkan JetBrains. Pelaksana KP menggunakan Android Studio untuk mengimplementasikan kode pada aplikasi <it>mobile</it> Android. •  Sublime Text. Sublime Text merupakan sebuah <it>text</it> <it>editor</it> yang mendukung  berbagai  bahasa  pemrograman.  Pelaksana  KP  menggunakan  Sublime  Text  untuk membuat <it>chrome</it> <it>extension</it> dan membuat <it>script.</it>   •  Xcode.  Xcode  merupakan  <it>integrated</it>  <it>development</it>  <it>environment</it>  (IDE)  untuk  pengembangan perangkat lunak yang ditujukan untuk macOS, iOS, watchOS,  dan tvOS. Pelaksana KP menggunakan Xcode untuk mempelajari arsitektur dan  solusi yang telah diimplementasikan pada aplikasi <it>mobile</it> iOS dan membuat  <it>script.</it>  •  Slack. Slack merupakan <it>tool</it> untuk melakukan kolaborasi internal. Pelaksana  KP meggunakan Slack untuk berkomunikasi dengan mentor dan anggota tim  lainnya. Slack perusahaan juga diintegrasikan dengan jadwal yang dimiliki oleh  pelaksana  KP  sehingga  Slack  juga  berfungsi  sebagai  pengingat  ketika  ada  jadwal untuk melakukan pertemuan.  •  Confluence. Confluence merupakan aplikasi yang ditujukan untuk mendukung  kolaborasi tim. Confluence dikeluarkan oleh perusahaan Atlassian pada tahun  2004. Pelaksana KP menggunakan Confluence untuk membuat dokumentasi  dan manual yang dibutuhkan oleh perusahaan. Selain itu, di awal pelaksanaan  kerja  praktik  pelaksana  KP  juga  menggunakan  Confluence  untuk  melihat  gambaran besar proyek <it>Continuous</it> <it>Translation</it> Tool, mempelajari teknologi- teknologi yang akan digunakan pelaksana KP dan mempelajari struktur aplikasi  <it>mobile</it> Android yang cukup kompleks.  •  Asana. Asana merupakan sebuah <it>tool</it> yang berguna untuk melakukan <it>tracking</it>  terhadap pekerjaan yang dilakukan. Pelaksana KP menggunakan Asana untuk  melihat  pekerjaan  apa  yang  harus  diselesaikan  dan  pelaksana  KP  juga  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			mempelajari API dari Asana untuk mengotomatisasi membuatan <it>task</it> ketika <it>developer</it> mengunggah <it>string</it> baru. •  POEditor. POEditor merupakan salah satu <it>tool</it> pengelolaan lokalisasi <it>online</it>  untuk  proyek  penerjemahan  aplikasi  yang  berbasis  <it>web.</it>  Pelaksana  KP  membuat  <it>chrome</it>  <it>extension</it>  untuk  <it>tool</it>  ini  karena  terdapat  fitur  yang  belum  disediakan oleh POEditor. Selain itu, pelaksana KP juga mempelajari API dari  POEditor untuk mengotomatisasi unggah dan unduh <it>string</it> ke aplikasi <it>mobile</it>  Android.  •  AWS  S3.  AWS  S3  merupakan  tempat  penyimpanan  berbasis  <it>cloud</it>  yang  menyediakan  layanan  yang  aman  dan  <it>scalable</it>  untuk  individu  atau  bisnis.  Pelaksana  KP  menggunakan  AWS  S3  untuk  menyimpan  <it>screenshot</it>  yang  dihasilkan. Pelaksana KP mempelajari API dari AWS S3 untuk mengotomasi  proses unggah dan unduh <it>screenshot</it> melalui aplikasi <it>mobile</it> Android.  Bahasa pemrograman yang digunakan dan dipelajari oleh pelaksana KP selama pelaksanaan kerja praktik, yaitu: •  Bash. Bash merupakan sebuah <it>command</it> <it>language</it> atau bahasa pemrograman  yang menghubungkan pengguna untuk memberi perintah kepada sistem operasi  atau aplikasi untuk melakukan sesuatu. Bahasa pemrograman ini dikhususkan  dalam <it>unix/linux</it> <it>shell</it> <it>scripting.</it>  •  Java. Java merupakan bahasa pemrograman yang umum digunakan dan bersifat  <it>concurrent,</it>  <it>class-based,</it>  dan  <it>object-oriented.</it>  Bahasa  pemrograman  ini  digunakan dalam pengembangan aplikasi <it>mobile</it> Android.   •  Javascript.  Javascript  merupakan  bahasa  pemrograman  yang  bersifat  <it>high-</it> <it>level,</it> dinamis, dan <it>untyped.</it> Yang dimaksud dengan <it>untyped</it> adalah JavaScrip  Javascript  merupakan  salah  satu  dari  tiga  teknologi  utama  bersama  Hypt  merupakan salah satu bahasa pemrograman yang tidak membutuhkan deklarasi  tipe untuk variabel yang digunakan. HyperText Markup Language (HTML) dan  Cascading Style Sheets (CSS) untuk mengembangkan <it>website.</it>  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<title><bo>2.6.</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<pagenum>15</pagenum>
+		<segment>
+			Pelaksanaan kerja praktik ini, pelaksana KP mendapatkan pengalaman bekerja dalam lingkungan profesional di perusahaan teknologi informasi. Lingkungan kerja jauh berbeda dengan lingkungan perkuliahan karena peraturan dan proses kerja yang berbeda. Pada saat kuliah, pelaksana KP dituntut untuk datang ke kampus dengan jadwal tertentu. Berbeda dengan Traveloka yang memiliki waktu kerja yang fleksibel dan tidak ada daftar presensi seperti kuliah. Hal ini menyebabkan pelaksana KP harus memiliki kesadaran dalam diri sendiri untuk masuk kantor tanpa ada paksaan dan tetap hadir ketika dibutuhkan perusahaan. Pelaksana KP juga dituntut untuk belajar mandiri secara aktif karena mentor tidak bisa selalu membantu dikarenakan mentor merupakan Android <it>engineer</it> <it>lead</it> yang memiliki beban kerja cukup berat. Selama pembelajaran, pelaksana KP tidak menutup diri dengan hanya membaca materi-materi berkaitan namun juga aktif bertanya dengan anggota tim yang lain. Komunikasi merupakan kunci penting dalam pelaksanaan kerja praktik karena memiliki salah satu peran utama dalam pengerjaan proyek <it>Contunuous</it> <it>Translation</it> <it>Tool</it> ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo> <bo>PEKERJAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Secara umum, pelaksanaan kerja praktik tidak jauh berbeda dengan kerangkan acuan kerja praktik. Pada minggu pertama pelaksanaan kerja praktik, pelaksana KP diberikan pengarahan mengenai konfigurasi aplikasi dan akun yang dibutuhkan. Di minggu ini, pelaksana KP juga mempelajari arsitektur dari aplikasi <it>mobile</it> Android dan melakukan <it>knowledge</it> <it>sharing</it> dengan mentor dan <it>release</it> <it>manager</it> mengenai proses penerjemahan konten yang sedang berjalan di perusahaan.</title>
+		<segment>
+			Perbedaan terjadi pada minggu kedua dan ketiga di mana pelaksana KP tidak hanya melakukan riset mengenai solusi namun juga mulai mengimplementasikan solusi tersebut. Hal ini disebabkan pihak penyelia yaitu Traveloka menginginkan solusi dapat digunakan lebih cepat dari perencanaan awal. Pelaksana KP diberikan waktu pengimplementasian solusi hingga perilisan aplikasi di akhir bulan Juli yang membuat pengimplementasian solusi dilakukan hanya sampai minggu ketujuh yang awalnya direncanakan hingga minggu kedelapan. Pada minggu kedelapan, solusi yang telah diimplementasi oleh pelaksana KP diuji oleh salah satu anggota tim <it>Quality</it> <it>Assurance.</it> Solusi yang telah diimplementasi pelaksana KP diukur tingkat kesuksesannya dengan melihat kesesuaian <it>string</it> dan konteks yang diberikan. Diminggu ini dan minggu kesembilan, pelaksana KP juga melakukan perbaikan terhadap <it>bugs</it> yang ditemukan dan melakukan penyempurnaan solusi. Pada dua minggu ini juga terdapat perubahan cukup besar terhadap <it>requirement</it> solusi sehingga pelaksana KP juga harus mengubah beberapa bagian solusi untuk memenuhi <it>requirement</it> tersebut. Pelaksana KP menyiapkan dokumen-dokumen yang diperlukan pada minggu kesepuluh yang terdiri dari <it>manual</it> dan dokumentasi melalui wiki perusahaan. Selain itu, pelaksana KP melakukan presentasi pada minggu ini sesuai dengan kerangka acuan kerja praktik, yaitu presentasi kepada <it>stakeholders</it> yang terdiri dari anggota tim 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<segment>
+			Android <it>Development,</it> anggota tim <it>Infrastructure</it> , anggota tim <it>Quality</it> <it>Engineer</it> dan beberapa anggota tim lain. Presentasi ini bersifat umum sehingga banyak anggota tim lain yang tertarik dalam proyek ini juga mengikuti sesi presentansi yang dilakukan pelaksana KP. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penangananannya</bo> Dalam menyelesaikan proyek kerja praktik, pelaksana mendapatkan cukup banyak kendala. Hal ini disebabkan karena sebagian besar yang dikerjakan oleh pelaksana KP merupakan hal baru yang belum pernah dipelajari di kuliah maupun di luar kuliah. Pelaksana KP memiliki pengalaman yang masih sedikit dalam mengembangkan aplikasi Android sehingga diawal pelaksanaan kerja praktik, pelaksana KP kesulitan dalam mempelajari arsitektur aplikasi Android yang kompleks. Pelaksana KP menangani kendala tersebut dengan cara membaca wiki perusahaan mengenai pengembangan aplikasi Android. Selain itu, pelaksana KP juga mencari referensi dan bantuan anggota tim Android <it>development.</it></title>
+		<segment>
+			Kendala lainnya adalah mentor yang diberikan kepada pelaksana KP merupakan Android <it>engineer</it> <it>lead</it> yang membuat mentor tidak dapat selalu membantu pelaksana KP. Karena kesibukan mentor, kode yang telah dibuat pelaksana KP juga beberapa kali tersendat pada tahap <it>code</it> <it>review.</it> Pelaksana KP menanggani kendala ini dengan meminta anggota tim <it>Mobile</it> <it>Infrastructure</it> lainnya untuk melakukan <it>code</it> <it>review</it> sehingga pelaksana KP dapat melanjutkan implementasi kode. Pelaksana KP juga merasa tidak familiar dengan beberapa teknologi yang digunakan oleh Traveloka seperti menggunakan Phabricator. Pelaksana KP kemudian mempelajari mengenai teknologi tersebut dengan melihat tutorial yang disediakan oleh Traveloka melalui wiki perusahaan dan aktif bertanya kepada mentor jika memiliki kendala yang tidak disebutkan pada wiki perusahaan. Wiki perusahaan dan situs tanya jawab seperti stackoverflow.com sangat membantu pelaksana KP dalam mencari jawaban atas kendala terhadap masalah-masalah teknis yang dihadadapi selama pelaksanaan kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<title><bo>3.3.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>selama</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pelaksanaan kerja praktik ini sangat mengasah kemampuan pelaksana KP baik pada sisi teknis maupun non teknis. Sisi non teknis yang didapatkan oleh pelaksana KP di antaranya adalah:</title>
+		<segment>
+			•  Kemampuan berkomunikasi  Setelah pelaksanaan kerja praktik, kemampuan pelaksana KP dalam berkomunikasi meningkat cukup signifikan. Hal ini disebabkan pelaksana KP dituntut untuk bisa berkomunikasi sehari-hari mengenai proyek bersaama tim. Selama rapat berlangsung, pelaksana KP juga selalu diberikan kesempatan untuk berpendapat untuk kelangsungan proyek. Di setiap rapat tim Android <it>Development,</it> pelaksana KP juga diminta untuk menyampaikan perkembangan proyek <it>continuous</it> <it>translation</it> <it>tool.</it> Selama mengerjakan proyek, pelaksana KP juga diharuskan untuk aktif dalam menanyakan hal-hal yang belum jelas atau meminta bantuan kepada orang lain. Berbeda dengan dengan di universitas di mana dosen aktif dalam •  Kemampuan bekerja dalam tim  Selama pelaksanaan kerja praktik, pelaksana KP dituntut untuk dapat bekerja dalam tim, baik dengan tim <it>Android</it> <it>Development,</it> <it>Content</it> <it>Management,</it> maupun <it>Quality</it> <it>Engineer.</it> •  Kemampuan menyelesaikan masalah  Pada tahap awal pelaksanaan kerja praktik, pelaksana KP diberikan masalah yang dihadapi perusahaan saat itu. Dari masalah-masalah tersebut, pelaksana KP mencoba untuk menyelesaikan maslah denan berkonsultasi dengan mentor dan tim Android <it>Development.</it> Setelah melaksanakan kerja praktik ini, kemampuan menyelesaikan masalah pelaksana KP sangat meningkat terutama dalam mencari solusi yang efektif dan efisien. •  Pengelolaan waktu  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>19</pagenum>
+		<segment>
+			Proyek <it>continuous</it> <it>translation</it> <it>tool</it> diharapkan dapat dilakukan percobaan sebelum rilis pada akhir bulan Juli 2016. Hal ini membuat pelaksana KP harus mengatur waktu dengan tepat agar <it>tool</it> segera selesai. Pengelolaan waktu dilakukan pelaksana KP dengan membuat beberapa <it>goal</it> yang memiliki <it>deadline</it> dan mengatur waktu kerja saat berada di kantor. Walaupun Traveloka mengimplementasi waktu kerja yang fleksibel namun pelaksana KP berusaha untuk datang ke kantor tidak lebih dari jam 11.00 WIB sehingga waktu kerja yang dimiliki pelaksana KP dapat dimanfaatkan untuk menyelesaikan proyek. •  Beradaptasi di lingkungan baru  Lingkungan kerja Traveloka merupakan lingkungan yang baru bagi pelaksana KP, karena pelaksana KP belum pernah melakukan kerja praktik di Traveloka sebelumnya. Melalui kerja praktik, pelaksana KP melatih diri untuk bekerja dan beradapatasi dengan orang-orang baru, pekerjaan baru yang sebelumnya belum pernah dikerjakan dan tanggung jawab baru. Dengan waktu yang terbilang sedikit yaitu, tiga bulan, pelaksana KP dituntut harus beradaptasi dengan lingkungan dengan cepat. 
+		</segment>
+		<title><bo>3.4.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> Traveloka merupakan salah satu perusahaan yang direkomendasikan sebagai tempat kerja praktik khususnya di bidang teknologi informasi. Hal ini dikarenakan lingkungan kerja Traveloka mendukung individual untuk terus mengasah kemampuan yang telah ada dan mendorong setiap karyawannya untuk mencoba hal-hal yang baru. Rata-rata karyawan Traveloka merupakan <it>tech-savvy</it> atau penggemar teknologi sehingga pelaksana KP juga merasa terbuka wawasannya terhadap teknologi modern dengan ikut berbagai diskusi-diskusi yang terjadi disela-sela waktu bekerja.</title>
+		<segment>
+			Kantor Traveloka termasuk kantor yang menawarkan fasilitas-fasilitas yang dapat mendukung karyawan termasuk pelaksana KP dalam bekerja seperti kartu parkir untuk motor atau mobil, makan siang dan buah-buahan, dan berbagai permainanan agar karyawan dapat melepas stres setelah atau selama bekerja. Lokasi strategis kantor yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>20</pagenum>
+		<segment>
+			berdekatan dengan stasiun Tanah Abang dan halte Trans Jakarta juga memudahkan akses pelaksana KP menuju dan pulang dari kantor. Untuk jam bekerja, pelaksana KP diberikan keleluasaan untuk masuk kerja (<it>flexible</it> <it>working</it> <it>hours)</it> namun dengan tetap menjalankan kewajiban dan bertanggung jawab terhadap pekerjaan yang telah diberikan. Pelaksana KP ditempatkan pada tim <it>Mobile</it> <it>Infrastructure</it> yang berisian dengan tim <it>Infrastructure</it> dan <it>Mobile</it> <it>Development.</it> Kedua tim tersebut banyak membantu pelaksana KP dalam menyelesaikan proyek dan memberi dukungan sehingga pelaksana KP termotivasi dalam menyelesaikan proyek dengan baik. Tim <it>Infastructure</it> dan <it>Mobile</it> <it>Development</it> juga mengajak pelaksana KP dalam kegiatan <it>team</it> <it>building</it> seperti bermain boling, buka puasa bersama, makan malam bersama dan berlibur ke Bandung. Hal ini menyebabkan pelaksana KP dapat dengan cepat merasa nyaman dan tidak canggung dalam bekerja dengan orang lain. Anggota tim juga sering memberikan apresiasi kepada pelaksana KP sehingga pelaksana KP merasa dihargai dan termotivasi menjadi lebih baik lagi. Traveloka merupakan tempat kerja praktik yang pelaksana KP rekomendasikan karena dapat memberikan pengalaman yang bermanfaat dengan waktu yang terbilang cukup singkat, yaitu tiga bulan. Traveloka membantu pelaksana KP keluar dari zona nyaman yang mana membuat pelaksana KP terus berkembang. Dengan mengerjakan proyek yang cukup menantang membuat pelaksana KP merasa pelaksanaan kerja praktik menjadi proses penempaan untuk mendapatkan keterampilan teknis maupun non- teknis yang lebih baik untuk menjadi modal bekerja setelah lulus dari Fasilkom UI. 
+		</segment>
+		<title><bo>3.5.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> Selama pelaksanaan kerja praktik, terdapat beberapa pengetahuan yang dipelajari di kuliah yang relevan dan membantu pelaksana KP dalam mengerjakan pekerjaan sebagai <it>mobile</it> <it>engineer.</it> Pelaksana KP terbantu dengan konsep dan teori yang sudah diajarkan pada saat kuliah, sehingga proses eksekusi menjadi lebih efektif dan efisien. Berikut adalah beberapa mata kuliah yang memiliki relevansi dengan kerja praktik.</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>21</pagenum>
+		<segment>
+			•  <it>Knowledge</it> <it>Management</it>  <it>Knowledge</it> <it>Management</it> (KM) merupakan mata kuliah yang mengajarkan teori dan aplikasi manajemen pengetahuan, yang juga mencakup teknologi dan <it>tools</it> yang digunakan dalam mengelola pengetahuan, diintegrasikan dengan kebutuhan manajemen dalam menyediakan pengetahuan dalam suatu organisasi secara efektif. Selama pelaksanaan kerja praktik, pelaksana KP merasa teori yang diajarkan pada mata kuliah ini sangat diaplikasika di dunia kerja seperti di Traveloka yang menggunakan wiki perusahaan untuk berbagi pengetahuan. Pelaksana KP menggunakan wiki perusahaan untuk mencari pengetahuan seperti melakukan konfigurasi tools dan aplikasi yang digunakan, struktur aplikasi <it>mobile</it> Android, dan pengetahuan umum seperti gambaran besar proyek yang dikerjakan dan hubungan dengan proyek lainnya. •  Komunikasi Bisnis dan Teknis  Komunikasi Bisnis dan Teknis (KomBisTek) merupakan mata kuliah yang fokus pada strategi dan ketrampilan untuk menulis dan berbicara yang efektif dalam organisasi bisnis. Pelaksana KP merasa terbantu dengan materi-materi yang diajarkan karena dalam pelaksanaan kerja praktik pelaksana KP harus mengirimkan dan membalas email, melakukan presentasi, dan berdiskusi bersama tim. •  Pengembangan dan Pemrograman Web  Selama pengerjaan kerja praktik, pelaksana KP diminta untuk menggunakan JavaScript untuk membuat <it>chrome</it> <it>extension.</it> Walaupun mata kuliah Pengembangan dan Pemrograman Web (PPW) tidak pernah mengajarkan hal tersebut, pelaksana KP merasa terbantu dengan materi-materi yang telah diajarkan seperti JavaScript dan JSON. Namun, pelaksana KP merasa pada saat kuliah, materi mengenai JSON sangat sedikit yang diajarkan. Padahal penggunaan JSON sebagai format pertukaran data sangat digunakan dalam pelaksanaan kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>22</pagenum>
+		<segment>
+			•  Rekayasa Perangkat Lunak  Rekayasa Perangkat Lunak (RPL) merupakan mata kuliah yang mengajarkan tentang siklus pengembangan perangkat lunak, yang terdiri dari perencanaan, analisis, desain, <it>coding,</it> pengujian dan pemeliharaan. Pelaksana KP terbantu dengan lima tahap awal yang telah diajarkan. Dimulai dari perencanaan, dimana pelaksana KP harus membuat <it>timeline</it> untuk pengerjaan proyek. Kemudian analisis dan desain dilakukan pelaksana KP dengan mentor pelaksana KP, <it>business</it> <it>analyst,</it> dan <it>release</it> <it>manager.</it> Serta dua tahap berikutnya yaitu <it>coding</it> dan pengujian. Dengan mengetahui dasar-dasar pada tahap siklus pengembangan perangkat lunak, pelaksana KP dapat mengerjakan proyeknya lebih efektif dan efisien. •  Sistem Operasi  Pelaksana KP terbantu dengan mata kuliah Sistem Operasi (OS) selama pelaksanaan kerja praktik terutama mengenai dasar-dasar perintah UNIX, konsep mengenai <it>concurrency</it> serta masalah dan solusinya, serta dasar-dasar <it>scripting.</it> •  Struktur Data dan Algoritma   Struktur Data dan Algoritma (SDA) merupakan mata kuliah yang mengajarkan teknik membuat algoritma, mengabstraksikan data dan memanipulasi data-data tersebut. Pelaksana KP sangat terbantu karena dalam pelaksanaan kerja praktik, konsep yang diajarkan SDA sangat digunakan. Selain itu, penggunaan bahasa pemrograman Java selama kuliah membantu pelaksana KP yang juga menggunakan bahasa pemrograman Java. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<pagenum>23</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo> Pelaksanaan kerja praktik dilaksanakan pelaksana KP selama 12 minggu dimulai dari 13 Juni – 12 September 2016 di PT Trinusa Travelindo atau Traveloka. Pelaksana KP  ditempatkan  pada  tim  <it>Mobile</it>  <it>Infrastructure</it>  sebagai  salah  satu  <it>mobile</it>  <it>engineer.</it>   Selama kerja praktik pelaksana KP mengerjakan proyek <it>Continuous</it> <it>Translation</it> <it>Tool</it>  yaitu sebuah <it>tool</it> yang membantu dalam proses penerjemahan konten pada aplikasi  <it>mobile</it> Android. </title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, tidak ada metodologi khusus yang digunakan oleh pelaksana KP dikarenakan karena proyek yang dikerjakan oleh pelaksana KP bersifat <it>improvement.</it> Proyek yang dikerjakan oleh pelaksana KP menggunakan teknologi seperti Phabricator, Android Studio, Sublime Text, Xcode, Slack, Confluence, Asana, POEditor dan AWS S3 serta bahasa pemrograman yang digunakan adalah Bash, Java, dan Javascript. Setelah menyelesaikan tiga bulan bekerja di Traveloka terdapat tiga jenis <it>deliverables</it> yang dihasilkan pelaksana KP yaitu <it>script,</it> dokumen, dan <it>source</it> <it>code.</it> Pengalaman yang didapatkan dari pelaksanaan kerja praktik merupakan pengalaman yang sangat berharga bagi pelaksana KP. Hal ini dikarenakan tidak hanya <it>hard</it> <it>skill</it> pelaksana KP yang diasah namun juga berbagai <it>soft</it> <it>skill</it> yang dibutuhkan untuk bekal pelaksana KP di dunia kerja setelah menyelesaikan kuliah. Pelaksana KP juga merasa kerja praktik menjadi salah satu media untuk mengimplementasikan ilmu-ilmu yang sudah dipelajari selama kurang lebih tiga tahun menjadi mahasiswa Sistem Informasi di Fakultas Ilmu Komputer, Universitas Indonesia. 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo> Pencarian tempat kerja praktik merupakan hal yang sulit bagi pelaksana KP dikarenakan pelaksana KP cukup terlambat untuk memulai mendaftar di berbagai</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="32">
+		<pagenum>24</pagenum>
+		<segment>
+			perusahaan. Pelaksana KP menyarankan untuk mahasiswa yang mengambil mata kuliah Kerja Praktik berikutnya untuk memulai merancang <it>resume</it> atau <it>curriculum</it> <it>vitae</it> sedini mungkin dan mengirimkan kepada perusahaan dari jauh-jauh hari. <it>Resume</it> atau <it>curriculum</it> <it>vitae</it> juga harus disesuaikan dengan posisi yang diinginkan oleh pelaksana KP berikutnya di suatu perusahaan agar peluang diterima di perusahaan bisa menjadi lebih besar. Pelaksana KP memiliki beberapa saran untuk pelaksanaan kerja praktik berikutnya, yaitu pemberian <it>template</it> yang lebih cepat dari pihak dosen dan proses <it>review</it> untuk dokumen-dokumen yang terkait dengan mata kuliah kerja praktik. Dengan pemberian <it>template</it> yang lebih cepat, pelaksana KP dapat menyicil pekerjaan dan tidak menumpuk di akhir pelaksanaan kerja praktik. Selain itu, pelaksana KP juga dapat mendiskusikan tidak boleh didokumentasikan pada dokumen-dokumen kerja praktik. terhadap hal-hal yang boleh dan lebih baik Untuk tempat kerja praktik sendiri yaitu Traveloka, pelaksana KP merasa Traveloka merupakan tempat kerja praktik yang sudah cukup baik. Saran yang dapat diberikan adalah pengadaan aktivitas-aktivitas untuk seluruh pelaksana magang atau kerja praktik di perusahaan. Selama pelaksanaan kerja praktik, aktivitas-aktivitas yang ditujukan untuk seluruh pelaksana magang atau kerja praktik tidak ada sama sekali. Padahal aktivitas tersebut dapat membantu pelaksana magang atau kerja praktik di perusahaan untuk saling berbagi ilmu dan pengalaman yang didapatkan dari pelaksanaan magang atau kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="33">
+		<pagenum>25</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Pressman, Roger S. (2010). Software Engineering: A Practitioner’s Approach. New  York: McGraw-Hill Higher Education.   [2] Sommerville. (2011). <it>Software</it> <it>Engineering.</it> Massachusetts: Pearson. [3] <it>Continuous</it> <it>Localization</it> <it>and</it> <it>Translation</it> <it>Management</it> <it>|</it> <it>Get</it> <it>Localization.</it> (2016). <it>Getlocalization.com.</it> dari https://www.getlocalization.com/continuous-localization/ November Diakses 2016, 
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			<it>Introduction</it> <it>To</it> <it>Continuous</it> <it>Translation</it> [4] (2016). <it>Getlocalization.com.</it> dari https://www.getlocalization.com/docs/user-guide/introduction-continuous-translation/ <it>|</it> <it>Get</it> <it>Localization.</it> 2016, November Diakses 
+		</segment>
+		<pagenum>13</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="34">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="35">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

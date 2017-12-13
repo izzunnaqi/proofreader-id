@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>SOFTWARE</bo></it> <it><bo>ENGINEERING:</bo></it> <it><bo>PAYMENT</bo></it> <it><bo>GATEWAY</bo></it></title>
+		<title><it><bo>CONFIGURATION</bo></it> <it><bo>BASED</bo></it> <it><bo>ON</bo></it> <it><bo>BANK</bo></it> <it><bo>IDENTIFICATION</bo></it></title>
+		<segment>
+			<it><bo>NUMBERS</bo></it> <it><bo>(BINs)</bo></it> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ANDRI</bo> <bo>KURNIAWAN</bo></title>
+		<segment>
+			<bo>1306382064</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Andri Kurniawan : 1306382064 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Software</it> <it>Engineering</it> <it>–</it>  <it>Payment</it>  <it>Gateway</it>  <it>Configuration</it> <it>Based</it> <it>on</it> <it>Bank</it> <it>Identification</it> <it>Numbers</it>  <it>(BINs)</it>  <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra</bo> Ditetapkan di : Depok Tanggal : November 2016 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan Kerja Praktik (KP) ini berisi hasil pelaksana kerja praktik (selanjutnya disebut penulis) selama mencari tempat untuk kerja praktik, profil dari tempat kerja praktik, kegiatan kerja praktik, dan hasil analisis dari penulis selama melaksanakan kerja praktik sebagai <it>software</it> <it>engineering</it> di PT.Bukalapak.com pada divisi <it>Buy</it> <it>to</it> <it>Paid</it> selama 10 minggu. Penulis memiliki tugas untuk membangun sistem <it>Payment</it> <it>Gateway</it> <it>Configuration</it> <it>Based</it> <it>on</it> <it>Bank</it> <it>Identification</it> <it>Numbers</it> <it>(BINs)</it> selama proses kerja praktik di PT. Bukalapak dengan menggunakan teknologi baru bagi penulis seperti <it>ruby</it> <it>on</it> <it>rails,</it> <it>rspec,</it> <it>coffeescript.</it> Selama proses kerja praktik, penulis dapat memahami penerapan ilmu yang didapatkan pada kuliah pada dunia kerja. Kata kunci : Bukalapak, BINs,</it> <it>Payment</it> <it>Gateway,</it> <it>Ruby</it> <it>on</it> <it>Rails</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Struktur Organisasi ................................................................................... 2</title>
+		<title>1.2.3. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Latar Belakang Pekerjaan ................................................................................ 5</title>
+		<title>2.2. Tinjauan Pustaka .............................................................................................. 6</title>
+		<title><it>2.2.1.</it> <it>Bank</it> <it>Identification</it> <it>Numbers</it> <it>(BINs)</it> ........................................................ 6</title>
+		<title><it>2.2.2.</it> <it>Payment</it> <it>Gateway</it> ..................................................................................... 6</title>
+		<title><it>2.2.3.</it> <it>3-D</it> <it>Secure</it> ................................................................................................ 6</title>
+		<title>2.3. Metodologi ....................................................................................................... 7</title>
+		<title>2.4. Teknologi ......................................................................................................... 7</title>
+		<title>2.5. Teknis .............................................................................................................. 8</title>
+		<segment>
+			BAB 3 ANALISIS ........................................................................................................ 9 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesesuaian dan Perbedaan dengan KAKP ...................................................... 9</title>
+		<title>3.2. Kendala dalam Kerja Praktik dan Cara Penanganannya ................................. 9</title>
+		<title>3.3. Relevansi dengan Perkuliahan di Fasilkom UI .............................................. 10</title>
+		<title>3.4. Penilaian Individu terhadap Tempat Kerja Praktik ....................................... 10</title>
+		<segment>
+			BAB 4 PENUTUP ...................................................................................................... 12 
+		</segment>
+		<title>4.1. Kesimpulan .................................................................................................... 12</title>
+		<title>4.2. Saran .............................................................................................................. 12</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 13 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... 14 LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................... 15 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi Bukalapak ………………………………………… 3  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Teknologi PT. Bukalapak.com ……………………………………………. 8  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			 <bo>Lampiran</bo> <bo>1</bo> <bo>Kerangka</bo> <bo>Acuan</bo> <bo>Kerja</bo> <bo>Praktik</bo> ......................................................... <bo>14</bo> <bo>Lampiran</bo> <bo>2</bo> <bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> ............................................................................... <bo>15</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis memulai proses pencarian kerja praktik dengan meminta rekomendasi dari para senior yang telah melaksanakan kerja praktik sebelumnya. Banyak dari mereka menyarankan untuk mencoba perusahaan IT seperti Traveloka, Bukalapak, Tokopedia, GDP Labs, hingga <it>startup-startup</it> lainnya. Selanjutnya penulis mencoba untuk membuka halaman karir dari beberapa perusahaan IT untuk mengecek apakah mereka menerima lowongan untuk kerja praktik atau tidak. Pada awal bulan Maret, penulis mulai mencoba memasukkan lamaran untuk beberapa perusahaan nasional maupun di luar negeri yaitu Kitabisa, Tokopedia, GDP Labs, Medic-Trust, Xentralmethods, MavenLab. Setelah memasukkan lamaran, penulis mendapatkan <it>email</it> balasan dari Medic-Trust yang menanyakan jadwal untuk wawancana namun penulis tidak kunjung dihubungi kembali. Penulis juga mendapatkan <it>email</it> balasan dari Tokopedia sekitar 3 hari setelah mengirimkan lamaran yang isi dari <it>email</it> tersebut adalah link untuk tes koding secara <it>online.</it> Sementara dari GDP Labs, penulis mendapatkan <it>email</it> balasan sekitar 1 minggu setelah melamar yang isi <it>email-nya</it> menanyakan npm dan <it>email.</it> Untuk kitabisa, Xentralmethods (Malaysia) dan MavenLab (Singapore) penulis tidak mendapatkan <it>email</it> balasan. Penulis selanjutnya mengerjakan tes <it>online</it> yang diberikan oleh Tokopedia 2 hari setelah menerima <it>email</it> yang berisikan link untuk tes <it>online.</it> Seiring menunggu proses dari hasil tes <it>online</it> pada Tokopedia, penulis mencoba alternatif lainnya dengan mendaftar di Bukalapak melalui halaman career. Setelah 1 minggu lebih tidak mendapat respons, penulis mencoba mengisi lagi formulir lamaran pada halaman <it>career</it> di bukalapak.com. 3 hari kemudian, penulis mendapatkan <it>email</it> balasan dari bukalapak yang berisikan soal tes sebagai tahapan awal dari proses seleksi. Setelah menyelesaikan tes <it>online</it> yang diberikan, penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			diundang untuk wawancara oleh Bukalapak pada 22 Maret 2016. Wawancara tersebut berlangsung dalam 2 tahap yaitu wawancara dengan <it>human</it> <it>resource</it> yang ditanya seputar <it>curriculum</it> <it>vitae</it> dan juga mengerjakan tes pemrograman secara langsung. Pada tanggal 22 Maret, penulis juga mendapatkan <it>email</it> dari Tokopedia untuk menanyakan jadwal wawancara. Namun, karena memasuki masa UTS sehingga penulis meminta untuk melakukan wawancara di Tokopedia pada awal April. Pada 23 Maret, penulis mendapatkan <it>email</it> dari HRD Bukalapak yang menyatakan bahwa penulis diterima untuk kerja praktik di Bukalapak. Dengan faktor pertimbangan lokasi, gaji, dan teman akhirnya penulis menerima tawaran dari Bukalapak dan memutuskan untuk tidak melanjutkan proses lamaran di Tokopedia dan juga GDP Labs. Selama proses pencarian tempat kerja praktik ini, penulis juga mendapat beberapa tawaran melalui linkedin seperti dari seekmi dan jurnal.id namun karena penulis sudah diterima terlebih dahulu di Bukalapak sehingga penulis memutuskan untuk menolak tawaran tersebut. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukalapak merupakan salah satu situs <it>online</it> <it>marketplace</it> terkemuka di Indonesia. Bukalapak merupakan situs <it>e-commerce</it> dengan bisnis model konsumen ke konsumen yang menghubungkan antara para penjual dengan calon konsumen (pembeli) secara langsung. Produk utama dari Bukalapak berupa aplikasi situs web dan <it>mobile</it> yang menjadi penghubung antara penjual dan pembeli. Kantor utama Bukalapak berlokasi di Plaza City View, Kemang yang menjadi tempat penulis melaksanakan tempat kerja praktik. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Secara umum, struktur organisasi di Bukalapak dibagi menjadi 3 bagian yaitu <it>Director,</it> <it>Division,</it> dan <it>Departement.</it> <it>Director</it> terdiri dari seorang <it>President</it> <it>(Chief</it> <it>Executive</it> <it>Officer)</it> yang membawahi <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO)<it>,</it> <it>Chief</it> <it>Operation</it> <it>Officer</it> (COO) dan <it>Chief</it> <it>Financial</it> <it>Officer</it> (CFO). Masing-masing dari 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			<it>Director</it> tersebut membawahi beberapa <it>division</it> maupun <it>department</it> seperti gambar berikut: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>1.2.3.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Selama proses kerja praktik, penulis menempati posisi sebagai <it>software</it> <it>engineering</it> pada divisi <it>Buy</it> <it>To</it> <it>Paid</it> <it>(BTP).</it> Divisi BTP merupakan bagian khusus dari <it>department</it> <it>Software</it> <it>Engineer</it> dibawah seorang <it>Chief</it> <it>Operation</it> <it>Officer</it> (COO) yang bertugas untuk meningkatkan konsumen yang sudah memesan barang agar melakukan pembayaran untuk menyelesaikan transaksi tersebut. Divisi BTP terdiri dari seorang <it>Product</it> <it>Manager,</it> <it>Associate</it> <it>Product</it> <it>Manager,</it> <it>Software</it> <it>Engineer,</it> <it>Front-end</it> <it>Engineer,</it> <it>Quality</it> <it>Assurance,</it> dan <it>Data</it> <it>Scientist.</it> <it>Gambar</it> <it>1.</it> <it>Struktur</it> <it>Organisasi</it> <it>Bukalapak</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Sebagai <it>startup</it> yang bergerak pada bidang <it>e-commerce,</it> Bukalapak memiliki sebuah divisi BTP (<it>Buy</it> <it>to</it> <it>Paid)</it> yang bertugas untuk meningkatkan jumlah konsumen yang telah melakukan pemesanan barang agar menyelesaikan pembayaran sehingga transaksi dapat diproses. Divisi BTP merupakan divisi di mana penulis ditempatkan selama melaksanakan kerja praktik. Salah satu metode pembayaran di Bukalapak adalah menggunakan kartu kredit. Namun fungsi pembayaran pesanan menggunakan kartu kredit pada situs web Bukalapak masih mempunyai banyak kekurangan yang dapat menyebabkan hilangnya potensi pemasukan yang diterima melalui pembayaran dengan metode kartu kredit. Hal ini kemudian mendorong divisi BTP untuk meningkatkan <it>feature</it> pembayaran menggunakan kartu kredit sehingga pemasukan yang diterima dapat ditingkatkan. Faktor lain yang mendukung <it>feature</it> ini agar diimplementasikan adalah penambahan <it>payment</it> <it>gateway</it> yang digunakan oleh Bukalapak sehingga dapat mengatur suatu bank akan menggunakan layanan dari <it>payment</it> <it>gateway</it> yang sesuai. Agar mendapatkan pembelajaran yang lebih dan merasakan proyek yang besar selama kerja praktik, penulis diberikan tugas untuk menyelesaikan pekerjaan ini oleh <it>Project</it> <it>Manager</it> divisi BTP. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<title><bo>2.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<pagenum>6</pagenum>
+		<title><it><bo>2.2.1.</bo></it> <it><bo>Bank</bo></it> <it><bo>Identification</bo></it> <it><bo>Numbers</bo></it> <it><bo>(BINs)</bo></it></title>
+		<segment>
+			<it>Bank</it> <it>Identification</it> <it>Number</it> <it>(BINs)</it> adalah 6 digit awal dari 16 nomor yang tertera pada kartu kredit/debit. BINs merupakan kode unik untuk mengetahui bank yang menerbitkan kartu kredit/debit tersebut. BINs juga merupakan cara tradisional yang digunakan oleh penjual (toko) <it>online</it> untuk mendeteksi penipuan dengan mencocokkan lokasi geografis di mana pemilik kartu berada dengan lokasi geografis yang didapatkan dari BINs. 
+		</segment>
+		<title><it><bo>2.2.2.</bo></it> <it><bo>Payment</bo></it> <it><bo>Gateway</bo></it></title>
+		<segment>
+			<it>Payment</it> <it>Gateway</it> merupakan sebuah layanan sistem komputer yang berperan sebagai pihak ketiga yang mengotomatisasi proses transaksi pembayaran antara penjual (toko) dan konsumen. <it>Payment</it> <it>gateway</it> melakukan proses, verifikasi, dan menerima atau menolak transaksi konsumen yang menggunakan kartu kredit atau pembayaran elektronik lainnya di mana <it>payment</it> <it>gateway</it> bertindak atas nama dari penjual yang menggunakan layanan <it>payment</it> <it>gateway.</it> Sehingga, dengan menggunakan layanan <it>payment</it> <it>gateway,</it> penjual (toko) dapat menerima pembayaran dari konsumen dapat bentuk kartu kredit atau pembayaran elektronik lainnya. 
+		</segment>
+		<title><it><bo>2.2.3.</bo></it> <it><bo>3-D</bo></it> <it><bo>Secure</bo></it></title>
+		<segment>
+			<it>3-D</it> <it>Secure</it> merupakan sebuah otentifikasi pada sistem pembayaran untuk meningkatkan keamanan transaksi <it>online</it> dan mendorong pertumbuhan pembayaran pada <it>e-commerce.</it> Sistem ini merupakan sistem keamanan yang diciptakan oleh Visa, MasterCard, dan AMEX. Sistem ini menciptakan tingkat keamanan yang tinggi dari sebuah pembayaran fisik dengan meminta otentifikasi pembayaran lebih lanjut. Tujuannya adalah untuk memberikan sebuah keamanan dan jaminan untuk pembayaran <it>online</it> pada semua domain (Visa, MasterCard, dan AMEX) menggunakan sebuah kode yang divalidasi oleh bank penerbit kartu dan diperiksa oleh semua pihak yang terlibat dalam transaksi. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<title><bo>2.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Divisi BTP yang merupakan divisi penulis bekerja selama kerja praktik baru saja menerapkan proses model <it>scrum</it> ketika penulis bergabung. Proses model <it>scrum</it> yang digunakan hampir sama dengan metode <it>scrum</it> yang telah penulis pelajari saat kuliah di mana terdiri dari pembuatan <it>backlog,</it> <it>marketplace,</it> <it>sprint</it> <it>planning,</it> <it>sprint</it> <it>review,</it> dan <it>daily</it> <it>standup.</it> Pembuatan <it>backlog</it> sendiri merupakan tanggung jawab dari <it>Project</it> <it>Manager.</it> <it>Marketplace</it> merupakan proses pemberian bobot untuk tingkat kesulitan dari pekerjaan yang akan dikerjakan di mana proses ini melibatkan semua anggota tim. <it>Sprint</it> <it>planning</it> merupakan proses yang menentukan <it>backlog</it> yang akan dikerjakan dalam 1 masa sprint dan penentuan anggota tim yang akan mengerjakannya. <it>Sprint</it> <it>planning</it> dan <it>marketplace</it> dilakukan sekaligus pada setiap hari Senin dan Jumat. <it>Divisi</it> <it>BTP</it> sendiri menerapkan setiap sprint selama 2 minggu masa pengerjaan.</it> <it>Daily</it> <it>standup</it> dilakukan setiap hari kerja pada pukul 15.00 WIB yang bertujuan untuk mengetahui progress pengerjaan dari setiap anggota tim dan agar setiap anggota tim mendapatkan pengetahuan tentang <it>feature</it> yang dikerjaan oleh anggota tim lainnya. <it>Sprint</it> <it>review</it> dilakukan ketika masa 1 <it>sprint</it> telah berakhir. Tujuan dari <it>sprint</it> <it>review</it> ini adalah untuk mengevaluasi <it>sprint</it> sebelumnya agar pada <it>sprint</it> selanjutnya dapat lebih baik lagi. 
+		</segment>
+		<title><bo>2.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama proses kerja praktik, penulis banyak menggunakan teknologi baru yang belum pernah penulis gunakan sebelumnya. Berikut adalah daftar teknologi yang digunakan oleh penulis dalam pengerjaan kerja praktik : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Sistem Operasi Ubuntu 14.04 <it>Version</it> <it>Control</it> <it>Repository</it> <it>Framework</it> <it>Database</it> Git Github Ruby on Rails Mysql, MongoDB, Redis Bahasa Pemrograman Ruby, SCSS, Haml, Coffeescript Desain Balsamiq Tabel 2. Teknologi PT. Bukalapak.com 
+		</segment>
+		<title><bo>2.5.</bo> <bo>Teknis</bo></title>
+		<segment>
+			Secara teknis, karena penulis diberikan sebuah pekerjaan yang juga membutuhkan <it>user</it> <it>interface</it> sehingga penulis yang melaksanakan kerja praktik sebagai <it>software</it> <it>engineer</it> harus membuat <it>user</it> <it>interface</it> secara mandiri. Setelah penulis menyelesaikan pekerjaan yang diberikan, karena kebutuhan tim maka penulis diminta untuk bekerja secara <it>full-stack</it> untuk memperbaiki <it>user</it> <it>interface</it> pada halaman pembayaran menggunakan kartu kredit. Berikut adalah 4 pekerjaan yang telah diselesaikan penulis selama proses kerja praktik : 1. Membuat fungsi untuk melakukan pemetaan antara bank dan <it>payment</it> <it>gateway</it> untuk proses pembayaran menggunakan kartu kredit serta <it>user</it> <it>interface-nya</it> pada dasbor admin untuk konfigurasinya. 2. Menghilangkan <it>feature</it> pilih bank pada halaman pembayaran menggunakan kartu kredit dan mengubah tampilan halaman pembayaran kartu kredit sesuai dengan <it>user</it> <it>interface</it> yang diberikan oleh tim UI/UX. 3. Membuat <it>feature</it> untuk pengaturan 3-D Secure untuk tiap bank. 4. Membuat fungsi untuk membedakan daftar BINs dari tiap bank yang dapat menggunakan cicilan atau hanya pembayaran secara penuh. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Secara umum, pekerjaan yang dilakukan oleh penulis sudah mencangkup pekerjaan yang tertera pada KAKP yang telah lebih dahulu penulis buat. Perbedaannya pada KAKP hanya mencangkup pekerjaan No. 1 dari seluruh daftar pekerjaan yang terdapat pada subbab 2.5 tentang teknis yang telah penulis selesaikan. Hal ini karena pada saat awal proses kerja praktik, penulis bersama <it>Project</it> <it>Manager</it> dan mentor pada divisi BTP berpikir jika pekerjaan tersebut memakan waktu yang cukup lama. Namun penulis dapat menyelesaikan pekerjaan lebih cepat daripada perkiraan awal, sehingga penulis mendapatkan pekerjaan baru yang berkaitan dengan pekerjaan tersebut. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganannya</bo></title>
+		<segment>
+			Kendala yang dialami oleh penulis secara teknis adalah penulis belum pernah menggunakan teknologi yang digunakan pada saat kerja praktik sehingga penulis membutuhkan waktu untuk mempelajari teknologi tersebut terlebih dahulu. Selama 2 minggu pertama dari masa kerja praktik, penulis mencoba dan mempelajari semua teknologi yang akan digunakan secara mandiri dengan cara membuat sebuah blog sederhana yang mengaplikasikan teknologi yang akan digunakan. Selain itu, karena penulis tidak memiliki pengetahuan yang cukup dalam tentang <it>front-end,</it> penulis banyak bertanya dan berdiskusi kepada senior di Bukalapak yang merupakan alumni Fasilkom yang bekerja sebagai <it>front-end</it> <it>Developer</it> di Bukalapak. Dari segi non teknis, karena di Bukalapak setiap anak magang akan dipisahkan ke tim yang berbeda-beda sehingga penulis yang merupakan satu-satunya anak magang di divisi BTP merasa sedikit canggung untuk berkomunikasi kepada anggota lainnya. Namun karena mentor yang cukup ramah dan hampir semua anggota tim BTP bermain <it>game</it> Dota 2 sehingga penulis mulai akrab dengan anggota tim lainnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<title><bo>3.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama kerja praktik, penulis sangat terbantu dengan ilmu-ilmu yang sudah didapatkan di perkuliahan. Berikut merupakan mata kuliah yang secara langsung maupun tidak langsung membantu penulis dalam kerja praktik : - Mata kuliah DDP sangat membantu penulis dalam mempelajari dasar dari bahasa pemrograman Ruby yang belum pernah digunakan oleh penulis sebelumnya, walaupun pada Mata kuliah DDP menggunakan bahasa pemrograman Java. - Mata kuliah SDA sangat membantu penulis dalam pemilihan struktur data yang akan digunakan untuk menciptakan perangkat lunak yang efisien. - Mata kuliah PPW sangat membantu penulis dalam mengetahui bagaimana suatu sistem situs web bekerja dan membantu penulis dalam menggunakan <it>javascript</it> dan juga CSS selama kerja praktik. - Mata kuliah RPL yang didapatkan pada perkuliahan telah menjadi dasar penulis untuk mengetahui proses-proses pada metode <it>agile</it> yang digunakan pada tempat kerja praktik. - Mata kuliah PPL telah membantu penulis untuk mengetahui bagaimana mengerjakan sebuah proyek dalam sebuah tim, dan karena pada PPL diterapkan metode <it>agile</it> sehingga penulis tidak perlu adaptasi dengan metode <it>agile</it> yang diterapkan pada tempat kerja praktik. - Mata kuliah Basis Data membantu penulis untuk mengetahui tentang cara penggunaan query untuk akses data pada database. 
+		</segment>
+		<title><bo>3.4.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukalapak menyediakan fasilitas yang sangat nyaman selama penulis melaksanakan kerja praktik. Tidak hanya memberikan gaji, Bukalapak juga memberikan makan siang dan makan malam, fasilitas olahraga yang terdiri atas <it>gym,</it> tenis meja, futsal, dan bulu tangkis hingga beberapa ruangan yang menyediakan konsol permainan serta perpustakaan yang berisi koleksi buku yang dapat menunjang pekerjaan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			Selain itu, Bukalapak sangat mendorong untuk terjalinnya hubungan yang cukup akrab antar pegawai dengan beberapa acara seperti buka puasa bersama, perayaan acara 17 Agustus, hingga perpisahan dengan antar peserta KP. Bukalapak juga selalu mengadakan acara <it>Talk</it> <it>With</it> <it>Engineer</it> (TWE) yang rutin diadakan 1x dalam 2 minggu di mana pada acara tersebut dibahas teknologi yang digunakan untuk mengembangankan <it>feature</it> baru pada Bukalapak sehingga semua pegawai mendapatkan pengetahuan yang sama. Bukalapak juga sangat membebaskan waktu kerja dari pegawainya selama pegawai tersebut dapat menyelesaikan semua tanggung jawab yang dimilikinya. Dari segi teknis, antar pegawai di Bukalapak saling membantu jika ada kesulitan sehingga penulis dapat bertanya kepada rekan satu tim ketika memiliki kesulitan dalam pengerjaan pekerjaan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik yang telah dilaksanakan oleh penulis selama 10 minggu di PT. Bukalapak.com telah memberikan manfaat dan pengalaman yang sangat banyak kepada penulis. Penulis banyak mendapatkan pengetahuan baru baik dari segi teknis maupun non teknis, seperti penggunaan bahasa pemrograman <it>Ruby</it> <it>On</it> <it>Rails</it> untuk skala proyek yang besar hingga bagaimana penulis dalam bekerja menjadi sebuah tim pada saat pelaksanaan kerja praktik. Selain itu, penulis juga merasakan manfaat langsung dari mata kuliah yang selama ini baru sebatas teori yang dipelajari selama kuliah di Fasilkom. Secara umum, penulis sangat senang dapat melaksanakan kerja praktik di Bukalapak karena dapat belajar banyak hal dan mengerjakan pekerjaan yang mendukung Bukalapak ke depannya. 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Untuk para pelaksana KP selanjutnya, penulis menyarankan agar mencari peluang untuk kerja praktik lebih cepat karena dapat mengurangi saingan yang akan kalian hadapi dari teman kalian sendiri. Selain itu, <it>cv</it> dan juga persiapan diri sangat dibutuhkan agar kalian dapat diterima di tempat yang kalian inginkan. Terkait penyelenggaraan kerja praktik yang diadakan oleh fakultas, penulis menyarankan agar alur dalam proses pelaksanaan kerja praktik dapat lebih diperjelas. Beberapa masalah yang penulis hadapi seperti dosen KAKP yang cukup lama dalam hal memberikan respons terhadap KAKP yang penulis berikan serta pergantian dosen juga sangat membuat penulis bingung dalam penyelanggaraan mata kuliah ini. Selain itu, penulis berharap agar <it>form</it> penilaian dapat diberikan sebelum peserta KP melaksanakan kerja praktik sehingga tempat peserta melaksanakan kerja praktik nantinya dalam melakukan penilaian terhadap peserta kerja praktik dari awal pelaksanaan kerja praktik hingga kerja praktik berakhir. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			<it>3D</it> <it>Secure.</it> https://www.mastercard.com/gateway/implementation_guides/3D-Secure.html (t.thn.). Dipetik November 15, 2016, dari MasterCard: <it>About</it> <it>Bukalapak.</it> https://www.bukalapak.com/about (t.thn.). Dipetik November 1, 2016, dari Bukalapak: <it>Bank</it> <it>Identification</it> <it>Number</it> <it>-</it> <it>BIN.</it> (t.thn.). Dipetik November 15, 2016, dari Investopedia: http://www.investopedia.com/terms/b/bank-identification-number.asp <it>Payment</it> <it>Gateway.</it> (t.thn.). Dipetik November 15, 2016, dari Webopedia: http://www.webopedia.com/TERM/P/payment_gateway.html <it>What</it> <it>is</it> <it>a</it> <it>BIN</it> <it>(Bank</it> <it>Identification</it> <it>Number)?</it> (t.thn.). Dipetik November 15, 2016, 2checkout: dari https://www.2checkout.com/ecommerce-glossary/bank- identification-number/ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

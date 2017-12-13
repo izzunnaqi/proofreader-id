@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PERANCANGAN</bo> <it><bo>USER</bo></it> <it><bo>INTERFACE</bo></it> <bo>DAN</bo> <it><bo>USER</bo></it> <it><bo>EXPERIENCE</bo></it></title>
+		<title><bo>PROYEK</bo> <bo>HUKUMLAW,</bo> <bo>KODEGIFT,</bo> <bo>KADO,</bo> <bo>DAN</bo> <it><bo>RE-DESIGN</bo></it></title>
+		<title><it><bo>WEBSITE</bo></it> <bo>APPSTRAK</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>SEPTIANI</bo> <bo>ANDRIANE</bo> <bo>BR.SINAGA</bo> <bo>1306382764</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Septiani Andriane Br.Sinaga : 1306382764 Program Studi : Sistem Informasi Judul Kerja Praktik : Merancang <it>User</it> <it>Interface</it> dan <it>User</it> <it>Experience</it> Proyek pada Appstrak <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi)</bo> Ditetapkan di : Depok Tanggal : 
+		</segment>
+		<pagenum>5</pagenum>
+		<pagenum>i</pagenum>
+		<segment>
+			November 
+		</segment>
+		<pagenum>2016</pagenum>
+	</page>
+	<page id="3">
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja praktik merupakan salah satu mata kuliah wajib di Fakultas Ilmu Komputer Universitas Indonesia. Penulis melaksanakan kerja praktik pada PT Appstrak Teknologi Indonesia sebagai <it>UI/UX</it> <it>Designer</it> <it>Intern.</it> Kerja praktik ini berlangsung selama sembilan minggu mulai 20 Juni sampai 19 Agustus 2016. Selama pelaksanaan kerja praktik, penulis tergabung dalam tim pengembang yang seluruh anggotanya merupakan mahasiswa <it>intern</it> yang berasal dari Fakultas Ilmu Komputer. Selama sembilan minggu ini penulis mengerjakan beberapa proyek dari klien, antara lain HukumLaw, yaitu sebuah <it>platform</it> jasa hukum yang menyediakan beberapa layanan yang memungkinkan pengguna mencari pekerja hukum, dan layanan memungkinkan pengguna berdiskusi dengan pekerja hukum ataupun pengguna lain mengenai topik tertentu, Kodegift, yaitu sebuah aplikasi berbasis <it>mobile</it> yang memungkinan pengguna mengunggah foto dan <it>barcode</it> dari produk yang mereka beli, dan Kado, yang merupakan <it>website</it> <it>e-commerce</it> sekaligus <it>crowdfunding,</it> yang memungkinkan pengguna membeli produk dan berkontribusi terhadap produk yang terdapat pada <it>wishlist</it> pengguna lain. Selain itu, penulis juga mendesain ulang <it>official</it> <it>website</it> Appstrak. Ruang lingkup pekerjaan penulis selama melaksanakan kerja praktik memiliki beberapa relevansi pada mata kuliah yang dipelajari di Fakultas Ilmu Komputer, antara lain Perancangan dan Pemrograman Web, Proyek Pengembangan Sistem Informasi, Sistem Interaksi, dan Komunikasi Bisnis dan Teknis. Selain itu, penulis juga melaksanakan pekerjaan non-teknis, yaitu komunikasi, manajemen waktu, dan tanggung jawab. Pada pelaksanaan kerja praktik ini, penulis mendapatkan pengalaman dan pengalaman baru yang tidak didapatkan selama perkuliaham. Kata kunci: Appstrak, kerja praktik, proyek, <it>user</it> <it>experience,</it> <it>user</it> <it>interface.</it> 
+		</segment>
+		<pagenum>ii</pagenum>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 2</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 4</title>
+		<title>2.1.2. Metodologi ................................................................................................ 6</title>
+		<title>2.1.3. Teknologi .................................................................................................. 8</title>
+		<title>2.1.4. Non-teknis ............................................................................................... 10</title>
+		<title>2.2. Analisis .......................................................................................................... 11</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 11</title>
+		<title>2.2.2. Penilaian Individu terhadap Tempat Kerja Praktik ................................. 12</title>
+		<title>2.2.3. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 13</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 14 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 14</title>
+		<pagenum>iii</pagenum>
+	</page>
+	<page id="5">
+		<title>3.2. Saran .............................................................................................................. 14</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 16 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... 17 LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................... 18 
+		</segment>
+		<pagenum>iv</pagenum>
+	</page>
+	<page id="6">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Metodologi Incremental [2] .......................................................................... 7 Gambar 2. Metodologi Waterfall [2] .............................................................................. 8 
+		</segment>
+		<pagenum>v</pagenum>
+	</page>
+	<page id="7">
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Teknologi yang digunakan .............................................................................. 9 
+		</segment>
+		<pagenum>vi</pagenum>
+	</page>
+	<page id="8">
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses pencarian kerja praktik dimulai pada bulan Februari 2016. Tahap pertama sebelum melakukan pencarian lokasi kerja praktik, penulis membuat CV yang berisi profil dan pengalaman yang penulis miliki. Setelah membuat CV, penulis mencari lowongan kerja praktik. Informasi mengenai kerja praktik didapatkan dari grup LINE angkatan, forum lowongan kerja praktik yang terdapat di <it>Student</it> <it>Centered</it> <it>e-</it> <it>Learning</it> <it>Environment</it> (SceLE) Fakultas Ilmu Komputer Universitas Indonesia, ataupun mencari secara mandiri pada <it>website</it> beberapa perusahaan dan melalui <it>online</it> <it>job</it> <it>market,</it> seperti JobsDB, StartUpJobs dan Karir.com. Pada bulan Februari, penulis mengirimkan lamaran ke PT Kitabisa Indonesia untuk posisi <it>UI/UX</it> <it>Designer,</it> namun penulis tidak mendapat tanggapan. Pada bulan ini, penulis juga mendapatkan tawaran dari Indorelawan.org, yaitu <it>partner</it> dari Kitabisa Indonesia, untuk melaksanakan kerja praktik untuk periode Maret hingga Mei, tetapi periode kerja praktik yang ditawarkan tidak sesuai dengan jadwal yang disanggupi oleh penulis. Pada bulan Maret, penulis mengirimkan lamaran ke beberapa perusahaan antara lain, GDP Venture untuk posisi <it>Product</it> <it>Manager,</it> PT Appstrak Teknologi Indonesia untuk posisi <it>UI/UX</it> <it>Designer,</it> Suitmedia untuk posisi <it>Knowledge</it> <it>Management,</it> dan GanRA untuk posisi <it>System</it> <it>Analyst.</it> Dari keempat perusahaan tersebut, hanya GDP Venture dan PT Appstrak yang memberikan tanggapan melalui <it>e-mail.</it> GDP Venture menyatakan bahwa perusahaan mereka tidak menerima <it>internship</it> dikarenakan <it>slot</it> yang sudah penuh, sedangkan PT Appstrak meminta penulis untuk mengerjakan tugas sebagai syarat pemenuhan permintaan kerja praktik. Penulis pun kemudian mengerjakan tugas tersebut dan mengirimkannya. Pada awal bulan April, penulis mendapatkan pengumuman bahwa 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			penulis diterima untuk melaksanakan kerja praktik pada PT Appstrak Teknologi Indonesia sebagai <it>UI/UX</it> <it>Designer</it> <it>Intern.</it> 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini dijelaskan profil tempat kerja praktik yaitu PT Appstrak Teknologi Indonesia dan posisi penempatan pelaksana kerja praktik dalam struktur organisasi. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Appstrak Teknologi Indonesia adalah sebuah <it>platform</it> <it>revolution</it> <it>company.</it> Perusahaan ini mengembangkan sistem informasi, <it>platform</it> <it>web</it> dan aplikasi <it>mobile</it> atas permintaan dan tawaran dari beberapa klien. Tawaran-tawaran tersebut dikerjakan oleh tim pengembang PT Appstrak Teknologi Indonesia. Perusahaan ini terletak pada Jln. Walet Elok 6 No.21 Pantai Indah Kapuk. Adapun visi dan misi PT Appstrak Teknologi Indonesia adalah sebagai berikut [1]: Visi: Membantu dunia dan generasi masa depan. Misi: Membangun perusahaan teknologi <it>platform</it> <it>centric</it> yang menghubungkan masyarakat, membawa transparansi bagi masyarakat, dan membuat kehidupan masyarakat lebih mudah. Secara sederhana, struktur organisasi PT Appstrak Teknologi Indonesia terdiri dari dua orang <it>founding</it> <it>partner,</it> yaitu Stephanie Yoe, seorang <it>intrepreneur</it> muda dan juga sebagai <it>Chief</it> <it>Executive</it> <it>Officer</it> (CEO) dan Andito Pranandya, mahasiswa lulusan Fakultas Ilmu Komputer Universitas Indonesia, sebagai <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) dan penyelia bagi para <it>intern</it> yang melaksanakan kerja praktik di perusahaan tersebut. CTO ini membawahi para tim pengembang, baik <it>full-time</it> <it>worker,</it> <it>part-time</it> <it>worker</it> ataupun para <it>intern.</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik, penulis menempati posisi sebagai bagian dari tim pengembang, dan secara khusus ditempatkan sebagai sebagai <it>UI/UX</it> <it>Designer</it> <it>Intern</it> pada PT Appstrak Teknologi Indonesia. Seluruh anggota tim pengembang berisi 
+		</segment>
+	</page>
+	<page id="10">
+		<segment>
+			mahasiswa <it>intern</it> pada periode Juni sampai Agustus 2016. Tim pengembang tersebut diawasi dan dibimbing oleh seorang penyelia, yaitu Andito Pranandya. 
+		</segment>
+		<pagenum>3</pagenum>
+	</page>
+	<page id="11">
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis bekerja sebagai <it>UI/UX</it> <it>Designer</it> <it>Intern</it> dan ditempatkan sebagai bagian dari tim pengembang bersama-sama dengan mahasiswa <it>intern</it> lainnya. Semua mahasiswa <it>intern</it> tersebut berasal dari Fakultas Ilmu Komputer Universitas Indonesia. Tim tersebut terdiri dari: Ferdinand Chandra sebagai <it>Front-end</it> <it>Developer,</it> Fendi sebagai <it>Back-end</it> <it>Developer,</it> William Lim sebagai <it>Back-end</it> <it>Developer,</it> dan penulis sebagai <it>UI/UX</it> <it>Designer.</it> Tim ini diawasi dan dibimbing oleh penyelia, yaitu Andito Pranandya, yang merupakan CTO pada perusahaan tersebut. Selama pengerjaan proyek, anggota tim pengembang bersama-sama dalam melakukan <it>requirement</it> <it>gathering</it> dan analisis, sedangkan pada tahap desain dan implementasi disesuaikan dengan <it>role</it> masing-masing anggota tim. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Seperti yang sudah penulis jelaskan pada profil kerja praktik di atas, PT Appstrak Teknologi Indonesia ini mengembangkan sistem informasi, <it>platform</it> <it>web</it> dan aplikasi <it>mobile</it> atas permintaan dan tawaran dari beberapa klien. Pada periode Juni sampai Agustus 2016, perusahaan ini menerima tawaran dari beberapa klien, yaitu HukumLaw, Kodegift, dan Kado. HukumLaw adalah sebuah <it>platform</it> jasa hukum yang menyediakan beberapa layanan, diantaranya, direktori pekerja hukum yang memungkinkan pengguna mencari pekerja hukum berdasarkan topik atau lokasi, forum yang memungkinkan pengguna berdiskusi dengan pekerja hukum ataupun pengguna lain mengenai topik tertentu, dan layanan <it>chatting</it> yang memungkinkan pengguna berkomunikasi dengan pekerja hukum yang terdaftar pada HukumLaw. Proyek ini awalnya dikembangkan oleh tim pengembang terdahulu, namun karena terdapat beberapa kendala, akhirnya proyek ini diserahkan kepada tim pengembang yang merupakan mahasiswa <it>intern.</it> Dikarenakan 
+		</segment>
+		<pagenum>4</pagenum>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<segment>
+			proyek ini merupakan lanjutan dari tim pengembang sebelumnya, penulis dan tim pengembang tidak terlibat langsung dalam tahap <it>gathering</it> <it>requirement</it> dan <it>planning.</it> Penulis mulai terlibat pada tahap analisis, desain secara khusus, dan tahap <it>testing.</it> Untuk tahap implementasi diserahkan pada <it>Back-end</it> <it>Developer</it> dan <it>Front-</it> <it>end</it> <it>Developer.</it> Proyek selanjutnya adalah Kodegift. Kodegift adalah sebuah aplikasi berbasis <it>mobile</it> yang memungkinan pengguna mengunggah foto dan <it>barcode</it> dari produk yang mereka beli. Setiap pengguna yang mengunggah foto dan <it>barcode</it> akan mendapatkan poin yang dapat ditukarkan dengan produk yang tersedia pada aplikasi. Tujuan dari aplikasi ini adalah mengumpulkan <it>barcode</it> dari produk-produk yang ada di Indonesia. Dikarenakan anggota tim pengembang tidak ada yang memiliki <it>skill</it> dalam implementasi aplikasi <it>mobile,</it> penyelia memutuskan untuk melakukan <it>outsource,</it> yaitu mempekerjakan orang lain di luar tim pengembang. Namun, dalam tahap desain, penulis mendapat kesempatan untuk membuat desain interaksi untuk aplikasi Kodegift ini. Proyek yang terakhir adalah Kado, Kado merupakan <it>website</it> <it>e-commerce</it> sekaligus <it>crowdfunding,</it> Pada <it>website</it> ini, selain berbelanja, pengguna juga dapat membuat <it>wishlist</it> yang berisi produk-produk yang diinginkan untuk <it>event</it> tertentu, contohnya pada saat hari pernikahan, <it>baby</it> <it>shower,</it> atau pada hari ulang tahun. Nantinya, pengguna lain yang melihat <it>wishlist</it> tersebut dapat berkontribusi dengan memberikan sumbangan, baik dalam bentuk uang ataupun dengan membeli barang tersebut. Pada proyek Kado ini, seluruh anggota tim pengembang terlibat langsung mulai dari tahap <it>requirement</it> <it>gathering</it> dari klien, <it>planning,</it> analisis, dan desain. Untuk tahap implementasi, awalnya tim pengembang dan klien sepakat untuk mengerjakannya di luar waktu yang sudah ditetapkan untuk kerja praktik, namun karena klien memiliki beberapa kendala, tahap implementasi ditunda dan akan dilanjutkan sekitar bulan Desember. 
+		</segment>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			Selain mengerjakan proyek dari klien, perusahaan juga merasa butuh untuk melakukan <it>re-design</it> terhadap <it>official</it> <it>website</it> mereka. Oleh karena itu, selama kerja praktik ini, penulis juga diminta untuk membuat desain baru untuk <it>official</it> <it>website</it> Appstrak. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam pengerjaan proyek HukumLaw, tim pengembang menggunakan metodologi <it>incremental.</it> Metodologi ini dipilih dikarenakan beberapa fitur sudah dikembangkan oleh tim pengembang terdahulu, sehingga tim pengembang melakukan tahap <it>increment</it> selanjutnya, mulai dari analisis, desain, implementasi, dan <it>testing</it> untuk beberapa fitur yang belum diimplementasi. Pada tahap analisis, penulis dan tim pengembang melakukan analisis terhadap fitur-fitur yang akan dikerjakan. Dokumen yang menjadi <it>output</it> pada tahap ini adalah <it>entity</it> <it>relationship</it> <it>diagram,</it> yang dibuat oleh <it>Back-end</it> <it>Developer.</it> Pada tahap desain, penulis pertama kali membuat <it>site</it> <it>map</it> <it>diagram</it> untuk aktor-aktor yang terlibat dalam sistem. Setelah <it>site</it> <it>map</it> <it>diagram</it> dikomunikasikan kepada penyelia dan anggota tim pengembang lainnya, penulis selanjutnya merancang <it>prototype</it> dengan jenis <it>high-fidelity,</it> yaitu dalam bentuk <it>mock-up.</it> Selama pembuatan <it>mock-up,</it> penulis selalu berkomunikasi dengan <it>Front-</it> <it>end</it> <it>Developer</it> untuk memastikan bahwa desain yang dibuat dapat direalisasikan oleh <it>Front-end</it> <it>Developer.</it> Setelah menyelesaikan <it>mock-up</it> untuk fitur-fitur pada setiap <it>increment,</it> <it>mock-up</it> ini langsung dikomunikasikan kepada CEO. Komunikasi sebagian besar dilakukan melalui Whatsapp dikarenakan CEO tidak selalu berada di lokasi kerja. Setelah desain disetujui oleh CEO, selanjutnya implementasi dikerjakan oleh <it>Front-end</it> <it>Developer</it> dan <it>Back-end</it> <it>Developer.</it> Setelah beberapa fitur pada setiap <it>increment</it> selesai diimplementasi, penulis me-<it>review</it> hasil implementasi tersebut untuk memastikan bahwa hasil implementasi sesuai dengan desain yang dibuat. Selanjutnya, pada tahap <it>testing,</it> penulis juga diminta untuk melakukan <it>unit</it> <it>testing</it> terhadap fitur-fitur yang sudah diimplementasi pada setiap <it>increment.</it> 
+		</segment>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			Gambar 1. Metodologi <it>Incremental</it> [2] Untuk pengerjaan proyek Kodegift, penulis hanya diminta membuat <it>protoype</it> berupa <it>mock-up</it> sesuai dengan <it>site</it> <it>map</it> <it>diagram</it> yang telah dibuat oleh <it>mobile</it> <it>developer</it> yang di-<it>outsource</it> oleh perusahaan. <it>Mock-up</it> ini juga langsung dikomunikasikan kepada CEO melalui Whatsapp. Setelah disetujui oleh CEO, <it>mock-up</it> tersebut akan diserahkan kepada <it>mobile</it> <it>developer</it> oleh CTO. Pada proyek Kado, tim pengembang terlibat langsung mulai dari tahap <it>gathering</it> <it>requirement</it> dari klien, analisis, dan desain. Metodologi yang dipilih adalah <it>waterfall.</it> <it>Waterfall</it> dipilih dikarenakan tim pengembang telah mendapatkan <it>requirement</it> yang jelas pada tahap <it>requirement,</it> dan tim pengembang terlibat langsung dalam tahap analisis. Pada tahap awal, tim pengembang bertemu dengan klien dan membicarakan kebutuhan dan <it>task</it> yang akan dikembangkan pada <it>website</it> tersebut. Selanjutnya, tim pengembang melakukan analisis terhadap fitur-fitur yang akan dikerjakan, serta menentukan aktor-aktor yang akan menggunakan <it>website</it> ini. Pada tahap ini akan dihasilkan <it>use</it> <it>case</it> <it>diagram</it> yang dibuat oleh penulis, dan <it>entity</it> <it>relationship</it> <it>diagram</it> yang dibuat oleh <it>Back-end</it> <it>Developer.</it> Pada tahap desain, penulis juga membuat <it>site</it> <it>map</it> <it>diagram</it> untuk aktor-aktor yang terlibat dalam sistem dan 
+		</segment>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			mengkomunikasikan <it>site</it> <it>map</it> <it>diagram</it> tersebut kepada penyelia dan anggota tim pengembang lainnya. Selanjutnya, penulis membuat sketsa kasar pada kertas, dan kemudian merancang <it>prototype</it> dalam bentuk <it>mock-up</it> dengan menggunakan <it>tools.</it> Selama pembuatan <it>mock-up,</it> penulis juga berkomunikasi dengan <it>Front-end</it> <it>Developer</it> untuk memastikan bahwa desain yang dibuat dapat direalisasikan oleh <it>Front-end</it> <it>Developer.</it> Desain <it>mock-up</it> tersebut langsung dikomunikasikan kepada CEO untuk mendapatkan persetujuan dan revisi desain. Komunikasi dilakukan melalui Whatsapp, dikarenakan CEO tidak selalu berada di lokasi kerja. Gambar 2. Metodologi <it>Waterfall</it> [2] Untuk proses <it>re-design</it> <it>official</it> <it>website</it> Appstrak, penulis juga tidak menggunakan metodologi khusus. Penulis hanya membuat <it>list</it> aktor-aktor yang terlibat dan fitur- fitur yang terdapat pada <it>website</it> Appstrak terdahulu. Setelah itu, penulis membuat <it>prototype</it> dalam bentuk <it>mock-up</it> yang juga dikomunikasikan dengan <it>Front-end</it> <it>Developer</it> dan CEO. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Berikut ini dijelaskan teknologi yang digunakan oleh penulis selama melaksanakan kerja praktik: 
+		</segment>
+	</page>
+	<page id="16">
+		<segment>
+			Tabel 1. Teknologi yang digunakan Teknologi Fungsi Penggunaan 
+		</segment>
+		<pagenum>9</pagenum>
+		<segment>
+			Google Drive Draw.io Adobe Photoshop Microsoft Word Whatsapp, Gmail Trello 1. Google Drive Penyimpanan <it>file</it> dan <it>file-sharing</it> Membuat <it>diagram</it> Membuat <it>prototype</it> Membuat KAKP, Log KP, dan Laporan 
+		</segment>
+		<title>KP</title>
+		<segment>
+			Komunikasi Penjadwalan dan pemantauan <it>progress</it> pekerjaan Google Drive digunakan sebagai tempat penyimpanan <it>file,</it> serta sebagai tempat untuk men-<it>sharing</it> desain yang telah dibuat oleh penulis kepada anggota tim pengembang lainnya. 2. Draw.io Draw.io digunakan penulis untuk membuat diagram, seperti <it>use</it> <it>case</it> <it>diagram</it> dan <it>site</it> <it>map</it> <it>diagram.</it> 3. Adobe Photoshop Adobe Photoshop digunakan untuk membuat <it>prototype</it> dalam bentuk <it>mock-up.</it> 4. Microsoft Word Microsoft Word digunakan untuk membuat Kerangka Acuan Kerja Praktik (KAKP), Log Kerja Praktik, dan Laporan Kerja Praktik. 5. Whatsapp Whatsapp digunakan untuk membantu penulis berkomunikasi dengan CEO dan berdiskusi mengenai desain yang telah dibuat, serta membantu penulis untuk mendapatkan <it>feedback</it> langsung dari CEO, terutama saat CEO tidak berada pada lokasi kerja praktik. 
+		</segment>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			6. Gmail Gmail juga digunakan untuk berkomunikasi dengan CEO. Jika Whatsapp digunakan untuk berdiskusi mengenai desain yang dibuat, Gmail digunakan untuk men-<it>deliver</it> desain yang sudah direvisi dan disetujui kepada CEO. 7. Trello Trello merupakan <it>project</it> <it>management</it> <it>tools</it> yang digunakan penulis untuk melakukan penjadwalan terhadap <it>tasks</it> yang akan dikerjakan dan melihat sejauh apa <it>tasks</it> tersebut telah dikerjakan. Selain itu, Trello juga digunakan oleh penyelia untuk memantau <it>progress</it> pekerjaan tim pengembang. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Non-teknis</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis juga mengembangkan keahlian dan melaksanakan pekerjaan non-teknis, diantaranya: 1. Komunikasi Bentuk komunikasi yang dilakukan selama pelaksanaan kerja praktik adalah komunikasi langsung dan tidak langsung. Komunikasi secara langsung berupa berdiskusi dengan anggota tim pengembang lainnya, mengkomunikasikan desain dan fitur dengan penyelia, dan berkomunikasi dengan klien untuk mengetahui kebutuhan klien. Komunikasi tidak langsung berupa komunikasi dengan CEO melalui Whatsapp untuk mendiskusikan desain <it>mock-up</it> yang telah dibuat penulis. 2. Manajemen waktu Penyelia mewajibkan penulis untuk menghasilkan <it>output</it> setiap harinya. Dan dikarenakan jam kerja yang fleksibel, penulis harus bijaksana untuk mengelola waktu untuk mencapai tujuan yang telah ditetapkan. Penulis juga dibantu oleh <it>tools</it> Trello untuk meng-<it>assign</it> task dan tujuan, serta memantau apakah tujuan yang telah ditetapkan sudah tercapai. 
+		</segment>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			3. Tanggung jawab Selama pelaksanaan kerja praktik, penulis juga belajar untuk bertanggung jawab dalam segala pekerjaan yang dilakukan, dan ketika ada masalah mengenai desain, penulis diminta untuk langsung menyelesaikan masalah tersebut dan berkomunikasi langsung kepada CEO untuk menyelesaikan masalah tersebut. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada bagian ini dijelaskan mengenai pelaksanaan kerja praktik, penilaian individu terhadap tempat kerja praktik, dan relevansi pekerjaan dengan perkuliahan di Fakultas Ilmu Komputer Universitas Indonesia. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilakukan selama sembilan minggu terhitung sejak 20 Juni 2016 sampai 19 Agustus 2016. Pada minggu pertama pelaksanaan kerja praktik, penyelia menjelaskan bahwa terdapat perubahan <it>job</it> <it>description.</it> Pada pertemuan pertama sebelum kerja praktik dimulai, penyelia memberitahukan bahwa penulis tidak hanya membuat desain untuk tampilan <it>website,</it> tetapi juga melakukan <it>slicing</it> dari Photoshop menjadi format HTML dan CSS. Namun kenyataannya, dikarenakan terdapat mahasiswa <it>intern</it> yang menjadi <it>Front-end</it> <it>Developer,</it> HTML dan CSS langsung dikerjakan oleh <it>Front-end</it> <it>Developer</it> tersebut. Selain itu lingkup pekerjaan juga bertambah. Awalnya penulis hanya terlibat pada proyek HukumLaw, pada kenyataannya, penulis juga terlibat pada proyek lainnya, seperti Kodegift dan Kado. Oleh karena terdapat perubahan yang cukup besar, penulis memutuskan untuk mengubah KAKP setelah berkonsultasi dengan dosen KAKP, Ibu Iis Solichah. Secara umum, kerja praktik berlangsung dengan baik, serta penulis berusaha agar pelaksanaan kerja praktik sesuai dengan KAKP yang telah dibuat. Jika dilihat dari KAKP, tidak ada perbedaan yang signifikan terhadap kenyataan di lapangan. Perbedaan terjadi dari segi waktu, contohnya, pada KAKP, pembuatan <it>site</it> <it>map</it> dan <it>prototype</it> untuk proyek HukumLaw dimulai pada minggu ketiga, sedangkan pada 
+		</segment>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			kenyataannya, pembuatan <it>site</it> <it>map</it> dan <it>prototype</it> dimulai pada minggu kedua. Penulis menganggap hal ini bukan sebagai kendala, melainkan sebagai peluang sehingga penulis dapat mengerjakan pekerjaan-pekerjaan lainnya lebih cepat. Selain itu, terdapat perbedaan nama proyek. Pada KAKP, proyek Kado disebut dengan Wishfunding. Hal ini dikarenakan pada saat membuat KAKP, penulis hanya diberitahu oleh penyelia bahwa terdapat proyek tambahan yang dikerjakan, namun untuk nama dan hal lainnya belum dapat diberitahukan. Hal lainnya adalah, pada KAKP, ruang lingkup pekerjaan yang dilaksanakan penulis adalah mempelajari konsep <it>user</it> <it>experience,</it> membuat <it>site</it> <it>map</it> <it>diagram,</it> dan membuat <it>prototype.</it> Kenyataannya, penulis ikut terlibat pada tahap <it>gathering</it> <it>requirement</it> dengan klien, analisis <it>website</it> yang dikembangkan, membuat <it>use</it> <it>case</it> <it>diagram,</it> dan juga melakukan <it>unit</it> <it>testing</it> terhadap <it>website</it> yang telah diimplementasi. Untuk mengatasi masalah ini, penulis selalu memantau pekerjaannya melalui Trello dan mengatur pekerjaan dengan baik agar dapat mencapai tujuan yang ditetapkan. Selain itu, penulis juga lebih mengutamakan pekerjaan-pekerjaan utama yang telah dirancang pada KAKP, kemudian mengerjakan pekerjaan di luar lingkup pekerjaan. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Appstrak Teknologi Indonesia merupakan tempat kerja yang cukup nyaman untuk melaksanakan kerja praktik ataupun magang. Hal ini dikarenakan lingkungan yang <it>friendly,</it> santai, dan jam kerja yang fleksibel. Selain itu, selama pengerjaan proyek, penulis juga bebas untuk bereksplorasi. Yang menjadi kendala adalah lokasi kantor yang jauh dan sulit untuk ditempuh dengan angkutan umum. Perusahaan ini juga tergolong perusahaan baru, sehingga masih banyak hal yang dapat dikembangkan. Selama pelaksanaan kerja praktik, penulis cenderung untuk belajar secara mandiri sehingga ilmu yang didapatkan sangat sedikit. Selain itu, penulis tidak dapat mengetahui <it>best</it> <it>practices</it> yang digunakan dalam pengembangan proyek terutama pada tahap desain <it>user</it> <it>interface</it> dan <it>user</it> <it>experience.</it> Menurut penulis, lebih baik jika perusahaan memfasilitasi dengan menyediakan <it>mentor</it> atau membuat waktu 
+		</segment>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			khusus untuk <it>sharing</it> pengetahuan sehingga pengetahuan mahasiswa <it>intern</it> dapat berkembang. 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Mata kuliah yang terkait selama penulis melaksanakan kerja praktik adalah Perancangan dan Pemrograman Web (PPW), Proyek Pengembangan Sistem Informasi (Propensi), Sistem Interaksi (Sister), dan Komunikasi Bisnis dan Teknis (Kombistek). Mata kuliah PPW membantu penulis dalam merancang halaman <it>web</it> dan membuat halaman <it>web</it> yang mudah digunakan. Mata kuliah Propensi membantu penulis dalam membuat <it>site</it> <it>map</it> <it>diagram</it> dan menjadi panduan pada saat pengembangan proyek. Pada mata kuliah ini penulis juga mempelajari konsep <it>user</it> <it>interface</it> dan <it>user</it> <it>experience.</it> Mata kuliah Sister merupakan mata kuliah yang paling relevan dengan ruang lingkup pekerjaan penulis dikarenakan pada mata kuliah Sister diajarkan konsep-konsep pembuatan <it>user</it> <it>experience</it> sehingga pengguna nyaman menggunakan aplikasi yang dibuat. Namun, penulis belum mengambil mata kuliah ini pada saat melaksanakan kerja praktik sehingga penulis harus mempelajari konsep- konsep ini secara mandiri. Mata kuliah Kombistek membantu penulis untuk dapat berkomunikasi dengan baik dan menulis <it>e-mail</it> formal dengan bahasa yang baik dan sopan. 
+		</segment>
+	</page>
+	<page id="21">
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilakukan selama sembilan minggu terhitung sejak 20 Juni 2016 sampai 19 Agustus 2016. Kerja praktik dilaksanakan pada PT Appstrak Teknologi Indonesia. Penulis ditempatkan sebagai bagian dari tim pengembang, dengan posisi <it>UI/UX</it> <it>Designer</it> <it>Intern.</it> Proyek yang dikerjakan selama melaksanakan kerja praktik, antara lain HukumLaw, Kodegift, <it>re-design</it> <it>official</it> <it>website</it> Appstrak, dan Kado. Secara umum, tidak ada perbedaan yang signifikan antara KAKP dengan kenyataan di lapangan, hanya terdapat perbedaan-perbedaan kecil, seperti waktu pengerjaan yang lebih cepat, perubahan nama proyek dan pekerjaan tambahan di luar ruang lingkup pekerjaan. Pengetahuan yang telah didapatkan selama kuliah dapat digunakan dalam melaksanakan kerja praktik. Beberapa mata kuliah yang sangat membantu penulis adalah PPW, Propensi, Sister, dan Kombistek. Selain itu, banyak juga pengalaman baru yang didapatkan selama melaksanakan kerja praktik, baik teknis maupun non-teknis. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Penulis menyarankan agar calon pelaksana kerja praktik mempersiapkan dokumen- dokumen yang dibutuhkan untuk mendaftar kerja praktik, antara lain CV, portofolio, transkrip nilai ataupun surat pengantar kerja praktik dari fakultas jika dibutuhkan. Selain itu, sebaiknya calon pelaksana kerja praktik memiliki <it>list</it> perusahaan yang akan menjadi target untuk melaksanakan kerja praktik sehingga tidak merasa kesulitan untuk mencari perusahaan yang akan menjadi tempat kerja praktik. Penulis juga menyarankan calon pelaksana kerja praktik untuk mengirimkan lamaran kerja praktik tiga sampai empat bulan sebelum pelaksanaan kerja praktik. Hal ini dilakukan untuk mengantisipasi jika respon dan proses seleksi dari beberapa tempat kerja praktik berlangsung lama. Selain itu, sebaiknya calon pelaksana kerja praktik tidak 
+		</segment>
+		<pagenum>14</pagenum>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<segment>
+			terlalu lama menunggu respon dari tempat kerja praktik. Jika dalam tiga sampai empat hari calon tempat kerja praktik tidak memberikan respon, sebaiknya calon pelaksana kerja praktik mengirimkan lamaran pada tempat lainnya. Calon pelaksana kerja praktik juga sebaiknya mencari informasi mengenai lowongan kerja praktik secara berkala, baik dari forum lowongan pada SCeLE, <it>website</it> perusahaan ataupun <it>online</it> <it>job</it> <it>market.</it> Penulis juga menyarankan calon pelaksana kerja praktik untuk lebih memahami pelajaran yang telah didapatkan pada saat kuliah dan harus mampu untuk belajar secara mandiri. 
+		</segment>
+	</page>
+	<page id="23">
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] <it>AppstrakLabs.</it> (2016). <it>Appstraklabs.com.</it> Diakses pada 11 September 2016, dari http://www.appstraklabs.com [2] Pressman, R. (2001). <it>Software</it> <it>Engineering</it> (5th ed., pp. 26, 35). Mc-Graw Hill. 
+		</segment>
+		<pagenum>16</pagenum>
+	</page>
+	<page id="24">
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>17</pagenum>
+	</page>
+	<page id="25">
+		<pagenum>18</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+	</page>
+
+</document>

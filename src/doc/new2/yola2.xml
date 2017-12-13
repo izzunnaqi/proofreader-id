@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>SOFTWARE</bo> <bo>DEVELOPMENT</bo> <bo>ENGINEER</bo></title>
+		<title><bo>KASKUS</bo> <bo>CHAT</bo> <bo>BOT</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>FEBRIYOLA</bo> <bo>ANASTASIA</bo></title>
+		<segment>
+			<bo>1306409500</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Febriyola Anastasia : 1306409500 Program Studi : Ilmu Komputer Judul Kerja Praktik : Software Development Engineer Kaskus Chat Bot <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.Sc.)</bo> Ditetapkan di : [NAMA TEMPAT] Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Dalam rangka memenuhi kewajiban mata kuliah Kerja Praktik, penulis melaksanakan magang di GDP Labs selama 9 minggu dimulai pada tanggal 13 Juni 2016 - 19 Agustus 2016. Proyek yang dikembangkan oleh penulis selama menjadi Software Development Engineering (SDE) <it>intern</it> di GDP Labs adalah Kaskus Chat Bot. Dalam pengembangan aplikasi ini, penulis dituntut untuk belajar berbagai hal seperti <it>bot,</it> Spring Framework, Git, Github, Kaskus Chat API, dan sebagainya. Penulis mendapatkan berbagai pengalaman berharga yang semakin menyiapkan penulis untuk terjun ke dunia kerja. Kata kunci: API, bot, Kaskus Chat, Spring Framework 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 3</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 5</title>
+		<title>2.1.2. Metolodogi ................................................................................................ 6</title>
+		<title>2.1.3. Teknologi .................................................................................................. 8</title>
+		<title>2.1.4. <it>Deliverable</it> ............................................................................................... 8</title>
+		<title>2.2. Analisis ............................................................................................................ 9</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 9</title>
+		<title>2.2.2. Kesesuaian dan Perbedaan dengan KAKP ............................................... 9</title>
+		<title>2.2.3. Kendala dalam Kerja Praktik dan Cara Penanganan .............................. 10</title>
+		<title>2.2.4. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 11</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>2.2.5. Pembelajaran <it>Soft</it> <it>Skill</it> selama Kerja Praktik ......................................... 11</title>
+		<title>2.2.6. Penilaian Individu terhadap Tempat Kerja Praktik ................................. 12</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 14 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 14</title>
+		<title>3.2. Saran .............................................................................................................. 14</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 16 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... 17 LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................... 18 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1: Struktur organisasi GDP Labs..................................................................... 3 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Ringasan Pencarian Kerja Praktik .................................................................. 2 Tabel 2. Teknologi dalam Pengembangan Kaskus Chat Bot ........................................ 8 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, akan ditulis kemudian] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis mulai mencari tempat kerja praktik di bulan Januari 2016. Dalam masa pencarian, penulis berminat kepada perusahaan yang bergerak di bidang ilmu komputer. Pencarian dimulai dengan menyusun daftar calon tempat kerja praktik dengan menanyakan pengalaman dan rekomendasi tempat kerja praktik kepada beberapa senior. Dalam masa pencarian, penulis mencari tahu mengenai beban yang biasanya perusahaan berikan kepada intern. Penulis ingin mendapatkan pekerjaan yang menantang dan sesuai dengan bidang penulis agar dapat memperluas pengetahuan dan keahlian. Setelah mendapat beberapa daftar calon tempat kerja praktik dari senior penulis membuka situs resmi perusahaan untuk mencari profil perusahaan serta memperkirakan <it>scope</it> pekerjaan yang akan dilakukan. Akhirnya, penulis memutuskan untuk melamar ke beberapa tempat yakni GDP Labs, PT Traveloka, PT Tokopedia, dan PT Bukalapak. Di akhir bulan Januari 2016, penulis mengirimkan lamaran kerja praktik ke GDP Labs melalui surat elektronik. Dalam kurun waktu kurang dari 24 jam, penulis mendapatkan balasan bahwa penulis akan dihubungi lebih lanjut oleh HR GDP Labs. Namun, proses berlangsung cukup lama dan sempat tidak ada kabar dari pihak GDP Labs. Setelah beberapa minggu berlalu, penulis dihubungi kembali untuk diminta melakukan <it>online</it> <it>coding</it> <it>test</it> di pertengahan bulan Februari 2016. Penulis melakukan <it>test</it> selama 30 menit dan mengerjakan 5 soal <it>competitive</it> <it>programming</it> yang termasuk kategori <it>ad</it> <it>hoc</it> <it>easy–medium.</it>   Selama menunggu hasil pengumuman GDP Labs, penulis melamar kerja praktik di PT Tokopedia, PT Traveloka, dan PT Bukalapak. Penulis tidak mendapatkan balasan dari PT Traveloka dalamwaktu yang cukup lama. Di sisi lain, seminggu setelah 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			mendaftar di PT Tokopedia dan PT Bukalapak, penulis diumumkan lulus <it>online</it> <it>coding</it> <it>test</it> dan diminta untuk melakukan wawancara. Pada pertengahan bulan Februari 2016, penulis melakukan wawancara di PT Tokopedia. Beberapa hari kemudian, penulis diumumkan lulus dan diterima untuk melakukan kerja prakik di PT Tokopedia. Namun, pada saat yang sama, penulis diterima di GDP Labs. GDP Labs mendapat <it>review</it> yang baik dari beberapa senior yang sudah bekerja di tempat tersebut. GDP Labs juga terkenal dengan suasana kerja yang mendukung dan teknologi baru yang selalu digunakan. Berdasarkan beberapa pertimbangan, akhirnya penulis memutuskan untuk melakukan kerja praktik di GDP Labs. Beberapa hari kemudian, penulis diminta untuk melakukan wawancara di PT Bukalapak dan PT Traveloka. Namun, penulis menolak karena sudah melakukan kontrak kerja praktik dengan GDP Labs. Berikut adalah ringkasan pencarian kerja praktik penulis. <bo>Tabel</bo> <bo>1.</bo> <bo>Ringkasan</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>No.</bo> <bo>Perusahaan</bo> <bo>Status</bo> <bo>Sumber</bo> 1. GDP Labs Tes <it>online</it> <it>coding</it> dan diterima. Teman, senior di Mengambil pekerjaan di GDP Labs. GDP Labs. Dipanggil untuk tes tetapi 2. Traveloka mengundurkan diri karena sudah diterima di perusahaan lain. Lulus tes <it>online</it> <it>coding</it> dan wawancara 3. Tokopedia tetapi menolak sudah diterima di perusahaan lain. Lulus tes <it>online</it> <it>coding</it> dan dipanggil 4. Bukalapak untuk wawancara tetapi menolak karena sudah diterima di perusahaan lain. Teman, <it>website</it> Traveloka Teman, <it>website</it> Tokopedia Teman, <it>website</it> Bukalapak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			GDP Venture, unit usaha Grup Djarum, merupakan investor strategis yang bergerak dalam bisnis <it>internet</it> <it>consumer.</it> GDP Venture berfokus kepada pasar Indonesia yang memiliki fokus di komunitas digital, perusahaan media, komersial, dan konsultan[1]. GDP Labs merupakan salah satu dari sekian banyak perusahaan portofolio di bawah GDP Venture yang berdiri pada tahun 2012[2]. Sebagian besar proyek yang dikerjakan oleh GDP Labs ditujukan untuk pengembangan perusahaan portofolio GDP Venture, unit usaha lain dari PT Djarum, atau pengembangan produk GDP Labs sendiri. Beberapa proyek yang dikerjakan GDP Labs antara lain pengembangan aplikasi Kaskus Chat, Opini.id, e-banking BCA, dan aplikasi Ombaq yang merupakan produk GDP Labs. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<title><bo>CEO</bo> <bo>GDP</bo></title>
+		<segment>
+			<bo>Venture</bo> 
+		</segment>
+		<title><bo>CTO</bo></title>
+		<segment>
+			<bo>GDP</bo> <bo>Labs</bo> <bo>Software</bo> <bo>Developer</bo> <bo>Engineer</bo> <bo>System</bo> <bo>Engineer</bo> <bo>Product</bo> <bo>Manager</bo> Gambar 1. Struktur Organisasi GDP Labs 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			Secara garis besar, struktur organisasi GDP Labs terbagi menjadi tiga posisi: Software Developer Engineer (SDE), System Engineer (SE), Product Manager (PM). SDE mengerjakan proyek yang berhubungan dengan pengembangan <it>software,</it> meliputi <it>backend</it> dan <it>frontend</it> berdasarkan <it>requirement</it> yang diberikan oleh PM. Sedangkan SE berfokus pada bagian infrastruktur <it>software.</it> Penulis diposisikan sebagai <it>intern</it> di divisi Software Developer Engineer (SDE), posisi dapat dilihat pada hirarki kiri bawah dari Gambar 1. Selama kerja praktik, penulis berada di bawah tim PING yang mengerjakan pengembangan Kaskus Chat bot. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis melakukan kerja praktik di bawah tim PING sebagai SDE <it>intern.</it> Penulis mendapatkan seorang mentor yang mengajari dasar-dasar ilmu dalam menyelesaikan proyek ini. Mentor memberikan instruksi berupa latihan-latihan di awal pekerjaan kemudian penulis diminta untuk memberikan <it>deliverable</it> <it>chat</it> <it>bot</it> dan melakukan presentasi di akhir masa kerja praktik. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Pada hari pertama memulai kerja praktik, seluruh <it>intern</it> dikumpulkan untuk diberikan beberapa pilihan pekerjaan. Harapannya <it>intern</it> bisa memilih pekerjaan sesuai minat masing-masing. Pihak GDP Labs memberikan penjelasan singkat mengenai pekerjaan yang akan dilakukan untuk setiap proyek. Dari seluruh daftar proyek yang ada, penulis memutuskan untuk memilih proyek PING. Penulis akhirnya ditempatkan di bawah tim PING yang beranggotakan 10 orang, terdiri dari SDE dan PM. PING merupakan sebuah <it>white</it> <it>label</it> yang saat ini sedang dikembangkan sebagai Kaskus Chat. GDP Labs mengembangkan <it>bots</it> untuk diimplementasikan pada Kaskus Chat. <it>Bots</it> diharapkan dapat membantu pengguna Kaskus untuk semakin mudah dalam melakukan kegian jual-beli, <it>entertainment,</it> melihat forum, dan sebagainya. Salah satu <it>bot</it> yang saat ini sudah diimplementasikan dalam Kaskus Chat adalah <it>Banking-Bot.</it> <it>Banking-bot</it> bekerja sama dengan BCA untuk membantu pengguna dalam melakukan transaksi pengiriman uang. <it>Bot</it> ini berguna untuk melakukan pembayaran terhadap produk yang dijual di Kaskus. Dalam masa kerja praktik sebagai SDE intern, penulis mendapatkan pekerjaan untuk membuat <it>chat</it> <it>bot</it> yang diimplementasikan pada Kaskus Chat. Pengembangan dilakukan menggunakan Spring <it>framework,</it> di mana hal ini baru bagi penulis sehingga perlu beberapa hari untuk dapat memahami teknologi tersebut. Penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			diminta untuk menghasilkan minimal 2 <it>bots</it> yang sudah dapat berjalan di Kaskus Chat di akhir masa magang. Berikut adalah rincian pekerjaan yang dilakukan selama kerja praktik:   Memahami Spring Boots    Memahami cara kerja Kaskus Chat menggunakan Kaskus Chat API    Memahami cara kerja <it>bot</it> menggunakan Spring Boots    Mencari ide untuk membuat <it>bot</it>     Melakukan pengembangan <it>backend</it> Kaskus Chat Bot  
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Pada dasarnya, GDP Labs menggunakan <it>scrum</it> sebagai metode pengembangan proyek. Setiap minggu, tim berkumpul untuk membicarakan <it>backlog,</it> permasalahan yang ada, dan langkah selanjutnya. Setiap minggu, diadakan pula <it>weekly</it> <it>meeting</it> yang dipimpin oleh CTO untuk memberikan informasi terkini mengenai proyek- proyek yang sedang berjalan dan permasalahan yang ada. Sebagai <it>intern,</it> penulis tidak dituntut terlalu keras untuk bekerja sesuai metode <it>scrum.</it> Setiap hari, mentor akan datang menanyakan permasalahan atau ide apa yang saat ini sedang dikerjakan. <it>Bot</it> yang biasanya dibuat merupakan <it>bot</it> <it>games,</it> <it>bot</it> yang terintegrasi dengan suatu aplikasi, pencarian suatu informasi, dan sebagainya. Setelah beberapa hari masa pekerjaan, mentor akan menanyakan kemajuan <it>bot</it> dan memberikan <it>feedback.</it> Beberapa teknologi yang digunakan merupakan hal baru bagi penulis. Salah satunya adalah Sring. Spring merupakan suatu <it>framework</it> yang dapat digunakan untuk Java Enterprise, banyak dipakai karena mudah digunakan, ringan, serta kinerja tinggi [3]. Di beberapa minggu pertama, penulis menghabiskan waktu untuk mempelajari penggunaan Spring Boots dalam Spring <it>framework</it> serta cara mengimplementasikannya dengan menggunakan latihan-latihan yang diberikan oleh 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			mentor. Mentor juga meminta penulis untuk belajar mengenai <it>dependency</it> <it>inversion</it> <it>principle</it> [4], karena prinsip ini akan digunakan ketika menggunakan Spring Boots. Setelah mempelajari dan berlatih menggunakan Spring Boots, penulis dituntut untuk mengimplementasikan <it>bots</it> pada aplikasi Kaskus Chat. Untuk memahami cara kerja Kaskus Chat, penulis mempelajari API yang digunakan, meliputi bagaimana aplikasi mengirim dan menerima pesan ke seorang atau lebih dari satu pengguna. Implementasi <it>bot</it> dilakukan menggunakan Spring Boots dengan bahasa Java. <it>Bot</it> yang diimplementasikan merupakan <it>canned</it> <it>text</it> <it>chat</it> <it>bot.</it> <it>Canned</it> <it>text</it> <it>chat</it> <it>bot</it> menerima teks dari penggunga dan mencocokannya dengan pilihan respon dari program [5]. Penulis membuat program untuk menerima input dan mengirim respon sebagai output. Untuk mencari ide membuat <it>bot,</it> penulis banyak melihat <it>bots</it> yang sudah ada saat ini seperti permainan <it>bots</it> di Telegram, Slack, dan sebagainya. Penulis juga memikirkan inovasi untuk mengefisienkan suatu pekerjaan menggunakan perintah tertulis seperti <it>bot</it> untuk melihat pemutaran film di bioskop, <it>github</it> <it>integration,</it> dan sebaginya. Tentu saja dalam pengaplikasiannya, penulis banyak mempelajari API lain terkait ide yang akan diimplementasikan di <it>chat</it> <it>bot.</it> Selama bekerja, penulis bekerja sama dengan dua <it>intern</it> lain yang juga membuat <it>bot</it> namun mengimplementasikan <it>bot</it> yang berbeda. Setiap dua minggu sekali, <it>intern</it> di divisi PING akan dikumpulkan untuk berdiskusi dan diberikan <it>feedback</it> atas pekerjaan yang sudah dilakukan. Bila sebuah <it>bot</it> telah selesai diimplementasikan, <it>intern</it> dituntut untuk melakukan <it>testing</it> terhadap <it>bot</it> tersebut menggunakan <it>localhost.</it> Jika sudah tidak ditemukan <it>bug,</it> maka <it>bot</it> akan di <it>deploy.</it> Ketika sudah di <it>deploy,</it> dilakukan <it>testing</it> oleh beberapa anggota PING untuk mencoba <it>bot</it> tersebut. <it>Bot</it> akan terus mendapatkan penyempurnaan sampai dianggap sudah cukup baik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Kaskus Chat merupakan <it>chat</it> <it>platform</it> yang saat ini berbentuk <it>mobile</it> dan <it>desktop.</it> Pada masa kerja praktik, <it>bot</it> hanya dapat dicoba di aplikasi <it>mobile</it> saja. Teknologi yang digunakan selama penulis mengembangkan Kaskus Chat Bot dapat dilihat di Tabel 2. <bo>Tabel</bo> <bo>2.</bo> <bo>Teknologi</bo> <bo>dalam</bo> <bo>Pengembangan</bo> <bo>Kaskus</bo> <bo>Chat</bo> <bo>Bot</bo> <it><bo>Version</bo></it> <it><bo>control</bo></it> <it><bo>Repository</bo></it> <it><bo>Framework</bo></it> <it><bo>Related</bo></it> <it><bo>API</bo></it> Git Github Spring Kaskus Chat API, Google Maps API, 21cineplex API, IMDB API, Github API, LyricsWiki API <it><bo>Database</bo></it> MySQL, Flyway (<it>database</it> <it>migration)</it> <it><bo>Programming</bo></it> <it><bo>Language</bo></it> Java 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Deliverable</bo></title>
+		<segment>
+			Di akhir masa kerja praktik, penulis berhasil membuat 6 <it>bots</it> yang sudah diimplementasikan di Kaskus Chat, yakni: 1. Direction Bot Direction Bot merupakan <it>bot</it> yang diintegrasikan menggunakan Google Map API. Direction Bot akan membantu mencari tahu waktu dan jarak tempuh dari lokasi <it>origin</it> ke tujuan. Selain itu, <it>bot</it> juga akan men-<it>generate</it> URL untuk arahan dari lokasi <it>origin</it> ke tujuan menggunakan Google Maps. 2. Github Bot Github Bot merupakan <it>bot</it> yang diintegrasikan menggunakan Github API. <it>Bot</it> ini akan memberikan notifikasi bila terjadi <it>action</it> di suatu <it>repository.</it> 3. Movie Bot Movie Bot merupakan <it>bot</it> yang diintegrasikan menggunakan 21cineplex API dan IMDB API. <it>Bot</it> dapat mengembalikan jadwal bioskop di hari tersebut 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			(21cineplex). Selain itu, <it>bot</it> juga dapat mengembalikan deskripsi, <it>rating,</it> aktor, dan detail lain dari suatu film (IMDB). 4. Lyrics Bot Lyrics Bot merupakan <it>bot</it> yang diintegrasikan menggunakan LyricsWiki Api. <it>Bot</it> ini akan mengembalikan lirik dari suatu judul lagu yang diinput. 5. DuelAgan Bot DuelAgan Bot merupakan sebuah <it>bot</it> permainan tanya-jawab, di mana pertanyaan dan pilihan jawaban akan diinput oleh pengguna dan dikirim ke lawan. 6. Hangman Bot Hangman Bot merupakan sebuah <it>bot</it> permainan <it>hangman.</it> 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik di GDP Labs selama 9 minggu dimulai pada tanggal 13 Juni 2016 - 19 Agustus 2016. Penulis bekerja sebagai SDE <it>intern</it> dan bekerja di bawah tim PING yang mengerjakan proyek Kaskus Chat. Tugas spesifik penulis adalah untuk mengembangkan <it>bot</it> pada Kaskus Chat. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Pada praktiknya, penulis mendapatkan beban pekerjaan yang sesuai dengan yang tertulis di KAKP. Namun, terdapat beberapa perbedaan pada bagian rencana kerja praktik. Selama kerja praktik, masa pengembangan <it>bot</it> sudah dimulai di minggu ketiga dan pada minggu keempat, <it>bot</it> pertama sudah di <it>deploy,</it> sedangkan di KAKP tertulis bahwa implementasi <it>bot</it> dimulai di minggu ketujuh. Kemudian, setelah <it>deploy</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			pertama, masa pengembangan dan <it>deploy</it> <it>bot</it> terjadi di setiap minggu hingga minggu terakhir. Selain itu, di KAKP tertulis bahwa penulis akan melaksanakan kerja praktik selama 10 minggu (13 Juni 2016 –  26  Agustus  2016),  namun  karena  beberapa  hal,  penulis  hanya melaksanakan kerja praktik selama 9 minggu (13 Juni 2016 –  19  Agustus  2016). 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganan</bo></title>
+		<segment>
+			GDP Labs memberikan kebebasan kepada penulis untuk mengeksplorasi berbagai hal, sehingga terkesan dilepas oleh mentor. Di awal masa pengembangan, penulis terkendala karena minimnya pengetahuan akan cara membuat <it>bot</it> yang benar sesuai dengan sistem yang ada, karena penulis tidak diberikan <it>template</it> atau contoh <it>bot</it> yang sudah ada.</it> Seiring berjalan waktu, penulis tahu bahwa pihak GDP Labs tidak dapat memberikan <it>template</it> dari <it>bot</it> yang ada karena masalah <it>confidentiality.</it> Menanggapi hal ini, penulis banyak belajar dengan mencari berbagai sumber di internet serta bertanya kepada rekan <it>intern</it> lainnya. Hasil diskusi dengan <it>intern</it> lain sangat membantu penulis dalam meningkatkan pengetahuan mengenai gambaran <it>bot</it> menggunakan Spring Boot. Dalam masa pengembangan, terkadang penulis kehabisan ide untuk membuat <it>bot</it> dan sulit untuk berinovasi. Kurangnya ide ini membuat waktu pengembangan tersendat. Penulis bertanya kepada mentor dan beliau memberikan beberapa <it>feedback.</it> Namun, terkadang penulis masih ingin mencari ide lainnya. Oleh karena itu, penulis banyak bertanya kepada teman mengenai <it>bot</it> yang dapat membantu manusia serta sering mencari-cari ide menarik di internet. Kemudian, salah satu tantangan yang umum dihadapi adalah adanya <it>error</it> pada program. Untuk menangani permasalahan ini, penulis banyak mencari referensi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			jawaban di internet. Bila <it>error</it> terjadi pada fase <it>deployment,</it> biasanya penulis akan bertanya ke mentor maupun rekan kerja di bidang PING lainnya. 
+		</segment>
+		<title><bo>2.2.4.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama masa kerja praktik, banyak ilmu kuliah yang terpakai: PPL, NLP, RPL, Basis Data, PPW, SDA, dan DDP. Karena mengembangkan suatu <it>bot,</it> ilmu <it>hard</it> <it>skill</it> maupun <it>soft</it> <it>skill</it> yang didapat di PPL sangat membantu penulis. Selain itu, karena proyek yang dikerjakan sangat berhubungan dengan pemrosesan teks, penulis menerapkan ilmu yang didapat di NLP (<it>canned</it> <it>text,</it> <it>string</it> <it>processing).</it> Penulis juga terbantu dengan ilmu yang didapat di RPL ketika menyusun rancangan pengembangan suatu produk sampai masa pekerjaan selesai. Kemudian, pola berpikir yang didapat di SDA dan DDP sangat membantu penulis dalam menyusun program, tentu saja dalam masa pengembangannya penulis menerapkan ilmu Basis Data dan PPW. Tidak hanya <it>hard</it> <it>skill,</it> <it>soft</it> <it>skill</it> yang didapat selama berkuliah juga diterapkan penulis ketika melakukan kerja praktik, misalnya seperti rasa tanggung jawab terhadap pekerjaan yang diberikan dan mau bekerja sama dalam tim agar mencapai tujuan. 
+		</segment>
+		<title><bo>2.2.5.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>selama</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama bekerja sebagai SDE <it>intern</it> di GDP Labs, penulis mendapatkan berbagai pengalaman yang membantu penulis untuk melihat gambaran asli dunia pekerjaan. Penulis dituntut untuk dapat berkomunikasi dengan baik dengan tim dan selalu ingin mencari inovasi. Ketika menemukan suatu ide atau permasalahan yang ada, penulis dituntut untuk terbuka dan menyampaikan opini. Komunikasi yang baik akan membantu tim untuk dapat bekerja lebih cepat dan kreatif. Selain itu, penulis dituntut untuk bertanggung jawab atas pekerjaan yang dikerjakan. Penulis harus benar-benar mengerti dasar dalam pekerjaan dan melakukan pekerjaan tidak dengan setengah-setengah. Penulis dituntut untuk menyelesaikan <it>bugs</it> yang ada 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			dan mencari tahu mengapa permasalahan dapat terjadi. Bila penulis menemukan jalan buntu, maka mentor akan membantu dengan memberikan beberapa pilihan solusi. Tidak hanya mentor, anggota tim PING lainnya juga turut membantu dalam menyelesaikan suatu masalah atau memberikan ide untuk pembuatan bot. Selama masa kerja praktik, penulis juga melihat cara kerja tim dalam pengembangan proyek. Tim selalu melakukan <it>weekly</it> <it>meeting</it> untuk membahas kemajuan, masalah, dan invoasi yang akan dilakukan. Penulis belajar pentingnya komunikasi dan kerja sama tim dalam mengembangkan proyek. Penting bagi setiap anggota untuk mengetahui <it>progress</it> pekerjaan dan persoalan yang sedang dihadapi, hal ini akan membantu tim untuk bersama-sama menyelesaikan masalah yang ada. 
+		</segment>
+		<title><bo>2.2.6.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			GDP Labs memiliki lingkungan kerja yang nyaman dan kondusif. Suasana cukup hening dan membuat seluruh pekerja dapat berkonsentrasi dengan baik. Tetapi bila sudah memasuki makan siang yang disediakan oleh GDP Labs, pekerja akan memanfaatkan waktu untuk bermain dan bercanda dengan anggota lainnya untuk menghilangkan <it>stress.</it> GDP Labs menyediakan makan siang dan memiliki ruang bermain bagi pekerjanya. Pekerjaan semakin efisien karena pekerja tidak perlu mencari makan di luar kantor. Selain itu, pekerja juga dapat menghilangkan <it>stress</it> bersama rekan lain dengan bermain di ruang bermain. GDP Labs memiliki sumber daya manusia yang mendukung, baik dari segi kemampuan dan karakter. Rekan kerja salah menghargai satu sama lain dan menjaga ketenangan, tetapi tetap bisa diajak bercanda. Ketika sore hari, biasanya terdapat beberapa karyawan yang bermain ping pong dan bercanda tawa, suasana menjadi lebih ramai. Setiap hari, CTO GDP Venture, Pak On Lee, akan mengunjungi ruangan untuk bercakap-cakap sambil menanyakan <it>progress.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			Setiap minggu, Pak On Lee, akan mengadakan <it>weekly</it> <it>meeting</it> dan seluruh karyawan termasuk <it>intern</it> diminta untuk hadir. <it>Weekly</it> <it>meeting</it> yang diadakan tiak terlalu serius namun Pak On tetap menjaga agar tetap kondusif. Usai rapat, biasanya disediakan <it>snack</it> untuk seluruh karyawan diikuti dengan <it>brown</it> <it>bag.</it> <it>Brown</it> <it>bag</it> merupakan suatu acara singkat yang biasanya merupakan <it>sharing</it> informasi atau pengetahuan dari seorang karyawan yang telah mendapatkan suatu <it>workshop</it> di tempat lain untuk disampaikan ke seluruh karyawan di GDP Labs. Kegiatan seperti ini sangat baik untuk diterapkan karena dapat membantu karyawan untuk meningkatkan wawasan. Bekerja di GDP Labs merupakan pengalaman yang sangat berharga dikelilingi oleh berbagai orang yang sangat handal di bidangnya. Penulis banyak belajar terutama bagaimana cara bekerja di dunia pekerjaan yang sesungguhnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik di GDP Labs selama 9 minggu dimulai pada tanggal 13 Juni 2016 – 19  Agustus  2016.  Penulis  mendapatkan  informasi  mengenai  GDP Labs dari senior yang bekerja di perusahaan tersebut. Penulis mendaftar sebagai <it>intern</it> di bulan Januari 2016 kemudian melaksanakan <it>coding</it> <it>test</it> dan dinyatakan diterima sebagai Software Development Engineer (SDE) <it>intern</it> GDP Labs di bulan Februari 2016. Penulis berada di bawah tim PING yang mengerjakan pengembangan Kaskus Chat Bot. Di akhir masa kerja praktik, penulis berhasil membuat 6 <it>bots</it> yang diimplementasikan dalam Kaskus Chat.</it> Selama masa kerja praktik, penulis dihadapkan dengan berbagai teknologi baru dan tantangan. Penulis belajar untuk dapat berkomunikasi dalam tim untuk menyampaikan <it>progress</it> atau memberi opini. Penulis juga belajar untuk menyesuaikan diri di lingkungan yang baru dengan karakter karyawan yang berbeda- beda. Tantangan yang ada juga semakin melatih penulis untuk lebih kreatif dalam mencari solusi dan tidak ragu dalam bertanya ke orang lain. Kerja praktik di GDP Labs memperkaya pengetahuan penulis akan dunia kerja. Penulis banyak mendapatkan pelajaran baru yang tidak di dapatkan di bangku kuliah juga. Bekerja dalam tim yang mengerjakan proyek sesungguhnya cukup berbeda dengan bekerja sama dalam tim untuk mengerjakan tugas. Banyak hal-hal yang perlu diperhatikan dan setiap anggota harus semakin proaktif untuk bersama-sama mencapai tujuan. Penulis sangat bersyukur atas kesempatan kerja praktik di GDP Labs ini. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Mencari tempat kerja praktik bukanlah hal yang mudah, ada serangkaian proses yang harus dilakukan seperti <it>coding</it> <it>test,</it> <it>interview,</it> dan sebagainya. Selain itu, biasanya 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<segment>
+			posisi <it>intern</it> di suatu perusahaan terbatas. Oleh karena itu, calon pelaksana KP perlu mencari tempat KP dari beberapa bulan sebelum masa kerja praktik. Sebelum mendaftar ke sebuah perusahaan, sebaiknya calon pelaksana KP sudah menyiapkan <it>resume</it> yang baik dan melengkapi meng-<it>update</it> <it>profile</it> Linkedin,</it> karena beberapa perusahaan juga melihat <it>profile</it> Linkedin.</it> Selain itu, pelaksana KP harus berkomitmen untuk menyelesaikan tanggung jawabnya dan tidak takut untuk mencoba hal baru. Karena, hal-hal baru di dunia KP akan sangat membantu untuk meningkatkan pengetahuan dan wawasan, baik dari segi <it>hard</it> <it>skill</it> maupun <it>soft</it> <it>skill.</it> Untuk pihak fakultas, lebih baik bila dosen dapat memberikan respon yang lebih cepat terkait pembuatan KAKP dan pertanyaan-pertanyaan yang diajukan di forum, karena mahasiswa tidak memiliki acuan pasti. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<title>[1] <it>GDP</it></title>
+		<segment>
+			<it>Venture.</it> Diperoleh 
+		</segment>
+		<pagenum>24</pagenum>
+		<segment>
+			Desember 2016, dari https://www.gdpventure.com [2] On Lee. <it>Summary.</it> Linkedin. Diperoleh 6 November 2016, dari https://www.linkedin.com/in/onlee [3] Spring Framework. Diperoleh November 
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			2016, dari https://projects.spring.io/spring-framework/ [4] Martin. 1996. <it>The</it> <it>Dependency</it> <it>Inversion</it> <it>Principle.</it> Diperoleh November 13 2016, dari https://web.archive.org/web/20110714224327/http://www.objectmentor.com/r esources/articles/dip.pdf [5] <it>What</it> <it>is</it> <it>a</it> <it>chat</it> <it>bot.</it> Diperoleh 23 Desember 2016, dari <it>http://www.virtualentities.com/what-is-a-chatbot-chatterbot</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

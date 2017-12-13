@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <it><bo>FRONT-END</bo></it> <bo>DAN</bo> <it><bo>BACK-END</bo></it> <it><bo>SOFTWARE</bo></it></title>
+		<title><bo>ERP</bo> <bo>PADA</bo> <bo>PT</bo> <bo>DENBE</bo> <bo>ANUGERAH</bo> <bo>SOLUSINDO</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ALIEF</bo> <bo>AL</bo> <bo>FATHAN</bo> <bo>HARRITSSATYA</bo> <bo>DARMAWAN</bo></title>
+		<segment>
+			<bo>1306381591</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Alief Al Fathan Harritssatya Darmawan : 1306381591 Program Studi : Ilmu Komputer Judul Kerja Praktik : Pengembangan <it>Front-end</it> dan <it>Back-end</it> <it>software</it> ERP pada PT Denbe Anugerah Solusindo <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : [NAMA TEMPAT] Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini dibuat untuk memenuhi persyaratan mata kuliah Kerja Praktik. Penulis melaksanakan Kerja Praktik selama delapan minggu dimulai dari tanggal 13 Juni 2016 sampai 5 Agustus 2016. Pekerjaan yang dilakukan oleh penulis adalah <it>front-end</it> dan <it>back-end</it> <it>programmer</it> dalam pengembangan <it>software</it> ERP pada PT Denbe Anugerah Solusindo. Selama pelaksanaan Kerja Praktik, penulis memiliki tugas untuk mengimplementasi tampilan antarmuka <it>software</it> dan berperan dalam proses <it>debugging</it> <it>front-end</it> dan <it>back-end</it> <it>software.</it> Beberapa aplikasi yang membantu penulis dalam melaksanakaan Kerja Praktik adalah Git, GitKraken, dan XAMPP. Kendala- kendala yang penulis hadapi selama pelaksanaan Kerja Praktik dapat penulis atasi dan menambah pengalaman penulis. Mata kuliah yang pernah diambil oleh penulis di Fasilkom UI memiliki keterkaitan dengan Kerja Praktik yang dilakukan, diantaranya: Perancangan dan Pemrograman Web, Basis Data, Rekayasa Perangkat Lunak (RPL), dan Pengembangan Perangkat Lunak (PPL). Kata kunci: <it>Enterprise</it> <it>Resource</it> <it>Planning,</it> Kerja Praktik, <it>Software</it> <it>Development</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 1</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 1</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 2</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 3 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 3</title>
+		<title>2.1.1. Latar Belakang ........................................ <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.2. Tinjauan Pustaka ..................................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.3. Metodologi .............................................. <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.4. Teknologi ................................................ <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.5. Non Teknis .............................................. <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.2. Analisis ............................................................................................................ 7</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 7</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ......................................... 9</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 11 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 11</title>
+		<title>3.2. Saran .............................................................................................................. 11</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 12 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Struktur Organisasi di PT Denbe Anugerah Solusindo 
+		</segment>
+		<pagenum>2</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<segment>
+			[Daftar tabel, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<pagenum>vi</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis memulai pencarian kerja praktik dengan mengikuti seminar kuliah Kerja Praktik untuk memahami sistematika Kerja Praktik, dan mendapatkan informasi mengenai syarat-syarat pekerjaan yang sesuai untuk kuliah Kerja Praktik. Bedasarkan seminar kuliah Kerja Praktik, dan informasi dari teman-teman penulis, penulis memahami jenis pekerjaan yang dapat dilakukan untuk memenuhi kuliah Kerja Praktik, yaitu pekerjaan yang melibatkan <it>programming.</it> Penulis kemudian mulai melengkapi CV penulis dan mencari lowongan pekerjaan yang sesuai. Lalu, penulis mendapatkan informasi dari teman mengenai lowongan pekerjaan di PT Denbe Anugerah Solusindo. Penulis kemudian mempertimbangkan beberapa aspek terkait lowongan tersebut. Beberapa aspek tersebut diantaranya lokasi kerja praktik, dan <it>scope</it> pekerjaan. Lalu, penulis dan rekan-rekan penulis yang akan mendaftarkan diri untuk magang di PT Denbe Anugerah Solusindo mulai mengurus berkas administrasi, yaitu surat permohonan KP dan data diri. Setelah berkas administrasi selesai diurus, penulis dan rekan-rekan penulis memulai magang di PT Denbe Anugerah Solusindo pada tanggal 13 Juni 2016. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Denbe Anugerah Solusindo merupakan perusahaan konsultasi IT yang juga menyediakan layanan <it>hardware</it> dan infrastruktur, implementasi <it>software</it> dan <it>maintenance</it> <it>service.</it> Selain itu, perusahaan ini juga memiliki “Denbe Solusi, <it>covering</it>  <it>end</it> <it>to</it> <it>end</it> <it>solution”,</it> yaitu layanan di bidang <it>training</it> IT dan SDM [1]. Alamat dari PT  Denbe Anugerah Solusindo adalah Ruko ITC Fatmawati Blok C2 no. 8, Jakarta Selatan. Jam kerja tim pelaksana kerja praktik dimulai pada jam 10:00 WIB dan selesai pada pukul 16:00 WIB. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Struktur singkat organisasi pada PT Denbe Anugerah Solusindo terdiri adalah: Presiden Direktur, GM Marketing, GM Operation &amp; Support, Direktur. GM Marketing, GM Operation &amp; Support, dan Direktur masing-masing membawahi beberapa bidang lain. Berikut adalah gambar struktur singkat organisasi pada PT Denbe Anugerah Solusindo: <it>Gambar</it> <it>1</it> <it>Sruktur</it> <it>Organisasi</it> <it>di</it> <it>PT</it> <it>Denbe</it> <it>Anugerah</it> <it>Solusindo</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Selama magang di PT Denbe Anugerah Solusindo, penulis ditempatkan pada <it>front-</it> <it>end/back-end</it> <it>programmer</it> dalam divisi App Dev &amp; Support pada bagian tim yang menangani proyek perancangan dan pengembangan ERP operasional PT Denbe Anugerah Solusindo. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bab ini, dijelaskan latar belakang pihak penyelia memberikan tugas kepada tim pelaksana Kerja Praktik, metodologi yang digunakan, teknologi serta hal-hal non- teknis yang diigunakan dalam pelaksanaan Kerja Praktik. 
+		</segment>
+		<title><bo>2.1.1</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Dalam usaha pengembangan perusahan, PT Denbe Anugerah Solusindo memerlukan sistem untuk membuat proses bisnis yang dilakukan menjadi lebih efektif dan efisien. Untuk itu, PT Denbe Anugerah Solusindo meminta tim pelaksana Kerja Praktik untuk membuat program <it>Enterprise</it> <it>Rersource</it> <it>Planning</it> (ERP) berbasis <it>web.</it> Pihak penyelia kerja praktik kemudian menjelaskan spesifkasi yang diperlukan dari produk yang ingin dibuat. Lalu, tim pelaksana Kerja Praktik mengajukan alur kerja perancangan dan pengembangan <it>software</it> secara <it>agile.</it> Selama perancangan dan pengembangan <it>software</it> ini, pelaksana Kerja Praktik berperan sebagai <it>front-end</it> dan <it>back-end</it> <it>programmer.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>2.1.2</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			  <bo>Proyek</bo>  Proyek memiliki definisi ““usaha sementara yang dilakukan untuk membuat produk  yang unik, layanan, atau, hasil”  (PMBOK®  Guide,  Fourth  Edition,  2013,  p.  3).  Proyek bersifat sementara, memiliki batas waktu tertentu, memiliki tujuan yang unik dan memerlukan sumber daya dari berbagai bidang [2].   <bo>Enterprise</bo> <bo>Resource</bo> <bo>Planning</bo>  Enterprise Resource Planning (ERP) merupakan proses dimana perusahaan mengelola dan menyatukan elemen-elemen penting dalam bisnis perusahaan tersebut. Sistem manajemen yang terdapat dalam sebuah ERP menyatukan elemen- elemen tersebut [3].   <bo>Web</bo> <bo>Framework</bo>  <it>Web</it> <it>framework</it> merupakan sebuah tipe <it>framework</it> yang dirancang untuk membantu <it>developer</it> membuat aplikasi berbasis <it>web.</it> <it>Framework</it> ini menyediakan fitur-fitur inti yang umum dimiliki aplikasi-aplikasi berbasis <it>web.</it> Penghematan waktu dalam membuat sebuah aplikasi berbasis <it>web</it> dapat tercapai dengan memilih <it>framework</it> yang tepat [4]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>2.1.3</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Selama perancangan dan pengembangan <it>software</it> ERP PT Denbe Anugerah Solusindo, penulis dan rekan-rekan penulis menggunakan metodologi <it>Agile.</it> Metode ini melibatkan keaktifan dari <it>client</it> dan <it>user</it> dalam seluruh tahapan pada proses pengembangan <it>software.</it> Tim pelaksana Kerja Praktik memilih metode ini karena tim menilai perlunya perencanaan yang adaptif dan mampu memberikan respon yang cepat dan fleksibel terhadap revisi rancangan. Dalam pelaksanaanya, tim pelaksana Kerja Praktik mempresentasikan hasil kerja kepada pihak penyelia setiap minggunya. Setelah itu, pihak penyelia memberikan <it>feedback.</it> <it>Feedback</it> tersebut akan menjadi arahan kepada tim untuk merevisi <it>plan</it> dan menjadi hal yang akan dikerjakan berikutnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<title><bo>2.1.4</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Berkut adalah teknologi yang digunakan selema perngerjaan proyek:   <bo>Git</bo>  Git adalah sebuah <it>version</it> <it>control</it> <it>system</it> yang dapat digunakan dalam <it>software</it> <it>development.</it> Teknologi ini digunakan untuk memudahkan anggota-anggota tim pelaksana Kerja Praktik dalam proses implementasi <it>software</it> ERP ini.   <bo>GitKraken</bo>  GitKraken adalah sebuah Git GUI <it>Client</it> yang tersedia di <it>platform</it> Windows, Mac, dan Linux. Penulis menggunakan teknologi ini untuk memudahkan penggunaan Git, karena penulis menganggap penggunaan GUI lebih mudah dibandingkan penggunaan <it>command</it> <it>line</it> <it>interface.</it> 
+		</segment>
+		<title>  <bo>XAMPP</bo> </title>
+		<segment>
+			XAMPP digunakan anggota-anggota tim pelaksana Kerja Praktik untuk melakukan <it>testing</it> secara local dalam <it>environment</it> masing-masing anggota. Penulis memilih untuk menggunakan XAMPP karena penulis pernah menggunakan XAMPP sebelumnya, dan relatif mudah digunakan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<title><bo>2.1.5</bo> <bo>Non-Teknis</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik ini, aspek non teknis yang paling dibutuhkan penulis adalah kemampuan berkomunikasi antara sesama anggota tim dan dengan <it>client</it> yaitu PT Denbe Anugerah Solusindo. Aspek ini diperlukan karena dengan komunikasi yang baik, kemungkinan terjadinya kesalahpahaman antara tim pelaksana kerja praktik dengan pihak penyelia. Hal ini penting terutama pada saat tim melakukan <it>requirement</it> <it>gathering</it> dan ketika melakukan presentasi <it>progress</it> setiap minggunya. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik diawali dengan <it>briefing</it> dari pihak penyelia yang memperkenalkan lingkungan kerja perusahaan dan penyampaian informasi mengenai proyek yang akan dikerjakan oleh tim pelaksana Kerja Praktik. Setelah <it>briefing</it> tersebut, tim pelaksana Kerja Praktik menyusun jadwal kegiatan-kegiatan yang akan dilakukan selama pelaksanaan Kerja Praktik. Setelah selesai dirancang, jadwal tersebut dipresentasikan oleh tim pelaksana Kerja Praktik kepada pihak penyelia, yang kemudian memberikan <it>feedback</it> dan penyetujuan terhadap jadwal tersebut. Setelah jadwal disetujui oleh pihak penyelia, penulis beserta tim pelaksana kerja praktik mulai melakukan analisa dan perancangan dengan didasari oleh <it>requirements</it> yang didapatkan dari proses <it>requirement</it> <it>gathering</it> yang dilakukan oleh beberapa rekan penulis. Dari hasil <it>requirement</it> <it>gathering,</it> terdapat enam modul yang perlu dirancang dan diimplementasikan oleh tim pelaksana Kerja Praktik. Modul-modul tersebut adalah modul <it>General</it> <it>Feature,</it> <it>Fix</it> <it>Asset,</it> <it>Human</it> <it>Resource,</it> <it>Procurement,</it> GL, <it>Marketing.</it> Pelaksana kerja praktik dan rekan pelaksana kerja praktik yang berperan sebagai <it>programmer</it> kemudian mempersiapkan kebutuhan-kebutuhan <it>development</it> diantaranya <it>boilerplate</it> <it>framework,</it> dan <it>software</it> untuk membantu jalannya <it>development,</it> menyiapkan migrasi dalam <it>framework</it> yang nantinya digunakan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			dalam membuat <it>model,</it> <it>view,</it> dan <it>controller</it> (MVC) pada modul yang akan diimplementasi. Pelaksana Kerja Praktik membuat <it>prototype</it> awal <it>software</it> untuk memahami hal-hal yang diperlukan dalam bagian <it>front-end</it> <it>software</it> ERP yang dibuat. Pelaksana Kerja Praktik dan seorang anggota tim pelaksana Kerja Praktik dengan <it>role</it> UI/UX <it>designer</it> kemudian melakukan perancangan tampilan antarmuka dari <it>software</it> ERP yang dibuat. Proses perancangan tampilan antarmuka dilakukan dengan langsung mengimplementasi tampilan secara langsung. Pelaksana Kerja Praktik melakukan implementasi berdasarkan arahan dari rekan pelaksana Kerja Praktik. Setelah proses implementasi tampilan antarmuka <it>software,</it> pelaksana Kerja Praktik melakukan <it>debugging</it> untuk tampilan antarmuka jika terdapat kesalahan atau terdapat revisi. Pelaksana Kerja Praktik juga membantu proses <it>debugging</it> yang dilakukan oleh rekan pelaksana Kerja Praktik pada bagian <it>back-end.</it> Perbedaan pelaksaanan Kerja Praktik dengan KAKP penulis adalah penghilangan implementasi modul GL atas perubahan <it>requirement</it> yang diminta dari pihak penyelia. Waktu yang dialokasikan untuk modul tersebut kemudian digunakan untuk mengimplementasikan modul-modul lainnya. Selama pelaksanaan Kerja Praktik, penulis menghadapi beberapa kendala yang berhasil ditangani. Kendala pertama yang dihadapi penulis adalah lokasi PT Denbe Anugerah Solusindo yang rawan terkena macet, terlebih lagi dengan adanya proyek pembangunan MRT. Untuk kendala tersebut, penulis menggunakan kendaraan beroda dua dan melalui jalur alternatif yang tidak melewati pembangunan MRT, dan melewati wilayah macet yang minimal. Kendala berikutnya adalah penulis belum memahami penggunaan <it>package</it> yang terdapat di internet yang dapat memudahkan penulis dalam mengimplementasi suatu fitur. Untuk kendala tersebut, penulis meluangkan waktu untuk mempelajari <it>package</it> yang cocok dalam pengimplementasian suatu fitur, dan bertanya kepada teman-teman penulis. Kendala terakhir merupakan kendala yang umum terjadi dalam pengembangan secara <it>agile,</it> yaitu perubahan <it>requirement</it> seiring 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			dengan berjalannya pengembangan <it>software.</it> Untuk kendala ini, penulis terbantu dengan adanya rekan-rekan penulis yang melakukan <it>testing</it> untuk perubahan- perubahan yang ada, dan memberikan laporan yang membuat <it>requirement</it> tetap jelas untuk diimplementasi. Menurut penulis, suasana tempat kerja yang disediakan lumayan nyaman. PT Denbe Anugerah Solusindo juga menyediakan beberapa fasilitas diantaranya mushola, dispenser, ruang istirahat, dan internet yang cukup cepat. Lokasi kerja cukup strategis, cukup memudahkan untuk setiap anggota tim pelaksana Kerja Praktik. Komunikasi dengan pegawai, pihak penyelia, dan antar rekan kerja cukup fleksibel sehingga menambah kenyamanan dalam melaksanakan Kerja Praktik. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Berikut merupakan mata kuliah yang pernah diambil oleh penulis, yang memiliki keterkaitan selama pelaksanaan Kerja Praktik:   <bo>Perancangan</bo> &amp; <bo>Pemrograman</bo> <bo>Web</bo>  Dalam mata kuliah PPW, penulis mempelajari bahasa pemrograman HTML, CSS, Javascript, dan PHP. Selain itu, mata kuliah ini mengajarkan pengembangan <it>web</it> menggunakan sebuah <it>framework.</it> Dalam pelaksanaan Kerja Praktik, penulis mengimplementasikan <it>web</it> dengan <it>framework</it> yang dikembangkan menggunakan HTML, CSS, Javascript, dan PHP. Pengetahuan yang didapatkan ketika kuliah PPW membantu penulis dalam memahami alur <it>framework</it> dan pengembangan <it>web.</it>   <bo>Basis</bo> <bo>Data</bo>  Dalam mata kuliah basis data, penulis belajar penggunaan SQL pada tingkat dasar, jenis-jenis relasi antar entitas dalam <it>database,</it> dan diagram yang merepresentasikan entitas dan relasi dalam <it>database.</it> Pengetahuan yang penulis dapatkan dari mata kuliah basis data membantu penulis dalam proses <it>debugging</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			dan membantu penulis memproyeksikan relasi antara modul-modul dan fitur-fitur didalam <it>software</it> yang dikembangkan.   <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>dan</bo> <bo>Pengembangan</bo> <bo>Perangkat</bo> <bo>Lunak</bo>  Pada mata kuliah RPL dan PPL, penulis mempelajari pengembangan <it>software</it> yang dilakukan secara <it>agile,</it> dengan mata kuliah RPL lebih mengarah kepada teori, dan mata kuliah PPL kepada praktik menggunakan <it>scrum.</it> Pada pelaksanaan kerja praktik, penulis dan rekan-rekan penulis menggunakan <it>agile</it> sebagai acuan dalam perancangan dan pengembangan <it>software</it> yang dibuat. Pengalaman yang penulis dapatkan dari mata kuliah RPL dan PPL membantu penulis dalam memahami alur perancangan dan penegembangan <it>software</it> yang dibuat selama pelaksanaan Kerja Praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Tim pelaksana Kerja Praktik yang bertugas merancang dan mengembangkan <it>software</it> ERP telah menyelesaikan Kerja Praktik dengan baik karena pihak penyelia merasa puas terhadap hasil dan kinerja yang telah diberikan. Selama pelaksanaan Kerja Praktik, penulis mendapat pengalaman mengembangakan <it>software</it> untuk sebuah perusahaan. Selain itu, penulis juga mempelajari cara berkomunikasi dan cara bekerja sama dengan efektif dan efisien selama pengerjaan proyek dengan rekan-rekan tim. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Selama pelaksanaan Kerja Praktik, penulis mendapatkan banyak pengalaman baru. Menurut penulis, Kerja Praktik ini dapat menjadi tolok ukur untuk mengetahui kesiapan diri dalam menghadapi dunia kerja. Oleh karena itu, penulis menyarankan kepada calon pelaksana kerja praktik untuk mempersiapkan diri sebaik mungkin, agar dapat melaksanakan kerja praktik dengan maksimal. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Teknologi, Pt Duta Media. "PT Denbe Anugerah Solusindo." <it>PT</it> <it>Denbe</it> <it>Anugerah</it> <it>Solusindo.</it> N.p., n.d. Web. 26 Sept. 2016. [2] PMBOK® Guide, 4th ed. 2013, 2016.  [3] "Enterprise Resource Planning - ERP." <it>Investopedia.</it> N.p., 2015. Web. 27 Sept. 2016. [4] By Using an Appropriate Framework, a Developer Can Often save a Significant Amount of Time Building a Web Site. "Web Application Framework." - DocForge. N.p., n.d. Web. 27 Sept. 2016. [5] @Techopedia. "What Is Agile Software Development? - Definition from Techopedia." <it>Techopedia.com.</it> N.p., n.d. Web. 27 Sept. 2016. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

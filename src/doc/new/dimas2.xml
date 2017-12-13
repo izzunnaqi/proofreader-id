@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <it><bo>FRONT-END</bo></it> <bo>APLIKASI</bo> <bo>WEB</bo></title>
+		<segment>
+			<bo>BUKAPINTU.CO</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>Riandy</bo> <bo>Dimas</bo> <bo>Banimahendra</bo> <bo>1306402892</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh, Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Riandy Dimas Banimahendra : 1306402892 Program Studi : Sistem Informasi Judul Kerja Praktik : Pengembangan <it>Front-end</it> Aplikasi Web Bukapintu.co <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : Kota Depok, Jawa Barat Tanggal : 30 September 2016 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini berisi hasil kerja praktik yang telah penulis laksanakan selama 11 minggu di sebuah <it>startup</it> bernama Bukapintu. Pada pelaksanaan kerja praktik ini, penulis mendapat topik pengembangan <it>front-end</it> aplikasi web Bukapintu.co. Selama menjalani kerja praktik, penulis mempelajari teknologi-teknologi baru yang belum pernah penulis pelajari. Pada laporan ini juga terdapat analisa perbedaan kerangka acuan kerja praktik dengan pelaksanaan kerja praktik. Dari kerja praktik ini pula penulis mengetahui relevansi antara mata kuliah di Fasilkom UI dan kenyataannya di dunia kerja. Kata kunci: aplikasi web, <it>front-end,</it> kerja praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR BAGAN ...................................................................................................... vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 5</title>
+		<title>2.1.2. Metodologi ................................................................................................ 5</title>
+		<title>2.1.3. Teknologi Teknis ...................................................................................... 6</title>
+		<title>2.1.4. Kemampuan Nonteknis ............................................................................. 7</title>
+		<title>2.1.5. Hasil Pekerjaan ......................................................................................... 8</title>
+		<title>2.2. Analisis .......................................................................................................... 10</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 10</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 11</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 13 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 13</title>
+		<title>3.2. Saran .............................................................................................................. 13</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 15 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1 Tampilan fitur forgot password .................................................................... 8 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 2 Potongan source kode modul FAQ .............................................................. 9 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<segment>
+			Bagan 1 Struktur organisasi Bukapintu ........................................................................ 3 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>BAGAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses yang penulis lakukan dalam rangka mencari tempat kerja praktik cukup panjang. Penulis mulai mencari lowongan tempat magang sejak sekitar bulan Februari 2016. Dalam memilih tempat kerja praktik, penulis fokus kepada perusahaan non- pemerintahan seperti <it>startup</it> dan perusahaan <it>ecommerce</it> terkemuka. Calon tempat kerja praktik yang penulis coba untuk daftar yaitu Flipbox, Bukalapak, Tokopedia, Ruangguru, Gojek dan Kudo. Selain mendaftar ke perusahaan-perusahaan tersebut, penulis juga mendapat undangan untuk bergabung di dua <it>startup</it> yaitu Bukapintu dan Appstrak. Perusahaan pertama di mana penulis mendaftarkan diri untuk melakukan kerja praktik adalah Flipbox. Penulis mendapatkan kontak email perusahaan tersebut dari teman penulis yang kebetulan cukup akrab dengan perusahaan tersebut. Beberapa hari setelah mendaftar penulis diundang untuk melakukan wawancara di kantor Flipbox. Pada sesi wawancara penulis langsung diberikan pertanyaan kapan penulis bias mulai bekerja. Akan tetapi, penulis memilih untuk tidak langsung menjawabnya karena masih ingin mencoba mendaftar di perusahaan lain. Penulis mencoba mendaftar ke beberapa perusahaan sekaligus yaitu Bukalapak, Tokopedia dan Kudo melalui <it>website</it> resmi mereka. Beberapa hari kemudian, ketiga perusahaan tersebut mengirimkan email yang berisi soal yang harus diselesaikan dalam beberapa hari. Penulis hanya lolos ke tahap wawancara di dua perusahaan yaitu Tokopedia dan Kudo. Ketika wawancara di Tokopedia penulis harus mengerjakan soal pemrograman, sedangkan di Kudo penulis harus melakukan wawancara dengan lebih dari dua orang secara bergantian. Pada akhirnya penulis tidak lolos proses seleksi kerja praktik di kedua perusahaan tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Pada saat mendaftar kerja praktik di Ruangguru, penulis lolos hingga tahap akhir. Akan tetapi atas beberapa pertimbangan seperti <it>job</it> <it>description</it> yang menurut penulis tidak akan mengembangkan kemampuan penulis dan kompensasi yang kurang, penulis menolak untuk bergabung dengan Ruangguru. Atas rekomendasi teman, penulis mencoba mendaftar lagi di perusahaan Gojek dan penulis mendapatkan persetujuan untuk kerja praktik di sana. Namun, ternyata setelah berkonsultasi dengan dosen pembimbing <it>scope</it> dari <it>job</it> <it>description</it> pekerjaan di Gojek, yaitu <it>Business</it> <it>Development</it> kurang sesuai dengan bidang teknologi informasi. Menjelang masa akhir pencarian tempat kerja praktik, beberapa senior penulis mengajak penulis untuk bergabung di <it>startup</it> mereka. Salah satu <it>startup</it> yang mengundang penulis untuk bergabung adalah Bukapintu. Penulis mencoba untuk mengirimkan email berupa <it>Curriculum</it> <it>Vitae</it> ke email perusahaan. Beberapa hari berikutnya mereka mengundang penulis untuk melakukan wawancara dan penulis langsung diterima untuk melakukan kerja praktik di Bukapintu. Pertimbangan penulis memilih Bukapintu antara lain karena keterbatasan waktu menjelang <it>deadline</it> laporan ke fakultas. Selain itu penulis sudah cukup kenal dengan <it>supervisor</it> sehingga berharap dapat belajar banyak dari beliau. Kompensasi yang cukup kompetitif, materi belajar yang baru bagi penulis serta jam kerja yang fleksibel juga menjadi alasan penulis mengapa memilih Bukapintu sebagai tempat kerja praktik. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukapintu merupakan <it>startup</it> di bidang edukasi karir, rekrutmen <it>online</it> dan sumber daya manusia. <it>Startup</it> ini menggunakan aplikasi berbasis website yang dapat diakses di https://bukapintu.co sebagai <it>core</it> <it>business</it> mereka. Melalui aplikasi inilah pengguna dapat mengakses puluhan informasi mengenai ketenagakerjaan pada <it>entry-level</it> maupun pekerjaan dengan posisi magang. Dari sisi perusahaan, mereka juga dapat mempromosikan posisi lowongan pekerjaan menggunakan aplikasi web Bukapintu. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Aplikasi ini juga menyediakan informasi tentang profil perusahaan-perusahaan yang terkemuka di Indonesia. Bukapintu berdiri sejak tahun 2015 dan aplikasi web-nya diluncurkan pada April 2016. Perusahaan ini membuka kantornya di DBS Tower, Jakarta Selatan dan di daerah Pesona Khayangan, Depok Jawa Barat. Hingga saat ini, Bukapintu dikelola oleh 4 karyawan yang terdiri atas CEO Bukapintu, Lead Software Engineer, Lead UI/UX Designer dan Community Manager. 
+		</segment>
+		<title>CEO</title>
+		<segment>
+			Lead Software Engineer Lead UI/UX Designer Community Manager <it>Bagan</it> <it>1</it> <it>Struktur</it> <it>organisasi</it> <it>Bukapintu</it> CEO Bukapintu merupakan lulusan Universitas Indonesia yang sudah cukup berpengalaman di bidang <it>startup.</it> Tugas dari posisi ini yaitu mengatur arah tujuan Bukapintu ke depan. CEO Bukapintu juga terus mencari <it>partner</it> dan <it>investor</it> untuk diajak bekerja sama dengan Bukapintu. Software Engineer memiliki tugas untuk mengembangkan serta mengelola aplikasi web Bukapintu. Segala desain dalam bentuk HTML/Ilustrasi yang diberikan oleh UI/UX diolah oleh Software Engineer supaya menjadi halaman web yang siap diakses oleh pengguna. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			User Interface / User Experience Designer (UI/UX Designer) fokus kepada pengembangan tampilan web aplikasi Bukapintu. Mereka merencanakan, merancang, membuat prototype dan melakukan evaluasi terhadap desain yang dibuatnya. UI/UX Designer bekerja sama dengan Software Engineer untuk <it>brainstorming</it> ide desain dan mengevaluasi bersama ide-ide tersebut. Community Manager memiliki peran penting dalam menjalin hubungan dengan pengguna. Fokus utama posisi ini yaitu menyiapkan dan menerbitkan konten-konten di aplikasi web Bukapintu. Selain itu, Community Manager juga bertanggung jawab untuk mengadakan kegiatan-kegiatan seminar atau <it>workshop</it> yang diadakan oleh Bukapintu. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada saat magang penulis menjadi <it>software</it> <it>engineer</it> <it>intern</it> yang berada langsung di bawah <it>lead</it> <it>software</it> <it>engineer.</it> <it>Sofware</it> <it>engineer</it> di sini berperan penting dalam pengembangan aplikasi web Bukapintu. Seluruh fitur yang terdapat pada aplikasi web Bukapintu dibuat dan dikelola oleh tim <it>software</it> <it>engineer.</it> Dalam pekerjaan sehari-hari penulis masih sering berhubungan dengan bagian UI/UX Designer, karena tugas yang penulis lakukan berkaitan dengan membangun tampilan <it>user</it> <it>interface</it> aplikasi web Bukapintu. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Bukapintu merupakan perusahaan <it>startup</it> yang memanfaatkan aplikasi web Bukapintu sebagai <it>core</it> <it>businessnya.</it> Aplikasi ini diluncurkan pada April 2016 dan saat ini masih dalam versi <it>beta.</it> Dari seluruh fitur aplikasi yang direncanakan masih ada beberapa fitur yang masih belum diimplementasikan seperti fitur ubah <it>password,</it> menampilkan portfolio pengguna, halaman <it>frequently</it> <it>asked</it> <it>question,</it> komentar pada blog dan lain sebagainya. Selain mengembangkan fitur-fitur baru di aplikasi web Bukapintu, masih ada pekerjaan lain yang harus dilakukan oleh tim <it>software</it> <it>engineer.</it> Mereka harus terus memantau aplikasi terus menerus untuk menangani <it>bug</it> atau permasalahan yang mungkin terjadi pada aplikasi. Tim <it>software</it> <it>engineer</it> sendiri saat ini hanya memiliki seorang pekerja <it>full-time</it> yang sekaligus menjadi penyelia penulis. Kurangnya tenaga kerja pada tim ini juga menjadi latar belakang penulis mengambil pekerjaan <it>software</it> <it>engineer</it> <it>intern.</it> Penulis juga tertarik dengan penggunaan teknologi di perusahaan Bukapintu. Bukapintu menggunakan teknologi yang terbilang baru dan saat ini sedang diminati oleh banyak <it>web</it> <it>developer.</it> Hal ini juga menjadi juga menjadi alasan penulis mengambil pekerjaan <it>software</it> <it>engineer</it> <it>intern.</it> 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik di Bukapintu, metodologi pengembangan yang dilakukan serupa dengan <it>scrum.</it> Pengembangan suatu fitur di awali dengan pertemuan yang melibatkan <it>developer</it> fitur yang akan dibuat. <it>Developer</it> yang terlibat yaitu penulis, <it>lead</it> <it>software</it> <it>engineer</it> dan <it>lead</it> <it>UI/UX</it> <it>designer.</it> Setelah informasi tentang fitur yang akan dibuat selesai dijelaskan para <it>developer</it> langsung bekerja sesuai dengan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			<it>job</it> <it>description</it> masing-masing. Pada hari berikutnya diadakan pertemuan untuk melakukan <it>review</it> tentang hal apa saja yang sudah diselesaikan, hal apa yang masih belum selesai serta apa yang akan <it>developer</it> lakukan pada hari itu. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo> <bo>Teknis</bo></title>
+		<segment>
+			Dalam pengembangan aplikasi web Bukapintu penulis menggunakan berbagai macam teknologi yang baru penulis pelajari ketika melakukan kerja praktik yaitu ECMAScript 2015 (ES6), NodeJS, ReactJS, ReduxJS serta platform Disqus. Selain itu ada juga teknologi lain yang penulis sudah pelajari seperti HTML 5, CSS 3 dan JSON. ECMAScript 2015 (ES6) merupakan bahasa pemrograman berbasis <it>object-oriented</it> yang dibangun dan dikembangkan dari beberapa teknologi seperti JavaScript (Netscape) and JScript (Microsoft) ("ECMAScript 2015 Language Specification –  ECMA-262 6th Edition", 2016). Dengan menggunakan ES6, proses komputasi dan <it>rendering</it> memungkinkan dilakukan secara <it>server-side</it> sehingga tidak membebani <it>host</it> <it>computer.</it> NodeJS merupakan sebuah perangkat lunak berbasis JavaScript yang dibangun di atas mesin Chrome’s V8 JavaScript, yang memungkinkan interaksi <it>input/output</it> <it>handling</it>  tidak saling menghalangi ("Node.js", 2016). Teknologi ini semakin banyak diimplementasikan pada aplikasi-aplikasi berbasis web terkini, karena kemampuannya yang baik dalam menangani banyak <it>request</it> dari <it>host</it> <it>computer</it> tanpa membuat komputer pengguna menjadi <it>hang</it> atau <it>not</it> <it>responding.</it> ReactJS merupakan JavaScript <it>library</it> yang khusus dibuat untuk membangun <it>user</it> <it>interfaces</it> ("React", 2016). <it>Library</it> ini memungkinkan <it>developer</it> untuk membuat komponen-komponen untuk suatu bagian pada halaman web. Kemampuan ini sangat menguntungkan <it>developer</it> karena komponen-komponen tersebut dapat digunakan kembali (<it>reusable)</it> sehingga akan mempersingkat dan mempermudah <it>developer</it> ketika ingin menggunakan komponen yang sama pada halaman yang berbeda. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			ReduxJS merupakan suatu <it>state</it> <it>container</it> yang menyimpan kondisi-kondisi yang terjadi pada halaman web ketika terjadi suatu <it>event.</it> Misalkan, ketika pengguna memilih salah satu tombol pada sebuah halaman web, kondisi (<it>state)</it> tersebut disimpan oleh ReduxJS yang kemudian dapat diolah dan digunakan untuk mengubah <it>state</it> lain yang terkait, misalkan <it>state</it> berpindah halaman (kemudian halaman akan berpindah). <it>States</it> itulah yang dijadikan acuan apakah terjadi suatu <it>event</it> pada halaman web. Implementasi <it>state</it> ini dapat digunakan untuk membuat suatu halaman dapat melakukan <it>update</it> <it>content</it> tanpa harus melakukan <it>reloading.</it> Disqus merupakan sebuah <it>platform</it> yang dapat disisipkan pada suatu website yang berguna untuk mendukung sarana diskusi pada website tersebut. Tujuan dari penggunaan <it>platform</it> ini yaitu agar <it>developer</it> tidak perlu membangun sistem komentar dari awal, yang tentu saja bukan <it>core</it> <it>business</it> dari website yang mengimplementasikannya. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Kemampuan</bo> <bo>Nonteknis</bo></title>
+		<segment>
+			Kemampuan nonteknis yang diperlukan dalam pengembangan aplikasi web Bukapintu antara lain, komunikasi, <it>problem-solving,</it> sensitivitas terhadap <it>design</it> <it>user</it> <it>interface</it> dan masih banyak lagi. Komunikasi merupakan hal yang paling penting karena penulis tidak bekerja sendiri. Untuk memahami fitur yang diinginkan oleh pekerja lain terutama pekerja non-IT tentu saja dibutuhkan keahlian lebih dalam menerjemahkan bahasa teknis ke bahasa yang dapat dimengerti orang non-IT. Kemampuan <it>problem-solving</it> juga sangat dibutuhkan dalam menangani permasalahan yang sering muncul ketika mengembangkan suatu fitur. Biasanya, kemampuan ini digunakan untuk melakukan peningkatan efektivitas algoritma ketika membuat fitur baru atau melakukan improvisasi pada fitur yang sudah ada. Sensitivitas terhadap <it>design</it> <it>user</it> <it>interface</it> juga merupakan kemampuan yang perlu dikuasai terutama sebagai <it>front-end</it> <it>developer.</it> Kemampuan ini tentu akan membantu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			tim UI/UX <it>Designer</it> dalam mengembangkan <it>mockup</it> tampilan aplikasi web Bukapintu. Bentuk kontribusi yang dapat dilakukan dengan kemampuan ini diantaranya yaitu memberikan <it>feedback</it> atau saran terkait tampilan aplikasi web Bukapintu. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Secara garis besar produk yang penulis hasilkan selama kerja praktik berupa <it>front-end</it> modul dan fitur baru yang memang sudah direncanakan sebelumnya. Fitur yang penulis selesaikan yaitu <it>forgot</it> <it>and</it> <it>reset</it> <it>password,</it> <it>show</it> <it>portfolio,</it> modul <it>frequently</it> <it>asked</it> <it>question,</it> <it>blog</it> <it>comment</it> dan <it>live-chat.</it> Selain fitur yang telah disebutkan, penulis juga bertanggung jawab untuk menangani <it>bug</it> dan perubahan <it>minor</it> pada aplikasi web Bukapintu. <it>Forgot</it> <it>and</it> <it>reset</it> <it>password</it> merupakan fitur pertama yang penulis selesaikan dalam kegiatan kerja praktik ini. Fitur ini digunakan bagi pengguna aplikasi web Bukapintu yang lupa <it>password</it> akun mereka. Mekanisme fitur ini yaitu pengguna memasukkan email yang dia gunakan untuk mendaftar pada aplikasi. Kemudian, email berisi <it>link</it> untuk melakukan <it>reset</it> <it>password</it> akan dikirimkan ke email pengguna. Link ini berisi token unik yang hanya dapat digunakan sekali. Setelah mengunjungi <it>link</it> yang diberikan melalui email, pengguna akan melihat halaman untuk membuat <it>password</it> baru. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			<it>Gambar</it> <it>1</it> <it>Tampilan</it> <it>fitur</it> <it>forgot</it> <it>password</it> Modul <it>show</it> <it>portfolio</it> digunakan oleh pengguna yang memiliki dan ingin menunjukkan portfolionya. Fitur ini akan menampilkan tiga url akun <it>platform</it> web <it>portfolio</it> yang cukup terkenal yaitu Git, Behance dan Dribbble. Fitur berikutnya yaitu modul <it>frequently</it> <it>asked</it> <it>question</it> (FAQ). Modul ini bertujuan untuk membantu pengguna dalam penanganan permasalahan yang dialaminya ketika menggunakan aplikasi web Bukapintu. Modul ini sudah terintegrasi dengan <it>application</it> <it>programming</it> <it>interface</it> (API) sehingga untuk mengubah konten tidak perlu dilakukan secara manual dengan mengubah langsung halaman websitenya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			<it>Gambar</it> <it>2</it> <it>Potongan</it> <it>source</it> <it>kode</it> <it>modul</it> <it>FAQ</it> Fitur berikutnya yaitu blog comments dan live chat. Sebenarnya kedua fitur ini sama- sama dikembangkan menggunakan platform Disqus. Perbedaan diantara kedua fitur ini yaitu, blog comments berfungsi sebagai tempat pembaca artikel blog tersebut memberikan tanggapan terkait artikel. Sedangkan live chat, berfungsi sebagai tempat tanya jawab kepada pakar yang sudah dipilih oleh Bukapintu pada sesi waktu tertentu. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam praktik pelaksanaan kerja praktik di Bukapintu, terdapat banyak perbedaan pekerjaan yang perlu dilakukan jika dibandingkan dengan kerangka acuan kerja praktik (KAKP). Pada KAKP penulis diminta untuk mengembangkan <it>dashboard</it> baru yang akan digunakan oleh administrator Bukapintu. Akan tetapi, tugas tersebut dibatalkan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			karena ternyata Bukapintu belum terlalu membutuhkannya. Penulis juga diminta untuk membantu Bukapintu dalam suatu acara yang mereka adakan. Pada acara tersebut penulis bertugas untuk menyiapkan peralatan acara seperti speaker dan microfon. Selain itu karena pada KAKP memang belum terdapat rincian pekerjaan yang harus penulis lakukan, penulis tidak dapat membandingkan terlalu banyak perbedaan KAKP dengan praktik kerja nyatanya. Kendala utama yang penulis alami yaitu pada awal masuk kerja praktik di Bukapintu. Sebelumnya penulis tidak pernah menggunakan ES6 sebagai bahasa pemrograman untuk membangun aplikasi berbasis web. Selain itu, teknologi-teknologi lain seperti NodeJS, ReactJS, dan sebagainya masih asing bagi penulis. Kesulitan penulis tersebut cukup terbantu dengan latihan dari supervisor penulis berupa soal pemrograman sederhana. Penulis juga diberi waktu selama satu minggu untuk mempelajari teknologi- teknologi yang akan digunakan selama kerja praktik. Beberapa minggu setelah memulai kerja praktik, terkadang penulis juga masih bingung dengan syntax yang dipakai dalam ES6. Untuk menangani kesulitan tersebut, penulis sering bertanya dan melakukan konsultasi kepada supervisor. Selain itu, website pemberi bantuan seperti StackOverflow sangat membantu penulis selama melaksanakan kerja praktik. Terlepas dari kendala-kendala yang penulis alami, penulis merasa nyaman ketika melaksanakan kerja praktik di Bukapintu. Pelaksanaan kerja praktik yang penulis lakukan berlokasi di kantor Bukapintu Pesona Khayangan. Lingkungan kerja yang serasa rumah pribadi membuat penulis betah untuk melakukan pekerjaan di kantor. Selain karena tempat yang nyaman, lokasi yang cukup dekat dari tempat tinggal membuat penulis tidak merasa terlalu repot untuk berangkat ke kantor. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik di Bukapintu, terdapat beberapa keterkaitan mata kuliah di Fasilkom UI dengan pengerjaan tugas selama kerja praktik. Mata kuliah yang relevan dengan pekerjaan di Bukapintu antara lain Dasar-Dasar Pemrograman (DDP), 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			Rekayasa Perangkat Lunak (RPL), Perancangan dan Pemrograman Web (PPW) serta Komunikasi Bisnis dan Teknik (Kombistek). Pada mata kuliah DDP penulis mempelajari bagaimana cara berpikir <it>object-oriented.</it> Meskipun dulu bahasa yang diajarkan menggunakana Java Language, tetapi cara berpikir dan implementasi <it>object-oriented</it> <it>programming</it> (OOP) sangat berguna ketika melaksanakan kerja praktik. Ketika penulis membuat komponen-komponen tampilan pada halaman web, komponen tersebut dianggap sebagai <it>object</it> dalam OOP. Algoritma iterasi seperti <it>for,</it> <it>for</it> <it>each</it> dan <it>while</it> juga decision seperti <it>if,</it> <it>if</it> <it>else</it> dan <it>switch</it> <it>case</it> ikut menjadi bagian dalam pelaksanaan kerja praktik di Bukapintu. Pada mata kuliah RPL penulis mempelajari metodologi pengembangan perangkat lunak yaitu scrum. Latihan yang diadakan pada mata kuliah ini sangat membantu penulis dalam memahami iklim kerja pada dunia nyata. Selain itu, pemahaman <it>use</it> <it>case</it> <it>diagaram</it> dan <it>use</it> <it>case</it> <it>specification</it> membuat penulis dapat memahami lebih cepat apa yang harus dikerjakan pada saat kerja praktik. Selanjutnya pada mata kuliah PPW, ilmu dasar untuk pengembangan web berbasis Hypertext Markup Language (HTML) dan Cascading Style Sheet (CSS) juga penulis rasakan manfaatnya selama melaksanakan kerja praktik. Meskipun pada pekerjaan kerja praktik penulis tidak hanya menggunakan dasar-dasar pemrograman web, paling tidak penulis menjadi lebih mahir dalam mengolah <it>source</it> <it>code.</it> Terakhir, mata kuliah Kombistek membantu penulis dalam berkomunikasi antaranggota tim Bukapintu terutama dalam menyampaikan pendapat, kritik dan saran. Latihan dan tugas-tugas yang diberikan pada mata kuliah ini seperti membuat surat elektronik yang baik, melakukan presentasi ide, dan cara meninggalkan pesan memo cukup membantu penulis pada saat bekerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Iklim kerja di sebuah perusahaan <it>startup</it> bersifat sangat <it>agile</it> di mana segala sesuatu dapat sangat cepat berubah menyesuaikan dengan keadaan. Penggunaan teknologi yang baru juga merupakan langkah perusaahn <it>startup</it> untuk beradaptasi dengan lingkungan. Selain teknologi teknis yang baru, kemampuan non teknis juga perlu dikuasai agar pekerjaan dapat terlaksana dengan lancar. Dasar-dasar kemampuan tersebut bisa didapatkan dengan mempelajari langsung di lapangan, maupun dengan membaca literatur yang terkait. Selama melaksanakan kerja praktik di Bukapintu penulis dapat mengimplementasikan hasil belajar penulis dengan cukup baik. Penulis juga mempelajari banyak teknologi baru yang saat ini sering digunakan untuk pengembangan aplikasi berbasis web. Bukapintu juga menawarkan tempat kerja yang cukup nyaman dan cocok bagi orang- orang yang tidak suka bekerja di <it>corporate.</it> Selain itu, ternyata mata kuliah yang diajarkan di Fasilkom UI cukup penting karena dalam kenyataan di lapangan memang digunakan. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Melaksanakan kerja praktik merupakan pengalaman yang sangat menyenangkan karena kita dapat mempelajari hal-hal baru yang tidak didapatkan selama kuliah. Oleh karena itu, penulis menyarankan bagi calon mahasiswa pengambil mata kuliah kerja praktik untuk melakukan eksplorasi terhadap bidang pekerjaan yang akan dipilih. Penulis berharap calon pelaksana kerja praktik tidak membatasi diri untuk mengambil kerja praktik yang sederhana. Namun berpikir bahwa kerja praktik merupakan batu loncatan untuk mengetahui bagaimana lingkungan kerja yang sebenarnya. Penulis juga menyarakan kepada mahasiswa calon pengambil mata kuliah kerja praktik untuk mempersiapkan diri sebelum mulai mencari tempat kerja praktik. Koneksi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			dengan senior merupakan langkah paling mudah untuk mencari informasi tentang kondisi perusahaan tempat kerja praktik. Menyiapkan <it>curriculum</it> <it>vitae</it> adalah tahap pertama sebelum mendaftar kerja praktik, oleh Karena itu penulis menyarankan agar membuat CV sebaik mungkin (singkat, padat, menarik, dan jelas). 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			ECMAScript 2015 Language Specification – ECMA-262 6th Edition. (2016). Ecma- international.org. Retrieved 29 September 2016, from http://www.ecma- international.org/ecma-262/6.0/ Node.js. (2016). Nodejs.org. Retrieved 29 September 2016, from https://nodejs.org/en/ React. (2016). Facebook.github.io. Retrieved 29 September 2016, from https://facebook.github.io/react/ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

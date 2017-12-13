@@ -1,0 +1,547 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <bo>KONTEN</bo> <bo>DI</bo> <bo>TOKOPEDIA</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>RATU</bo> <bo>SAFIRA</bo> <bo>SUNARAGIANTHI</bo></title>
+		<segment>
+			<bo>1206208624</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>DESEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			Program Studi Judul Kerja Praktik : Ratu Safira Sunaragianthi : 1206208624 : Sistem Informasi : Pengembangan Konten di Tokopedia <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom.,</bo> <bo>M.Kom.)</bo> 
+		</segment>
+		<title><bo>PELAKSANA</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>(Ratu</bo> <bo>Safira</bo> <bo>Sunaragianthi)</bo> Ditetapkan di Tanggal : Depok :  i 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama : Ratu Safira Sunaragianthi Program Studi : Sistem Informasi Judul : Pengembangan Konten di Tokopedia Laporan kerja praktik ini dibuat berdasarkan pengalaman dari penulis selama melaksanakan kerja praktik selama sepuluh minggu di PT. Tokopedia. Dalam pelaksanaannya, penulis berperan sebagai <it>Content</it> <it>Strategist</it> <it>Intern</it> dengan penyelia Erwin Andreas yang bekerja di posisi <it>Head</it> <it>of</it> <it>Content</it> (<it>Content</it> <it>Editor).</it> Selama kerja praktik, penulis bertugas untuk membuat <it>planning</it> terhadap proyek fitur baru maupun perbaikan fitur yang sudah ada yang terkait dengan setiap konten yang ada pada Tokopedia. Selain melaksanakan <it>planning,</it> penulis juga melakukan <it>user</it> <it>analysis,</it> membuat <it>use-case</it> diagram, menyusun algoritma yang digunakan dalam bentuk <it>pseudocode,</it> serta melaksanakan UAT (<it>User</it> <it>Acceptance</it> <it>Test)</it> untuk setiap fitur baru yang ada pada konten di <it>website</it> Tokopedia. Pengembangan terus –  menerus terhadap fitur dan konten Tokopedia berguna untuk memenuhi setiap kebutuhan pengguna <it>website</it> Tokopedia, agar PT. Tokopedia tetap dapat terus melanjutkan proses bisnisnya. Selama pelaksanaan kerja praktik, penulis memperoleh banyak pengetahuan serta pengalaman baru yang berharga dalam menjadi seorang <it>Content</it> <it>Strategist</it> di PT. Tokopedia. Kata kunci : Kerja praktik, Tokopedia, konten, proyek  ii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			 <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> ..................................... i <bo>ABSTRAK</bo> ................................................................................................................................................... ii <bo>DAFTAR</bo> <bo>ISI...............................................................................................................................................</bo> iii <bo>DAFTAR</bo> <bo>GAMBAR</bo> .................................................................................................................................. iv <bo>DAFTAR</bo> <bo>LAMPIRAN</bo> ............................................................................................................................... v 
+		</segment>
+		<title><bo>BAB</bo> <bo>I</bo></title>
+		<segment>
+			 <bo>PENDAHULUAN</bo> .................................................................................................................... 1 
+		</segment>
+		<title><bo>1.1.</bo></title>
+		<segment>
+			<bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> ................................................................................................ 1 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> ................................................................................................................ 2</title>
+		<title><bo>1.2.1.</bo></title>
+		<segment>
+			<bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> ............................................................................................. 2 
+		</segment>
+		<title><bo>1.2.2.</bo></title>
+		<segment>
+			<bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> .................... 3 
+		</segment>
+		<title><bo>BAB</bo> <bo>II</bo></title>
+		<segment>
+			 <bo>ISI</bo> .......................................................................................................................................... 5 
+		</segment>
+		<title><bo>2.1.</bo></title>
+		<segment>
+			<bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> ................................................................................................ 5 
+		</segment>
+		<title><bo>2.1.1.</bo></title>
+		<segment>
+			<bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> ................................................................................................. 5 
+		</segment>
+		<title><bo>2.1.2.</bo></title>
+		<segment>
+			<bo>Tinjauan</bo> <bo>Pustaka</bo> ................................................................................................................ 8 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo> ......................................................................................................................... 15</title>
+		<title><bo>2.1.4.</bo></title>
+		<segment>
+			<bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo> .............................................................................................. 18 
+		</segment>
+		<title><bo>2.1.5.</bo></title>
+		<segment>
+			<bo>Non</bo> <bo>Teknis</bo> ......................................................................................................................... 20 
+		</segment>
+		<title><bo>2.1.6.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo> ................................................................................................................. 22</title>
+		<title><bo>2.2.</bo> <bo>Analisis</bo> ....................................................................................................................................... 27</title>
+		<title><bo>2.2.1.</bo></title>
+		<segment>
+			<bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> .............................................................................................. 27 
+		</segment>
+		<title><bo>2.2.2.</bo></title>
+		<segment>
+			<bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> .............................................................. 29 
+		</segment>
+		<title><bo>BAB</bo> <bo>III</bo></title>
+		<segment>
+			 <bo>PENUTUP</bo> ........................................................................................................................... 31 
+		</segment>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo> ................................................................................................................................ 31</title>
+		<title><bo>3.2.</bo></title>
+		<segment>
+			<bo>Saran</bo> .......................................................................................................................................... 31 <bo>DAFTAR</bo> <bo>REFERENSI</bo> ............................................................................................................................ 32 <bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> ................................................................. vi <bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> .............................................................................................. vii <bo>LAMPIRAN</bo> <bo>3:</bo> <bo>AKTA</bo> <bo>KESEPAKATAN</bo> ........................................................................................... xviii  iii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			<bo>Gambar</bo> <bo>1.</bo> <bo>Struktur</bo> <bo>Organisasi</bo> <bo>PT.</bo> <bo>Tokopedia</bo> ............................................................................... 4 <bo>Gambar</bo> <bo>2.</bo> <bo>Konten</bo> <it><bo>Marketplace</bo></it> <bo>Tokopedia</bo> ....................................................................................... 7 <bo>Gambar</bo> <bo>3.</bo> <bo>Konten</bo> <bo>Pulsa</bo> <bo>Tokopedia</bo> ................................................................................................... 7 <bo>Gambar</bo> <bo>4.</bo> <bo>Konten</bo> <bo>Tiket</bo> <bo>Kereta</bo> <bo>Tokopedia</bo> ...................................................................................... 8 <bo>Gambar</bo> <bo>5.</bo> <bo>Promo</bo> <bo>dan</bo> <it><bo>Campaign</bo></it> <bo>Konten</bo> <it><bo>Marketplace</bo></it> <bo>yang</bo> <bo>Sudah</bo> <bo>Berjalan</bo> ........................ 22 <bo>Gambar</bo> <bo>6.</bo> <bo>Promo</bo> <bo>dan</bo> <it><bo>Campaign</bo></it> <bo>Konten</bo> <bo>Pulsa</bo> <bo>yang</bo> <bo>Sudah</bo> <bo>Berjalan</bo> ..................................... 23 <bo>Gambar</bo> <bo>7.</bo> <bo>Promo</bo> <bo>dan</bo> <it><bo>Campaign</bo></it> <bo>Konten</bo> <bo>Tiket</bo> <bo>Kereta</bo> <bo>yang</bo> <bo>Sudah</bo> <bo>Berjalan</bo> ....................... 23 <bo>Gambar</bo> <bo>8.</bo> <bo>Fitur</bo> <bo>Baru</bo> <bo>Konten</bo> <bo>Pulsa:</bo> <bo>Token</bo> <bo>dan</bo> <bo>Pembayaran</bo> <bo>Listrik</bo> .................................... 24 <bo>Gambar</bo> <bo>9.</bo> <bo>Fitur</bo> <bo>Baru</bo> <bo>Konten</bo> <bo>Pulsa:</bo> <bo>Pembayaran</bo> <bo>BPJS</bo> <bo>Kesehatan</bo> ....................................... 25 <bo>Gambar</bo> <bo>10.</bo> <bo>Fitur</bo> <bo>Baru</bo> <bo>Konten</bo> <bo>Pulsa:</bo> <bo>Pengisian</bo> <bo>Saldo</bo> <bo>Tokopedia</bo> .......................................... 25 <bo>Gambar</bo> <bo>11.</bo> <bo>Fitur</bo> <bo>Baru</bo> <bo>Siap</bo> <bo>Rilis</bo> <bo>Konten</bo> <bo>Pulsa:</bo> <bo>Pembayaran</bo> <bo>Air</bo> .......................................... 26 <bo>Gambar</bo> <bo>12.</bo> <bo>Fitur</bo> <bo>Baru</bo> <bo>Siap</bo> <bo>Rilis</bo> <bo>Konten</bo> <bo>Pulsa:</bo> <bo>Pembelian</bo> <it><bo>Voucher</bo></it> <it><bo>Game</bo></it> .......................... 26 <bo>Gambar</bo> <bo>13.</bo> <bo>Budaya</bo> <bo>PT.</bo> <bo>Tokopedia:</bo> <bo>DNA</bo> ...................................................................................... 29 <bo>Gambar</bo> <bo>14.</bo> <bo>Budaya</bo> <bo>PT.</bo> <bo>Tokopedia:</bo> <bo>Karakter</bo> .............................................................................. 29  iv 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			<bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> ................................................................. vi <bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> .............................................................................................. vii <bo>LAMPIRAN</bo> <bo>3:</bo> <bo>AKTA</bo> <bo>KESEPAKATAN</bo> ........................................................................................... xviii  v 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<title><bo>BAB</bo> <bo>I</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<segment>
+			Bagian ini terdiri dari dua subbab yang berisi penjelasan mengenai proses pencarian kerja praktik yang telah dilakukan penulis dan penjelasan mengenai tempat kerja praktik di mana penulis melaksanakan kerja praktik. Penjelasan mengenai proses pencarian kerja praktik tersebut dapat dilihat pada subbab berikut. 
+		</segment>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada saat pencarian tempat kerja praktik, penulis mencari informasi untuk lowongan magang kepada rekan-rekan seangkatan. Banyak yang memberikan referensi untuk sejumlah perusahaan termasuk PT. Tokopedia. Dari semua perusahaan yang disarankan oleh rekan penulis, hanya PT. Tokopedia yang membuka lowongan magang sesuai dengan posisi yang berhubungan dengan apa yang telah dipelajari selama di Fasilkom UI. Untuk itu, penulis mengirimkan CV dan berkas-berkas penting lainnya melalui <it>website</it> karir Tokopedia pada tanggal 6 April 2016. Selang beberapa menit, pihak PT. Tokopedia menghubungi penulis melalui <it>e-mail</it> dan menyatakan bahwa pihak PT. Tokopedia tertarik dengan CV penulis dan mengundang penulis untuk mengadakan <it>interview</it> pekerjaan pada tanggal 8 April 2016. Tanggal 8 April 2016, penulis mengikuti dua sesi <it>interview,</it> yaitu <it>structured</it> <it>interview</it> dan <it>behavioral</it> <it>interview.</it> Pada saat <it>structured</it> <it>interview</it> dilaksanakan, penulis diwawancarai oleh salah satu pihak HRD, Destiny Priandari[1]. <it>Interview</it> yang dilaksanakan bersifat penggalian potensi diri, keahlian, dan keterampilan penulis. Setelah <it>structured</it> <it>interview</it> dilaksanakan, maka terdapat sesi kedua <it>interview,</it> yaitu <it>behavioral</it> <it>interview.</it> Berbeda dengan <it>structured</it> <it>interview,</it> <it>behavioral</it> <it>interview</it> langsung dilaksanakan dengan penyelia penulis, Erwin Andreas selaku <it>Head</it> <it>of</it> <it>Content</it> (<it>Content</it> <it>Editor)[2].</it> Pada saat <it>behavioral</it> <it>interview</it> berlangsung, penulis ditanya seputar berbagai permasalahan tertentu dan bagaimana cara penulis menyelesaikannya. Setelah <it>interview</it> dilaksanakan, penulis akan dikabari apakah penulis akan diterima atau tidak selama tiga hari kerja. 
+		</segment>
+		<pagenum> 1</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			Pada tanggal 13 April 2016, penulis mendapat kabar dari pihak Tokopedia melalui telepon bahwa penulis diterima sebagai <it>Content</it> <it>Strategist</it> <it>Intern</it> di PT. Tokopedia. Penulis juga dikirimi surat tanda penerimaan magang yang perlu diisi dan ditandatangani melalui <it>e-</it> <it>mail.</it> Setelah mengisi dan menandatangani surat tanda penerimaan magang, penulis mengatur jadwal untuk memulai bekerja dengan pihak Tokopedia. Sesuai dengan kesepakatan, penulis memulai bekerja pada tanggal 13 Juni 2016 dengan perkiraan selesai pada tanggal 13 Agustus 2016. Setelah penulis resmi diterima, penulis memulai untuk membuat KAKP yang merupakan syarat pertama dari mata kuliah Kerja Praktik di Fasilkom UI. Dengan Dosen pembimbing penulis, Ibu Ave Adriana Pinem S. Kom., M. Kom., penulis telah melakukan iterasi dalam penyusunan KAKP sebanyak tiga kali. Pada KAKP pertama, penulis mengunggahnya pada tanggal 8 Juni 2016 dan KAKP revisi diunggah pada tanggal 9 Juni 2016. Masih terdapat revisi, sehingga KAKP perlu diunggah kembali pada tanggal 10 Juni 2016. Setelah KAKP penulis disetujui, penulis mencetak berkas KAKP dan meminta penyelia untuk menandatanganinya di hari pertama penulis memulai bekerja. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini, terdapat subbab-subbab yang berisi penjelasan mengenai profil tempat kerja praktik yang menjadi tempat penulis melaksanakan kerja praktik dan mengenai posisi penulis ditempatkan selama melaksanakan kerja praktik. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Tokopedia merupakan perusahaan <it>start-up</it> <it>e-commerce</it> yang bergerak di bidang <it>e-marketplace.</it> PT. Tokopedia didirikan oleh Bapak William Tanuwijaya sebagai <it>Founder/CEO</it> beserta Bapak Leontinus Alpha Edison sebagai <it>Co-</it> <it>Founder/COO</it> pada tanggal 17 Agustus 2009. PT. Tokopedia melayani serta menjembatani penggunanya untuk dapat menjual barang dagangannya sebagai <it>merchant</it> (<it>seller)</it> dan membeli barang – barang  dagangan dari  <it>merchant</it> (<it>seller)</it>  tersebut sebagai <it>buyer.</it> Selain membentuk <it>marketplace,</it> PT. Tokopedia menjawab semua kebutuhan penggunanya dengan memberikan kemudahan para penggunanya dalam membeli pulsa, token listrik, dan paket data. Kemudian, PT. Tokopedia juga 
+		</segment>
+		<pagenum> 2</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<segment>
+			melayani penjualan tiket kereta api untuk perjalanan ke luar kota melalui kerjasama dengan PT. KAI. Pada PT. Tokopedia terdapat tiga <it>function</it> yang mengoperasikan seluruh proses bisnis. <it>Function</it> pertama adalah <it>business</it> <it>function</it> yang mengatur seluruh operasional keuangan, <it>partnership,</it> dan keberlangsungan bisnis di PT. Tokopedia. <it>Function</it> kedua adalah <it>product</it> <it>function</it> yang berhubungan langsung dengan proses <it>engineering</it> dan <it>product</it> <it>development</it> dari PT. Tokopedia seperti proses <it>software</it> <it>engineering,</it> <it>quality</it> <it>assurance,</it> <it>database</it> <it>engineering,</it> dan sebagainya. <it>Function</it> ketiga merupakan <it>people</it> <it>function</it> yang memiliki fokus pada kestabilan lingkungan sumber daya manusia baik di dalam lingkungan organisasi maupun di luar lingkungan organisasi. <it>Function</it> ini lebih mengarah kepada memberikan solusi untuk setiap individu yang berada di dalam organisasi (pegawai) dan juga setiap individu yang berada di luar organisasi (pengguna). 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			PT. Tokopedia menempatkan penulis di posisi <it>Content</it> <it>Strategist</it> <it>Intern</it> ketika melaksanakan kerja praktik. Sesuai dengan <it>function</it> di PT. Tokopedia, posisi <it>Content</it> <it>Strategist</it> berada pada <it>business</it> <it>function</it> di bawah departemen <it>Content.</it> Departemen <it>Content</it> memiliki fungsi utama sebagai penjembatan antara <it>business</it> <it>function</it> dengan <it>product</it> <it>function</it> untuk dapat men-<it>deliver</it> produk yang sesuai dengan kebutuhan penggunanya. Sesuai dengan fungsinya, penulis lebih banyak bekerja <it>mobile,</it> dimana kegiatan dalam bekerja selalu berpindah ruangan dan departemen sesuai dengan kebutuhan pekerjaan. Untuk dapat meliihat lebih jelas posisi penulis di dalam struktur organisasi PT. Tokopedia dapat dilihat pada gambar 1. 
+		</segment>
+		<pagenum> 3</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<title>KOMISARIS</title>
+		<title>UTAMA</title>
+		<title>KOMISARIS</title>
+		<title>KOMISARIS</title>
+		<title>KOMISARIS</title>
+		<title>KOMISARIS</title>
+		<title>I</title>
+		<title>II</title>
+		<title>III</title>
+		<title>IV</title>
+		<title>DIREKTUR</title>
+		<title>UTAMA (CEO)</title>
+		<title>DIREKTUR I</title>
+		<title>DIREKTUR II</title>
+		<title>(COO)</title>
+		<title>(COO)</title>
+		<title>DIREKTUR</title>
+		<title>III (COO)</title>
+		<title>DIREKTUR</title>
+		<title>IV (COO)</title>
+		<title><it><bo>BUSINESS</bo></it> <it><bo>FUNCTION</bo></it></title>
+		<title><it>PEOPLE</it></title>
+		<title><it>FUNCTION</it></title>
+		<title><it>DESIGN</it></title>
+		<title><it>LEGAL</it></title>
+		<title><it>MARKETING</it></title>
+		<title><it>BUSINESS</it></title>
+		<title><it>DEVELOPMENT</it></title>
+		<title><it>FINANCE</it></title>
+		<title><it><bo>CONTENT</bo></it></title>
+		<title><it>HRD</it></title>
+		<title>CUSTOMER</title>
+		<title>SERVICE</title>
+		<segment>
+			Gambar 1. Struktur Organisasi PT. Tokopedia Sumber: HRD PT. Tokopedia 
+		</segment>
+		<title> <it>PRODUCT</it> <it>FUNCTION</it> <it>QUALITY</it> <it>CONTROL</it></title>
+		<title><it>IT</it></title>
+		<pagenum> 4</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<title><bo>BAB</bo> <bo>II</bo></title>
+		<title><bo>ISI</bo></title>
+		<segment>
+			Bagian ini berisi dua buah subbab yang menjelaskan hal-hal yang terkait dengan pekerjaan yang telah dilakukan oleh penulis selama melaksanakan kerja praktik di PT. Tokopedia serta hal-hal yang relevan dengan perkuliahan di Fasilkom UI. 
+		</segment>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada subbab ini, terdapat beberapa subbab yang menjelaskan secara mendalam mengenai seluruh hal yang terkait dengan pekerjaan yang penulis kerjakan selama melaksanakan kerja praktik serta hasil pekerjaan yang dihasilkan. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Tokopedia merupakan suatu <it>website</it> <it>e-marketplace</it> yang dapat mempertemukan <it>seller</it> dan <it>buyer</it> untuk melakukan transaksi jual-beli <it>online.</it> Di dalam <it>website</it> Tokopedia, terdapat konten –  konten  yang  dapat  membantu  pengguna  dalam  memenuhi kebutuhannya. Terdapat tiga konten utama di Tokopedia, diantaranya adalah konten <it>marketplace,</it> konten pulsa, dan konten tiket kereta. Sebagai <it>Content</it> <it>Strategist,</it> pekerjaan utama penulis adalah memastikan bahwa ketiga konten yang ada di Tokopedia mampu untuk mendukung keberlangsungan bisnis di PT. Tokopedia serta mampu untuk memenuhi kebutuhan pengguna. Untuk dapat terus melanjutkan keberlangsungan bisnis seiring dengan banyaknya permintaan dan masukkan dari pengguna, perlu ada pembaharuan dan inovasi pada ketiga konten tersebut agar para pengguna setia Tokopedia dapat merasakan kenyamanan dan kepuasan setiap mengakses ketiga konten tersebut. Untuk itu, setiap pembaharuannya, ketiga konten Tokopedia selalu mengadakan promo dan <it>campaign</it> rutin, penambahan, maupun perbaikan fitur di setiap konten. Tujuan setiap promo dan <it>campaign</it> adalah untuk meningkatkan <it>brand</it> <it>awareness</it> dan juga <it>customer</it> <it>loyalty.</it> Dengan adanya <it>brand</it> <it>awareness</it> dan <it>customer</it> <it>loyalty</it> dapat membuat Tokopedia menjadi satu – satunya <it>e-commerce</it> di Indonesia yang  
+		</segment>
+		<pagenum> 5</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<segment>
+			paling diminati oleh para penggunanya[3][4]. Dengan adanya <it>update</it> untuk setiap promo dan <it>campaign</it> konten, maka dapat mempengaruhi aspek kognitif pengguna untuk terus membuka <it>website</it> Tokopedia agar dapat mengetahui promo dan <it>campaign</it> apa yang sedang berjalan[4]. Media untuk menjalankan promo dan <it>campaign</it> dari setiap konten disebarkan dalam bentuk <it>digital</it> <it>banner,</it> <it>physical</it> <it>banner,</it> <it>social</it> <it>media</it> <it>buzzer,</it> blog, iklan di radio, dan iklan di televisi. Hal tersebut dilakukan untuk dapat menarik perhatian para pengguna agar terus membuka <it>website</it> Tokopedia dan tertarik terhadap promo dan <it>campaign</it> yang ditawarkan. Pembaharuan dan inovasi ketiga konten dapat dilakukan dengan mengembangkan fitur baru untuk setiap konten. Pengembangan fitur baru dilakukan agar dapat memenuhi setiap kebutuhan dan permintaan dari pengguna terkait fungsi dari setiap konten. Permintaan dan kebutuhan pengguna biasanya diperoleh dari komentar –  komentar pengguna di setiap <it>posting</it> media sosial ataupun blog Tokopedia. Setiap permintaan yang ada akan disaring dan dipertimbangkan untuk dibangunnya fitur baru sesuai dengan keadaan dan kesiapan PT. Tokopedia dalam membangun fitur yang sesuai. Jika Tokopedia dirasa siap untuk menambahkan fitur baru, maka dalam pengembangannya dikategorikan sebagai pengerjaan proyek TI untuk fitur tersebut. Tujuan utama dalam pengembangan fitur baru adalah agar dapat memberikan <it>customer</it> <it>satisfaction</it> pada pengguna dan juga mampu memberikan fitur yang sesuai dengan kebutuhan pengguna[5][6]. 
+		</segment>
+		<pagenum> 6</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<segment>
+			Gambar 2. Konten <it>Marketplace</it> Tokopedia Sumber: https://www.tokopedia.com/. 26 Oktober 2016 22:55 Gambar 3. Konten Pulsa Tokopedia Sumber: https://pulsa.tokopedia.com/. 26 Oktober 2016 22:55 
+		</segment>
+		<pagenum> 7</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<segment>
+			Gambar 4. Konten Tiket Kereta Tokopedia  Sumber: https://tiket.tokopedia.com/kereta-api/. 26 Oktober 2016 22:58 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Dalam menjalankan sebuah pekerjaan, terutama di dalam sebuah organisasi dibutuhkan adanya sebuah <it>goal</it> atau tujuan di dalam pengerjaannya. Tujuan tersebut tentunya harus diselaraskan dengan tujuan utama organisasi. Terkait dengan studi kasus pada <it>scope</it> kerja praktik penulis, pembahasan utama dititikberatkan pada pencapaian tujuan sebuah pekerjaan, dimana pekerjaan –  pekerjaan tersebut terkait dengan bidang <it>Content</it> <it>Strategist.</it> Spesifik pekerjaan yang diambil diantaranya pada promo dan <it>campaign,</it> serta pengembangan fitur baru. Dengan membahas setiap aspek dari berbagai teori yang ada, maka dapat diperoleh berbagai macam informasi dan pengetahuan baru yang dapat bermanfaat untuk peninjauan terhadap hal –  hal  yang  terkait  dengan  <it>Content</it>  <it>Strategist</it>  dan  pekerjaan utamanya. <bo>2.1.2.1.</bo> <it><bo>Content</bo></it> <it><bo>Strategist</bo></it> <it>Content</it> <it>Strategist</it> merupakan suatu posisi pekerjaan dimana memiliki peran untuk berfokus pada <it>core</it> <it>business</it> <it>goal,</it> yaitu memperoleh dan meningkatkan <it>revenue[7].</it> Dalam penerapannya, seorang <it>Content</it> <it>Strategist</it> harus mampu untuk dapat menerapkan proses – proses yang terkait dengan pekerjaan dan  keahliannya. Proses – proses tersebut dapat masuk di dalam kategori <it>content</it>  <it>lifecycle,</it> diantaranya[7]: (1) <it>Proses</it> <it>pre-production</it> mencakup proses 
+		</segment>
+		<pagenum> 8</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<segment>
+			<it>research</it> (<it>user</it> <it>analysis/kebutuhan</it> pengguna; <it>content</it> <it>inventory/audit;</it> <it>content</it> <it>gap</it> <it>analysis;</it> <it>competitor</it> <it>analysis;</it> <it>search</it> <it>engine</it> <it>optimization</it> <it>research;</it> <it>content</it> <it>aggregation/data</it> <it>sourcing),</it> <it>editorial</it> <it>strategy</it> (<it>guidelines;</it> ide/ pengembangan konsep; <it>development</it> <it>of</it> <it>themes;</it> <it>establish</it> <it>workflow;</it> <it>content</it> <it>plan),</it> dan <it>management</it> (<it>information</it> <it>architecture:</it> membuat <it>metadata</it> <it>framework,</it> mengimplementasi taksonomi dan <it>classification</it> <it>scheme,</it> mengembangkan <it>site</it> <it>structure;</it> <it>content</it> <it>management</it> <it>tools</it> <it>and</it> <it>practice;</it> <it>content</it> <it>migration;</it> <it>content</it> <it>conversion;</it> <it>analytics</it> <it>configuration;</it> <it>establish</it> <it>content</it> <it>backup/</it> <it>versioning/</it> <it>archival</it> <it>practices).</it> (2) Proses <it>production</it> mencakup proses <it>content</it> <it>creation</it> (<it>copywriting;</it> <it>asset</it> <it>production;</it> <it>tagging</it> <it>classifying),</it> <it>content</it> <it>optimization</it> (<it>search</it> <it>engine</it> <it>optimization;</it> <it>accessibility</it> <it>optimization;</it> <it>proofreading/</it> <it>editing/</it> <it>fact</it> <it>checking),</it> dan <it>content</it> <it>delivery</it> (<it>encoding;</it> <it>distribution</it> <it>process</it> <it>and</it> <it>tools).</it> (3) Proses <it>post-</it> <it>production</it> mencakup proses <it>promotion</it> (<it>monitoring/reacting;</it> <it>social</it> <it>media</it> <it>submission/</it> PR/ <it>marketing/</it> <it>syndication)</it> dan <it>evaluation</it> (<it>analytics</it> <it>analysis;</it> <it>success</it> <it>evaluation</it> <it>and</it> <it>learning).</it> Dari seluruh proses – proses yang ada, dibutuhkan keahlian – keahlian khusus  dalam posisi <it>Content</it> <it>Strategist.</it> Secara teknis, <it>Content</it> <it>Strategist</it> mengerjakan beberapa pekerjaan yang membutuhkan keahlian dalam analisa, <it>strategic</it> <it>planning</it> dan desain, manajemen proyek, komunikasi, <it>technical</it> <it>integration,</it> <it>user</it> <it>experience,</it> dan <it>content</it> <it>marketing[8].</it> Seluruh keahlian tersebut dapat digunakan untuk membantu dalam pengambilan keputusan dan penyelesaian suatu masalah. Dengan menjalankan serangkaian proses dan memiliki keahlian – keahlian tersebut,  maka tujuan utama seorang  <it>Content</it>  <it>Strategist</it> di dalam pekerjaannya dapat dicapai dengan baik. Dari serangkaian proses dan keahlian yang dibutuhkan, perlu dilihat keterkaitan dari beberapa pekerjaan dengan tugas seorang <it>Content</it> <it>Strategist</it> di sebuah organisasi <it>e-commerce.</it> Pekerjaan –  pekerjaan  tersebut  adalah  promo dan <it>campaign</it> konten dan pengembangan suatu fitur baru pada <it>website</it> <it>e-commerce.</it> Hal – hal yang perlu dilihat adalah apakah pekerjaan - pekerjaan  
+		</segment>
+		<pagenum> 9</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<segment>
+			tersebut membutuhkan seluruh keahlian yang dibutuhkan oleh seorang <it>Content</it> <it>Strategist</it> yang telah disebutkan sebelumnya atau tidak. Selain itu, perlu dtinjau apakah serangkaian proses yang terlibat dalam pekerjaan –  pekerjaan tersebut masuk ke dalam proses dalam <it>content</it> <it>lifecycle.</it> Dengan melihat keterkaitan –  keterkaitan  yang  ada,  maka  dari  teori  –  teori  yang  ditinjau terhadap pekerjaan <it>Content</it> <it>Strategist</it> dapat mengkategorikan bahwa promo dan <it>campaign</it> konten serta pengembangan suatu fitur baru merupakan pekerjaan utama dari seorang <it>Content</it> <it>Strategist.</it> <bo>2.1.2.2.</bo> <bo>Promo</bo> <bo>dan</bo> <it><bo>Campaign</bo></it> <bo>Konten</bo> Promo dan <it>campaign</it> merupakan bagian dari ilmu <it>marketing[9].</it> Pada fungsionalitasnya, terdapat <it>campaign</it> <it>management</it> dan <it>event-based</it> <it>marketing</it> yang merupakan bagian dari <it>marketing</it> <it>automation</it> di dalam <it>customer</it> <it>relationship</it> <it>management[9].</it> Fungsi dari <it>campaign</it> <it>management</it> adalah melakukan proses perencanaan, komunikasi, dan pentargetan dari <it>communication</it> <it>program</it> ke beberapa prospek yang telah ditargetkan[9]. Terkait dengan prospek, prospek yang dimaksud merupakan jumlah pelanggan atau pengguna dari suatu produk maupun layanan dari sebuah organisasi. Pentargetan dilakukan melalui analisa data dari setiap pelanggan dan menganalisa perilaku dari pelanggan melalui <it>data</it> <it>mining.</it> Setelah seluruh hasil analisa terkumpul, maka setiap target akan ditawarkan berbagai macam promo yang dapat meningkatkan <it>customer</it> <it>engagement</it> serta <it>customer</it> <it>loyalty.</it> Selain <it>campaign</it> <it>management,</it> <it>event-based</it> <it>marketing</it> merepresentasikan berbagai macam promo yang dilakukan oleh sebuah organisasi kepada pelanggannya dalam jangka waktu tertentu yang terkait pada suatu <it>event[9].</it> Dalam menyusun promo yang dibuat, maka perlu melakukan <it>web</it> <it>analytics</it> untuk melihat perilaku demografis pelanggan melalui sebuah <it>website</it> untuk mengukur ketertarikan pelanggan terhadap <it>event</it> tersebut[9]. Setelah itu, dilakukan <it>marketing</it> <it>analytics</it> untuk dapat menentukan jenis promo apa yang sesuai dengan <it>event</it> tersebut agar promo tersebut mencapai targetnya. Setelah 
+		</segment>
+		<pagenum> 10</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<segment>
+			itu, kegiatan yang harus dilakukan adalah <it>marketing</it> <it>optimization</it> dan <it>marketing</it> <it>performance,</it> dimana promo yang telah dibuat sebelumnya dituangkan ke berbagai media untuk dapat membuat promo tersebut diketahui dan menarik para pelanggan. Dari serangkaian proses <it>marketing</it> yang telah dijelaskan di atas, hal yang terkait dengan konten pada sebuah <it>website</it> merupakan bagaimana proses <it>marketing</it> dapat dilakukan untuk dapat membangun <it>customer</it> <it>engagement</it> dan <it>customer</it> <it>loyalty</it> yang diperoleh dari pemasaran konten sebuah <it>website.</it> Pemasaran dapat dilakukan dengan proses <it>marketing</it> yang telah dijelaskan sebelumnya, agar konten <it>website</it> tersebut terus menerus ramai dikunjungi oleh pelanggan atau penggunanya. Ketika website tersebut ramai akan pengunjung, maka <it>customer</it> <it>engagement</it> dan <it>customer</it> <it>loyalty</it> dapat terbentuk. Ketika suatu organisasi mampu membangun <it>customer</it> <it>engagement</it> dan <it>customer</it> <it>loyalty</it> dengan pengunjungnya, maka organisasi tersebut akan memperoleh, maupun meningkatkan <it>revenue-nya[9].</it> Ketika <it>revenue</it> telah diperoleh dan ditingkatkan, maka <it>goal</it> atau tujuan dari pekerjaan seorang <it>Content</it> <it>Strategist</it> mampu dicapai, sehingga promo dan <it>campaign</it> konten dapat masuk ke dalam pekerjaan yang terkait dengan seorang <it>Content</it> <it>Strategist.</it> Selain ditinjau dari tujuannya, terdapat beberapa proses yang sebetulnya mirip dengan proses <it>content</it> <it>lifecycle.</it> Proses <it>pre-production</it> pada <it>content</it> <it>lifecycle</it> memiliki serangkaian proses yang sama dengan proses analisa pada <it>data</it> <it>mining,</it> <it>web</it> <it>analytics</it> dan <it>marketing</it> <it>analytics.</it> Kemudian pada proses <it>production</it> dan <it>post-production</it> memiliki proses yang mirip dengan <it>marketing</it> <it>performance</it> dan <it>marketing</it> <it>optimization.</it> Dengan proses yang sama, maka keahlian yang dibutuhkan dalam melakukan promo dan <it>campaign</it> konten sama dengan keahlian yang dibutuhkan oleh seorang <it>Content</it> <it>Strategist.</it> Dengan demikian, promo dan <it>campaign</it> konten dapat dikategorikan sebagai pekerjaan seorang <it>Content</it> <it>Strategist.</it> 
+		</segment>
+		<pagenum> 11</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<segment>
+			<bo>2.1.2.3.</bo> <bo>Pengembangan</bo> <bo>Fitur</bo> <bo>Baru</bo> <bo>dari</bo> <bo>Sebuah</bo> <it><bo>Website</bo></it> <it><bo>E-Commerce</bo></it> Suatu fitur pada <it>website</it> perlu untuk dikembangkan agar dapat selalu memenuhi kebutuhan penggunanya kapanpun. Tahap –  tahap  dalam  pengembangan suatu sistem informasi meliputi <it>requirement</it> <it>gathering,</it> <it>planning,</it> <it>modelling,</it> <it>construction</it> (<it>coding),</it> dan <it>deployment[10].</it> Setiap tahap mewakili tujuan masing – masing agar mampu memberikan suatu sistem yang  <it>deliverable</it> dan dapat digunakan dengan baik oleh para penggunanya. Tahap <it>requirement</it> <it>gathering</it> bertujuan untuk mengetahui apa saja kebutuhan penggunanya, dengan melakukan proses wawancara, analisa data, maupun observasi[10]. Pengumpulan informasi yang dilakukan dapat membantu para pengembang untuk dapat mengetahui sistem seperti apa yang harus dikembangkan secara keseluruhan. Dari seluruh informasi yang diperoleh, diharapkan sistem yang akan dikembangkan dapat digunakan dengan baik sesuai dengan kebutuhan pengguna. Setelah <it>requirement</it> <it>gathering,</it> maka proses selanjutnya adalah proses <it>planning</it> yang merupakan gambaran secara keseluruhan pengerjaan sistem tersebut melalui laporan <it>project</it> <it>plan[10].</it> Hal tersebut dapat berguna untuk melihat rencana pengembangan secara holistik dan jelas, sehingga pengguna dapat menentukan apakah rencana pembangunan sistem yang akan dilaksanakan telah sesuai dengan kebutuhannya. Pada <it>project</it> <it>plan</it> tersusun serangkaian rencana dalam pengerjaan proyek TI, teknik yang digunakan, serta model proses pengembangan sistem informasi[10]. Model proses yang ditampilkan secara grafis dapat membantu pengguna untuk membaca interaksi sistem dengan pengguna. Selain itu, pada penerapan teknik pengembangan disarankan untuk menggunakan teknik <it>agile</it> dengan menyusun serangkaian kebutuhan pengguna sebagai sebuah skenario untuk dapat membantu mengarahkan para pengembang sistem dalam pengerjaan proyek dan pengerjaan iterasi[10]. Selain memudahkan pengembang sistem, hal tersebut dapat juga membantu pengguna untuk dapat merasakan serta membayangkan apa yang terjadi ketika sistem tersebut digunakan oleh pengguna, sehingga jika pengguna merasa skenario yang disusun belum 
+		</segment>
+		<pagenum> 12</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<segment>
+			sesuai, maka dapat dilakukannya iterasi untuk menyesuaikan skenario dengan kebutuhan pengguna. Setelah pemodelan dilakukan, maka tahap berikutnya merupakan tahap <it>construction</it> dimana sistem mulai dibangun dengan cara <it>coding,</it> dan jika proses <it>coding</it> telah selesai maka sistem perlu diuji dalam proses <it>testing[10].</it> Pengguna perlu dilibatkan agat dapat langsung mengetes sistem, apakah seluruh kebutuhannya telah tercakup di dalam sistem atau tidak. Ketika sistem belum mencakup seluruh kebutuhan pengguna, maka iterasi dapat dilakukan oleh pengembang agar tujuan dari sebuah pengembangan sistem dapat tercapai. Ketika sistem telah mencakup seluruh kebutuhan pengguna, maka tahap selanjutnya dapat dilakukan, yaitu tahap <it>deployment.</it> Secara garis besar, tahap <it>deployment</it> merupakan tahap dimana sistem telah siap untuk diserahkan kepada pengguna dengan beberapa jaminan <it>maintenance,</it> manual, serta instalasi dari pihak pengembang[10]. Hal tersebut diperlukan agar sistem yang telah dibangun tidak menjadi sia –  sia  dan  mampu  untuk  digunakan dengan baik oleh para pengguna. Telah dibahas sebelumnya bahwa dalam proses pengembangan fitur memerlukan ilmu manajemen proyek TI. Kategori keberhasilan sebuah proyek TI dapat dinilai ketika proyek tersebut selesai tepat waktu, biaya yang dikeluarkan sesuai dengan perhitungan, serta cakupan proyek mampu terpenuhi[11]. Ketiga aspek tersebut memerlukan analisa yang baik agar dapat meminimalkan kegagalan dalam sebuah proyek TI. Di dalam pengerjaannya, khususnya pada <it>website</it> <it>e-commerce</it> seluruh aspek dilihat berdasarkan penggunanya. Ketika kepuasan dan kenyamanan pengguna mampu diperoleh dari sebuah <it>website</it> <it>e-commerce,</it> maka <it>website</it> tersebut dapat memiliki potensi untuk memiliki banyak pengunjung. Jika pengunjung semakin banyak, semakin banyak pula <it>revenue</it> yang diperoleh organisasi. Dengan demikian, selain ketiga aspek dari keberhasilan proyek TI, maka kepuasan dan kenyamanan pengguna perlu dijadikan tolak ukur dalam keberhasilan proyek TI, khususnya dalam pengembangan sistem informasi. 
+		</segment>
+		<pagenum> 13</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<segment>
+			Telah dijelaskan setiap proses dalam pengembangan sistem informasi, dimana fitur merupakan salah satu bagiannya. Ketika pengembangan suatu fitur sedang dijalankan, serangkaian proses yang terlibat dapat dikaitkan dengan <it>content</it> <it>lifecycle.</it> Tahap <it>requirement</it> <it>gathering</it> dan <it>planning</it> di dalam pengembangan sistem informasi memiliki proses yang sama dengan proses <it>pre-production.</it> Selain itu, proses analisa dalam penentuan keberhasilan proyek TI juga memiliki proses yang sama dengan proses <it>pre-</it> <it>production</it> pada <it>content</it> <it>lifecycle.</it> Selain itu, tahap <it>modelling</it> dan proses testing pada tahap <it>construction</it> sama dengan proses <it>production.</it> Kemudian tahap <it>deployment</it> memiliki proses yang sama dengan proses <it>post-production.</it> Meskipun proses <it>coding</it> pada tahap <it>construction</it> tidak merepresentasikan <it>content</it> <it>lifecycle,</it> sebagian besar proses pengembangan sistem informasi memiliki proses yang sama dengan <it>content</it> <it>lifecycle.</it> Dari penjelasan tersebut, dapat dikatakan di dalam proses pengembangan sebuah sistem informasi dibutuhkan seorang <it>Content</it> <it>Strategist</it> untuk dapat membantu keberhasilan pengembangan sistem informasi. Selain serangkaian proses yang terkait, peran <it>Content</it> <it>Strategist</it> terlibat dalam pencapaian tujuan dari kedua proses, yaitu proses pengembangan sistem informasi dan proses analisa aspek keberhasilan proyek TI. Kedua proses tersebut mampu memberikan dan meningkatkan <it>revenue</it> kepada organisasi, sehingga tujuan pekerjaan dari <it>Content</it> <it>Strategist</it> mampu terpenuhi. Selain dari tujuan dan proses, keahlian yang dibutuhkan dalam pengembangan proyek TI dapat dikelompokkan menjadi: (1) komunikasi dan analisa yang baik untuk melakukan <it>requirement</it> <it>gathering;</it> (2) manajemen proyek, <it>strategic</it> <it>planning,</it> <it>technical</it> <it>integration,</it> desain, dan <it>user</it> <it>experience</it> yang baik untuk dapat menyusun <it>project</it> <it>plan</it> dan melakukan proses <it>modelling</it> serta <it>construction.</it> Seluruh keahlian tersebut masuk ke dalam keahlian yang dibutuhkan oleh seorang <it>Content</it> <it>Strategist.</it> Dengan demikian, pengembangan fitur merupakan bagian dari pekerjaan seorang <it>Content</it> <it>Strategist.</it> 
+		</segment>
+		<pagenum> 14</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Pada penerapannya, di PT. Tokopedia menjadikan promo dan <it>campaign</it> konten serta pengembangan fitur baru sebagai pekerjaan utama seorang <it>Content</it> <it>Strategist.</it> Teknik yang dilakukan dalam kedua pekerjaan tersebut mengadaptasi teknik <it>scrum.</it> Teknik tersebut membuat semua pihak yang terlibat dalam pekerjaan untuk melakukan <it>daily</it> <it>meeting</it> untuk melaporkan sudah sejauh mana pekerjaan yang dilakukan agar produk yang dihasilkan mampu memenuhi kriteria yang dibutuhkan oleh pengguna[12]. Pada promo dan <it>campaign</it> konten, dilakukan <it>user</it> <it>analysis</it> untuk dapat menentukan apa yang sedang dibutuhkan oleh pengguna. Setelah menentukan kebutuhan pengguna, maka dilakukan <it>brainstorming</it> antar <it>Content</it> <it>Strategist</it> dan <it>Content</it> <it>Specialist</it> untuk menganalisa dan menentukan jenis bentuk promo, konten apa yang dikenakan promo, <it>fraud</it> apa yang akan terjadi, siapa saja target pengguna, dan dalam bentuk apa <it>marketing</it> dilakukan. Setelah dilakukan <it>brainstorming,</it> maka selanjutnya pihak <it>Content</it> meng-<it>assign</it> siapa saja yang terlibat dalam melakukan promo dan <it>campaign</it> dalam bentuk PRD. PRD dibutuhkan oleh semua pihak yang di-<it>assign,</it> untuk dapat menjalankan promo dan <it>campaign.</it> Pihak –  pihak  yang  selalu  terlibat  dengan  <it>Content</it>  <it>Strategist</it>  diantaranya adalah <it>Graphic</it> <it>Designer,</it> <it>Product</it> <it>Owner,</it> UI/UX <it>Designer,</it> <it>Developer,</it> <it>Quality</it> <it>Assurance,</it> <it>Copywriter,</it> <it>Social</it> <it>Media</it> <it>Specialist,</it> <it>Internet</it> <it>Marketing,</it> dan <it>Business</it> <it>Development.</it> Isi dari PRD berupa jenis promo, target pengguna, cakupan konten, serta interaksi kegiatan antara promo yang akan dijalankan dengan pengguna dalam bentuk skenario proses. Selain itu, pihak <it>Content</it> <it>Strategist</it> juga akan memberikan <it>constraint</it> agar dapar mencegah <it>fraud.</it> Selain <it>constraint,</it> terdapat juga syarat dan ketentuan untuk membatasi pengguna dalam melakukan kecurangan. PRD dapat mengalami perubahan jika salah satu pihak merasa skenario tidak memungkinkan untuk dijalankan. Setelah PRD telah ditetapkan dan tidak mengalami perubahan lagi, maka masing – masing pihak akan  memulai untuk mengerjakan tugasnya masing – masing.   Proses <it>brainstorming,</it> pembuatan PRD, hingga <it>deployment</it> akan selalu dilaporkan setiap harinya melalui <it>daily</it> <it>scrum</it> <it>meeting</it> untuk melaporkan sudah sejauh mana 
+		</segment>
+		<pagenum> 15</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<segment>
+			promo dan <it>campaign</it> konten dijalankan. Ketika <it>meeting</it> berlangsung, jika terdapat catatan tambahan dari beberapa pihak akan mempengaruhi perubahan proses pengerjaan agar dapat di-<it>deliver</it> lebih efektif dan efisien kepada pengguna. Hal tersebut juga mempengaruhi setiap pekerjaan pihak –  pihak  yang  terlibat  dalam  promo dan <it>campaign.</it> Untuk <it>Graphic</it> <it>Designer,</it> pekerjaan yang dikenakan berkenaan dengan pembuatan desain <it>digital</it> <it>banner</it> yang akan dipasang di halaman konten. Pihak <it>Product</it> <it>Owner</it> akan melakukan pemodelan terkait promo selama periode promo berlangsung sesuai dengan skenario PRD. Untuk UI/UX <it>Designer,</it> tugas yang dikenakan berkenaan dengan mendesain tampilan antarmuka ketika <it>digital</it> <it>banner</it> dipasang pada konten. Selain itu, pihak <it>Developer</it> akan melakukan <it>coding</it> dengan pemodelan yang telah dibuat oleh <it>Product</it> <it>Owner.</it> Dari pihak <it>Quality</it> <it>Assurance</it> bertugas untuk memastikan apakah produk telah layak <it>deploy</it> atau tidak. Setelah itu, promo di-<it>deploy</it> dan pihak <it>Copywriter,</it> <it>Social</it> <it>Media</it> <it>Specialist,</it> serta <it>Internet</it> <it>Marketing</it> akan mempromosikan promo yang sedang berlangsung melalui <it>channel</it> <it>–</it> <it>channel</it> resmi Tokopedia. Pihak  <it>Business</it>  <it>Development</it> bertugas menghubungi beberapa <it>partner</it> untuk dapat menjalankan promo terlihat lebih menarik di mata pengguna. Tugas <it>Content</it> <it>Strategist</it> dari serangkaian proses yang dijelaskan adalah memastikan seluruh rangkaian proses tersebut berjalan sesuai dengan PRD. Kemudian <it>Content</it> <it>Strategist</it> bertugas untuk membuat UTM yang berupa daftar <it>link</it> <it>address</it> untuk dapat mengakses promo di <it>landing</it> <it>site.</it> Selain itu, pihak <it>Content</it> <it>Strategist</it> juga memberikan masukan, tambahan, serta keputusan mengenai setiap langkah yang dilakukan oleh pihak –  pihak yang terlibat untuk memastikan promo yang akan dijalankan tepat sasaran. Setelah seluruh proses dipastikan memenuhi syarat dan standar, <it>Content</it> <it>Strategist</it> juga terlibat dalam melakukan UAT untuk menguji kelayakan promo yang akan dijalankan. Selain promo dan <it>campaign</it> konten, pengembangan fitur baru untuk setiap konten juga menjadi bagian tugas seorang <it>Content</it> <it>Strategist.</it> Pihak <it>Content</it> <it>Strategist,</it> <it>Content</it> <it>Specialist,</it> dan <it>Business</it> <it>Development</it> akan melakukan analisa <it>requirement</it> melalui perilaku demografis data pengguna serta menyortir setiap permintaan 
+		</segment>
+		<pagenum> 16</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<segment>
+			pengguna melalui <it>channel</it> <it>–</it> <it>channel</it> resmi Tokopedia. Setelah analisa <it>requirement</it>  dilakukan, maka tahap selanjutnya adalah melakukan <it>brainstorming</it> untuk menentukan fitur seperti apa yang cocok dengan <it>requirement</it> yang ada. Kemudian, jika fitur telah ditetapkan maka langkah selanjutnya adalah pihak <it>Content</it> <it>Strategist</it> menentukan cakupan, waktu untuk merilis fitur, dan <it>budget</it> <it>projection</it> terkait fitur yang akan dikembangkan. Setelah ditentukan ketiga elemen penting dalam proyek, maka langkah selanjutnya adalah menyusun interaksi fitur dengan penggunanya atau <it>user</it> <it>flow</it> dalam bentuk skenario. Skenario tersebut akan menjelaskan interaksi awal fitur dengan pengguna, hingga interaksi akhir fitur dengan pengguna. Untuk menetapkan seluruh elemen awal dalam perencanaan proyek, maka <it>scrum</it> <it>meeting</it> lebih intensif dilakukan. Ketika terdapat masukan serta perbaikan, maka perubahan elemen juga akan terjadi. Ketika sudah tidak ada perubahan, maka langkah selanjutnya adalah penyusunan <it>project</it> <it>plan</it> yang disertai dengan pembuatan <it>rough</it> <it>use</it> <it>case</it> diagram untuk diserahkan kepada <it>Product</it> <it>Owner.</it> Hal tersebut dikarenakan <it>use</it> <it>case</it> diagram final akan dikerjakan oleh pihak <it>Product</it> <it>Owner,</it> namun pihak <it>Product</it> <it>Owner</it> membutuhkan gambaran besar interaksi melalui <it>rough</it> <it>use</it> <it>case</it> diagram. Setelah <it>project</it> <it>plan</it> dibuat, maka selanjutnya adalah mempresentasikan proyek pengembangan fitur kepada <it>Board</it> <it>of</it> <it>Directors</it> untuk memperoleh keputusan apakah fitur yang akan dikembangkan layak untuk dikerjakan atau tidak. Jika dikatakan layak, maka pengembangan fitur akan berlanjut hingga tahap <it>deployment.</it> Jika dikatakan tidak layak, maka pengembangan fitur tidak akan dilanjutkan. Ketika <it>Board</it> <it>of</it> <it>Directors</it> menyatakan kelayakan proyek pengembangan fitur, maka proses selanjutnya yang dilakukan adalah pematangan fitur dengan melakukan <it>competitor</it> <it>analysis,</it> pembentukan <it>constraint,</it> memilih nama fitur, dan membuat dokumen hasil <it>meeting</it> dengan pihak <it>Board</it> <it>of</it> <it>Directors.</it> Setelah itu, <it>meeting</it> kembali dilakukan kepada pihak – pihak  yang terkait dalam  pengerjaan proyek, seperti <it>Business</it> <it>Development,</it> <it>Product</it> <it>Owner,</it> <it>Data</it> <it>Analyst,</it> <it>Developer,</it> dan <it>Quality</it> <it>Assurance.</it> Tugas <it>Content</it> <it>Strategist</it> menjelaskan detil fitur baru yang akan dibangun dan alur proses yang akan terjadi antara fitur dengan pengguna. Setelah <it>meeting</it> dijalankan, maka fitur akan dikembangkan sesuai tahap 
+		</segment>
+		<pagenum> 17</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<segment>
+			pengembangan sistem informasi yang terus diawasi oleh <it>Content</it> <it>Strategist</it> hingga proses <it>deployment.</it> Sebelum proses <it>deployment,</it> perlu diadakan UAT untuk menentukan apakah fitur baru tersebut sudah layak di-<it>deploy</it> atau belum. Jika proses UAT telah lolos, maka fitur telah siap untuk di-<it>deploy.</it> Jika proses UAT belum lolos, maka fitur masih perlu diperbaiki lagi dan masuk ke proses UAT 2 untuk memastikan apakan fitur sudah layak untuk di-<it>deploy.</it> 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo></title>
+		<segment>
+			Dalam pekerjaannya, penulis menggunakan beberapa teknologi yang dapat mendukung penulis melakukan pekerjaannya. Teknologi tersebut diantaranya adalah Google Drive, Google Docs, Google Slides, Google Sheets, Google Mail (Menggunakan <it>domain</it> Tokopedia), Slack, Sketch.io, dan beberapa akses <it>back-end</it> di setiap konten Tokopedia. Setiap teknologi memiliki fungsinya masing – masing  untuk dapat memaksimalkan pekerjaan penulis. Untuk dapat mengetahui setiap teknologi yang penulis sebutkan sebelumnya, maka penulis akan membahas masing – masing teknologi berikut dengan kegunaannya.   <bo>2.1.4.1.</bo> <bo>Google</bo> <bo>Drive,</bo> <bo>Google</bo> <bo>Docs,</bo> <bo>Google</bo> <bo>Slides,</bo> <bo>Google</bo> <bo>Sheets</bo> Google Drive merupakan sebuah <it>knowledge</it> <it>management</it> <it>application</it> dalam bentuk <it>cloud</it> yang membantu dalam <it>knowledge</it> <it>discovery,</it> <it>capturing,</it> dan <it>sharing</it> <it>system[13].</it> Setiap <it>knowledge</it> baik dalam bentuk dokumen, gambar, video, ataupun audio akan disimpan di dalam Google Drive untuk dapat membantu penggunanya dalam menggunakan <it>knowledge</it> tersebut jika dibutuhkan. Setiap <it>knowledge</it> juga dapat dibagikan kepada pihak –  pihak  yang berhak untuk memperoleh informasi tersebut untuk dapat melakukan kolaborasi agak pekerjaan yang dilakukan menjadi lebih baik. Di dalam Google Drive terdapat beberapa teknologi yang digunakan penulis untuk dapat membantu dalam <it>knowledge</it> <it>discovery</it> secara kolaboratif. Teknologi pertama adalah Google Docs, yang berfungsi untuk dapat membuat dokumen secara kolaboratif[14]. Teknologi kedua merupakan Google Slides, yang berfungsi untuk dapat membuat presentasi secara kolaboratif[15]. Teknologi ketiga merupakan Google Sheets, yang berfungsi untuk membuat analisa 
+		</segment>
+		<pagenum> 18</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<segment>
+			data secara kolaboratif[16]. Ketiga teknologi tersebut dapat disimpan di dalam Google Drive maupun diunduh dalam <it>format</it> doc, docx, PDF, dan <it>format</it> lainnya[14][15][16]. <bo>2.1.4.2.</bo> <bo>Google</bo> <bo>Mail</bo> Google Mail merupakan sebuah akses <it>single</it> <it>sign</it> <it>on</it> dengan email Google (Gmail) yang dapat menghantarkan penggunanya dalam menggunakan produk Google lainnya tanpa perlu proses <it>login</it> ulang[17]. Pada dasarnya, fungsi utama Google Mail merupakan layanan <it>email</it> yang disediakan Google untuk membantu dalam menghubungi pihak – pihak baik di dalam  maupun luar organisasi[18]. Untuk PT. Tokopedia menggungakan jasa Google dalam membuat <it>email</it> resmi Tokopedia dengan <it>email</it> <it>domain</it> @tokopedia.com untuk setiap karyawan di PT. Tokopedia. <it>Email</it> digunakan oleh setiap karyawan untuk dapat menghubungu pihak –  pihak  di  luar  organisasi yang dapat membantu keberlangsungan proses bisnis di PT. Tokopedia. <bo>2.1.4.3.</bo> <bo>Slack</bo> Slack merupakan aplikasi <it>desktop</it> maupun <it>mobile</it> untuk menyediakan layanan <it>chat</it> serta <it>file</it> <it>sharing[19].</it> Slack digunakan oleh PT. Tokopedia untuk dapat berkomunikasi dengan sesama karyawan melalui <it>chat</it> pribadi maupun <it>chat</it> <it>group.</it> Karena PT. Tokopedia terdiri dari lima lantai dan terdapat divisi yang berada di gedung yang berbeda, maka Slack dapat membantu untuk membuat komunikasi sesama karyawan menjadi lebih efektif dan efisien. <bo>2.1.4.4.</bo> <bo>Sketch.io</bo> Sketch.io merupakan aplikasi yang dapat membantu untuk menggambar diagram ataupun <it>mockup</it> yang dapat diunduh ke dalam beberapa format seperti PNG, JPEG, PDF, dan <it>format</it> lainnya[20]. Sketch.io digunakan penulis untuk membuat <it>rough</it> <it>use</it> <it>case</it> <it>diagram</it> dan beberapa <it>diagram</it> <it>flow</it> untuk menyusun <it>project</it> <it>plan,</it> PRD, serta laporan <it>scrum</it> <it>meeting.</it> 
+		</segment>
+		<pagenum> 19</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<segment>
+			<bo>2.1.4.5.</bo> <it><bo>Back-end</bo></it> <it>Back-end</it> merupakan sebuah akses terhadap layanan antarmuka yang mendukung layanan <it>front-end[21].</it> PT. Tokopedia menyediakan akses layanan <it>back-end</it> untuk ketiga kontennya kepada setiap karyawan yang berhak mendapatkan akses. Salah satu posisi yang memperoleh hak untuk mendapat akses <it>back-end</it> adalah <it>Content</it> <it>Strategist.</it> Pada <it>Content</it> <it>Strategist,</it> akses <it>back-end</it> digunakan untuk menyortir produk yang dijual di <it>marketplace,</it> mengedit tampilan antarmuka untuk setiap promo dan <it>campaign,</it> melakukan <it>copywriting,</it> serta melakukan pengecekan terhadap pekerjaan dari pihak –  pihak  yang  terkait  dalam  pengerjaan  promo  dan  <it>campaign,</it> maupun pengembangan fitur baru. Selain itu, terdapat akses <it>back-</it> <it>end</it> lain yang membutuhkan tenaga <it>Content</it> <it>Strategist</it> seperti <it>customer</it> <it>handling</it> yang sebetulnya dilakukan oleh pihak <it>Customer</it> <it>Service.</it> Jika keluhan yang dikeluhkan bersifat teknis terkait promo dan <it>campaign,</it> ataupun <it>jobdesc</it> lain dari <it>Content</it> <it>Strategist,</it> <it>Customer</it> <it>Service</it> membutuhkan tenaga tambahan dari <it>Content</it> <it>Strategist</it> dalam menangani keluhan tersebut. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<segment>
+			Selain pekerjaan teknis yang dikerjakan, terdapat beberapa aspek non teknis yang dilakukan oleh penulis untuk mendukung kegiatan teknis di dalam pekerjaan. Beberapa aspek non teknis yang dilakukan penulis dalam pekerjaan diantaranya adalah komunikasi, kedisiplinan, <it>teamwork,</it> pengambilan keputusan, dan <it>problem-</it> <it>solving.</it> Aspek –  aspek  non  teknis  tersebut  dapat  membantu  dan  mendukung  pekerjaan teknis menjadi lebih maksimal dan lebih baik. Dalam pekerjaan dibutuhkan komunikasi yang baik antar karyawan untuk dapat menunjang hasil dari pekerjaan tersebut. Komunikasi yang diadaptasi dalam pekerjaan dapat melalui Slack, <it>meeting,</it> <it>brainstorming,</it> maupun presentasi. Setiap kegiatan yang dilakukan diwajibkan untuk mengkomunikasikannya dengan pihak – pihak yang terlibat di dalam pekerjaan tersebut. Dengan adanya komunikasi yang  
+		</segment>
+		<pagenum> 20</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<segment>
+			baik, maka akan meminimalisir terjadinya kesalahan maupun kekurangan dalam suatu hasil pekerjaan. Selain komunikasi, kedisiplinan juga diperlukan di dalam lingkungan pekerjaan. Penulis harus tepat waktu datang ke kantor, tepat waktu pada saat menghadiri <it>meeting,</it> tepat waktu dalam menyelesaikan tugas, serta mentaati setiap aturan yang berlaku di dalam organisasi. Hal tersebut bertujuan agar penulis dapat memanfaatkan waktu yang ada untuk memaksimalkan apa yang telah dikerjakan. Selain itu, kedisiplinan berguna dalam menanamkan nilai etika dan moral untuk setiap karyawan agar menjadi pribadi yang baik. Selain mampu berkomunikasi di dalam lingkungan pekerjaan, setiap karyawan harus mampu untuk dapat bekerja di dalam sebuah tim. Untuk itu, <it>teamwork</it> diperlukan dalam bekerja. <it>Teamwork</it> berguna dalam menciptakan gagasan dan ide beragam yang kreatif dan bermanfaat untuk menghasilkan pekerjaan yang maksimal. Selain itu, <it>teamwork</it> juga dapat membuat setiap anggotanya saling memahami masing –  masing  anggota  tim  agar  mampu  menciptakan  lingkungan  pekerjaan yang kondusif. Hasil pekerjaan dari sebuah <it>teamwork</it> dapat membuat setiap anggotanya untuk mengambil keputusan dan menangani sebuah masalah dengan baik. Setiap masalah dan keadaan yang ada, dapat didiskusikan dan dicari solusi yang tepat dari masing –  masing  pendapat  anggota  tim,  sehingga  setiap  individu  di  dalam  tim  mampu  mengembangkan dirinya dalam <it>skill</it> <it>problem-solving</it> dan pengambilan keputusan. Kedua hal tersebut mampu untuk menghasilkan pekerjaan yang efektif dan efisien untuk mencapai tujuan pekerjaan. Dengan demikian, aspek non teknis sangat diperlukan dalam suatu lingkungan pekerjaan agar kegiatan teknis di dalam pekerjaan menghasilkan hasil pekerjaan yang baik. 
+		</segment>
+		<pagenum> 21</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<title><bo>2.1.6.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Hasil pekerjaan yang dilakukan penulis mencakup pekerjaan –  pekerjaan  teknis  maupun non teknis yang telah dijelaskan sebelumnya. Secara garis besar, hasil pekerjaan yang dilakukan penulis merupakan promo dan <it>campaign</it> yang telah berjalan di setiap konten Tokopedia, dan beberapa fitur baru yang telah di-<it>deploy</it> pada salah satu konten di Tokopedia. Setiap promo dan <it>campaign</it> yang telah dikerjakan penulis dan lolos tahap <it>Quality</it> <it>Assurance</it> dan UAT akan langsung di- <it>deliver</it> kepada pengguna agar pengguna langsung dapat merasakan promo dan <it>campaign</it> yang sedang dijalankan. Setiap promo yang berjalan pada konten di Tokopedia tentunya berbeda. Promo dan <it>campaign</it> yang melibatkan penulis dalam pengerjaannya diantaranya promo pada konten <it>marketplace,</it> Tokopedia memberikan ongkos kirim gratis di setiap pembelanjaan di atas dua ratus ribu rupiah pada <it>mobile</it> <it>app</it> Tokopedia. Untuk konten pulsa, Tokopedia bekerjasama dengan Book My Show Indonesia dengan diskon 90% tiket menonton film di bioskop untuk pembelian pulsa di Tokopedia. Untuk konten tiket kereta, Tokopedia melayani pembayaran untuk pembelian tiket kereta api di Tokopedia melalui 7 Eleven. Gambar 5. Promo dan <it>Campaign</it> Konten <it>Marketplace</it> yang Sudah Berjalan Sumber: https://blog.tokopedia.com/2016/08/promo-agustus-gratis-ongkir-tokopedia/. 28 Oktober 2016 17:21 
+		</segment>
+		<pagenum> 22</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<segment>
+			Gambar 6. Promo dan Campaign Konten Pulsa yang Sudah Berjalan Sumber: https://blog.tokopedia.com/2016/08/diskon-90-tiket-nonton-untuk-pembelian-pulsa-paket- data-dan-token-listrik-di-tokopedia/. 28 Oktober 2016 17:24 Gambar 7. Promo dan <it>Campaign</it> Konten Tiket Kereta yang Sudah Berjalan Sumber: https://blog.tokopedia.com/2016/06/bayar-tiket-kereta-di-7eleven/. 28 Oktober 2016 17:30 Dalam pengembangan fitur baru, penulis lebih banyak terlibat untuk konten pulsa, dikarenakan pulsa merupakan salah satu konten baru yang perlu memperoleh <it>awareness</it> dari para pengguna. Pada konten ini, proses antarmuka lebih menitikberatkan kepada proses transaksi, sehingga konten ini dinilai mampu untuk melayani kebutuhan pengguna di segmen yang lain. Beberapa fitur baru dari konten pulsa terdiri dari pelayanan pembayaran token atau tagihan listrik, pembayarann BPJS Kesehatan, pengisian saldo Tokopedia, dan beberapa fitur baru yang masih belum dapat di-<it>deploy.</it> Beberapa fitur baru yang akan diluncurkan diantaranya adalah pembayaran air dan pembelian <it>voucher</it> <it>game.</it> Sebenarnya terdapat salah satu fitur yang masih dalam tahap 
+		</segment>
+		<pagenum> 23</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<segment>
+			pengerjaan di konten <it>marketplace</it> oleh penulis, namun sesuai dengan perjanjian penulis dengan pihak PT. Tokopedia pada akta kesepakatan, maka penulis belum dapat menjelaskan secara detil fitur seperti apa yang penulis kerjakan hingga fitur tersebut siap <it>deploy.</it> Sebagai gambaran besar, penulis mengerjakan sebuah fitur di konten <it>marketplace</it> yang berkaitan erat dengan <it>customer</it> <it>loyalty</it> di Tokopedia <it>marketplace.</it>  Gambar 8. Fitur Baru Konten Pulsa: Token dan Pembayaran Listrik Sumber: https://pulsa.tokopedia.com/. 28 Oktober 2016 17:35 
+		</segment>
+		<pagenum> 24</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<segment>
+			 Gambar 9. Fitur Baru Konten Pulsa: Pembayaran BPJS Kesehatan Sumber: https://pulsa.tokopedia.com/. 28 Oktober 2016 17:37  Gambar 10. Fitur Baru Konten Pulsa: Pengisian Saldo Tokopedia Sumber: https://pulsa.tokopedia.com/. 28 Oktober 2016 17:40 
+		</segment>
+		<pagenum> 25</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="32">
+		<segment>
+			 Gambar 11. Fitur Baru Siap Rilis Konten Pulsa: Pembayaran Air Sumber: https://pulsa.tokopedia.com/. 28 Oktober 2016 17:43 Gambar 12. Fitur Baru Siap Rilis Konten Pulsa: Pembelian <it>Voucher</it> <it>Game</it> Sumber: https://pulsa.tokopedia.com/. 28 Oktober 2016 17:45 
+		</segment>
+		<pagenum> 26</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="33">
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Bagian ini berisi dua buah subbab yang menjelaskan mengenai analisis penulis terhadap kerangka acuan kerja praktik dengan pelaksanaan kerja praktik yang telah dilakukan. Bagian ini juga menjelaskan mengenai analisis penulis pada pelaksanaan kerja praktik yang telah dilakukan terhadap relevansi dengan perkuliahan di Fasilkom UI. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama penulis melakukan kerja praktik di PT. Tokopedia, terdapat beberapa ketidaksesuaian pada pelaksanaan kerja praktik jika dibandingkan dengan kerangka acuan kerja praktik (KAKP) yang telah direncanakan sebelumnya. Selain itu, terdapat perbedaan antara pelaksanaan kerja praktik dengan teori yang telah penulis sampaikan. Untuk itu, penulis akan melakukan pembahasan mengenai hal –  hal  yang membedakan pelaksanaan dengan rencana dan teori dalam kerja praktik sebagai posisi seorang <it>Content</it> <it>Strategist.</it> Pada KAKP, tertulis bahwa ruang lingkup dalam pekerjaan seorang <it>Content</it> <it>Strategist</it> hanya mencakup pada analisa dan promo dan <it>campaign</it> konten. Pada pelaksanaannya, cakupan pekerjaan seorang <it>Content</it> <it>Strategist</it> terbagi dua. Pertama, cakupan pekerjaan sesuai <it>jobdesc</it> dimana pekerjaan yang dikenakan terdiri dari analisa, promo dan <it>campaign</it> konten, pengembangan fitur baru, pengetahuan mengenai <it>process</it> <it>modelling,</it> pemodelan <it>user</it> <it>flow,</it> dan <it>user</it> <it>interface/user</it> <it>experience</it> (UI/UX), dan penghitungan <it>budget.</it> Kedua, cakupan pekerjaan <it>Content</it> <it>Strategist</it> tidak terbatas oleh <it>jobdesc.</it> Hal tersebut dikarenakan ketika seseorang resmi menjadi karyawan PT. Tokopedia baik karyawan tetap maupun magang, harus menerapkan DNA dan karakter perusahaan yang mengharuskan para karyawan untuk terus mengembangkan pengetahuannya dan tidak terpaku kepada <it>jobdesc.</it> Dengan menerapkan DNA dan karakter perusahaan, maka setiap karyawan diberi kesempatan untuk memperluas <it>skill</it> dan keterampilannya. 
+		</segment>
+		<pagenum> 27</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="34">
+		<segment>
+			Dengan cakupan kedua, penulis diberikan pengalaman oleh penyelia untuk mengerjakan beberapa <it>jobdesc</it> lain yang menambah pengetahuan dan pengalaman penulis. Setiap pekerjaan di luar <it>jobdesc</it> yang dikerjakan penulis masih berkaitan dengan <it>jobdesc</it> penulis. Dengan adanya pekerjaan di luar <it>jobdesc</it> terdapat pertimbangan –  pertimbangan  lain  yang  mempengaruhi  pengambilan  keputusan  dan hasil pekerjaan penulis. Selain itu, jadwal kegiatan pelaksanaan kerja praktik yang penulis tuliskan dalam log kerja praktik berbeda dengan rencana jadwal kerja praktik pada KAKP. Pada pelaksanaannya, terdapat beberapa proyek pengembangan fitur dan pekerjaan tambahan yang di-<it>assign</it> kepada penulis oleh penyelia, sehingga dibutuhkan waktu tambahan di dalam pelaksanaan kerja praktik yang tidak termasuk di dalam KAKP. Pada KAKP, penulis berencana untuk menyelesaikan kerja praktik pada tanggal 13 Agustus 2016, namun pada pelaksanaannya penulis harus menyelesaikan masa kerja praktik pada tanggal 19 Agustus 2016. Terkait dengan teori pada tinjauan pustaka, pelaksanaan kerja praktik memiliki perbedaan dengan teori. Untuk pelaksanaannya, suatu pekerjaan perlu dikerjakan dengan melihat dua aspek, yaitu aspek teknis dan non teknis. Hal tersebut berbeda dengan teori yang hanya berfokus pada kegiatan –  kegiatan  teknis  dalam  mengerjakan suatu pekerjaan. Dengan demikian, aspek yang ditekankan pada teori di dalam pekerjaan seorang <it>Content</it> <it>Strategist</it> hanya dari sisi teknis, berbeda dengan aspek yang ditekankan pada pelaksanaannya yang melihat dari sisi teknis dan non teknis. 
+		</segment>
+		<pagenum> 28</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="35">
+		<segment>
+			Gambar 13. Budaya PT. Tokopedia: DNA Sumber: https://www.tokopedia.com/careers. 28 Oktober 2016 17:48 Gambar 14. Budaya PT. Tokopedia: Karakter Sumber: https://www.tokopedia.com/careers28 Oktober 2016 17:48 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Pada setiap pekerjaan yang dikerjakan penulis dalam pelaksanaan kerja praktik, terdapat banyak keterkaitan dengan ilmu yang telah dipelajari di Fasilkom UI. Untuk promo dan <it>campaign</it> konten, analisa data yang dilakukan mengadopsi ilmu mata kuliah CRM (<it>Customer</it> <it>Relationship</it> <it>Management),</it> diantaranya adalah <it>marketing</it> <it>automation,</it> <it>planning,</it> dan implementasi <it>customer</it> <it>engagement.</it> Selain itu, beberapa ilmu pada mata kuliah RPL (Rekayasa Perangkat Lunak) juga diterapkan pada pekerjaan ini, diantaranya <it>requirement</it> <it>analysis,</it> menyusun <it>user</it> <it>scenario,</it> <it>insight</it> desain UI/UX, serta UAT. 
+		</segment>
+		<pagenum> 29</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="36">
+		<segment>
+			Untuk pekerjaan pengembangan fitur baru, terdapat beberapa ilmu yang dipelajari di Fasilkom UI yang terkait dengan pelaksanaannya. Pertama, setiap tahap pengembangan fitur yang dikerjakan sangat terkait dengan ilmu pengembangan sistem informasi pada RPL. Beberapa proses yang terkait diantaranya adalah <it>requirement</it> <it>gathering,</it> <it>modelling,</it> <it>testing,</it> dan <it>deployment.</it> Selain itu, penyusunan <it>project</it> <it>plan</it> dan analisa proyek terkait dengan ilmu manajemen proyek pada mata kuliah Manajemen Proyek TI. Pada kedua pekerjaan, secara keseluruhan berkaitan dengan ilmu pada mata kuliah RPL. Kedua pekerjaan baik promo dan <it>campaign</it> serta pengembangan proyek baru mengadaptasi metode atau teknik <it>scrum,</it> yang sebelumnya banyak dibahas pada perkuliahan RPL. Terdapat pula istilah – istilah yang digunakan pada setiap <it>daily</it>  <it>meeting</it> yang tidak asing dan telah terbiasa digunakan di setiap kegiatan perkuliahan, seperti <it>hashing,</it> <it>query,</it> <it>pseudocode,</it> <it>mockup,</it> SLA, dan istilah lainnya. 
+		</segment>
+		<pagenum> 30</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="37">
+		<title><bo>BAB</bo> <bo>III</bo> <bo>PENUTUP</bo></title>
+		<segment>
+			Bagian ini berisi kesimpulan serta saran dari penulis setelah melaksanakan kerja praktik di PT. Tokopedia. 
+		</segment>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			PT. Tokopedia merupakan sebuah tempat yang memberikan peluang yang banyak kepada setiap karyawannya. Setiap karyawan baik karyawan tetap maupun karyawan magang diberi kesempatan untuk mengeksplorasi pekerjaannya, menambah pengetahuan, menambah pengalaman, serta menambah peluang untuk dapat berkembang. Selain itu, lingkungan pekerjaan di PT. Tokopedia juga sangat mendukung setiap karyawannya untuk dapat saling bersosialisasi dan berkomunikasi. Dengan melaksanakan kerja praktik di Tokopedia, penulis memperoleh ilmu dan pengalaman baru, serta mampu mengeksplorasi kemampuan diri penulis. Selain itu, pelaksanaan kerja praktik di PT. Tokopedia memberikan pandangan baru bagi penulis terhadap dunia pekerjaan untuk menjadi pedoman selepas penulis menyelesaikan studi di Fasilkom UI. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Untuk pelaksanaan kerja praktik ke depan, penulis menyarankan agar <it>template</it> penyusunan laporan kerja praktik tersusun secara detil dan sesuai dengan urutan <it>heading</it> dari bagian lembaran pengesahan hingga lampiran. Hal tersebut dikarenakan dapat memudahkan mahasiswa dalam menuliskan laporannya sebagai satu sudut pandang, dan memiliki gambaran yang jelas mengenai apa yang harus dilakukan dan ditulis dari awal hingga akhir penulisan laporan. Dengan susunan <it>template</it> yang lengkap, maka akan dapat memotivasi mahasiswa untuk mengerjakan laporan kerja praktik lebih cepat dan lebih berkualitas. 
+		</segment>
+		<pagenum> 31</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="38">
+		<segment>
+			 [1] Destiny Priandari. Available [Online]: https://www.tokopedia.com/team/632. Diakses pada 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			tanggal 26 Oktober 2016 pukul 22:18. [2] Erwin Andreas. Available [Online]: https://www.tokopedi.a.com/team/70. Diakses pada tanggal 26 Oktober 2016 pukul 22:46  [3] Buttle, Francis. (2009). “<it>Planning</it> <it>and</it> <it>Implementation</it> <it>CRM”</it> dalam <it>Customer</it> <it>Relationship</it>  <it>Management:</it> <it>Concepts</it> <it>and</it> <it>Technologies</it> (2nd ed.). Elsevier Ltd.  [4] Turban, E. dan King, D. (2011). “<it>E-marketplace”</it> dalam <it>Introduction</it> <it>to</it> <it>E-Commerce</it> (3rd  ed). Pearson Education.  [5] Turban, E. dan King, D. (2011). “<it>EC</it> <it>Strategy”</it> dalam <it>Introduction</it> <it>to</it> <it>E-Commerce</it> (3rd ed).  Pearson Education.  [6] Pressman, Roger S. (2010). “<it>Introduction</it> <it>to</it> <it>Software</it> <it>Engineering”</it> dalam <it>Software</it>  <it>Engineering:</it> <it>A</it> <it>Practitioner’s</it> <it>Approach</it> (7th ed.). Mc. Graw Hill International, USA.    [7] Dan. (2010, Juni). <it>Content</it> <it>Strategists:</it> <it>What</it> <it>Do</it> <it>They</it> <it>Do?.</it> Available [Online]: http://contentini.com/content-strategists-what-do-they-do/. Diakses pada tanggal 26 Oktober 2016 pukul 23:39.  [8] Breker, Melissa. (2014, Mei). <it>4</it> <it>Tips</it> <it>for</it> <it>Hiring</it> <it>a</it> <it>Content</it> <it>Strategist</it> <it>with</it> <it>the</it> <it>Skills</it> <it>You</it> <it>Need.</it> Available [Online]: http://contentmarketinginstitute.com/2014/05/hiring-content-strategist- skills-needed/. Diakses pada tanggal 27 Oktober 2016 pukul 00:24.  [9] Buttle, Francis. (2009). “<it>SFA</it> <it>Marketing</it> <it>Service</it> <it>Automation”</it> dalam <it>Customer</it> <it>Relationship</it>  <it>Management:</it> <it>Concepts</it> <it>and</it> <it>Technologies</it> (2nd ed.). Elsevier Ltd.  [10] Pressman, Roger S. (2010). “<it>Generic</it> <it>Process</it> <it>Model”</it> dalam <it>Software</it> <it>Engineering:</it> <it>A</it>  <it>Practitioner’s</it> <it>Approach</it> (7th ed.). Mc. Graw Hill International, USA.    [11] Schwalbe, Kathy. (2010). “<it>Project</it> <it>Management</it> <it>Process”</it> dalam <it>Managing</it> <it>Information</it>  <it>Technology</it> <it>Project</it> (6th ed.). Boston, MA: Thomson Course Technology. [12] Pressman, Roger S. (2010). “<it>Agile</it> <it>Process</it> <it>Models”</it> dalam <it>Software</it> <it>Engineering:</it> <it>A</it>  <it>Practitioner’s</it> <it>Approach</it> (7th ed.). Mc. Graw Hill International, USA.    
+		</segment>
+		<pagenum> 32</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="39">
+		<segment>
+			[13] Meet drive. Available [Online]: https://www.google.com/drive/. Diakses pada tanggal 27 Oktober 2016 pukul 21:37. [14] Docs. Available [Online]: https://www.google.com/docs/about/. Diakses pada tanggal 27 Oktober 2016 pukul 21:45. [15] Slides. Available [Online]: https://www.google.com/slides/about/. Diakses pada tanggal 27 Oktober 2016 pukul 22:09. [16] Sheets. Available [Online]: https://www.google.com/sheets/about/. Diakses pada tanggal 27 Oktober 2016 pukul 22:23. [17] Google Accounts. Available [Online]: https://accounts.google.com/ServiceLogin. Diakses pada tanggal 28 Oktober 2016 pukul 16:24. [18] Gmail. Available [Online]: https://mail.google.com/mail/u/0/. Diakses pada tanggal 28 Oktober 2016 pukul 16:37. [19] Slack. Available [Online]: https://slack.com/is. Diakses pada tanggal 28 Oktober 2016 pukul 16:52. [20] Smith, Grace. (2014, Januari). <it>12</it> <it>Free</it> <it>Web</it> <it>Apps</it> <it>to</it> <it>Boost</it> <it>Your</it> <it>Drawing</it> <it>Skills.</it> Available [Online]: http://mashable.com/2014/01/01/drawing-apps-online/#sro12Zc8Gkqw. Diakses pada tanggal 28 Oktober 2016 pukul 17:02. [21] Rouse, Margaret. (2005, September). <it>What</it> <it>is</it> <it>back-end?.</it> Available [Online]: http://searchdatacenter.techtarget.com/definition/back-end. Diakses pada tanggal 28 Oktober 2016 pukul 17:19 
+		</segment>
+		<pagenum> 33</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="40">
+		<title><bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KERANGKA</bo> <bo>ACUAN</bo></title>
+		<title><bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			 vi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="41">
+		<title><bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			 vii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="42">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>1</bo></title>
+		<segment>
+			 viii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="43">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>2</bo></title>
+		<segment>
+			 ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="44">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>3</bo></title>
+		<segment>
+			 x 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="45">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>4</bo></title>
+		<segment>
+			 xi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="46">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>5</bo></title>
+		<segment>
+			 xii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="47">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>6</bo></title>
+		<segment>
+			 xiii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="48">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>7</bo></title>
+		<segment>
+			 xiv 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="49">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>8</bo></title>
+		<segment>
+			 xv 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="50">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>9</bo></title>
+		<segment>
+			 xvi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="51">
+		<title><bo>LOG</bo> <bo>MINGGU</bo> <bo>10</bo></title>
+		<segment>
+			 xvii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="52">
+		<title><bo>LAMPIRAN</bo> <bo>3:</bo> <bo>AKTA</bo> <bo>KESEPAKATAN</bo></title>
+		<segment>
+			 xviii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

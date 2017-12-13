@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title>UNIVERITAS INDONESIA</title>
+		<segment>
+			Front-End Developer – Transaction Satisfaction 
+		</segment>
+		<title>LAPORAN KERJA PRAKTIK</title>
+		<segment>
+			Rahadian Yusuf 1306415964 Fakultas Ilmu Komputer Program Studi Ilmu Komputer Depok Oktober 2016 
+		</segment>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title>HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK</title>
+		<segment>
+			Laporan ini diajukan oleh : Nama NPM Program Studi Judul Praktik : Rahadian Yusuf : 1306415964 : Ilmu Komputer : Front-End Developer – Transaction Satisfaction Telah berhasil diselesaikan laporan kerja praktik untuk fakultas dan dipre- sentasikan hasil kerja praktiknya dalam forum seminar kerja praktik sebagai persyaratan yang harus dipenuhi dalam mata kuliah Kerja Praktik. 
+		</segment>
+		<title>DOSEN MATA KULIAH KERJA PRAKTIK,</title>
+		<segment>
+			(Rahmad Mahendra) Ditetapkan di Tanggal : : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title>ABSTRAK</title>
+		<segment>
+			Kerja praktik merupakan salah satu mata kuliah wajib di Fasilkom UI. Pelaksana KP melaksanakan kerja praktik di PT Bukalapak dari tanggal 16 Juni – 26 Agus- tus 2016. Pelaksana KP ditempatkan di tim transaction satisfaction sebagai front- end developer, di mana pelaksana KP bertanggung jawab mengimplementasikan front-end terkait dengan tahap pasca pembayaran di Bukalapak. Pelaksana KP da- pat merasakan penerapan ilmu-ilmu yang telah dipelajari di Fasilkom UI, dan juga mendapatkan banyak ilmu baru saat melaksanakan kerja praktik di sana, baik hard skill maupun soft skill. Kata kunci: Bukalapak, front-end, Ruby on Rails 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<segment>
+			Daftar Isi 
+		</segment>
+		<title>HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAK-</title>
+		<title>TIK</title>
+		<title>ABSTRAK</title>
+		<segment>
+			Daftar Gambar 
+		</segment>
+		<title>1 PENDAHULUAN</title>
+		<segment>
+			1.1 Proses Pencarian Kerja Praktik . . 1.2 Tempat Kerja Praktik . . . . . . . Proﬁl Tempat Kerja Praktik . . . Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur . Organisasi . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+		</segment>
+		<title>1.2.1 1.2.2</title>
+		<segment>
+			. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+		</segment>
+		<pagenum>2</pagenum>
+		<segment>
+			ISI 2.1 Pekerjaan dalam Kerja Praktik . . . . . . 
+		</segment>
+		<title>2.1.1 Latar Belakang . . 2.1.2 Metodologi . . 2.1.3 Teknologi . . . 2.1.4 Non Teknis . . .</title>
+		<segment>
+			2.2 Analisis . . . . . . . Pelaksanaan Kerja Praktik . . . . . . . . . . . . . . 2.2.1 . 2.2.2 Relevansi dengan Perkuliahan di Fasilkom UI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 
+		</segment>
+		<pagenum>iii</pagenum>
+		<pagenum>i</pagenum>
+		<pagenum>ii</pagenum>
+		<pagenum>v</pagenum>
+		<segment>
+			1 1 3 3 
+		</segment>
+		<pagenum>3</pagenum>
+		<segment>
+			5 5 5 5 6 7 7 8 8 
+		</segment>
+		<title>3 PENUTUP</title>
+		<segment>
+			3.1 Kesimpulan . 3.2 Saran . . . . Daftar Pustaka . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10 . . 10 . . 10 
+		</segment>
+		<pagenum>11</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title>A KERANGKA ACUAN KERJA PRAKTIK</title>
+		<title>B LOG KERJA PRAKTIK</title>
+		<pagenum>iv</pagenum>
+		<pagenum>12</pagenum>
+		<pagenum>13</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Daftar Gambar 1.1 Struktur organisasi dalam Bukalapak . . . . . . . . . . . . . . . . . 
+		</segment>
+		<pagenum>4</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>1</pagenum>
+		<segment>
+			Bab 1 
+		</segment>
+		<title>PENDAHULUAN</title>
+		<segment>
+			1.1 Proses Pencarian Kerja Praktik Proses pencarian tempat KP dimulai dari sekitar bulan Mei 2016. Saya mengirimk- an aplikasi untuk lamaran magang di Tokopedia (sebagai software engineer, Ba- dr Interactive (web developer), Kudo, Kitabisa, dan Bukalapak (ketiganya sebagai front end developer). Dari perusahaan yang saya kirim tersebut, saya mendapatkan balasan dari Tokopedia untuk mengikuti tes software engineering berupa tes pem- rograman, tapi setelah saya email tim HRD-nya bahwa saya telah menyelesaikan tes tersebut, saya tidak mendapatkan balasan dari mereka. Saya kemudian kirim lamaran magang ke Kudo, namun tidak dibalas. Lamaran saya ke Badr Interacti- ve dibalas dengan penolakan secara halus. Sementara lamaran yang saya kirim ke Bukalapak ditolak oleh mail server-nya karena dianggap spam. Pada 30 Mei 2016, saya mencoba melamar magang ke Bukalapak lagi sebagai front end developer, dan setelah menghapus link-link yang ada di body email terse- but, akhirnya pihak HRD-nya dapat menerima email saya, dan saya disuruh untuk mengerjakan tes front end developer berupa tes teori dan coding sebagai tahap awal. Keesokan harinya saya mengirimkan balasan berupa jawaban saya tersebut. Saya mendengar dari teman saya yang sudah terlebih dahulu mengirimkan lamaran ma- gang ke Bukalapak bahwa HRD-nya akan membalas lagi seminggu setelah saya mengirimkan jawaban tersebut, namun sampai tanggal 8 Juni, saya belum menda- patkannya. Kemudian saya mencoba mengirimkan ulang lamaran magang saya ke Kudo lewat CEO Kudo, yang kontaknya saya dapat langsung dari beliau saat mengiku- ti acara Codefest yang diselenggarakan oleh Kudo, yang kemudian diteruskan ke HRD-nya. Proses melamar magang ke Kudo pun dilanjutkan dengan wawancara dua kali pada tanggal 9 dan 10 Juni. Pihak HRD-nya bilang bahwa kalau saya di- 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>2</pagenum>
+		<segment>
+			terima magang di Kudo, maka saya akan dikirimkan email pada sore hari, namun jika tidak, saya tidak akan dikirimkan email dari mereka. Dan ternyata saya tidak mendapat email mereka sampai sore harinya. Pada tanggal 13 Juni, pihak HDR Bukalapak membalas jawaban tes yang saya kirim dua minggu sebelumnya dan mengundang saya untuk melanjutkan ke proses wawancara pada hari esoknya. Wawancara yang dilakukan berupa wawancara tatap muka dan tes coding dengan mengembangkan kode yang saya kirim sebelumnya. Saya kemudian diberitahu bahwa saya akan mendapatkan balasan untuk memu- tuskan jika saya diterima magang di Bukalapak dalam waktu sekitar maksimal satu minggu. Email balasan itu saya terima malamnya dan berisikan bahwa saya diteri- ma magang di Bukalapak. Besoknya saya diskusikan waktu magang saya dengan pihak Bukalapak, dan saya dapat mulai kerja praktik pada tanggal 16 Juni. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>3</pagenum>
+		<segment>
+			1.2 Tempat Kerja Praktik 
+		</segment>
+		<title>1.2.1 Proﬁl Tempat Kerja Praktik</title>
+		<segment>
+			Bukalapak merupakan salah satu online marketplace terkemuka di Indonesia. Se- perti halnya situs layanan jual-beli menyediakan sarana jual-beli dari konsumen ke konsumen. Siapa pun dapat membuka toko online di Bukalapak dan melayani pem- beli dari seluruh Indonesia untuk transaksi satuan maupun banyak.[1] Bukalapak itu sendiri dipimpin oleh seorang presiden yang membawahi Chief Technology Ofﬁcer (CTO), Chief Operation Ofﬁcer (COO), dan Chief Financial Ofﬁcer (CFO). 
+		</segment>
+		<title>1.2.2 Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi</title>
+		<segment>
+			Pelaksana KP menempati posisi sebagai front end developer yang berada di divisi engineering, yang dibawahi oleh Chief Operation Ofﬁcer. Di Bukalapak, engine- er-engineer dipecah ke dalam tim-tim yang mengerjakan sekelompok ﬁtur terten- tu. Pelaksana KP sendiri ditempatkan ke dalam tim Transaction Satisfaction yang berfokus pada pengembangan ﬁtur pada tahap pasca pembelian—dari pembeli me- nyelesaikan transaksi pembeliannya sampai pelapak mendapatkan uang hasil jualan di lapaknya. Tim Transaction Satisfaction terdiri dari seorang product manager, assistant product manager, beberapa orang back-end developer, beberapa front-end developer, seorang data analyst, dan seorang quality assurance. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>4</pagenum>
+		<segment>
+			Gambar 1.1: Struktur organisasi dalam Bukalapak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>5</pagenum>
+		<segment>
+			Bab 2 
+		</segment>
+		<title>ISI</title>
+		<segment>
+			2.1 Pekerjaan dalam Kerja Praktik 
+		</segment>
+		<title>2.1.1 Latar Belakang</title>
+		<segment>
+			Dalam tim transaction satisfaction, pekerjaan utama yang dilakukan oleh pelaksana KP sebagai front-end developer adalah untuk mengimplementasi bagian front-end di halaman-halaman terkait, sebagai bagian dari tujuan utama tim tersebut yaitu mengurangi refund rate dan memastikan pembeli di Bukalapak puas dengan barang yang dipesan dan pelapaknya puas dengan uang yang didapatkannya. 
+		</segment>
+		<title>2.1.2 Metodologi</title>
+		<segment>
+			Metodologi yang digunakan dalam pekerjaan di tim transaction satisfaction (TRX) adalah metodologi scrum. Scrum merupakan salah satu metodologi pengembang- an perangkat lunak agile untuk mengelola pengembangan produk. Dalam scrum, beberapa requirement disusun dan diurutkan berdasarkan prioritasnya menjadi pro- duct backlog. Dari backlog tersebut tersebut diambil beberapa untuk dimasukkan ke dalam sprint (sprint planning). Metodologi scrum yang digunakan di Bukalapak sedikit berbeda, karena ada pe- nambahan tahap sebelum sprint planning, yaitu tahap marketplace, di mana masing- masing anggota tim membobotkan backlog berdasarkan estimasi kerumitan backlog yang akan dilaksanakan. Hasil pembobotan ini akan menjadi pertimbangan saat me- lakukan sprint planning. Setelah sprint planning, masing-masing anggota tim memilih sprint yang ke- mudian dieksekusi selama beberapa rentang waktu—tim TRX menentukan rentang waktu pengerjaan sprint selama 2 minggu. Setiap minggu, akan diadakan rapat daily standup, di mana masing-masing anggota tim akan menyampaikan progres- nya saat mengerjakan sprint tersebut. Setelah sprint selesai, sprint retrospective 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>6</pagenum>
+		<segment>
+			dilakukan untuk me-review kendala saat melaksanakan sprint tersebut agar tidak terulang kembali saat melaksanakan sprint selanjutnya. Proses pengerjaan requirement dalam tim TRX itu sendiri terdiri dari: 1. Penentuan sprint backlog yang akan dikerjakan. 2. Development requirement sesuai dengan sprint backlog yang dipilih. 3. Review dan quality control terhadap requirement yang telah dikerjakan 4. Membetulkan segala bug yang ditemukan saat proses quality control 5. Deployment saat kode yang dibuat lolos quality control. 
+		</segment>
+		<title>2.1.3 Teknologi</title>
+		<segment>
+			Teknologi yang digunakan pelaksana KP saat kerja praktik di Bukalapak antara lain: 1. Git dan GitHub Git adalah version control system yang digunakan oleh Bukalapak, sedangkan GitHub adalah repository hosting service yang digunakan. 2. Trello dan JIRA Untuk manajemen proyek, tim TRX awalnya menggunakan Trello. Tetapi saat transisi metodologi pengembangan perangkat lunak menjadi scrum ter- modiﬁkasi yang disebutkan pada bagian Metodologi di atas, tim TRX beralih software manajemen proyek ke JIRA, yang sudah digunakan oleh tim lain. 3. Ruby on Rails Situs web Bukalapak itu sendiri berbasis Ruby on Rails, yaitu web framework yang ditulis dalam bahasa pemrograman Ruby. 4. HAML Haml adalah bahasa markup yang digunakan untuk mendeskripsikan HTML dari dokumen web dengan bersih dan sederhana tanpa menggunakan kode 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>7</pagenum>
+		<segment>
+			inline[2]. HAML merupakan bahasa templating yang digunakan di Buka- lapak, menggantikan bahasa templating ERB, yang merupakan default dari Ruby on Rails. 5. CoffeeScript Bahasa scripting untuk front-end yang digunakan dalam Ruby on Rails. Ba- hasa ini memiliki sintaks yang terinspirasi oleh Python dan Ruby agar lebih mudah dibaca daripada memrogram dalam JavaScript secara langsung [4]. Bahasa ini nantinya akan dikompilasi menjadi ﬁle Javascript. 6. SASS SASS merupakan bahasa stylesheet yang meng-extend CSS dengan menam- bah beberapa ﬁtur yang ada di bahasa pemrograman biasa [3]. 7. BEM BEM (Block, Element, Modiﬁer) merupakan metodologi penamaan selector CSS yang dikembangkan agar dapat membuat komponen CSS yang modular [5]. Di Bukalapak itu sendiri, konvensi penamaan selector CSS-nya berda- sarkan BEM, dengan sedikit perubahan. 
+		</segment>
+		<title>2.1.4 Non Teknis</title>
+		<segment>
+			Selama melakukan kerja praktik di Bukalapak, pelaksana KP tidah hanya menda- patkan hard skill saja, namun juga dapat mengasah soft skill. Metodologi scrum menuntut kominikasi antar anggota tim sehingga kemampuan komunikasi pelaksa- na KP terasah karenanya. Selain itu, pelaksana KP juga harus bekerja sama dengan anggota tim TRX lainnya dalam penyelesaian suatu requirement. Pelaksana KP ju- ga dituntut bertanggung jawab atas pekerjaan yang telah diberikannya. Selain itu, pelaksana KP juga dapat menyaksikan secara langsung bagaimana para front-end developer bekerja dalam suatu tim. 2.2 Analisis 
+		</segment>
+		<title>2.2.1 Pelaksanaan Kerja Praktik</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>8</pagenum>
+		<segment>
+			Jika dilihat dari KAKP yang sudah dibuat sebelumnya, penulisan pekerjaannya di- buat secara umum karena tim TRX menggunakan metodologi scrum. Scrum yang bersifat agile cukup menyulitkan untuk menentukan pekerjaan pasti yang akan di- kerjakan sehingga pekerjaan yang sebenarnya dikerjakan tergantung dari require- ment yang dikerjakan, yang bisa dilihat di dalam log kerja praktik. Selain itu, pelaksana KP terkadang mendapati dirinya tidak diberikan require- ment baru apapun, dan hasil pekerjaan sebelumnya sedang dalam proses quality as- surance (QA), sehingga yang hanya bisa dilakukan pelaksana KP adalah mencoba mencari bug dari sisi front-end-nya sambil mempelajari teknologi dan metodologi yang digunakan di Bukalapak. Kendala lain yang dialami pelaksana KP adalah re- source yang cukup besar untuk menjalankan situs web Bukalapak untuk keperluan development, yang ternyata melebihi yang dimiliki laptop pelaksana KP, sehingga terjadi swap ke disk yang menyebabkan perfoma laptop pelaksana KP berkurang sehingga menyulitkan proses pengembangan. 
+		</segment>
+		<title>2.2.2 Relevansi dengan Perkuliahan di Fasilkom UI</title>
+		<segment>
+			Selama kerja praktik di Bukalapak, terdapat beberapa mata kuliah yang diterapkan saat kerja praktik. Beberapa mata kuliah tersebut adalah: 1. Dasar-Dasar Pemrograman Dasar-Dasar Pemrograman bermanfaat bagi pelaksana KP saat mempelajari bahasa pemrograman baru (Ruby dan CoffeeScript). 2. Perancangan dan Pemrograman Web Dasar-dasar pemrograman web digunakan dalam kerja praktik karena pada dasarnya proyek yang dikerjakan adalah proyek pengembangan situs web. Perbedaan dari yang dipelajari di kuliah adalah pemrogramannya tidak lang- sung menggunakan HTML, CSS, dan JavaScript, melainkan menggunakan HAML (sebagai templating language, tidak langsung membuat HTML-nya), SASS (untuk stylesheet), dan CoffeeScript. 3. Rekayasa Perangkat Lunak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>9</pagenum>
+		<segment>
+			Prinsip-prinsip scrum, yang digunakan oleh Bukalapak, diajarkan di mata ku- liah Rekayasa Perangkat Lunak. Selain itu, di mata kuliah ini pula diajarkan mengenai beberapa design pattern, yang berguna saat mempelajari design pattern yang digunakan saat memrogram script JavaScript dan pembuatan stylesheet. 4. Pemrograman Sistem Beberapa dasar kemampuan menggunakan command-line dalam Linux dipe- lajari dalam mata kuliah Pemrograman Sistem, yang bermanfaat saat proses pengembangan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>10</pagenum>
+		<segment>
+			Bab 3 
+		</segment>
+		<title>PENUTUP</title>
+		<segment>
+			3.1 Kesimpulan Kerja praktik di Bukalapak memberikan pengalaman tersendiri bagi pelaksana KP. Berbagai kendala saat mencari tempat kerja praktik sebelum mendapatkan Buka- lapak menjadi pelajaran bagi pelaksana KP sebagai semacam latihan saat hendak mencari kerja. Selain itu, banyak ilmu yang pelaksana KP dapatkan saat melaksa- nakan kerja praktik di Bukalapak, dari teknologi yang mereka gunakan, metodologi pengembangan perangkat lunaknya, soft skill yang didapat di sana, dan lain-lain. 3.2 Saran Saran dari pelaksana KP untuk calon pelaksana KP adalah sebisa mungkin meng- umpulkan list target tempat kerja praktik serta kelengkapan dokumen seperti CV dan resume jauh hari sebelum target mulai kerja praktiknya. Calon pelaksana KP juga harus mempelajari ilmu-ilmu yang terkait dengan posisi yang diincarnya, dan me-review ulang materi-materi kuliah terkait. Calon pelaksana KP harus juga mem- persiapkan diri untuk belajar hal baru saat melakukan kerja praktik. Saran pelaksana KP untuk dosen pembimbing KP adalah perlunya koordina- si diperlukan antara pelaksana KP dengan dosen pembimbing terkait persetujuan dokumen yang dibutuhkan dalam mata kuliah kerja praktik seperti KAKP, agar ti- dak terjadi ketidakpastian atas persetujuan dan masukan untuk perbaikan dokumen tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>11</pagenum>
+		<segment>
+			Bibliograﬁ [1] Bukalapak. Tentang bukalapak, Oktober 2016. URL https://www. bukalapak.com/about. [2] Hampton Catlin and Norman Clarke et.al. HAML :: About, November 2016. URL http://haml.info/about.html. [3] Hampton Catlin et.al. Sass: Syntactically Awesome Style Sheets, November 2016. URL http://sass-lang.com/. [4] Alex MacCaw. The Little Book on CoffeeScript. " O’Reilly Media, Inc.", 2012. [5] BEM team. BEM, Oktober 2016. URL http://getbem.com. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>12</pagenum>
+		<segment>
+			Lampiran A 
+		</segment>
+		<title>KERANGKA ACUAN KERJA PRAKTIK</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>13</pagenum>
+		<segment>
+			Lampiran B 
+		</segment>
+		<title>LOG KERJA PRAKTIK</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

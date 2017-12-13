@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>TOKOPEDIA</bo></it> <it><bo>GEOLIMITATION</bo></it> <it><bo>PINPOINT</bo></it> <it><bo>VALIDATION</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ALVIN</bo> <bo>WIJAYA</bo></title>
+		<segment>
+			<bo>1306412754</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Alvin Wijaya : 1306412754 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Tokopedia</it> <it>Geolimitation</it> <it>Pinpoint</it> <it>Validation</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom.,</bo> <bo>M.Kom.)</bo> 
+		</segment>
+		<title><bo>PELAKSANA</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Alvin</bo> <bo>Wijaya)</bo> Ditetapkan di : Fakultas Ilmu Komputer Universitas Indonesia, Depok Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama : Alvin Wijaya Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Tokopedia</it> <it>Geolimitation</it> <it>Pinpoint</it> <it>Validation</it> Laporan kerja praktik ini berisi informasi tentang kegiatan-kegiatan yang dilakukan penulis selama melakukan kerja praktik di PT. Tokopedia. Penulis bekerja sebagai <it>software</it> <it>engineer</it> di tim Keroppi selama 9 minggu, sejak tanggal 27 Juni 2016 hingga 26 Agustus 2016. Tim Keroppi merupakan tim yang bertanggung jawab atas logistik Tokopedia. Salah satu anggota tim Keroppi, Wendy Adi, S.Kom, merupakan penyelia penulis selama kerja praktik. Tugas utama penulis dalam kerja praktik yaitu implementasi <it>web</it> <it>service</it> untuk validasi <it>pinpoint</it> pada aplikasi-aplikasi Tokopedia. Selama kerja praktik, penulis mendapat pengalaman-pengalaman baru, seperti penggunaan bahasa baru, bekerja dalam tim yang lebih besar, hingga penggunaan teknologi-teknologi yang belum pernah digunakan penulis. Atas bimbingan dari penyelia, penulis juga mempelajari cara pengembangan aplikasi yang baik dan benar. Kata kunci: Tokopedia, kerja praktik, <it>geolimitation,</it> <it>pinpoint,</it> <it>validation</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 2</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 3 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 3</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 3</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 4</title>
+		<title>2.1.3. Metodologi ................................................................................................ 5</title>
+		<title>2.1.4. Teknologi yang Digunakan ....................................................................... 8</title>
+		<title>2.1.5. Hasil Pekerjaan ....................................................................................... 10</title>
+		<title>2.2. Analisis .......................................................................................................... 11</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 11</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 14</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 15 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 15</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.2. Saran .............................................................................................................. 15</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 16 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... vii LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................... viii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Proses pengembangan aplikasi di tim Keroppi ........................................... 7 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... vii LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................... viii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis sudah pernah melakukan kerja praktik pada awal tahun 2016. Penulis pertama kali mengetahui informasi magang di Tokopedia dari ajakan rekan mahasiswa Keluarga Umat Katolik Sivitas Akademika (KUKSA) Fakultas Ilmu Komputer. Mereka mendapat ajakan dari senior mereka yang sudah menjadi karyawan tetap di Tokopedia. Penulis memutuskan untuk mencoba mendaftar dan tetap tinggal di Depok ketika masa liburan. Kemudian penulis mengetahui informasi lebih detil mengenai proses kerja praktik dari <it>website</it> Tokopedia1. Dari daftar lowongan kerja praktik yang ada, penulis memilih untuk mencoba melamar posisi <it>software</it> <it>engineer.</it> Penulis mengisi <it>form</it> pendaftaran dan melampirkan resume sesuai dengan yang dibutuhkan pada <it>website</it> Tokopedia dalam melamar posisi <it>software</it> <it>engineer.</it> Beberapa hari kemudian, penulis mendapat respon dari Tokopedia Hiring Team, yang berisi <it>link</it> untuk tes pemrograman <it>online.</it> Tes pemrograman <it>online</it> tersebut dilakukan di aplikasi <it>web</it> bernama HackerRank. Tes tersebut mempunyai waktu pengerjaan selama 45 menit, yang terdiri dari sepuluh soal pilihan ganda dan tiga soal pemrograman. Setelah menyelesaikan tes tersebut, penulis merasa kurang percaya diri bahwa akan dapat lanjut ke proses <it>interview.</it> Beberapa minggu kemudian, penulis dikirimkan <it>invitation</it> melalui <it>email</it> untuk mengikuti <it>interview</it> di kantor Tokopedia yang terletak di Wisma 77 Tower 2. Dalam <it>email</it> tersebut, penulis juga diinformasikan untuk membawa <it>cover</it> <it>letter,</it> CV, transkrip akademis, dan dokumen pendukung lainnya. Pada awal proses <it>interview,</it> penulis diminta untuk memperkenalkan diri penulis kepada dua orang dari <it>human</it> <it>resource</it> <it>development</it> (HRD) Tokopedia. Setelah itu, wawancara dilanjutkan dengan pertanyaan-pertanyaan yang bersifat teknikal oleh empat <it>software</it> <it>engineer</it> Tokopedia. Beberapa hari  1 https://www.tokopedia.com/careers 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			kemudian, yaitu pada akhir tahun 2015, ketika penulis sedang mengerjakan tugas akhir untuk mata kuliah Pemrograman Sistem, penulis dihubungi oleh Risky Dwi Nugroho, HRD Tokopedia, melalui telepon genggam. Hal yang disampaikan yaitu penulis berhasil melewati tahap wawancara dan dapat memulai kerja praktik di Tokopedia. Pada semester berikutnya, penulis dan rekan mahasiswa yang sebelumnya juga melakukan kerja praktik di Tokopedia ditawarkan untuk kerja praktik lagi disana. Penulis menerima tawaran tersebut dan memulai kegiatan kerja praktik pada tanggal 27 Juni 2015. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Tokopedia merupakan salah satu perusahaan <it>e-commerce</it> di Indonesia. Tokopedia berperan sebagai <it>marketplace</it> yang mempertemukan penjual dan pembeli [1]. Dengan aplikasi yang disediakan Tokopedia, setiap orang memiliki peluang untuk dapat membuka toko <it>online.</it> Aplikasi Tokopedia tersedia di platform <it>web,</it> Android, dan iOS. Tokopedia merupakan sebuah perusahaan yang berkembang secara cepat. Terdapat juga tahapan fokus dari Tokopedia, yaitu <it>make</it> <it>it</it> <it>happen,</it> <it>make</it> <it>it</it> <it>better,</it> dan <it>focus</it> <it>on</it> <it>customer.</it> Tokopedia mempunyai beberapa <it>product</it> <it>owner</it> (PO). Seorang PO memiliki tanggung jawab untuk mengurus beberapa tim. Sebuah tim dipimpin oleh seorang <it>technical</it> <it>leader.</it> Sebuah tim juga memiliki beberapa <it>software</it> <it>engineer,</it> <it>quality</it> <it>assurance,</it> dan <it>test</it> <it>engineer.</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Tim penulis dalam kerja praktik sepenuhnya dipilih oleh pihak Tokopedia. Pemilihan tim tersebut tergantung pada tim apa yang membutuhkan <it>software</it> <it>engineer</it> tambahan. Penulis bergabung dalam tim Keroppi yang mengurus <it>microservice</it> logistik Tokopedia. Tim ini terdiri dari seorang <it>product</it> <it>owner</it> (PO), seorang <it>technical</it> <it>leader,</it> tiga orang <it>software</it> <it>engineer,</it> dan tiga orang <it>quality</it> <it>assurance.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis melakukan kerja praktik di Tokopedia sebagai <it>software</it> <it>engineer</it> di tim Keroppi yang bertugas dalam bagian logistik Tokopedia. Metode yang digunakan di Tokopedia yaitu metode <it>scrum.</it> Dalam metode <it>scrum</it> terdapat beberapa <it>backlog</it> pada setiap <it>sprint</it> yang harus diselesaikan. Selain itu, terdapat juga <it>daily</it> <it>standup</it> setiap harinya, kurang lebih selama 30 menit, untuk saling menginformasikan apa saja yang sudah dikerjakan pada hari sebelumnya dan yang akan dikerjakan hari ini. Pekerjaan yang didapat penulis yaitu implementasi <it>geolimitation</it> <it>pinpoint</it> <it>validation</it> dan fitur <it>edit</it> <it>boundary</it> pada aplikasi <it>boundary.</it> 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Pemilihan tim Keroppi sebagai tempat penulis melakukan kerja praktik sepenuhnya dilakukan oleh pihak Tokopedia. Pemilihan tersebut didasarkan pada tim apa yang membutuhkan <it>software</it> <it>engineer</it> tambahan untuk membantu pekerjaan yang sudah dipersiapkan. Dalam pembuatan suatu aplikasi terdapat proses pengembangan aplikasi untuk dapat menghilangkan masalah-masalah yang ada dan membuat aplikasi tersebut semakin efisien. Aplikasi yang disediakan Tokopedia juga memiliki tahapan-tahapan <it>improvement,</it> yang diwakili dengan versi dari aplikasi. Salah satu contoh perkembangan aplikasi tersebut yaitu ditambahkannya fitur untuk memasukkan alamat secara <it>pinpoint</it> dengan memanfaatkan Google Maps API. Penambahan fitur tersebut berfungsi untuk perolehan informasi posisi yang memudahkan logistik Tokopedia. Salah satu contoh perusahaan logistik yang terkenal yaitu Gojek, yang menggunakan <it>pinpoint</it> sebagai informasi asal dan tujuan lokasi dalam menggunakan jasa yang disediakan. Tokopedia bekerja sama dengan beberapa perusahaan logistik untuk mengantarkan barang yang dipesan oleh pelanggan Tokopedia. Untuk dapat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<segment>
+			bekerja sama dengan beberapa perusahaan tertentu, dibutuhkan informasi <it>pinpoint</it> tersebut. Akan tetapi, terdapat laporan keluhan bahwa <it>pinpoint</it> yang dimasukkan tersebut tidak sesuai dengan alamat tertulis yang ada. Hal tersebut tentunya menghambat proses pengiriman barang tersebut. Oleh sebab itu, dibutuhkan suatu <it>web</it> <it>service</it> untuk memvalidasi <it>pinpoint</it> yang dimasukkan oleh pengguna aplikasi Tokopedia. Selain itu, terdapat juga aplikasi untuk melakukan operasi untuk memanipulasi data dari <it>database</it> <it>boundary</it> yang menyimpan informasi wilayah- wilayah yang berada di Indonesia. Operasi <it>insert</it> dan <it>delete</it> sudah diimplementasi. Untuk fitur <it>update</it> <it>boundary</it> diimplementasi oleh penulis untuk melengkapi aplikasi tersebut. Berikut ini beberapa pekerjaan yang dilakukan selama kerja praktik: 1. Memahami <it>microservice</it> logistik Tokopedia 2. Implementasi API dalam bahasa Go 3. Memahami <it>web</it> <it>service</it> Perl Tokopedia 4. Implementasi <it>web</it> <it>service</it> Perl Tokopedia 5. Pengembangan aplikasi untuk <it>boundary</it> dalam <it>framework</it> Code Ignitor 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.2.1.</bo> <it><bo>Microservice</bo></it> <it>Microservice</it> merupakan <it>service</it> yang dibuat secara fleksibel dan tidak terikat dengan <it>service</it> utama yang besar [2]. Hal tersebut memudahkan perubahan-perubahan yang ada. <it>Microservice</it> logistik Tokopedia merupakan sebuah <it>service</it> yang bertujuan untuk berkomunikasi dengan <it>services</it> yang ada pada perusahaan-perusahaan logistik agar dapat bekerja sama. <it>Microservice</it> tersebut tentu saja akan sering berubah-ubah seiring dengan bertambahnya perusahaan logistik yang bekerja sama. Metode dan data yang dibutuhkan juga dapat berbeda. <bo>2.1.2.2.</bo> <it><bo>Application</bo></it> <it><bo>Programming</bo></it> <it><bo>Interface</bo></it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<segment>
+			Application Programming Interface (API) merupakan teknologi yang dibuat untuk tujuan memudahkan dalam penggunaan aplikasi atau program [3]. Jenis API yang sering kita jumpa yaitu REST API karena implementasi dan penggunaannya yang mudah dan praktis. Pada kerja praktik, implementasi REST API tersebut memakai bahasa pemrograman Go. <bo>2.1.2.3.</bo> <it><bo>Web</bo></it> <it><bo>Service</bo></it> <it>Web</it> <it>service</it> merupakan <it>service</it> yang dapat kita gunakan atau akses melalui <it>world</it> <it>wide</it> <it>web</it> [4]. Hal tersebut berarti kita dapat menggunakan <it>service</it> tersebut melalui HTTP. Data yang ditransfer melalui HTTP biasanya memiliki format XML atau JSON. Pada kerja praktik, implementasi <it>web</it> <it>service</it> Tokopedia memakai bahasa pemrograman Perl. <bo>2.1.2.3.</bo> <it><bo>Scrum</bo></it> <it>Scrum</it> merupakan sebuah metode pengembangan produk yang <it>iterative</it> dan <it>agile</it> [5]. Hal tersebut memiliki arti bahwa proses pengembangan produk tersebut dilakukan secara berulang-ulang dan cepat untuk meningkatkan kualitas produk. Dalam metode <it>scrum,</it> setiap dua sampai empat minggu sekali terdapat <it>sprint</it> <it>review</it> dan <it>sprint</it> <it>retrospective</it> untuk <it>sprint</it> sebelumnya, serta <it>sprint</it> <it>planning</it> untuk <it>sprint</it> berikutnya. Untuk setiap harinya, sebelum kita memulai bekerja, dilakukan <it>daily</it> <it>standup</it> untuk menginformasikan apa saja yang sudah dikerjakan hari sebelumnya dan apa saja yang akan dikerjakan hari ini. Durasi dari <it>daily</it> <it>standup</it> tersebut kira-kira 15 menit. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Metode pengembangan aplikasi yang digunakan di Tokopedia ialah metode <it>scrum.</it> Pada tim Keroppi, satu sprint memiliki periode selama dua minggu. Setiap harinya tim Keroppi melakukan <it>daily</it> <it>standup</it> selama kira-kira 30 menit. Waktu tersebut disebabkan oleh diskusi yang dilakukan dengan <it>customer</it> <it>service</it> mengenai keluhan- keluhan atau <it>bugs</it> yang ada. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			Di Tokopedia terdapat dua tahapan untuk implementasi fitur, yaitu tahap <it>staging</it> dan tahap <it>production.</it> Tahap <it>staging</it> tersebut bertujuan untuk mencoba fitur yang diimplementasi sebelum benar-benar dinaikkan ke tahap <it>production.</it> Pada tahap <it>production,</it> fitur yang diimplementasi tersebut dapat langsung digunakan seluruh pengguna aplikasi Tokopedia. Aplikasi yang dimaksud ialah aplikasi <it>web</it> dan aplikasi <it>mobile.</it> Setelah melakukan implementasi API maupun <it>web</it> <it>service,</it> penulis melakukan percobaan di <it>local</it> untuk memastikan API maupun <it>web</it> <it>service</it> tersebut sesuai dengan <it>requirement</it> yang ada. Jika sudah sesuai, penulis melakukan <it>pull</it> <it>request</it> ke <it>repository</it> <it>staging.</it> Pada tahap ini, penyelia akan melakukan <it>code</it> <it>review</it> untuk memastikan sudah sesuai <it>requirement.</it> Apabila sudah sesuai, maka penyelia akan melakukan proses <it>merge</it> ke <it>repository</it> <it>staging.</it> Pada tahap <it>staging</it> dilakukan <it>testing</it> oleh <it>quality</it> <it>assurance</it> tim Keroppi untuk mencoba hasil implementasi tersebut. <it>Testing</it> yang dilakukan mencakup <it>testing</it> skenario-skenario yang mungkin untuk fitur tersebut dan <it>concurrency</it> <it>test</it> yang mengukur kemampuan API maupun <it>web</it> <it>service</it> tersebut dalam melayani banyak <it>request.</it> Setelah melewati tahap ini, implementasi ini akan ditandai sebagai QA <it>clear</it> dan akan dilakukan proses <it>merge</it> ke <it>production.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			Gambar 1. Proses pengembangan aplikasi di tim Keroppi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo></title>
+		<segment>
+			Untuk dapat bekerja di Tokopedia, terdapat beberapa teknologi yang harus dipakai agar dapat berkoordinasi dalam tim. Terdapat juga beberapa teknologi yang bersifat opsional untuk memudahkan proses pengembangan aplikasi. Berikut ini beberapa teknologi yang digunakan oleh penulis selama kerja praktik. <bo>2.1.4.1.</bo> <it><bo>Version</bo></it> <it><bo>Control</bo></it> <bo>dan</bo> <it><bo>Repository</bo></it> Teknologi <it>version</it> <it>control</it> digunakan untuk dapat mengatur perubahan-perubahan yang dilakukan pada aplikasi. Perubahan-perubahan tersebut dapat disimpan dengan suatu <it>message</it> tertentu sehingga memungkinkan untuk <it>revert</it> aplikasi ke suatu <it>state</it> sebelumnya. Teknologi-teknologi ini diperlukan untuk memudahkan proses bekerja dalam tim. Penulis menggunakan Git untuk <it>version</it> <it>control</it> dan Github sebagai <it>repository.</it> <bo>2.1.4.2.</bo> <bo>Bahasa</bo> <bo>Pemrograman</bo> <bo>dan</bo> <bo>Framework</bo> Dalam melakukan kerja praktik di Tokopedia, penulis menggunakan beberapa bahasa pemrograman dalam pengembangan aplikasi. Bahasa pemrograman utama yang digunakan yaitu Go dan Perl. Untuk implementasi API pada <it>micro</it> <it>service</it> logistik Tokopedia digunakan bahasa Go. Untuk implementasi <it>web</it> <it>service</it> pada aplikasi Tokopedia digunakan bahasa Perl. Selain itu, untuk implementasi aplikasi untuk <it>boundary</it> digunakan bahasa PHP pada framework Code Ignitor. Bahasa pemrograman Perl dan Go belum pernah dipelajari oleh penulis, sehingga diperlukan waktu untuk mempelajari bahasa-bahasa pemrograman tersebut. Untuk bahasa pemrograman PHP sudah dipelajari oleh penulis ketika dalam proses perkuliahan. <bo>2.1.4.3.</bo> <bo>Komunikasi</bo> Teknologi komunikasi yang digunakan oleh penulis yaitu Slack. Slack digunakan untuk komunikasi baik secara individu maupun dalam <it>channel.</it> <it>Channel</it> merupakan grup yang dibuat dimana ketika kita mengetikkan suatu pesan, semua orang yang bergabung dalam grup tersebut akan dapat membacanya. Fitur yang menarik dalam 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			Slack yaitu kemampuannya dalam integrasi dengan aplikasi-aplikasi lain. Slack dapat berintegrasi dengan Github, sehingga apabila terdapat aktivitas yang terjadi di Github akan dinotifikasi ke Slack. <bo>2.1.4.4.</bo> <it><bo>Database</bo></it> <it>Database</it> yang digunakan di Tokopedia yaitu PostgreSQL. Dalam melakukan kerja praktik, penulis mengakses informasi-informasi mengenai wilayah di Indonesia. Teknologi yang digunakan dalam mengakses <it>database</it> tersebut ialah PgAdmin. Terdapat juga Redis sebagai tempat penyimpanan sementara untuk mempercepat proses pengambilan data. Dalam implementasi API, penulis menggunakan Redis di <it>local</it> untuk melakukan <it>testing.</it> <bo>2.1.4.5.</bo> <it><bo>Operating</bo></it> <it><bo>System</bo></it> Dalam melakukan kerja praktik di Tokopedia, penulis diminta untuk menggunakan <it>operating</it> <it>system</it> (OS) yang baik digunakan dalam melakukan pengembangan aplikasi. OS yang disarankan yaitu antara Linux dan Mac-OS. Untuk dapat melaksanakan kerja praktik, penulis melakukan instalasi Linux pada laptop. <bo>2.1.4.6.</bo> <bo>Poedit</bo> Poedit merupakan suatu aplikasi yang berfungsi untuk memproses suatu <it>catalog</it> yang memiliki fungsi untuk <it>mapping</it> bahasa [6]. Aplikasi ini digunakan penulis untuk menambahkan daftar <it>message</it> <it>error</it> yang baru. Penggunaan <it>catalog</it> tersebut yaitu untuk dapat meng-handle <it>error</it> untuk berbagai bahasa. <bo>2.1.4.7.</bo> <bo>Jmeter</bo> Aplikasi ini digunakan oleh penulis untuk melakukan <it>concurency</it> <it>test</it> terhadap API dan <it>web</it> <it>service</it> yang telah dibuat. <it>Testing</it> yang dilakukan dapat disesuaikan waktu dan jumlah <it>request-nya</it> dalam waktu tersebut. <it>Request</it> tersebut dilakukan secara paralel untuk mengimitasi kondisi sesungguhnya ketika digunakan oleh banyak pengguna aplikasi Tokopedia. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<title><bo>2.1.5.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Terdapat beberapa hasil pekerjaan penulis setelah berakhirnya kerja praktik. Yang pertama yaitu validasi <it>pinpoint</it> pada aplikasi Tokopedia. Di aplikasi Tokopedia terdapat beberapa proses yang memerlukan pengguna memasukkan <it>pinpoint,</it> yaitu: 1. Memasukkan alamat dan <it>pinpoint</it> ketika membuka toko baru 2. Mengubah <it>pinpoint</it> toko 3. Memasukkan alamat dan <it>pinpoint</it> ketika membuat akun baru 4. Mengubah <it>pinpoint</it> pada akun yang sudah ada 5. Memasukkan <it>pinpoint</it> pengiriman ketika melakukan pemesanan barang Masing-masing dari proses tersebut memiliki <it>web</it> <it>service</it> tersendiri yang memanggil ke API yang penulis implementasi pada <it>micro</it> <it>service</it> logistik Tokopedia. Pemanggilan API tersebut bertujuan untuk mengecek apakah <it>pinpoint</it> dan alamat yang dimasukkan oleh <it>user</it> ketika melakukan proses tersebut sesuai atau tidak. Apabila <it>pinpoint</it> dan alamat tersebut tidak sesuai, maka akan ditampilkan pesan <it>error.</it> Dengan adanya pengecekan tersebut diharapkan dapat mengurangi kesulitan kurir perusahaan logistik yang memanfaatkan informasi <it>pinpoint</it> dalam pengantaran barang yang dipesan. Yang ke dua yaitu fitur <it>update</it> pada aplikasi <it>boundary</it> yang menggunakan <it>framework</it> Code Ignitor. Untuk fitur <it>insert</it> dan <it>delete</it> pada aplikasi tersebut sudah diimplementasi sebelumnya. Tujuan dari aplikasi tersebut yaitu untuk memudahkan proses mengolah data <it>boundary</it> yang disimpan pada <it>database</it> Tokopedia. Data <it>boundary</it> yang dimaksud merupakan data berupa <it>multipolygon,</it> yang terdiri dari koordinat-koordinat yang membentuk satu atau lebih <it>polygon.</it> Terdapat dua cara untuk memasukkan data <it>boundary,</it> yaitu dengan menggambarkan <it>multipolygon</it> tersebut pada <it>map</it> atau memasukkan string berupa JSON yang berisi koordinat- koordinat dari <it>multipolygon.</it> Pada fitur <it>update</it> yang dibuat, pengguna memilih daerah yang akan diubah. Setelah itu, akan ditampilkan <it>multipolygon</it> pada <it>map.</it> Pengguna 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			pun dapat mengubah bentuk dari <it>multipolygon</it> tersebut dengan men-<it>drag</it> titik-titik koordinat yang ditampilkan. Setelah itu dapat disimpan perubahannya dengan menekan tombol <it>update.</it> Jika ingin mengubah berdasarkan data koordinat, dapat di- <it>update</it> dengan memasukkan string berupa JSON yang berisi koordinat-koordinat dari <it>multipolygon.</it> Selain itu, penulis juga melakukan pencarian data <it>multipolygon</it> untuk beberapa daerah di Indonesia dan memasukkannya dalam <it>database</it> dengan menggunakan aplikasi tersebut. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini akan dijelaskan tentang kesesuaian dan perbedaan dengan KAKP, kendala dan cara menanganinya, serta penilaian penulis terhadap tempat KP. <bo>2.2.1.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Penulis melakukan kerja praktik selama 9 minggu di Tokopedia dari tanggal 27 Juni 2016 hingga 26 Agustus 2016. Jadwal kerja praktik penulis sama seperti karyawan- karyawan di Tokopedia, yaitu senin sampai jumat dari pukul sembilan pagi hingga pukul enam sore. Terdapat perbedaan antara jadwal kerja dengan rencana kerja yang ditulis di KAKP. Pekerjaan yang diberikan selesai lebih cepat dibandingkan dengan yang tertulis di KAKP. Secara garis besar, urutan pekerjaan yang dilakukan selama kerja praktik sama dengan yang ditulis di KAKP. Akan tetapi, terdapat beberapa perbedaan dengan KAKP di tengah proses kerja praktik. Yang pertama yaitu perbaikan terhadap <it>bugs</it> yang ditemukan setelah dilakukan <it>testing</it> oleh <it>quality</it> <it>assurance</it> tim Keroppi. Yang ke dua yaitu pencarian data <it>boundary</it> untuk wilayah- wilayah di Indonesia untuk dimasukkan ke <it>database.</it> Hal itu disebabkan karena jadwal <it>quality</it> <it>assurance</it> yang penuh untuk mengetes banyak implementasi fitur. Penulis melakukan pencarian data <it>boundary</it> sementara menunggu proses <it>testing</it> oleh <it>quality</it> <it>assurance.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<segment>
+			<bo>2.2.1.2.</bo> <bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganan</bo> 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			Pada awal kerja praktik, penulis diminta untuk memakai Linux agar dapat mulai bekerja. Akan tetapi, penulis mengalami kendala ketika mencoba untuk melakukan instalasi Linux pada laptop. <it>Free</it> <it>space</it> yang sudah dibuat oleh penulis tidak dapat dibaca pada saat melakukan instalasi Linux. Setelah itu, laptop penulis juga tidak dapat menggunakan Virtual Box. Ketika mencoba untuk <it>load</it> <it>core,</it> selalu berujung pada error. Pada akhirnya, penulis mencoba menanyakan persoalan instalasi Linux ke <it>technical</it> <it>leader</it> tim Doraemon. Tim Doraemon merupakan tim tempat penulis melakukan kerja praktik pada bulan Januari 2016. <it>Technical</it> <it>leader</it> tim Doraemon memiliki pengalaman yang banyak tentang Linux. Atas bantuannya, penulis menemukan penyebab dari tidak terbacanya <it>free</it> <it>space</it> yang telah dibuat, yaitu <it>primary</it> <it>partion</it> pada laptop penulis mempunyai jumlah sebanyak 4. Pada Linux terdapat batasan <it>primary</it> <it>partion</it> sebanyak 4, sehingga penulis pun terpaksa menghapus salah satu <it>primary</it> <it>partion</it> yang ada. Hasilnya yaitu laptop penulis dapat melakukan <it>dual</it> <it>boot</it> Windows dan Linux. Terdapat juga kendala-kendala teknis lainnya seperti dalam memahami <it>flow</it> dari kodingan Tokopedia, implementasi API dan <it>web</it> <it>service</it> yang baik, serta penggunaan teknologi baru yang sama sekali belum pernah diketahui penulis. Dengan pengetahuan dan penjelasan yang baik dari mentor, penulis tidak kesulitan dalam mempelajari hal-hal tersebut. Standarisasi kodingan pada saat pengembangan aplikasi di sebuah tim sangat penting. Dengan pengalaman mentor, penulis dibimbing dalam penulisan kode yang baik dan benar. Penulisan kode yang baik dan benar akan memudahkan <it>developer</it> lainnya pada saat membaa kode kita. Terdapat juga suatu kendala dimana implementasi <it>web</it> <it>service</it> tidak memiliki efek pada aplikasi Tokopedia di Android. Kemudian mentor penulis menemukan permasalahannya terletak di komunikasi antara <it>web</it> <it>service</it> dengan aplikasi Android tersebut. Oleh karena penulis tidak mengetahui lokasi tim Android, mentor penulis pun membantu dalam komunikasi ke tim yang mengurus Android tersebut. Hasilnya yaitu akan dilengkapi komunikasi tersebut pada aplikasi Android dengan versi terbaru. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<segment>
+			<bo>2.2.1.3.</bo> <bo>Penilaian</bo> <bo>Terhadap</bo> <bo>Tempat</bo> <bo>KP</bo> 
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			Tokopedia merupakan tempat yang baik untuk melakukan kerja praktik. Ruang tempat melakukan pekerjaan sangat nyaman. Semua tim <it>developer</it> terletak pada satu ruangan, sehingga mempermudah komunikasi antar tim. Terdapat juga <it>corner</it> tempat beristirahat, dimana tersedia minuman-minuman seperti kopi dan Milo, dan makanan ringan. Tokopedia juga memiliki <it>playground</it> di lantai yang berbeda, dimana tersedia permainan-permainan seperti tenis meja, PS3, Wii U, Foosball, <it>board</it> <it>games,</it> dan lain-lain. Pada waktu istirahat, karyawan-karyawan dapat makan dan memainkan permainan-permainan tersebut. Tersedia juga tempat tidur bagi yang membutuhkannya. Budaya di Tokopedia juga sangat baik. Semua karyawan di Tokopedia disebut sebagai <it>nakama,</it> dimana dalam bahasa Jepang berarti teman. Semua karyawan di Tokopedia merupakan teman seperjuangan. Kebanyakan karyawan juga tidak ingin dipanggil dengan kata “Kak”.  Meski  terdapat  perbedaan  umur,  mereka  lebih  menginginkan dipanggil dengan nama. Suasana kerja juga santai, dimana karyawan bebas memakai kaos dan sandal. Akan tetapi, karyawan tetap diharapkan datang tepat waktu, karena terdapat <it>scan</it> sidik jari sebagai sistem absensi. Tokopedia juga memiliki banyak acara yang menarik, seperti perlombaan <it>band</it> terbaik, pertandingan tenis meja, Hackathon, Nakama Day, perlombaan 17 Agustus, dan lain-lain. Acara- acara tersebut dapat diikuti oleh karyawan tetap maupun <it>intern.</it> Penulis berpartisipasi dalam dua acara selama kerja praktik di Tokopedia, yaitu pertandingan tenis meja dan Hackathon. Untuk karyawan baru maupun <it>intern</it> di Tokopedia akan mendapat pengalaman yang bagus. Semua karyawan di Tokopedia sangat ramah dan rendah hati. Apabila ada sesuatu yang ingin ditanya, karyawan disana akan dengan senang hati menjelaskannya. Dari pengalaman penulis sendiri, kemampuan memberikan penjelasan dalam menjawab pertanyaan dari penulis setara atau lebih dari yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			dirasakan di banyak mata kuliah. Sebagai tambahan, lokasi dari tempat kerja praktik dekat dengan Transjakarta, sehingga perjalanan ke kantor menjadi lebih mudah. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Terdapat beberapa mata kuliah di Fasilkom UI yang membantu penulis dalam melaksanakan kerja praktik. Beberapa mata kuliah tersebut yaitu Dasar-Dasar Pemrograman (DDP), Struktur Data dan Algoritma (SDA), Sistem Operasi (OS), Pemrograman Sistem (Sysprog), Perancangan dan Pemrograman Web (PPW), Basis Data (Basdat), Rekayasa Perangkat Lunak (RPL), Layanan dan Aplikasi Web (LAW), dan Proyek Perangkat Lunak (PPL). Sebagai <it>software</it> <it>engineer,</it> DDP merupakan mata kuliah yang paling banyak memberikan manfaat, karena mengajarkan konsep dasar dalam pemrograman. Pada mata kuliah SDA, dipelajari berbagai macam struktur data dan perbedaannya satu sama lain. Dalam kerja praktik, tentu diperlukan pengetahuan tersebut agar dapat implementasi fitur yang baik dan efisien. Mata kuliah OS dan Sysprog membantu penulis dalam penggunaan Linux, sehingga sama sekali tidak kesulitan dalam penggunaannya selama kerja praktik. Salah satu bahasa yang diajarkan ketika mengambil mata kuliah PPW yaitu PHP. Dalam implementasi aplikasi <it>boundary</it> pada framework Code Ignitor digunakan bahasa tersebut. Mata kuliah Basdat mengajarkan tentang <it>database</it> beserta <it>query</it> yang berguna dalam penggunaan <it>database</it> PostgreSQL Tokopedia. Pada mata kuliah RPL dipelajari metode-metode pengembangan aplikasi, salah satunya yaitu <it>scrum.</it> Hal tersebut meningkatkan pemahaman penulis tentang <it>scrum.</it> Implementasi <it>web</it> <it>service</it> merupakan salah satu materi dalam mata kuliah LAW, dimana berkaitan dengan kerja praktik penulis. Yang terakhir yaitu mata kuliah PPL, yang memberikan pengalaman bekerja dalam kelompok untuk mengembangkan suatu aplikasi Android. Metode yang digunakan dalam pengembangan aplikasi tersebut sama seperti ketika kerja praktik, yaitu metode <it>scrum.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik di Tokopedia, penulis mendapatkan pengetahuan dan pengalaman baru dalam berbagai hal, seperti implementasi API dan <it>web</it> <it>service</it> yang baik, bekerja dalam tim yang lebih besar, bahasa pemrograman Perl dan Go, hingga teknologi-teknologi yang belum diketahui penulis sebelumnya. Selain itu, penulis juga mendapat pengalaman merasakan budaya dan kondisi dunia kerja yang sesungguhnya. Pengalaman tersebut sangatlah berharga untuk persiapan dalam memasuki dunia kerja setelah melewati masa perkuliahan di Fasilkom UI. Penulis merasa senang karena fitur yang diimplementasi dapat bermanfaat untuk aplikasi Tokopedia. Pengalaman dalam menjadi bagian dari Tokopedia dan bertemu dengan teman baru merupakan pengalaman yang tak terlupakan bagi penulis. Berkat bimbingan dari mentor yang profesional, penulis dapat menjalani kerja praktik ini dengan baik. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Penilaian penulis terhadap tempat kerja praktik sudah sangat baik. Tokopedia memberikan pengalaman kerja praktik yang baik untuk penulis. Saran untuk kerja praktik yaitu pada penyelenggaraan kegiatan kerja praktik, dimana KAKP yang dibuat tidak mendapatkan respon yang cepat dari dosen pembimbing. Berlawanan dengan aturan yang diberikan bahwa KAKP paling lambat diselesaikan paling lambat satu minggu setelah mulai kerja praktik, penulis mendapat respon kira-kira satu bulan setelah pengumpulan KAKP tersebut. Kejadian tersebut juga terjadi pada rekan-rekan mahasiswa yang melakukan kerja praktik, dimana respon tidak diberikan dengan cepat yang mengakibatkan KAKP yang perlu di <it>review</it> bertumpuk. Penulis berharap agar kejadian tersebut tidak terjadi lagi agar tidak mengganggu di tengah proses kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT Tokopedia. (n.d.). <it>About</it> <it>Tokopedia.</it> Diambil pada 14 November 2016 dari https://www.tokopedia.com/about [2] Wikipedia, the free encyclopedia. (n.d.). <it>Microservices.</it> Diambil pada 20 November 2016 dari https://en.wikipedia.org/wiki/Microservices [3] Wikipedia, the free encyclopedia. (n.d.). <it>Application</it> <it>Programming</it> <it>Interface.</it> Diambil pada 20 November 2016 dari https://en.wikipedia.org/wiki/Application_programming_interface [4] Wikipedia, the free encyclopedia. (n.d.). <it>Web</it> <it>Service.</it> Diambil pada 20 November 2016 dari https://en.wikipedia.org/wiki/Web_service [5] Wikipedia, the free encyclopedia. (n.d.). <it>Scrum</it> <it>(software</it> <it>development).</it> Diambil pada 20 November 2016 dari https://en.wikipedia.org/wiki/Scrum_(software_development) [6] Wikipedia, the free encyclopedia. (n.d.).<it>Poedit.</it> Diambil pada 23 November 2016 dari https://en.wikipedia.org/wiki/Poedit 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>vii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+	</page>
+	<page id="25">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

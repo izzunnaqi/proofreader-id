@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>RISET</bo> <bo>DAN</bo> <bo>PENGEMBANGAN</bo> <bo>PRODUK</bo> <bo>KASKUS</bo> <bo>JUAL</bo> <bo>BELI</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>YARA</bo> <bo>AZURA</bo> <bo>SANURIAN</bo></title>
+		<segment>
+			<bo>1306382934</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>DESEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama : Yara Azura Sanurian Program Studi : Sistem Informasi Judul : Riset dan Pengembangan Produk KASKUS Jual Beli Laporan kerja praktik ini berisi hasil kerja praktik yang telah penulis lakukan bersama penyelia di GDP Labs pada periode Juni-Agustus 2016 selama sepuluh minggu. Penulis berperan sebagai <it>product</it> <it>manager</it> dengan penyelia Hans Primandala Chandra yang memiliki posisi sebagai <it>principal</it> <it>product</it> <it>manager</it> di GDP Labs. Penulis memilih proyek KASKUS Jual Beli dengan tanggung jawab melakukan riset dan pengembangan pada fitur-fitur baru, diantaranya adalah fitur <it>online</it> <it>virtual</it> <it>store</it> dan fitur <it>wishlist.</it> Dalam pengembangan fitur baru tersebut, terdapat beberapa dokumen yang harus dilaporkan kepada penyelia, diantaranya adalah dokumen <it>screenshot,</it> dokumen rancangan <it>wireframe,</it> dokumen tutorial, dan dokumen presentasi <it>paper</it> <it>prototype.</it> Selama kerja praktik, penulis mendapatkan banyak pengetahuan dan pengalaman sebagai <it>product</it> <it>manager</it> di bidang forum <it>online</it> dan <it>e-commerce</it> Indonesia. Kata kunci: GDP Labs, kerja praktik, <it>product</it> <it>management,</it> KASKUS Jual Beli 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 5</title>
+		<segment>
+			2.1.2.1. Definisi dan Konsep <it>E-commerce</it> ................................................... 5 2.1.2.2. Definisi dan Konsep <it>Product</it> <it>Management</it> ..................................... 6 2.1.2.3. Konsep <it>wireframe</it> ............................................................................ 7 2.1.2.4. Konsep <it>paper</it> <it>prototype</it> .................................................................. 7 
+		</segment>
+		<title>2.1.3. Metodologi ................................................................................................ 8</title>
+		<title>2.1.4. Pengembagan Fitur dan <it>Deliverables</it> ..................................................... 10</title>
+		<title>2.1.5. Teknologi ................................................................................................ 11</title>
+		<title>2.2. Analisis .......................................................................................................... 12</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 12</title>
+		<segment>
+			2.2.1.1. Kesesuaian dan Perbedaan dengan KAKP ................................... 12 2.2.1.2. Pembelajaran <it>Soft</it> <it>Skill</it> dari Kerja Praktik..................................... 14 2.2.1.3. Kendala dan Cara Penangananan................................................... 15 2.2.1.4. Penilaian terhadap Tempat Kerja Praktik ...................................... 15 
+		</segment>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 16</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 18 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 18</title>
+		<title>3.2. Saran .............................................................................................................. 18</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 20 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1.1. Logo GDP Venture .................................................................................. 2 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 2.1. Kesesuaian dan Perbedaan dengan KAKP ................................................ 13 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			Lampiran 1. KAKP .................................................................................................... viii Lampiran 2. Log Kerja Praktik .................................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada proses pencarian kerja praktik, penulis mencoba melamar melalui Jobstreet dan mengirimkan <it>e-mail</it> langsung pada perusahaan yang dituju. Beberapa perusahaan tersebut antara lain PT Bukalapak.com, PT Traveloka Indonesia (Traveloka.com), PT Midtrans Indonesia, PT Mediatrac Sistem Komunikasi, dan PT Multi Adiprakasa Manunggal (Kartuku). Namun, penulis tidak mendapatkan balasan lebih lanjut dari perusahaan-perusahaan yang dilamar tersebut. Setelah mencoba mengirimkan lamaran ke beberapa perusahaan, penulis mendapatkan informasi mengenai lowongan kerja praktik dari seorang rekan mahasiswa yaitu Grietha Andina Putri (Fasilkom UI 2013). Lowongan kerja praktik tersebut berasal dari PT Global Digital Prima (GDP Labs). Rekan penulis mendapatkan informasi tersebut dari daftar lowongan kerja praktik senior Fasilkom UI tahun 2012 dan 2011. Penulis melamar kerja praktik di GDP Labs pada bulan Februari 2016 dengan cara mengirimkan <it>e-mail</it> langsung pada CTO GDP Labs, yaitu Pak On Lee. Kemudian, Pak On Lee mengarahkan lowongan penulis ke salah satu karyawan GDP Labs yaitu, Stella Kurniawan. Penulis menanyakan ketersediaan lowongan kerja praktik yang terdapat pada GDP Labs, dan terdapat dua lowongan yaitu <it>product</it> <it>manager</it> dan <it>software</it> <it>engineer.</it> Penulis kemudian melamar untuk posisi <it>product</it> <it>manager</it> dan mengirimkan <it>Curriculum</it> <it>Vitae</it> (CV) melalui <it>e-mail.</it> Selang beberapa saat, Stella mengatur jadwal wawancara yang harus dilakukan sebagai syarat untuk diterimanya kerja praktik di GDP Labs. Proses wawancara dilakukan pada tanggal 1 Maret 2016, penulis datang langsung ke kantor GDP Labs yang berlokasi di daerah Slipi, Jakarta Barat. Wawancara berlangsung dari pukul 15.00 hingga pukul 16.00. Pewawancara terdiri dari dua orang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			yang menjabat sebagai <it>principal</it> <it>product</it> <it>manager</it> dan <it>product</it> <it>manager</it> <it>staff.</it> Hal-hal yang ditanyakan oleh pewawancara seputar <it>product</it> <it>management,</it> kegiatan kepanitiaan, dan organisasi di kampus. Pada hari yang sama, yaitu Selasa, 1 Maret 2016 perekrut menyatakan bahwa penulis lolos tahap wawancara dan dinyatakan diterima untuk melaksanakan kerja praktik di GDP Labs pada divisi <it>product</it> <it>manager.</it> Divisi ini memiliki tanggung jawab untuk melakukan pengembangan produk teknologi informasi pada GDP Labs maupun pada <it>sister</it> <it>companies</it> GDP Labs. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan menjelaskan profil singkat tempat kerja praktik dan posisi penempatan penulis dalam struktur organisasi. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			<it>Gambar</it> <it>1.1.</it> <it>Logo</it> <it>GDP</it> <it>Venture</it> Gambar 1.1 merupakan logo PT Global Digital Prima (GDP Venture) yang merupakan salah satu perusahaan <it>venture</it> <it>builder</it> di Indonesia. GDP Venture bertugas untuk memberikan pendanaan pada <it>startup</it> yang sedang berkembang di Indonesia [1]. GDP Venture termasuk dalam grup PT Djarum dan memiliki banyak anak perusahaan seperti PT Darta Media Indonesia (KASKUS), PT Global Digital Niaga (Blibli.com), Infokost.id, dan sebagainya. Secara organisasi, GDP Labs merupakan salah satu anak perusahaan dari GDP Venture. GDP Labs bertugas untuk membantu pengembangan <it>startup-startup</it> yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			didanai oleh GDP Venture. Tidak hanya itu, GDP Labs juga mengembangkan produk- produk secara <it>in-house</it> yang kemudian dapat digunakan sehari-hari. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			GDP Labs memiliki beberapa proyek untuk pengembangan produk, di mana pada setiap proyek terdiri dari beberapa <it>software</it> <it>development</it> <it>engineer,</it> <it>system</it> <it>engineer,</it> dan dipimpin oleh satu atau beberapa <it>product</it> <it>manager.</it> Pada kerja praktik kali ini, penulis ditempatkan sebagai <it>product</it> <it>manager</it> di bawah salah satu proyek KASKUS Jual Beli yang berfokus pada pengembangan dan peningkatan produk pada forum jual beli KASKUS. Adapun mengenai struktur organisasi GDP Labs, merupakan bagian yang <it>confidential</it> sehingga tidak dapat dipublikasikan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada pekerjaan dalam kerja praktik, penulis akan menjelaskan latar belakang pekerjaan pada masa kerja praktik dan tinjauan pustaka. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			GDP Labs memiliki beberapa proyek untuk membantu pengembangan beberapa <it>startup,</it> salah satu contohnya adalah KASKUS. KASKUS merupakan sebuah situs forum komunitas <it>online</it> terbesar di Indonesia, dibuktikan dengan KASKUS menduduki peringkat tujuh situs yang paling banyak dikunjungi di Indonesia. KASKUS berdiri sejak 6 November 1999 oleh tiga pemuda Indonesia yaitu Andrew Darwis, Ronald Stephanus, dan Budi Darmawan [2]. Seiring dengan perkembangan waktu, KASKUS yang tadinya juga merupakan forum jual beli mengembangkan situsnya menjadi situs <it>e-commerce.</it> Situs <it>e-commmerce</it> yang merupakan bagian dari forum <it>online</it> KASKUS membutuhkan beberapa fitur-fitur yang memudahkan pengguna dalam melakukan pemesanan produk <it>online.</it> Salah satu masalah yang sering terjadi adalah kurangnya fitur pendukung pada suatu situs <it>e-</it> <it>commerce</it> sehingga tidak dapat meningkatkan <it>competitive</it> <it>advantage</it> jika dibandingkan dengan kompetitornya. Penulis memiliki tugas untuk mengembangkan dua fitur yaitu <it>online</it> <it>virtual</it> <it>store</it> dan fitur <it>wishlist.</it> Melalui laporan kerja praktik yang berjudul “Riset dan Pengembangan  Produk KASKUS Jual Beli”, akan dipaparkan hasil dokumentasi yang juga merupakan  <it>deliverables</it> dari pengembangan kedua fitur tersebut. Fitur <it>online</it> <it>virtual</it> <it>store</it> berguna sebagai halaman muka seorang penjual, sedangkan fitur <it>wishlist</it> berguna untuk menyimpan suatu produk yang ingin dibeli oleh seorang calon pembeli. Diharapkan dengan adanya fitur <it>online</it> <it>virtual</it> <it>store</it> dan fitur <it>wishlist,</it> KASKUS Jual Beli dapat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			berkembang sesuai dengan kebutuhan pengguna dan mampu meningkatkan <it>competitive</it> <it>advantage</it> diantara pesaing-pesaingnya. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Pada tinjauan pustaka, penulis akan meninjau pustaka terkait kerja praktik yang dilakukan oleh penulis, yaitu definisi <it>e-commerce,</it> definisi <it>product</it> <it>management,</it> konsep <it>wireframe,</it> dan konsep <it>paper</it> <it>prototype.</it> <bo>2.1.2.1.</bo> <bo>Definisi</bo> <bo>dan</bo> <bo>Konsep</bo> <it><bo>E-commerce</bo></it> <it>Electronic</it> <it>commerce</it> <it>(e-commerce)</it> adalah sebuah istilah yang digunakan ketika menggunakan Internet dan intranet untuk membeli, menjual, mengangkut, dan melakukan segala jenis kegiatan perdagangan data, barang, atau jasa <bo>(Turban,</bo> <bo>2015).</bo> Konsep <it>e-commerce</it> terdiri dari dua jenis, yaitu <it>pure</it> <it>e-commerce</it> dan <it>partial</it> <it>e-</it> <it>commerce.</it> Suatu organisasi dikatakan termasuk <it>pure</it> <it>e-commerce</it> ketika segala aktivitas pemesanan, pembayaran, pemenuhan order, dan pengiriman dilakukan secara digital. Sedangkan <it>partial</it> <it>e-commerce</it> adalah ketika ada setidaknya satu aktivitas (pemesanan, pembayaran, pemenuhan order, atau pengiriman) dilakukan secara fisikal [3]. KASKUS Jual Beli termasuk pada kategori <it>partial</it> <it>e-commerce</it> karena pada umumnya produk yang dijual merupakan produk fisikal dan pengirimannya juga dilakukan secara fisikal. <it>E-commerce</it> dapat diklasifikasikan berdasarkan jenis transaksi dan hubungan antara pesertanya, beberapa jenis klasifikasinya adalah [4]: 1. <it>Businesss-to-Business</it> (B2B), yaitu ketika transaksi <it>e-commerce</it> terjadi antar organisasi 2. <it>Business-to-Consumer</it> (B2C), yaitu ketika transaksi <it>e-commerce</it> terjadi antara organisasi dan <it>customer</it> individual secara retail 3. <it>Business-to-Business-to-Consumer</it> (B2B2C), yaitu ketika transaksi <it>e-</it> <it>commerce</it> terjadi antara sebuah organisasi (B1) menjual produknya ke organisasi lain (B2) kemudian organisasi lain (B2) menjual produknya ke <it>customer</it> individual 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			4. <it>Consumer-to-Business</it> (C2B), yaitu ketika transaksi <it>e-commerce</it> terjadi antar individual ke bisnis atau organisasi 5. <it>Intrabusiness</it> <it>EC,</it> yaitu ketika transaksi <it>e-commerce</it> terjadi antar departemen sebuah organisasi 6. <it>Business-to-Employee</it> (B2E), yaitu ketika transaksi <it>e-commerce</it> terjadi antara organisasi dan karyawan organisasi 7. <it>Consumer-to-Consumer</it> (C2C), yaitu ketika transaksi <it>e-commerce</it> terjadi antar <it>customer</it> individual 8. <it>Collaborative</it> <it>commerce,</it> yaitu segala aktivitas dan komunitas <it>online</it> yang dilakukan oleh pihak-pihak yang memiliki tujuan yang sama 9. <it>E-Government,</it> yaitu ketika agensi pemerintahan membeli atau menyediakan barang, jasa, atau informasi dari/untuk bisnis, <it>customer</it> individual, maupun instansi pemerintahan lainnya KASKUS Jual Beli merupakan klasifikasi <it>e-commerce</it> <it>Consumer-to-Consumer</it> (C2C), karena KASKUS Jual Beli menyediakan sebuah <it>e-marketplace</it> atau sebuah lokasi <it>online</it> yang mempertemukan penjual dan pembelinya, di mana penjual dan pembelinya merupakan <it>customer</it> individual. <bo>2.1.2.2.</bo> <bo>Definisi</bo> <bo>dan</bo> <bo>Konsep</bo> <it><bo>Product</bo></it> <it><bo>Management</bo></it> <it>Product</it> <it>management</it> didefinisikan sebagai salah satu struktur organisasi di dalam bisnis yang mengelola pengembangan, pemasaran, dan penjualan suatu produk selama masa hidup produk tersebut (<it>product</it> <it>life</it> <it>cycle)</it> [5]. Seorang <it>product</it> <it>manager</it> memiliki tanggung jawab berupa mengevaluasi kesempatan sebuah produk dan mendefinisikan produk apa yang ingin dibangun. Ide-ide mengenai produk yang ingin dikembangkan dapat berasal dari tim eksekutif, <it>customer,</it> tim pemasaran, <it>usability</it> <it>testing,</it> dan sebagainya. Kemudian ide-ide ini akan dievaluasi dan dinilai oleh <it>product</it> <it>manager</it> untuk menentukan apakah layak untuk dikembangkan menjadi sebuah produk akhir, proses ini disebut <it>Market</it> <it>Requirement</it> <it>Document</it> (MRD) atau <it>opportunity</it> <it>assessment.</it> Setelah dilakukan <it>opportunity</it> <it>assessment,</it> <it>product</it> <it>manager</it> akan menganalisis fitur dan fungsionalitas suatu produk, <it>user</it> <it>experience,</it> dan kriteria rilisnya, proses ini 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			disebut <it>Product</it> <it>Requirements</it> <it>Document</it> (PRD), <it>product</it> <it>spec,</it> atau <it>functional</it> <it>spec</it> [6]. <bo>2.1.2.3.</bo> <bo>Konsep</bo> <it><bo>wireframe</bo></it> <it>Wireframe</it> adalah sebuah panduan dasar <it>interface</it> visual yang menunjukkan sebuah struktur sebuah <it>interface</it> dan hubungan antar halaman-halamannya [7]. <it>Wireframe</it> digambarkan dalam bentuk <it>blueprint</it> atau bagan yang berisi struktur-struktur dari sebuah halaman <it>web,</it> fungsionalitas, dan konten <it>web.</it> Perancangan <it>wireframe</it> dilakukan sebelum tahap desain lain dilakukan, dengan tujuan untuk fokus pada <it>layout</it> sebuah aplikasi <it>web</it> atau <it>mobile</it> tanpa ada gambaran lain, seperti warna. Isi atau konten dari sebuah <it>wireframe</it> mencakup informasi seperti: 1. Judul, mendeskripsikan tujuan dari dibuatnya <it>wireframe</it> 2. Cara <it>user</it> mencapai bagian (<it>panel)</it> <it>wireframe</it> terkait 3. Objektif, menjelaskan tujuan dari suatu bagian (<it>panel)</it> 4. Konten atau data, menjelaskan seluruh isi dari <it>panel</it> seperti tombol dan <it>icon</it> 5. Kondisi <it>if/then,</it> menjelaskan perilaku <it>user</it> dan hasil dari perilaku tersebut 6. Tombol, menjelaskan tautan navigasi pada sebuah halaman 7. Kondisi <it>error,</it> menjelaskan setiap kemungkinan <it>error</it> yang terjadi akibat dari perilaku <it>user</it> dan pesan apa yang akan diberikan oleh <it>wireframe</it> <it>Wireframe</it> dapat digunakan sebagai dokumen yang membantu proses desain. <it>Wireframe</it> dapat membantu memperjelas <it>requirement</it> dan memberikan kondisi- kondisi yang sebelumnya tidak terpikirkan oleh tim proyek. Pembuatan <it>wireframe</it> dapat dibantu dengan beberapa aplikasi <it>software,</it> diantaranya adalah Balsamiq, Microsoft Visio, Adobe Illustrator, Adobe Photoshop, dan Microsoft Power Point. <bo>2.1.2.4.</bo> <bo>Konsep</bo> <it><bo>paper</bo></it> <it><bo>prototype</bo></it> <it>Prototype</it> adalah penghubung antara tahap desain dan <it>development,</it> <it>prototype</it> akan memberikan suatu <it>interface</it> yang konkret untuk berinteraksi. <it>Prototype</it> dapat memberikan <it>feedback</it> dari orang-orang yang mencobanya dan <it>prototype</it> yang dikembangkan dapat divalidasi oleh tim proyek, <it>clients,</it> <it>stakeholders,</it> dan <it>users.</it> Selain 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			itu, dengan adanya <it>prototype</it> tim proyek dapat fokus dalam mengamati perilaku <it>user</it> tanpa melihat opini-opini yang muncul [8]. <it>Paper</it> <it>prototype</it> adalah salah satu jenis <it>prototype</it> yang memiliki keuntungan untuk membuat dan mencoba <it>user</it> <it>interface</it> secara cepat dan murah. <it>Paper</it> <it>prototype</it> merupakan variasi dari <it>usability</it> <it>testing</it> di mana <it>user</it> representatif menjalankan sekumpulan <it>task</it> dengan cara berinteraksi dengan sebuah <it>interface</it> versi kertas, kemudian <it>paper</it> <it>prototype</it> ini dimanipulasi oleh <it>user</it> seolah-olah berinteraksi dengan <it>interface</it> yang sesungguhnya <bo>(Carolyn</bo> <bo>Synder,</bo> <bo>2003).</bo> <it>Paper</it> <it>prototype</it> mulai digunakan sejak tahun 1990-an oleh perusahaan-perusahaan besar seperti IBM, Honeywell, dan Microsoft [9]. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik dengan cara melakukan wawancara dengan penyelia terkait fitur-fitur yang akan dikembangkan dan melakukan observasi langsung pada <it>website</it> KASKUS Jual Beli. Tahapan yang dilakukan penulis saat pelaksanaan kerja praktik adalah: 1. Mengumpulkan <it>screenshot</it> produk kompetitor Tahap pertama yang dilakukan adalah mengumpulkan <it>screenshot</it> dari produk kompetitor terkait fitur-fitur sejenis yang akan dikembangkan. Setelah itu akan diberikan penjelasan singkat mengenai pengalaman ketika menggunakan fitur tersebut. 2. Analisis produk kompetitor Pada tahap ini <it>screenshot</it> yang telah dikumpulkan akan dianalisis untuk menemukan fitur apa yang cocok untuk dikembangkan pada KASKUS Jual Beli dan perubahan fitur tersebut ketika diimplementasikan pada KASKUS Jual Beli. 3. Menyusun <it>draft</it> <it>wireframe</it> Setelah melakukan analisis produk kompetitor, penulis merancang <it>wireframe</it> yang sesuai dengan kondisi KASKUS Jual Beli menggunakan <it>tools</it> Balsamiq Mockups. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			4. Menyusun dokumen <it>requirement</it> Tahap ini merupakan tahapan penyusunan dokumen <it>requirement,</it> yang berisi:   <it>Background,</it>  berisi  latar  belakang  dan  objektif  pengembangan  fitur  terkait   <it>Feature</it> <it>detail,</it> berisi <it>wireframe</it> yang telah disetujui penyelia dan alur  skenario dari setiap fitur. Tahapan dari setiap alur skenario mencakup <it>basic</it> <it>flow,</it> <it>alternative</it> <it>flow,</it> <it>subflow</it> dan <it>contents.</it> 5. Menyusun dokumen tutorial Tahap ini berupa tahapan penyusunan dokumen tutorial,</it> yang berisi langkah- langkah dalam menggunakan fitur baru tersebut dari pihak pembeli maupun pihak penjual. 6. Membuat <it>paper</it> <it>prototype</it> Tahap ini merupakan tahap terakhir dalam pelaksanaan kerja praktik, penulis disertakan dalam proyek kelompok <it>paper</it> <it>prototype</it> dengan dua orang pelaksana kerja praktik lainnya yaitu Wedya Finiesha (Fasilkom UI 2013) dan Fransisca Natalia (Fasilkom UI 2013). 7. <it>Training</it> Selain tahapan-tahapan diatas, penulis, karyawan, dan rekan-rekan kerja praktik di GDP Labs mendapatkan sejumlah <it>training</it> yang berhubungan dengan tugas yang diberikan dan <it>training</it> lainnya mengenai perkembangan teknologi. <it>Training-training</it> yang diberikan antara lain:   <it>Training</it> <it>product</it> <it>management</it>    <it>Training</it> <it>machine</it> <it>learning</it>    <it>Training</it> Git    OWASP <it>security</it> <it>training</it>    <it>Unit</it> <it>test</it> <it>training</it>    REST API <it>training</it>    <it>Training</it> Amazon <it>web</it> <it>service</it>    <it>Deep</it> <it>learning</it> <it>training</it>  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			  Jenkins <it>training</it>    Unity 3D <it>training</it>    Docker <it>training</it>    <it>Introduction</it> <it>to</it> Swift <it>training</it>   Spring <it>framework</it> <it>training</it>  
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Pengembagan</bo> <bo>Fitur</bo> <bo>dan</bo> <it><bo>Deliverables</bo></it></title>
+		<segment>
+			Terdapat dua fitur yang dikembangkan oleh penulis selama masa kerja praktik, yaitu: 1. Fitur <it>online</it> <it>virtual</it> <it>store,</it> adalah tampilan halaman muka yang memisahkan tampilan <it>profile</it> seorang penjual dengan KASKUS Jual Beli <it>Store</it> yang dimilikinya. Diharapkan dengan adanya <it>online</it> <it>virtual</it> <it>store</it> dapat:   Memperjelas tampilan  KASKUS  Jual  Beli  <it>Store</it> dengan penambahan  informasi-informasi terkait penjual maupun toko tersebut   Memisahkan produk-produk yang dijual berdasarkan kategori sehingga  dapat tersusun dengan baik 2. Fitur <it>wishlist,</it> adalah sebuah halaman untuk menampung produk-produk yang ingin dibeli oleh seorang <it>customer.</it> Penambahan fitur <it>wishlist</it> diharapkan dapat:   Menampung  produk-produk  yang  diinginkan  oleh  <it>customer</it>  sehingga  <it>customer</it> tidak perlu mencari lagi barang yang diinginkannya   Menampung  produk-produk  yang  diinginkan  oleh  <it>customer</it> berdasarkan kategori atau nama <it>wishlist</it> untuk memudahkan <it>customer</it> dalam menyimpan <it>wishlist</it> Keuntungan yang akan didapatkan dalam mengembangkan fitur <it>wishlist</it> diantaranya:   Mendorong <it>customer</it> atau calon <it>customer</it> untuk kembali mengunjungi  KASKUS Jual Beli   Apabila  barang  yang  diinginkan  <it>out</it>  <it>of</it>  <it>stock</it>  maka  <it>customer</it>  dapat  memasukkan barang tersebut ke dalam <it>wishlist</it> sehingga <it>customer</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			dapat melakukan <it>tracking</it> perkembangan barang tersebut jika barang sudah tersedia kembali   Tim  pengembang  KASKUS  Jual  Beli  dapat  melakukan  <it>tracking</it>  dan  <it>forecasting</it> berdasarkan <it>wishlist</it> <it>customer</it> untuk mengetahui barang- barang apa saja yang diminati oleh <it>customer.</it> Dengan mengetahui barang-barang yang diminati oleh <it>customer,</it> KASKUS Jual Beli dapat mengadakan promosi untuk barang terkait. Dari masing-masing fitur tersebut dihasilkan beberapa <it>deliverables</it> yang kemudian diberikan kepada penyelia sebagai dokumen yang dihasilkan, berupa: 1. Dokumen <it>screenshot</it> produk kompetitor 2. Dokumen <it>wireframe</it> 3. Dokumen <it>requirement</it> 4. Dokumen tutorial 5. Video <it>paper</it> <it>prototype</it> Selain itu, terdapat beberapa dokumen yang harus dilaporkan kepada penyelia diluar kedua fitur tersebut, yaitu: 1. Laporan mingguan 2. Dokumen <it>field</it> <it>report</it> 3. Dokumen presentasi akhir 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, terdapat beberapa teknologi yang digunakan untuk membantu penulis dalam menyelesaikan pekerjaan, antara lain: 1. Google Sites (<it>wiki)</it> Google Sites merupakan kumpulan halaman situs yang memungkinkan pengguna melakukan perubahan secara kolaboratif. Google Sites digunakan di GDP Labs untuk mencatat absen harian dan mengisi laporan mingguan 2. Google Drive Penulis menggunakan Google Drive sebagai media berbagi <it>file</it> pekerjaan dengan penyelia 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			3. Balsamiq Mockups Balsamiq Mockups digunakan oleh penulis untuk merancang <it>wireframe</it> 4. Microsoft Word 2016 Microsoft Word digunakan oleh penulis untuk menyusun dokumen <it>deliverables</it> 5. Snipping Tool Snipping Tool digunakan oleh penulis untuk kebutuhan <it>screenshot</it> <it>6.</it> Video <it>recorder</it> Video <it>recorder</it> digunakan oleh penulis untuk merekam pembuatan video <it>paper</it> <it>prototype</it> 7. Adobe Premiere Adobe Premiere digunakan oleh penulis dalam pembuatan video <it>paper</it> <it>prototype</it> 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada bagian analisis, penulis akan menjelaskan tahapan pelaksanaan kerja praktik dan relevansi dengan perkuliahan di Fasilkom UI. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik, penulis akan menjelaskan kesesuaian dan perbedaan pekerjaan dengan Kerangka Acuan Kerja Praktik (KAKP), pembelajaran <it>soft</it> <it>skill</it> yang didapatkan selama kerja praktik, kendala dan cara penanganan selama kerja praktik, dan penilaian terhadap tempat kerja praktik. <bo>2.2.1.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Tabel 2.1 merupakan tabel kesesuaian dan perbedaan pekerjaan selama kerja praktik dengan pekerjaan yang tertera pada Kerangka Acuan Kerja Praktik (KAKP). Kesesuaian dan perbedaan yang dilampirkan berdasarkan pekerjaan yang dilakukan oleh penulis per minggu. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			Tabel 2.1. Kesesuaian dan Perbedaan dengan KAKP <bo>Minggu</bo> <bo>Kesesuaian</bo> <bo>Perbedaan</bo> 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			Seluruh kegiatan kerja praktik Penyelesaian dokumen di minggu pertama berjalan <it>screenshot</it> produk kompetitor sesuai dengan Kerangka terjadi lebih awal dan penulis Acuan Kerja Praktik (KAKP) memulai perancangan <it>wireframe</it> lebih awal 
+		</segment>
+		<pagenum>2</pagenum>
+		<segment>
+			Seluruh kegiatan kerja praktik di minggu kedua berKerangka Acuan Kerja Praktik (KAKP) 
+		</segment>
+		<pagenum>3</pagenum>
+		<segment>
+			Seluruh kegiatan kerja praktik Terdapat perubahan fitur yang di minggu ketiga berjalan awalnya merupakan fitur <it>pop-up</it> sesuai dengan Kerangka tutorial menjadi fitur <it>wishlist.</it> Acuan Kerja Praktik (KAKP) Namun, perubahan tersebut sudah disesuaikan dengan KAKP. 
+		</segment>
+		<pagenum>4</pagenum>
+		<segment>
+			Seluruh kegiatan kerja praktik di minggu keempat berhasil diselesaikan sesuai dengan Kerangka Acuan Kerja Praktik (KAKP) 
+		</segment>
+		<pagenum>5</pagenum>
+		<segment>
+			Seluruh kegiatan kerja praktik Pada tanggal 18 Juli 2016, di minggu kelima berjalan penulis dan beberapa rekan sesuai dengan Kerangka pelaksana kerja praktik Acuan Kerja Praktik (KAKP) mengadakan kunjungan ke kantor KASKUS yang terletak di Menara Palma, Jakarta Selatan. Penulis juga menyusun <it>field</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			<it>report</it> terkait kunjungan ini pada minggu kelima. 
+		</segment>
+		<pagenum>6</pagenum>
+		<segment>
+			Seluruh kegiatan kerja praktik di minggu keenam berhasil diselesaikan sesuai dengan Kerangka Acuan Kerja Praktik (KAKP) 
+		</segment>
+		<pagenum>7</pagenum>
+		<segment>
+			Pembuatan <it>paper</it> <it>prototype</it> berhasil dimulai pada minggu ketujuh dengan cara membuat skenario fitur tambahan 
+		</segment>
+		<pagenum>8</pagenum>
+		<segment>
+			Pada minggu kedelapan Skenario dan <it>wireframe</it> dibuat bebrerapa rancangan tambahan berhasil diselesaikan <it>wireframe</it> tambahan untuk dalam waktu singkat sehingga seluruh skenario pembuatan video <it>paper</it> <it>prototype</it> dimulai pada minggu kedelapan 
+		</segment>
+		<pagenum>9</pagenum>
+		<segment>
+			Pada minggu kesembilan Pembuatan konten presentasi dan penulis dan tim penyusun presentasi akhir dilakukan lebih <it>paper</it> <it>prototype</it> awal pada tanggal 19 Agustus menyelesaikan pembuatan 2016, hal ini dikarenakan tugas video <it>paper</it> <it>prototype,</it> konten yang dilakukan penulis dan tim presentasi, dan melakukan sudah selesai dilakukan. presentasi akhir 
+		</segment>
+		<pagenum>10</pagenum>
+		<segment>
+			Penulis diberikan tugas baru oleh penyelia yaitu mempelajari Google Analytics <bo>2.2.1.2.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>dari</bo> <bo>Kerja</bo> <bo>Praktik</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<segment>
+			Salah satu pembelajaran <it>soft</it> <it>skill</it> yang didapatkan oleh penulis selama pelaksanaan kerja praktik sebagai <it>product</it> <it>manager</it> adalah kemampuan berpikir analitis dan inovatif. Seorang <it>product</it> <it>manager</it> harus dapat berpikir secara analitis untuk dapat menganalisis fitur-fitur kritikal dari kompetitor. Kemudian, berpikir secara inovatif dibutuhkan untuk mengembangkan fitur-fitur baru yang cocok untuk diimplementasikan pada KASKUS Jual Beli. Pembelajaran <it>soft</it> <it>skill</it> lain yang didapatkan oleh penulis adalah kemampuan <it>problem</it> <it>solving.</it> Hal ini dikarenakan <it>product</it> <it>manager</it> di GDP Labs bertindak sebagai <it>product</it> <it>owner</it> dan pemimpin tim proyek. <it>Product</it> <it>manager</it> bertanggung jawab dalam memahami masalah yang ada selama masa pengembangan produk baik dari dalam tim maupun dari luar tim, serta mencari solusi terbaik bagi masalah tersebut. Contohnya pada saat melakukan <it>standup</it> <it>meeting</it> harian di KASKUS, setiap anggota tim akan memberi tahu masalah apa yang dihadapinya pada hari itu, kemudian <it>product</it> <it>manager</it> akan mencari solusi atas masalah yang dihadapi oleh anggota tim. Selain itu, dalam konteks pelaksanaan kerja praktik, penulis merasa harus memiliki kemampuan komunikasi verbal dan pengelolaan waktu yang baik. Kemampuan komunikasi verbal dibutuhkan agar penulis dapat berkomunikasi dengan baik dengan penyelia dan rekan-rekan pelaksana kerja praktik terkait pembagian tugas. Selain itu, penulis diberikan beberapa tugas dan penulis harus bertanggung jawab dengan tugas- tugas yang diberikan. Tugas-tugas tersebut memiliki suatu tenggang waktu, oleh karena itu penulis diwajibkan memiliki kemampuan pengelolaan waktu yang baik. <bo>2.2.1.3.</bo> <bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penangananan</bo> Penulis berada di kantor yang berbeda dengan penyelia, sehingga untuk melakukan komunikasi langsung hanya dapat dilakukan ketika penyelia berada di kantor GDP Labs yaitu setiap hari Selasa. Komunikasi sehari-hari dilakukan melalui aplikasi <it>chat</it> WhatsApp. Selain itu, tidak ada kendala yang berarti selama pelaksanaan kerja praktik. <bo>2.2.1.4.</bo> <bo>Penilaian</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<segment>
+			Secara keseluruhan GDP Labs memiliki lingkungan kerja yang sangat memerhatikan kemampuan setiap individu baik karyawan maupun mahasiswa kerja praktik, dibuktikan dengan GDP Labs rutin memberikan <it>training</it> bagi setiap karyawan dan mahasiswa kerja praktik untuk meningkatkan kemampuan dan agar karyawan dan mahasiswa tetap <it>up-to-date</it> dengan perkembangan teknologi. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Terdapat beberapa mata kuliah yang relevan dengan pekerjaan penulis yaitu sebagai <it>product</it> <it>manager.</it> Berikut merupakan mata kuliah yang memiliki relevansi dengan kerja praktik yang dilakukan penulis: 1. Manajemen Proyek Mata kuliah Manajemen Proyek memiliki relevansi dengan kerja praktik, karena <it>product</it> <it>management</it> berkaitan erat dengan manajemen proyek. Ibaratnya adalah seorang <it>project</it> <it>manager</it> adalah bidan yang membantu kelahiran seorang bayi, di mana bayi ini adalah sebuah produk dan pemilik bayi ini adalah seorang ibu, dan ibu diibaratkan sebagai <it>product</it> <it>manager</it> [10]<it>.</it> Pada mata kuliah Manajemen Proyek, penulis mempelajari bagaimana cara mengumpulkan <it>requirement,</it> keahlian apa saja yang dibutuhkan untuk menjadi seorang <it>product</it> <it>manager,</it> dan bagaimana cara menangani masalah terkait sebuah proyek. 2. Perdagangan Elektronik (<it>E-Commerce)</it> Mata kuliah Perdagangan Elektronik memiliki relevansi dengan kerja praktik karena proyek yang dikerjakan yaitu KASKUS Jual Beli merupakan situs <it>e-</it> <it>commerce.</it> Dengan mempelajari <it>e-commerce,</it> penulis dapat mengidentifikasi tipe dan jenis <it>e-commerce</it> pada KASKUS Jual Beli. 3. Proyek Pengembangan Sistem Informarsi (Propensi) Mata kuliah Proyek Pengembangan Sistem Informasi (Propensi) memiliki relevansi dengan kerja praktik yaitu cara menyusun dokumen <it>requirement</it> dan menyusun <it>use</it> <it>case</it> <it>scenario.</it> Pada saat Propensi, penulis mempelajari cara membuat dokumen <it>requirement</it> dan penulisan <it>flow</it> yang benar pada <it>use</it> <it>case</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<segment>
+			<it>scenario</it> sehingga penulis tidak mengalami kesulitan saat pelaksaan kerja praktik. 4. Sistem Interaksi Mata kuliah Sistem Interaksi memiliki relevansi dengan kerja praktik yaitu dalam hal membuat rancangan <it>wireframe</it> dan mempertimbangkan aspek <it>user</it> <it>experience</it> yang sesuai dengan kebutuhan <it>user.</it> 5. Komunikasi Bisnis dan Teknologi Mata kuliah Komunikasi Bisnis dan Teknologi memiliki relevansi dengan kerja praktik yaitu mengenai tata cara komunikasi dalam lingkungan bisnis dan teknologi. Salah satu bentuk komunikasi yang termasuk adalah mengirim <it>e-</it> <it>mail</it> dan melakukan presentasi akhir. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik di GDP Labs sebagai <it>product</it> <it>manager.</it> GDP Labs merupakan salah satu anak perusahaan GDP Venture yang bertugas untuk membantu pengembangan <it>startup-startup</it> yang didanai oleh GDP Venture. GDP Labs juga mengembangkan produk-produk secara <it>in-house</it> yang kemudian dapat digunakan sehari-hari. Kerja praktik dilaksanakan selama sepuluh minggu, dari tanggal 13 Juni hingga 26 Agustus 2016. Ruang lingkup kerja praktik penulis adalah riset dan pengembangan produk pada KASKUS Jual Beli. Selama periode kerja praktik, penulis mengerjakan dua fitur yaitu fitur <it>online</it> <it>virtual</it> <it>store</it> dan fitur <it>wishlist.</it> <it>Deliverables</it> yang dihasilkan pada pengerjaan dua fitur tersebut adalah dokumen <it>screenshot</it> produk kompetitor, dokumen rancangan <it>wireframe,</it> dokumen <it>requirement,</it> dokumen tutorial, dan video <it>paper</it> <it>prototype.</it> Adapun <it>deliverables</it> lain adalah laporan mingguan, dokumen <it>field</it> <it>report</it> saat mengunjungi kantor KASKUS, dan dokumen presentasi akhir. GDP Labs merupakan tempat yang sangat baik untuk menjadi tempat kerja praktik, karena penulis mendapatkan banyak pengalaman dan pengetahuan baru yang berasal dari tugas-tugas yang diberikan oleh penyelia dan melalui <it>feedback-feedback</it> yang diberikan oleh penyelia. Selain itu, GDP Labs juga aktif memberikan <it>training</it> pada karyawan dan mahasiswa kerja praktik sebagai bentuk pembelajaran internal sehingga penulis mendapatkan informasi-informasi baru. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Proses pencarian kerja praktik membutuhkan upaya dan waktu yang cukup lama. Oleh karena itu, semua mahasiswa yang akan melaksanakan kerja praktik sebaiknya mempersiapkan hal-hal yang dibutuhkan untuk melamar kerja praktik sedini mungkin. Posisi dan tempat kerja praktik juga merupakan aspek penting dalam pencarian kerja 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>19</pagenum>
+		<segment>
+			praktik, mahasiswa sebaiknya tahu posisi apa yang diinginkan dalam melaksanakan kerja praktik sehingga pencarian kerja praktik dapat lebih fokus hanya pada posisi yang diinginkan. Kemudian terkait GDP Labs, GDP Labs tidak hanya merupakan tempat untuk bekerja, melainkan juga tempat untuk belajar. Penulis berharap agar banyak mahasiswa Fasilkom Universitas Indonesia yang melaksanakan kerja praktik di GDP Labs untuk memperoleh banyak pengetahuan-pengetahuan baru. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>20</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] This is what we're all about. (2016). Diakses 04 November, 2016, dari https://gdpventure.com/ [2] Kaskus. (2016). Diakses pada 04 November, 2016, dari https://en.wikipedia.org/wiki/Kaskus [3] Turban, Efraim, David R. King, Jae Kyu Lee, Ting-Peng Liang, dan Deborrah C. Turban. <it>Electronic</it> <it>Commerce:</it> <it>A</it> <it>Managerial</it> <it>and</it> <it>Social</it> <it>Networks</it> <it>Perspective.</it> (8th ed, p. 7). 2015. Diakses pada 04 November, 2016, dari https://www.academia.edu/11706168/ [4] Turban, Efraim, David R. King, Jae Kyu Lee, Ting-Peng Liang, dan Deborrah C. Turban. <it>Electronic</it> <it>Commerce:</it> <it>A</it> <it>Managerial</it> <it>and</it> <it>Social</it> <it>Networks</it> <it>Perspective.</it> (8th ed, pp. 10-11). 2015. Diakses pada 04 November, 2016, dari https://www.academia.edu/11706168/ [5] Product Management. (n.d.). Diakses pada 04 November, 2016, dari http://www.businessdictionary.com/definition/product-management.html [6] Cagan, M. (2008). <it>Inspired:</it> <it>How</it> <it>to</it> <it>Make</it> <it>Products</it> <it>Customers</it> <it>Love.</it> SPVG Press. [7] Creating Wireframes. (n.d.). Diakses pada 05 November, 2016, dari https://www.usability.gov/sites/default/files/creating-wireframes.pdf [8] Ross, J. (2015). Paper Prototyping. Diakses pada 05 November, 2016, dari http://uxify.net/info/2015/workshops/Paper-Prototyping.pdf [9] Synder, C. (2003). <it>Paper</it> <it>Prototyping:</it> <it>The</it> <it>Fast</it> <it>and</it> <it>Easy</it> <it>Way</it> <it>to</it> <it>Design</it> <it>and</it> <it>Refine</it> <it>User</it> <it>Interfaces.</it> Diakses pada 05 November, 2016, dari https://books.google.co.id/books?isbn=1558608702 [10] Project Manager vs. Product Manager. (2016). Diakses pada 05 November, 2016, dari https://brainmates.com.au/brainrants/project-manager-vs-product-manager/ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Lampiran 1. KAKP 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<segment>
+			<bo>Kerangka</bo> <bo>Acuan</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> Yara Azura Sanurian 1306382934 Sistem Informasi azurayara@gmail.com/081290022612 <bo>1.</bo> <bo>Judul</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>:</bo> <bo>Product</bo> <bo>Manager</bo> <bo>Intern</bo> <bo>–</bo> <bo>KASKUS</bo> <bo>Jual</bo> <bo>Beli</bo>  Tempat Kerja Praktik Nama Perusahaan Alamat : Menara Citicon Lantai 17, Jl. Letjen S. Parman Kav. 72, Slipi, Petamburan, Jakarta Barat, 11410 Telepon/Fax Website Waktu Pelaksanaan KP Periode : +622125670088 : gdpventure.com : GDP Labs Hari dan Jam Kerja : 13 Juni – 31 Agustus 2016  : Senin – Jumat 09.00-18.00 atau 9 jam per hari  Penyelia Kerja Praktik Nama Jabatan Telepon e-mail GDP Venture merupakan perusahaan <it>venture</it> <it>builder</it> yang memberikan pendanaan kepada <it>startup</it> berkembang di Indonesia. GDP Labs merupakan <it>sister</it> <it>company</it> dari GDP Venture yang berfokus pada pengembangan produk-produk yang berasal dari <it>startup</it> yang didanai oleh GDP Venture. : Hans Primandala Chandra : Senior Product Manager : 083808900774 : hans.p.chandra@gdplabs.id Deskripsi Tempat KP Ruang Lingkup Kerja Praktik Divisi yang menjadi tempat kerja praktik mahasiswa adalah Product Manager Intern dengan <it>assignment</it> pada proyek KASKUS Jual Beli. KASKUS Jual Beli merupakan bagian dari PT. Darta Media Indonesia (KASKUS) yang merupakan C2C <it>e-commerce</it> <it>platform.</it> Ruang lingkup kerja praktik mahasiswa adalah <it>Product</it> <it>Manager</it> <it>Intern</it> dengan melakukan peningkatan dan pengembangan produk-produk yang ada pada KASKUS Jual Beli. Cara yang dilakukan untuk melakukan peningkatan dan pengembangan produk adalah dengan mengamati produk kompetitor, melakukan analisis perbandingan, mengamati pengguna, dan membuat <it>prototype</it> sebagai gambaran umum. Adapun <it>deliverables</it> yang diminta oleh penyelia kerja praktik adalah:   Dokumen analisis perbandingan    Dokumen <it>requirement</it>    Rancangan <it>wireframe</it>  
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="31">
+		<segment>
+			  <it>Paper</it> <it>prototype</it>    Dokumen <it>user</it> <it>manual</it>    Presentasi hasil penemuan (<it>requirement</it> dan rekomendasi)  <bo>2.</bo> <bo>Rencana</bo> <bo>Jadwal</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Tabel</bo> <bo>1.1</bo> <bo>Rencana</bo> <bo>Jadwal</bo> <bo>Kerja</bo> <bo>Praktik</bo> Waktu Rencana Kerja 13 – 17 Juni 2016    fitur <it>Online</it> <it>Virtual</it> <it>Store</it> Implementasi KASKUS Jual Beli: Mengumpulkan <it>screenshot</it> perbandingan dengan produk kompetitor   <it>Training:</it> <it>Product</it> <it>Management</it>    <it>Training:</it> <it>Machine</it> <it>Learning</it>    <it>Training:</it> Git    OWASP <it>Security</it> <it>Training</it>    <it>Unit</it> <it>Test</it> <it>Training</it>    REST API <it>Training</it>    <it>Training:</it> Amazon <it>Web</it> <it>Services</it>    fitur <it>Online</it> <it>Virtual</it> <it>Store</it> rancangan Implementasi KASKUS Jual Beli: Membuat <it>wireframe</it> fitur terkait Implementasi KASKUS <it>requirement</it> fitur <it>Online</it> <it>Virtual</it> <it>Store</it> Jual Beli: Membuat dokumen 20 – 24 Juni 2016   26 Juni – 1 Juli 2016  12 – 15 Juli 2016  18 – 22 Juli 2016  25 – 29 Juli 2016              Jenkins <it>Training</it>   <it>Training:</it> <it>Deep</it> <it>Learning</it>      Unity 3D <it>Training</it>    Docker <it>Training</it>    <it>Training:</it> <it>Introduction</it> <it>to</it> Swift    <it>Training:</it> Spring <it>Framework</it>    perbandingan dengan fitur <it>Online</it> <it>Virtual</it> <it>Store</it> Implementasi KASKUS Jual Beli: Menyusun <it>user</it> <it>manual</it> Implementasi fitur <it>Wishlist:</it> Mengumpulkan <it>screenshot</it> produk competitor Implementasi fitur <it>Wishlist:</it> Mempelajari alur transaksi pada KASKUS Jual Beli dan menarik kesimpulan Implementasi rancangan <it>wireframe</it> fitur terkait Implementasi fitur <it>Wishlist:</it> Membuat dokumen <it>requirement</it> Implementasi fitur <it>Wishlist:</it> Menyusun <it>user</it> <it>manual</it> fitur <it>Wishlist:</it> Membuat 
+		</segment>
+		<pagenum>2</pagenum>
+	</page>
+	<page id="32">
+	</page>
+	<page id="33">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Lampiran 2. Log Kerja Praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="34">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 13 – 17 Juni 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 13 Juni 2016 Selasa, 14 Juni 2016 09.00 – 10.00          10.00 – 11.00      11.00 – 12.00        12.00 – 13.00    13.00 – 14.00        15.00 – 16.00      17.00 – 18.00  07.30 – 09.00          09.00 – 11.00        <it>Briefing</it>   Penjelasan mengenai proyek-proyek GDP  Labs   Pemilihan proyek   <it>Training</it>   <it>Machine</it> <it>Learning</it>  <it>Reading</it> <it>Assignment</it>   Membaca buku <it>product</it> <it>management:</it>  Inspired Istirahat <it>Reading</it> <it>Assignment</it>   Membaca buku <it>product</it> <it>management:</it>  Inspired  <it>Training</it>   <it>Product</it> <it>Management</it>   <it>Reading</it> <it>Assignment</it>   Membaca buku <it>product</it> <it>management:</it>  Inspired <it>Meeting</it>   Bertemu dengan mentor untuk membahas  pengembangan produk KASKUS Jual Beli    Pembahasan fitur <it>Online</it> <it>Virtual</it> <it>Store</it>   <it>Training</it>   Git    OWASP Security Talk  
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="35">
+		<segment>
+			Rabu, 15 Juni 2016 Kamis, 16 Juni 2016 11.00 – 12.00        12.00 – 13.00    13.00 – 15.30        15.30 – 16.30  07.30 – 10.00        10.00 – 11.00  11.00 – 12.00   12.00 – 13.00    13.00 – 14.00      14.00 – 15.00   15.00 – 16.30  07.00 – 10.00       10.00 – 11.00    11.00 – 12.00  Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Mengumpulkan <it>screenshot</it> dari produk  kompetitor  Istirahat Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Mengumpulkan <it>screenshot</it> dari produk  kompetitor  Pertemuan rutin internal GDP Labs Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Mengumpulkan <it>screenshot</it> dari produk  kompetitor  <it>Training</it>   Unit Test   Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Mengumpulkan <it>screenshot</it> dari produk  kompetitor Istirahat Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Mengumpulkan <it>screenshot</it> dari produk  kompetitor  <it>Training</it> 
+		</segment>
+		<title>  REST API </title>
+		<segment>
+			 Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Mengumpulkan <it>screenshot</it> dari produk  kompetitor Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>screenshot</it> produk kompetitor  <it>Training</it>   Amazon Web Services   Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>screenshot</it> produk kompetitor  
+		</segment>
+		<pagenum>2</pagenum>
+	</page>
+	<page id="36">
+	</page>
+	<page id="37">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 20 – 24 Juni 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 20 Juni 2016 Selasa, 21 Juni 2016 08.30 – 10.00        10.00 – 11.00      11.00 – 12.00        12.00 – 13.00    13.00 – 16.00            16.00 – 17.30    17.30 – 20.00  07.30 – 09.00          09.00 – 10.00      11.00 – 12.00      12.00 – 13.00  Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi  WEB <it>Training</it>   <it>Deep</it> <it>Learning</it>  Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi  WEB Istirahat Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			  Membuat <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			 <it>Meeting</it> internal dengan CTO GDP Labs Buka puasa bersama &amp; <it>Anniversary</it> GDP Labs Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi WEB    Membuat <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			 <it>Training</it>   Jenkins  Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			Istirahat 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="38">
+		<segment>
+			Rabu, 22 Juni 2016 Kamis, 23 Juni 2016 13.00 – 14.00        14.00 – 15.30    15.30 – 16.30   07.30 – 12.00            12.00 – 13.00    13.00 – 14.00    14.00 – 15.00      15.00 – 16.30      07.15 – 10.00         10.00 – 11.00      11.00 – 12.00      12.00 – 13.00    13.00 – 14.00      14.00 – 15.00  Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			 Pertemuan rutin internal GDP Labs Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi WAP  Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>draft</it> Wireframe <it>buyer</it> <it>side</it> versi WAP    Membuat <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			 Istirahat Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			 <it>Training</it>   Unity 3D   Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			  Membuat <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi WEB    Revisi <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi WAP   <it>Training</it>   Docker   Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi WEB   Istirahat Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Revisi <it>draft</it> Wireframe <it>seller</it> <it>side</it> versi WAP  <it>Training</it> 
+		</segment>
+		<pagenum>2</pagenum>
+	</page>
+	<page id="39">
+	</page>
+	<page id="40">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 27 Juni – 1 Juli 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 27 Juni 2016 Selasa, 28 Juni 2016 Rabu, 29 Juni 2016 08.00 – 12.00      12.00 – 13.00    13.00 – 15.00        15.00 – 17.00      07.00 – 09.00      09.00 – 12.00      12.00 – 13.00    13.00 – 14.00      14.00 – 15.30    15.30 – 16.30   07.30 – 12.00        12.00 – 13.00    13.00 – 15.00   Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Membuat dokumen tutorial (<it>user</it> <it>manual)</it>   Istirahat Implementasi <it>Online</it> <it>Virtual</it> <it>Store</it>   Melengkapi dokumen tutorial (<it>user</it> <it>manual)</it>    <it>Submit</it> dokumen tutorial   Menganalisis fitur-fitur yang dapat dikembangkan pada KASKUS Jual Beli Menganalisis fitur-fitur <it>e-commerce</it> pada produk kompetitor Menganalisis fitur-fitur pilihan yang dapat dikembangkan pada KASKUS Jual Beli Istirahat Menganalisis fitur-fitur pilihan yang dapat dikembangkan pada KASKUS Jual Beli Pertemuan rutin internal GDP Labs <it>Submit</it> rekomendasi fitur-fitur pilihan yang dapat dikembangkan pada KASKUS Jual Beli Implementasi fitur <it>Wishlist</it>   Mengumpulkan <it>screenshot</it> dari produk  kompetitor  Istirahat Implementasi fitur <it>Wishlist</it> 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="41">
+	</page>
+	<page id="42">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 12 – 15 Juli 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> Selasa, 12 Juli 2016 <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> 07.00 – 12.00            12.00 – 13.00    13.00 – 14.00            14.00 – 15.30    15.30 – 16.00  Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			  Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			 Istirahat Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			  Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			 Pertemuan rutin internal GDP Labs Implementasi fitur <it>Wishlist</it> Rabu, 13 Juli 2016 07.00 – 12.00   12.00 – 13.00    13.00 – 16.00             Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			  Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			  Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WAP</title>
+		<segment>
+			 Istirahat Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WEB</title>
+		<segment>
+			  Membuat <it>draft</it> Wireframe fitur Wishlist versi  
+		</segment>
+		<title>WAP</title>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="43">
+	</page>
+	<page id="44">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 18 – 22 Juli 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 18 Juli 2016 Selasa, 19 Juli 2016 07.30 – 08.30    08.30 – 10.00      10.00 – 12.00      12.00 – 13.00    13.00 – 14.00      14.00 – 14.30    14.30 – 16.00    16.00 – 17.00  07.00 – 12.00      12.00 – 13.00    13.00 – 14.00    14.00 – 15.30    15.30 – 16.30   Perjalanan menuju KASKUS (KASKUS <it>visit)</it> Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen <it>requirement</it>  <it>Shadowing</it> dengan tim UI/UX Designer dan <it>information</it> <it>specialist</it> Istirahat Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen <it>requirement</it>   <it>Daily</it> <it>meeting</it> dengan tim internal KASKUS <it>Shadowing</it> dengan tim operasional Perjalanan kembali ke GDP Labs Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen <it>requirement</it>   Istirahat Membuat <it>draft</it> <it>field</it> <it>report</it> KASKUS <it>visit</it> Pertemua rutin internal GDP Labs Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen <it>requirement</it>  Rabu, 20 Juli 2016 07.30 – 12.00  Implementasi fitur <it>Wishlist</it>  12.00 – 13.00      Membuat <it>draft</it> dokumen <it>requirement</it>   Istirahat 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="45">
+	</page>
+	<page id="46">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 25 – 29 Juli 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 25 Juli 2016 Selasa, 26 Juli 2016 07.30 – 12.00        12.00 – 13.00    13.00 – 15.00        15.00 – 16.30  07.30 – 12.00        12.00 – 13.00    13.00 – 14.00    14.00 – 15.30    15.30 – 16.30   Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen tutorial (<it>user</it>  <it>manual)</it>  Istirahat Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen tutorial (<it>user</it>  <it>manual)</it>  Mempelajari cara membuat <it>paper</it> <it>prototype</it> Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen tutorial (<it>user</it>  <it>manual)</it>  Istirahat Mempelajari cara membuat <it>paper</it> <it>prototype</it> Pertemua rutin internal GDP Labs Implementasi fitur <it>Wishlist</it>   Membuat <it>draft</it> dokumen tutorial (<it>user</it>  <it>manual)</it> Rabu, 27 Juli 2016 07.15 – 12.00  Implementasi fitur <it>Wishlist</it>  12.00 – 13.00    13.00 – 15.00         Membuat <it>draft</it> dokumen tutorial (<it>user</it>  <it>manual)</it>   Melengkapi dokumen tutorial    Istirahat Implementasi fitur <it>Wishlist</it>   Melengkapi dokumen tutorial    <it>Submit</it> dokumen tutorial ke mentor  
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="47">
+	</page>
+	<page id="48">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 1 – 5 Agustus 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 1 Agustus 2016 Selasa, 2 Agustus 2016 Rabu, 3 Agustus 2016 Kamis, 4 Agustus 2016 07.30 – 12.00        12.00 – 13.00    13.00 – 16.30  07.15 – 12.00        12.00 – 13.00    13.00 – 16.15   07.15 – 12.00            12.00 – 13.00    13.00 – 16.15      07.00 – 12.00       <it>Paper</it> <it>prototype</it>   Mempersiapkan pembuatan video <it>paper</it>  <it>prototype</it>  Istirahat <it>Paper</it> <it>prototype</it>   Mempersiapkan pembuatan video <it>paper</it>  <it>prototype</it>   Mencetak skenario <it>paper</it> <it>prototype</it>  <it>Paper</it> <it>prototype</it>   Diskusi  bersama  tim  mengenai  pembuatan  <it>paper</it> <it>prototype</it>  Istirahat <it>Paper</it> <it>prototype</it>   Diskusi  bersama  tim  mengenai  pembuatan  <it>paper</it> <it>prototype</it>   Revisi skenario <it>paper</it> <it>prototype</it>  <it>Paper</it> <it>prototype</it>   Diskusi  bersama  tim  mengenai  pembuatan  <it>paper</it> <it>prototype</it>   Proses  pembuatan  video  <it>paper</it>  <it>prototype</it>  tahap percobaan Istirahat <it>Paper</it> <it>prototype</it>   Proses  pembuatan  video  <it>paper</it>  <it>prototype</it>  tahap percobaan <it>Paper</it> <it>prototype</it>   Diskusi  bersama  tim  mengenai  pembuatan  <it>paper</it> <it>prototype</it> 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="49">
+	</page>
+	<page id="50">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 8 - 12 Agustus 2016 NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 8 Agustus 2016 Selasa, 9 Agustus 2016 07.30 – 12.00        12.00 – 13.00    13.00 – 15.00         15.00 – 17.00  07.00 – 09.00        09.00 – 10.00          10.00 – 12.00        12.00 – 13.00    13.00 – 14.00        14.00 – 16.00  Rabu, 10 Agustus 07.00 – 12.00  <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 1 (<it>web</it> <it>version)</it>  Istirahat <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 1 (<it>web</it> <it>version)</it>  <it>Intern</it> <it>presentation</it>   KOI: <it>Rule</it> <it>engine</it> <it>and</it> <it>Integration</it> <it>test</it>    Viral  <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 1 (<it>web</it> <it>version)</it>  Pertemuan dengan mentor   Membahas kemajuan <it>paper</it> <it>prototype</it>    Pengenalan kegunaan <it>release</it> <it>notes</it> dan <it>tools</it>  Pivotal Tracker  <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 1 (<it>web</it> <it>version)</it>  Istirahat <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 1 (<it>web</it> <it>version)</it>  Pertemuan rutin internal GDP Labs <it>Paper</it> <it>prototype</it> 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="51">
+		<pagenum>2016</pagenum>
+		<segment>
+			Kamis, 11 Agustus 2016 Jum’at, 12  Agustus 2016   12.00 – 13.00    13.00 – 14.00       14.00 – 16.00  07.30 – 12.00         12.00 – 13.00    13.00 – 14.00        14.00 – 15.00      15.00 – 16.30  07.00 – 12.00        12.00 – 13.00    13.00 – 14.00        14.00 – 16.00      Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 2 (<it>wap</it> <it>version</it> Istirahat <it>Intern</it> <it>presentation</it>   Ombaq   <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 2 (<it>wap</it> <it>version)</it> <it>Paper</it> <it>prototype</it>   Proses  pembuatan  video  <it>paper</it>  <it>prototype</it>  tahap 2 (<it>wap</it> <it>version)</it>  Istirahat <it>Paper</it> <it>prototype</it>   Proses  pembuatan  video  <it>paper</it>  <it>prototype</it>  tahap 2 (<it>wap</it> <it>version)</it>  <it>Intern</it> <it>presentation</it>   <it>React</it> <it>with</it> <it>Server</it> <it>Side</it> <it>Rendering</it>   <it>Paper</it> <it>prototype</it>   Proses  pembuatan  video  <it>paper</it>  <it>prototype</it>  tahap 2 (<it>wap</it> <it>version)</it>  <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 2 (<it>wap</it> <it>version)</it>  Istirahat <it>Paper</it> <it>prototype</it>   Proses pembuatan video <it>paper</it> <it>prototype</it>  tahap 2 (<it>wap</it> <it>version)</it>  <it>Intern</it> <it>presentation</it>   KASKUS <it>Chat</it> <it>bot</it>  
+		</segment>
+		<pagenum>2</pagenum>
+	</page>
+	<page id="52">
+	</page>
+	<page id="53">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 15 – 19 Agustus 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 15 Agustus 2016 Selasa, 16 Agustus 2016 Rabu, 17 Agustus 2016 Kamis, 18 Agustus 2016 Jum’at, 19  Agustus 2016  07.30 – 12.00      12.00 – 13.00    13.00 – 15.00        15.00 – 16.30  07.15 – 12.00    12.00 – 13.00    13.00 – 16.15   07.00 – 10.00     10.00 – 11.00      11.00 – 12.00    12.00 – 13.00    13.00 – 16.00  07.00 – 10.00      10.00 – 12.00    <it>Paper</it> <it>prototype</it>   Mengedit video   Istirahat <it>Intern</it> <it>presentation</it>   PING (<it>chat</it> <it>platform)</it>     KOI (<it>Human</it> <it>Resource</it> <it>Information</it> <it>System)</it>   <it>Paper</it> <it>prototype</it>   Mengedit video  Menyiapkan konten presentasi final Istirahat Menyiapkan konten presentasi final Libur Menyiapkan konten presentasi final <it>Intern</it> <it>presentation</it>   KASKUS Chat: React JS &amp; React Native   Menyiapkan konten presentasi final Istirahat Menyiapkan konten presentasi final dan latihan presentasi Menyiapkan konten presentasi final dan latihan presentasi final <it>Intern</it> <it>presentation</it>   React Testing  
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="54">
+	</page>
+	<page id="55">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 22 – 26 Agustus 2016  NPM / Nama : 1306382934 / Yara Azura Sanurian Tempat KP : GDP Labs / Product Manager Judul KP : KASKUS Jual Beli <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 22 Agustus 2016 Selasa, 23 Agustus 2016 Rabu, 24 Agustus 2016 Kamis, 25 Agustus 2016 Jum’at, 26  Agustus 2016  08.00 – 12.00    12.00 – 13.00    13.00 – 16.30  07.00 – 12.00    12.00 – 13.00    13.00 – 14.00    14.00 – 16.00  07.00 – 12.00    12.00 – 13.00    13.00 – 15.00   07.00 – 12.00     12.00 – 13.00    13.00 – 16.00  07.00 – 09.00    09.00 – 10.00          12.00 – 13.00    13.00 – 16.00  Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 1 Istirahat Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 1 Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 1 Istirahat Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 2 Pertemuan internal GDP Labs Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 2 Istirahat Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 2 Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 3 Istirahat Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 3 Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 4 <it>Intern</it> <it>presentation</it>   <it>Growth</it> <it>Hacking</it>    KASKUS <it>Deals</it>    ombaQ   Istirahat Eksplorasi <it>online</it> <it>course:</it> Google Analytics <it>Section</it> 4 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="56">
+	</page>
+
+</document>

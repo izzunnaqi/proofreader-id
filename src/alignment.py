@@ -3,12 +3,16 @@
 
 import sys
 import re
-import xml.etree.ElementTree as et
+import optparse
+import re, math
 from bs4 import BeautifulSoup
 from nltk import word_tokenize
 from nltk import sent_tokenize
 from random import randint
 from Levenshtein import distance
+from collections import Counter
+
+WORD = re.compile(r'\w+')
 
 def config():
 	reload(sys)
@@ -34,8 +38,6 @@ def simplify(xmldoc):
 					if item.name != "pagenum" and item.name != "footer" and item.name is not None:
 						item = str(item)
 						item = re.sub('\t|\n', "", item)
-						# item = re.sub('<segment>', '<segment>\n\t', item)
-						# item = re.sub('</segment>', '\n</segment>', item)
 						res = res + item
 
 
@@ -48,7 +50,7 @@ def simplify(xmldoc):
 	return res
 
 
-def align(arg1, arg2):
+def segment_align(arg1, arg2):
 	full_match = []
 	partial_match = []
 	not_match = []
@@ -87,12 +89,12 @@ def align(arg1, arg2):
 
 
 	if len(not_match) > 0:
-		partial_match, not_match = partial(not_match, 10, 5)
+		partial_match, not_match = partial_segment(not_match, 10, 5)
 		
 	return full_match, partial_match, not_match
 
 
-def partial(x, k, t):
+def partial_segment(x, k, t):
 	match = []
 	not_match = x
 	
@@ -116,26 +118,14 @@ def partial(x, k, t):
 
 	return match, not_match
 
-def label(x):
-	result = ""
 
-	m = 1
-	for a, b in x:
-		sent_a = sent_tokenize(a)
-		sent_b = sent_tokenize(b)
-		
-		full, partial = sent_align(sent_a, sent_b)
-		m += 1
-
-
-	return result
-
-
-def sent_align(sentlist_a, sentlist_b):
+def sentence_align(sentlist_a, sentlist_b):
 	match = []
 	not_match = []
-	indexes = []
 	partial = []
+
+	sentlist_a = trim_double_space(sentlist_a)
+	sentlist_b = trim_double_space(sentlist_b)
 
 	i = 0
 	j = 0
@@ -143,8 +133,6 @@ def sent_align(sentlist_a, sentlist_b):
 	n = len(sentlist_b)
 	
 	while (i < m and j < n):
-		
-		# full match
 		regex_1 = re.compile('(.*)%s(.*)'%re.escape(sentlist_a[i]), re.IGNORECASE)
 		regex_2 = re.compile('(.*)%s(.*)'%re.escape(sentlist_b[j]), re.IGNORECASE)
 		
@@ -156,48 +144,27 @@ def sent_align(sentlist_a, sentlist_b):
 					
 				elif regex_2.match(sentlist_a[i+1]):  
 					match.append([sentlist_a[i+1], sentlist_b[j]])
-					
-					if distance(sentlist_a[i], sentlist_b[j]) < 65:
-						partial.append([sentlist_a[i], sentlist_b[j]])
-					else:
-						not_match.append([sentlist_a[i], sentlist_b[j]])
 
 				elif regex_1.match(sentlist_b[j+1]):
 					match.append([sentlist_a[i], sentlist_b[j+1]])
-					
-					if distance(sentlist_a[i], sentlist_b[j]) < 65:
-						partial.append([sentlist_a[i], sentlist_b[j]])
-					else:
-						not_match.append([sentlist_a[i], sentlist_b[j]])
 
 				else:
-					indexes.append([i,j])
-					
-					if distance(sentlist_a[i], sentlist_b[j]) < 65:
+					if partial_sentence(sentlist_a[i], sentlist_b[j]):
 						partial.append([sentlist_a[i], sentlist_b[j]])
-					else:
-						not_match.append([sentlist_a[i], sentlist_b[j]])
 					
-					if distance(sentlist_a[i+1], sentlist_b[j]) < 65:
+					elif partial_sentence(sentlist_a[i+1], sentlist_b[j]):
 						partial.append([sentlist_a[i+1], sentlist_b[j]])
-					else:
-						not_match.append([sentlist_a[i+1], sentlist_b[j]])
 					
-					if distance(sentlist_a[i], sentlist_b[j+1]) < 65:
+					elif partial_sentence(sentlist_a[i], sentlist_b[j+1]):
 						partial.append([sentlist_a[i], sentlist_b[j+1]])
-					else:
-						not_match.append([sentlist_a[i+1], sentlist_b[j]])
+
 		else:
 			if len(sentlist_a[i]) > 15 and len(sentlist_b[j]) > 15:			
 				if regex_1.match(sentlist_b[j]):
 					match.append([sentlist_a[i], sentlist_b[j]])
-
 				else:
-					indexes.append([i,j])
-					if distance(sentlist_a[i], sentlist_b[j]) < 65:
+					if partial_sentence(sentlist_a[i], sentlist_b[j]):
 						partial.append([sentlist_a[i], sentlist_b[j]])
-					else:
-						not_match.append([sentlist_a[i], sentlist_b[j]])
 
 		i += 1
 		j += 1	
@@ -205,22 +172,47 @@ def sent_align(sentlist_a, sentlist_b):
 	
 	return match, partial
 
+def trim_double_space(sentence_list):
+	res = []
+	for i in sentence_list:
+		a = i.replace("  ", " ")
+		res.append(a)
 
-def word_align(wordlist_1, wordlist_2):
-	pair_candidate = []
+	return res
 
-	return pair_candidate
+def jaccard_similarity(query, document):
+    intersection = set(query).intersection(set(document))
+    union = set(query).union(set(document))
 
+    return float(float(len(intersection)) / float(len(union)))
 
-def italic(token_a, token_b):
-	result = ""
-	before_tag = "<BEFORE>"
-	c_before_tag = "</BEFORE>"
-	after_tag = "<AFTER>"
-	c_after_tag = "</AFTER>"
+def get_cosine(vec1, vec2):
+     intersection = set(vec1.keys()) & set(vec2.keys())
+     numerator = sum([vec1[x] * vec2[x] for x in intersection])
 
-	
-	return result
+     sum1 = sum([vec1[x]**2 for x in vec1.keys()])
+     sum2 = sum([vec2[x]**2 for x in vec2.keys()])
+     denominator = math.sqrt(sum1) * math.sqrt(sum2)
+
+     if not denominator:
+        return 0.0
+     else:
+        return float(numerator) / denominator
+
+def text_to_vector(text):
+     words = WORD.findall(text)
+     return Counter(words)
+
+def partial_sentence(text1, text2):
+	query = text1.split(" ")
+	document = text2.split(" ")
+
+	jacc = jaccard_similarity(query, document)
+
+	if jacc > 0.2:
+		return True
+	else:
+		return False
 
 
 def main():
@@ -232,28 +224,33 @@ def main():
 	xml_1 = simplify(doc1)
 	xml_2 = simplify(doc2)
 	
-	full, partial_seg, not_match = align(xml_1, xml_2)
+	full, partial_seg, not_match = segment_align(xml_1, xml_2)
 
 	candidate = []
+	res = ""
 
 	for a, b in partial_seg:
-		print "<PAIR>"
-		print "<BEFORE>" + a + "</BEFORE>"
-		print "<AFTER>" + b + "</AFTER>"
-		print "</PAIR>"
-		print
 
 		sent_a = sent_tokenize(a)
 		sent_b = sent_tokenize(b)
 
-		full_sent, partial_sent = sent_align(sent_a, sent_b)
+		full_sent, partial_sent = sentence_align(sent_a, sent_b)
 
 		for x, y in partial_sent:
-			print "<PAIR>"
-			print "<BEFORE>" + x + "</BEFORE>"
-			print "<AFTER>" + y + "</AFTER>"
-			print "</PAIR>"
-			print
+			res += "<PAIR>\n"
+			res += "<BEFORE>" + x + "</BEFORE>\n"
+			res += "<AFTER>" + y + "</AFTER>\n"
+			res += "<ERRTYPE></ERRTYPE>\n"
+			res += "</PAIR>\n\n"
+
+
+	parser = optparse.OptionParser()
+	parser.add_option('-o', action="store")
+
+	options, args = parser.parse_args()
+
+	with open(options.o, 'a') as f:
+		f.write(res)
 
 
 

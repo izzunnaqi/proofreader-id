@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <it><bo>REPORTING</bo></it> <it><bo>AND</bo></it> <it><bo>DECISION</bo></it> <it><bo>MAKER</bo></it></title>
+		<title><it><bo>SYSTEM</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>UNTUK</bo> <bo>FAKULTAS</bo></title>
+		<title><bo>AHMAD</bo> <bo>ZAKI</bo> <bo>ANSHORI</bo></title>
+		<segment>
+			<bo>1206208170</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Ahmad Zaki Anshori : 1206208170 Program Studi : Ilmu Komputer Judul Kerja Praktik : Pengembangan <it>Reporting</it> <it>And</it> <it>Decision</it> <it>Maker</it> <it>System</it> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(____________________)</bo> Ditetapkan di : Depok, Indonesia Tanggal : September 2016 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama : Ahmad Zaki Anshori Program Studi : Ilmu Komputer Judul : Pengembangan <it>Reporting</it> <it>and</it> <it>Decision</it> <it>Maker</it> <it>System</it> Laporan ini dibuat untuk menjelaskan proses selama pelaksanaan kerja praktik yang dilakukan oleh penulis di PT. Altrovis Tekno Global yang selanjutnya disebut Altrovis. Altrovis merupakan perusahaan yang bergerak dalam penyedia jasa teknologi informasi dan komunikasi serta sistem integrator dengan konsentrasi pada implementasi dan integrasi solusi perangkat lunak dan pelayanan jasa yang terpadu secara professional. Pada kerja praktik ini, penulis memiliki posisi sebagai seorang <it>big</it> <it>data</it> <it>engineer</it> di bawah bimbingan penyelia, Bobby Anggoro, dan bimbingan langsung seorang <it>expert,</it> Yoseph. Secara umum, penulis mendapatkan tugas untuk mengimplmentasikan <it>reporting</it> dan <it>decision</it> <it>maker</it> menggunakan <it>big</it> <it>data</it> dan <it>machine</it> <it>learning</it> dengan data mentah berupa twitter <it>stream.</it> Pada laporan ini juga akan dijelaskan bagaimana penulis mendapatkan tempat kerja prakti, proses pelaksanaan kerja praktik, kesesuaian perkuliahan dan ilmu yang didapat selama pelaksanaan kerja praktik, evaluasi kerja praktik, kendala selama proses kerja praktik, serta kebutuhan industri terhadap keluaran universitas –  mahasiswa  -  terkait  bidang  yang digeluti selama kerja praktik. Kata kunci: Kerja Praktik, PT Altrovis Tekno Global 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR ................................................................................................... iv DAFTAR TABEL ......................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi 1. PENDAHULUAN ................................................................................................ 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik .................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>1.2. Tempat Kerja Praktik ..................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik .................. <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi 2</title>
+		<title>1.3. Deskripsi Pekerjaan ........................................................................................ 3</title>
+		<segment>
+			2. ISI ........................................................................ <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo> 
+		</segment>
+		<title>2.1. Pekerjaan Kerja Praktik ................................ <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.2. Analisis ......................................................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.3.1. Pelaksanaan Kerja Praktik .................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.3.2. Relevansi dengan Perkuliahan di Fasilkom UIError!</bo> <bo>Bookmark</bo> <bo>not</bo></title>
+		<segment>
+			<bo>defined.</bo> 3. PENUTUP ............................................................................................................. 8 
+		</segment>
+		<title>3.1. Kesimpulan ..................................................................................................... 8</title>
+		<title>3.2. Saran ............................................................................................................... 8</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 10 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<segment>
+			<bo>1.</bo> <bo>PENDAHULUAN</bo> Pada bagian ini, penulis akan menjelaskan bagaimana penulis mendapatkan tempat kerja praktik, serta deskripsi singkat mengenai tugas yang penulis dapatkan selama kerja praktik. 
+		</segment>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses pencarian tempat kerja praktik dimulai pada bulan Juni 2016, dimana proses pencariannya cukup sederhana. Lamaran pertama penulis kirimkan ke Bank BCA. Lamaran berupa CV dan surat lamaran kerja praktik ke pihan HRD dari Bank BCA. Tiga hari berlalu, penulis mendapatkan email untuk tes online. Setelah tes online, penulis mendapatkan email dua hari setelahnya untuk wawancara di kantor BCA, Tanah Abang. Keesokan setelah wawancara, penulis mendapat email bahwa penulis diterima di divisi IT Bank BCA dan akan dilakukan penempatan sebulan setelah email tersebut diterima. Pada saat yang sama pula, penulis mendapatkan kabar bahwa PT. Altrovis sedang membuka lowongan untuk kerja praktik. Maka penulis juga mengirimkan CV ke sana dan mendapatkan balasan keesokan harinya untuk tes dan wawancara. Kemudian, setelah tes di kantor altrovis, wawancara dilakukan dua hari setelahnya. Setelah wawancara, penulis dinyatakan diterima di Altrovis melalui email. Karena kondisinya adalah penulis mendaftar di dua tempat dan diterima di kedua tempat tesebut, penulis mengurungkan niat untuk mendaftar lagi ke tempat lain, meskipun masih ada list perusahaan yang ingin penulis coba. Karena sudah ada dua tempat yang sudah menerima penulis, penulis mulai mempertimbangkan tempat kerja praktik yang sesuai dengan penulis. Pertimbangannya adalah lokasi tempat KP yang membuat penulis tidak jadi untuk kerja praktik di Bank BCA, sehingga pada akhirnya memilih Altrovis. Sumber informasi lowongan kerja praktik yang penulis dapat adalah, pertama melalui broadcasting di group-group angkatan, dan dari pengurus beasiswa BCA. Di 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			group angkatan, penulis menerima informasi tentang altrovis dan untuk BCA penulis dapat informasi dari pengurus beasiswa dari pihak BCA itu sendiri. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Altrovis Tekno Global atau Altrovis merupakan perusahaan yang bergerak dalam penyelenggara jasa teknologi informasi dan komunikasi serta Sistem Integrator yang berkonsentrasi pada implementasi dan integrasi solusi perangkat lunak dan pelayanan jasa yang terpadu <it>(total</it> <it>solution).</it> Perusahaan yang didirikan pada tahun 2011 ini berfokus pada produk-produk Microsoft, seperti Microsoft Sharepoint for Enterprise Collaboration, Lync, SQL Business Intelligence, Exchange, dan lainnya. Komisaris <bo>Mario</bo> <bo>Dona</bo> Direktur Utama <bo>Malky</bo> <bo>Irawan</bo> <bo>Wullur</bo> Direktur <bo>Nikolas</bo> <bo>Sildeyna</bo> Direktur Direktur <bo>Raufan</bo> <bo>Multahada</bo> <bo>S.</bo> <bo>Fuady</bo> <bo>Rosma</bo> <bo>Hidayat</bo> Direktur <bo>Aditya</bo> <bo>Zainir</bo> <bo>P.</bo> Gambar 1. Bagain Organisasi PT. Altrovis Tekno Global Altrovis memiliki banyak klien, baik dari sektor publik maupun pemerintahan, seperti BKKBN, Adira Finance, KPEI, Pertamina, Bank Indonesia, OJK, Taspen, dan lainnya. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada pelaksanaan kerja prakti ini, penulis ditempatkan pada posisi Big Data Engineer yang dibawahi oleh seorang supervisor, yang merupakan Database Lead, Boby Anggoro Putro. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<segment>
+			<bo>2.</bo> <bo>ISI</bo> 
+		</segment>
+		<pagenum>3</pagenum>
+		<title><bo>2.1.</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis ditempatkan pada posisi <it>Big</it> <it>Data</it> <it>Engineer,</it> yang bertugas untuk membuat dan mengolah data yang sangat besar untuk bisa dimanfaatkan sebagai penunjang proses bisnis, terutama dalam membuat keputusan-keputusan dalam proses bisnis itu sendiri. Namun, pada dua bulan pelaksanaan kerja praktik, penulis tidak langsung berkecimpung ke dalam big</it> <it>data,</it> namun diberikan <it>task</it> untuk mengolah <it>data</it> <it>warehouse</it> dari salah satu kementrian negara. Kemudian, pada bulan ke dua barulah penulis mendapatkan <it>task</it> untuk mengolah data twitter untuk digunakan sebagai <it>decision</it> <it>maker</it> dalam proses bisnis yang ditujukan kepada salah satu kementrian lain di Jakarta. <it>Tools</it> yang digunakan oleh penulis ada beberapa. Dimulai dari SQL Server Management Tools, yang memiliki fungsi dalam membuat <it>integrating</it> <it>service,</it> <it>analysis</it> <it>service</it> hingga <it>reporting</it> <it>service</it> untuk mengolah <it>data</it> <it>warehouse.</it> Kemuadian, tools yang kedua yang saya gunakna adalah Azure Service yang memiliki <it>service</it> anakan yang lainnya. Penulis menggunakan <it>virtual</it> <it>machine</it> yang disediakan oleh azure untuk membangun infrastruktur hadoop. Selain itu, <it>virtual</it> <it>machine</it> itu juga digunakan untuk menarik data dari twitter. Untuk <it>task</it> <it>management</it> penulis sendiri menggunakan trello untuk membagi kerjaan agar waktu yang ada tidak terbuang sia- sia. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan menjelaskan kesesuaian dan perbedaan pengetahuan yang didapat selama kuliah dengan apa yang dilakukan selama kerja praktik. Selain itu, akan dijelaskan kembali kesulitan serta evaluasi penulis selama kerja praktik. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Kerja praktik dilaksanakan di kantor altrovis yang berada di Jalan Tebet Barat Raya, No. 49A, Jakarta. Penulis berperan sebagai <it>Big</it> <it>Data</it> <it>Engineer</it> yang berada 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			di bawah bimbingan <it>supervisor,</it> Boby Anggoro Putro sebagai <it>Database</it> <it>Lead.</it> Pelaksanaan kerja praktik ini adalah selama 8 minggu, terhitung dari tanggal 11 Juli 2016 hingga 2 September 2016. Kerja praktik berlangsung lima hari dalam seminggu, dari pukul 08.00 –  16.00.  Namun  demikian,  waktu  pelaksanaan  kerja  praktik cukup fleksibel asalkan waktu yang diluangkan sama dengan peraturan kantor. Pada sebulan pertama pengerjaan kerja praktik, penulis mendapakan tugas spesifik di bidang database,</it> sebelum masuk ke <it>big</it> <it>data</it> secara spesifik. Hal ini bertujuan agar pola pikir dan logika penulis dalam pengolahan data sudah terlatih dengan baik. Demikian yang dimaksudkan oleh supervisor saat menjelaskan alur kerja praktik penulis pada pertemuan pertama. <it>Dataplatform</it> <it>service</it> yang dipelajari pada minggu pertama berupa <it>Integrating</it> <it>Service,</it> <it>Analysis</it> <it>Service,</it> dan <it>Reporting</it> <it>Service.</it> Pengolahan data berupa <it>data</it> <it>warehouse</it> dari salah satu kementrian negara. Proses pengerjaannya cukup runtut dan terarah, karena penulis mendapat <it>support</it> berupa link-link yang bisa dipelajari dengan mudah yang disediakan oleh supervisor. Pengolahan data-data tersebut nantinya akan ditampilkan dalam bentuk <it>reporting</it> <it>service</it> yang nantinya akan diolah oleh <it>Web</it> <it>Developer</it> dan ditampilkan dalam bentuk web. Namun, ruang lingkup kerja praktik penulis sendiri cukup sampai pembuatan <it>reporting</it> <it>service.</it> Kesulitan yang ditemukan oleh penulis untuk bulan pertama adalah pada bagian <it>analysis</it> <it>service</it> yang masih terasa baru. Karena <it>integrating</it> <it>service</it> dan <it>reporting</it> <it>service</it> sudah terasa cukup familiar karena memiliki konsep yang sama dengan mata kuliah yang ada di Fasilkom. Namun, untuk <it>analysis</it> <it>service,</it> penulis merasa bahwa ini adalah ilmu baru dan cukup menarik untuk dipelajari. Pada bulan kedua, penulis mendapatkan penugasan untuk pengolahan <it>big</it> <it>data.</it> Dimana pada minggu pertama bulan kedua, penulis harus mempelajari segala seluk beluk <it>big</it> <it>data.</it> Baik dari infrastruktur yang digunakan, cara pengolahan data yang berupa <it>unstructured</it> <it>data,</it> hingga algoritma pengolahan data yang efektif dan efisien 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			untuk data yang sangat besar. Penulis menghadapi kesulitan pada minggu ini, karena <it>big</it> <it>data</it> berbeda dengan database tradisional, yang <it>structured</it> dan memiliki ukuran yang relatif kecil, sehingga tidak terlalu melihat algoritma pengolahan data yang digunakan. Selain itu, kesulitan yang dihadapi penulis adalah karena penulis juga harus mempelajari infrastruktur dari pengolah <it>big</it> <it>data</it> itu sendiri, karena jujur penulis merasa spesialisasi penulis bukan di infrastruktur. Selama bulan kedua, penulis mendapatkan tugas untuk melakukan pengolahan data berupa <it>twitter</it> <it>sentiment</it> <it>analysis.</it> Data twitter yang sudah diambil dan dikumpulan oleh supervisor langsung dari twitter sebulan lalu, memiliki ukuran yang sangat besar dan masih berupa data mentah dan tidak terstruktur. Awalnya, penulis membuat infrastruktur pengolahan <it>big</it> <it>data,</it> yang dibuat di <it>virtual</it> <it>machine</it> di azure, untungnya untuk <it>big</it> <it>data</it> sudah ada <it>application</it> <it>platform</it> yang merangkum semua fitur hadoop, seperti hortonworks dan cloudera. Sehingga pembuatan infrastruktur yang dasar tidak serumit jika kita membuatnya secara manual. Namun, untuk pengaturan yang cukup <it>advance,</it> dibutuhkan pengetahuan lebih dalam membuatnya meskipun sudah menggunakan platform yang ada. Kemudian, pada proses pengolahannya, kebanyakan penulis menggunakan fitur Nosql dan Spark yang memiliki kemampuan yang cukup bagus terutama dalam proses eksekusi yang tidak terlalu lama. Dan ini yang penulis rasa merupakan kelebihan dari hadoop sebagai pengolah <it>big</it> <it>data,</it> dimana untuk data yang sangat besar, hadoop memiliki kelebihan dalam memaklumi kesalahan dan memiliki waktu eksekusi yang cepat karena sistem paralel yang ia miliki. Berbeda dengan database tradisional, dimana untuk mengolah data yang besar bisa menghabiskan waktu beberapa jam. Namun, pada hadoop cukup beberapa menit bahkan detik saja. Ruang lingkup penulis pada bulan kedua ini adalah dari pembuatan infrastruktur hingga visualisasi data menggunakan Power Bi. Namun, pada bagian visualisasi data, penulis merasa waktu yang tersisa tidak cukup sehingga hasilnya kurang maksimal. Dan ini menjadi pelajaran tersendiri untuk penulis agar tidak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			terlalu berlarut-larut dalam masalah infrastruktur yang penulis rasa sangat menguras waktu karena mengalami kegagalan yang cukup sering. Selain pekerjaan teknis di atas, supervisor juga sesekali mengajak penulis untuk melakukan <it>meeting</it> denga <it>stakeholder</it> proyek yang bersangkutan. Hal ini bertujuan agar penulis juga memiliki kemampuan untuk <it>deliver</it> pekerjaan kepada <it>client,</it> dan ini juga modal yang utama apalagi untuk perusahaan yang berbasis proyek. Hingga pada akhir masa kerja praktik, penulis telah menyelesaikan proyek untuk <it>data</it> <it>warehouse</it> dan <it>big</it> <it>data,</it> meskipun hasilnya belum maksimal karena masih banyak kekurangan dalam pengolahan datanya. Selama pengerjaan kerja praktik, penulis menghadapi beberapa kesulitan, namun bisa diatasi dengan baik. Meskipun dari beberapa kesulitan yang dihadapi, penulis menghabiskan banyak waktu pada saat membuat infrastruktur hadoop karena memiliki <it>requirement</it> berupa penggunaan server lebih dari satu. Hal ini dikarenakan penulis merasa infrastruktur komputer bukan <it>passion</it> yang penulis miliki. Selain itu, penulis juga memilik pengetahuan yang sedikit tentang hal itu. Sehingga pada akhirnya penulis hanya menggunakan satu server dalam pengolahan data. Penyelesaian yang penulis berikan pada masalah-masalah yang penulis hadapi adalah dengan banyak bertanya. Namun, pada kasus-kasus tertentu dimana tidak ada tempat bertanya di kantor, maka hendaknya untuk mencari lebih giat solusi yang diharapkan dari beberapa sumber di internet. Selain itu, jangan lupa bertanya kepada teman-teman yang dirasa memiliki pengalaman di bidang itu, meskipun berada di tempat kerja yang berbeda. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis merasakan pengetahuan yang didapatkan di perkuliahan sangat membantu proses pembelajaran pada kerja praktik. Karena menurut penulis, perkuliahan memberikan pengetahuan dan kemampuan dasar yang berguna untuk pengerjaan proyek pada kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Berikut akan dijelaskan mata kuliah yang penulis ambil yang berkaitan dan membantu penulis dalam melaksanakan tugas pada kerja praktik ini 1. Dasar-dasar pemrogramam (DDP) dan Struktur Data algoritma (SDA) Mata kuliah DDP dan SDA memiliki peran penting dalam membentuk pola pikir seorang <it>programmer</it> dalam menyelesaikan masalah yang ada. Dan ini sangat membantu penulis dalam memilih algoritma dalam menyelesaikan <it>task</it> yang ada. Selain itu, karena mata kuliah ini menggunakan bahasa java, sangat membantu penulis untuk menggunakan fungsi Spark pada hadoop yang mampu menggunakan bahasa java, scala, python maupun R. 2. Basis Data Pada mata kuliah ini, ilmu dan kemampuan dalam merumuskan <it>query</it> untuk mendapatkan data yang diinginkan, membantu penulis terutama dalam bulan pertama kerja praktik, karena penulis merasa sudah memiliki kemampuan dasar dalam menyelesaikan <it>query</it> yang dibutuhkan. Sehingga untuk keperluan yang lebih <it>advance,</it> penulis tidak merasa kesulitan lagi. 3. Perancangan dan Pemrograman Web (PPW) Pada mata kuliah ini, penulis merasa bahwa ilmu dalam merancang sebuah web digunakan dalam visualisasi data ketika penulis melakukan proyek pada <it>big</it> <it>data.</it> Dimana penulis harus merancang web yang sesuai dengan kebutuhan <it>client</it> dan mudah dipahami, meskipun ilmu ini lebih dalam digali pada mata kuliah Sistem Interaksi, namun pada mata kuliah PPW, sudah ditanamkan konsep dasarnya. 4. Proyek Perangkat Lunak (PPL) Mata kuliah ini membantu penulis dalam merumuskan kebutuhan <it>client,</it> <it>task</it> <it>management</it> serta perumusan kebutuhan yang diberikan <it>client.</it> Karena pada kerja praktik, penulis juga berhadapan dengan <it>client,</it> meskipun bukan sebagai orang pertama. Namun, penulis juga mendapatkan <it>task</it> dari supervisor untuk merumuskan apa yang diinginkan <it>client</it> sehingga visualisasi data yang dilakukan pada bulan kedua sesuai dengan keinginan <it>client.</it> Selain 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			itu,</it> <it>task</it> <it>management</it> yang didapatkan dari mata kuliah PPL, membantu penulis untuk tetap produktif dengan menggunakan skala prioritas dalam masing- masing fitur yang diminta. <bo>3.</bo> <bo>PENUTUP</bo> . 
+		</segment>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis mendapatkan ilmu baru yang cukup banyak. Karena ada beberapa hal yang belum pernah penulis rasakan selama di perkuliahan. Baik itu menangani <it>client</it> yang berbagai macam watak, <it>requirement</it> yang sering sekali berubah, teknologi terbarukan terkait <it>big</it> <it>data</it> serta lingkungan kerja yang fleksibel. Hal-hal di atas merupakan <it>goal</it> yang penulis tentukan sendiri ketika hendak memasuki tempat kerja praktik, dan penulis rasa cukup terpenuhi. Selain hal-hal di atas, penulis juga merasakan bahwa lingkungan serta budaya kerja yang diterapkan di masing-masing perusahaan berbeda-beda. Ada yang fokus pada jam kerja, sehingga diwajibkan untuk masuk pagi pulang sore, ada juga yang fokus pada hasil kerjanya, yang merupakan budaya dari tempat kerja praktik penulis sendiri. Sehingga memberikan kebebesan terkait mobilisasi pengerjaan, tidak harus di kantor asalkan kerjaan selesai dengan baik. Hal ini cukup bagus terutama bagi perusahaan yang notabenenya diisi oleh anak-anak muda yang biasanya tidak ingin dibatasi ruang geraknya dan suka akan kebebasan. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Saran yang penulis ingin sampaikan pada mata kuliah kerja praktik adalah agar mata kuliah ini membuka sesi presentasi kerja praktik untuk angkatan yang belum 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			mengambil mata kuliah kerja praktik ini sendiri. Karena hal ini akan lebih bermanfaat bagi mereka melalui informasi-informasi yang diberikan melalui presentasi. Selain itu, hendaknya mata kuliah ini menyampaikan target pencapaian dari kerja praktik, apakah itu target berupa skill, pengalaman atau semacamnya. Untuk tempat kerja praktik saya sendiri, saran saya adalah agar memberikan tantangan bagi peserta kerja praktiknya, agar dari masing-masing peserta kerja praktik bisa mendapatkan pengalaman dan skill yang lebih banyak. Selain itu, penulis juga berharap agar dosen mata kuliah kerja praktik memberikan arahan kepada tempat kerja praktik berupa tujuan diadakannya mata kuliah kerja praktik ini, sehingga tempat kerja praktik mampu memberikan dan memenuhi ekspektasi mata kuliah dan juga memenuhi ekspektasi perusahaan itu sendiri. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>vi</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

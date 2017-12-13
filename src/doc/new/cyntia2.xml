@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENYELESAIAN</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo> <bo>BIRO</bo> <bo>LABORATORIUM</bo></title>
+		<segment>
+			<bo>PROSES</bo> <bo>INDARUNG</bo> <bo>II&amp;III,</bo> <bo>IV</bo> <bo>DAN</bo> <bo>V</bo> <bo>PT</bo> <bo>SEMEN</bo> <bo>PADANG</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>CYNTIA</bo> <bo>MAHARANI</bo> <bo>WARMAN</bo></title>
+		<segment>
+			<bo>1306382871</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Cyntia Maharani Warman : 1306382871 Program Studi : Sistem Informasi Judul Kerja Praktik : Penyelesaian Sistem Informasi Biro Laboratorium Proses Indarung II &amp; III, IV dan V PT SEMEN PADANG <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>B.</bo> <bo>Jusuf,</bo> <bo>S.Kom.,</bo> <bo>M.I.S.)</bo> Ditetapkan di : Depok Tanggal : 2 November 2016 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini berisi rangkuman kegiatan kerja praktik yang telah penulis laksanakan di PT Semen Padang selama kurang lebih 6 minggu, yaitu dimulai pada tanggal 20 Juni sampai dengan 12 Agustus 2016. Penulis ditempatkan di Laboratorium Proses Indarung V PT Semen Padang untuk menyelesaikan sistem informasi berbasis <it>web</it> Laboratorium Proses PT Semen Padang. Sistem tersebut bertujuan untuk memudahkan proses input data sampel material sebelum diproses menjadi semen yang sebelumnya dilakukan menggunakan Excel. Penyelesaian sistem ini mencakup pengunduhan input-input data yang telah di input kedalam <it>web</it> terkait menjadi file Excel dan menampilkan grafik mengenai sampel material yang di input. Beberapa mata kuliah yang menjadi dasar penulis dalam penyelesaian sistem informasi ini antara lain Basis Data, Rekayasa Perangkat Lunak, Perancangan dan Pemrograman <it>Web,</it> Proyek Pengembangan Sistem Informasi dan Komunikasi Bisnis dan Teknologi. Selama kerja praktik penulis juga mendapatkan pengetahuan diluar pengetahuan yang pernah dipelajari saat kuliah. Selain itu penulis juga menghadapi hambatan-hambatan pada pelaksanaan kerja praktik seperti koneksi internet yang lamat, lokasi kerja praktik yang bising, serta berada di lingkungan proyek yang cukup sulit untuk dijangkatu. Namun semua hambatan dapat diselesaikan melalui komunikasi, negosisasi sehingga ditemukan solusi alternatif. Kata kunci: <it>Input</it> data, kerja praktik, koneksi internet lambat, komunikasi, sistem informasi. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. ProfilTempatKerjaPraktik ......................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 5</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 7 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 7</title>
+		<title>2.2. Analisis .......................................................................................................... 16</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 16</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 17</title>
+		<title>2.2.3. Kendala yang Dihadapi dan Cara Menanganinya ................................... 18</title>
+		<title>2.2.4. Hal-Hal yang Tidak Didapatkan dalam Perkuliahan .............................. 19</title>
+		<title>2.2.5. Penilaian Individual Terhadap Tempat Kerja Praktik ............................ 20</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 21 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 21</title>
+		<title>3.2. Saran .............................................................................................................. 21</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 22 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Bagan Struktur Organisasi PT Semen Padang ............................................. 4 Gambar 2 Bagan Struktur Organisasi Departemen Produksi V PT Semen Padang ..... 5 Gambar 3 Halaman Utama Sistem ................................................................................ 9 Gambar 4 Tampilan Menu Grafik ............................................................................... 10 Gambar 5 Tampilan Pemilihan Tanggal Grafik .......................................................... 10 Gambar 6 Tampilan Grafik Material LSF-KF(Kiln Feed) ......................................... 11 Gambar 7 Tampilan Grafik Material SIM-KF(Kiln Feed) ......................................... 11 Gambar 8 Tampilan Grafik Material ALM-KF(Kiln Feed) ....................................... 12 Gambar 9 Tampilan Grafik Material LSF-Clinker ..................................................... 12 Gambar 10 Tampilan Grafik Material C3S-Clinker ................................................... 13 Gambar 11 Tampilan Grafik Material CaO-Clinker ................................................... 13 Gambar 12 Menu Pilihan Material yang Diunduh ...................................................... 14 Gambar 13 Pilihan “EXPORT (nama material) ke File Excel.................................... 15  Gambar 14 File yang Telah Diunduh ke File Excel.................................................... 15 Gambar 15 Tampilan Salah Satu File yang Diunduh ................................................. 15 Gambar 16 Database dari Sistem ................................................................................ 18 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<segment>
+			Tabel 1 Daftar <it>User</it> ...................................................................................................... 8 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIKError!</bo> <bo>Bookmark</bo> <bo>not</bo> 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			<bo>defined.</bo> LAMPIRAN 2 LOG KERJA PRAKTIK .................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses pencarian tempat kerja praktik dimulai pada bulan Februari 2016. Sumber informasi lowongan kerja praktik penulis adalah melalui teman-teman sekampus dan juga melalui senior. Selain itu informasi lowongan kerja praktik juga penulis peroleh dari internet sepreti situs jobstreet.com. Awalnya penulis melakukan pengajuan kerja praktik ke beberapa perusahaan baik dilingkungan kerja <it>corporate</it> maupun <it>starup.</it> Beberapa perusahaan tersebut antara lain PLN, BukaLapak, Lazada, Kudo, dan PT. Sinergy Global Asia. Setelah mengirimkan lamaran ke perusahaan tersebut, PT Sinergy Global Asia yang merespon lamaran penulis dan mengundang penulis untuk melakukan wawancara dan tes. Penulis datang ke kantor PT Sinergy Global Asia di Bintaro sector IX. Setelah melakukan wawancara dan tes yang diberikan oleh PT Sinergy Global Asia mereka menyampaikan bahwa hasil tes nya akan diberitahukan lewat <it>e-mail</it> kepada penulis. Namun sampai 2 minggu, tidak ada konfirmasi dari PT Sinergy Global Asia. Penulis terus mencari informasi lowongan kerja praktik melalui senior, teman-teman satu kampus dan dari <it>internet.</it> Penulis mendapatkan saran untuk memasukkan lowongan kerja praktik di PT Semen Padang. Pada awal bulan April berdasarkan informasi yang penulis peroleh dari senior Fasilkom UI yang sebelumnya pernah melakukan kerja praktik di PT Semen Padang bahwa sekarang PT Semen Padang membutuhkan mahasiswa kerja praktik untuk menyelesaikan sistem informasi berbasis <it>web</it> yang pernah dikerjakan oleh senior tersebut. Penulis mengirimkan email kepada ibu Fanny Faisal yang merupakan karyawan Pusat Pendidikan dan Pelatihan (Pusdiklat) PT Semen Padang untuk mengajukan kerja praktik di PT Semen Padang. Tepat pada tanggal 5 April penulis resmi diterima di PT Semen Padang untuk melakukan kerja praktik. Dengan pertimbangan dekat dengan tempat tinggal di 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Padang, penulis memutuskan untuk mengambil kesempatan kerja praktik di PT Semen Padang. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>ProfilTempatKerjaPraktik</bo></title>
+		<segment>
+			PT Semen Padang merupakan pabrik semen pertama di Indonesia yang didirkan pada tanggal 18 Maret 1910. Perusahaan ini terletak 15 kilometer dari pusat Kota Padang, yaitu Indarung Kecamatan Lubuk Kilangan PT Semen Padang. Perusahaan ini dinasionalisasikan oleh Pemerintah Republik Indonesia dari Pemerintah Belanda pada tanggal 5 Juli 1958 dan resmi menjadi Badan Usaha Milik Negara (BUMN) [1]. Bidang inti bisnis PT Semen Padang adalah industry semen yang dihasilkan pada pabrik Indarung I, II, III, IV dan V. Namun pada Oktober 1999 pabrik Indarung I dinonaktifkan. Selanjutnya pabrik melakukan transformasi pengembangan kapasitas pabrik dari teknologi basah menjadi proses kering. Adapun bahan mentah yang digunakan dalam pembuatan semen adalah batu kapur, batu silica, tanah liat dan pasir besi. Secara garis besar proses produksi semen melalui lima tahapan, dimulai dari penambangan dan penyimpanan bahan mentah, penggilingan dan pencampuran bahan mentah, homogenisasi hasil penggilingan bahan mentah, pembakaran dan terkhir penggilingan akhir hasil pembakaran. Hasilnya semen siap kemas dan dipasarkan ke masyarakat. Semen yang dipasarkan memiliki tipe sesuai dengan kebutuhan masyarakat, seperti semen khusus untuk bangunan bertingkat, saluran irigasi, bangunan-bangunan dalam air yang memerlukan ketahanan terhadap serangan sulfat, dan lain-lain. Struktur organisasi PT Semen Padang ditetapkan melalui Rapat Umum Pemegang Saham Tahunan (RUPST) PT Semen Padang. Dalam struktur organisasi PT Semen 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Padang memiliki 4 orang direktur yang dipimpin oleh seorang Direktur Utama yang dibantu oleh 4 direktur lainnya, yaitu: [2] 1. Direktur Pemasaran Bertanggung jawab atas masalah niaga atau pemasaran dan umum yang membawahi: a. Departemen Penjualan b. Departemen Perancangan dan Pengembangan Pemasaran c. Departemen Distribusi dan Transportasi 2. Direktur Produksi Bertanggung jawab terhadap kelancaran kegiatan operasional pabrik yang membawahi 5 departemen, yaitu: a. Departemen Tambang b. Departemen Produksi II/III c. Departemen Produksi IV d. Departemen Produksi V yang membawahi 4 Biro, yaitu: i. Biro Produksi V ii. Biro Pemeliharaan Mesin V iii. Biro Pemeliharaan Listrik dan Instrumen V iv. Biro Laboratorium Proses V e. Departemen Perencanaan Teknik Pabrik 3. Direktur Litbang dan Operasional Bertanggung jawab terhadap penelitian dan pengembangan perusahaan yang membawahi 4 departemen, yaitu: a. Departemen Penelitian dan Pengembangan b. Departemen Rancang Bangun dan Rekayasa c. Departemen Jaminan Kualitas dan Perwakilan Manajemen d. Departemen Perbekalan 4. Direktur Keuangan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			Bertanggung jawab terhadap semua hal yang terkait dengan keuangan perusahaan yang membawahi 4 departemen, yaitu: a. Departemen Perbendaharaan b. Departemen Akuntansi dan Pengendalian Keuangan c. Departemen Sumber Daya Manusia d. Departemen SISFO Berikut adalah struktur organisasi dari PT Semen Padang, dimana 4 bidang tempat kerja praktik penulis digambarkan dengan kotak warna merah: Gambar 1 Bagan Struktur Organisasi PT Semen Padang Penulis bekerja pada Biro Laboratoroum Proses V ini yang dipimpin oleh Andria Delfa dengan kepala departemen Produksi yaitu Indieffouny Indra. Namun dalam kerja praktik ini penulis langsung dibimbing oleh Ketua Labor II&amp;III, IV dan V yaitu Ibu Ike Evi Wiyana S.Si. Ketua labor membawahi beberapa staf ahli, salah satunya 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			penyelia kerja praktik yang berperan sebagai Staf Ahli II Biro Laboratoroum Proses yang bertugas mengumpulkan, merangkum dan menganalisis semua data mengenai bahan material dalam produksi semen di PT Semen Padang. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Penulis ditempatkan pada Departemen Produksi V yaitu pada Biro Laboratorium Proses V yang diketuai oleh Andira Delfa. Namun dalam pelaksanaan kerja praktik sendiri penulis dibimbing oleh Ibu Ike Evi Wiyana S.Si sebagai ketua Departemen Produksi/Ketua Labor II &amp; III, IV dan V. Ketua labor membawahi beberapa staf ahli, salah satunya penyelia kerja praktik yang berperan sebagai Staf Ahli II Biro Laboratorium Proses yang bertugas mengumulkan, merangkum dan menganalisis semua data mengenai bahan material dalam produksi semen di PT Semen Padang [3] Berikut struktur organisasi Departemen Produksi V PT Semen Padang dengan kotak berwarna merah posisi penulis ditempatkan. Gambar 2 Bagan Struktur Organisasi Departemen Produksi V PT Semen Padang [2] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			Staf Ahli II Biro Laboratorium Proses adalah penyelia yang membimbing penulis dalam menyelesaikan sistem. Beliau adalah Febrianki Ultari yang memantau, mengevaluasi, memberi saran serta yang memfasilitasi penulis dalam menyelesaikan sistem ini. Penulis memiliki absensi yang harus dilaporkan kepada penyelia setiap hari untuk memeriksa kehadiran dan juga sebagai bukti kepada bagian Diklat PT Semen Padang telah mengikut aturan kerja praktik di perusahaan tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Semen Padang dalam proses menghasilkan semen yang berkualitas harus melalui tahap-tahap yang telah diuji sebelumnya. Untuk menguji kualitas bahan baku sebelum semen di produksi, PT Semen Padang melakukan pengujian di laboratorium. Tenaga kerja mengambil sampel tersebut dibawa ke laboratorium untuk diuji proporsi untuk menghasilkan semen yang berkualitas. Hasil uji tersebut kemudian dilaporkan setiap satu jam, sehingga ada 24 laporan perhari dari uji sampel. Namun juga ada pengujian yang dilakukan tiga kali sehari. Jika ada hasil uji yang tidak memenuhi kriteria maka dengan segera pegawai yang bertugas akan melaporkan hal tersebut ke bagian produksi semen. Hasil pengujian sampel tersebut sebelumnya di-<it>input</it> kedalam sebuah <it>fle</it> Excel oleh pegawai labor yang bertugas untuk dilakukan <it>controlling</it> terhadap sampel yang akan diproses ke tahap selanjutnya. Namun penggunaan <it>file</it> Excel tersebut sulit dilakukan karena data yang sangat banyak dan tidak terintegrasi antara Laboratorium II &amp; III, IV dan V. Sehingga telah dibuatlah sebuah sistem informasi berbasis <it>web</it> untuk memfasilitasi pelaporan yang biasanya menggunakan <it>file</it> Excel tersebut. Sistem informasi tersebut bernama Sistem Informasi Laboratorium Proses Indarung II &amp; III, IV dan V. Sebagaimana yang telah dijelaskan sebelumnya, sistem informasi ini bertujuan untuk mempermudah pegawai labor untuk melakukan <it>input</it> data, melaporkan data termasuk dalam bentuk grafik dan membuat data lebih terintegrasi dengan labor lainnya. Sistem ini juga berfungsi untuk melakukan <it>input</it> kendala- kendala yang terjadi terkait dengan uji sampel yang telah dilakukan. Sistem informasi ini memiliki beberapa <it>user.</it> Berikut daftar <it>user</it> beserta fungsi yang dapat dilihat pada tabel berikut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Tabel 1. Daftar <it>User</it> <bo>No</bo> <bo>Aktor</bo> <bo>Deskripsi</bo> <bo>Aktor</bo> 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			Admin Admin berperan dalam hal <it>user</it> <it>maintenance,</it> yaitu yang mengelola akun pengguna lainnya berupa <it>create,</it> <it>update,</it> <it>read</it> dan <it>delete.</it> Admin juga dapat melihat data dan grafik yang di-<it>input</it> namun tidak bisa melakukan modifikasi ataupun penghapusan data. 
+		</segment>
+		<pagenum>2</pagenum>
+		<pagenum>3</pagenum>
+		<segment>
+			Staf Staf dapat login ke dalam sistem, dengan melihat data, mengunduh laporan dan membuat laporan dalam bentuk <it>file</it> Pdf. Namun tidak dapat melakukan perubahan terhadap data. Operator Operator berperan dalam mengelola data, yaitu melakukan <it>input</it> data, memodifikasi, melihat dan menghapus data. Operator juga dapat membuat laporan, mengelola kendala operasional dan melihat data dalam bentuk grafik. 
+		</segment>
+		<pagenum>4</pagenum>
+		<segment>
+			Panel Panel hanya bisa login dan melihat data yang telah di- <it>input,</it> namun tidak bisa melakukan modifikasi atau melihat grafik data dari material. Sistem informasi yang telah dikembangkan sebelumnya ini belum sepenuhnya selesai. Fitur grafik yang ditampilkan belum menampilkan beberapa material semen yang dibutuhkan oleh laboratorium proses. Dan terkait input dari setiap material yang diuji dan di-<it>input</it> kedalam sistem perlu di-<it>unduh</it> lagi kedalam file Excel, pengunduhan file ini sebelumnya belum di implementasikan sama sekali di dalam sistem ini. Berikut adalah tampilan <it>dashboard</it> dari sistem yang penulis kerjakan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			Gambar 3 Halaman Utama Sistem Fitur grafik yang dikerjakan oleh penulis adalah material LSF, SIM, ALM dari material Kiln Feed baik pada Lab Indarung II &amp; III, IV dan V. Selain itu juga material LSF, C3S, CaO dari material Clinker baik pada Lab Indarung II &amp; III, IV dan V. Fitur grafik akan ditampilkan setelah <it>user</it> memilih menu Grafik pada sistem dan memilih tanggal yang akan ditampilkan data dari setiap material yang ingin ditampilkan tersebut. Berikut daftar gambar mengenai proses yang terjadi dalam menampilkan grafik dalam sistem ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			Gambar 4 Tampilan Menu Grafik Gambar 5 Tampilan Pemilihan Tanggal Grafik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<segment>
+			Gambar 6 Tampilan Grafik Material LSF-KF(Kiln Feed) 
+		</segment>
+		<pagenum>11</pagenum>
+		<segment>
+			Gambar 7 Tampilan Grafik Material SIM-KF(Kiln Feed) 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<segment>
+			Gambar 8 Tampilan Grafik Material ALM-KF(Kiln Feed) 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			Gambar 9 Tampilan Grafik Material LSF-Clinker 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<segment>
+			Gambar 10 Tampilan Grafik Material C3S-Clinker 
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			Gambar 11 Tampilan Grafik Material CaO-Clinker 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			Selanjutnya yaitu fitur “Export to File Excel”.  Fitur ini digunakan untuk melakukan  ekspor data yang telah di-<it>input</it> kedalam sistem, data-data tersebut diunduh berupa <it>file</it> Excel. <it>User</it> akan memilih material pada Lab Indarung tertentu yang akan diunduh datanya. Lalu dengan memilih pilihan “EXPORT  (nama  material)  ke  file  Exceel maka file tersebut akan langsung diunduh yang berisikan data-data dari material tersebut. Berikut adalah daftar gambarmengenai proses yang terjadi. Gambar 12 Menu Pilihan Material yang Diunduh 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<segment>
+			Gambar 13 Pilihan “EXPORT (nama material) ke File Excel  Gambar 14 File yang Telah Diunduh ke File Excel 
+		</segment>
+		<pagenum>15</pagenum>
+		<segment>
+			Gambar 15 Tampilan Salah Satu File yang Diunduh 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<pagenum>16</pagenum>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Rencana hasil akhir yang terdapat pada KAKP tidak jauh berbeda dengan kerja praktik yang dilaksanakan. Dan dari jadwal yang telah tertera pada KAKP juga tidak jauh berbeda. Membuat <it>user</it> <it>acceptance</it> <it>test</it> (UAT) sistem melakukan testing bahwa semua <it>requirement</it> telah dipenuhi dan presentasi ke klien yang tertera pada KAKP dilakukan pada minggu ke-6 dilakukan pada minggu ke-7 pada 3 hari berturut-turut. Berikut merupakan perbandingan antara jadwal pada KAKP dengan kerja praktik yang dilaksanakan oleh penulis. <bo>Minggu</bo> <bo>ke-1:</bo> Pada KAKP tertulis bahwa pada minggu pertama penulis akan melakukan pengumpulan informasi sistem dari <it>client</it> dan mempelajari data-data dari setiap labor di PT Semen Padang. Pelaksanaan di lapangan tidak jauh berbeda dengan perencanaan. Pada minggu pertama penulis mengumpulkan informasi sistem dari <it>client</it> dan mempelajari data-data tersebut. <bo>Minggu</bo> <bo>ke-2:</bo> Pada KAKP tertulis bahwa pada minggu kedua penulis akan melakukan instalasi dari sistem dan mempelajari sistem. Pelaksanaan di lapangan tidak jauh berbeda dengan perencanaan. Pada minggu kedua penulis melakukan instalasi sistem pada laptop peserta, memperbaiki beberapa <it>error</it> yang terjadi setelah instalasi dan mempelajari <it>framework</it> dan <it>environment</it> dari sistem tersebut. <bo>Minggu</bo> <bo>ke-3:</bo> Pada KAKP tertulis bahwa pada minggu ketiga penulis akan mempelajari alur dari sistem dan basis data dari sistem. Selain itu penulis juga akan menentukan <it>use</it> <it>case.</it> Pelaksanaan di lapangan tidak jauh berbeda dengan perencanaan. Penulis mempelajari alur sistem dan basis data dari sistem. <bo>Minggu</bo> <bo>ke-4:</bo> Pada KAKP tertulis bahwa pada minggu keempat penulis akan merancang <it>sequence</it> <it>diagram</it> dan melakukan implementasi fitur-fitur. Pelaksanaan di lapangan tidak jauh 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<segment>
+			berbeda dengan perencanaan. Penulis melakukan implementasi fitur grafik dan juga mempelajari mengenai fitur <it>export</it> <it>to</it> <it>Excel</it> yang akan dikerjakan. <bo>Minggu</bo> <bo>ke-5:</bo> Pada KAKP tertulis bahwa minggu kelima penulis akan melakukan implementasi fitur-fitur. Pelaksanaan di lapangan tidak jauh berbeda dengan perencanaan. Penulis melakukan implemtasi fitur-fitur <it>export</it> <it>to</it> <it>Excel</it> dari Lab Indarung II &amp; III. <bo>Minggu</bo> <bo>ke-6:</bo> Pada KAKP tertulis bahwa pada minggu keenam penulis akan membuat <it>user</it> <it>acceptance</it> <it>test</it> (UAT) sistem, melakukan testing bahwa semua <it>requirement</it> telah terpenuhi dan presentasi ke klien. Namun terdapat perbedaan pada pelaksanaan di lapangan. Pada minggu keenam, penulis melakukan implementasi fitur <it>export</it> <it>to</it> <it>Excel</it> pada sistem Lab Indarung IV dan V. <bo>Minggu</bo> <bo>ke-7:</bo> <it>User</it> <it>acceptance</it> <it>test</it> (UAT) sistem, melakukan testing bahwa semua <it>requirement</it> telah terpenuhi dan presentasi ke klien dilakukan pada minggu ketujuh, yaitu sampai pada tanggal 12 Agustus 2016. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Pengetahuan yang dipelajari saat perkuliahan sangat berhubungan dengan penyelesaian sistem informasi Laboratorium Proses PT Semen Padang. Adapun matakuliah tersebut adalah Basis Data, Rekayasa Perangkat Lunak(RPL), Perancangan dan Pemrograman <it>Web</it> (PPW), Proyek Pengembangan Sistem Informasi (Propensi) dan Komunikasi Bisnis dan Teknologi (Kombistek) yang menjadi acuan dalam penyelesaian sistem. Adapun bekal pengetahuan mengenai penggunaan <it>framework</it> YII 2.0 yang penulis gunakan pada penyelesaian sistem ini adalah dari matakuliah propensi yang pernah penulis gunakan, namun terdapat beberapa perbedaan karena yang penulis gunakan sebelumnya adalah <it>framework</it> YII 
+		</segment>
+		<title>1.0.</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<title><bo>2.2.3.</bo> <bo>Kendala</bo> <bo>yang</bo> <bo>Dihadapi</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo></title>
+		<segment>
+			Kendala sangat riskan yang penulis hadapi adalah dalam memahami sistem ini karena dokumentasi dari sistem ini tidak dilakukan dengan baik. Sehingga setelah melakukan instalasi sistem ini pada laptop penulis, penulis membutuhkan waktu yang relatif lama dalam memahami sistem ini. <it>Framework</it> YII 2.0 dan dengan menggunakan <it>environment</it> <it>database</it> PHPMyAdmin. Penulis sebelumnya pernah mengerjakan sebuah sistem menggunakan <it>framework</it> YII 1.0 dengan <it>environment</it> <it>database</it> PosgreSQL. Butuh waktu yang cukup lama bagi penulis untuk memahami sistem ini. Selain itu <it>database</it> dari sistem ini cukup banyak dan kompleks. Sistem ini memiliki total 106 tabel yang menyimpan berbagai atribut dari setiap material semen terkait dengan sistem ini. Pemahaman alur <it>database</it> pun cukup memakan waktu bagi penulis karena dokumentasi dari <it>database</it> sistem ini tidak ada. Berikut adalah tabel- tabel dari sistem tersebut. Gambar 16 Database dari Sistem Selain itu kendala yang penulis hadapi ketika melaksanakan kerja praktik yaitu terbatasnya koneksi <it>internet.</it> Awalnya penyelia tidak menyediakan fasilitas seperti <it>internet.</it> Namun penulis menjelaskan bahwa pengembangan sistem infromasi ini 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>19</pagenum>
+		<segment>
+			sangat membutuhkan <it>internet,</it> terlebih lagi dalam melaksanakan kerja praktik ini penulis hanya mengerjakannya sendiri, tidak dalam tim sehingga sebagian besar sumber referensi untuk penyelesaian sistem ini penulis dapat dari internet. Kemudian penyelia menghubungi admin IT PT Semen Padan untuk membuatkan akun tamu di PT Semen Padang agar bisa menggunakan jaringan intranet PT Semen Padang. Jaringan intranet tersebut pun kadang lambat, dan jaringannya sering mengalami gangguan. Penulis pun kadang menggunakan <it>internet</it> pribadi yang disambung melalui <it>device</it> menggunakan <it>wifi</it> <it>hotspot.</it> Namun koneksi <it>internet</it> sangat lambat dikarenakan lokasi tempat kerja praktik yaitu kantor <it>Central</it> <it>Control</it> Indarung V berada di dalam daerah proyek yang <it>signal</it> <it>internet</it> nya buruk. Hal yang sangat disayangkan adalah koneksi <it>internet</it> yang sangat lambat sehingga untuk penyelesaian sistem ini penulis sering mengalami hambatan. Penulis memberikan saran kepada penyelia untuk mahasiswa kerja praktik selanjutnya dengan topik yang sama harus menyediakan fasilitas internet dan lingkungan kerja yang mendukung untuk pengerjaan sistem informasi berbasis <it>web</it> seperti ini. 
+		</segment>
+		<title><bo>2.2.4.</bo> <bo>Hal-Hal</bo> <bo>yang</bo> <bo>Tidak</bo> <bo>Didapatkan</bo> <bo>dalam</bo> <bo>Perkuliahan</bo></title>
+		<segment>
+			Adapun hal-hal yang penulis dapatkan selama kerja praktik dan tidak terdapat dalam perkuliahan yaitu pengetahuan mengenai proses bisnis produksi semen PT. Semen Padang secara langsung. Penulis sesekali melihat pengujian sampel bahan material dengan berbagai macam alat-alat seperti alat timbang bahan baku, pemanggang, penggilingan, mesin press dan alat x-ray yang ditempatkan diruangan penulis bekerja. Selain itu penulis juga mendapatkan bagaimana beradaptasi dengan lingkungan kerja yang relatif sangat sibuk karena masing-masing karyawan memiliki aktifitas yang padat karena harus melakukan kontrol selama 24 jam. Selain itu penulis harus membiasakan diri untuk disiplin waktu seperti karyawan lainnya karena untuk menjangkau tempat selain karyawan tidak boleh membawa kendaraan dan hanya boleh menggunakan bus yang disediakan tepat pada pukul 07.00 WIB dan pukul 16.00 WIB atau 30 menit perjalanan kaki dari area luar proyek. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>20</pagenum>
+		<title><bo>2.2.5.</bo> <bo>Penilaian</bo> <bo>Individual</bo> <bo>Terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			<it>Central</it> <it>Control</it> Indarung V khususnya Laboratoroium Biro Labor Proses Indarung V memiliki lingkungan kerja yang sibuk. Karyawan harus mengontrol kualitas semen selama 24 jam sehingga tempat penulis melakukan kerja praktik bising ditambah lagi dari suara pabrik produksi semen. Adapaun karyawan yang sering berganti karena di PT Semen Padang diterpakan sistem <it>shift</it> dalam bekerja sehingga penulis dituntut harus bisa beradaptasi dengan orang-orang yang selalu berubah setiap harinya. Terlepas dari semua itu penilaian penulis terhadap tempat kerja praktik khususnya penyelia yaitu memiliki sikap yang sangat terbuka dan mau menerima masukan dan kritik dari penulis. Penyelia juga mengoptimalkan komunikasi dan negosisasi dengan penulis untuk mengatasi masalah yang dihadapi. Lingkungan kerja selain dari lingkungan fisik dari tempat kerja praktik yaitu karyawan-karyawan disana ramah (bertegur sapa) walaupun sibuk dengan aktifitas masing-masing. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>21</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Kerja praktik merupakan sarana untuk memperoleh ilmu pengetahuan, tidak hanya pengetahuan yang pernah diajarkan saat perkuliahan namun pengetahuan lain seperti <it>behavior</it> lingkungan kerja, proses bisnis tempat kerja praktik, cara beradaptasi dengan lingkungan kerja, dan lain-lain. Padaa saat kerja praktik penulis dalam hal ini dituntut untuk mandiri mengembangkan pengetahuan, baik dalam keadaan dimana penyelia menyediakan fasilitas pengetahuan terkait kerja praktik maupun tidak. Pada saat kerja praktik penulis juga dituntut untuk disiplin dalam bekerja walaupun tanpa <it>deadline</it> atau <it>punishment</it> yang diberikan. Tetapi lebih kepada menumbuhkan kepercayaan antara penyelia dan penulis untuk bekerja secara profesional. Penulis harus cepat beradaptasi, mencari solusi dari hambatan yang muncul dan komunikatif dalam mengemukakan pendapat. Sehingga pengetahuan yang didapatkan lebih maksimal yang tentunya bermanfaat untuk terjun ke dunia kerja selanjutnya. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Adapun saran untuk tempat kerja praktik yaitu: 1. Menyediakan fasilitas <it>internet</it> yang memdai dalam pengembangan sistem. 2. Menyediakan tempat kerja yang nyaman dan tidak bising karena tidak semua orang bisa fokus bekerja dalam kebisingan terlebih dalam pengerjaan sebuah sistem informasi. Adapun saran secara umum yaitu hendaknya penyelia kerja praktik menyesuaikan <it>resource</it> yang disediakan dengan <it>output</it> yang diiginkan. Dalam artian bahwa hasil yang diinginkan harus realistis dengan fasilitas dan <it>resource</it> yang tersedia. Bagaimanapun <it>resource</it> dan fasilitas yang disediakan berpengaruh dalam pengembangan sistem yang optimal. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>22</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT Semen Padang. (2016). “Company  Profile  PT  Semen  Padang”.  http://www.semenpadang.co.id/index.php?mod=profil&amp;id=1. [Diakses pada 25 Oktober 2016]. [2] 
+		</segment>
+		<title>PT</title>
+		<segment>
+			Semen Padang. (2016). “Manajemen  Semen Padang”.  http://www.semenpadang.co.id/index.php?mod=manajemen. [Diakses pada 27 Oktober 2016]. [3] Warman, Cyntia Maharani. (2016). “Laporan  Kerja  Praktik  untuk  Penyelia”.  LUP. Padang : PT Semen Padang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="32">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

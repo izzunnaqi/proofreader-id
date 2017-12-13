@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>TOKOPEDIA</bo></it> <it><bo>TRANSACTION</bo></it> <it><bo>WEB</bo></it> <it><bo>SERVICE</bo></it> <it><bo>MIGRATION</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>CHRISTIAN</bo> <bo>HALIM</bo></title>
+		<segment>
+			<bo>1306409495</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Christian Halim : 1306409495 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Tokopedia</it> <it>Transaction</it> <it>Web</it> <it>Service</it> <it>Migration</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom,</bo> <bo>M.Kom)</bo> 
+		</segment>
+		<title><bo>PELAKSANA</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Christian</bo> <bo>Halim)</bo> Ditetapkan di : Fakultas Ilmu Komputer Universitas Indonesia, Depok Tanggal : tanggal bulan 2016 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			: Christian Halim : Ilmu Komputer : <it>Tokopedia</it> <it>Transaction</it> <it>Web</it> <it>Service</it> <it>Migration</it> Nama Program Studi Judul Kerja Praktik Laporan kerja praktik ini dibuat untuk menjelaskan kegiatan-kegiatan yang dilakukan oleh penulis selama melaksanakan kerja praktik di PT. Tokopedia pada tanggal 20 Juni 2016 hingga 26 Agustus 2016. Penulis bekerja sebagai <it>Software</it> <it>Engineer</it> <it>Intern</it> di PT. Tokopedia di <it>squad</it> Stitch, <it>squad</it> yang bertanggung jawab di bidang transaksi dan pemesanan di PT. Tokopedia. <it>Squad</it> Stitch dipimpin oleh penyelia kerja praktik penulis, Andika Irawan, S.Kom. dan terdiri dari kurang lebih 10 anggota. Pada pelaksanaan kerja praktik, penulis diberi tugas untuk melakukan migrasi <it>web</it> <it>service</it> yang ada di PT. Tokopedia yang menggunakan bahasa pemrograman PERL ke bahasa pemrograman Go. <it>Web</it> <it>Service</it> yang dikerjakan oleh penulis adalah <it>web</it> <it>service</it> yang berkaitan dengan transaksi dan pemesanan dan bertujuan untuk mempercepat waktu pemrosesan yang dikerjakan oleh <it>web</it> <it>service.</it> Penulis mempelajari banyak hal dalam pelaksanaan kerja praktik mulai dari bahasa pemrograman baru, teknologi baru, metodologi <it>software</it> <it>development</it> <it>agile,</it> dan pemrosesan transaksi di PT. Tokopedia. Kata kunci: Kerja praktik, migrasi, tokopedia, transaction, web service 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 5</title>
+		<title>2.1.3. Metodologi ................................................................................................ 6</title>
+		<title>2.1.4. Teknologi .................................................................................................. 9</title>
+		<title>2.1.5. Hasil Pekerjaan ....................................................................................... 11</title>
+		<title>2.2. Analisis .......................................................................................................... 12</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 12</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 15</title>
+		<segment>
+			BAB 3 PENUTUP...................................................................................................... 17 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 17</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.2. Saran .............................................................................................................. 17</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 19 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Proses pengembangan <it>software</it> di <it>squad</it> Stitch........................................ 8 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK.................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Sebelum pelaksanaan kerja praktik kali ini, penulis sebelumnya telah melakukan program <it>internship</it> di PT. Tokopedia pada tanggal 4 Januari 2016 hingga 5 Februari 2016. Selama masa pencarian kerja praktik di tengah-tengah semester 6, penulis awalnya berniat untuk melakukan pencarian kerja praktik di berbagai tempat. Beberapa tempat yang menjadi sasaran penulis antara lain GDP Venture, Traveloka, Ruma, dan Kudo. Penulis sempat mencari-cari informasi lowongan magang di tempat-tempat tersebut. Namun, karena kesibukan yang dihadapi oleh penulis di semester 6, yaitu beban kuliah sebanyak 23 SKS disertai banyaknya proyek akhir, asisten dosen mata kuliah Teori Bahasa dan Automata, dan rumah yang cukup jauh dari kampus (kurang lebih memakan waktu 4 jam perjalanan pulang pergi setiap harinya), penulis akhirnya memutuskan untuk mencoba mendaftar di satu tempat saja, yaitu di KUDO (Kios Untuk Dagang Online), sebuah perusahaan teknologi yang menciptakan peluang bagi masyarakat dengan kondisi ekonomi menengah ke bawah untuk menjadi <it>reseller</it> berbagai produk dengan mendapatkan komisi untuk produk yang terjual [1]. Penulis memilih mencoba di tempat ini dikarenakan beberapa teman dari penulis sudah diterima sebagai pelaksana kerja praktik di tempat ini. Namun, penulis tidak berhasil lolos dari tahap wawancara dikarenakan satu dan lain hal. Selain itu, penulis juga merasa bahwa kantor KUDO cukup sulit untuk diakses dan jauh dari rumah penulis sehingga penulis mengurungkan niatnya untuk melaksanakan kerja praktik di KUDO. Setelah itu, karena minimnya waktu yang dapat dialokasikan untuk pencarian kerja praktik dari penulis, penulis akhirnya memutuskan untuk kembali melaksanakan kerja praktik di PT. Tokopedia dikarenakan penulis tidak perlu melewati tahap seleksinya lagi karena sudah pernah melakukan program magang disana sebelumnya. Penulis akhirnya mengirimkan surel ke HR di PT. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			Tokopedia, Dhea Rizki Ardini dan langsung mendapatkan lowongan melaksanakan kerja praktik di PT. Tokopedia. Untuk pengalaman seleksi penulis sendiri pada bulan Januari kemarin, penulis pertama mengirimkan 
+		</segment>
+		<title>CV</title>
+		<segment>
+			terlebih dahulu melalui https://www.tokopedia.com/careers/internship/software-engineer-intern#op-64488- software-engineer-intern. Setelah itu, penulis dikirimkan surel ke alamat email yang penulis lampirkan pada situs tersebut yang berisikan tentang tahap seleksi program magang dan tautan menuju situs pengujian kemampuan <it>programing</it> <it>online</it> melalui situs <it>hackerrank.</it> Soal yang diberikan beragam, mulai dari soal pemrograman menggunakan bahasa yang kita inginkan (penulis memilih Java karena penulis paling terbiasa menggunakan bahasa tersebut pada waktu pengujian) dan soal pilihan ganda yang menguji pemahaman tentang <it>website</it> ataupun <it>database</it> dengan waktu pengerjaan 45 menit. Setelah penulis selesai mengerjakannya, penulis dikirimkan surel yang berisi bahwa penulis telah lolos tahap ujian <it>online</it> dan penulis diminta untuk melanjutkan ke tahap wawancara di kantor PT. Tokopedia, Wisma 77 Tower 2, Slipi di lantai 2. Setelah menentukan waktu wawancara, penulis akhirnya datang ke waktu yang ditentukan. Disana penulis diberikan berbagai macam pertanyaan oleh pihak HR, <it>Product</it> <it>Owner,</it> dan <it>Software</it> <it>Engineer</it> mulai dari alasan mendaftar, data diri yang ada di CV, tes logika, dan pemrograman langsung di kertas menggunakan bahasa yang diinginkan. Setelah itu, akhirnya penulis dikirimkan surel yang berisi bahwa penulis dinyatakan diterima di PT. Tokopedia beserta <it>benefits</it> yang diberikan PT. Tokopedia. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bagian ini menjelaskan tentang tempat penulis melaksanakan kerja praktik penulis, PT. Tokopedia. Bagian ini mencakup profil tempat dan posisi penulis pada tempat kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Tokopedia adalah sebuah perusahaan internet yang memberikan kesempatan bagi setiap individu di Indonesia untuk membuka dan mengelola toko <it>online</it> sendiri dengan mudah dan gratis. PT. Tokopedia berusaha menciptakan lingkungan transaksi jual beli <it>online</it> yang lebih baik bagi penjual maupun pembeli [2]. Pada transaksi pembeliannya, PT. Tokopedia berperan sebagai perantara antara pembeli dan penjual. Penjual dapat membuka tokonya sendiri melalui berbagai media seperti <it>web</it> ataupun aplikasi <it>mobile</it> yang ada pada sistem operasi iOS ataupun Android. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik, penulis berperan sebagai <it>Software</it> <it>Engineer</it> <it>Intern</it> pada salah satu <it>squad</it> di PT. Tokopedia, yaitu <it>squad</it> Stitch yang bertanggung jawab dalam bidang transaksi dan pemesanan. <it>Squad</it> Stitch ini terdiri dari seorang <it>Product</it> <it>Owner,</it> dua orang <it>Quality</it> <it>Assurance,</it> lima orang <it>Software</it> <it>Engineer</it> dengan satu orang sebagai pemimpinnya sekaligus sebagai penyelia dan seorang <it>Tech</it> <it>Lead</it> yang berperan sebagai pengarah jalannya pengembangan teknologi yang akan digunakan. Penulis diberikan pekerjaan seperti layaknya <it>Software</it> <it>Engineer</it> yang bekerja <it>full</it> <it>time,</it> namun dengan beban pengerjaan yang lebih sedikit. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan memaparkan latar belakang pekerjaan yang dikerjakan oleh penulis selama masa kerja praktik, tinjauan pustaka, metodologi, teknologi, serta hasil pekerjaan penulis selama kerja praktik. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Pada hari pertama penulis datang ke PT. Tokopedia, penulis dipilihkan <it>squad</it> yang akan ditempati oleh penulis selama masa pelaksanaan kerja praktik oleh penyelenggara program magang di PT. Tokopedia. Setelah diskusi penyelenggara program magang dan <it>squad</it> <it>lead</it> setiap <it>squad,</it> penulis akhirnya bersama dengan 1 orang lain, Muhammad Luthfi, ditempatkan di <it>squad</it> Stitch berhubung <it>squad</it> Stitch sedang membutuhkan bantuan untuk proyek yang sedang mereka kerjakan. Pada awalnya penulis dan rekan penulis diberikan tugas untuk melakukan migrasi <it>web</it> <it>service</it> yang berkaitan dengan transaksi dan pemesanan dari bahasa PERL ke bahasa Go karena proyek besar yang sedang <it>squad</it> Stitch kerjakan pada saat itu adalah migrasi <it>web</it> <it>service.</it> Tujuan dilakukannya migrasi ini adalah untuk mempercepat waktu pemrosesan yang dilakukan oleh <it>web</it> <it>service</it> PT. Tokopedia. Selain itu, penulis juga tidak hanya sekedar mengubah bahasa pemrograman dari bahasa PERL ke Go. Penulis juga melakukan optimisasi <it>query</it> yang dipanggil dari <it>database</it> PGSQL PT. Tokopedia agar meringankan beban dari <it>database</it> dan juga hal-hal lain yang dirasa bisa untuk dioptimisasi. Namun, seiring berjalannya waktu kerja praktik, dikarenakan pekerjaan penulis selesai lebih cepat dari waktu yang disediakan, penulis pun diberikan berbagai pekerjaan lain yang berbeda dari rencana awal pekerjaan yang diberikan untuk penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<segment>
+			Pekerjaan yang dilakukan oleh penulis selama masa kerja praktik yaitu: 1. Mempelajari bahasa pemrograman Go dan PERL 2. Mempelajari cara menggunakan <it>Vagrant</it> 3. Melakukan migrasi <it>web</it> <it>service</it> PT. Tokopedia yang berkaitan dengan transaksi dan pemesanan dari bahasa Go ke bahasa PERL 4. Melakukan riset untuk mengoptimalkan <it>wrapper</it> <it>library</it> sql yang akan digunakan oleh PT. Tokopedia 5. Melakukan riset untuk menampilkan data <it>error</it> <it>log</it> pada Grafana, sebuah <it>tool</it> <it>dashboard</it> untuk menampilkan data [3] 6. Melakukan <it>review</it> kode dari <it>software</it> <it>engineer</it> lain 7. Memperbaiki <it>bug</it> yang ada di situs Tokopedia 8. Mengimplementasi fitur baru pada proyek yang sedang dikerjakan oleh <it>squad,</it> yaitu <it>walletweb</it> 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Bagian ini akan menjelaskan beberapa istilah yang akan digunakan oleh penulis di laporan ini. <it><bo>2.1.2.1.</bo></it> <it><bo>Web</bo></it> <it><bo>Service</bo></it> <it>Web</it> <it>Service</it> adalah aplikasi klien dan <it>server</it> yang melakukan komunikasi melalui <it>Hyper</it> <it>Text</it> <it>Transfer</it> <it>Protocol</it> (HTTP) pada <it>World</it> <it>Wide</it> <it>Web</it> (WWW) [4]. Protokol yang biasa digunakan pada <it>web</it> <it>service</it> adalah SOAP (Simple Object Access Protocol) dan REST (<it>Respresentational</it> <it>State</it> <it>Transfer).</it> Dalam pelaksanaan kerja praktik, penulis menggunakan protokol REST untuk komunikasi dengan format JSON (<it>JavaScript</it> <it>Object</it> <it>Notation).</it> <bo>2.1.2.2.</bo> <it><bo>Wrapper</bo></it> <it>Wrapper</it> adalah sebuah entitas yang membungkus suatu entitas lain untuk menutupi kompleksitas dari entitas lain yang dibungkusnya [5]. <it>Wrapper</it> yang penulis buat adalah <it>wrapper</it> untuk <it>extension</it> <it>library</it> database/sql pada bahasa GoLang, yaitu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			sqlx1. Tujuan pembuatan <it>wrapper</it> sqlx ini adalah untuk memudahkan penggunaan sqlx pada lingkungan kerja Tokopedia. Nama <it>wrapper</it> yang dibuat oleh penulis adalah sqlt 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Metode pengembangan <it>software</it> yang diterapkan pada <it>squad</it> Stitch adalah <it>pseudo-</it> <it>scrum</it> karena metode yang diterapkan sedikit berbeda dengan <it>scrum</it> pada umumnya, namun. Pada <it>squad</it> Stitch tidak terdapat seorang <it>project</it> <it>manager</it> sehingga peran <it>project</it> <it>manager</it> dipegang oleh <it>tech</it> <it>lead.</it> Selain itu, pada pelaksanaa <it>sprint</it> tidak ada <it>daily</it> <it>standup</it> <it>meeting,</it> namun ada <it>standup</it> <it>meeting</it> setiap 2 minggu sekali di hari yang ditentukan oleh <it>squad</it> <it>lead.</it> Selain itu, prinsip1-prinsip pada <it>scrum</it> diterapkan di <it>squad</it> Stitch seperti adanya pembuatan <it>product</it> <it>backlog</it> setiap akhir <it>sprint</it> dan adanya seorang <it>product</it> <it>owner.</it> Untuk pengembangan <it>software</it> yang dilakukan di <it>squad</it> Stitch terdapat beberapa proses sampai fitur yang diimplementasi dapat digunakan secara publik. <it>Software</it> <it>engineer</it> mula-mula membuat terlebih dahulu fitur yang ingin ditambahkan dari <it>repository</it> yang di-<it>clone</it> pada PC masing-masing secara <it>local.</it> Setelah fitur yang diimplementasi selesai, <it>software</it> <it>engineer</it> melakukan <it>testing</it> sendiri hal-hal yang dirasa perlu untuk diuji dan dapat diuji sendiri. Setelah selesai, fitur akan dipush</it> ke <it>repository</it> dengan <it>branch</it> baru yang dibuat oleh <it>software</it> <it>engineer.</it> Setelah itu, <it>software</it> <it>engineer</it> melakukan <it>pull</it> <it>request</it> ke <it>branch</it> <it>development.</it> Sebelum <it>pull</it> <it>request</it> dari <it>software</it> <it>engineer</it> di-<it>merge,</it> kode yang ditambahkan harus di-<it>review</it> oleh minimal 2 <it>software</it> <it>engineer</it> lainnya pada <it>squad</it> Stitch. Setelah kode dirasa sudah oke, <it>pull</it> <it>request</it> baru di-<it>merge</it> dan kemudian dilakukan <it>testing</it> oleh QA. <it>Environment</it> <it>testing</it> ini dinamakan <it>alpha,</it> yaitu <it>environment</it> dimana data-data yang digunakan dapat diubah-ubah sesuai kebutuhan oleh <it>software</it> <it>engineer.</it> Jika gagal, <it>software</it> <it>engineer</it> harus memperbaiki kegagalan yang ditemukan QA dan kembali melakukan <it>pull</it> <it>request</it> ke <it>branch</it> development. Jika sudah berhasil diuji, fitur tersebut kemudian akan di-<it>merge</it> ke <it>branch</it> <it>staging.</it> <it>Environment</it> <it>staging</it> ini  1 https://github.com/jmoiron/sqlx 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			menggunakan data yang juga dapat diubah oleh <it>software</it> <it>engineer</it> seperti di <it>environment</it> <it>alpha,</it> namun data di <it>environment</it> <it>staging</it> ini cenderung lebih mirip dengan data sesungguhnya yang digunakan di <it>live</it> (<it>Environment</it> yang digunakan oleh orang lain secara publik). QA kemudian akan kembali melakukan pengujian terhadap fitur yang diimplementasi di <it>staging.</it> Jika gagal, <it>software</it> <it>engineer</it> harus memperbaiki kegagalan yang ditemukan dan kembali melakukan <it>pull</it> <it>request</it> ke <it>branch</it> <it>staging.</it> Jika sudah berhasil, fitur tersebut akan di-<it>merge</it> ke <it>branch</it> <it>live</it> dan dapat digunakan secara publik di situs maupun <it>apps</it> Tokopedia. Berikut <it>flowchart</it> yang menunjukkan proses pengembangan <it>software</it> di <it>squad</it> Stitch. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			Gambar 1. Proses pengembangan <it>software</it> di <it>squad</it> Stitch 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			Setelah selesai pengerjaan satu fitur, <it>software</it> <it>engineer</it> akan diberikan <it>task</it> lagi sesuai kebutuhan saat itu. Untuk pengembangan <it>wrapper,</it> penulis tidak menerapkan proses yang telah disebutkan sebelumnya karena <it>wrapper</it> ini merupakan proyek pribadi dari salah satu <it>mentor</it> penulis di <it>squad</it> Stitch. Penulis melakukan <it>fork</it> dari <it>repository</it> <it>mentor</it> penulis dan setelah selesai implementasi fitur, penulis melakukan <it>pull</it> <it>request</it> kembali ke <it>repository</it> <it>mentor</it> penulis dan <it>mentor</it> penulis kemudian akan me-<it>review</it> implementasi fitur penulis dan setelah oke, fitur dari penulis akan di-<it>merge.</it> Selain itu penulis juga melakukan <it>review</it> kode yang dibuat oleh <it>software</it> <it>engineer</it> lain di <it>squad</it> Stitch. Dalam pelaksanaannya, penulis berhasil menemukan beberapa masalah yang ada di kode <it>software</it> <it>engineer</it> lain. Untuk riset Grafana, penulis tidak dapat menemukan cara untuk menampilkan data dengan <it>format</it> SQL dikarenakan Grafana tidak mendukung data SQL. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Untuk pengembangan fitur <it>software,</it> <it>squad</it> Stitch menggunakan beberapa jenis <it>tools,</it> yaitu sebagai berikut. <bo>2.1.4.1.</bo> <it><bo>Version</bo></it> <it><bo>Control</bo></it> <bo>dan</bo> <it><bo>Repository</bo></it> Selama pelaksanaan kerja praktik, penulis menggunakan <it>git</it> untuk <it>version</it> <it>control</it> dan github untuk <it>repository-nya.</it> Github merupakan suatu tempat <it>repository</it> berbasis <it>git</it> untuk menyimpan kode. Dalam penggunaan github, <it>user</it> dapat memilih untuk membayar atau tidak. Jika membayar, <it>repository</it> yang dimiliki pengguna dapat dibuat menjadi <it>private</it> sehingga tidak bisa dibuka oleh orang luar yang tidak punya hak akses. PT. Tokopedia sendiri merupakan <it>user</it> berbayar sehingga <it>repository</it> yang dipakai oleh penulis tidak dapat diakses dari luar. <bo>2.1.4.2.</bo> <bo>Bahasa</bo> <bo>Pemrograman</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			Penulis menggunakan beberapa bahasa saat pelaksanaan kerja praktik, yaitu Go, PERL, JavaScript, SQL, dan tt2. Dalam pembuatan <it>web</it> <it>service,</it> penulis menggunakan bahasa Go dengan mengacu kepada kode <it>web</it> <it>service</it> yang sudah ada di PT. Tokopedia sebelumnya dalam bahasa PERL. Dalam pengerjaan <it>web</it> <it>service</it> itu juga, karena adanya kebutuhan untuk mengambil data dari <it>database</it> PostgreSQL, penulis juga harus menggunakan SQL untuk melakukan <it>query</it> ke <it>database.</it> Setelah itu, dalam pengerjaan proyek <it>walletweb,</it> penulis menggunakan bahasa JavaScript dan tt2, dimana JavaScript berperan sebagai fungsi dari <it>web</it> dan tt2 sebagai tampilan dari <it>web</it> yang dibuat. Majoritas bahasa pemrograman yang digunakan oleh penulis adalah Go dikarenakan rencana awal kerja yang diberikan untuk penulis oleh penyelia adalah migrasi <it>web</it> <it>service</it> dari bahasa PERL ke Go. Selain itu untuk pembuatan <it>wrapper,</it> penulis juga menggunakan bahasa Go. <bo>2.1.4.3.</bo> <it><bo>Software</bo></it> <it><bo>Development</bo></it> Untuk <it>software</it> <it>development,</it> PT. Tokopedia menggunakan beberapa <it>software,</it> seperti JIRA dan Phabricator. Namun di <it>squad</it> Stitch sendiri, <it>software</it> yang digunakan adalah Phabricator, kumpulan perangkat untuk <it>software</it> <it>development</it> dengan fitur-fitur seperti manajemen <it>tasks</it> dan <it>sprint</it> ataupun <it>review</it> <it>code</it> [6]. Phabricator pada <it>squad</it> Stitch digunakan untuk mendaftarkan <it>task-task</it> apa saja yang saat ini sedang berlangsung dengan kondisi <it>task</it> saat ini dan siapa yang bertanggung jawab untuk <it>task</it> tersebut. <bo>2.1.4.4.</bo> <it><bo>Development</bo></it> <it><bo>Environment</bo></it> Pada PT. Tokopedia, <it>development</it> <it>environment</it> yang diharapkan adalah menggunakan sistem Linux. Namun dikarenakan sistem operasi yang dimiliki oleh penulis adalah Windows, penulis disarankan oleh penyelia untuk menggunakan <it>software</it> Vagrant untuk pelaksanaan kerja praktik. Vagrant merupakan suatu <it>software</it> untuk membangun sebuah <it>development</it> <it>environment</it> yang diinginkan [7]. Dalam pelaksanaan kerja praktik, <it>environment</it> yang digunakan oleh penulis adalah Linux 64-bit. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			<it><bo>2.1.4.5.</bo></it> <it><bo>Database</bo></it> Pada PT. Tokopedia, <it>database</it> yang digunakan adalah PostgreSQL, Redis, dan MongoDB dengan majoritas data-data penting yang digunakan di PT. Tokopedia disimpan di PostgreSQL. Dalam lingkup pekerjaan penulis sendiri, <it>database</it> yang digunakan oleh penulis adalah PostgreSQL dan Redis dimana PostgreSQL digunakan untuk mengambil data-data penting seperti data pengguna ataupun daftar transaksi dan Redis digunakan untuk mengambil data-data yang sifatnya sementara seperti <it>token</it> dari suatu pengguan saat dia <it>login.</it> <bo>2.1.4.6.</bo> <bo>Komunikasi</bo> Pada PT. Tokopedia, seluruh karyawan menggunakan <it>software</it> Slack untuk melakukan komunikasi dengan cepat. Pada jam kerja seluruh karyawan diharapkan menyalakan Slack mereka masing-masing agar dapat dihubungi dengan mudah jika diperlukan sesuatu. Penggunaan Slack untuk <it>software</it> <it>engineer</it> di PT. Tokopedia dilengkapi dengan integrasi berbagai <it>software</it> lain seperti Github dan ada <it>bot-bot</it> khusus yang dibuat untuk PT. Tokopedia seperti untuk memberikan jadwal sholat hari ini ataupun untuk mengetahui karyawan PT. Tokopedia yang di bulan ini berulang tahun. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Hasil akhir pekerjaan yang dikerjakan oleh penulis adalah 4 buah <it>web</it> <it>service</it> dengan bahasa Go, fitur baru pada <it>wrapper</it> sqlx, dan fitur baru pada <it>walletweb.</it> Untuk <it>web</it> <it>service</it> sendiri pada masa pelaksanaan kerja praktik penulis, keempat <it>web</it> <it>service</it> yang telah dibuat penulis belum naik sampai ke <it>live</it> sehingga tidak bisa diukur peningkatan performa yang dihasilkan dari pembuatan <it>web</it> <it>service</it> tersebut. Untuk <it>wrapper</it> sqlx sendiri, penulis menambahkan fitur agar pengecekan <it>database</it> yang sedang mati lebih efisien. Saat penulis sudah menyelesaikan pelaksanaan kerja praktiknya, penulis dihubungi kembali oleh <it>mentor</it> penulis untuk diberi kabar bahwa 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			<it>wrapper</it> yang dibuat oleh <it>mentor</it> penulis akan digunakan oleh PT. Tokopedia sebagai <it>library</it> PT. Tokopedia untuk menjalankan fungsi-fungsi SQL. Untuk <it>review</it> kode, penulis berhasil menemukan beberapa kesalahan di kode <it>software</it> <it>engineer</it> lain dan mencegah kesalahan tersebut naik ke tahap <it>staging.</it> Untuk proyek <it>walletweb,</it> penulis menambahkan fitur untuk membuat <it>dropdown</it> di <it>web</it> yang datanya diambil dari <it>database</it> serta membuat halaman daftar notifikasi di proyek <it>walletweb.</it> Selain itu, penulis juga berhasil memperbaiki <it>bug</it> yang sedang <it>pending</it> di situs Tokopedia, yaitu saat pengguna menghapus alamatnya yang terakhir saat sedang memesan barang. Penulis memperbaiki <it>file</it> JavaScript yang digunakan di situs Tokopedia agar masalah tersebut dapat teratasi. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bagian ini akan menjelaskan tentang kesesuaian lingkup kerja dengan KAKP, kendala yang dihadapi penulis dan cara menanganinya, serta penilaian penulis terhadap tempat KP. <bo>2.2.1.1.</bo> <bo>Kesesuaian</bo> <bo>Lingkup</bo> <bo>Kerja</bo> <bo>dengan</bo> <bo>KAKP</bo> Pada lingkup kerja penulis, penulis diberikan tugas yang berbeda dari rencana awal yang diberikan oleh penyelia dan ditulis di KAKP. Rencana awal yang tertulis di KAKP yang dikumpulkan oleh penulis adalah hanya migrasi <it>web</it> <it>service</it> dari bahasa PERL ke bahasa Go. Namun, pada pelaksanaan kerja praktik, penulis diberikan beberapa tugas tambahan dikarenakan estimasi awal pengerjaan untuk sebuah <it>web</it> <it>service</it> adalah 2 minggu karena dalam pengerjaannya penulis tidak menggunakan waktu sebanyak itu. Oleh karena itu, penulis diberikan <it>task-task</it> lain sesuai dengan kebutuhan <it>squad</it> Stitch pada saat penulis melaksanakan kerja praktik. <it>Task-task</it> yang diberikan oleh penyelia namun tidak ada di KAKP adalah: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			1. Melakukan riset untuk mengoptimalkan <it>wrapper</it> <it>library</it> Go sqlx 2. Melakukan riset untuk menampilkan data <it>error</it> <it>log</it> pada Grafana 3. Melakukan <it>review</it> kode dari <it>software</it> <it>engineer</it> lain 4. Memperbaiki <it>bug</it> yang ada di situs Tokopedia 5. Mengimplementasi fitur baru pada proyek <it>walletweb</it> <bo>2.2.1.2.</bo> <bo>Kendala</bo> <bo>yang</bo> <bo>Dihadapi</bo> <bo>Penulis</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo> Penulis pada saat melaksanakan KP tentunya mengalami berbagai kendala. Namun dikarenakan penulis telah melaksanakan magang sebelumnya di PT. Tokopedia sebagai <it>software</it> <it>engineer</it> juga, beberapa hal sudah tidak asing bagi penulis seperti budaya kerja atau <it>software</it> yang digunakan penulis pada periode magang sebelumnya. Kendala yang dihadapi penulis pada pelaksanaan kerja praktik adalah adaptasi dengan teknologi yang baru digunakan dan kecanggungan berinteraksi dengan <it>tech</it> <it>lead.</it> Teknologi yang penulis gunakan dalam pelaksanaan kerja praktik kali ini berbeda dari teknologi yang penulis gunakan pada pelaksanaan kerja praktik sebelumnya. Teknologi baru yang penulis gunakan pada pelaksanaan kerja praktik kali ini adalah Vagrant, Phabricator, Go, dan Grafana. Vagrant pertama kali penulis gunakan pada saat pelaksanaan kerja praktik yang kedua kalinya di PT. Tokopedia. Pada penggunaan Vargant pertama kali penulis mengalami kendala dalam <it>port</it> <it>forwarding</it> agar <it>port</it> di dalam Vagrant dapat diakses dari luar Vagrant. Akhirnya penulis mengatasinya dengan cara bertanya kepada penyelia dan setelah dikonfigurasi sendiri akhirnya kendala tersebut teratasi. Namun pada pengerjaan proyek <it>ewallet,</it> penulis mengalami kendala tentang <it>caching</it> pada Vagrant yang tidak selalu <it>update</it> secara otomatis. Akhirnya untuk mengatasi kendala ini penulis bertanya ke <it>tech</it> <it>lead</it> dan meskipun <it>tech</it> <it>lead</it> sempat kebingungan juga, akhirnya masalah tersebut dapat teratasi. Untuk Phabricator, Go, dan Grafana, penulis tidak mengalami kendala khusus dalam pembelajarannya karena tidak ada yang benar-benar sulit untuk dipahami. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			Kendala berikutnya yang dihadapi oleh penulis adalah kecanggungan interaksi dengan <it>tech</it> <it>lead</it> dikarenakan bahasa yang berbeda dan logat yang cukup sulit dimengerti. Cara penulis mengatasi hal ini adalah dengan terus berinteraksi dengan <it>tech</it> <it>lead</it> sehingga penulis menjadi terbiasa mendengar pelafalan dan ucapan dari <it>tech</it> <it>lead.</it> Selain kendala yang telah disebutkan di atas, penulis juga menghadapi kendala lain, yaitu perasaan segan saat berinteraksi dengan <it>mentor.</it> Terkadang penulis perlu untuk bertanya kepada <it>mentor,</it> namun karena takut mengganggu pekerjaan yang dilakukan oleh <it>mentor,</it> penulis tidak jadi bertanya sehingga beberapa hal yang seharusnya cepat teratasi jika bertanya jadi sedikit terhambat. Selain itu saat pemberian <it>review</it> ke kode <it>mentor,</it> penulis juga merasa segan karena takut salah memberikan <it>review.</it> Cara penulis mengatasi hal ini adalah dengan mengenal anggota tim lain lebih dalam melalui berbagai hal seperti bermain <it>game</it> bersama ataupun karaoke bersama sehingga penulis tidak lagi merasa segan untuk bertanya. <bo>2.2.1.3.</bo> <bo>Penilaian</bo> <bo>Penulis</bo> <bo>Terhadap</bo> <bo>Tempat</bo> <bo>KP</bo> Menurut penulis, PT. Tokopedia merupakan tempat yang sangat baik dan cocok untuk dijadikan tempat kerja praktik dikarenakan budaya kerja yang diterapkan di PT. Tokopedia. Seperti <it>startup</it> pada umumnya, PT. Tokopedia menerapkan budaya kerja yang cukup santai dibandingkan perusahaan-perusahaan besar seperti diperbolehkan menggunakan kaos ataupun sandal sehingga menurut saya cocok dengan budaya mahasiswa Fasilkom UI yang pakaiannya juga relatif santai. Selain itu di PT. Tokopedia kita dapat beristirahat di tengah jam kerja seperti mengambil kopi atau membeli makanan. Namun di PT. Tokopedia disediakan jam istirahat siang juga untuk sholat dan makan siang. Meskipun budayanya terkesan santai, PT. Tokopedia juga mewajibkan karyawan tetapnya untuk datang tepat waktu, yaitu pukul sembilan pagi. Selain itu, pekerjaan yang diberikan ke karyawan harus diselesaikan tepat waktu sesuai dengan rencana meskipun waktu pengerjaannya bebas. PT. Tokopedia juga menyediakan jatah <it>work</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<segment>
+			<it>from</it> <it>home</it> sebulan 2 kali dimana karyawan dapat melakukan pekerjaannya dari rumah. PT. Tokopedia juga menyelenggarakan banyak sekali acara-acara agar karyawannya tidak merasa jenuh bekerja. Di antaranya adalah <it>outing,</it> <it>camping,</it> <it>hiking,</it> <it>pingpong</it> <it>tournament,</it> Nakama Day, Hackathon, dll. Kegiatan-kegiatan ini dapat diikuti oleh semua karyawan baik <it>intern</it> maupun karyawan tetap. Selain itu fasilitas yang ada di PT. Tokopedia juga cukup menyenangkan dan lengkap. Fasilitas-fasilitas yang ada di PT. Tokopedia antara lain adalah meja pingpong, PS3, Nintendo Wii U, <it>board</it> <it>games,</it> kopi gratis, dll. Fasilitas-fasilitas tersebut dapat digunakan secara gratis oleh seluruh karyawan di PT. Tokopedia tanpa terkecuali. Tempat kerja di PT. Tokopedia juga menyenangkan. Antara karyawan yang satu dengan yang lain tidak terdapat sekat yang menghalangi mereka sehingga mereka dapat berkomunikasi dengan mudah dan dapat sekaligus bersenda gurau. Menurut penulis, PT. Tokopedia sangat cocok untuk menjadi tempat kerja praktik baik untuk yang belum punya banyak pengalaman maupun yang sudah berpengalaman dikarenakan hampir semua karyawan di PT. Tokopedia memiliki sifat rendah hati dan mau mengajari karyawan baru. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Saat pelaksaan kerja praktik, penulis menemukan beberapa hal yang relevan dengan ilmu-ilmu yang didapatkan dari perkuliahan di Fasilkom UI. Mata kuliah yang dirasa relevan oleh penulis dengan pelaksanaan kerja praktik adalah Dasar-Dasar Pemrograman (DDP), Struktur Data dan Algoritma (SDA), Jaringan Komputer (Jarkom), Sistem Operasi (OS), Perancangan &amp; Pemrograman Web (PPW), Basis Data (Basdat), Pemrograman Sistem (Sysprog), Proyek Perangkat Lunak (PPL), Layanan &amp; Aplikasi Web (LAW), dan Rekayasa Perangkat Lunak (RPL). DDP menurut penulis merupakan mata kuliah yang paling relevan dalam pelaksanaan kerja praktik ini karena peran penulis sebagai <it>software</it> <it>engineer</it> <it>intern.</it> Untuk SDA, penulis merasa bahwa ilmu yang dipelajari untuk menyimpan data dengan lebih 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			efisien juga dapat diterapkan dengan cukup baik pada pembuatan <it>web</it> <it>service</it> dan pengembangan <it>wrapper</it> sqlx. Jarkom membantu penulis untuk memahami cara kerja komunikasi di Tokopedia. OS membantu penulis untuk memahami penggunaan Vagrant dengan lebih baik dan juga cara kerja <it>server</it> di PT. Tokopedia. PPW membantu penulis untuk membuat tampilan <it>website</it> beserta fungsinya pada pembuatan <it>walletweb</it> dan perbaikan <it>bug</it> di situs Tokopedia. Basdat membantu penulis untuk memahami SQL agar dapat melakukan optimisasi <it>query</it> dan cara mengambil data dari PostgreSQL. Sysprog membantu penulis untuk menggunakan sistem operasi Linux yang dipakai di <it>environment</it> <it>development</it> saat pelaksanaan kerja praktik. PPL membantu penulis untuk pengerjaan <it>sprint</it> karena penulis sudah terlatih untuk bekerja dengan sistem <it>scrum</it> sebelumnya. LAW membantu penulis dalam pembuatan <it>webservice</it> karena sebelumnya penulis sudah terlatih membuat <it>webservice</it> di kelas LAW meskipun dengan protokol yang berbeda. RPL membantu penulis untuk memahami metode pengembangan <it>software</it> seperti <it>scrum</it> yang diterapkan di PT. Tokopedia. Dengan pengalaman kerja praktik di PT. Tokopedia, penulis menjadi tertarik untuk mengambil mata kuliah di Fasilkom UI yang berkaitan dengan pekerjaan penulis selama masa kerja praktik, yaitu Sistem Terdistribusi dan <it>Semantic</it> <it>Web.</it> Secara keseluruhan, penulis merasa bahwa hampir semua mata kuliah di Fasilkom UI membantu dalam pelaksanaan kerja praktik meskipun beberapa mata kuliah seperti Fisika Dasar atau Matematika Dasar dirasa oleh penulis kurang relevan. Namun penulis merasa semua mata kuliah di Fasilkom UI sedikit banyak membantu pengerjaan kerja praktik meskipun tingkat relevansinya berbeda-beda. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik di PT. Tokopedia di <it>squad</it> Stitch dari tanggal 20 Juni 2016 hingga 26 Agustus 2016. Pada pelaksanaan kerja praktik, penulis mengerjakan berbagai hal, mulai dari <it>review</it> kode <it>software</it> <it>engineer</it> lain sampai pembuatan <it>web</it> <it>service.</it> Meskipun ini bukan pertama kalinya penulis melaksanakan kerja praktik di tempat ini, pelaksanaan kerja praktik kali ini menambah pengetahuan dari penulis tentang teknologi-teknologi baru yang belum pernah digunakan oleh penulis sama sekali sebelumnya. Selain itu, penulis juga belajar untuk berinteraksi dengan baik dengan <it>software</it> <it>engineer</it> lain dalam satu tim. Secara keseluruhan, penulis merasa bahwa pelaksanaan kerja praktik penulis berlangsung dengan baik dan penulis merasa senang dapat menjadi bagian dari Tokopedia sekaligus bertemu dengan orang-orang baru yang sangat kompeten dan profesional. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Menurut penulis, tempat pelaksanaan kerja praktik sudah sangat baik dan penulis tidak bisa memberikan saran apapun karena penulis sendiri sudah disambut dengan sangat baik oleh karyawan PT. Tokopedia. Untuk kerja praktik sendiri, sebaiknya saat mencari tempat kerja praktik disarankan pelaksana kerja praktik mencari tempat kerja praktik dari jauh-jauh hari agar dapat mencari waktu kosong untuk melakukan wawancara di tempat yang diinginkan. Selain itu sebelum melamar di suatu lowongan yang diinginkan, pelaksana kerja praktik sebaiknya mencoba menguasai <it>skill-skill</it> yang diperlukan untuk wawancara agar tidak canggung pada saat wawancara. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>18</pagenum>
+		<segment>
+			Untuk mata kuliah kerja praktik sendiri, menurut saya dosen sangat terlambat dalam melakukan <it>review</it> KAKP sehingga banyak mahasiswa yang merasa kebingungan apakah lingkup kerja praktik mereka sudah sesuai atau belum. Sebaiknya dosen memberikan <it>review</it> KAKP secepat mungkin agar mahasiswa tidak merasa kebingungan. Selain itu <it>format</it> <it>log</it> kerja praktik, KAKP, dan penilaian kerja praktik terlambat untuk diberikan kepada mahasiswa sehingga beberapa mahasiswa harus kembali ke tempat kerja praktiknya kembali untuk meminta penilaian dan tanda tangan dari penyelia. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>19</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT. Kudo Teknologi Indonesia. (n.d.). <it>Apa</it> <it>Itu</it> <it>Kudo.</it> Diambil pada 7 November 2016 dari https://kudo.co.id/apa-itu-kudo [2] PT. Tokopedia. (n.d.). <it>About</it> <it>Tokopedia.</it> Diambil pada 8 November 2016 dari https://www.tokopedia.com/about [3] Grafana. (n.d.). <it>What</it> <it>Is</it> <it>Grafana.</it> Diambil pada 8 November 2016 dari http://grafana.org [4] Oracle. (n.d.). <it>What</it> <it>Are</it> <it>Web</it> <it>Services.</it> Diambil pada 8 November 2016 dari https://docs.oracle.com/javaee/6/tutorial/doc/gijvh.html [5] Techopedia. (n.d.). <it>What</it> <it>Is</it> <it>Wrapper.</it> Diambil pada 15 November 2016 dari https://www.techopedia.com/definition/4389/wrapper-software-engineering [6] Phacility. (n.d.). <it>What</it> <it>Is</it> <it>Phabricator.</it> Diambil pada 16 November 2016 dari https://www.phacility.com [7] Linux Journal. (n.d.). <it>Introducing</it> <it>Vagrant.</it> Diambil pada 16 November 2016 dari http://www.linuxjournal.com/content/introducing-vagrant 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

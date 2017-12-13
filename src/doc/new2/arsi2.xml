@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>SOFTWARE</bo></it> <it><bo>ENGINEER</bo></it> <it><bo>FOR</bo></it> <it><bo>MARKET</bo></it> <it><bo>MANAGER</bo></it></title>
+		<title><it><bo>PRODUCTION</bo></it> <it><bo>DASHBOARD</bo></it> <it><bo>DEVELOPMENT</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ARSI</bo> <bo>ALHAFIS</bo></title>
+		<segment>
+			<bo>1306407363</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Arsi Alhafis : 1306407363 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Software</it> <it>Engineer</it> <it>for</it> <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> <it>Development</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra)</bo> Ditetapkan di : .............................. Tanggal : .............................. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Untuk memenuhi mata kuliah Kerja Praktik (KP) sebagai salah satu mata kuliah wajib di Fakultas Ilmu Komputer Universitas Indonesia, pelaksana kerja praktik melaksanakan kerja praktik selama 10 minggu, terhitung 6 Juni – 5 September 2016  di PT Trinusa Travelindo atau Traveloka. Selama bekerja, pelaksana kerja praktik ditempatkan sebagai <it>Software</it> <it>Engineer</it> <it>Intern</it> di <it>mission</it> <it>Traveloka</it> <it>Extranet</it> <it>Reservation</it> <it>Access</it> (TERA). Pelaksana kerja praktik diberi tugas mengerjakan <it>backend</it> dan <it>frontend</it> dari <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard,</it> yaitu sebuah <it>dashboard</it> yang memberikan informasi berupa <it>Production</it> <it>Summary</it> dari hotel yang terdaftar di <it>Channel</it> <it>Manager</it> TERA. Dari pekerjaan ini pelaksana kerja praktik mendapatkan banyak ilmu dan pengalaman yang tidak didapat dari perkuliahan. Kata kunci: PT Trinusa Travelindo, Traveloka, kerja praktik, <it>software</it> <it>engineer,</it> TERA, <it>dashboard</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 PELAKSANAAN KERJA PRAKTIK ............................................................ 5 
+		</segment>
+		<title>2.1. Latar Belakang Pekerjaan ................................................................................ 5</title>
+		<title>2.2. Metodologi ....................................................................................................... 6</title>
+		<title>2.3. Proyek Kerja .................................................................................................... 6</title>
+		<title>2.4. Teknologi ......................................................................................................... 9</title>
+		<title>2.5. Non-Teknis .................................................................................................... 11</title>
+		<segment>
+			BAB 3 ANALISIS PEKERJAAN KERJA PRAKTIK .............................................. 12 
+		</segment>
+		<title>3.1. Kesesuaian dan Perbedaan Dengan KAKP ................................................... 12</title>
+		<title>3.2. Kendala dan Cara Menanganinya .................................................................. 13</title>
+		<title>3.3. Pembelajaran <it>Soft</it> <it>Skill</it> Selama Kerja Praktik ............................................... 14</title>
+		<title>3.4. Penilaian Individu Terhadap Tempat Kerja Praktik ...................................... 15</title>
+		<title>3.5. Relevansi Dengan Perkuliahan di Fasilkom UI ............................................. 16</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			BAB 4 PENUTUP ...................................................................................................... 18 
+		</segment>
+		<title>4.1. Kesimpulan .................................................................................................... 18</title>
+		<title>4.2. Saran .............................................................................................................. 18</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 20 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ....................................... vi LAMPIRAN 2 LOG KERJA PRAKTIK .................................................................... vii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur <it>Mission</it> TERA .............................................................................. 3 Gambar 2. <it>Layout</it> <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> ....................................... 6 Gambar 3. <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> <it>Data</it> <it>Flow</it> ................................. 7 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksana Kerja Praktik (KP) mencari perusahaanyang bergerak di bidang teknologi informasi (TI) dan sudah mulai melakukan pencarian tempat kerja praktik semenjak bulan Februari 2016. Keinginan pelaksana KP untuk melaksanakan kerja praktik di perusahaan TI tersebut dikarenakan pelaksana KP sudah pernah melakukan magang di sebuah <it>software</it> <it>house</it> yang ternyata kultur <it>development</it> yang ditawarkan di sana sangat cocok untuk belajar dan berkembang, oleh karena itu pelaksana KP mencari tempat KP yang serupa. Pelaksana KP menyusun daftar calon-calon tempat magang yang dirasa cocok. Kriteria kecocokan ini dipilih berdasarkan lokasi yang tidak terlalu jauh dari tempat tinggal dan berdasarkan cerita pengalaman dari senior-senior di Fasilkom UI yang sudah pernah magang di tahun sebelumnya. Perusahaan-perusahaan tersebut antara lain Bukalapak, Kudo, Tokopedia, Traveloka, dan GDP Labs. Selama periode bulan Februari –  Maret  2016,  pelaksana  KP  melamar  ke  perusahaan-perusahaan  tersebut  dan mendaftar sebagai <it>Software</it> <it>Engineer.</it> Pelaksana KP melakukan tahap <it>online</it> <it>test</it> di Bukalapak, Tokopedia, dan GDP Labs, tetapi tidak berhasil ke tahap berikutnya. Pada bulan April 2016, pelaksana KP melaksanakan wawancaradi Kudo dan Traveloka. Pelaksana KP tidak melakukan persiapan khusus untuk proses <it>interview</it> di Kudo, karena yang ditanyakan hanya pengalaman, beberapa pertanyaan dari HRD, dan tidak ada tes khusus. Sedangkan, untuk persiapan wawancara di Traveloka, pelaksana KP membuka kembali <it>slide-slide</it> mata kuliah Struktur Data dan Algoritma (SDA) dan Basis Data. Wawancara di Traveloka dilaksanakan di Wisma 77 Tower 2 di Slipi dan berlangsung dua tahap. Tahap pertama ialah <it>coding</it> <it>test</it> di papan tulis dan tahap kedua membuat desain <it>backend</it> dari suatu aplikasi yang diuji langsung oleh CTO Traveloka yaitu Derianto Kusuma. Pelaksana KP berhasil menyelesaikan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>2</pagenum>
+		<segment>
+			setiap <it>problem</it> dengan sedikit <it>hint</it> dari pewawancara. Karena masih ada sisa waktu, pelaksana KP menyempatkan diri untuk bertanya-tanya bagaimana kultur dan teknologi yang diterapkan di Traveloka. Tiga hari kemudian, pelaksana KP mendapat telepon dari Kudo yang menyatakan pelaksana KP diterima di Kudo dengan posisi <it>Backend</it> <it>API</it> <it>intern.</it> Namun, Kudo tidak memberikan <it>deadline</it> bagi pelaksana KP untuk menerima tawaran tersebut. Pelaksana KP tidak langsung menanggapi tawaran KP dari Kudo karena masih menunggu <it>email</it> balasan dari Traveloka. Satu bulan kemudian, pelaksana KP akhirnya mendapat <it>email</it> tawaran dari Traveloka sebagai <it>Software</it> <it>Engineer</it> <it>intern.</it> Karena tawaran dari Traveloka jauh lebih menarik dibandingkan dengan Kudo, serta mempertimbangkan kemudahan akses transportasi, pelaksana KP akhirnya menerima tawaran dari Traveloka dan menolak tawaran dari Kudo. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Trinusa Travelindo atau Traveloka adalah sebuah perusahaan yang menyediakan aplikasi untuk <it>travel</it> <it>booking</it> terdepan di Indonesia, yang melayani penerbangan tujuan domestik dan internasional. Perusahaan yang berbasis di Jakarta ini didirikan oleh beberapa praktisi teknologi informasi (TI) asal Indonesia yang sudah berpengalaman bekerja bertahun-tahun di berbagai perusahaan teknologi di Amerika Serikat. Traveloka adalah perusahaan nasional pertama yang mendapat pendanaan Series A dari Global Founders Capital dan East Ventures. Aplikasi Traveloka dapat diakses melalui <it>desktop,</it> <it>mobile</it> <it>web,</it> dan aplikasi <it>mobile</it> (Android dan iOS) kapanpun dan di manapun. Saat ini, Traveloka telah bekerjasama dengan lebih dari 70 maskapai penerbangan domestik dan internasional, melayani lebih dari 100.000 rute berbeda di Asia Pasifik dan Eropa. Traveloka juga telah mendaftarkan lebih dari 100.000 hotel di seluruh dunia. Sistem pembayaran yang aman, metode pembayaran yang bervariasi, <it>user</it> <it>experience</it> yang mudah, layanan <it>call</it> <it>center</it> 24 jam, serta harga yang murah dan transparan tanpa biaya <it>booking</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>3</pagenum>
+		<segment>
+			merupakan layanan kunci yang Traveloka tawarkan kepada pelanggan, mempermudah gaya hidup yang <it>mobile.</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pelaksana KP tergabung dalam Divisi <it>Engineering</it> dan <it>mission</it> TERA (<it>Traveloka</it> <it>Extranet</it> <it>Reservation</it> <it>Access)</it> sebagai <it>Product</it> <it>Engineer,</it> yaitu sebuah tim yang memiliki misi untuk mengembangkan suatu produk yang menyediakan <it>inventory</it> dan <it>booking</it> <it>management</it> untuk hotel. Di Traveloka, setiap <it>engineer</it> ditempatkan pada <it>mission</it> yang berbeda, seperti Accommodation, Site Infra, Mobile, atau <it>mission</it> lainnya seperti yang terlihat pada gambar 1 di bawah. Mission TERA merupakan subset dari <it>mission</it> Accommodation bersama dengan <it>mission</it> Hotel dan Local. Gambar 1. Struktur <it>Mission</it> TERA Mission TERA memiliki anggota yang merupakan gabungan dari beberapa divisi, seperti divisi <it>Engineering,</it> <it>Product</it> <it>Design,</it> <it>Data,</it> dan <it>Product</it> <it>Manager.</it> Pelaksana 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>4</pagenum>
+		<segment>
+			KP didampingi oleh Aradea Krisnaraga (TERA <it>Engineer</it> <it>Lead),</it> sebagai mentor yang ditugaskan membimbing pelaksana KP selama menjalankan KP di <it>mission</it> TERA. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Traveloka sebagai perusahaan yang bergerak di bidang <it>Online</it> <it>Travel</it> <it>Agencies</it> (OTA), menawarkan kemudahan dalam melakukan <it>booking</it> hotel di manapun dan kapanpun. Saat ini, Traveloka masih jauh berada di belakang para kompetitor seperti Agoda, Expedia, atau booking.com dalam hal OTA. Selain menawarkan kemudahan bagi para pelanggan dalam melakukan <it>booking</it> hotel, Traveloka juga ingin mempermudah pihak hotel dalam mengelola inventaris dan <it>booking</it> <it>management,</it> dengan menyediakan sebuah <it>platform</it> yang bernama <it>Traveloka</it> <it>Extranet</it> <it>Reservation</it> <it>Access</it> (TERA), yaitu sebuah <it>channel</it> <it>manager</it> yang eksklusif dibuat oleh Traveloka dan sudah memiliki 20.000 hotel di Asia Tenggara yang terdaftar. TERA dapat diakses oleh pihak hotel dan <it>Market</it> <it>Manager</it> (MM), yaitu seseorang yang berperan sebagai penghubung pihak hotel dengan Traveloka. Saat ini, TERA sedang mengembangkan beberapa <it>dashboard</it> yang digunakan oleh MM untuk memonitor perkembangan hotel-hotel yang dibawahi oleh MM tersebut dari waktu ke waktu. Dengan adanya <it>dashboard</it> tersebut, diharapkan MM dapat menentukan strategi bagi pihak hotel untuk meningkatkan kualitas dan jumlah transaksi. Salah satu <it>dashboard</it> TERA yang dikembangkan oleh pelaksana KP adalah <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard.</it> <it>Dashboard</it> ini berisi <it>summary</it> atau agregasi dari <it>production</it> <it>data</it> yang berupa jumlah <it>revenue</it> dan <it>room</it> <it>night</it> dari hotel tersebut. Kebutuhan akan <it>dashboard</it> ini dikarenakan selama ini MM dan SMM memperoleh <it>production</it> <it>summary</it> <it>report</it> dari hotel yang dibawahinya setiap empat minggu sekali melalui <it>email,</it> sehingga MM kesulitan untuk melihat <it>summary</it> <it>report</it> pada waktu tertentu. Masalah lainnya adalah ketika SMM mendapat <it>summary</it> <it>report</it> dari hotel dari <it>region</it> yang berbeda. Permasalahan inilah yang berusaha diselesaikan dengan dibuatnya <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>6</pagenum>
+		<segment>
+			Pada tahun 2016 ini, Traveloka sedang melakukan proses migrasi untuk data-data yang bersifat <it>transactional.</it> Oleh karena itu, dalam pengembangan <it>dashboard</it> ini, pelaksana KP tidak bisa menggunakan data lama secara langsung karena masih tersimpan di DBMS <it>non-relational</it> (MongoDB) sehingga perlu dilakukan migrasi terlebih dahulu ke DBMS <it>relational</it> (PostgreSQL). 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Di TERA, setiap proyek dikembangkan menggunakan metodologi yang berbeda- beda, seperti <it>agile</it> maupun <it>waterfall.</it> Sementara itu, proyek yang dikerjakan oleh pelaksana KP ini dikerjakan dengan metodologi <it>scrum</it> secara <it>agile.</it> Awalnya diadakan <it>meeting</it> bersama seluruh <it>stakeholder</it> dari proyek <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> agar pelaksana KP dapat memahami sistem dan proses yang sudah disiapkan sebelumnya. Setelah itu dimulailah <it>sprint</it> yang berlangsung setiap dua minggu. Selama mengerjakan proyek, pelaksana KP diharuskan menghadiri sesi <it>weekly</it> <it>sync</it> dengan mentor sebagai proses evaluasi, baik hal teknis maupun non- teknis selama melaksanakan KP. Selain itu, juga <it>terdapat</it> <it>standup</it> <it>scrum</it> <it>meeting</it> yang dihadiri seluruh anggota <it>mission</it> TERA satu kali dalam seminggu untuk menyampaikan apa saja yang sudah dikerjakan kepada anggota lain yang berbeda proyek. Pada proses <it>coding,</it> setiap kali pelaksana KP telah menyelesaikan suatu fungsi, fitur, atau <it>bug</it> <it>fixing,</it> kode yang telah dibuat harus melewati proses <it>code</it> <it>review</it> terlebih dahulu. <it>Code</it> <it>review</it> ini bertujuan agar kode yang dibuat sudah sesuai standar Traveloka. <it>Review</it> bisa dilakukan oleh siapapun seperti <it>lead,</it> pelaksana KP, maupun <it>engineer</it> lain yang dianggap paham terhadap kode tersebut. 
+		</segment>
+		<title><bo>2.3.</bo> <bo>Proyek</bo> <bo>Kerja</bo></title>
+		<segment>
+			Sebelumnya TERA sudah memiliki <it>dashboard</it> yang bentuknya mirip dengan <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard,</it> yaitu <it>Hotel</it> <it>Production</it> <it>Dashboard.</it> <it>Dashboard</it> ini hanya menampilkan <it>summary</it> <it>revenue</it> dan <it>room</it> <it>night</it> dari salah satu hotel yang spesifik. <it>Dashboard</it> ini menggunakan <it>flow</it> data yang berbeda dengan yang pelaksana KP kerjakan, yaitu sumber datanya masih pada DBMS MongoDB. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>7</pagenum>
+		<segment>
+			Gambar 2. <it>Layout</it> <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> <it>Flow</it> yang digunakan untuk membuat API dan <it>scheduler</it> dari <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> ini belum pernah digunakan oleh proyek manapun di Traveloka sehingga harus dibuat <it>building</it> <it>block</it> yang baru. Seluruh data transaksi (<it>issuing,</it> <it>booking,</it> <it>cancellation)</it> dari TERA saat ini masih disimpan di DBMS MongoDB. Pada <it>dashboard</it> ini, pelaksana KP mengerjakan <it>backend</it> API dan <it>scheduler</it> untuk agregasi data. Data yang tersimpan di mongohnet (MongoDB) akan dipindahkan ke <it>data</it> <it>warehouse</it> melalui proses ETL (<it>Extract,</it> <it>Transform,</it> <it>Load)</it> <it>pipeline</it> terlebih dahulu. ETL <it>pipeline</it> adalah salah satu proses <it>data</it> <it>integration</it> yang digunakan untuk membangun 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>8</pagenum>
+		<segment>
+			sebuah <it>data</it> <it>warehouse.</it> Proses ETL ini terdiri atas tiga tahap, yaitu <it>Extract,</it> <it>Transform,</it> dan <it>Load</it> yang berfungsi untuk menggabungkan data dari berbagai sumber yang berbeda. Pada proses ini, data akan diambil (<it>extracted)</it> dari sumber data, dikonversi (<it>transformed)</it> menjadi bentuk yang dapat dianalisis, dan disimpan (<it>loaded)</it> di <it>data</it> <it>warehouse</it> atau sistem lain [1]. Hasil dari ETL <it>pipeline</it> ini kemudian disimpan secara <it>raw</it> di analytics-dwh (Amazon Redshift –  <it>data</it>  <it>warehouse)</it>  yang  bertipe OLAP (<it>Online</it> <it>Analytical</it> <it>Processing).</it> Langkah pemindahan data ke <it>data</it> <it>warehouse</it> ini perlu dilakukan karena adanya kebutuhan dari tim <it>data</it> <it>analytics.</it> Kemudian <it>raw</it> <it>data</it> dari Redshift ini akan di-<it>summarize</it> ke hreport-postgres (PostgreSQL) yang bertipe OLTP (<it>Online</it> <it>Transactional</it> <it>Processing).</it> Data yang ada di hreport-postgres ini sudah berupa agregasi dan akan dilakukan <it>summarize</it> setiap harinya agar data tetap <it>update.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>9</pagenum>
+		<segment>
+			Gambar 3. <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> <it>Data</it> <it>Flow</it> Untuk <it>flow</it> ini, perlu dibuat dua lapis API setelah mengadakan diskusi dengan tim Enterprise. Pembuatan dua lapis API ini bermaksud untuk memisahkan antara <it>data</it> <it>layer</it> (SQL) dengan <it>application</it> <it>layer</it> (Java). Untuk membuat API dari <it>data</it> <it>layer,</it> pelaksana KP menggunakan sebuah <it>database</it> <it>change</it> <it>management</it> <it>framework,</it> yaitu Sqitch. <it>Data</it> <it>layer</it> API ini berfungsi untuk melakukan agregasi data dari Redshift ke hreport-postgres (PostgreSQL) dan <it>get</it> <it>data</it> dari PostgreSQL. Fungsi-fungsi agregasi dan <it>get</it> <it>data</it> ini dibuat dalam bentuk <it>stored</it> <it>procedure</it> <it>/</it> <it>stored</it> <it>function.</it> Fungsi ini disimpan dalam <it>schema</it> terpisah dan di-<it>generate</it> menjadi sebuah Maven <it>library</it> (.jar), yang kemudian dipanggil dari aplikasi (Java). 
+		</segment>
+		<title><bo>2.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama berlangsungnya proses kerja praktik, banyak sekali <it>tools</it> yang digunakan oleh pelaksana KP baik yang digunakan hanya sekali maupun yang digunakan setiap hari. Berikut adalah <it>tools</it> yang digunakan:   <bo>Phabricator.</bo>  Phabricator  adalah  aplikasi  yang  digunakan  sebagai  <it>software</it>  <it>development</it> <it>collaboration</it> <it>tool.</it> Phabricator ini mendukung beberapa fitur yaitu <it>Differential</it> <it>code</it> <it>review,</it> <it>Diffusion</it> <it>repository,</it> <it>Herald</it> <it>change</it> <it>monitoring,</it> <it>Maniphest</it> <it>bug</it> <it>tracker,</it> dan <it>Phriction</it> <it>wiki.</it> Pelaksana KP lebih sering menggunakan <it>tool</it> ini sebagai <it>git</it> <it>repository</it> dan untuk melakukan proses <it>code</it> <it>review.</it>   <bo>Asana.</bo> Asana digunakan sebagai  <it>project</it>  <it>management</it> <it>tool</it> di  Traveloka. Semua  <it>task</it> dan <it>backlog</it> dalam proses <it>development</it> dipusatkan di Asana dan akan diberikan <it>checklist</it> jika sudah selesai. <it>Tasks</it> yang diletakkan di Asana tidak hanya hal-hal teknis, tetapi juga hal-hal yang non-teknis.   <bo>Slack.</bo>  Slack  merupakan  <it>tool</it>  yang  digunakan  untuk  melakukan  komunikasi  internal antar pegawai di Traveloka. Setiap orang, tim, <it>mission,</it> proyek, atau apapun yang memerlukan kolaborasi bisa menggunakan Slack dengan membuat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>10</pagenum>
+		<segment>
+			sebuah <it>channel</it> baru. Slack juga terintegrasi dengan seluruh <it>development</it> <it>tools</it> yang ada di Traveloka sehingga bisa digunakan sebagai notifikasi selain <it>email.</it>   <bo>Confluence.</bo>  Confluence  atau  wiki  digunakan  untuk  menyimpan  semua  dokumentasi yang ada di Traveloka. Dokumentasi bisa berupa <it>user</it> <it>manual,</it> <it>flow</it> <it>development,</it> dan informasi tentang Traveloka. Pelaksana KP juga menulis semua hal yang berkaitan dengan proyek <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> ini di Confluence.   <bo>Amazon</bo>  <bo>Redshift.</bo>  Amazon  Redshift  adalah  sebuah  <it>data</it>  <it>warehouse</it>  yang  disediakan oleh platform Amazon Web Service. <it>Data</it> <it>warehouse</it> biasanya menyimpan <it>historical</it> <it>data</it> yang diperoleh dari data transaksi / <it>Online</it> <it>Transcation</it> <it>Processing</it> (OLTP) dan dapat berasal dari beberapa sumber yang berbeda. <it>Data</it> <it>warehouse</it> memiliki beberapa karakteristik, yaitu <it>Subject</it> <it>Oriented,</it> <it>Integrated,</it> <it>Nonvolatile,</it> <it>dan</it> <it>Time</it> <it>Variant</it> [2].   <bo>Intellij</bo>  <bo>IDEA.</bo>  IntelliJ  IDEA  adalah  sebuah  <it>software</it>  <it>Integrated</it>  <it>Development</it>  <it>Environment</it> (IDE) yang dikembangkan oleh JetBrains. Traveloka menyediakan lisensi IntelliJ Ultimate yang dibagikan untuk setiap <it>engineer.</it> IntelliJ ini jauh lebih <it>powerful</it> dari sisi performa dibandingkan dengan IDE lain seperti NetBeans atau Eclipse.   <bo>Sqitch.</bo> Sqitch adalah sebuah <it>database</it> <it>change</it> <it>management</it> <it>system</it> <it>/</it> <it>framework.</it>  Dengan menggunakan sqitch, proses migrasi atau pengembangan <it>script</it> SQL jauh lebih mudah.   <bo>PgAdmin.</bo>  PgAdmin  adalah  aplikasi  /  <it>platform</it>  <it>Open</it>  <it>Source</it>  yang  digunakan  untuk proses administrasi dan pengembangan DBMS PostgreSQL. Aplikasi ini bisa digunakan di Linux, FreeBSD, Solaris, MacOS, maupun Windows.   <bo>Jenkins.</bo>  Jenkins  adalah  suatu  <it>automation</it>  <it>server</it>  yang  berjalan  di  atas  Java.  Setiap kali <it>engineer</it> melakukan <it>request</it> <it>code</it> <it>review,</it> maka <it>server</it> akan melakukan proses <it>build</it> pada kode. Kode akan bisa di-<it>accept</it> jika sudah berhasil melewati proses <it>build</it> dari Jenkins ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>11</pagenum>
+		<segment>
+			Bahasa pemrograman yang digunakan dan dipelajari selama proses kerja praktik ini antara lain Bash, Java, HTML, CSS, Javascript, dan SQL. 
+		</segment>
+		<title><bo>2.5.</bo> <bo>Non-Teknis</bo></title>
+		<segment>
+			Selain hal-hal teknis yang pelaksana KP dapatkan selama proses kerja praktik, pelaksana KP juga mempelajari beberapa hal non-teknis. Pelaksana KP dituntut harus mampu mengatur waktunya dengan baik, dikarenakan Traveloka memiliki waktu kerja yang fleksibel. Pelaksana KP harus berkomunikasi dengan anggota tim yang lain perihal jam datang ke kantor karena sering diadakannya <it>meeting</it> yang insidental, sehingga beberapa kali jadwal <it>meeting</it> diatur ulang karena ada anggota tim yang belum atau tidak datang ke kantor. Komunikasi dalam bahasa Inggris juga dituntut untuk setiap pegawai di Traveloka, karena pegawai Traveloka tidak hanya dari Indonesia namun ada juga dari negara Asia Tenggara yang lain. Pelaksana KP juga pernah mengikuti <it>meeting</it> dengan seseorang dari Filipina sehingga harus menggunakan bahasa Inggris. Pelaksana KP juga dituntut untuk lebih rajin bertanya dengan orang lain di Traveloka selain dengan mentor, dikarenakan kesibukan dari mentor. Selain itu minimnya dokumentasi yang ada di Traveloka seringkali membuat pelaksana KP harus rajin belajar mandiri, bertanya pada <it>engineer</it> lain, atau dengan <it>browsing</it> di internet. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>12</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo> <bo>PEKERJAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>Dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Pada minggu pertama sampai dengan minggu ke-8, tidak ada perbedaan yang cukup berarti antara KAKP dengan pelaksanaannya. Pada minggu pertama, dilakukan <it>meeting</it> pertama dengan tim dan <it>setup</it> <it>environment</it> di laptop yang memakan waktu cukup lama. Pada minggu kedua pelaksana KP masih diminta untuk belajar terlebih dahulu dengan membaca-baca dokumentasi serta melakukan <it>debugging</it> ke proyek <it>dashboard</it> yang sudah ada di TERA. Perbedaan yang besar muncul pada minggu ke-9 dan minggu ke-10. Pada KAKP, seharusnya pelaksana KP akan mengerjakan <it>frontend</it> dari <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> ini. Namun pada akhirnya, pelaksana KP sama sekali tidak menyentuh <it>frontend</it> dikarenakan anggota tim yang bertugas sebagai <it>UI</it> <it>Developer</it> yang merancang HTML dan CSS, sedang fokus ke proyek yang lain sehingga pelaksana KP belum bisa memulai mengerjakan <it>frontend.</it> Akhirnya pada minggu ke-9 dan minggu ke-10 ini, pelaksana KP mengerjakan hal- hal yang tidak direncanakan sebelumnya. Hal-hal tersebut antara lain melakukan <it>code</it> <it>review</it> ke <it>repository</it> SQL. Sebelumnya pelaksana KP dan mentor / <it>lead</it> tidak mengetahui jika pada <it>repository</it> SQL memerlukan proses <it>code</it> <it>review</it> seperti pada <it>product</it> <it>repository.</it> Oleh karena itu, pelakasana KP bersama dengan <it>data</it> <it>analyst</it> melakukan iterasi berkali-kali pada <it>script</it> SQL sampai hari terakhir kerja praktik. Pada dua minggu tersebut, pelaksana KP juga melaksanakan <it>meeting-meeting</it> tambahan dengan anggota tim yang berancana akan melanjutkan proyek ini. Karena pada proyek ini hanya pelaksana KP yang paling paham, perlu dilakukan transfer <it>knowledge</it> serta penambahan dokumentasi dan manual yang dirasa perlu di Confluence. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>13</pagenum>
+		<title><bo>3.2.</bo> <bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo></title>
+		<segment>
+			Dalam menyelesaikan pekerjaan selama proses kerja praktik ini, pelaksana KP menemui beberapa kendala. Beberapa teknologi belum pernah dipelajari oleh pelaksana KP sebelumnya, baik pada saat perkuliahan maupun di tempat lain. Hal ini dapat diatasi dengan melihat dokumentasi jika ada, bertanya langsung dengan orang- orang yang ahli pada bidang tersebut melalui Slack, atau dengan mencoba-coba teknologi tersebut. Minimnya <it>in-code</it> <it>documentation</it> pada beberapa kode yang sudah ada, membuat kode tersebut sulit untuk dibaca dan dipahami, sehingga pelaksana KP harus membaca <it>wiki</it> / Confluence untuk memahami <it>flow</it> dari kode tersebut. Bahkan ada juga dokumentasi yang tidak ditulis di wiki sehingga pelaksana KP harus bertanya langsung ke <it>engineer</it> yang membuat kode tersebut.. Hal ini bisa disebabkan karena setiap <it>engineer</it> di Traveloka lebih fokus ke penyelesaian fitur dibandingkan membuat dokumentasi, dan juga setiap tim tidak terlalu mewajibkan <it>in-code</it> <it>documentation</it> meskipun sudah di-<it>encourage</it> oleh Traveloka. Oleh karena itu pelaksana KP diwajibkan oleh <it>lead</it> / mentor untuk membuat <it>in-code</it> <it>documentation</it> yang baik sehingga tidak menyulitkan orang-orang yang akan membaca kode tersebut. Pada proyek <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> yang dikerjakan oleh pelaksana KP, sangat sering terjadi perubahan <it>requirements.</it> Bahkan sampai minggu terakhir pelaksanaan kerja praktik, masih ada perubahan dan perlu diadakan diskusi lagi mengenai <it>requirements</it> proyek tersebut. Seringnya terjadi perubahan <it>requirements</it> ini dimaklumi oleh <it>lead</it> <it>engineer</it> dan <it>product</it> <it>manageroleh</it> , sehingga pelaksana KP harus beberapa kali mengubah kode dan <it>logic</it> untuk menyesuaikan perubahan tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>14</pagenum>
+		<title><bo>3.3.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>Selama</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selain belajar berbagai teknologi yang baru selama kerja praktik, pelaksana KP juga belajar beberapa <it>soft</it> <it>skill</it> berupa:   Kemampuan bekerja dalam tim  Pelaksana KP dituntut untuk mampu bekerja sama dengan anggota tim yang lain seperti <it>UI</it> <it>Designer,</it> <it>Interaction</it> <it>Designer,</it> <it>UI</it> <it>Developer,</it> dan <it>Product</it> <it>Manager.</it> Pelaksana KP juga tidak bekerja dengan satu tim di satu proyek saja, tetapi juga diikutkan dengan tim yang memiliki proyek lain.   Kemampuan mengatur waktu  Traveloka memang tidak menetapkan jam kerja yang mengikat bagi seluruh pegawainya. Begitu pula dengan beberapa anggota di <it>mission</it> TERA yang sering datang di atas jam 12 siang bahkan tidak datang ke kantor. Sehingga pelaksana KP harus pandai membagi waktu agar bisa tetap menyelesaikan pekerjaan tepat waktu sesuai dengan target.   Kemampuan beradaptasi di lingkungan baru  Pelaksana KP harus mampu beradaptasi di lingkungan kantor dengan cepat agar dapat menyelesaikan pekerjaan dengan sempurna. Pada minggu awal, pelaksana KP dituntut untuk berkenalan dengan orang lain yang ada di <it>mission</it> TERA.   Kemampuan menyelesaikan masalah  Dalam mengerjakan proyek <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> ini, pelaksana KP diikutkan dalam berbagai <it>meeting.</it> Pada <it>meeting</it> tersebut, diharapkan pelaksana KP dapat memberikan pandangan sebagai <it>engineer</it> dalam mengangani atau menyelesaikan masalah yang dihadapkan oleh <it>Market</it> <it>Manager,</it> agar dapat mencapai visi dari Traveloka. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>15</pagenum>
+		<title><bo>3.4.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>Terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Banyaknya alumni dari Fasilkom UI di Traveloka membuat pelaksana KP tidak menemui kesulitan-kesulitan yang berarti ketika beradaptasi di kantor. Lingkungan yang sangat <it>friendly</it> di kantor membuat pegawainya betah untuk berlama-lama di kantor hingga malam hari. Di Traveloka tidak begitu terlihat <it>gap</it> atau jarak antara <it>engineer,</it> <it>engineer</it> <it>lead,</it> maupun dengan CTO sehingga semua posisi terlihat setara dan mudah untuk berdiskusi. Traveloka juga menawarkan fasilitas-fasilitas yang memberikan kemudahan dan kenyamanan untuk karyawannya, seperti tempat parkir, makan siang, <it>printer,</it> dan permainan-permainan seperti <it>board</it> <it>game</it> dan meja pingpong. Dalam bekerja, setiap <it>engineer</it> diberikan laptop dengan spesifikasi yang tinggi, <it>monitor,</it> <it>keyboard,</it> tempat duduk yang nyaman, serta koneksi internet yang cepat. Traveloka tidak membedakan fasilitas terhadap pegawai <it>full-time</it> maupun dengan <it>intern.</it> Di <it>mission</it> TERA, juga tidak terdapat <it>gap</it> antara pelaksana KP dengan pegawai <it>full-</it> <it>time</it> yang lain. Pelaksana KP sering diberikan apresiasi oleh mentor maupun oleh <it>product</it> <it>manager</it> setiap kali menyelesaikan suatu pekerjaan. Beberapa kali pelaksana KP juga diajak untuk melakukan <it>outing</it> atau <it>team</it> <it>building</it> di luar kantor bersama anggota TERA yang lain, agar semakin akrab dengan yang lainnya. Lingkungan Traveloka ini sangat direkomendasikan untuk proses pembelajaran kerja praktik. Traveloka menyediakan tawaran atau tantangan yang cocok bagi mahasiswa yang ingin merasakan bagaimana rasanya terjun langsung di dunia industri yang berbasis teknologi. Traveloka tidak hanya menilai pelaksana KP dari hasil akhirnya saja, namun juga dari proses yang dilalui selama kerja praktik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>16</pagenum>
+		<title><bo>3.5.</bo> <bo>Relevansi</bo> <bo>Dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama kerja praktik, pelaksana KP menemukan beberapa keterkaitan atau relevansi dengan mata kuliah yang ada di Fasilkom UI. Keterkaitan tersebut baik dari mata kuliah yang sudah diambil maupun yang belum diambil sebelumnya. Berikut adalah mata kuliah yang relevan tersebut:   Dasar-Dasar Pemrograman (DDP)  Ilmu yang didapat dari kelas DDP sangat diterapkan di Traveloka, terutama paradigma <it>Object</it> <it>Oriented</it> <it>Programming</it> (OOP). Bahasa pemrograman yang digunakan di kelas DDP juga sama dengan yang digunakan untuk <it>backend</it> dari produk Traveloka, yaitu Java.   Struktur Data dan Algoritma (SDA)  Dalam mengerjakan <it>backend,</it> pelaksana KP harus mampu memilih struktur data yang tepat sesuai dengan kasus yang dihadapi. Seperti yang diajarkan di kelas SDA, pelaksana KP menentukan kapan harus menggunakan <it>List,</it> kapan harus menggunakan <it>Map,</it> dan lain-lain.   Perancangan dan Pemrograman Web (PPW)  Walaupun tidak sampai mengerjakan <it>frontend</it> dari <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard,</it> pelaksana KP sempat mempelajari dan mencoba-coba bagaimana <it>framework</it> dari <it>frontend</it> di Traveloka. Pengetahuan dasar dari HTML, CSS, dan JavaScript membantu pelaksana KP ketika memahami struktur <it>frontend</it> di Traveloka.   Basis Data (Basdat)  <it>Relational</it> <it>database</it> dan DBMS PostgreSQL yang diajarkan di kelas Basdat sangat berguna ketika pelaksana KP diminta untuk membuat berbagai <it>script</it> SQL. Pemahaman bagaimana cara kerja <it>stored</it> <it>procedure</it> / <it>stored</it> <it>function</it> dan pemahaman mengenai <it>constraints</it> yang ada pada <it>database</it> menjadi bekal pelaksana KP saat bekerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>17</pagenum>
+		<segment>
+			  Pemrograman Sistem (Sysprog) dan Sistem Operasi (OS)  <it>Development</it> <it>environment</it> yang menggunakan Linux menuntut pelaksana KP harus paham bagaimana cara kerja pada system operasi Linux. Selain itu pelaksana KP juga beberapa kali harus memodifikasi Bash <it>script</it> yang dibuat oleh tim DevOps agar bisa berjalan dengan baik.   Rekayasa Perangkat Lunak (RPL) dan Proyek Perangkat Lunak (PPL)  Proses-proses yang harus dilalui selama pengembangan perangkat lunak berupa <it>planning,</it> desain, eksekusi, dan <it>testing</it> yang diajarkan di kelas RPL serta diterapkan di kelas PPL <it>mentorship</it> menjadi bekal saat pelaksanaan kerja praktik. Beberapa tahap pada <it>development</it> <it>flow</it> yang didapat ketika mengikuti PPL <it>mentorship,</it> cukup sesuai dengan yang diterapkan di Traveloka.   Desain dan Analisis Algoritma (DAA)  Selain harus memilih struktur data yang tepat, pelaksana KP juga harus mampu merancang algoritma yang efisien agar program dapat berjalan dengan cepat meskipun dihadapkan dengan jumlah data yang besar. Bagaimana cara membuat algoritma yang efisien ini didapat dari kelas DAA.   Layanan Aplikasi Web (LAW)  Pelaksana KP ditugaskan untuk membuat RESTful API / <it>web</it> <it>service.</it> Pelaksana KP merasakan manfaat yang didapat ketika mengambil kelas LAW pada semester 6. Pada LAW diajarkan bagaimana cara membuat <it>web</it> <it>service</it> menggunakan bahasa Java yang mirip dengan yang dikembangkan di Traveloka.   Basis Data Lanjut (Banjut)  Meskipun belum pernah mengambil matkul Banjut, pelaksana KP menemukan beberapa hal yang terkait dengan kelas Banjut. Hal-hal seperti <it>query</it> <it>optimization,</it> <it>data</it> <it>ETL</it> <it>pipelining,</it> dan penggunaan <it>data</it> <it>warehouse</it> yang dikerjakan selama proses kerja praktik membuat pelaksana KP mengambil kelas Banjut pada semester 7. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>18</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilaksanakan oleh pelaksana KP selama kurang lebih 10 minggu, yaitu dari tanggal 6 Juni 2016 sampai dengan 5 September 2016. Pelaksana KP melaksanakan kerja praktik di PT Trinusa Travelindo atau Traveloka sebagai <it>Software</it> <it>Engineer</it> <it>intern</it> dan ditempatkan di <it>mission</it> TERA. Pelaksanaan KP diberikan sebuat proyek yaitu mengerjakan backend dari <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> yang harus diselesaikan selama masa kerja praktik. Banyak hal yang didapat oleh pelaksana KP selama pelaksanaan kerja praktik ini, mulai dari hal yang teknis sampai dengan hal yang non-teknis. Penggunaan berbagai teknologi yang baru membuka pandangan pelaksana KP terhadap perkembangan teknologi yang sangat pesat saat ini. Berada di Traveloka dan di <it>mission</it> TERA juga menunjangpembelajaran <it>soft</it> <it>skill</it> bagi pelaksana KP seperti komunikasi, <it>time</it> <it>management,</it> kemampuan pemecahan masalah, dan lain-lain. Pengalaman bekerja di Traveloka sebagai <it>Software</it> <it>Engineer</it> <it>intern</it> menjadi pengalaman yang sangat berharga dan menyenangkan. Pelaksana KP merasakan bagaimana proses mengembangan suatu produk yang bermanfaat dan sesuai dengan visi Traveloka. Juga bagaimana akhirnya pelajaran dan ilmu yang didapat pada masa perkuliahan bisa dimanfaatkan pada proses kerja praktik ini. 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Pencarian tempat kerja praktik sebaiknya dilaksanakan semenjak jauh-jauh hari. Beberapa kali email yang dikirimkan calon pelaksana KP ke berbagai perusahaan tidak ditanggapi adalah karena sedang banyaknya orang yang sedang <it>apply</it> pada saat itu juga. Lakukan persiapan yang matang sebelum melakukan proses wawancara. Ada baiknya calon pelaksana KP mencari referensi proses wawancara baik dari internet maupun dari pengalaman orang lain. Calon pelaksana KP harus menyiapkan <it>resume</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>19</pagenum>
+		<segment>
+			yang jelas dan benar-benar sesuai dengan diri sendiri, karena biasanya <it>interviewer</it> akan mengangkat topik pembicaraan yang sesuai dengan <it>resume</it> calon pelaksana KP. Pelaksana KP harus mulai mencicil Kerangka Acuan Kerja Praktik (KAKP) dan Log KP semenjak awal mulainya masa KP. Sebab ada kemungkinan dosen akan <it>slow</it> <it>response</it> dalam menanggapi KAKP dan bahkan baru menyetujui KAKP beberapa minggu setelah kerja praktik berlangsung. Serta ada saran untuk dosen KP untuk menetapkan standar yang jelas untuk KAKP. Karena <it>review</it> dari dosen berbeda-beda untuk setiap mahasiswa dan akibatnya sering terjadi kebingungan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>20</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] <it>What</it> <it>is</it> <it>ETL?</it> (2016). SAS Institute. Diakses pada 1 Desember 2016, melalui http://www.sas.com/en_us/insights/data-management/what-is-etl.html [2] <it>Data</it> <it>Warehouse</it> <it>Concepts.</it> (2002). Oracle Corporation. Diakses pada 1 Desember 2016, melalui https://docs.oracle.com/cd/B10500_01/server.920/a96520/concept.htm 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>vi</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>vii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

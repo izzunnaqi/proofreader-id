@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<pagenum>1</pagenum>
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PEMBUATAN</bo> <bo>APLIKASI</bo> <it><bo>DEBUG</bo></it> <it><bo>INFORMATION</bo></it> <bo>DENGAN</bo></title>
+		<segment>
+			<bo>MENGGUNAKAN</bo> <it><bo>API</bo></it> <it><bo>INTEGRATION</bo></it> <bo>PT.</bo> <bo>MIDTRANS</bo> 
+		</segment>
+		<title><bo>(VERITRANS)</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>RIO</bo> <bo>MULIA</bo></title>
+		<segment>
+			<bo>1306407312</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<segment>
+			<bo>November</bo> <bo>2016</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>2</pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Rio Mulia : 1306407312 : Ilmu Komputer : Pembuatan Aplikasi <it>Debug</it> <it>Information</it> dengan Menggunakan <it>API</it> <it>Integration</it> PT. MidTrans (Veritrans) <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom</bo> <bo>M.Kom</bo> Ditetapkan di : Depok, Jawa Barat Tanggal : 17 November 2016 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>3</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama : Rio Mulia Program Studi : Ilmu Komputer Judul : Pembuatan Aplikasi <it>Debug</it> <it>Information</it> dengan Menggunakan API <it>Integration</it> PT. Midtrans (Veritrans) Kata Kunci: API, <it>Database,</it> <it>Debug</it> <it>Information,</it> <it>Framework,</it> Kerja Praktik, <it>Web</it> <it>Developer</it> Laporan kerja praktik ini dibuat berdasarkan pengalaman kerja praktik Rio Mulia, mahasiswa program studi Ilmu Komputer Fakultas Ilmu Komputer Universitas Indonesia angkatan 2013. Penulis telah melaksanakan Kerja Praktik pada PT. Midtrans selama 10 minggu dibawah naungan divisi <it>Software</it> <it>Engineering.</it> Penulis dialkoasikan untuk mengerjakan proyek PATO yang merupakan <it>notification</it> <it>service</it> dan bertanggung jawab untuk mengirim http notification dan e-mail kepada <it>merchant</it> dan <it>customer.</it> Lingkup kerja yang dilakukan oleh penulis selama proses kerja praktik adalah berkaitan dengan pembuatan aplikasi <it>debug</it> <it>information</it> mulai dari pemahaman proses transaksi melalui layanan online payment gateway PT. Midtrans, pengintegrasian aplikasi dengan PATO API, mengintegrasikan aplikasi dengan <it>front-</it> <it>end</it> <it>framework,</it> menyediakan <it>generic</it> <it>framework</it> untuk <it>login</it> dan <it>logout</it> dan melakukan <it>testing</it> dan <it>debugging</it> pada fitur aplikasi. Di akhir kerja praktik, penulis berasa mendapatkan suatu pengalaman bahwa kerja praktik memberi gambaran nyata dunia kerja sehingga ilmu yang diperoleh selama kerja praktik dapat menambah ilmu yang didapat selama perkuliahan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>4</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK…….  2  ABSTRAK………………………………….………….………….………….……...  3  DAFTAR ISI………………………….………….………….………….…...............  4  DAFTAR GAMBAR………………………….………….………….………….…...  6  DAFTAR TABEL………………………….………….………….………….….......  7  DAFTAR LAMPIRAN………………………….………….……….………….…...  8  BAB 1 PENDAHULUAN………………………….……………….………….…...  9  
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik.………………………….…………….…...  9 </title>
+		<title>1.2. Tempat Kerja Praktik.………………………….…………….….................  11 </title>
+		<title>1.2.1. Profil Tempat Kerja Praktik………………………….……………......  11 </title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi 11</title>
+		<segment>
+			BAB 2 ISI………………………………….………….………….………….……..  13  
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik.………………………….………………...  13 </title>
+		<title>2.1.1. Latar Belakang Pekerjaan.…………….………………........................  13 </title>
+		<title>2.1.2. Tinjauan Pustaka.…………….……………….....................................  14 </title>
+		<title>2.1.3. Metodologi.…………….………………..............................................  15 </title>
+		<title>2.1.4. Teknologi.…………….………………................................................  17 </title>
+		<title>2.1.5. Teknis………………………….………….………….…………….....  19 </title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<title>2.1.5. Non-Teknis………………………….…………….............................  19 </title>
+		<title>2.2. Analisis………………………….………….………….………….……...  20 </title>
+		<pagenum>5</pagenum>
+		<title>2.2.1. Pelaksanaan Kerja Praktik.………………………….…………….....  20 </title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI………………………  21 </title>
+		<segment>
+			BAB 3 PENUTUP………………………….………….………….………….…...  24  
+		</segment>
+		<title>3.1. Kesimpulan.………………………….……………...................................  24 </title>
+		<title>3.2. Saran………………………….………….………….………….…............  24 </title>
+		<segment>
+			DAFTAR REFERENSI.………………………….……………..............................  25  
+		</segment>
+		<title>LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK………………………  27 </title>
+		<segment>
+			LAMPIRAN 2 LOG KERJA PRAKTIK………………………….…………….....  28  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>6</pagenum>
+		<segment>
+			Gambar 1 Struktur Organisasi PT. Midtrans..........................................................19 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<segment>
+			[Daftar tabel, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<pagenum>7</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>8</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>9</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pencarian tempat untuk kerja praktik dimulai pada pertengahan bulan Maret 2016. Penulis sudah mengirim aplikasi beserta <it>curriculum</it> <it>vitae</it> (CV) ke beberapa perusahaan, diantaranya adalah MNC Play Media, Veritrans (Midtrans), PT. Astra International, Tokopedia, dan GDP Labs. Seminggu setelahnya, penulis mendapatkan panggilan untuk wawancara pada MNC Play Media. Di MNC Play Media, penulis melamar pada divisi <it>User</it> <it>Interface</it> dan <it>User</it> <it>Experience.</it> Penulis melakukan psikotes dan wawancara bersama penyelia yang bertanggung jawab pada divisi <it>Front-End</it> <it>Developer</it> dengan membawa surat keterangan dari fakultas beserta transkrips nilai. Proses wawancara berlangsung kurang lebih 40 menit. Setelah itu <it>interviewer</it> menjajikan untuk mengabarkan hasil wawancara kurang lebih 2 minggu setelah wawancara. Setelah lebih dari 2 minggu, penulis mendapat kabar bahwa diterima untuk melakukan kerja praktik pada MNC Play Media mulai dari 1 Juni hingga akhir Agustus. Pada pertengahan bulan Maret, penulis melamar untuk melakukan kerja praktik pada PT. Midtrans (Veritrans) pada <it>website</it> perusahaan tersebut. Lamaran pekerjaan yang dibuka hanya divisi <it>Software</it> <it>Engineering.</it> 1 minggu setelah mengirim aplikasi lamaran kerja praktik, penulis mendapat kabar untuk melakukan tes yang akan dilaksanakan pada pertengahan April. Penulis, bersama kurang lebih 30 pelamar kerja praktik lainnya, mengikuti tes tersebut yang berupa tes matematika beserta tes pemrograman. HRD dari PT. Midtrans berjanji untuk mengabarkan hasil 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<segment>
+			 tes 2 minggu setelahnya. Setelah 2 minggu, penulis diterima pada PT. Midtrans pada 
+		</segment>
+		<pagenum>10</pagenum>
+		<segment>
+			divisi <it>software</it> <it>engineering.</it> Pada awal bulan April, penulis mengirim aplikasi kerja praktik pada Tokopedia dan GDP Labs sebagai <it>software</it> <it>engineering</it> <it>intern.</it> Kedua perusahaan tersebut melakukan <it>interview</it> dan tes pemrograman secara online. Penulis menyelesaikan <it>interview</it> dan tes pemrograman sesuai dengan waktu dan prosedur yang diberikan. Kedua perusahaan tersebut menjanjikan untuk memberi kabar setelah 2 minggu. Akan tetapi, hanya GDP Labs yang memberi kabar bahwa penulis belum diterima pada kesempatan pelaksanaan kerja praktik saat itu. Sementara itu, pihak HRD dari Tokopedia tidak memberi kabar hasil dari tes. Pada pertengahan bulan April, penulis juga mengirim aplikasi kerja praktik pada PT. Astra International. Setelah 2 minggu, penulis melakukan follow-up pada HRD PT. Astra International dan akhirnya dijadwalkan untuk melakukan proses <it>interview</it> pada awal bulan Mei. Akan tetapi, penulis menolak proses interview karena sudah diterima pada PT. Midtrans (Veritrans) dan MNC Play Media. Pada akhir bulan April, penulis akhirnya memutuskan untuk melakukan pelaksanaan kerja praktik pada PT. Midtrans (Veritrans) sebagai <it>software</it> <it>engineering</it> <it>intern.</it> Berikut adalah daftar perusahaan yang dihubungi penulis untuk melakukan kerja praktik beserta hasilnya : 1. Perusahaan : MNC Play Media Sumber Informasi : <it>website</it> perusahaan Status : diterima 2. Perusahaan : PT. Midtrans (Veritrans) Sumber Informasi : <it>website</it> perusahaan Status : diterima 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>11</pagenum>
+		<segment>
+			3. Perusahaan : Tokopedia Sumber Informasi : <it>website</it> perusahaan Status : tidak ada tanggapan 4. Perusahaan : GDP Labs Sumber Informasi : <it>website</it> perusahaan Status : ditolak 5. Perusahaan : PT. Astra International Sumber Informasi : kerabat Status : dibatalkan oleh penulis (pelamar) 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Midtrans (Veritrans) adalah sebuah perusahaan yang bergerak pada bidang <it>online</it> <it>payment</it> <it>gateway.</it> Veritrans memiliki misi untuk membangun layanan infrastruktur <it>e-commerce</it> pada bidang <it>payment</it> yang <it>simple,</it> <it>reliable,</it> dan <it>secure</it> [1]. Layanan online payment gateway Veritrans menjembatani pelanggan dan pelaku bisnis e-commerce khususnya di Indonesia dalam melakukan pembayaran secara mudah baik melalui <it>webapp</it> maupun <it>mobile.</it> PT. Midtrans dibentuk oleh Ryu Kawano pada tahun 2011 dengan tujuan untuk memudahkan transaksi <it>online</it> di Indonesia. Adapun produk-produk yang disediakan oleh PT. Midtrans adalah VT-<it>Link,</it> VT-<it>Web,</it> dan VT-<it>Direct.</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik, penulis mendapatkan seorang <it>mentor</it> atau disebut <it>buddy.</it> <it>Buddy</it> ini yang menjadi anggota bagi penulis selama melaksanakan 10 minggu kerja praktik. Berikut ini merupakan hierarki PT. Midtrans. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>12</pagenum>
+		<segment>
+			Gambar 1. Struktur Organisasi PT. Midtrans Penulis tergabung dalam tim <it>engineering</it> PT. Midtrans dengan <it>buddy</it> Sreekanth, yaitu dalam tim PATO yang berurusan dengan notifikasi. Akan tetapi, karena <it>buddy</it> penulis sibuk, jadi untuk penyelia penulis tergabung bersama dengan rekan kerja praktik penulis, yaitu dengan Hendra Gunawan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>13</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini akan dijelaskan latar belakang pekerjaan yang dikerjakan penulis, tinjauan pustaka yang digunakan, metodologi yang dipakai, teknologi yang dipakai, dan hal-hal non teknis selama pelaksanaan kerja praktik. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Sebagai layanan <it>online</it> <it>payment</it> <it>gateway,</it> Veritrans memiliki database penyimpanan informasi transaksi yang masuk dari berbagai merchant yang menggunakan jasa Veritrans baik itu VT-<it>Link,</it> VT-<it>Web,</it> ataupun VT-<it>Direct</it> sebagai <it>payment</it> <it>gateway</it> mereka. Veritrans membutuhkan suatu API Integration untuk mempermudah proses <it>debugging</it> <it>information</it> dari transaksi yang pernah dilakukan oleh pelanggan dari <it>merchant-mechant</it> yang menggunakan <it>payment</it> <it>gateway</it> Veritrans. Penulis tergabung pada divisi PATO dengan buddy penulis dan diposisikan pada PATO-<it>Internship.</it> PATO merupakan <it>notification</it> <it>service</it> Veritrans yang bertanggung jawab untuk mengirimkan <it>http</it> <it>notification</it> dan <it>e-mail</it> baik kepada <it>merchant</it> maupun <it>customer.</it> PATO bekerja dengan membuat <it>background</it> <it>jobs,</it> lalu membuat antrian dari <it>job</it> tersebut dan kemudian diproses. Sebelumnya, <it>debug</it> <it>information</it> masih dilakukan dengan menerima <it>input</it> <it>request,</it> lalu diproses secara <it>manual,</it> setelah itu <it>output</it> informasi tersebut dikirim kepada <it>merchant</it> atau <it>customer</it> melalui e-mail. Veritrans membutuhkan sebuah aplikasi yang dapat memanfaatkan PATO API untuk menampilkan pesan langsung pada aplikasi tanpa mengirimkan secara manual melalui <it>e-mail.</it> Informasi yang dapat dijadikan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<segment>
+			 <it>input</it> sebagai pencarian <it>job</it> dan <it>debug</it> <it>information</it> adalah <it>endpoint,</it> <it>order_id,</it> 
+		</segment>
+		<pagenum>14</pagenum>
+		<segment>
+			<it>merchant_id,</it> <it>merchant_email,</it> dll. Selama masa kerja praktik, penulis diamanahkan untuk membuat suatu aplikasi yang dapat digunakan oleh para tim PATO yang bertanggungjawab terhadap notifikasi agar dapat mempermudah pencarian informasi dari suatu transaksi pada database mereka. Tujuan utama dari pelaksanaan kerja praktik adalah agar aplikasi yang dibuat dapat menangani <it>request</it> yang diberikan melalui <it>e-mail</it> diintegrasikan dengan menggunakan PATO API untuk menampilkan hasil dari <it>debug</it> <it>information.</it> Aplikasi tersebut menerima masukkan <it>input</it> JSON (request), lalu setelah dilakukan API <it>integration</it> terhadap PATO API, aplikasi menghasilkan output berupa JSON <it>response</it> <it>body.</it> Selain itu, untuk meningkatkan <it>accessibility</it> aplikasi, penulis diamanahkan oleh penyelia untuk membuat <it>Generic</it> <it>Framework</it> untuk melakukan <it>login</it> dan <it>logout</it> agar dapat digunakan oleh tim PATO dengan mudah. <it>Generic</it> <it>Framework</it> yang digunakan adalah Google <it>Authenticator.</it> Jadi, user yang akan menggunakan aplikasi harus memiliki akun Google untuk login. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Dalam mengerjakan pekerjaan selama kerja praktik, penulis banyak mencari informasi dan referensi dari internet untuk memudahkan pekerjaannya. Berikut adalah beberapa situs yang digunakan oleh penulis selama kerja praktik. 1. Google Authenticator &amp; Google 
+		</segment>
+		<title>API</title>
+		<segment>
+			(https://console.developers.google.com/api) Berisi <it>console</it> dan panduan pengelolaan dalam menggunakan Google API. <it>Application</it> <it>Programming</it> <it>Interface</it>  (API) merupakan suatu software interface yang terdiri atas kumpulan instruksi yang disimpan dalam bentuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<segment>
+			<it>library</it> dan menjelaskan bagaimana suatu <it>software</it> dapat berinteraksi dengan 
+		</segment>
+		<pagenum>15</pagenum>
+		<segment>
+			<it>software</it> lain. 2. Ruby on Rails (http://guides.rubyonrails.org/) Berisi dokumentasi <it>framework</it> dan <it>guide</it> dalam melakukan instalasi, <it>routing,</it> validasi, dan cara penggunaan <it>model,</it> <it>view,</it> <it>controller</it> yang benar dalam membangun sistem yang dibuat oleh penulis. 3. Bootstrap (http://getbootstrap.com/css/) Berisi dokumentasi <it>framework</it> HTML, CSS, dan JS untuk membangun <it>web</it> <it>application</it> yang memiliki tampilan yang <it>responsive.</it> 4. PostgreSQL (https://www.postgresql.org) Berisi dokumentasi SQL yang berguna selama pengembangan aplikasi serta query yang dibutuhkan dan membantu penulis dalam melakukan database migration. 5. Heroku (https://devcenter.heroku.com) Berisi dokumentasi dari <it>cloud</it> <it>application</it> <it>platform</it> dan cara penggunaan Heroku sebagai sarana penulis untuk melakukan <it>deployment</it> aplikasi. 6. GitLab (https://about.gitlab.com/about) Berisi penjelasan serta dokumentasi dari <it>version</it> <it>control</it> dan cara penggunaan GitLab sebagai sarana penulis untuk melakukan <it>code</it> <it>review</it> bersama dengan penyelia. 7. HTTP Methods (http://www.w3schools.com/tags/ref_httpmethods.asp) Berisi dokumentasi serta penjelasan terhapa HTTP Methods yang sering dipakai penulis selama melaksanakan kerja praktik. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Pengembangan aplikasi yang penulis lakukan menggunakan metode <it>agile</it> <it>development,</it> yaitu <it>scrum.</it> <it>Scrum</it> adalah manajemen proyek <it>agile</it> <it>software</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<segment>
+			 <it>development</it> yang terdiri dari suatu tim kecil yang bekerja secara instensif dan ketergantungan. Dalam <it>scrum,</it> dibutuhkan sebuah tim dengan spesialisasi bidang masing-masing serta komunikasi yang baik dari setiap anggota pada tim [7]. 
+		</segment>
+		<pagenum>16</pagenum>
+		<segment>
+			Peran-peran yang terlibat dalam metode <it>scrum</it> adalah sebagai berikut [8] : ●  <it>Product</it> <it>Owner</it>  <it>Product</it> <it>owner</it> merupakan peran yang memiliki visi, otoritas, dan ketersediaan dalam pengembangan <it>software.</it> <it>Product</it> <it>owner</it> bertanggungjawab untuk meneruskan komunikasi mengenai visi dan prioritas kepada tim pengembang. ●  <it>Scrum</it> <it>Master</it>  <it>Scrum</it> <it>master</it> merupakan fasilitator untuk <it>product</it> <it>owner</it> dan <it>scrum</it> <it>team.</it> <it>Scrum</it> <it>master</it> bertanggungjawab untuk mencari solusi dari kendala yang dihadapi tim dan bertujuan untuk mencapai <it>sprint</it> <it>goals.</it> ●  <it>Scrum</it> <it>Team</it>  <it>Scrum</it> <it>team</it> merupakan tim pengembang yang bertanggungjawab untuk mengembangkan serta menyelesaikan sistem. Biasanya tim pengembang terdiri atas 3-9 orang yang terdiri atas <it>programmers,</it> QA, UI <it>designer,</it> <it>analyst,</it> dan <it>architects.</it> Selama pelaksanaan kerja praktik, penulis bertindak sebagai scrum team dan penyelia berperan sebaga <it>product</it> <it>owner</it> sekaligus <it>scrum</it> <it>master.</it> Proses <it>scrum</it> selama kerja praktik juga menerapkan kegiatan <it>daily</it> <it>meeting</it> antara penyelia dan penulis untuk menginformasikan progres serta kendala yang dihadapi selama membuat aplikasi. Komunikasi antara penyelia dan penulis pada Slack <it>messanger</it> dan Aktivitas <it>code</it> <it>review</it> dilakukan oleh penyelia melalui teknologi <it>version</it> <it>control</it> GitLab. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<segment>
+			 <bo>2.1.4.</bo> <bo>Teknologi</bo> Selama pelaksanaan kerja praktik, penulis menggunakan beberapa macam teknologi yang mendukung pengembangan aplikasi. Berikut ini adalah teknologi- 
+		</segment>
+		<pagenum>17</pagenum>
+		<segment>
+			teknologi yang digunakan. 1. Google API &amp; Google <it>Authenticator</it> Dalam melaksanakan kerja praktik penulis memanfaatkan Google API dan <it>credentials</it> untuk membuat <it>generic</it> <it>login</it> <it>framework.</it> Konsol dari Google API memungkinkan pengguna menggunakan Google API untuk berbagai kebutuhan [2]. Penggunaan Google sebagai <it>login</it> <it>framework</it> ini sebelumnya telah dibicarakan dan telah disepakati oleh penyelia. 2. Ruby on Rails Ruby on Rails merupakan <it>framework</it> pengembangan aplikasi berbasis <it>web</it> yang ditulis dengan bahasa pemrograman Ruby. Framework ini di disain untuk membuat pemrograman aplikasi berbasis <it>web</it> lebih mudah karena penulisan kode lebih singkat dan mudah dimengerti dibanding bahasa pemrograman lain [3]. Pemilihan <it>framework</it> ini dalam pelaksanaan kerja praktik didasarkan persetujuan penulis dan penyelia serta banyaknya proyek yang dikembangkan pada PT. Midtrans menggunakan <it>framework</it> Ruby on Rails. 3. Bootstrap Bootstrap merupakan <it>front-end</it> <it>framework</it> dan <it>open-source</it> <it>projects</it> yang dikembangkan di Twitter [4]. Dalam pembuatan aplikasi selama kerja praktik, penulis menggunakan Bootstrap untuk meningkatkan disain yang responsif dari aplikasi yang dibuat. 4. PostgreSQL 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>18</pagenum>
+		<segment>
+			PostgreSQL merupakan <it>object-relational</it> <it>database</it> <it>system</it> yang telah dikembangkan selama lebih dari 15 tahun serta memiliki arsitektur dengan reputasi tinggi dan terpercaya. PostgreSQL mendukung <it>international</it> <it>character</it> <it>sets,</it>  <it>multibyte</it> <it>character</it> <it>encodings,</it> <it>case-sensitivity,</it> dan <it>formatting</it> [5]. Penyimpanan <it>database</it> selama pelaksanaan kerja praktik dilakukan dengan menggunakan PostgreSQL. PostgreSQL merupakan Pada awalnya penulis menggunakan SQLite yang merupakan <it>database</it> bawaan dari Ruby on Rails. Akan tetapi, karena Heroku dan Server Veritrans lebih compatible dengan PostgreSQL, jadi penulis merubah penggunaan database ke PostgreSQL. 5. Heroku Heroku adalah <it>cloud</it> <it>application</it> <it>platform</it> untuk membangun dan melakukan deploy suatu aplikasi [5]. Penggunaan Heroku sebagai sarana penulis melakukan deployment adalah berdasarkan persetujuan dengan penyelia. Heroku berfungsi untuk menampilkan halaman <it>website</it> aplikasi dikarenakan beberapa fitur harus di <it>deploy</it> terlebih dahulu dan tidak bisa ditampilkan pada <it>localhost.</it> 6. Postman Teknologi ini merupakan aplikasi untuk melakukan testing terhadap suatu API yang telah terimplementasi. Selama melaksanakan kerja praktik, penulis menggunakan aplikasi ini sebagai sarana untuk <it>testing</it> <it>validity</it> <it>input</it> (<it>request)</it> dan (<it>response)</it> dari suatu API <it>request.</it> Format <it>input</it> yang digunakan pada aplikasi yang dibuat penulis bertipe JSON. JSON merupakan format pertukaran data yang ringan, mudah dibaca, dan ditulis oleh manusia, serta mudah diterjemahkan dan dibuat (<it>generate)</it> oleh komputer [9]. 7. GitLab 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<segment>
+			GitLab merupakan aplikasi untuk membuat kode, <it>test,</it> dan melakukan <it>deploy.</it> Repositori GitLab menyediakan manajemen untuk melakukan <it>access</it> <it>controls,</it> <it>code</it> <it>review,</it> <it>issues</it> <it>tracking,</it> membuat wiki, dan <it>continuous</it> <it>integration</it> [10]. 
+		</segment>
+		<pagenum>19</pagenum>
+		<segment>
+			8. Sublime Text Editor Selama pelaksanaan kerja praktik, penulis menggunakan Sublime Text Editor sebagai sarana untuk membuat kode. Penulis memilih <it>editor</it> ini karena Sublime Text Editor memiliki fitur untuk <it>editting</it> kode yang nyaman dan mudah digunakan. 9. Slack Selama pelaksanaan kerja praktik, penulis dan penyelia melakukan komunikasi dari Slack <it>messanger.</it> Slack merupakan aplikasi untuk komunikasi yang dikhususkan untuk anggota tim. Keunggulan dari Slack adalah satu anggota dapat memiliki beberapa channel untuk memudahkan komunikasi dengan banyak tim. Selain itu, Slack juga mengakomodir <it>highlight</it> kode untuk mempermudah komunikasi yang membicarakan suatu kode program. 10. Veritrans PATO API Merupakan <it>Application</it> <it>Programming</it> <it>Interface</it> yang digunakan untuk melakukan API Integration. Halaman ini hanya dapat diakses melalui <it>credentials</it> yang diberikan oleh PT. Midtrans. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Teknis</bo></title>
+		<segment>
+			Secara teknis, berikut merupakan beberapa pekerjaan yang dilakukan penulis selama 10 minggu : ●  Menyediakan  <it>generic</it> <it>framework</it>  untuk <it>login</it>  dan <it>logout</it>  dari aplikasi  <it>Debug</it>  <it>Information.</it> ●  Membuat <it>login</it> <it>role</it> untuk akses aplikasi <it>debug</it> <it>information.</it>  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>20</pagenum>
+		<segment>
+			●  Mengintegrasikan  aplikasi  dengan  menggunakan  PATO  API  untuk  menampilkan <it>debug</it> <it>information</it> menggunakan HTTP <it>Post.</it> ●  Membuat fitur <it>Job</it> <it>Retry</it> untuk melakukan pengulangan pencarian <it>job.</it>  ●  Membuat  fitur  pencarian  job  melalui  kolom-kolom  (Informasi  <it>input</it>  secara  spesifik) ●  Melakukan deployment pada server Heroku dan GitLab Veritrans.  
+		</segment>
+		<title><bo>2.1.6.</bo> <bo>Non-Teknis</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis mendapatkan banyak pelajaran dan pengalaman yang tidak ada di perkuliahan. Pelajaran yang didapat yaitu tentang <it>soft</it> <it>skill,</it> komunikasi, etos kerja, kerja sama serta bagaimana bersikap secara profesional. Selain itu, penulis juga belajar tentang tanggung jawab, tanggung jawab untuk menyelesaikan tugas yang diberikan dengan sebaik-baiknya. Pengalaman yang di dapat penulis selama menjalani masa kerja praktik adalah bagaimana suasana bekerja di dunia perkantoran <it>startup</it> dan melakukan <it>brainstorming</it> dengan rekan kerja untuk menemukan solusi permasalahan. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan Kerja Praktik dilakukan selama 10 minggu, mulai dari tanggal 13 Juni 2016 hingga 26 Agustus 2016. Pada hari pertama pelaksanaan kerja praktik, penulis bersama 10 rekan lain dari Fasilkom UI melakukan sedikit perkenalan dengan seluruh karyawan PT. Midtrans. Pada saat itu pelaksana kerja praktik dijelaskan bahwa waktu jam kerja pelaksana kerja praktik adalah fleksible dengan jumlah jam kerja minimal 8 jam per hari. Namun, pada hari senin, setiap karyawan PT. Midtrans diwajibkan untuk mengikuti kegiatan <it>Monday</it> <it>Meeting.</it> <it>Monday</it> <it>Meeting</it> merupakan kegiatan rapat besar dimana setiap divisi dari PT. Midtrans melaporkan progres serta 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<segment>
+			 perkembangannya selama seminggu yang telah berlalu. Pada kegiatan ini, akan ada sesi perkenalan dengan karyawan baru serta profil dari <it>merchant</it> baru yang 
+		</segment>
+		<pagenum>21</pagenum>
+		<segment>
+			menggunakan jasa PT. Midtrans. Selain itu, setelah <it>Monday</it> <it>Meeting</it> setiap divisi, penulis juga mengikuti kegiatan selanjutnya, yaitu <it>Monday</it> <it>Meeting</it> tim <it>engineering.</it> Perbedaannya disini adalah ruang lingkup dari presentasi serta laporan nya adalah antar divisi dari tim <it>engineering</it> saja. Penulis (pelaksana kerja praktik) melaksanakan kerja praktik pada umumnya dari jam 09:00 - 18:00 kecuali beberapa hari terlambat dikarenakan ada kegiatan lain yang berhubungan dengan perkuliahan seperti pengisian IRS dan konsultasi dengan pembimbing akademis. Berdasarkan dari KAKP yang dibuat oleh penulis, terdapat kesesuaian dan perbedaan antara KAKP dengan pelaksanaan kerja praktik yang sesungguhnya. Kesesuaian dengan KAKP yang telah dibuat oleh penulis adalah hampir semua cakupan pekerjaan yang terdapat pada KAKP dilaksanakan oleh penulis selama kerja praktik. Dengan kata lain, penulis berhasil mencakup semua pekerjaan yang tertera pada KAKP. Perbedaan dengan KAKP yang telah dibuat adalah perbedaan waktu pengerjaan masing-masing tugas, seperti melakukan <it>testing</it> yang ternyata membutuhkan waktu lebih banyak daripada yang direncanakan pada KAKP sehingga pengerjaan tugas selanjutnya menjadi sedikit terlambat. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Berikut ini adalah beberapa mata kuliah di Fakultas Ilmu Komputer Universitas Indonesia yang relevan dengan ruang lingkup kerja penulis selama melaksanakan 10 minggu kerja praktik : 1. Dasar-Dasar Pemrograman Selama melaksanakan kerja praktik, penulis menemukan banyaknya manfaat dari kuliah DDP yang sudah diambil di Fakultas Ilmu Komputer UI. Mata 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>22</pagenum>
+		<segment>
+			kuliah DDP membekali prinsip-prinsip dasar dalam membuat suatu program. Maka dari itu, penulis tidak merasa asing dalam menggunakan bahasa pemrograman lain yang digunakan selama pelaksanaan kerja praktik. 2. Perancangan dan Pemrograman Web Selama melaksanakan kerja praktik, penulis menggunakan <it>framework</it> dalam pembuatan aplikasi, yaitu Ruby on Rails. Hal ini sangat terkait dengan mata kuliah yang sudah pernah penulis ambil, yaitu PPW. Konsep-konsep seperti <it>model,</it> <it>view,</it> dan <it>controller</it> sangat terpakai dalam membuat aplikasi framework Ruby on Rails. Dalam pengelolaan konten, penulis juga menggunakan data berupa JSON yang sudah pernah dipelajari di PPW. Ilmu lain yang terkait dan sudah didapat pada PPW yaitu HTML, CSS, JQuery, AJAX. 3. Rekaya Perangkat Lunak Dalam pelaksanaan kerja praktik, PT. Midtrans menggunakan metode pengembangan <it>software</it> berupa <it>agile</it> <it>development,</it> yaitu <it>scrum.</it> <it>Agile</it> <it>development</it> sudah pernah penulis pelajari ketika mengambil mata kuliah RPL sehingga dalam kerja praktik penulis sudah memiliki dasar-dasar dan paham dengan istilah-istilah yang terdapat pada <it>scrum.</it> 4. Proyek Perangkat Lunak Selama pelaksanaan kerja praktik, penulis melakukan banyak pekerjaan terkait dengan mata kuliah PPL. Penulis bersama penyelia merancang proyek dan melakukan deployment pada GitLab dan Heroku. Mata kuliah ini memberikan sangat banyak sekali pengetahuan dalam pengembangan suatu proyek perangkat lunak. 5. Basis Data Selama melaksanakan kerja praktik, penulis menerapkan konsep-konsep yang ada pada mata kuliah basis data. Penulis menggunakan database SQLite dan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<segment>
+			PostgreSQL dalam pembuatan aplikasi. Selain itu, penulis juga melakukan pemindahan database (<it>database</it> <it>migration).</it> 
+		</segment>
+		<pagenum>23</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>24</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Dengan melaksanakan kerja praktik, penulis mendapatkan pengalaman serta pelajaran yang belum pernah diperoleh selama perkuliahan. Pengalaman dan pelajaran tersebut hanya bisa didapat setelah penulis terjun langsung ke dalam dunia kerja. Melalui kerja praktik, penulis dapat menemukan relevansi antara dunia kerja dengan ilmu yang diperoleh pada perkuliahan di Fasilkom UI. Selain itu, penulis juga dapat belajar mengenai tanggung jawab terhadap pekerjaan. Meskipun penulis mendapatkan beberapa kendala selama pelaksanaan kerja praktik, kendala tersebut dapat terselesaikan dengan baik. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Secara umum, situasi bekerja dan program <it>internship</it> di PT. Midtrans sangat nyaman dan mendukung untuk melaksanakan kerja praktik. Saran penulis terhadap tempat kerja praktik adalah agar dapat memberikan mentor (<it>buddy)</it> yang memiliki waktu cukup untuk bertemu dengan pelaksana kerja praktik. Hal ini sempat menjadi kendala penulis karena <it>buddy</it> cukup sibuk sehingga terkadang waktu pertemuan dengan pelaksana kerja praktik (penulis) menjadi terganggu. Saran untuk pelaksana kerja praktik berikutnya, carilah tempat kerja praktik yang sesuai dengan ruang lingkupnya sesuai dengan apa yang telah dipelajari di perkuliahan. Hal ini bertujuan agar pelaksana kerja praktik memiliki gambaran tentang kerja praktik yang akan dilaksanakan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>25</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] <it>About</it> <it>-</it> <it>Online</it> <it>Payment</it> <it>Gateway</it> <it>for</it> <it>Indonesia</it> <it>eCommerce.</it> (2016). 23 Juli 2016. &lt;https://veritrans.co.id/about.html&gt; [2] <it>Google</it> <it>Developer</it> <it>Console.</it> (2016). 13 November 2016. &lt;https://<bo>console.developers.google.com/&gt;</bo> [3] <it>Rails</it> <it>Guide.</it> (2016). 10 November 2016. &lt;http://guides.rubyonrails.org/&gt; [4] <it>About</it> - <it>Bootstrap.</it> (2016). 15 November 2016.&lt;http://getbootstrap.com/about/&gt; [5] <it>About</it> <it>-</it> <it>PostgreSQL.</it> (2016). 15 November 2016. &lt;https://www.postgresql.org/about/&gt; [6] <it>About</it> - <it>Heroku.</it> (2016). 15 November 2016. https://www.heroku.com/about [7] Rouse, Margaret. <it>Scrum.</it> (2007). 16 November 2016. &lt;http://searchsoftwarequality.techtarget.com/definition/Scrum&gt; [8] Radigan, Dan. <it>Scrum.</it> (2015). 16 November 2016. &lt;http://scrummethodology.com&gt; [9] <it>Pengenalan</it> <it>JSON.</it> (2016). 16 November 2016. &lt;http://www.json.org/json-id.html&gt; 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<segment>
+			[10] <it>About</it> <it>Us</it> <it>-</it> <it>GitLab</it> <it>Inc.</it> (2016). 17 November 2016. &lt;https://about.gitlab.com/about&gt; 
+		</segment>
+		<pagenum>26</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>27</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>28</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

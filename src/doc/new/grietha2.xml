@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <bo>PROSES</bo> <bo>BISNIS</bo> <bo>PROYEK</bo> <bo>INVESTASI</bo></title>
+		<title><bo>KETENAGALISTRIKAN</bo> <bo>DAN</bo> <bo>PENGINTEGRASIAN</bo> <bo>APLIKASI</bo></title>
+		<title><it><bo>PROGRAMME</bo></it> <it><bo>MANAGEMENT</bo></it> <it><bo>OFFICE,</bo></it> <bo>SAP</bo> <bo>ERP</bo> <bo>DAN</bo></title>
+		<title><bo>ORACLE</bo> <bo>PRIMAVERA</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>GRIETHA</bo> <bo>ANDINA</bo> <bo>PUTRI</bo></title>
+		<segment>
+			<bo>1306396832</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum><bo>1</bo></pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Grietha Andina Putri : 1306396832 : Sistem Informasi : Pengembangan Proses Bisnis Proyek Investasi Ketenagalistrikan dan Pengintegrasian Aplikasi <it>Programme</it> <it>Management</it> <it>Office,</it> SAP ERP dan Oracle Primavera <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom.,</bo> <bo>M.Kom.)</bo> Ditetapkan di : Depok Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			<bo>2</bo> Laporan kerja praktik ini adalah hasil dari kerja praktik di PT. Accenture Indonesia. Kerja praktik ini dilaksanakan selama tujuh belas minggu semenjak 1 Juni 2016 hingga 16 September 2016. Penulis memiliki peran sebagai seorang Technology Consulting Analyst untuk aplikasi Integrasi antara Oracle Primavera, SAP dan <it>Programme</it> <it>Management</it> <it>Office(PMO)</it> pada PT. X. Judul yang penulis ajukan dan sudah disetujui adalah “Pengembangan  Proses  Bisnis  Proyek  Investasi  Ketenagalistrikan  dan  Pengintegrasian  Aplikasi  <it>Programme</it>  <it>Management</it>  <it>Office,</it>  SAP  ERP  dan  Oracle  Primavera”.  Selama  masa  kerja praktik, penulis membantu penyelia membuat <it>deliverables</it> kepada klien. <it>Deliverables</it>  yang dibuat antara lain, buku proses bisnis, <it>functional</it> <it>documents,</it> <it>technical</it> <it>documents,</it> <it>data</it>  <it>dictionary,</it>  <it>user</it>  <it>acceptance</it>  <it>test,</it>  <it>system</it>  <it>integration</it>  <it>test,</it>  <it>unit</it>  <it>test</it>  dan  <it>training</it>  <it>material.</it>  Seluruh dokumen dibuat untuk ketiga aplikasi.     Kata  kunci:  Oracle  Primavera,  SAP,  <it>Programme</it>  <it>Management</it>  <it>Office,</it>  Proyek  Investasi ketenagalistrikkan  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<pagenum>iii</pagenum>
+		<segment>
+			<bo>1</bo> <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>.....................................................................................................................</bo> <bo>i</bo> <bo>2</bo> <bo>ABSTRAK</bo> <bo>...........................................................................................................</bo> <bo>ii</bo> <bo>3</bo> <bo>DAFTAR</bo> <bo>GAMBAR</bo> <bo>...........................................................................................</bo> <bo>v</bo> <bo>4</bo> <bo>DAFTAR</bo> <bo>TABEL</bo> <bo>..............................................................................................</bo> <bo>vi</bo> <bo>5</bo> <bo>DAFTAR</bo> <bo>LAMPIRAN</bo> <bo>.....................................................................................</bo> <bo>vii</bo> <bo>PENDAHULUAN</bo> <bo>...............................................................................................</bo> <bo>1</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>............................................................................</bo> <bo>1</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>............................................................................................</bo> <bo>1</bo> Profil Tempat Kerja Praktik ................................................................................. 1 Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi ............. 2 7.1.2.1 7.1.2.2 7.1.2.3 <bo>ISI</bo> <bo>.........................................................................................................................</bo> <bo>3</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>............................................................................</bo> <bo>3</bo> Latar Belakang Kerja Praktik ............................................................................... 3 Tinjauan Pustaka .................................................................................................. 4 Software Development Life Cycle .......................................................................... 4 Business Process ..................................................................................................... 6 Cost-Based Scheduling ........................................................................................... 7 Metodologi ........................................................................................................... 7 Teknologi ............................................................................................................. 8 Produk .................................................................................................................. 9 Narasi Proses Bisnis ................................................................................................ 9 Functional Design Documents (FD) ..................................................................... 10 Technical Design Documents (TD) ....................................................................... 10 Unit Test ................................................................................................................ 10 Product/Integration Test ........................................................................................ 10 System Integration Test ......................................................................................... 10 User Acceptance Test (per Modul Aplikasi) ......................................................... 10 7.1.5.1 7.1.5.2 7.1.5.3 7.1.5.4 7.1.5.5 7.1.5.6 7.1.5.7 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+		<pagenum><bo>6</bo></pagenum>
+		<pagenum><bo>7</bo></pagenum>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			User Acceptance Test (Integrasi) .......................................................................... 11 7.1.5.8 Training Material ................................................................................................... 11 7.1.5.9 Lembar Evaluasi .................................................................................................... 11 7.1.5.10 7.1.5.11 Lembar Data .......................................................................................................... 11 7.1.5.12 Buku Latihan ......................................................................................................... 11 7.1.5.13 User Manual .......................................................................................................... 12 <bo>Analisis</bo> <bo>..................................................................................................................</bo> <bo>12</bo> Pelaksanaan Kerja Praktik ................................................................................. 12 Relevansi dengan Perkuliahan di Fasilkom UI .................................................. 13 
+		</segment>
+		<pagenum><bo>8</bo></pagenum>
+		<segment>
+			<bo>PENUTUP</bo> <bo>..........................................................................................................</bo> <bo>15</bo> <bo>Kesimpulan</bo> <bo>...........................................................................................................</bo> <bo>15</bo> <bo>Saran</bo> <bo>......................................................................................................................</bo> <bo>15</bo> <bo>9</bo> <bo>DAFTAR</bo> <bo>REFERENSI</bo> <bo>....................................................................................</bo> <bo>16</bo> <bo>LAMPIRAN</bo> <bo>...................................................................................................</bo> <bo>17</bo> <bo>Lampiran</bo> <bo>KAKP</bo> <bo>......................................................</bo> Error! Bookmark not defined. <bo>Lampiran</bo> <bo>Log</bo> <bo>KP</bo> <bo>....................................................</bo> Error! Bookmark not defined. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+		<pagenum><bo>10</bo></pagenum>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			<bo>3</bo> Figure 1Proses Model Unified ...................................................................................... 5 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			<bo>4</bo> <bo>No</bo> <bo>table</bo> <bo>of</bo> <bo>figures</bo> <bo>entries</bo> <bo>found.</bo> 
+		</segment>
+		<pagenum>vi</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum><bo>5</bo></pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<segment>
+			Lampiran 1 KAKP ...................................................................................................... 17 Lampiran 2 Log KP .................................................................................................... 18 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum><bo>6</bo></pagenum>
+		<title><bo>PENDAHULUAN</bo></title>
+		<segment>
+			 <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			Pada bulan Januari 2016, menyambut semester genap 2015/2016, penulis mempersiapkan pencarian tempat kerja praktik. Melihat senior-senior sebelumnya banyak yang mendaftar dan melakukan kerja praktik di PT. Accenture Indonesia, penulis tertarik dan mendaftar melalui email kepada <it>campus</it> <it>recruiter</it> PT. Accenture Indonesia berdasarkan list perekrut yang dimiliki dari tahun ke tahun. Pada bulan April 2016, <it>campus</it> <it>recruiter</it> PT. Accenture Indonesia mengirimkan email balasan kepada penulis dan melakukan HR Interview pada hari yang bersamaan selama 50 menit. <it>HR</it> <it>Interview</it> dilakukan dengan bahasa inggris dan membahas mengenai CV penulis, motivasi dan kesanggupan penulis. Pada bulan Mei 2016, penulis kembali menerima email dari <it>campus</it> <it>recruiter,</it> lalu penulis diharapkan untuk datang ke kantor pusat dan melakukan <it>user</it> <it>interview</it> dengan calon penyelia. <it>User</it> <it>Interview</it> dilakukan selama kurang lebih 75 menit. Dua minggu setelah <it>User</it> <it>Interview,</it> penulis menerima <it>email</it> <it>offer</it> <it>letter</it> dan kontrak. Selain PT. Accenture Indonesia, penulis juga melamar ke <it>PricehouseWaterCooper,</it> <it>Ernst</it> <it>and</it> <it>Young,</it> <it>GDP</it> <it>Ventures</it> dan <it>Deloitte</it> Indonesia.  <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo>  Profil Tempat Kerja Praktik Accenture adalah perusahaan global di dunia yang menawarkan jasa profesional terkemuka di bidang layanan konsultan manajemen, teknologi, dan outsourcing. Perusahaan ini memiliki lebih dari 300.000 pegawai dengan kantor yang beroperasi di lebih dari 200 kota dan 56 negara, dan memiliki pendapatan bersih sekitar $30 milyar untuk tahun fiskal 2014 [1]. Accenture memiliki lima <it>growth</it> <it>platforms</it> yang terdiri atas [1]: <it>1.</it> <it>Accenture</it> <it>Strategy</it> <it>2.</it> <it>Accenture</it> <it>Consultancy</it> <it>3.</it> <it>Accenture</it> <it>Digital</it> <it>4.</it> <it>Accenture</it> <it>Technology</it> <it>5.</it> <it>Accenture</it> <it>Operations</it> Kelima <it>growth</it> <it>platform</it> tersebut merupakan inovasi yang dibuat untuk memenuhi kemampuan dan kapabilitas, membangun pengetahuan yang luas, dan sebagai akses terpusat terhadap pengembangan dari layanan terintegrasi dan solusi untuk klien [1]. Accenture membantu organisasi untuk menganalisis bagaimana cara mereka agar bisa meningkat performa dan kerja untuk mencapai visi organisasi atau perusahaan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Accenture membangun dan mengimplementasikan teknologi untuk meningkatkan produktivitas dan efisiensi pekerjaan. Saat ini, Accenture memiliki klien yang berasal dari beberapa sektor industri, yaitu: <it>1.</it> <it>Communications,</it> <it>Media</it> <it>and</it> <it>Technology</it> <it>2.</it> <it>Financial</it> <it>Services</it> <it>3.</it> <it>Products</it> <it>4.</it> <it>Resources</it> <it>5.</it> <it>Health</it> <it>and</it> <it>Public</it> <it>Services</it> Accenture memiliki <it>tagline</it> “<it>High</it>  <it>Performance,</it>  <it>Delivered”</it>  yang  memiliki  tujuan  untuk  mencapai  hasil  yang  maksimal  yang  berguna  membantu  klien  mencapai  performa yang tinggi sehingga mereka bisa menjaga nilai mereka terhadap klien dan  stakeholders.  Strategi  ini  berfokus  untuk  membantu  klienuntuk  meningkatkan  performa operasional, produk dan layanan secara efektif dan efisien. Accenture telah  mejadi  konsultan  untuk  PT.  X  selama  beberapa  tahun  belakangan.  Ada  beberapa  proyek  yang  sedang  berjalan,  salah  satunya  adalah  Pembangunan  Integrasi  Monitoring Pengendalian Jadwal dam Biaya (PIM-PJB). Terdapat banyak divisi yang  disiapkan Accenture untuk menangani proyek ini. Salah satunya adalah <it>WorkStream</it>  <it>Business</it>  <it>Process</it>  dan  WorkStream  Sistem  Aplikasi  <it>Dashboard.</it>  <it>WorkStream</it>  <it>Business</it>  <it>Process</it>  menganalisis  proses  bisnis  PT.  X  secara  khusus  mengenai  pembangunan  terintegrasi  dan  memperbaikinya  untuk  di  jadikan  sebuah  aplikasi  bernama  <it>Programme</it>  <it>Management</it>  <it>Office</it>  (PMO)  yang  terintegrasi  dengan  Oracle  Primavera dan SAP ERP. Divisi Sistem Aplikasi <it>Dashboard</it> melakukan pembuatan  aplikasi terintegrasi tersebut hingga Go-Live!   Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi Workstream yang dijalani oleh Pelaksana KP adalah Programme Management dengan bagian Project Management Office (PMO), ini yang dimaksud dengan WorkStream Sistem Aplikasi Dashboard, Oracle Primavera dan SAP ERP module MM. Pada proyek ini, WorkStream Business Process dan WorkStream PMO, Oracle Primavera dan SAP ERP module MM terdiri atas pihak Accenture dan PT X. Accenture dan PT X memiliki masing-masing anggota tim. Pelaksana KP bertindak sebagai tim di dalam WorkStream Business Process dan PMO sehingga pekerjaan yang diberikan sebagian untuk WorkStream Business Process dan ada mengikuti WorkStream PMO, Oracle Primavera dan SAP ERP module MM yang telah berjalan pada proyek ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum><bo>7</bo></pagenum>
+		<title><bo>ISI</bo></title>
+		<pagenum>3</pagenum>
+		<segment>
+			 <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo>  Latar Belakang Kerja Praktik Accenture Indonesia memiliki klien yang bergerak dibidang ketenagalistrikan, yang selanjutnya disebut PT. X. PT. X merupakan Badan Usaha Milik Negara (BUMN) yang memiliki obyektif mengelektrifikasi seluruh Indonesia. Selama beberapa tahun belakangan Accenture Indonesia sudah banyak membantu PT. X untuk membangun solusi bisnis untuk PT. X dari bidang manajemen, organisasi hingga teknologi. Selama itu pula, beberapa proyek sudah dikerjakan termasuk pembangunan <it>Programme</it> <it>Management</it> <it>Office</it> (PMO) sebagai sistem aplikasi <it>dashboard</it> yang digunakan untuk pelaporan ke eksekutif PT. X hingga Presiden Republik Indonesia termasuk didalamnya Kementerian Energi dan Sumberdaya Mineral. Selain aplikasi PMO, sudah dibangun juga SAP ERP untuk modul FICO dan MM selama lima fase. Presiden Republik Indonesia, Bapak Joko Widodo, mencanangkan proyek 35 GW untuk mengelektrifikasi Indonesia. Proyek ini memiliki banyak kendala yang akan membuat program ini terhambat, seperti program yang berjalan sebelumnya FTP-1 dan FTP-2 yang digagas oleh Mantan Presiden RI, Bapak Susilo Bambang Yudhoyono. Belajar dari kesalahan-kesalahan sebelumnya, waktu dan kondisi program 35 GW ini, Accenture Indonesia mencoba andil dan membantu mencarikan solusi terutama pada masalah miskordinasi antara kantor pusat dan Unit Induk Proyek PT. X. Terlebih miskomunikasi PT. X sendiri dengan kontraktor atau <it>Independent</it> <it>Power</it> <it>Producer</it> (IPP)<it>.</it> Diharapkan dengan adanya aplikasi ini, hubungan antara PT. X dengan kontraktor atau IPP dapat berjalan lancar. Terlebih bentuk komunikasi yang diperlukan adalah dalam bentuk progress dan hambatan secara rinci. Diharapkan juga dari aplikasi ini, apabila terdapat hambatan, kantor pusat atau unit yang bersangkutan dapat langsung tanggap sehingga tidak menghambat berjalannya proyek. Sehingga secara keseluruhan proyek dapat terselesaikan dan program dapat dinyatakan sukses. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			Proyek ini dinamakan Pembangunan Integrasi <it>Monitoring</it> Pengendalian Jadwal dan Biaya (PIM-PJB). Merupakan proyek yang mengintegrasikan tiga aplikasi yaitu <it>Programme</it> <it>Management</it> <it>Office</it> (PMO) sebagai aplikasi dashboard, SAP ERP sebagai aplikasi pengendalian biaya dan Oracle Primavera sebagai aplikasi pengendalian jadwal. Proyek ini sudah berjalan sejak September 2015 dan akan berakhir pada November 2016 yang akan dilanjutkan dengan <it>support.</it>  Tinjauan Pustaka Selama 3,5 bulan penulis melaksanakan kerja praktik sebagai Technology Consulting Analyst, penulis membantu membuat <it>deliverables</it> selama satu periode <it>Software</it> <it>Development</it> <it>Life</it> <it>Cycle</it> (SDLC). Dari membantu dari sisi bisnis proses juga sisi aplikasi dan <it>change</it> <it>management.</it> <it><bo>7.1.2.1</bo></it> <it><bo>Software</bo></it> <it><bo>Development</bo></it> <it><bo>Life</bo></it> <it><bo>Cycle</bo></it> Terdapat dua teori mengenai Proses SDLC yang dikemukakan oleh Dennis dan Pressman. Menurut Dennis, ada 4 Framework proses generik yaitu <it>Planning,</it> <it>Analysis,</it> <it>Design,</it> <it>Implementation[1].</it> Sementara menurut Pressman, terdapat 5 tahapan proses yaitu <it>Communication,</it> <it>Plan,</it> <it>Modeling,</it> <it>Construction,</it> <it>Deployment[2].</it> Terdapat beberapa proses <it>flow</it> yang digunakan diantaranya linear, iteratif, parallel, dan evolutioner. Selain proses <it>flow,</it> terdapat pula proses model. Proses model yang biasa digunakan terbagi dua, yaitu preskriptif dan <it>agile.</it> Proses model preskriptif terdiri atas <it>waterfall,</it> <it>incremental,</it> <it>prototyping,</it> <it>spiral</it> dan <it>unified.</it> Sementara proses model <it>agile</it> terdiri atas <it>Extreme</it> <it>Programming</it> dan <it>Scrum.</it> Proses model preskriptif <it>Unified</it> , memiliki tingkat fleksibilitas tinggi. Bisa di bangun sesuai kebutuhan. Proses model ini memiliki karakteristik berdasarkan requirement, bisa menggunakan proses flow iterative dan incremental, arsitektur- sentrik Prosesnya digambarkan seperti gambar di bawah. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			Terdapat lima fase yang dijelaskan sebagai berikut <it>Figure</it> <it>1Proses</it> <it>Model</it> <it>Unified</it> <it>1.</it> <it>Inception</it> Fase ini memiliki tujuan untuk menemukan kasus bisnis untuk digunakan dalam pengembangan. Aktivitas yang terjadi adalah <it>communication</it> dan <it>planning.</it> <it>Communication</it> dilakukan untuk menemukan requirement dan membuat arsitektur dasar. Sementara <it>planning,</it> memberikan gambaran untuk proyek iterative/incremental. <it>2.</it> <it>Elaboration</it> Fase ini memiliki tujuan untuk mengerti masalah, domain, memastikan framework, membuat rencana proyek dan mencari risiko proyek. Aktivitas yang terjadi adalah <it>planning</it> dan <it>modelling.</it> <it>Planning,</it> menentukan <it>scope,</it> resiko, tanggal <it>deliverables</it> dan perjanjian. Sementara <it>modeling,</it> adalah membuat <it>use-case</it> berdasarkan informasi yang didapatkan pada saat <it>communication</it> dan <it>planning.</it> Setelah itu membangun dokumentasi <it>functional</it> <it>documents</it> dan <it>technical</it> <it>documents.</it> <it>3.</it> <it>Construction</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			ini memiliki Fase ini memiliki tujuan untuk membangun <it>software</it> <it>system</it> dan dokumentasi. Pada fase ini ada dua hal penting yang dilakukan yaitu Code Generation dan Testing. <it>4.</it> <it>Transition</it> tujuan untuk memiliki <it>software</it> <it>system</it> yang Fase lingkungan terdokumentasi dan berjalan Masih terdapat aktivitas <it>Construction,</it> dilanjutkan operasionalnya. dengan aktivitas <it>Deployment.</it> <it>Construction</it> yang dilakukan berupa beta</it> <it>testing</it> dan <it>deployment</it> yang dilakukan adalah membuat informasi yang dapat membantu pengguna dalam menjalankan program. <it>5.</it> <it>Production</it> sesuai kebutuhan di Pada saat fase modeling, terdapat dua modeling yang terjadi yaitu analysis model dan design model. Analysis Model menghasilkan <it>usecase</it> <it>diagram,</it> <it>usecase</it> <it>specification,</it> <it>activity</it> <it>diagram</it> dan <it>analysis</it> <it>class</it> <it>diagram</it> dari hasil ini dapat menghasilkan <it>Functional</it> <it>Document.</it> Sementara <it>Design</it> <it>Model</it> menghasilkan <it>design</it> <it>class</it> <it>diagram</it> dan <it>sequence</it> <it>diagram</it> juga <it>usecase</it> <it>realization</it> <it>specification</it> dapat menghasilkan <it>Technical</it> <it>Document.</it> Untuk <it>testing,</it> harus dilakukan sesuai keadaan, lingkungan pengerjaan dan perjanjian. Ada beberapa macam testing, yaitu <it>Unit</it> <it>Test,</it> <it>User</it> <it>Acceptance</it> <it>Test,</it> <it>System</it> <it>Integration</it> <it>Test,</it> <it>Product</it> <it>Test,</it> <it>Security</it> <it>Test,</it> <it>Performance</it> <it>Test</it> dan masih banyak testing</it> lainnya. <it>Testing</it> berguna untuk mengetahui kelemahan dan memperbaikinya. <it><bo>7.1.2.2</bo></it> <it><bo>Business</bo></it> <it><bo>Process</bo></it> Daur hidup suatu proses bisnis bermula dari rancangan awal yang kemudian dalam perjalanannya perlu diperbaiki setelah menemui beberapa kendala dan dievaluasi. BPMN adalah singkatan dari <it>Business</it> <it>Process</it> <it>Modeling</it> <it>Notation</it> yaitu suatu metodologi yang dikembangkan oleh <it>Business</it> <it>Process</it> <it>Modeling</it> <it>Initiative</it> sebagai suatu standar baru pemodelan proses bisnis dan juga sebagai alat desain pada sistem yang kompleks. Salah satu kelebihan diagram BPMN adalah kemampuan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			memodelkan aliran pesan. Diagram bisnis proses tradisional mampu memodelkan aliran proses secara sekuensial, dari kejadian awal sampai hasil akhir. BPMN mengambil pendekatan yang berorientasi proses untuk pemodelan sistem. Mana BPMN memiliki fokus pada proses bisnis, UML memiliki fokus pada desain perangkat lunak dan notasi karena keduanya tidak terlalu berbeda tetapi pandangan yang berbeda tentang sistem. BPMN memiliki target <it>high</it> <it>level</it> <it>for</it> <it>business</it> <it>user</it> dan bisa juga menjadi lower level for process implementers. Para pengguna bisnis harus dapat dengan mudah membaca dan memahami BPMN diagram proses bisnis. Proses pelaksana harus dapat menghiasi diagram proses bisnis dengan lebih detail dalam rangka untuk mewakili proses dalam pelaksanaan fisik. BPMN ini menggunakan leveling dari proses bisnis paling sederhana secara general ke proses yang paling spesifik. Banyaknya level yang digunakan bergantung kepada kerumitan proses bisnis organisasi. <it><bo>7.1.2.3</bo></it> <it><bo>Cost-Based</bo></it> <it><bo>Scheduling</bo></it> Cost-based scheduling merupakan Algoritma yang dibagun untuk mengurangi cost saat implementasi dan beradaptasi dengan keterlambatan dan mempermudah <it>re-</it> <it>schedule</it> agar ekspektasi dapat dicapai[8].  Metodologi Metodologi yang digunakan selama melaksanakan kerja praktik terdapat pada SDLC dan Proses Bisnis. Namun secara kesuluruhan proyek ini mengacu kepada <it>Cost-</it> <it>Based</it> <it>Scheduling,</it> dimana progress kerja dihitung dari berapa persen <it>cost</it> yang harus dibayarkan setiap periode. Pada SDLC metodologi yang digunakan adalah proses model <it>Unified</it> <it>Process</it> secara iteratif. Selain proses model yang digunakan, juga metodologi <it>testing</it> yang digunakan adalah <it>System</it> <it>Integration</it> <it>Test,</it> <it>Unit</it> <it>Test</it> dan <it>User</it> <it>Acceptance</it> <it>Test</it> untuk masing-masing aplikasi dan aplikasi secara integrasi. Penulis menyiapkan seluruh bukti yang diberikan kepada PT. X berdasarkan metodologi diatas. Sementara dari sisi proses bisnis, metodologi yang digunakan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			bukanlah seperti yang biasa digunakan yaitu <it>UML</it> <it>diagram</it> namun memakai standarisasi BPMN.  Teknologi Teknologi SAP ERP yang dikonfigurasi, <it>Share</it> <it>Point</it> dan Oracle Primavera adalah hal baru bagi penulis. Dalam membuat beberapa deliverables, penulis banyak mempelajari teknologi ini agar dapat menuliskannya pada dokumen. SAP ERP [6] adalah aplikasi business-management yang terintegrasi yang digunakan untuk mengumpulkan data, menyimpannya dan memprosesnya, aplikasi ini dikembangkan oleh SAP. SAP ERP memiliki tujuan untuk •  Meningkatkan  daya  saing  dengan  proses  bisnis  yang  terintegrasi,  cepat,  dan  fleksibel  •  Mempercepat  waktu  ke  pasar  dengan  inovatif,  produk  dan  jasa  individual  •  Menyederhanakan  struktur  perusahaan,  saluran  pasar,  dan  manajemen  skenario  bisnis  •  Meningkatkan  sumber  daya  perusahaan  dan  pemanfaatan  aset  -  untuk  kepuasan  pelanggan  besar  •  Mengandalkan  dasar  konsolidasi  untuk  terbaru  mobile,  cloud,  dan  in-memory  teknologi  lebih yang Kapabilitas fungsional SAP ERP adalah <it>procure</it> <it>to</it> <it>pay,</it> <it>plan</it> <it>to</it> <it>product,</it> <it>order</it> <it>to</it> <it>cash,</it> <it>request</it> <it>to</it> <it>service,</it> <it>HR</it> dan <it>Finance.</it> Sementara kapabilitas teknikalnya adalah aplikasi, <it>cloud,</it> <it>mobile,</it> analisis, basis data, dan bahasa. Untuk melakukan konfigurasi SAP ERP menggunakan bahasa ABAP. <it>SharePoint[7]</it> adalah sebuah platform sistem manajemen dokumen berbasis web yang diciptakan oleh Microsoft Corporation. Organisasi menggunakan <it>SharePoint</it> untuk membuat situs web. Anda bisa menggunakannya sebagai sebagai tempat yang aman untuk menyimpan, menata, berbagi dan mengakses informasi dari hampir semua perangkat. <it>SharePoint</it> bisa merujuk pada satu atau beberapa produk atau teknologi SharePoint, termasuk beberapa dibawah ini: 1. SharePoint Online 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			Layanan berbasis awan, dihosting oleh Microsoft, untuk bisnis dari semua ukuran. Alih-alih menginstal dan menjalankan SharePoint Server lokal, bisnis bisa berlangganan ke paket Office 365. 2. SharePoint Server Organisasi bisa menggunakan dan mengelola SharePoint Server lokal. Fitur lainnya adalah konten perusahaan, kecerdasan Bisnis, pencarian perusahaan, situs pribadi, dan umpan berita. 3. SharePoint Foundation SharePoint Foundation digunakan untuk membuat berbagai tipe situs tempat Anda bisa berkolaborasi pada halaman web, dokumen, daftar, kalender, dan data. Oracle Primavera adalah perangkat lunak <it>enterprise</it> <it>project</it> <it>portfolio</it> <it>management.</it> Termasuk didalamnya manajemen proyek, manajemen produk, kolaborasi dan kemampuan kontrol dan terintegrasi dengan perangkat lunak perusahaan lain seperti Oracle dan SAP ERP[9]. Tujuan aplikasi Primavera (P6) ini adalah menyeimbangkan kapasitas sumberdaya, membangun rencana, jadwal, dan kontrol proyek yang kompleks, mengalokasikan sumber daya terbaik dan melacak kemajuan, memonitor dan memvisualisasikan kinerja proyek terhadap rencana dan melakukan <it>what-if</it> analisis dan menganalisis rencana proyek alternatif[10].  Produk Produk yang dihasilkan selama melaksanakan kerja praktik berupa dokumen dari fase <it>modeling</it> hingga <it>deployment.</it> <it><bo>7.1.5.1</bo></it> <it><bo>Narasi</bo></it> <it><bo>Proses</bo></it> <it><bo>Bisnis</bo></it> Proses bisnis yang digunakan untuk mengembangkan aplikasi dibuat dengan 2 level yaitu level 3 dan 4. Setelah itu dinarasikan untuk dijadikan buku pedoman. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			<it><bo>7.1.5.2</bo></it> <it><bo>Functional</bo></it> <it><bo>Design</bo></it> <it><bo>Documents</bo></it> <it><bo>(FD)</bo></it> Dokumen ini terdapat pada fase elaborasi. Dokumen ini akan mencakup solusi desain fungsional yang tidak terbatas, <it>screen</it> <it>design,</it> deskripsi fungsi, table data, store procedure atau desain query, dan validasi kesalahan.Yang dituliskan pada FD adalah <it>Use</it> <it>Case</it> <it>Diagram,</it> <it>Use</it> <it>Case</it> <it>Specification,</it> <it>Desain</it> <it>Interfaces/Mock-up,</it> rancangan basis data validasi, ERD dan <it>Analysis</it> <it>Class</it> <it>Diagram.</it> <it><bo>7.1.5.3</bo></it> <it><bo>Technical</bo></it> <it><bo>Design</bo></it> <it><bo>Documents</bo></it> <it><bo>(TD)</bo></it> Dokumen ini terdapat pada fase <it>modeling.</it> Dokumen ini akan mencakup <it>user</it> <it>story,</it> <it>Use</it> <it>Case</it> <it>Realization</it> <it>Specification,</it> <it>Sequence</it> <it>Diagram,</it> <it>ER</it> <it>Diagram,</it> Analisis CRUD, realisasi UI, <it>Control</it> <it>Action</it> <it>Response</it> Diagram, <it>Design</it> <it>Class</it> <it>Diagram,</it> <it>Site</it> <it>Map</it> dan validasi kontrol. <it><bo>7.1.5.4</bo></it> <it><bo>Unit</bo></it> <it><bo>Test</bo></it> Dokumen yang dibangun berdasarkan keputusan keperluan <it>testing</it> berdasarkan <it>test</it> <it>plan.</it> Dokumen ini digunakan untuk menguji bagian kecil/area spesifik dari suatu fungsionalitas dari kode yang akan ditest. <it><bo>7.1.5.5</bo></it> <it><bo>Product/Integration</bo></it> <it><bo>Test</bo></it> Dokumen yang dibangun berdasarkan keputusan keperluan <it>testing</it> berdasarkan <it>test</it> <it>plan.</it> Dokumen ini digunakan untuk menguji bagian kecil/area spesifik dari suatu fungsionalitas apakah sudah sinkron dengan bagian kecil/area spesifik lainnya dari kode yang akan ditest. <it><bo>7.1.5.6</bo></it> <it><bo>System</bo></it> <it><bo>Integration</bo></it> <it><bo>Test</bo></it> Dokumen yang dibangun berdasarkan keputusan keperluan <it>testing</it> berdasarkan <it>test</it> <it>plan.</it> Dokumen ini digunakan untuk menguji keselarasan aplikasi yang diintegrasi. <it><bo>7.1.5.7</bo></it> <it><bo>User</bo></it> <it><bo>Acceptance</bo></it> <it><bo>Test</bo></it> <it><bo>(per</bo></it> <it><bo>Modul</bo></it> <it><bo>Aplikasi)</bo></it> Dokumen yang dibangun berdasarkan keputusan keperluan <it>testing</it> berdasarkan <it>test</it> <it>plan.</it> Dokumen yang digunakan selama suatu proses pengujian oleh pengguna yang dimaksudkan untuk menghasilkan dokumen yang dijadikan bukti bahwa software yang telah dikembangkan telah dapat diterima oleh pengguna, apabila hasil pengujian 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			(testing) sudah bisa dianggap memenuhi kebutuhan dari pengguna. Pada dokumen ini tes yang dilakukan hanya per aplikasi. <it><bo>7.1.5.8</bo></it> <it><bo>User</bo></it> <it><bo>Acceptance</bo></it> <it><bo>Test</bo></it> <it><bo>(Integrasi)</bo></it> Dokumen yang dibangun berdasarkan keputusan keperluan <it>testing</it> berdasarkan <it>test</it> <it>plan.</it> Dokumen yang digunakan selama suatu proses pengujian oleh pengguna yang dimaksudkan untuk menghasilkan dokumen yang dijadikan bukti bahwa software yang telah dikembangkan telah dapat diterima oleh pengguna, apabila hasil pengujian (testing) sudah bisa dianggap memenuhi kebutuhan dari pengguna. Pada dokumen ini tes yang dilakukan bila dibutuhkan keselarasan antara dua atau lebih aplikasi. <it><bo>7.1.5.9</bo></it> <it><bo>Training</bo></it> <it><bo>Material</bo></it> Dokumen <it>change</it> <it>management</it> yang merupakan materi dalam pelaksanaan <it>training.</it> Dokumen ini berupa presentasi yang menggambarkan tahap-tahap penggunaan aplikasi. <it><bo>7.1.5.10</bo></it> <it><bo>Lembar</bo></it> <it><bo>Evaluasi</bo></it> Dokumen <it>change</it> <it>management</it> yang merupakan evaluasi dalam pelaksanaan <it>training.</it> Dokumen ini berupa soal yang diberikan kepada <it>user</it> ketika melakukan <it>training</it> sebagai salah satu metode untuk membuat <it>user</it> mengerti. <it><bo>7.1.5.11</bo></it> <it><bo>Lembar</bo></it> <it><bo>Data</bo></it> Dokumen <it>change</it> <it>management</it> yang merupakan data dalam pelaksanaan <it>training.</it> Dokumen ini berupa gambaran data yang dapat digunakan ketika lembar evaluasi diberikan kepada <it>user</it> ketika melakukan <it>training</it> sebagai salah satu metode untuk membuat <it>user</it> mengerti. <it><bo>7.1.5.12</bo></it> <it><bo>Buku</bo></it> <it><bo>Latihan</bo></it> Dokumen <it>change</it> <it>management</it> yang merupakan tambahan evaluasi dalam pelaksanaan <it>training.</it> Dokumen ini berupa soal yang lebih <it>advanced</it> diberikan kepada <it>user</it> ketika melakukan <it>training</it> sebagai salah satu metode untuk membuat <it>user</it> mengerti. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<segment>
+			<it><bo>7.1.5.13</bo></it> <it><bo>User</bo></it> <it><bo>Manual</bo></it> 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			Dokumen <it>change</it> <it>management</it> yang merupakan suatu dokumen komunikasi teknis, yang bertujuan memberikan bantuan untuk penggunaan suatu sistem.  <bo>Analisis</bo>  Pelaksanaan Kerja Praktik Dalam pelaksanaanya kerja praktik memiliki banyak ketidaksesuaian dengan rencana yang dituliskan pada kerangka acuan kerja praktik (KAKP). Ketidaksesuaian ini terjadi dikarenakan rencana dan progres proyek tidak selaras dengan rencana yang tertulis di rencana proyek (<it>Project</it> <it>Plan).</it> Penulis dan penyelia sebelumnya mengacu kepada dokumen rencana proyek. Selain perbedaan jadwal di beberapa waktu dengan yang tertulis di KAKP, cakupan pekerjaan juga berubah. Ruang lingkup yang sebelumnya adlah melakukan pembuatan narasi proses bisnis, melakukan SIT dan mempersiapkan dokumen deliverablesnya dan membuat persiapan pelatihan penggunaan aplikasi. Namun, seiring berjalannya waktu, pekerjaan yang diberikan bertambah banyak karena kurangnya tenaga yang dapat dipekerjakan untuk mengerjakan dokumen-dokumen <it>deliverables.</it> Terlebih dokumen-dokumen sebelum penulis datang ternyata belum diselesaikan. Oleh karena itu penulis ditugaskan untuk membantu menuntaskan beberapa dokumen. Dokumen tersebut diantaranya seluruh dokumen testing yang awalnya hanya System Integration Test menjadi Unit Test, Product Test, User Acceptance Test. Dokumen lainnya yang seharusnya sudah diselesaikan dari jauh hari yang akhirnya ditugaskan kepada penulis adalah dokumen fungsional dan teknikal serta kamus data untuk basis data. Kendala terbesar dalam pelaksanaan kerja praktik ini adalah banyaknya dokumen yang harus dibaca agar bisa mengikuti dengan posisi proyek saat itu. Mulai dari mempelajari mengenai perusahaan klien, proses bisnisnya, bagaimana posisi perusahaan klien, kebutuhan apa yang diinginkan klien, <it>terms</it> yang berlaku di perusahaan klien dan juga mempelajara instansi yang berhubungan dengan klien. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			Kendala lain adalah terdapat tiga aplikasi yang harus dipelajari fungsionalnya, sehingga harus banyak membaca artikel atau dokumentasi aplikasi juga bertanya kepada rekan kerja untuk mengerti aplikasi, terlebih integrasinya serta bentuk keselarasannya. Selain itu, banyaknya pekerjaan tambahan yang diberikan meskipun adalah hal yang baik menurut penulis karena penulis jadi belajar banyak sehingga penulis terkendala untuk pulang tepat waktu, penulis sering pulang larut malam dan mengerjakan pekerjaan dirumah karena banyak sekali pekerjaan. Pengalaman kerja praktik di PT. Accenture Indonesia memberikan banyak sekali ilmu bagi penulis. Ilmu dibidang administrasi kepemerintahan, ilmu proses binis dan pengembangannya, ilmu dibidang penggunaan aplikasi dan pengembangan aplikasi tersebut, ilmu mengenai <it>enterprise</it> <it>resource</it> <it>planning</it> yang di konfigurasi, ilmu mengenai <it>cost-based</it> <it>scheduling</it> dan ilmu manajemen proyek.  Relevansi dengan Perkuliahan di Fasilkom UI Hampir seluruh pekerjaan yang dilakukan penulis selama kerja praktik memiliki relevansi tinggi dengan pengetahuan yang dipelajari pada perkuliahan di Fasilkom UI. Dengan mata kuliah Rekayasa Perangkat Lunak (RPL) dan Proyek Pengembangan Sistem Informasi (Propensi), banyak relevansi yang ditemukan penulis terhadap materi perkuliahan tersebut. Relevansi yang dimaksud adalah pengembangan sistem informasi, tahapannya, dokumen yang harus disiapkan, konten isi dokumen tersebut. Terutama pada dokumen fungsional, teknikal, <it>testing.</it> Selama pengerjaan dokumen, penulis sangat terbantu karena penulis dapat mengerjakan pekerjaan dengan mudah untuk membuat <it>Use</it> <it>Case</it> <it>Diagram,</it> <it>Use</it> <it>Case</it> <it>Specification,</it> <it>Desain</it> <it>Interfaces/Mock-</it> <it>up,</it> rancangan basis data validasi, ERD dan <it>Analysis</it> <it>Class</it> <it>Diagram</it> pada FD. Selain itu pada TD, penulis dapat membuat <it>user</it> <it>story,</it> <it>Use</it> <it>Case</it> <it>Realization</it> <it>Specification,</it> <it>Sequence</it> <it>Diagram,</it> <it>ER</it> <it>Diagram,</it> Analisis CRUD, realisasi UI, <it>Control</it> <it>Action</it> <it>Response</it> Diagram, <it>Design</it> <it>Class</it> <it>Diagram,</it> <it>Site</it> <it>Map</it> dan validasi kontrol berdasarkan mata kuliah tersebut. Untuk testing, ketiga dokumen terse but sudah diajarkan pada mata kuliah propensi terutama sehingga penulis sudah terbiasa dan dapat mengerjakannya dengan mudah. Dengan mata kuliah Prinsip-prinsip manajemen dan Administrasi Bisnis juga memiliki relevansi terutama bagaimana PT. Accenture menerapkan pengembangan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			bisnis perusahaan klien berdasarkan hirarki dan dokumen legal perusahaan dan putusan-putusan eksekutif. Dengan mata kuliah <it>Enterprise</it> <it>Resource</it> <it>Planning</it> dan Konfigurasi ERP, pembelajaran mengenai proses bisnis perusahaan juga dibahas ditambah bagaimana pengaplikasiannya pada aplikasi SAP ERP. Pada masa pengerjaan dokumen untuk konfigurasi SAP ERP, penulis banyak membaca kembali materi perkuliahan untuk mengingatkan kembali ke modul <it>Materials</it> <it>Management</it> yang diggunakan untuk pengaplikasian proses bisnis. Sementara relevansi dengan mata kuliah Sistem Informasi Akuntasnsi adalah pengaplikasian proses bisnis dan SAP ERP dan terms yang digunakan untuk akuntansi pada modul Finance/Controlling pada SAP ERP untuk menuliskan dokumen berdasarkan modul ini. Dengan mata kuliah Basis Data, meskipun hanya sedikit yang dilakukan penulis dibidang basis data hanya memberikan narasi ERD dan menuliskan keterkaitan antar entitas basis data pada kamus data, namun penulis kembali diingatkan dengan pembelajaran ERD dan table-tabel, store procedure dan lain-lain. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<title><bo>8</bo> <bo>PENUTUP</bo></title>
+		<segment>
+			 <bo>Kesimpulan</bo> 
+		</segment>
+		<pagenum>15</pagenum>
+		<segment>
+			PT. Accenture Indonesia, terutama pada bidang konsultasi teknologi memiliki relevansi tinggi dengan pembelajaran mahasiswa Sistem Informasi Fakultas Ilmu Komputer. Penulis mendapatkan pemahaman yang lebih baik setelah melakukan pengaplikasian di dunia nyata. PT Accenture Indonesia juga memberikan penulis wawasan tambahan diluar pekerjaan kerja praktik mengenai menghadapi klien, menjual produk dan mengatasi berbagai masalah yang mungkin terjadi pada proyek. Selain itu proses sosialisasi dan pembelajaran internal juga banyak didapatkan oleh penulis.  <bo>Saran</bo> Penulis menyarankan agar kedepannya mahasiswa yang ingin melakukan kerja praktik sudah menyiapkan rencana B pada KAKP bila terjadi perbedaan di kemudian hari sudah dapat diprediksi. Universitas Indonesia, terlebih Fakultas Ilmu Komputer disarankan memberikan bantuan untuk mahasiswa kerja praktik dalam pencarian kerja praktik yang sesuai dengan yang diminta fakultas sehingga tidak ada miskomunikasi antara mahasiswa dan dosen yang menyebabkan kesalahan-kesalahan dikemudian hari. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<segment>
+			Pressman, Roger S., Software Engineering: A Practitioner's Approach, 7th Owen, Martin, Jog Raj. (2004). BPMN and Business Process Management. Dennis, Alan, et. al., System Analysis and Design with UML 3rd Edition, John <bo>9</bo> <bo>DAFTAR</bo> <bo>REFERENSI</bo> Wiley &amp; Sons, 2010 Edition, Mc. Graw Hill International, USA, 2010. http://www.bptrends.com/bpt/wp-content/publicationfiles/03- 04%20WP%20BPMN%20and%20BPM%20Owen-Raj.pdf. Retrieved 20 September 2016. Be Described in BPEL, so It Is Possible to Represent Processes in BPMN That Cannot Be Mapped to BPEL. There Are a Few Concepts, Such as Ad-Hoc Sub- proceses, That BPMN Can Represent Th. "Object Management GroupBusiness Process Model and Notation." <it>BPMN</it> <it>Specification.</it> N.p., n.d. Web. 02 Oct. 2016. By Design There Are Some Limitations on the Process Topologies That Can  11 July 2016. Web. 21 Sept. 2016. "All About BPMN: Business Process Modeling Notation." <it>Lucidchart.</it> N.p., "ERP System | Enterprise Resource Planning | SAP." <it>SAP.</it> N.p., n.d. Web. 21  Sept. 2016. "Apakah SharePoint Itu?" <it>-</it> <it>Dukungan</it> <it>Office.</it> N.p., n.d. Web. 21 Sept. 2016. Benkner, I. Brandic, G. Engelbrecht and R. Schmidt, "VGE - A Service- Oriented Grid Environment for On-Demand Supercomputing", <it>the</it> <it>Fifth</it> <it>IEEE/ACM</it> <it>International</it> <it>Workshop</it> <it>on</it> <it>Grid</it> <it>Computing</it> <it>(Grid</it> <it>2004),</it> 2004.  "Oracle’s Primavera P6 Professional Project Management." <it>Primavera</it> <it>P6</it>  <it>Professional</it> <it>Project</it> <it>Management.</it> N.p., n.d. Web. 06 Oct. 2016. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<segment>
+			<bo>10</bo> <bo>LAMPIRAN</bo> <it>Lampiran</it> <it>1</it> <it>KAKP</it> 
+		</segment>
+		<pagenum>17</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<segment>
+			<bo>Kerangka</bo> <bo>Acuan</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> Grietha Andina Putri 1306396832 Sistem Informasi griethaandina@gmail.com/08118814041 <bo>1.</bo> <bo>Judul</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>:</bo> <bo>Pengembangan</bo> <bo>Proses</bo> <bo>Bisnis</bo> <bo>Proyek</bo> <bo>Investasi</bo> <bo>Ketenagalistrikan</bo> <bo>dan</bo> <bo>Pengintegrasian</bo> <bo>Aplikasi</bo> <it><bo>Program</bo></it> <it><bo>Management</bo></it> <it><bo>Office,</bo></it> <bo>SAP</bo> <bo>ERP</bo> <bo>dan</bo> <bo>Oracle</bo> <bo>Primavera</bo> Tempat Kerja Praktik Nama Perusahaan: PT. Accenture Alamat: Jl. Jend Sudirman Kav 1 Karet Tengsin Tanah Abang Jakarta Pusat DKI Jakarta Telepon/Fax: (021) 5746575 Website: https://www.accenture.com/id-en Waktu Pelaksanaan KP Periode : 1 Juni 2016 – 16 September 2016  Hari dan Jam Kerja : Senin-Jumat, 08.00 – 10.00  Penyelia Kerja Praktik Nama : Carolus Gendarra Kia Jabatan: <it>Technology</it> <it>Consulting</it> <it>Senior</it> <it>Manager</it> Telepon: +6281381870071 e-mail: carolus.gendarra.kia@accenture.com Deskripsi Tempat KP Accenture adalah perusahaan global di dunia yang menawarkan jasa profesional terkemuka di bidang layanan konsultan manajemen, teknologi, dan <it>outsourcing.</it> Perusahaan ini memiliki lebih dari 300.000 pegawai dengan kantor yang beroperasi di lebih dari 200 kota dan 56 negara, dan memiliki pendapatan bersih sekitar $30 milyar untuk tahun fiskal 2014 [1]. Accenture memiliki lima <it>growth</it> <it>platforms</it> yang terdiri atas [1]:   Accenture <it>Strategy</it>     Accenture <it>Consultancy</it>     Accenture <it>Digital</it>     Accenture <it>Technology</it>     Accenture <it>Operations</it>   
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="27">
+		<segment>
+			Kelima <it>growth</it> <it>platform</it> tersebut merupakan inovasi yang dibuat untuk memenuhi kemampuan dan kapabilitas, membangun pengetahuan yang luas, dan sebagai akses terpusat terhadap pengembangan dari layanan terintegrasi dan solusi untuk klien [1]. Accenture membantu organisasi untuk menganalisis bagaimana cara mereka agar bisa meningkat performa dan kerja untuk mencapai visi organisasi atau perusahaan. Accenture membangun dan mengimplementasikan teknologi untuk meningkatkan produktivitas dan efisiensi pekerjaan. Saat ini, Accenture memiliki klien yang berasal dari beberapa sector industry, yaitu:   <it>Communications,</it> <it>Media</it> &amp; <it>Technology</it>     <it>Financial</it> <it>Services</it>    <it>Products</it>    <it>Resources</it>     <it>Health</it> &amp; <it>Public</it> <it>Services</it>   Accenture memiliki <it>tagline</it> “<it>High</it>  <it>Performance,</it>  <it>Delivered”</it>  yang  memiliki  tujuan untuk mencapai hasil yang maksimal yang berguna membantu klien mencapai performa yang tinggi sehingga mereka bisa menjaga nilai mereka terhadap klien dan <it>stakeholders.</it> Strategi ini berfokus untuk membantu klien untuk meningkatkan performa operasional, produk dan layanan secara efektif dan efisien. Accenture telah mejadi konsultan untuk PT. X selama beberapa tahun belakangan. Ada beberapa proyek yang sedang berjalan, salah satunya adalah Pembangunan Integrasi Monitoring Pengendalian Jadwal &amp; Biaya (PIM-PJB). Terdapat banyak divisi yang disiapkan Accenture untuk menangani proyek ini. Salah satunya adalah <it>WorkStream</it> <it>Business</it> <it>Process</it> dan <it>WorkStream</it> Sistem Aplikasi <it>Dashboard.</it> <it>WorkStream</it> <it>Business</it> <it>Process</it> menganalisis proses bisnis PT. X secara khusus mengenai pembangunan terintegrasi dan memperbaikinya untuk di jadikan sebuah aplikasi bernama 
+		</segment>
+		<pagenum>2</pagenum>
+	</page>
+	<page id="28">
+		<segment>
+			<it>Program</it> <it>Management</it> <it>Office</it> (PMO) yang terintegrasi dengan <it>Oracle</it> <it>Primavera</it> dan <it>SAP</it> <it>ERP.</it> Divisi Sistem Aplikasi <it>Dashboard</it> melakukan pembuatan aplikasi terintegrasi tersebut hingga <it>Go-Live!</it> <it>Workstream</it> yang dijalani oleh Pelaksana KP adalah <it>Programme</it> <it>Management</it> dengan bagian <it>Project</it> <it>Management</it> <it>Office</it> (PMO), ini yang dimaksud dengan <it>WorkStream</it> Sistem Aplikasi <it>Dashboard.</it> Pada proyek ini, <it>WorkStream</it> <it>Business</it> <it>Process</it> dan <it>WorkStream</it> PMO terdiri atas pihak Accenture dan PT X. Accenture dan PT X memiliki masing-masing anggota tim. Pelaksana KP bertindak sebagai tim di dalam <it>WorkStream</it> <it>Business</it> <it>Process,</it> PMO dan Integrasi sehingga pekerjaan yang diberikan sebagian untuk <it>WorkStream</it> <it>Business</it> <it>Process</it> dan ada mengikuti <it>WorkStream</it> PMO dan Integrasi yang telah berjalan pada proyek ini. PMO memiliki rutinitas selama 5 hari dalam satu minggu yang akan dijelaskan lebih rinci pada bagian Rencana Jadwal Kerja Praktik. Ruang Lingkup Kerja Selama menjalankan KP, Pelaksana KP akan mengerjakan hal-hal berikut: Praktik   Melakukan  pembuatan  narasi  proses  bisnis  adalah  Pembangunan  Integrasi Monitoring Pengendalian Jadwal &amp; Biaya (PIM-PJB)   Melakukan  testing  kepada  Aplikasi  <it>Program</it>  <it>Management</it>  <it>Office</it>  
+		</segment>
+		<title>(PMO)</title>
+		<segment>
+			  Membuat  persiapan  pelatihan  penggunaan  Aplikasi  <it>Program</it>  <it>Management</it> <it>Office</it> (PMO) <bo>2.</bo> <bo>Rencana</bo> <bo>Jadwal</bo> <bo>Kerja</bo> <bo>Praktik</bo> Tabel 1.1 Rencana Jadwal Kerja Praktik Waktu Rencana Kerja 1 Juni 2016 – 3 Juni 2016  - Mempelajari proses bisnis PT. PLN dan atribut Proyek Investasi - Membuat Laporan KAKP (<it>draft)</it> - Mengerjakan <it>Mandatory</it> <it>Accenture</it> 
+		</segment>
+		<pagenum>3</pagenum>
+	</page>
+	<page id="29">
+		<segment>
+			6 Juni 2016 – 10 Juni 2016   - Menganalisis proses bisnis dan <it>Training</it> <it>Online</it> menarasikan proses bisnis Proyek Investasi Ketenagalistrikan (Inisiasi dan Perencanaan) - Membuat Laporan KAKP - Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian - Melakukan persiapan Presentasi Sharing</it> <it>Session</it> 20 Juni 2016 – 24 Juni 2016  - Menganalisis proses bisnis dan menarasikan proses bisnis Proyek Investasi Ketenagalistrikan (Perencanaan dan Pra Pelaksanaan) - Melakukan Presentasi Sharing</it> <it>Session</it> - Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian 27 Juni 2016 – 4 Juli 2016  - Menganalisis proses bisnis dan 5 Juli 2016 –  12 Juli 2016  13 Juli 2016 –  15 Juli 2016  menarasikan proses bisnis Proyek Investasi Ketenagalistrikan (Pra Pelaksanaan, Pelaksanaan dan Penyelesaian) - Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian Libur Lebaran 2016 - Menganalisis proses bisnis dan menarasikan proses bisnis Proyek Investasi Ketenagalistrikan (Finishing) - Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian - Mempelajari Dokumen <it>Functional</it> <it>Design</it> 18 Juli 2016 –  22 Juli 2016  - Melakukan persiapan <it>testing</it> aplikasi PMO 
+		</segment>
+		<pagenum>4</pagenum>
+	</page>
+	<page id="30">
+		<segment>
+			dan integrasinya dengan Oracle Primavera dan SAP ERP - Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian - Mempelajari Dokumen <it>Functional</it> <it>Design</it> 25 Juli 2016 –  29 Juli 2016  - Melakukan persiapan <it>testing</it> dan <it>testing</it> aplikasi PMO dan integrasinya dengan Oracle Primavera dan SAP ERP - Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian 1 Agustus 2016 – 5 Agustus 2016  - Melakukan <it>testing</it> aplikasi PMO dan integrasinya dengan Oracle Primavera dan 
+		</segment>
+		<title>SAP ERP</title>
+		<segment>
+			- Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian 8 Agustus 2016 – 12 Agustus 2016  - Melakukan <it>testing</it> aplikasi PMO dan integrasinya dengan Oracle Primavera dan 
+		</segment>
+		<title>SAP ERP</title>
+		<segment>
+			- Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian 15 Agustus 2016 – 19 Agustus 2016  - Melakukan <it>testing</it> aplikasi PMO dan integrasinya dengan Oracle Primavera dan 
+		</segment>
+		<title>SAP ERP</title>
+		<segment>
+			- Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian 22 Agustus 2016 – 26 Agustus 2016  - Melakukan Persiapan Training pegawai 
+		</segment>
+		<title>PLN</title>
+		<segment>
+			- Memfinalisasi seluruh dokumen Integrasi untuk <it>deliverable</it> &amp; <it>billing</it> - Membuat Dokumen <it>log</it> Kerja Praktik mingguan dan harian 
+		</segment>
+		<pagenum>5</pagenum>
+	</page>
+	<page id="31">
+	</page>
+	<page id="32">
+		<segment>
+			<it>Lampiran</it> <it>2</it> <it>Log</it> <it>KP</it> 
+		</segment>
+		<pagenum>18</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="33">
+	</page>
+	<page id="34">
+	</page>
+	<page id="35">
+	</page>
+	<page id="36">
+	</page>
+	<page id="37">
+	</page>
+	<page id="38">
+	</page>
+	<page id="39">
+	</page>
+	<page id="40">
+	</page>
+	<page id="41">
+	</page>
+	<page id="42">
+	</page>
+	<page id="43">
+	</page>
+	<page id="44">
+	</page>
+	<page id="45">
+	</page>
+	<page id="46">
+	</page>
+	<page id="47">
+	</page>
+	<page id="48">
+	</page>
+	<page id="49">
+	</page>
+	<page id="50">
+	</page>
+	<page id="51">
+	</page>
+	<page id="52">
+	</page>
+	<page id="53">
+	</page>
+	<page id="54">
+	</page>
+	<page id="55">
+	</page>
+	<page id="56">
+	</page>
+	<page id="57">
+	</page>
+	<page id="58">
+	</page>
+	<page id="59">
+	</page>
+	<page id="60">
+	</page>
+	<page id="61">
+	</page>
+
+</document>

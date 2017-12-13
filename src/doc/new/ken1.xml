@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>SOFTWARE</bo> <bo>ENGINEER</bo> <bo>TIM</bo> <bo>DTB</bo> <bo>(DISCOVERY</bo> <bo>TO</bo> <bo>BUY)</bo></title>
+		<title><bo>BUKALAPAK</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>KEN</bo> <bo>NABILA</bo> <bo>SETYA</bo></title>
+		<segment>
+			<bo>1306413252</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>AGUSTUS</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Ken Nabila Setya : 1306413252 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Software</it> <it>Engineer</it> Tim DTB (<it>Discovery</it> <it>To</it> <it>Buy)</it> Bukalapak <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra)</bo> Ditetapkan di : ……………….  Tanggal : ……………….  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja Praktik (KP) adalah salah satu mata kuliah wajib di Fakultas Ilmu Komputer Universitas Indonesia. Untuk menyelesaikan mata kuliah tersebut, pelaksana KP telah bekerja selama 10 minggu, terhitung 13 Juni – 26 Agustus 2016 di PT. Bukalapak.com.  Pelaksana KP diposisikan sebagai sebagai <it>software</it> <it>engineer</it> <it>intern</it> pada tim <it>Discovery</it> <it>to</it> <it>Buy</it> (DTB), yaitu <it>scrum</it> <it>team</it> yang mengembangkan fitur <it>website</it> PT. Bukalapak.com dari halaman pencarian hingga <it>add</it> <it>to</it> <it>cart.</it> Sebagai <it>software</it> <it>engineer,</it> pelaksana KP diwajibkan memahami bahasa pemrograman, <it>framework,</it> dan <it>tools</it> yang digunakan di PT. Bukalapak.com, seperti Ruby on Rails, SCSS, Haml, Coffeescript, MySQL, MongoDB, Git, dan Github. Tuntutan tersebut lah yang membuat pelaksana KP mendapatkan banyak ilmu dan pengalaman berharaga yang tidak ditemui di perkuliahan. Kata kunci: PT. Bukalapak.com, <it>discovery</it> <it>to</it> <it>buy,</it> kerja praktik, <it>software</it> <it>engineer.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK ................................................................................................................... iii DAFTAR ISI ............................................................................................................... iiii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Profil Tempat Kerja Praktik............................................................................. 3</title>
+		<title>1.2.1. Bidang Inti Bisnis ..................................................................................... 3</title>
+		<title>1.2.2. Struktur Organisasi ................................................................................... 4</title>
+		<title>1.2.3. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 5</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 6 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 6</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 6</title>
+		<title>2.1.2. Tinjauan Pusata ......................................................................................... 7</title>
+		<title>2.1.3. Metodologi ................................................................................................ 7</title>
+		<title>2.1.4. Teknologi .................................................................................................. 9</title>
+		<title>2.1.5. Teknis ...................................................................................................... 10</title>
+		<title>2.1.5. Non Teknis .............................................................................................. 11</title>
+		<segment>
+			BAB 3 ANALISIS .................................................................................................... 144 
+		</segment>
+		<title>3.1.</title>
+		<segment>
+			Pelaksanaan Kerja Praktik ................................................................... 144 
+		</segment>
+		<title>3.2. Ulasan Kesesuaian dan Perbedaan dengan KAKP .............................. 144</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.3. Ulasan Tentang Kendala dan Cara Menanganinya .............................. 145</title>
+		<title>3.4.</title>
+		<segment>
+			Penilaian Individu terhadap Tempat KP ............................................... 146 
+		</segment>
+		<title>3.5. Relevansi dengan Perkuliahan di Fasilkom UI ..................................... 167</title>
+		<segment>
+			BAB 3 PENUTUP .................................................................................................... 188 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................. 188</title>
+		<title>3.2. Saran ............................................................................................................ 188</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 20 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK .................................. viviii LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................. viiix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi PT. Bukalapak.com......................................................4 Gambar 2. Alur Kerja Pelaksana KP.........…...….........................................................9  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Teknologi Dept. <it>Software</it> <it>Engineer</it> PT. Bukalapak.com..............................10 Tabel 2. Rancangan Jadwal KP di KAKP...................................................................14 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksana KP mulai melakukan pencarian lokasi kerja praktik sejak akhir tahun 2015. Mulanya, pelaksana KP membuat daftar perusahaan yang diinginkan sebagai tempat kerja praktik. Daftar tersebut dibuat berdasarkan hasil perbincangan pelaksana KP dengan beberapa senior dan alumni Fasilkom mengenai pengalaman kerja dan KP mereka. Daftar tempat KP juga dibuat berdasarkan hasil pencarian dari Forum KP-SP- TA di Scele dan berkas daftar lokasi KP mahasiswa Fasilkom tahun 2015 dan 2014. Pelaksana KP mencari perusahaan yang benar-benar bergerak di bidang TI yang berlokasi di Jakarta (terutama yang mudah dijangkau dari Depok). Tempat kerja tersebut juga diharapkan dapat mengembangkan potensi pelaksana KP yang berminat menjadi <it>software</it> <it>engineer.</it> Daftar calon perusahaan yang sesuai dengan kriteria tersebut diantaranya PT. Bukalapak.com, PT. Samsung Indonesia, Telkomsel, Traveloka, Suitmedia, dan Kudo. Diantara sederet perusahaan tersebut, pelaksana KP paling menginginkan bekerja di PT. Bukalapak.com. Berdasarkan keinginan pelaksana KP, PT. Bukalapak.com menjadi tempat kerja pertama yang dilamar. Tentu saja ada alasan mengapa pelaksana KP menginginkan sekali bekerja di sana. Pelaksana KP mengenal beberapa senior yang merupakan pegawai tetap di PT. Bukalapak.com atau pun yang pernah melakukan kerja praktik di sana. Berdasarkan cerita mereka, pelaksana KP menyimpulkan bahwa PT. Bukalapak.com adalah tempat yang ideal baginya untuk bekerja. Selain itu, pelaksana KP tahu betul bahwa PT. Bukalapak.com mengembangkan sebuah produk yang digunakan banyak orang, sehingga akan menjadi suatu tantangan baginya apabila bisa ikut mengembangkan produk PT. Bukalapak.com. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			Berbekal keinginan dan cerita-cerita seru di PT. Bukalapak.com, pelaksana KP melakukan pencarian di Google tentang rekrutmennya. Alhasil, pelaksana KP menemukan halaman rekrutmen PT. Bukalapak.com (www.bukalapak.com/careers). Setelah mempersiapkan segala kebutuhan berkaitan dengan lamaran, seperti CV dan surat lainnya, pada tanggal 5 Februari 2016, pelaksana KP segera mengirimkan lamaran sebagai <it>software</it> <it>engineer</it> <it>intern</it> melalui halaman tersebut. Pelaksana KP belum juga mendapat konfirmasi apapun terkait lamaran kerja praktik setelah beberapa hari menunggu. Tidak kehabisan ide, pelaksana KP menghubungi salah satu senior Fasilkom kenalannya yang bekerja di PT. Bukalapak.com. Berdasarkan informasi dari senior tersebut, pelaksana KP tahu bahwa ada banyak pelamar lainnya yang mengirim lamaran melalui halaman tersebut, sehingga konfirmasi yang diberikan mungkin sedikit lama. Senior tersebut memberikan alternatif lain untuk melamar kerja di PT. Bukalapak.com melalui <it>email</it> rekrutmen, yaitu <it>recruitment@bukalapak.com.</it> Pada tanggal 11 Februari 2016, lamaran kedua ke PT. Bukalapak.com dikirim. Pada tanggal yang sama dengan pengiriman lamaran, pelaksana KP menerima <it>email</it> konfirmasi dari PT. Bukalapak.com. Pada <it>email</it> tersebut, dilampirkan pula soal-soal sederhana tentang pemrograman. Soal tersebut merupakan tes tahap pertama untuk bekerja di PT. Bukalapak.com. Pada tanggal 12 Februari 2016, pelaksana KP mengirimkan kode program yang merupakan solusi dari soal tes tersebut. Tiga hari setelah mengirimkan jawaban, yaitu tanggal 15 Februari 2016, pelaksana KP mendapat <it>email</it> panggilan untuk tes wawancara yang menandakan pelaksana KP lulus tes tahap berikutnya. Pada tanggal 18 Februari 2016, sesuai dengan panggilan, pelaksana KP mendatangi kantor PT. Bukalapak.com di Plaza City View, Kemang, Jakarta Selatan, untuk mengikuti tes wawancara. Ada dua tahapan tes wawancara yang dilakukan, pertama wawancara dengan HCM (<it>Human</it> <it>Capital</it> <it>Management,</it> kemudian wawancara dengan <it>user</it> (pada kasus ini adalah <it>senior</it> <it>software</it> <it>engineer).</it> Wawancara bersama HCM 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			dilakukan kurang lebih 30 menit, pertanyaan yang diberikan seputar pengalaman kerja dan organisasi. Wawancara dengan <it>user</it> cukup mengagetkan karena untuk posisi <it>software</it> <it>engineer,</it> wawancara tersebut dibungkus dalam bentuk tes <it>programming</it> terkait beberapa kasus sederhana. Selagi melakukan dan menunggu tes di PT. Bukalapak.com, pelaksana KP juga mencari-cari di Google mengenai informasi rekrutmen untuk perusahan lain di daftar. Satu hari setelah wawancara, pelaksana KP mendapat <it>email</it> konfirmasi bahwa ia diterima bekerja di PT. Bukalapak.com sebagai <it>software</it> <it>engineer</it> <it>intern.</it> Dengan konfirmasi tersebut, pelaksana KP membatalkan niatnya untuk melamar kerja di tempat lain. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini dijelaskan profil PT. Bukalapak.com yang mencakup bidang inti bisnis dan struktur organisasi, serta posisi penempatan pelaksana KP dalam struktur organisasi. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Bidang</bo> <bo>Inti</bo> <bo>Bisnis</bo></title>
+		<segment>
+			PT. Bukalapak.com adalah perusahaan yang menyediakan <it>platform</it> jual-beli <it>online,</it> (berupa aplikasi <it>mobile</it> dan <it>website)</it> secara <it>customer-to-customer,</it> dengan kata lain, pengguna Bukapak dapat menjadi pembeli sekaligus penjual[1]. Visi dari PT. Bukalapak.com adalah menjadi <it>online</it> <it>marketplace</it> nomor satu di Indonesia; sedangkan, misi PT. Bukalapak.com adalah memberdayakan UKM yang ada di seluruh penjuru Indonesia[1]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<title><bo>1.2.2.</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<pagenum>4</pagenum>
+		<segment>
+			Gambar 1. Struktur Organisasi PT. Bukalapak.com Secara struktural ada 3 bagian utama dari organiasi PT. Bukalapak.com yaitu <it>Director,</it> <it>Division,</it> dan <it>Departement.</it> Pimpinan utama PT. Bukalapak.com adalah <it>President</it> <it>Director.</it> Dibawah <it>President</it> <it>Director</it> terdapat <it>Chief</it> <it>Financial</it> <it>Officer</it> (CFO),</it> <it>Chief</it> <it>Operation</it> <it>Officer</it> (COO), dan <it>Chief</it> <it>Technology</it> <it>Officer</it> <it>(CTO).</it> Selebihnya, struktur pembagian divisi dan departemen dapat dilihat pada Gambar 1. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<title><bo>1.2.3.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pelaksana kerja praktik diposisikan di departemen <it>software</it> <it>engineer</it> di divisi <it>engineering</it> (lihat Gambar 1). Secara khusus, pelaksana KP bekerja di tim DTB <it>(Discovery</it> <it>to</it> <it>Buy),</it> akan dijelaskan lebih lanjut di bagian berikutnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksana KP menempati posisi sebagai <it>software</it> <it>engineer</it> <it>intern</it> dan ditempatkan pada tim DTB (<it>discovery</it> <it>to</it> <it>buy)</it> selama masa kerja praktik di PT. Bukalapak.com. Pelaksana KP tidak dibiarkan bekerja sendiri, Bukalapak menyediakan dua mentor yang membimbing pelaksana KP dalam melakukan pekerjaan. Karena bekerja dalam tim yang menerapkan <it>scrum,</it> <it>setiap</it> dua minggu sekali, pelaksana KP diwajibkan mengambil beberapa <it>backlog</it> untuk dikerjakan (daftar <it>backlog</it> terdapat dalam lampiran log KP). Di akhir periode kerja, yaitu tanggal 26 Agustus 2016, hasil kerja dipresentasikan di depan seluruh <it>engineer</it> Bukalapak. Pada bagian ini dijelaskan Latar Belakang, Tinjauan Pustaka, Metodologi, Teknologi, Teknis, dan Non-Teknis dari pekerjaan pelaksana KP. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Pelaksana KP terdaftar sebagai <it>software</it> <it>engineer</it> <it>intern</it> sesuai dengan lamaran yang diajukan di awal. Di Bukalapak, pengembangan <it>platform</it> dibagi ke dalam tim-tim kecil yang berisikan tidak lebih dari 10 anggota dengan berbagai peran, seperti <it>software</it> <it>engineer,</it> <it>data</it> <it>scientist,</it> <it>UX</it> <it>researcher,</it> dan lainya. Tim tersebut bekerja sesuai dengan kelompok fitur platform, salah satunya adalah tim DTB. Tim DTB adalah <it>scrum</it> <it>team</it> yang bekerja pada lingkup <it>website</it> Bukalapak yang menjamin fitur pencarian hingga fitur <it>add</it> <it>to</it> <it>cart</it> dapat berjalan dengan baik. Penempatan pelaksana KP ke dalam tim DTB ditentukan berdasarkan minat dan keinginannya sendiri. Pelaksana KP tertarik dengan pengembangan metode <it>searching</it> dan <it>indexing</it> di Bukalapak oleh karena itu, pelaksana KP ditempatkan di tim DTB. Berikut adalah rincian pekerjaan pelaksana kerja praktik: 1. memahami cara kerja aplikasi <it>website</it> Bukalapak secara keseluruhan, 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			2. melaksanakan dengan baik proses <it>scrum</it> yang dilaksanakan tim DTB 3. melakukan pengembangan dan pemeliharaan terhadap aplikasi <it>website</it> desktop (http://www.bukalapak.com) khususnya pada bagian DTB sesuai dengan standar dan alur pengembangan yang ditetapkan tim <it>engineer</it> Bukalapak. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Sebelum dan selama masa kerja, pelaksana KP mempelajari <it>framework</it> Ruby on Rails melaui situs www.codecademy.com. Apabila ada kesulitan atau pun <it>error</it> terkait kode program, pelaksana KP terbiasa menggunakan bantuan situs Google untuk mencari jawaban. Jawaban atas kesulitan paling banyak ditemukan dari situs www.stackoverflow.com dan forum Ruby on Rails. Karena ditempatkan di tim DTB dan salah satu <it>backlog</it> yang akan pelaksana KP kerjakan menggunakan Elasticserach, pelaksana KP diwajibkan mengetahui tentang penggunaan Elasticsearch.</it> Materi tentang Elasticsearch dipelajari dari buku yang diberikan oleh PM tim DTB[2] serta situs-situs hasil pencarian di Google. Untuk proses <it>scrum,</it> pelaksana KP sebelumnya pernah mempelajari melalui mata kuilah RPL dan PPL di Fasilkom. Sehingga, pelaksana KP tidak begitu kaget dan kesulitan dalam mengikuti metodologi kerja tim DTB. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			<it>Scrum</it> adalah sebuah metode untuk mengatur pengembangan sebuah proyek (biasanya <it>software</it> <it>development)</it> secara <it>agile[2].</it> <it>Agility</it> telah diterapkan pada sebuah pengembangan proyek apabila proyek tersebut mampu beradaptasi dengan perubahan- perubahan <it>requirement.</it> Tim DTB menerapkan proses model <it>scrum</it> dalam mengembangkan <it>website</it> Bukalapak. Pengembangan dan perubahan fungsi di <it>website</it> dari halaman pencarian hingga <it>add</it> <it>to</it> <it>cart</it> dikemas dalam bentuk <it>backlog</it> yang kemudian dibobotkan sesuai dengan estimasi kerumitan penyelesaian.</it> Kebetulan, di awal periode kerja pelaksana KP, metode <it>scrum</it> tersebut baru akan tim DTB terapkan karena sebelumnya tim DTB 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			masih menggunakan proses model yang konvensional. Oleh karena itu, pelaksana KP mendapat kesempatan untuk melihat dari awal proses <it>scrum</it> dijalankan. Metodologi <it>scrum</it> yang digunakan oleh tim DTB tidak jauh berbeda dengan <it>scrum</it> pada umumnya. Ada sedikit tambahan/perbedaan pada proses <it>scrum</it> tim DTB, yaitu dilaksanakannya tahap yang disebut <it>marketplace</it> sebelum memulai iterasi sprint. Berikut adalah istilah-istilah/proses dalam pelaksanaan <it>scrum</it> di tim DTB beserta penjelasannya: 1. Pembuatan <it>backlog,</it> proses ini menjadi tanggung jawab Project Manager DTB bersama dengan <it>product</it> <it>owner.</it> 2. <it>Marketplace</it> adalah proses pembobotan <it>backlog</it> berdasarkan estimasi kerumintan pengerjaan. Proses ini dilakukan di awal, sebelum iterasi <it>sprint</it> dimulai oleh seluruh anggota tim. 3. <it>Sprint</it> <it>planning</it> adalah proses pengambilan <it>backlog</it> oleh masing-masing anggota <it>scrum</it> <it>team</it> yang dilakukan di setiap mengawali <it>sprint.</it> 4. <it>Sprint</it> yang dilakukan tim DTB ditetapkan selama dua minggu. 5. <it>Sprint</it> <it>review</it> dan <it>sprint</it> <it>retrospective,</it> proses ini dilakukan setelah sebuah <it>sprint</it> diselesaikan. Tujuannya adalah untuk merefleksikan kemampuan tim dan mengetahui faktor yang mendukung dan menghambat <it>sprint.</it> 6. <it>Daily</it> <it>standup,</it> rapat singkat di dalam tim (sekitar 15 menit) untuk menyamaratakan pengetahuan terkait <it>progress</it> pekerjaan. Tim DTB menyepakati <it>daily</it> <it>standup</it> dilakukan setiap jam 13.00 WIB. Pada pelaksaanan teknis, pelaksana KP bekerja dengan alur yang sudah ditentukan oleh mentor. Alur kerja dapat dilihat pada Gambar 2. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			Gambar 2. Alur Kerja Pelaksana KP Setelah mendapatkan <it>backlog,</it> pelaksana KP melakukan implementasi kode program yang kemudian akan di <it>review</it> oleh mentor dan dapat lanjut ke tahap selanjutnya apabisa sudah disetujui mentor. Mentor memberikan <it>review</it> dari sisi kerapian dan tingkan efisien kode. Jika kode program sudah sesuai, selanjutnya pelaksana KP melakukan pengecekan di Github (menggunakan <it>bot).</it> Proses ini dilakukan sebagai prosedur standar dari divisi <it>engineers.</it> <it>Bot</it> akan mengecek dari sisi <it>code</it> <it>convention</it> dan <it>unit</it> <it>testing.</it> Selanjutnya, kode tersebut akan dicek validitasnya oleh tim <it>Quality</it> <it>Assurance</it> (QA). Proses ini dilakukan agar program yang dibuat sesuai dengan proses bisnis yang dimaksud. Jika terjadi kesalahan selama pengecekan, baik dalam <it>review</it> mentor, pengecekan github, atau pengecekan QA, maka proses ini kembali ke tahap implementasi kode untuk diperbaiki. Setelah semua pengecekan dilakukan dan sudah sesuai, maka proses selanjutnya adalah melakukan <it>deployment</it> ke dalam produk akhir. QA akan kembali melakukan pengecekan setelah proses deployment untuk menjamin produk benar-benar bebas dari kesalahan. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Produk utama Bukalapak adalah <it>platform</it> berupa aplikasi <it>mobile</it> dan <it>website.</it> Secara khusus, pelaksana KP hanya bekerja untuk mengembangkan <it>website.</it> Teknologi yang digunakan untuk mengembangkan <it>website</it> dijelaskan dalam Tabel 1. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			<it><bo>Version</bo></it> <it><bo>control</bo></it> <it><bo>Repository</bo></it> Git Github <it><bo>Project</bo></it> <it><bo>Management</bo></it> 
+		</segment>
+		<title>JIRA</title>
+		<segment>
+			<it><bo>Framework</bo></it> Ruby on Rails <it><bo>Database</bo></it> <bo>Bahasa</bo> MySQL, MongoDB Ruby, SCSS, Haml (HTML <it>abstraction</it> <bo>pemrograman</bo> <it>markup</it> <it>language),</it> Coffescript Tabel 1. Teknologi Dept. <it>Software</it> <it>Engineer</it> PT. Bukalapak.com. Sebelum memulai pekerjaan, pelaksana KP terlebih dahulu melakukan instalasi terkait dengan teknologi yang digunakan Tabel 1. Instalasi dilakukan secara mandiri pada minggu pertama. Agar sesuai dan seragam dengan <it>software</it> <it>engineers</it> Bukapalak, pelaksana KP juga memasang <it>Operating</it> <it>System</it> yang baru yaitu Ubuntu. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Teknis</bo></title>
+		<segment>
+			Secara teknis ada 13 <it>backlog</it> yang dikerjakan oleh pelaksana KP selama 10 minggu bekerja. Berikut adalah daftar <it>backlog</it> tersebut (dalam lampiran log KP, kata ‘<it>backlog’</it>  disebut dengan ‘tugas’):  1. Menambahkan fitur sort</it> <it>by</it> <it>latest</it> untuk daftar <it>product</it> di halaman ‘Manage  Campaign’ di <it>admin</it> <it>dashboard.</it>  2. Menambahkan fitur <it>set</it> paling atas untuk produk di suatu <it>campaign,</it> sehingga pada halaman ‘Campaign’, produk tersusun di posisi paling atas.  3. Menambahkan kode yang melakukan <it>auto</it> <it>update</it> <it>flash</it> <it>banners</it> di <it>front</it> <it>page.</it> 4. Menambahkan kode yang melakukan <it>update</it> <it>cache</it> untuk produk di suatu <it>campaign</it> setelah melakukan <it>set</it> <it>campaign,</it> <it>cancel</it> <it>set</it> <it>campaign,</it> deaktivasi dan aktivasi produk, <it>set</it> produk dijual dan tidak dijual, dan <it>set</it> paling atas. 5. Membuat fitur pengaturan informasi waktu pemesanan terakhir di halaman ‘User Detail’ dan ‘Product Detail’ untuk <it>mobile</it> dan <it>desktop</it> <it>website.</it>  6. Melakukan <it>improvement</it> fitur <it>set</it> paling atas menggunakan <it>elasticsearch.</it> 7. Membuat fitur <it>manual</it> <it>sort</it> untuk produk yang berada di kategori populer. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			8. Menambahkan kode untuk AB-<it>test</it> terhadap pilihan <it>sort</it> <it>by</it> terlaris. 9. Menggabungkan <it>cart</it> untuk <it>user</it> dari kondisi belum <it>login</it> ke <it>login.</it> 10. Memasang <it>tracker</it> di halaman ‘Product Detail’ dengan Grafana.  11. Memasang <it>tracker</it> untuk <it>website</it> <it>navbar.</it> 12. Membuat pengaturan baru di <it>admin</it> <it>dashboard</it> yaitu ‘Keyword Management  to Landing Page’.  13. Memperbaiki SCSS <it>error</it> di halaman ‘Popular’ di <it>admin</it> <it>dashboard.</it>  <it>Backlog</it> tersebut tidak bisa pelaksana KP jabarkan lebih detil untuk menjaga kerahasiaan produk Bukalapak. 
+		</segment>
+		<title><bo>2.1.6.</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<segment>
+			Selain hal-hal teknis terkait profesi <it>software</it> <it>engineer,</it> seperti pemrograman,</it> pelaksana KP mempelajari banyak hal-hal non teknis. Hal-hal tersebut kemudian dirangkum menjadi empat poin besar, yaitu bekerja sama dalam tim; berkomunikasi dengan berbagai tipe orang, belajar disiplin waktu, meningkatkan sikap tanggung jawab. 1. Bekerja sama dalam tim Selama 10 minggu bekerja, pelaksana KP berada di tim yang sama. Oleh karena itu, pelaksana KP dituntut mampu beradaptasi dan bekerja sama dengan tim tersebut agar mendapatkan hasil kerja yang maksimal. Pelaksanaan <it>scrum</it> adalah salah satu aktivitas non teknis yang dapat mengembangkan kemampuan kerja sama dalam tim. Kemampuan komunikasi tim akan dilatih melalui rapat (<it>sprint</it> <it>review,</it> <it>planning,</it> <it>retrospective),</it> <it>daily</it> <it>standup,</it> dan penggunaan <it>project</it> <it>management</it> (JIRA). Kesulitan yang dialami oleh seorang anggota juga akan mudah diketahui dan dibantu selesaikan karena dengan <it>scrum</it> tim akan menjadi lebih terbuka. Untuk menciptakan proses <it>scrum</it> yang baik, masing-masing tim pengembang dibebaskan untuk menggunakan bantuan <it>tools</it> apapun. Khusus tim DTB, <it>project</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			<it>management</it> yang digunakan adalah JIRA; sedangkan, komunikasi tidak langsung dilakukan melalui aplikasi Telegram dan <it>email.</it> Di luar metode <it>scrum,</it> tim DTB juga melakukan tradisi-tradisi seru untuk mempererat kebersamaan. Beberapa kali pelaksana KP diajak makan-makan bersama, baik di luar kantor maupun di lingkungan kantor, yang rutin dilakukan tim DTB. 2. Komunikasi dengan berbagai tipe orang PT. Bukalapak.com memiliki jumlah pekerja yang cukup banyak, yaitu lebih dari 100 orang. Pekerja-pekerja tersebut juga berasal dari berbagai daerah dan bidang keahlian. Pelaksana KP dituntut mampu berbaur dengan lingkungan kerja. Selain berkomunikasi dengan tim kerja, pelaksana KP tidak pasif berkenalan dengan orang-orang dari divisi lain. Selain komunikasi tatap muka di lingkungan kantor, komunikasi juga dilakukan melalui media grup Telegram. Namun untuk tetap menjadi <it>confidentiality</it> kantor, para pelaksana KP tidak dimasukan ke dalam grup utama PT. Bukalapak.com, melainkan dibuatkan grup baru yang berisikan seluruh peserta KP dan penyelia. Sebagai <it>software</it> <it>enegineer,</it> pelaksana KP mendapat akses lain untuk komunikasi berupa milis yang terhubung dengan aktivitas di Github. Milis tersebut akan memberikan notifikasi akan perubahan dan diskusi yang terjadi di Github PT. Bukalapak.com. Sehingga, informasi seperti kode yang <it>error</it> biasanya akan cepat diketahui oleh semua <it>engineers.</it> 3. Disiplin waktu Jam kerja yang diwajibkan pihak penyelia KP yaitu 40 jam dalam 1 minggu, dengan hari kerja dari Senin hingga Jumat. Pelaksana KP memiliki jam kerja yang fleksibel sehingga pelaksana KP bisa mengatur sendiri dengan baik waktu kerja 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			yang dibutuhkan agar berjalan optimal. Walaupun waktu yang diberikan fleksibel, pelaksana KP tetap dilatih disiplin dengan kegiatan kerja yang rutin. 4. Bertanggung jawab Selama berkerja, pelaksana KP tetap bisa mengikuti aktivitas lainnya yang disediakan oleh PT. Bukalapak.com, seperti fasilitas olahraga dan permainan, <it>interest</it> <it>club</it> (<it>yoga</it> <it>class,</it> <it>zumba</it> <it>class,</it> BL <it>runners),</it> acara-acara rutin (perayaan 17 Agustus, buka puasa bersama, dll). Hal tersebut membuat pelaksana KP bekerja lebih santai dan tidak dibawah tekanan. Walaupun banyak aktivitas lain yang bisa dilakukan, pelaksana KP tetap harus bertanggung jawab dengan <it>backlog</it> yang diberikan dan harus tetap men-<it>deliver</it> hasil pekerjaan setiap akhir <it>sprint.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo></title>
+		<title><bo>3.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilakukan selama 10 minggu, terhitung 13 Juni 2016 – 26  Agustus 2016. Pada bagian ini dijelaskan ulasan kesesuaian dan perbedaan dengan KAKP, ulasan tentang kendala dan cara menanganinya, penilaian individu terhadap tempat KP. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Ulasan</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Kerja praktik yang dilaksanakan berjalah hamper sesuai dengan yang tertulis di KAKP. Perbedaan hanya terdapat pada bagian rancangan jadwal KP (dijelaskan dalam Tabel 2.). Di KAKP tertulis bahwa, <it>sprint</it> pertama dilaksanakan pada tangga 27 Juni hingga 1 Juli 2016. Pada kenyataannya, <it>scrum</it> DTB baru berjalan efektif pada tanggal 18 Juli 2016, sehingga, sebelum tanggal tersebut, pelaksana KP masih bekerja tanpa mengikuti suatu proses model tertentu (masih konvensional). Waktu 13 Juni 2016 – 17 Juni 2016  20 Juni 2016 – 24 Juni 2016  Rencana Kerja   Melakukan  instalasi  <it>tools</it>  terkait  sistem  Bukalapak   Mempelajari desain <it>database</it> Bukalapak.    Mempelajari  dasar-dasar  <it>framework</it>  Ruby on Rails, serta bahasa pemograman  Ruby, Coffescript, SCSS, dan Haml.    Mempelajari alur kerja <it>software</it> <it>engineer</it>  di Bukalapak   Mengikuti rapat <it>Marketplace</it> (penentuan  bobot  backlog)  sebelum  melaksanankan  <it>sprint.</it>   27 Juni 2016 – 1 Juli 2016   <it>Sprint</it> 1: 4 Juli 2016 – 8 Juli 2016   11 Juni 2016 – 29 Juli 2016     <it>Sprint</it> <it>planning</it>    <it>Improvement</it> dan <it>bug</it> aplikasi <it>website</it> Bukalapak <it>fixing</it> pada   <it>Sprint</it> <it>review</it> dan <it>retrospective</it>     Libur Idul Fitri  <it>Sprint</it> 1:   <it>Sprint</it> <it>planning</it>    <it>Improvement</it> dan <it>bug</it> aplikasi <it>website</it> Bukalapak <it>fixing</it> pada 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<segment>
+			1 Agustus 2016 – 5 Agustus 2016   8 Agustus 2016 – 12 Agustus 2016   
+		</segment>
+		<pagenum>15</pagenum>
+		<segment>
+			  <it>Sprint</it> <it>review</it> dan <it>retrospective</it>   <it>Sprint</it> 2:   <it>Sprint</it> <it>planning</it>    <it>Improvement</it> dan <it>bug</it> aplikasi <it>website</it> Bukalapak <it>fixing</it> pada   <it>Sprint</it> <it>review</it> dan <it>retrospective</it>   15 Agustus 2016 – 19 Agustus 2016   <it>Sprint</it> 3:  22 Agustus 2016 – 26 Agustus 2016     <it>Sprint</it> <it>planning</it>    <it>Improvement</it> dan <it>bug</it> aplikasi <it>website</it> Bukalapak <it>fixing</it> pada   <it>Sprint</it> <it>review</it> dan <it>retrospective</it>     Tabel 2. Rancangan Jadwal KP di KAKP Selain perbedaan tersebut, KAKP tidak berbeda jauh dengan saat kerja praktik, hanya saja masih ada hal-hal yang belum lengkap dijelaskan. Misalnya, bagian deskripsi pekerjaan di KAKP belum mencakup semua pekerjaan pelaksana KP hingga akhir periode kerja. Adapun tambahan pekerjaan yang tidak tertulis di KAKP sudah dijelaskan pada BAB 2 bagian Teknis. 
+		</segment>
+		<title><bo>3.3.</bo> <bo>Ulasan</bo> <bo>Tentang</bo> <bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo></title>
+		<segment>
+			Selama melakukan kerja praktik, pelaksana KP tidak mengalami kendala yang begitu berarti. Kendala yang didapatkan hanya seputar teknis yang kebetulan masih bisa diselesaikan setelah berdiskusi dengan mentor. Dari segi non teknis, hanya ada beberapa kendala kecil yang membuat pelaksana KP sedikit terganggu. Kendala di sisi teknis yang dirasakan adalah pemilihan algoritma mengerjakan <it>backlog</it> dan penanganan <it>error.</it> Keduanya sangat wajar terjadi selama masa pengembangan sebuah produk. <it>Error</it> masih bisa diselesaikan dengan bantuan pencarian di Google ataupun bertanya dengan mentor. Sedangkan untuk pemilihan algoritma, pelaksana KP akan terlebih dahulu melakukan diskusi dengan mentor dan PM tim DTB. Dari sisi non teknis, kendala yang cukup menganggu adalah kondisi laptop pelaksana KP karena hanya memiliki RAM berukuran 4 GB. Selain itu, lokasi tempat tinggal pelaksana KP cukup jauh dan menuntut pelaksana KP menggunakan transportasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			umum KRL setiap hari pada jam-jam padat pengguna. Untuk masalah-masalah tersebut, pelaksana KP menanggapi dengan sikap yang lebih sabar. 
+		</segment>
+		<title><bo>3.4.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>KP</bo></title>
+		<segment>
+			PT. Bukalapak.com menjadi tempat yang nyaman bagi pelaksana KP bekerja. Banyak sekali faktor-faktor yang mendukung semangat kerja pelaksana KP, diantaranya fasilitas kerja, hubungan antar pekerja, budaya kerja, dan apresiasi atas pekerjaan. Dari sisi fasilitas, kantor Bukalapak sangat mendukung kenyaman para pekerja. Kantor dilengkapi dengan banyak fasilitas seperti ruang gym, ruang rapat, dan perpustakaan. Setiap harinya, Bukalapak juga menyediakan makan siang dan malam. Bahkan, tak jarang karena fasilitas yang nyaman dan lengkap, beberapa peserta KP lain menginap di kantor Bukalapak. Di Bukalapak, pelaksana KP sama sekali tidak melihat kesenjangan antar pekerja. Bahkan, setiap harinya <it>President</it> <it>Director</it> ikut mengantri makan bersama pekerja lainnya. Semua orang saling menyapa satu sama lain. Menurut pelaksana KP, hal tersebut dapat terjadi karena Bukalapak sering mengadakan acara yang mempererat kebersamaan antar pekerja, seperti acara perayaan 17 Agustus, buka puasa bersama, hingga acara perpisahan peserta kerja praktik. Budaya kerja yang diterapkan di Bukalapak sangat cocok dengan pelaksana KP dan mungkin mahasiswa Fasilkom lain. Pelaksana KP bekerja dengan santai dan tidak dibawah tekanan. Jika bosan dengan pekerjaan, pekerja dapat melakukan hal lain, misalnya bermain tenis meja, olahraga di ruang <it>gym,</it> dan bermain PlayStation. Sebagai <it>software</it> <it>engineer,</it> jam kerja juga tidak diatur secara khusus (<it>flexible</it> <it>working</it> <it>hour),</it> pengaturan waktu kerja diserahkan pada masing-masing orang. Walaupun penuh kebebasan, pekerja di Bukalapak tetap bertanggung jawab dengan pekerjaannya masing-masing. Dari sisi pekerjaan, pelaksana KP selalu dihargai dengan baik oleh tim DTB setiap berhasil menyelesaikan tugas. Jika belum berhasil, pelaksana KP justru diberi bantuan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<segment>
+			dan motivasi. Alhasil, banyak sekali ilmu yang diperoleh pelaksana KP. Pelaksana KP yakin, tim-tim lain juga menerapkan sikap yang sama pada peserta KP lainnya. 
+		</segment>
+		<title><bo>3.5.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Pelaksana KP banyak sekali menerapkan ilmu-ilmu yang pernah didapat di perkuliahan. Karena mendapat posisi sebagai <it>software</it> <it>engineer</it> yang mengembangkan produk berbentuk <it>website.</it> ilmu yang didapat dari mata kuliah RPL, PPL, OS, Sysprog, Basis Data, Basis Data Lanjut, PPW, SDA, DDP, serta Matematika Diskret 1 dan 2 sangatlah terpakai. Ilmu dari mata kuliah lainnya juga secara tidak langsung dirasakan manfaatnya oleh pelaksana KP. Metode <it>scrum</it> sudah pernah pelaksana KP pelajari konsepnya pada mata kuliah RPL dan diterapkan langsung pada saat PPL. Namun, pada saat itu <it>scrum</it> yang digunakan pelaksana KP (secara mandiri) belum sebaik <it>scrum</it> yang dilakukan di Bukalapak. Selain itu, mata kuliah seperti, SDA, serta Matematika Diskret 1 dan 2 terasa manfaatnya karena sudah melatih logika berpikir pelaksana KP dalam menyelesaikan permasalahan saat bekerja.</it> Sedangkan, kemampuan <it>programming</it> dan penggunaan <it>query</it> didapat pelaksana KP dari mata kuliah yang menyangkut pemrograman seperti PPW, DDP, Basis Data, dan Basis Data Lanjut. Ilmu dari mata kuliah Sysprog dan OS sangat membantu pelaksana KP pada masa instalasi <it>tools</it> dan <it>operating</it> <it>system</it> laptop. Pelaksana KP menyadari bahwa tidak ada ilmu mata kuliah yang sia-sia. Semua akan berguna pada waktunya, salah satunya ketika sudah memasuki masa kerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>18</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Pelaksana KP telah melakukan kerja praktik selama 10 minggu di PT. Bukalapak.com, terhitung tanggal 13 Juni 2016 - 26 Agustus 2016, sebagai <it>software</it> <it>engineer</it> <it>intern.</it> Pelaksana KP diposisikan ke dalam tim <it>Discovery</it> <it>to</it> <it>Buy</it> (DTB) selama masa kerja. Bersama dengan tim tersebut, pelaksana KP melakukan pengembangan pada <it>website</it> PT. Bukalapak.com dari halaman pencarian hingga <it>add</it> <it>to</it> <it>cart</it> dengan menerapkan metode <it>scrum.</it> Banyak hal yang dipelajari pelaksana KP selama masa kerja, mulai dari hal yang sangat teknis hingga non teknis. Sebagai pekerja secara umum, banyak pengalaman baru yang dirasakan oleh pelaksana KP seperti belajar komunikasi di dalam tim, bekerja dengan berbagai macam tipe orang, disiplin akan waktu, dan tanggung jawab atas pekerjaan. Sebagai <it>software</it> <it>engineer</it> secara khusus,</it> pelaksana KP mendapatkan ilmu bahasa pemrograman dan teknologi baru. Kerja praktik di PT. Bukalapak.com menjadi pengalaman yang sangat menyenangkan bagi pelaksana KP. Produk perusahaan yang bermanfaat untuk orang banyak serta lingkungan kerja yang nyaman sangat menunjang semangat kerja pelaksana KP. Selain itu, teori dan ilmu yang selama ini didapat pelaksana KP selama masa kuliah diterapkan langsung pada produk yang dikembangkan. Sehingga, pelaksana KP merasa cukup bangga bisa mengubah ilmu yang didapat pada saat kuliah menjadi sesuatu yang bermanfaat bagi banyak orang. 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Berdasarkan pengalaman pelaksana KP, sebaiknya calon pelaksana KP mencari tempat kerja sejak jauh-jauh hari. Mencari tempat kerja praktik tidak semudah yang dibayangkan, ada beberapa perusahaan yang menerapkan tes masuk seperti yang dilakukan PT. Bukalapak.com. Apabila persiapan sudah matang, mendapatkan tempat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>19</pagenum>
+		<segment>
+			kerja praktik yang diinginkan menjadi lebih mudah. Selain itu, selama masa kerja, para pelaksana KP sebaiknya memberikan usaha yang maksimal karena tidak menutup kemungkinan bahwa penilaian selama kerja praktik akan memudahkan pelaksana KP untuk mencari kerja di masa yang akan datang. Bagi calon pelaksana KP yang sudah mendapatkan tempat kerja sebaiknya memberikan informasi pada teman-teman yang belum mendapatkan tempat kerja. Kepada dosen mata kuliah KP, pelaksana KP ingin memberikan saran terkait proses <it>review</it> KAKP yang terbilang cukup lama. Banyak sekali keluhan dari mahasiswa karena dituntut menyelesaikan KAKP segera namun tetap saja mendapat <it>review</it> yang lama dari dosen. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>20</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] http://www.bukalapak.com/about. Diakses pada 23 September 2016, 13.00 WIB. [2] D. Turnbull and J. Berryman. 2016. “Relevant Search With applications for Solr  and Elasticsearch”.   [3] https://www.mountaingoatsoftware.com/agile/scrum. Diakses pada 25 September 2016, 15.15 WIB. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

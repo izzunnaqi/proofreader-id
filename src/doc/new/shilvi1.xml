@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<it><bo>BUSINESS</bo></it> <it><bo>INTELLIGENCE:</bo></it> <it><bo>ETL,</bo></it> <it><bo>NLP</bo></it> <it><bo>ANALYSIS,</bo></it> <it><bo>DATA</bo></it> &amp; 
+		</segment>
+		<title><it><bo>MAPPING</bo></it> <it><bo>VISUALIZATIONS,</bo></it> <it><bo>BUSINESS</bo></it> <it><bo>AUTOMATIONS</bo></it> <it><bo>AND</bo></it></title>
+		<title><it><bo>FRAUD</bo></it> <it><bo>ANALYSIS</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>SHILVIA</bo> <bo>LESMINA</bo> <bo>BR</bo> <bo>SILALAHI</bo></title>
+		<segment>
+			<bo>1306383054</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Shilvia Lesmina Br Silalahi : 1306383054 Program Studi : Sistem Informasi Judul Kerja Praktik : <it>Business</it> <it>Intelligence:</it> <it>ETL,</it> <it>NLP</it> <it>Anaysis,</it> <it>Data</it> &amp; <it>Mapping</it> <it>Visualizations,</it> <it>Business</it> <it>Automation</it> <it>and</it> <it>Sentiment</it> <it>Analysis</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.A.,</bo> <bo>M.Sc.</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja Praktik merupakan salah satu mata kuliah wajib untuk mahasiswa Fasilkom UI. Adapun penulisan laporan Kerja Praktik ini merupakan salah satu syarat kelulusan pada mata kuliah ini. Pada laporan ini terdapat penjelasan mengenai Kerja Praktik yang dilakukan oleh penulis selama sepuluh minggu sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> di PT GO-JEK Indonesia. Divisi <it>Business</it> <it>Intelligence</it> merupakan sebuah divisi yang bertanggung jawab untuk mengolah data yang dimiliki organisasi dan digunakan untuk keperluan bisnis perusahaan. Selain itu, terdapat juga analisis keterkaitan Kerja Praktik dengan perkuliahan yang sudah dialami oleh penulis selama di Fasilkom ketika mengerjakan <it>project</it> atau <it>task.</it> Penulis juga menjelaskan hambatan-hambatan yang dialami penulis ketika menjalani Kerja Praktik dan cara penulis untuk mengatasi hambatan tersebut. Penjelasan mengenai manfaat yang didapat oleh penulis ketika melakukan Kerja Praktik juga merupakan bagian dari laporan ini. Kata kunci: <it>Business</it> <it>Intelligence,</it> Kerja Praktik, <it>project</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 5</title>
+		<title>2.1.3. Metodologi ................................................................................................ 5</title>
+		<title>2.1.4. Teknologi .................................................................................................. 6</title>
+		<title>2.1.5. Deliverables .............................................................................................. 7</title>
+		<title>2.1.6. Non-teknis ................................................................................................. 7</title>
+		<title>2.2. Analisis ............................................................................................................ 8</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 8</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 10</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 12 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 12</title>
+		<title>3.2. Saran .............................................................................................................. 12</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 14 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi PT GO-JEK Indonesia ................................................ 3 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vi</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Awal proses pencarian tempat untuk melaksanakan Kerja Praktik (KP) penulis laksanakan pada bulan Maret. Penulis awalnya berdiskusi dengan beberapa senior mengenai tempat yang tepat untuk melaksanakan KP. Setelah berdiskusi, penulis akhirnya menyusun daftar tempat KP yang memungkinkan untuk penulis lamar. Dari daftar yang sudah disusun, penulis memutuskan untuk mengajukan permohonan KP ke Global Digital Prima (GDP) terlebih dahulu. GDP merupakan unit usaha grup Djarum yang fokus pada bisnis internet konsumen. Alasan penulis memilih GDP adalah karena saat itu GDP menawarkan posisi sebagai <it>Product</it> <it>Manager.</it> Posisi ini sangat berkaitan dengan mata kuliah yang sudah penulis ambil pada perkuliahan di Fasilkom, yaitu Manajemen Proyek sehingga penulis merasa tertarik untuk mengaplikasikan ilmu dari mata kuliah tersebut. Selain itu, GDP juga merupakan tempat KP yang direkomendasikan oleh senior karena kenyamanan yang diberikan pada saat melakukan KP. Namun sayangnya, posisi sebagai <it>Product</it> <it>Manager</it> telah terisi penuh menurut <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) dari GDP. Tempat kedua yang penulis pilih adalah Neo Fusion. Perusahaan ini merupakan perusahaan yang berperan sebagai <it>Software</it> <it>Developer</it> khususnya untuk industri telekomunikasi. Penulis melamar sebagai <it>Data</it> <it>Analyst</it> dan melewati beberapa tahapan seleksi yaitu tes tertulis dan wawancara. Setelah melalui tahapan seleksi, penulis harus menunggu beberapa hari untuk mengetahui hasil tes. Selain Neo Fusion, penulis juga mendaftar di PT GO-JEK Indonesia sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> dalam waktu yang bersamaan. Penulis mendapatkan informasi mengenai lowongan KP di PT GO-JEK Indonesia saat penulis mengikuti perkuliahan <it>Business</it> <it>Intelligence</it> yang menghadirkan dosen tamu dari PT GOJEK Indonesia. Setelah mendaftarkan diri, penulis dipanggil untuk melakukan wawancara. Di hari 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			yang sama penulis dinyatakan diterima sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> di perusahaan tersebut. Penulis akhirnya memutuskan memilih PT GO-JEK Indonesia sebagai tempat melaksanakan KP dan tidak melanjutkan proses penerimaan di perusahaan Neo Fusion. Dikarenakan penulis sudah terlebih dahulu diterima di PT GO-JEK Indonesia. Selain itu, alasan penulis memilih PT GOJEK Indonesia karena memberikan kesempatan penulis belajar di divisi <it>Business</it> <it>Intelligence.</it> Penulis merasa ini cukup menarik karena penulis sudah terlebih dahulu belajar mengenai <it>business</it> <it>intelligence</it> di perkuliahan. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT GO-JEK Indonesia merupakan perusahaan yang bergerak pada bidang transportasi yang berbasis <it>mobile</it> <it>technology</it> dan bertujuan untuk meningkatkan kesejahteraan pekerja pada sektor informal di Indonesia. PT GO-JEK Indonesia didirikan pada tahun 2010 dan saat ini sudah resmi beroperasi di sepuluh kota besar di Indonesia. Selain itu, PT GO-JEK Indonesia juga memiliki empat belas jenis layanan yang dapat digunakan oleh pengguna. Layanan tersebut, yaitu: GO-RIDE, GO-CAR, GO-FOOD, GO-SEND, 
+		</segment>
+		<title>GO-MART, GO-BOX, GO-MASSAGE, GO-CLEAN, GO-GLAM, GO-TIX, GO-</title>
+		<segment>
+			BUSWAY, GO-PAY, GO-MED dan GO-AUTO. Saat ini, PT GO-JEK Indonesia dipimpin oleh seorang CEO yaitu Nadiem Makarim. CEO juga dibantu oleh CFO, CIO, CCO, CMO, CHRO, COO, dan CTO dalam memimpin perusahaan dengan bertanggung jawab terhadap divisi tertentu. Misalnya <it>Business</it> <it>Intelligence</it> yang dibawahi oleh CIO. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			Berikut merupakan struktur organisasi dari PT GO-JEK Indonesia. <it>Gambar</it> <it>1.</it> <it>Struktur</it> <it>Organisasi</it> <it>PT</it> <it>GO-JEK</it> <it>Indonesia</it> 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Penulis sebagai pelaksana Kerja Praktik di PT GO-JEK Indonesia ditempatkan pada posisi <it>Business</it> <it>Intelligence</it> <it>Intern.</it> Posisi ini berada di bawah divisi <it>Business</it> <it>Intelligence</it> (BI). Divisi ini dibawahi oleh <it>Vice</it> <it>President</it> (VP) dari BI secara langsung yang bernama Crystal Widjaja. Beliau juga berperan sebagai penyelia bagi setiap pelaksana KP di divisi tersebut. Divisi BI sendiri berada dibawah pengawasan <it>Chief</it> <it>Information</it> <it>Officer</it> (CIO). 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama pelaksanaan KP di PT GO-JEK Indonesia, penulis bergabung bersama lima orang pelaksana KP lainnya yang tergabung dalam <it>Business</it> <it>Intelligence</it> <it>Intern.</it> Para pelaksana KP akan mendapat tugas berupa pengerjaan <it>project</it> atau <it>task</it> dari VP divisi BI. Dalam pengerjaan tugas tersebut, penulis dan teman-teman mendapatkan bantuan dari anggota divisi BI yang lain. Selain itu, untuk mengerjakan tugas tersebut para pelaksana KP juga akan berhubungan dengan unit bisnis yang lain. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Suatu perusahaan tentu memiliki banyak sumber data yang terkait dengan bisnis yang dijalankan. Sama halnya dengan PT GO-JEK Indonesia sebagai perusahaan yang memiliki emapt belas jenis layanan di sepuluh kota. Data tersebut perlu diintegrasikan agar mudah diakses untuk keperluan bisnis perusahaan. Oleh karena itu, dibutuhkan sebuah divisi BI yang dapat mengelola data tersebut. Data transaksi PT GO-JEK Indonesia merupakan data mentah yang perlu dianalisis dan diolah untuk mendapatkan informasi dari data tersebut. Informasi yang diperoleh dapat digunakan untuk membantu pengambilan keputusan atau membantu menyelesaikan masalah perusahaan. Dengan menggunakan pertimbangan melalui data tersebut perusahaan dapat mengambil keputusan yang tepat sehingga hasil yang didapatkan lebih maksimal. Dari uraian tersebut dapat terlihat bahwa data merupakan bagian penting dari suatu organisasi sehingga dibutuhkan suatu divisi yang dapat mengelola data tersebut. Penulis sebagai bagian dari divisi BI bertugas untuk mengolah data transaksi dan menggunakan hasil olahan data untuk keperluan bisnis PT GO-JEK Indonesia. Misalnya olahan data mengenai menu yang sering dipilih pelanggan dari perusahaan yang bekerja sama dengan GO-JEK pada unit bisnis GO-FOOD (<it>merchants).</it> Olahan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<segment>
+			data ini dapat digunakan sebagai bahan pertimbangan <it>merchants</it> saat membuat promosi. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			- <bo>ETL</bo> <bo>(<it>Extract,</bo></it> <it><bo>Transform,</bo></it> <it><bo>Load)</bo></it> Menurut M. Bala, O. Boussaid dan Z. Alimazighi (2015), proses ETL adalah proses untuk meng-<it>extract</it> data dari berbagai sumber lalu men-<it>transform</it> data tersebut ke format yang sesuai kemudian di-<it>load</it> ke dalam <it>data</it> <it>warehouse</it> (DW). Jadi secara sederhana, tujuan dari proses ETL adalah pembentukan <it>data</it> <it>warehouse.</it> - <it><bo>Database</bo></it> <bo>dan</bo> <it><bo>data</bo></it> <it><bo>warehouse</bo></it> <it>Database</it> merupakan sebuah <it>warehouse</it> yang mengatur, menyimpan dan mengelola data. <it>Database</it> didesain dengan konsep <it>transaction-oriented,</it> yaitu data dikumpulkan berdasarkan data transaksi sehingga dapat menangkap data transaksi hari per hari sebuah organisasi. (R. Hou, 2016) Sementara, data</it> <it>warehouse</it> didesain dengan konsep <it>subject-oritented,</it> yaitu fokus pada analisis data yang dapat digunakan dalam mengambil keputusan. Data yang disediakan bukan data transaksi setiap hari tetapi data yang sudah dianalisis. Selain itu, data <it>warehouse</it> juga terintegrasi dengan beberapa sumber data. Sehingga data yang dimiliki lebih lengkap. (R. Hou, 2016) - <it><bo>Natural</bo></it> <it><bo>Language</bo></it> <it><bo>Processing</bo></it> <bo>(NLP)</bo> <it><bo>Analysis</bo></it> NLP mengacu pada kemampuan suatu sistem untuk mengerti dan memproses kalimat dalam <it>natural</it> <it>language,</it> misalnya bahasa Indonesia. Tujuan dari NLP untuk membantu komputer mengerti bahasa manusia sehingga tidak perlu diterjemahkan ke bahasa komputer seperti Java atau C. NLP <it>analysis</it> berarti melakukan analisis terhadap hasil proses NLP dari suatu sistem. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam pelaksanaan KP, penulis dan pelaksana KP lain tidak memiliki metodologi khusus dalam pengerjaan <it>project</it> atau <it>task.</it> Pada awalnya pelaksana KP akan berdiskusi untuk menentukan orang yang bertanggung jawab terhadap suatu <it>project</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			yang sudah ada pada <it>project</it> <it>management</it> <it>tool</it> yang digunakan, yaitu JIRA. Setelah itu, pelaksana KP yang bertanggung jawab akan memimpin pengerjaan <it>project</it> tersebut sampai selesai dan akan dibantu oleh pelaksana KP lainnya. Para pelaksana KP biasanya akan melakukan <it>stand-up</it> <it>meeting,</it> berupa pertemuan singkat sekitar lima belas menit tiap pertemuaan. <it>Stand-up</it> <it>meeting</it> diadakan tiga kali dalam seminggu yaitu Senin, Rabu dan Jumat. Dalam <it>stand-up</it> <it>meeting</it> akan dibahas <it>project</it> atau <it>task</it> yang sudah selesai, <it>project</it> dan <it>task</it> yang akan dikerjakan berikutnya dan kendala yang dihadapi. Penyelia kemudian akan memberikan <it>feedback</it> dan saran untuk kesulitan yang dihadapi. Sedikit berbeda jika <it>project</it> atau <it>task</it> yang dikerjakan oleh pelaksana KP berhubungan dengan unit bisnis lain. Pelaksana KP akan terlebih dahulu melakukan pertemuan dan melakukan wawancara kepada pihak terkait berhubungan dengan <it>project</it> atau <it>task</it> yang akan dikerjakan. Proses ini disebut <it>requirements</it> <it>gathering.</it> Setelah itu, pelaksana KP akan mengerjakan <it>project</it> atau <it>task</it> sesuai dengan <it>requirements</it> yang sudah dikumpulkan. Jika <it>project</it> atau <it>task</it> sudah selesai maka pelaksana KP akan mempresentasikan kepada unit bisnis yang terkait untuk menerima <it>feedback.</it> Setelah semua sudah sesuai dengan kebutuhan unit bisnis maka <it>project</it> atau <it>task</it> ini akan dikatakan selesai. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Adapun teknologi yang digunakan selama pelaksanaan KP yaitu: - MySQL dan PostgreSQL <it>database</it> <it>access.</it> - Pentaho sebagai <it>tools</it> untuk mengerjakan project terkait ETL <it>process.</it> - Python sebagai <it>programming</it> <it>language</it> yang digunakan dalam <it>project</it> NLP <it>Analysis</it> dan <it>Data</it> <it>Analysis.</it> - PHP sebagai <it>programming</it> <it>language</it> yang digunakan dalam pengerjaan <it>project</it> berbasis web. - Atlassian JIRA sebagai <it>project</it> <it>management</it> <it>tools.</it> - Sublime Text 3 sebagai <it>text</it> <it>editor</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<segment>
+			- Slack sebagai <it>team</it> <it>communication</it> <it>channel.</it> 
+		</segment>
+		<pagenum>7</pagenum>
+		<segment>
+			Selain itu, penulis dan pelaksana KP yang lain juga menggunakan Google Drive untuk membantu dalam pengerjaan <it>project.</it> 
+		</segment>
+		<title><it><bo>2.1.5.</bo></it> <it><bo>Deliverables</bo></it></title>
+		<segment>
+			Dalam pelaksanaan KP di GO-JEK, penulis dan pelaksana KP lainnya berhasil menyelesaikan beberapa <it>project</it> yang dikerjakan bersama-sama. Berikut ini merupakan beberapa <it>deliverables</it> dari <it>project</it> yang dikerjakan oleh penulis dan pelaksana KP lainnya: - Laporan mengenai <it>customer</it> dan <it>marketing</it> <it>analysis</it> - <it>Dashboard</it> sederhana untuk mengecek performa dari <it>merchants</it> - Laporan mengenai <it>Natural</it> <it>Language</it> <it>Processing</it> (NLP) <it>analysis</it> terhadap data survei <it>customer</it> - <it>Fraud</it> <it>analysis</it> dari <it>features</it> yang sudah ada - Data, laporan, dan saran untuk <it>ad-hoc</it> <it>request</it> dari penyelia, pegawai BI, maupun unit bisnis yang lain. - Cohort bulanan terkait transaksi di GO-JEK Penulis tidak dapat menyebutkan secara detail setiap <it>project</it> dan <it>deliverables</it> serta tidak dapat dilampirkan pada laporan ini karena terkait dengan <it>confidentiality.</it> 
+		</segment>
+		<title><bo>2.1.6.</bo> <bo>Non-teknis</bo></title>
+		<segment>
+			Hal-hal non-teknis yang dipelajari penulis selama mengikuti KP, yaitu: - <it>Problem</it> <it>solving,</it> yaitu berkaitan dengan cara penulis menyelesaikan masalah yang dihadapi selama pelaksanaan KP. - <it>Team</it> <it>work,</it> yaitu kemampuan bekerja sama dalam suatu tim untuk menyelesaikan <it>project</it> atau <it>task.</it> - <it>Presentation</it> <it>skill,</it> yaitu kemampuan untuk menyampaikan suatu gagasan atau ide dihadapan orang lain. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			- <it>Time</it> <it>management,</it> yaitu kemampuan untuk mengatur dengan baik waktu pengerjaan suatu <it>project</it> atau <it>task</it> agar dapat selesai dengan tepat waktu. Hal ini juga berkaitan dengan kemampuan untuk menentukan prioritas. - <it>Communication</it> <it>skill,</it> yaitu kemampuan untuk berkomunikasi dengan sesama pelaksana KP, pegawai lain dalam satu divisi, maupun dengan unit bisnis lain. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam pelaksanaan Kerja Praktik kali ini ada beberapa perbedaan dengan Kerangka Acuan Kerja Praktik (KAKP) yang sudah terlebih dahulu disusun. Perbedaan tersebut yaitu perbedaan <it>timeline</it> pekerjaan dari pelaksana KP dan perbedaan <it>scope</it> dari <it>project</it> atau <it>task</it> yang dikerjakan. Pelaksana KP menghabiskan lebih banyak waktu untuk mengerjakan suatu <it>project</it> atau <it>task</it> dan terdapat lebih banyak <it>task</it> yang dikerjakan oleh pelaksana KP dibandingkanyang tertera dalam kakp Salah satu penyebab ketidaksesuaian KAKP dengan fakta di lapangan karena keterbatasan pengetahuan dari penulis sebagai pelaksana KP. Keterbatasan tersebut menjadikan waktu pengerjaan suatu <it>project</it> atau <it>task</it> lebih lama dari waktu yang tertulis pada KAKP. Hal ini dikarenakan penulis harus terlebih dahulu belajar mengenai <it>project</it> atau <it>task</it> tersebut kemudian mengerjakan. Untuk menangani keterbatasan pengetahuan yang dimiliki, penulis akan berdiskusi dengan pelaksana KP lainnya dan kemudian akan bekerja sama menyelesaikan <it>project</it> atau <it>task</it> yang harus diselesaikan. Selain itu, penulis juga akan bertanya kepada pegawai BI lainnya yang mempunyai pengetahuan yang jauh lebih banyak dari penulis. Penulis juga memanfaatkan fasilitas internet untuk mendapatkan pengetahuan yang lebih banyak dalam menyelesaikan <it>project</it> atau <it>task.</it> Selain karena keterbatasan pengetahuan, ketidaksesuaian <it>timeline</it> dengan KAKP juga disebabkan adanya <it>task</it> tambahan yang sering diberikan oleh pegawai BI yang lain atau bahkan penyelia sendiri. <it>Task</it> tambahan ini biasanya disebut dengan <it>ad-hoc.</it> <it>Ad-</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			<it>hoc</it> merupakan tugas kecil dan cenderung lebih mudah untuk dikerjakan oleh pelaksana KP. Waktu yang dibutuhkan dalam pengerjaannya juga cenderung lebih singkat tapi tetap mengganggu <it>timeline</it> yang telah disusun. Dalam pengerjaan <it>ad-hoc,</it> penulis dan pelaksana KP lainnya akan saling membantu dan bekerja sama sehingga <it>ad-hoc</it> akan lebih cepat selesai. Pembagian tugas pengerjaan <it>Ad-hoc</it> akan lebih banyak dibebankan pada pelaksana KP yang sedang tidak mengerjakan suatu <it>project</it> atau <it>task.</it> Jika ternyata semua pelaksana KP sedang mengerjakan suatu <it>project</it> atau <it>task</it> maka <it>ad-hoc</it> akan dikerjakan oleh pelaksana KP yang lebih mengerti sehingga <it>ad-hoc</it> tersebut lebih cepat selesai. Hal lain yang juga menyebabkan <it>timeline</it> berubah adalah ketidaktersediaan pegawai BI lain atau pegawai dari unit bisnis lain pada saat dibutuhkan dikarenakan sedang mengerjakan tugas yang lain. Padahal, ada beberapa <it>project</it> yang harus dikerjakan pelaksana KP yang bergantung pada pegawai BI lain. Dikarenakan pegawai BI tersebut juga memiliki tugas yang harus dikerjakan terlebih dahulu sehingga tidak bisa fokus mengerjakan <it>project</it> dengan pelaksana KP. Selain itu, terdapat juga beberapa <it>project</it> yang membutuhkan bantuan dari unit bisnis lain seperti menyediakan informasi atau <it>requirements</it> untuk <it>project</it> yang akan dikerjakan. Dimana pada saat yang bersamaan pegawai tersebut juga memiliki tanggung jawab lain yang harus dikerjakan. Untuk menangani kedua hal ini, pelaksana KP akan menunda pengerjaan <it>project</it> tersebut dan akan melanjutkan ke <it>project</it> berikutnya. Hal ini dilakukan agar <it>project</it> lain juga dapat selesai tepat waktu. Penulis dan pelaksana KP lainnya dapat menyelesaikan dua puluh lima <it>projects</it> dari total lima puluh <it>projects</it> yang tercatat pada <it>project</it> <it>management</it> <it>tools</it> PT GO-JEK Indonesia dan menyelesaikan beberapa <it>ad-hoc</it> yang diberikan oleh pegawai BI atau unit bisnis lain. Dalam pengerjaan seluruh <it>project</it> dan <it>task,</it> pelaksana KP sangat dibantu oleh pegawai BI lain. Selain itu, lingkungan kerja yang ramah dan santai juga membuat pengerjaan <it>project</it> dan <it>task</it> lebih menyenangkan bagi penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama menjalani KP di GO-JEK, terdapat beberapa pengetahuan yang relevan dengan pengetahuan yang didapat dalam perkuliahan di Fasilkom UI. Berikut merupakan pengetahuan yang penulis anggap relevan: - <it><bo>Programming</bo></it> Dalam perkuliahan di Fasilkom, terdapat beberapa mata kuliah yang berkaitan dengan <it>programming,</it> yaitu Dasar-Dasar Pemograman (DDP), Struktur Data dan Algoritma (SDA), Perancangan dan Pengembangan Web (PPW) dan Proyek Pengembangan Sistem Informasi (PROPENSI). Selain belajar menuliskan kode, mata kuliah ini juga mengajarkan cara berfikir yang logis dan terstruktur untuk menyelesaikan suatu masalah. Dalam pelaksanaan KP, penulis menggunakan kemampuan untuk menuliskan kode dan menggunakan cara berfikir tersebut untuk menyelesaikan permasalahan selama KP, dalam hal ini menyelesaikan <it>project</it> atau <it>task.</it> <it>Project</it> tersebut ada yang berupa pembuatan sistem sederhana atau <it>dashboard</it> sederhana untuk perusahaan sehingga ilmu <it>programming</it> sangat dibutuhkan penulis. - <it><bo>Database</bo></it> <bo>(Basis</bo> <bo>Data)</bo> Seperti yang sudah dijelaskan sebelumnya bahwa divisi <it>Business</it> <it>Intelligence</it> sangat berkaitan dengan data. Dalam perkuliahan di Fasilkom terdapat satu mata kuliah yang membahas mengenai data, yaitu <it>database.</it> Mata kuliah ini mengajarkan hal-hal paling dasar dalam pembuatan <it>database</it> dan pembuatan <it>query</it> untuk mengakses data. Hal yang sama juga dipelajari dalam pelaksanaan KP. Penulis dan pelaksana KP lainnya akan berhubungan dengan pembuatan <it>query</it> untuk mengerjakan hampir semua <it>project</it> atau <it>task.</it> Oleh sebab itu, pengetahuan dasar mengenai data dan pembuatan <it>query</it> sangat membantu dalam KP kali ini. Namun, penulis merasa bahwa pembuatan <it>query</it> yang dijelaskan di perkuliahan jauh lebih sederhana dibandingkan dengan <it>query</it> yang harus dibuat oleh penulis dalam KP sehingga penulis juga masih harus banyak belajar. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			- <it><bo>Business</bo></it> <it><bo>Intelligence</bo></it> <bo>(BI)</bo> Pengetahuan BI yang didapat penulis dari perkuliahan di Fasilkom UI juga relevan dengan KP yang penulis jalani. Dalam perkuliahan penulis mendapatkan pengetahuan BI yang bersifat teoritis dan dalam KP penulis dapat mempraktekkan ilmu yang didapat dalam perkuliahan tersebut. Selain ketiga hal tersebut, pelaksanaan KP penulis juga relevan dengan mata kuliah lain seperti Komunikasi Bisnis dan Teknologi (Kombistek). Dalam mata kuliah tersebut, penulis belajar cara berkomunikasi yang baik dengan klien. Pengetahuan ini penulis gunakan saat berinteraksi dengan klien dari divisi BI, yaitu unit bisnis yang lain, seperti GO-FOOD. Selama mengikuti KP, penulis mendapatkan pengetahuan baru dimana pengetahuan tersebut merupakan salah satu mata kuliah di Fasilkom, contohnya <it>Natural</it> <it>Language</it> <it>Processing</it> (NLP). Mata kuliah tersebut merupakan peminatan bagi jurusan Ilmu Komputer dan penulis gunakan untuk mengerjakan <it>project</it> saat KP. Penulis sendiri belum mengambil mata kuliah tersebut pada perkuliahan di Fasilkom. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Divisi BI merupakan divisi yang penting bagi sebuah perusahaan. Melalui divisi ini, perusahaan mendapatkan data yang dapat digunakan sebagai bahan pertimbangan untuk mengambil keputusan. Seperti halnya PT GO-JEK Indonesia merasakan manfaat dari divisi BI ini. Selama menjalani KP, terdapat beberapa pengetahuan yang relevan dengan perkuliahan penulis. Pengetahuan tersebut dijadikan penulis sebagai panduan untuk mengerjakan <it>project.</it> Namun, tidak cukup hanya pengetahuan tersebut. Penulis juga harus belajar untuk mendapatkan pengetahuan yang lebih banyak. Secara keseluruhan, berkesempatan merasakan pengalaman Kerja Praktik merupakan hal yang istimewa bagi penulis. Melalui KP ini penulis mendapat banyak pelajaran baru. Hal tersebut tidak hanya terkait dengan <it>hard</it> <it>skill</it> tetapi juga <it>soft</it> <it>skill.</it> Penulis juga berkesempatan untuk menerapkan ilmu yang sudah didapat selama perkuliahan. Pengalaman dan pengetahuan yang didapat selama KP ini dapat penulis jadikan sebagai bekal sebelum memasuki dunia kerja yang sebenarnya. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Selama menjalani proses Kerja Praktik (KP), penulis memiliki beberapa saran yang dapat dipertimbangkan, yaitu: - Sebelum melamar ke suatu tempat KP, calon pelaksana KP sebaiknya mengerti terlebih dahulu mengenai <it>job</it> <it>description</it> dari posisi yang akan dilamar. Hal ini untuk mencegah mahasiswa salah memilih posisi yang diinginkan karena akan berdampak pada pelaksanaan KP tersebut. - Setelah menentukan tempat dan posisi yang akan dilamar, mahasiswa sebaiknya mempersiapkan dengan baik segala sesuatu yang dibutuhkan, seperti 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			CV atau <it>resume.</it> Selain itu, mahasiswa juga harus tahu jadwal pendaftaran yang sudah ditentukan sehingga tidak terlewat. - Pelaksana KP harus mampu bekerja dalam kelompok dan individu dengan baik. Hal ini berdasarkan pengalaman penulis ketika melakukan KP. penulis akan mengerjakan tugas bersama dengan pegawai lain dan juga memiliki tanggung jawab untuk menyelesaikan tugas sendiri. - Sebaiknya durasi pengerjaan suatu <it>project</it> atau <it>task</it> disesuaikan dengan kemampuan dari pelaksana KP sehingga pelaksana KP dapat belajar dari <it>project</it> atau <it>task</it> tersebut tanpa terkesan terburu-buru dalam pengerjaannya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			Bala, M., Boussaid, O., &amp; Alimazighi, Z. (2015). Big-ETL: Extracting-Transforming- Loading Approach for Big Data. <it>Int'l</it> <it>Conf.</it> <it>Par.</it> <it>and</it> <it>Dist.</it> <it>Proc.</it> <it>Tech.</it> <it>and</it> <it>Appl.</it> (pp. 462-468). PDPTA. Go-jek.com. (2016). <it>GO-JEK</it> <it>Indonesia.</it> [online] Available at: https://www.go- jek.com/ [Accessed 30 Oct. 2016]. Hou, R. (2011). Analysis and research on the difference between data. <it>International</it> <it>Conference</it> <it>on</it> <it>Computer</it> <it>Science</it> <it>and</it> <it>Network</it> <it>Technology</it> (pp. 2636-2639). IEEE. Mind.ilstu.edu. (2016). <it>Introduction</it> <it>to</it> <it>Natural</it> <it>Language</it> <it>Processing</it> <it>-</it> <it>The</it> <it>Mind</it> <it>Project.</it> [online] Available at: http://www.mind.ilstu.edu/curriculum/protothinker/natural_language_processi ng.php [Accessed 30 Oct. 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

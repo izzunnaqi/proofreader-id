@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>Pengembangan</bo> <bo>Aplikasi</bo> <bo>Android</bo> <bo>Ruangguru</bo> <bo>untuk</bo> <bo>Orang</bo> <bo>Tua</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ISRA</bo> <bo>MELA</bo></title>
+		<segment>
+			<bo>1306381982</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDIILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER2016</bo></title>
+	</page>
+	<page id="2">
+		<title>HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK</title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: IsraMela : 1306381982 Program Studi : Ilmu Komputer Judul Kerja Praktik : Pengembangan Aplikasi <it>Android</it> Ruangguru untuk Orang Tua <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi)</bo> Ditetapkan di : [NAMA TEMPAT] Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini dibuat sebagai bentuk pertanggungjawaban dan laporan kegiatan yang dilakukan penulis sebagai peserta kerja parktik di PT. Ruang Raya Indonesia. Program kerja praktik yang penulis laksanakan berlangsung selama 8 minggu terhitung sejak tanggal 13 Juni hingga 12 Agustus 2016. Penulis akan menjelaskan terkait pelaksanaan kerja praktik yang telah dilakukan mulai dari proses pencarian tempat kerja, tugas dan pelaksanaan kerja, hingga relevansi kerja yang dilaksanakan dengan mata kuliah kampus. Selama melaksanakan program kerja, penulis mendapatkan beberapa pengetahuan baru terutama terkait pengetahuan pengembangan aplikasi <it>mobile</it> <it>app</it> berbasis <it>Android</it> pada bagian <it>front-end</it> serta pengetahuan organisasi. Pengembangan aplikasi mobile app yang dilakukan penulis menggunakan metode <it>google</it> <it>design</it> <it>sprint.</it> Kata kunci : <it>Android,</it> <it>front-end,</it> <it>google</it> <it>design</it> <it>sprint.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK . <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo> ABSTRAK .................................................................. <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo> DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ......................................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo> 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ...................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latara Belakang Pekerjaan ....................................................................... 5</title>
+		<title>2.1.2. Ruang Lingkup Pekerjaan ......................................................................... 6</title>
+		<title>2.1.3. Tinjauan Pustaka ....................................................................................... 6</title>
+		<title>2.1.4. Metodologi ................................................................................................ 8</title>
+		<title>2.1.5. Teknologi yang Digunakan ....................................................................... 9</title>
+		<title>2.1.6. Non- Teknis ............................................................................................ 10</title>
+		<title>2.1.7. Hasil Pekerjaan ...................................................................................... 11</title>
+		<title>2.2. Analisis .......................................................................................................... 11</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 11</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<segment>
+			2.2.1.1. Perbandingan dengan KAKP..............................................................12 2.2.1.2. Penilaian Terhadap Tempat Kerja Praktik..........................................13 
+		</segment>
+		<pagenum>iv</pagenum>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 14</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 15 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 15</title>
+		<title>3.2. Saran .............................................................................................................. 15</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 17 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1: Strukturorganisasi PT Ruang Raya Indonesia ..............................................3 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			Lampiran 1: Kerangka Acuan Kerja Praktik................................................................ …vi   Lampiran 2: Log Kerja Praktik ................................................................................... vii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Mata Kuliah Kerja Praktik merupakan salah satu mata kuliah wajib yang harus diambil oleh mahasiswa Fakultas Ilmu Komputer pada tingkat akhir. Mata Kuliah ini menugaskan setiap mahasiswa untuk melakukan kerja praktik selama lebih kurang 6 minggu lamanya pada perusahaan, lembaga, maupun organisasi dengan penempatan posisi kerja harus sesuai dengan kriteria yang telah diberikan. Fakultas memberi kebebasan kepada setiap mahasiswa untuk menentukan tempat kerja praktik yang diinginkan. Selain itu fakultas juga memberikan beberapa arahan dan panduan yang harus dipenuhi mahasiswa selama mengikuti kerja praktik. Sebelum mendapatkan tempat kerja praktik, penulis mencari terlebih dahulu beberapa tempat kerja yang memiliki divisi IT atau ruang lingkup kerjanya sesuai dengan syarat yang telah diberikan oleh pihak fakultas. Pada awal bulan Maret 2016, penulis mulai mendaftar dibeberapa perusahaan atau <it>startup</it> seperti Traveloka, Lazada, Bukalapak, Kudo dan beberapa perusahaan lainnya yang dilakukan secara <it>online.</it> Pada saat melakukan pendaftaran, penulis mengirimkan beberapa syarat pengajuan kerja praktik seperti <it>curriculum</it> <it>vitae</it> dan <it>cover</it> <it>letter</it> kepada perusahaan yang dituju. Proses pencarian tempat kerja yang dilakukan penulis tidak selalu berjalan dengan lancar dan sukses sesuai harapan. Terdapat beberapa kendala yang penulis alami selama melakukan pendaftaran seperti tanggapan dari perusahaan tujuan yang cukup lama dan lokasi tempat kerja yang jauh dari tempat penulis berdomisili. Pencarian tempat kerja terus dilakukan penulis hingga pada akhirnya penulis mendapatkan informasi dari <it>website</it> resmi PT. Ruang Raya Indonesia, lebih dikenal dengan sebutan Ruangguru bahwa dibukanya program magang untuk beberapa posisi. Tanpa berpikir panjang, penulis langsung melakukan pendaftaran pada <it>website</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			tersebut dengan mengisi beberapa informasi yang diminta terkait data diri, posisi kerja, dan alasan terkait ketertarikan untuk bergabung dengan program magang yang akan dilaksanakan. Lamaran kerja yang diajukan penulis ditanggapi dengan cepat oleh divisi <it>Human</it> <it>Resource</it> <it>Development</it> selang beberapa hari setelah melakukan pendaftaran. Pada tanggal 20 April penulis diundang untuk melakukan wawancara secara online pada pukul 11.00 WIB melalui skype dengan salah satu user. Setelah proses wawancara selesai, penulis diminta untuk menunggu hasil penerimaan yang akan dikirim melalui <it>e-mail.</it> Tepat satu minggu setelah proses wawancara, penulis menerima <it>e-mail</it> dari <it>staff</it> HRD Ruangguru yang menyatakan bahwa penulis lulus tahap wawancara dan diterima sebagai peserta program magang dan ditempatkan pada divisi <it>Mobile</it> <it>Developement.</it> Setelah semua proses pemberitahuan dan kesedian untuk ikut serta dalam program magang, pada tanggal 8 Juni penulis menghadiri training</it> dan <it>briefing</it> .pertama yang dilakukan oleh Ruangguru serta penandatanganan kontrak kerja. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT. Ruang Raya Indonesia merupakan salah satu <it>startup</it> digital di Indonesia yang bergerak di bidang pendidikan. PT. Ruang Raya Indonesia didirikan pada April 2012 yang berlokasi di Jalan Tebet Raya No.38 B , Jakarta Selatan, Indonesia. Tujuan bisnis yang dilakukan oleh perusahaan ini yaitu untuk menemukan calon guru yang tepat untuk menambah pelajaran di luar sekolah atau kampus, mengembangkan keahlian tertentu yang dapat dilakukan secara <it>online</it> atau <it>offline[1].</it> Terdapat beberapa produk yang telah dirilis oleh PT. Ruang Raya Indonesia yaitu : 1. Situs <it>marketplace</it> pencarian guru privat, yang menawarkan jasa di lebih 100 bidang pelajaran di seluruh Indonesia 2. <it>Mobile-app</it> yang membantu murid untuk mendapatkan solusi permasalahan belajar secara instan. Murid dapat menemukan solusi dari kendala yang ditemui 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			dengan cara berkomunikasi langsung dengan guru melalui fasilitas <it>chat</it> atau <it>audio</it> <it>call</it> yang tersedia. 3. <it>Platform</it> <it>learning</it> <it>management</it> <it>system</it> yang memungkinkan murid untuk mengakses soal latihan dan ujian yang disusun berdasarkan kurikulum terbaru. Terdapat beberapa divisi pada PT. Ruang Raya Indonesia yaitu divisi <it>marketing,</it> divisi <it>operation,</it> divisi <it>technology,</it> divisi human <it>resource.</it> Adapun struktur organisasi PT. Ruang Raya Indonesia adalah sebagai berikut : <it>Gambar1:</it> <it>Strukturorganisasi</it> <it>PT</it> <it>Ruang</it> <it>Raya</it> <it>Indonesia</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<title><bo>1.2.2</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik, penulis ditempatkan pada divisi <it>Mobile</it> <it>Application</it> <it>Developer</it> <it>Team</it> yang berada dibawah Divisi <it>Technology.</it> Divisi <it>Mobile</it> <it>Application</it> <it>Developer</it> <it>Team</it> merupakan divisi yang bertanggungjawab dalam menangani masalah terkait dengan produk <it>mobile-app</it> yang berkaitan dengan proses pengembangan, dan <it>maintance</it> sesuai dengan desain yang telah ditetapkan oleh perusahaan. Dengan berjalannya proses pengembangan aplikasi <it>mobile,</it> penulis ditugaskan untuk ikut serta dalam proses pengembangan aplikasi <it>mobile</it> yang akan digunakan oleh guru dan orang tua serta melakukan perbaikan terhadap <it>bugs</it> yang ditemukan selama proses <it>testing.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Pada awal didirikan, PT Ruang Raya Indonesia hanya memberi layanan dalam memfasilitasi murid untuk mencari guru privat berbasis <it>website</it> dengan metode  belajar yang digunakan masih bersifat <it>offline.</it> Namun seiring dengan berjalannya waktu, PT. Ruang Raya Indonesia memperluas produk yang dihasilkan agar para  murid dapat belajar dengan lebih efisien lagi, yaitu dengan diluncurkannya aplikasi <it>mobile</it> <it>app</it> dengan platform <it>Android.</it> Dengan menggunakan <it>mobile,</it> murid dapat dengan mudah untuk melakukan kegitan belajar. Tidak hanya untuk memesan guru privat, tapi juga dapat mengerjakan soal sebagai latihan, bertanya langsung kepada guru melalui fitur yang disediakan yaitu <it>chat</it> atau <it>video</it> <it>call.</it> Pada saat penulis bergabung sebagai peserta kerja praktik di PT. Ruang Raya Indionesia, aplikasi <it>mobile</it> <it>app</it> yang akan digunakan oleh guru dan murid masih dalam tahap pengembangan. Dalam proses pengembangan ini, terdapat beberapa perubahan yang dilakukan untuk disesuaikan dengan desain baru yang dibuat oleh tim UI/UX agar dapat digunakan oleh <it>user</it> dangan baik. Selain dilakukannya pengembangan aplikasi <it>mobile-app</it> untuk murid dan orang tua, juga terdapat inovasi baru yang akan dibentuk oleh PT. Ruang Raya Indonesia yaitu akan menciptakan produk <it>mobile-app</it> yang berbasis <it>android</it> dengan pengguna aplikasi tersebut adalah orang tua murid. PT.Ruang Raya Indonesia menyadari bahwa orang tua murid juga memiliki peran yang penting dalam memantau perkembangan belajar yang dilakukan oleh anak. Dikarenakan aplikasi yang dikembangkan cukup besar, dan kurangnya resource</it> <it>mobile</it> <it>developer</it> yang dimili oleh PT. Ruang Raya Indonesia, penulis ditugaskan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			untuk membantu proses pengembangan aplikasi <it>mobile</it> yang akan digunakan oleh orang tua tersebut. Dalam pengembangan aplikasi ini, tugas penulis terbatas hanya pada bagian implementasi <it>interface</it> serta interaksi dari fitur yang terdapat dalam aplikasi tersebut. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Ruang</bo> <bo>Lingkup</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik di PT. Ruang Raya indonesia ini, saya ditempatkan pada posisi <it>Mobile</it> <it>Developer</it> dengan deskripsi kerja sebagai berikut : 1. Mengembangkan aplikasi berbasis <it>Android</it> yang akan digunakan oleh guru sebagai pengajar. Pengembangan fitur yang dilakukan adalah fitur panduan guru pada bagian <it>front-end.</it> 2. Mengembangkan aplikasi berbasis Android yang akan digunakan oleh orang tua murid yaitu mengembangkan fitur <it>value</it> <it>prop,</it> <it>home,</it> <it>edite,</it> <it>edite</it> <it>profile</it> orang tua, dan fitur pembelian token pada bagian <it>front-end.</it> 3. Melakukan perbaikan terhadap <it>bugs</it> yang ditemukan selama pengembangan aplikasi. Pada saat melakukan pengembangan aplikasi, selain bertanggung jawab langsung kepada <it>Senoir</it> <it>Mobile</it> <it>Developer,</it> penulis juga melakukan hubungan langsung dengan beberapa divisi lainnya yaitu <it>System</it> <it>Analyst</it> yaitu bekerjasama dalam menentukan pembagian tugas kepada <it>developer</it> dan menentukan eksekusi waktu pengembangan fitur, QA yaitu memberikan informasi terkait <it>bugs</it> yang ditemukan selama pengembangan aplikasi. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik ini, penulis telah memiliki pengetahuan tentang android. Pengetahuan ini didapatkan penulis pada saat mata kuliah Proyek Perangkat Lunak, dimana penulis mengembangkan suatu proyek <it>mobile</it> <it>app</it> berbasis android. Namun penulis tidak puas dengan pengetahuan tersebut, penulis terus belajar terkait materi android. Dalam hal ini, pihak penyelia juga membantu dalam memberikan beberapa 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			materi terkait dengan pengembangan aplikasi berbasis android. Beberapa pustaka yang digunakan adalah sebagai berikut: 1. Kode sumber RG Teacher dan RG Student Kode sumber dari aplikasi-aplikasi Ruangguru yang sudah dikembangkan sebelumnya membantu penulis dalam memahami produk-produk dan aturan penulisan kode di Ruangguru. Selain itu penulis juga belajar flow yang diterapkan PT. Ruang Raya Indonesia dalam mengembangkan aplikasi <it>mobile.</it> <it>2.</it> <it>Android</it> <it>N</it> <it>Developer</it> <it>Preview</it> <it>Android</it> <it>N</it> <it>Developer</it> <it>Preview</it> suatu situs website yang akan memberikan apa saja yang penulis butuhkan dalam menguji dan mengoptimalkan aplikasi untuk versi Android [2]. Sumber dokumentasi dan contoh code yang terdapat pada situs ini dapat membantu penulis dalam implementasi selama pengembangan apliaksi dikareanakan terdapat petunjuk dan langkah yang jelas dalam melakukan suatu eksekusi. Selain itu, penulis juga bisa memeriksa masalah yang ditemukan dan mencari langkah- langkah solusinya.  3. Android API Android API merupakan salah satu pustaka penting yang membantu proses belajar penulis dalam memahami android. Di dalamnya penulis belajar mengenai banyak hal seperti struktur folder, komponen penting dalam pembuatan kode seperti <it>activities</it> dan <it>fragment</it> serta cara implementasi desain <it>interface</it> pada aplikasi [3]. <it>4.</it> <it>Google</it> <it>Material</it> <it>Design</it> Selama pengembangan aplikasi <it>mobile</it> penulis juga mempelajari <it>Google</it> <it>Material</it> <it>Design.</it> Penggunaan library material design dapat mempercantik tampilan dan fungsi dari aplikasi android yang dikembangkan. Dengan tampilan dari aplikasi android yang bagus dan menarik, dapat membuat <it>user</it> lebih senang dalam menggunakan aplikasi. Terdapat beberapa <it>library</it> <it>material</it> <it>design</it> yang direkomendasikan yaitu [4]: a. Material Drawer Mikepenz. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			Library drawer yang powerfull dan penggunaan yang tidak rumit. b. Floating Action Button Clans. FAB sangat penting dan hampir semua aplikasi android ada menu fab-nya. FAB merupakan <it>material</it> <it>design</it> <it>android</it> yang berbentuk tombol yang biasanya terletak dibawah kanan berbentuk <it>icon</it> <it>plus.</it> c. Material Eddittext Rengwuxian. Pada library ini user disuguhkan dengan berbagai effect dan animasi untuk material eddittext yaitu diantaranya : <it>floating</it> <it>label,</it> <it>hide</it> <it>underline,</it> <it>material</it> <it>design</it> <it>icon,</it> dan lain-lain. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, penulis mendapatkan arahan langsung dari <it>Senior</it> <it>Android</it> <it>Developer</it> dan <it>Senior</it> <it>Sistem</it> <it>Analyst</it> terkait tugas yang akan dikerjakan selama proses pengembangan aplikasi. Dalam perancangan desain <it>mobile</it> <it>app</it> untuk orang tua, PT. Ruang Raya Indonesia menggunakan metode <it>google</it> <it>design</it> <it>sprint</it> yang memakan waktu sekitar 2-5 hari. Terdapat beberapa tahap dalam metode <it>google</it> <it>design</it> <it>sprint</it> yaitu understand (memahami apa yang dibutuhkan oleh pengguan produk), <it>define</it> (menentukan strategi utama dan <it>focus</it> dalam pengembangan produk), <it>diverge</it> (menemukan sebanyak mungkin ide bagaimana produk akan ditampilkan), <it>decide</it> (memilih ide desain terbaik), <it>voting</it> dan <it>validate</it> (<it>prototype</it> yang telah dibuat akan diuji cobakan kepada beberapa calon pengguna untuk mengetahui <it>feedback</it> mereka mengenai rancangan aplikasi). Setelah hasil <it>design</it> diputuskan, maka tahap selanjutnya adalah pembagian tugas kepada <it>developer</it> android untuk mengimplementasikan <it>design</it> tersebut. Penulis ikut serta dalam taha pimplementasi <it>design</it> tersebut. Berikut tahapan yang penulis lakukan selama pengembangan aplikasi <it>mobile</it> <it>app</it> untuk orang tua: 1. Pembagian Kerja. <it>Sistem</it> <it>Analyst</it> berdiskusi langsung dengan <it>developer</it> android terkait pembagian pengerjaan fitur aplikasi dan lama waktu implementasi fitur dari <it>front</it> <it>end</it> serta integrasi fitu tersebut ke database. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			2. Implementasi <it>Front-end</it> Pada tahap ini, desain visual yang telah dibuat oleh tim UI/UX akan diimplentasikan oleh <it>developer.</it> Pengerjaan yang dilakukan yaitu implementasi tampilan luar (layout) dan memastikan bahwa slicing yang dihasilkan harus sama persis dengan mockup baik dari segi warna, animasi dan lain-lain. Developer bertanggungjawab dalam mengerjakan sisi fungsional agar user dengan mudah mendapatkan informasi yang dibutuhkan saat menggunakan aplikasi. 3. Integrasi database Pada saat integrasi harus dipastikan semua fungsi berjalan dengan benar. Misalnya implementasi pada form registrasi, pembayaran dan lain sebagainya. Pada saat pelaksanaan kerja praktik ini, penulis melakukan pengembangan fitur dan melakukan <it>testing</it> secara mandiri pada tahap <it>development</it> di <it>core</it> coba. Setelah berhasil pada tahap ini, maka selanjutnya fitur tersebut akan masuk ke tahap <it>testing</it> selajutnya yang dilakukan oleh <it>Quality</it> <it>Assurance.</it> 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>digunakan</bo></title>
+		<segment>
+			PT. Ruang Raya Indonesia memiliki standarisasi dalam pengembangan aplikasi berbasis mobile. Beberapa teknologi yang penulis gunakan selama kerja praktik adalah sebagai berikut: 1. <it>Android</it> <it>Studio</it> <it>Android</it> <it>Studio</it> merupakan aplikasi utama yang digunakan penulis dalam pelaksanaan kerja praktik. <it>Android</it> <it>Studio</it> merupakan intelligent code editor yang melakukan <it>code</it> <it>completion,</it> <it>refactoring,</it> dan <it>code</it> <it>analysis</it> sehingga mempermudah penulis dalam melakukan pekerjaan. 2. <it>Version</it> <it>Control</it> <it>dan</it> <it>Respository</it> Selama melaksanakan kerja praktik, penulis menggunakan GitBash sebagai version control tools dengan menggunakan SmartGit sebagai repository. Sebelumnya penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			pernah menggunakan teknologi ini dalam pengerjaan tugas matakuliah, sehingga dalam penggunaannya penulis tidak terlalu mengalami kesulitan. 3. <it>Project</it> <it>Management.</it> Untuk mengatur pengembangan fitur agar dapat berjalan dengan baik dan terorganisir, PT. Ruang Raya Indonesia menggunakan trello sebagai <it>project</it> <it>management</it> <it>tools.</it> Trello adalah sebuah layanan berbasis web seperti dinding virtual dimana pengguna dapat menempelkan berbagai ide, <it>todo-list,</it> <it>progress,</it> <it>bug</it> dan lain- lain yang bias dipantau oleh anggota <it>team,</it> dan dikerjakan oleh anggota <it>team</it> yang bersangkutan. 4. Bahasa Pemograman Dalam pengembangan fitur untuk <it>mobile</it> <it>app</it> yang berbasis android, penulis menggunakan beberapa Bahasa pemogoraman yaitu XML dan Java. XML adalah bahasa <it>makrup</it> yang sering digunakan untuk berbagai keperluan. XML dipakai di <it>webservice,</it> konfigurasi, <it>layout</it> dan berbagai keperluan lain di dunia programming. Java adalah Bahasa pemograman yang digunakan dalam pemograman android. Konsep seperti <it>class,</it> <it>package,</it> <it>access</it> <it>modifier</it> (<it>public/privat)</it> dan konsep lain akan diterapkan dalam pengembangan aplikasi untuk orang tua. 5. Penguji API Pada saat pengembangan aplikasi, penulis menggunakan <it>Postman</it> dan <it>Retrofit</it> untuk mengakses API. <it>PostMan</it> adalah sebuah <it>plugin</it> dari <it>Google</it> <it>Chrome</it> yang memudahkan untuk menguji coba <it>API</it> yang telah dibuat [5]. Penulis disini menggunakan <it>postman</it> untuk mengecek jalannya aplikasi yang menggunakan API untuk melihat apakah sudah sukses diimplementasi. <it>Retrofit</it> adalah sebuah <it>library</it> yang digunakan dalam <it>android</it> dan <it>java</it> untuk mengakses API [6]. Retrofit digunakan penulis untuk melakukan perubahan data yang berkaitan dengan fitur aplikasi. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<title><bo>2.1.6.</bo> <bo>Non-Teknis</bo></title>
+		<segment>
+			Kemampuan yang digunakan pada saat melaksanakan KP tidak hanya meliputi kemampuan yang bersifat teknis, namun juga diperlukan kemampuan non-teknis. Adapun kemampuan non-teknis yang berkaitan dengan kerja praktik ini adalah kemampuan berkomunikasi, memegang tanggungjawab, manajemen waktu, dan kerjasama tim yang baik.Pelaksanaan kerja praktik harus dituntut untuk dapat membangun komunikasi yang baik dengan seluruh anggota dari divisi <it>mobile</it> <it>development</it> dan anggota divisi lainnya. Dalam mengembangkan aplikasi mobile, penulis dan <it>developer</it> <it>mobile</it> lainnya harus mampu bekerja sama dengan baik agar tugas yang diberikan dapat selesai sesuai jadwal yang ditetapkan.Selain itu,penulis juga harus dapat bertanggungjawab atastugas yang telah diberikan oleh senior mobile developer. Selain itu, penulis juga didorong utuk dapat mengatur waktu dengan baik, dikarenakan setiap tugas yang diberikan mempunyai <it>deadline</it> yang cukup singkat, sehingga penulis harus mampu untuk membagi waktu yang dimilliki agar tugas yang telah diberikan dapat diselesaikan tepat waktu dengan hasil sesuai harapan. 
+		</segment>
+		<title><bo>2.1.7.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Sampai hari akhir penulis selesai mengerjakan kerja praktik, secara keseluruhan proses pengembangan aplikasi masih belum selesai dikarenakan masih terdapat beberapa perubahan dan penambahan <it>requirement</it> yang terjadi. Beikut penulis menampilkan beberapa hasil kerja yang telah penulis lakukan selama kerja praktik. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Kerja praktik dilakukan oleh penulis dalam waktu8 minggu terhitung dari tanggal 13 Juni –  12  Agustus  2016.  Kerja  praktik  dilakukan  dari  hari  Senin  –  Jumat  dimulai  pukul 9.00 –  17.00  WIB.  Pada  pelaksanaan  kerja  praktik  dilakukan  <it>daily</it>  <it>standup</it>  <it>metting</it> setiap hari Senin dan Jumat pada pukul 10.00 untuk membahas 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			perkambangan maupun kendala yang dihadapi oleh para <it>developer</it> selama pengembangan aplikasi. Adanya aturan mengenai waktu kerja membuat penulis lebih disiplin dalam melakukan tugas yang diberikan. Penyerahan tugas kepada penulis selama kerja praktik telah memperdalam ilmu yang dimiliki penulis serta menambah wawasan baru penulis terkait hal-hal baru yang belum didapatkan selama masa perkuliahan. Penulis lebih memahami proses pengembangan produk yang baik dan bagaimana cara bekerja dalam sebuah <it>team.</it> Lingkungan kerja PT. Ruang Raya Indonesia yang bersifat terbuka membantu penulis untuk beradaptasi dengan lingkungan dan belajar hal baru dengan mudah. Namun selama pengerjaan tugas, tentunya penulis tidak lepas dari berbagai kendala. Salah satu kendala yang dimiliki oleh penulis selama pelaksanaan kerja praktik yaitu sering berubahnya <it>design</it> <it>mobile</it> <it>app</it> orang tua yang diberikan oleh team UI/UX. Sering kali pengembangan <it>front-end</it> yang dilakukan penulis terhambat karena perubahan yang sering terjadi sehingga menyebabkan proses pengembangan fitur lain ikut tertunda. Terlepas dari kendala tersebut, penulis cukup terbantu dengan adanya bantuan yang diberikan oleh peneyelia selama kerja praktik. <bo>2.2.1.1.</bo> <bo>Perbandingan</bo> <bo>dengan</bo> <bo>KAKP</bo> Secara keseluruhan pelaksanaan kerja praktik yang dilakuakan penulis dengan rancangan KAKP tidak berbeda jauh. Namun terdapat berberapa perubahan yaitu eksekusi waktu yang tidak sesuai dengan rencana awal yang terdapat pada KAKP. Hal ini disebabkan karena terdapatnya perubahan yang sering terjadi selama pelaksanaan sprint satu, sehingga membutuhkan waktu yang lebih lama untuk menyelesaikan satu sprint yang telah ditetapkan. Pada awal pelaksanaan kerja praktik penulis ditugaskan untuk melajutkan pengembangan dan melakukan <it>bug</it> <it>fixing</it> <it>mobile</it> <it>app</it> yang akan digunakan oleh murid dan guru. Namun karena adanya inovasi baru yang diberikan oleh PT. Ruang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			Raya Indonesia untuk melakukan pemantauan terhadap proses belajar anak yaitu dengan mengembangan <it>mobile</it> <it>app</it> untuk orang tua, akhirnnya penulis ditugaskan untuk melakukan pengembangan aplikasi tersebut bersama dengan <it>team</it> <it>developer</it> lainnya. <bo>2.2.1.2.</bo> <bo>Penilaian</bo> <bo>Terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> PT. Ruang Raya Indonesia merupakan tempat praktik yang membantu penulis dalam mengembangkan pengetahuan yang dimiliki. Terdapat budaya yang diterapkan oleh PT. Ruang Raya Indonesia yang tidak membedakan antara karyawan <it>full</it> <it>time</it> dengan karyawan magang sehingga membuat penulis merasa nyaman dalam berhubungan dengan divisi lain saat bekerja. Selain itu PT. Ruang Raya Indonesia mengadakan acara <it>fun</it> <it>week</it> yang diadakan setiap bulannya yang diikuti oleh setiap karyawan. Acara ini bertujuan untuk memberi semangat baru kepada karyawan agar tidak jenuh dengan beban pekerjaan yang dihadapi. Selain itu, PT Ruang Raya Indonesia juga memberikan <it>workshop</it> kepada para pelaksana kerja praktik. Dengan diadakannya <it>workshop</it> dengan tema pendidikan di Indonesia, menambah wawasan penulis terkait proses pendidikan yang berjalan di Indonesia terutama pada daerah pedalaman. Dalam kegiatan ini, peserta dihadapkan dengan berbagai <it>issue</it> pendidikan di Indonesia, dan diminta untuk mencari solusi dalam menyelesaikan permasalah tersebut. Untuk memotivasi para karyawan magang agar dapat memberikan hasil kerja yang baik, PT Ruang Raya Indonesia juga memberikan penghargaan setiap minggu kepada para karyawan yang memiliki kinerja yang bagus. Selain untuk memotivasi karyawan, kegiatan ini juga bertujuan untuk memberi apresiasi kepada karyawan sehingga mereka merasa`hasil kerja yang mereka lakukan dihargai oleh perusahaan. Dari uraian diatas, menurut penulis PT. Ruang Raya Indonesia merupakan salah satu tempat yang cocok untuk melaksanakan kerja praktik. Penulis mendapatkan ilmu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			serta pengalaman baru yang selama ini belum pernah didapatkan di dunia perkuliahan. Sehingga dengan pengalaman tersebut dapat membuat penulis untuk lebih siap menghadapi dunia kerja pada masa`yang akan datang. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>RelevansidenganPerkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik, penulis menerapkan beberapa ilmu yang pernah dipelajari di perkuliahan sebelumnya. Berikut adalah mata kuliah yang penulis terapkan selama kerja praktik: 1. Dasar Dasar Pemograman dan Struktur Data Algoritma Penulis dalakm mengembangkan aplikasi <it>mobile</it> <it>app</it> berasis android menggunakan bahasa java. Penulis juga mengimplementasikan konsep <it>Object</it> <it>Oriented</it> <it>Programming</it> dalam mengembangkan aplikasi.Penggunaan konsep OOP sangat penting diimplemetasikan agar <it>code</it> yang dibuat lebih terstruktur. 2. Rekaya Perangkat Lunak. Pada mata kuliah ini, penulis mempelajari metodologi yang dapat diaplikasikan pada saat melakukan pengembangan perangkat luanak. Selama melaksanakan kerja praktik, penulis menerapkan metode <it>scrum</it> dengan <it>developer</it> yang ikut terlibat dalam pengembangan aplikasi. 3. Proyek Perangkat Lunak Pada mata kuliah proyek perangkat lunak, penulis terlibat langsung dalam mengembangan aplikasi. Penulis diajarkan bagaimana merancang suatu aplikasi dari awal, mulai dari men-<it>design</it> <it>mockup,</it> implementasi <it>front</it> <it>end,</it> hingga melakukan integrasi. Pada mata kuliah ini untuk pertama kalinya penulis belajar cara pengembagan aplikasi berbasis android. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			PT. Ruang Raya Indonesia merupakan salah satu <it>startup</it> di Indonesia yang bergerak di didang pendidikan. Perusahaan ini terdiri dari beberapa divisi, salah satunya adalah bagian <it>mobile</it> <it>development</it> yang merupakan tempat dari pelaksanaan kerja praktik penulis. Selama kerja praktik penulis membantu <it>team</it> <it>developer</it> dalam mengembangkan <it>mobile</it> <it>app</it> berbasis android yang akan digunakan oleh orang tua. Penlis mengembangkan beberapa fitur yaitu <it>value</it> <it>prop,</it> <it>home,</it> pembelian token, <it>edite</it> <it>profile</it> orang tua , dan lain- lain. Bekerja di PT. Ruang Raya Indonesia menambah pengetahuan dan pengalaman penulis mengenai cara kerja disebuah <it>startup.</it> Hal penting yang didapatkan penulis adalah pengalaman merasakan dunia kerja yang sesungguhnnya, bagaimana menghadapi masalah nyata dan belajar bekerjasama dalam tim dalam menyelesaikan tugas yang diberikan. Selain itu penulis juga mendapatkan <it>skill</it> non teknis seperti manajemen waktu, disiplin, bertanggung jawab serta kemampuan komunikasi dengan pihak lain. Selama pelaksanaan kerja praktik, penulis tidak terlepas dari kendala. Namun penulis beruntung karena kendala tersebut dapata diatasi dengan adanya bantuan dan bimbingan yang diberikan oleh penyelia dan teman – teman lainnya yang berada pada  divisi yang sama. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Proses pencarian kerja praktik bukanlah merupakan suatu proses yang praktis dan mudah untuk dilakukan, sehingga diperlukan waktu yang cukup agar bisa mendapatkan tempat kerja praktik yang sesuai dengan keinginan. Dengan megikuti kerja praktik tentunya akan sangat membantu mahasiswa untuk menambah pengalaman dan pengertahuan terkait dunia kerja nantinya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			Untuk perusahaan penulis berharap agar tempat kerja praktik bisa merencanakan produknya dengan lebih matang sehingga pengerjaan proyek yang diberikan dapat diselesaikan tepat waktu. Selain itu dengan rencana kerja yang baik tentunya <it>output</it> yang dihasilkan dari pekerjaan yang dilakukan akan lebih baik sesuai dengan harapan. Untuk pihak fakultas, penulis berharap bisa mendapat umpan balik mengenai KAKP lebih cepat. Penulis sendiri baru mendapat umpan balik beberapa minggu disaat penulis akan selesai melaksanakan kerja praktik. Panduan penulisan laporan dan formulir penilaian penyelia juga diharapkan dapat di <it>publish</it> lebih awal sehingga pelaksana kerja praktik memiliki waktu lebih untuk mempersiapkannya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT. Ruang Raya Indonesia. (n.d). Tentang Ruangguru. Diakses pada 6 November 2016 dari https://ruangguru.com/tentang-kami/  [2] <it>Android</it> <it>N</it> <it>Developer</it> <it>Preview(n.d)</it> <it>.</it> Diakses pada tanggal 6 November 2016 dari https://developer.android.com  [3] Android StudioThe Official IDE for Android. (n.d.). Diakses pada 6 November 2016 dari https://developer.android.com/guide/index.html  [4] <it>Google</it> <it>Material</it> <it>Design</it> (n.d). Diakses pada tanggal 8 November 2016 dari http://imamfarisi.com/mempercantik-aplikasi-android-dengan-material-design/ [5] Postman. (n.d.). Diakses pada 8 November 2016 dari https://chrome.google.com/webstore/detail/postman/ [6] Retrofit. (n.d.). Diakses pada 8 November 2016 dari https://square.github.io/retrofit/ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

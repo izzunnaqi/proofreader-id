@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>ANALISIS,</bo> <bo>DESAIN,</bo> <bo>DAN</bo> <bo>IMPLEMENTASI</bo> <bo>SISTEM</bo> <bo>OFFICE</bo></title>
+		<title><bo>AUTOMATION</bo> <bo>BNI</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ANDRE</bo> <bo>VALERIAN</bo></title>
+		<segment>
+			<bo>1306405326</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Andre Valerian : 1306405326 : Sistem Informasi : Analisis, Desain, dan Implementasi Sistem Office Automation BNI <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf,</bo> <bo>S.Kom.,</bo> <bo>M.I.S.)</bo> Ditetapkan di : …  Tanggal : …  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan kerja praktik ini merupakan hasil dari pelaksanaan kerja praktik pada PT. Bank Negara Indonesia (Persero) Tbk. Pelaksanaan kerja praktik dimulai pada tanggal 13 Juni 2016 sampai dengan 9 Agustus 2016. Penulis ditempatkan pada divisi Solusi dan Keamanan Teknologi Informasi kelompok Office Automation dan memiliki peran sebagai <it>developer</it> aplikasi. Dalam pelaksanaan kerja praktik, penulis membantu kelompok OFA dalam mengembangkan aplikasi yang ditujukan untuk mempercepat dan mempermudah proses pengerjaan suatu tugas dengan pemanfaatan teknologi informasi. Hasil akhir dari pelaksanaan kerja praktik ini adalah tiga buah aplikasi yang dapat dimanfaatkan dan menunjang kinerja internal BNI. Kata kunci: <it>Office</it> <it>Automation,</it> Kerja Praktik, Pengembangan Aplikasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 5</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 6</title>
+		<title>2.1.3. Metodologi ................................................................................................ 7</title>
+		<title>2.1.4. Teknologi .................................................................................................. 7</title>
+		<title>2.1.5. Non-Teknis ............................................................................................... 9</title>
+		<title>2.2. Analisis .......................................................................................................... 10</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 10</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 11</title>
+		<segment>
+			BAB 3 PENUTUP ..................................................................................................... 13 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 13</title>
+		<title>3.2. Saran .............................................................................................................. 13</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 14 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis pada awalnya melakukan pencarian kerja praktik melalui acara Job &amp; Career Expo CDC UI di Balairung pada awal tahun 2016. Pada acara tersebut, penulis mencoba untuk mendaftar kepada beberapa perusahaan. Akan tetapi, tidak semua perusahaan menyediakan program kerja praktik dan beberapa perusahaan menyediakan program kerja praktik yang cukup lama yaitu sekitar 6 bulan. Setelah melakukan pendafatran, penulis mendapatkan undangan lowongan dari perusahaan Mediatrac dan Inphosoft. Namun penulis merasa tidak cocok dengan lowongan tersebut dan memilih mencari informasi mengenai lowongan kerja praktik di tempat lain. Kemudian, penulis melakukan diskusi dengan rekan-rekan penulis mengenai kerja praktik dan penulis mendapatkan informasi mengeai lowongan kerja praktik di Bank Indonesia dan Bank Negara Indonesia. Penulis kemudian melakukan pertimbangan diantara kedua lowongan tersebut, dan pada akhirnya penulis mencoba untuk mendaftar pada Bank Negara Indonesia.</title>
+		<segment>
+			divisi (ONL). Divisi ONL merupakan Proses pendaftaran pada Bank Negara Indonesia dimulai dengan menghubungi Divisi Organizational Learning yang bertanggungjawab untuk menagani pembelajaran pada BNI baik untuk pegawai baru maupun kerja praktik atau magang. Syarat yang diberikan oleh Divisi ONL adalah mengumpulkan proposal kerja praktik, dokumen transkrip nilai, dan surat pengajuan kerja praktik. Selain mengumpulkan berkas-berkas dokumen, penulis juga harus melakukan wawancara secara langsung di kantor Divisi ONL yang berlokasi di Jalan Lada, Jakarta Kota. Divisi ONL mengarahkan penulis kepada divisi Solusi dan Keamanan Teknologi Informasi (STI) yang sesuai dengan latar belakang penulis sebagai mahasiswa Fakultas Ilmu Komputer Universitas Indonesia. Setelah menunggu 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			beberapa saat, penulis mendapatkan kabar bahwa lamaran kerja praktik diterima dan ditempatkan pada divisi STI BNI yang berlokasi pada Gedung Landmark, Sudirman. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Gambar 1. Logo Bank Negara Indonesia PT. Bank Negara Indonesia (Persero) Tbk. adalah salah satu bank milik negara tertua di Indonesia. Bank Negara Indonesia (BNI) berdiri pada tanggal 5 Juli 1946 dan sempat menjadi bank sentral dan bank umum sesuai dengan peraturan UU No. 2 tahun 1946 sebelum menjadi bank komersial pada tahun 1955. Visi BNI adalah menjadi lembaga keuangan yang unggul dalam layanan dan kinerja. Misi BNI adalah memberikan layanan prima dan solusi yang bernilai tambah kepada seluruh nasabah dan selaku mitra pilihan utama, meningkatkan nilai investasi yang unggul bagi investor, menciptakan kondisi terbaik bagi karyawan sebagai kebanggaan untuk berkarya dan berprestasi, meningkatkan kepedulian dan tanggung jawab kepada lingkungan dan komunitas, dan menjadi acuan pelaksanaan kepatuhan dan tata kelola perusahaan yang baik bagi industri [1]. Saat ini, BNI memiliki beberapa layanan unggulan seperti tabungan, pinjaman, kartu kredit, dan <it>e-banking.</it> BNI memiliki cabang diseluruh Indonesia dan maca negara seperti Hongkong, Kuala Lumpur, Singapura, Tokyo, London, dan New York [2]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Pada saat melaksanakan kerja praktik, penulis ditempatkan pada divisi Solusi dan Keamanan Teknologi Informasi (STI) BNI kelompok Office Automation (OFA). Divisi STI bertugas untuk membuat solusi dan <it>IT</it> <it>development</it> untuk memenuhi kebutuhan BNI pada bidang teknologi informasi. Kelompok OFA berfokus untuk melakukan <it>software</it> <it>development</it> yang dapat digunakan untuk menunjang kinerja internal perusahaan. Dalam kelompok OFA, penulis dirahakan dan dibimbing oleh Bapak Cahyo Adi Nugroho selaku ketua kelompok dan Bapak Setyo Ari Sudadi selaku pengelola kelompok. Penulis diposisikan sebagai <it>developer</it> aplikasi berbabasis <it>web.</it> Dalam pelakasanaannya, penulis juga berkerjasama dengan rekan-rekan dari kelompok OFA yang mengembangkan <it>mobile</it> <it>apps</it> dan <it>web</it> <it>developer.</it></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			Gambar 2. Struktur Organisasi Divisi Solusi dan Keamanan Teknologi Informasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> Kelompok Office Automation (OFA) pada divisi Solusi dan Teknologi Informasi (STI) berperan untuk melakukan software development untuk menunjang kinerja internal perusahaan. Aplikasi-aplikasi yang di <it>develop</it> oleh kelompok OFA bersifat untuk memudahkan dan mepersingkat waktu yang digunakan untuk melakukan sebuah pekerjaan melalui penerapan teknologi informasi.</title>
+		<segment>
+			Selain melakukan <it>software</it> <it>development,</it> kelompok OFA juga memiliki pekerjaan lain dalam bidang teknologi informasi. Sebagai contoh, kelompok OFA membantu divisi- divisi lainnya untuk melakukan <it>troubleshooting</it> dan <it>maintenance</it> aplikasi yang telah di <it>publish.</it> Selain itu, saat ada acara ulang tahun BNI, kelompok OFA ditugaskan untuk membuat aplikasi untuk melakukan pengundian hadiah. Saat penulis berdiskusi bersama ketua dan pengelola kelompok OFA untuk pertama kali, penulis ditawarkan beberapa aplikasi untuk dikerjakan tetapi ada satu pekerjaan yang harus diutamankan yaitu Sistem Administrasi Aplikasi BNI (SAA BNI). Hal ini dikarenakan OFA membutuhkan suatu aplikasi yang dapat digunakan sebagai pondasi untuk mengembangkan aplikasi lainnya. SAA BNI memiliki fitur-fitur dasar dalam mengelola suatu aplikasi. Dengan pembuatan SAA BNI, diharapkan dapat mempermudah proses pengembangan aplikasi lainnya. Setelah SAA BNI, ketua dan pengelola kelompok OFA memiliki ide mengenai proyek absensi dengan menggunakan aplikasi <it>mobile</it> ditambah dengan QR code yang disebut dengan e-Absensi BNI. Kelebihan dari e-Absensi BNI adalah meningkatkan keakuratan waktu dan lokasi kehadiran pegawai. Dalam aplikasi tersebut, pegawai 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			harus melakukan <it>check-in</it> (<it>location</it> <it>based)</it> pada area kantor kemudian melakukan <it>tapping</it> dengan QR code pada tablet yang memiliki aplikasi e-Absensi BNI. Selain SAA dan e-Absensi, kelompok OFA memiliki ide untuk membuat aplikasi Audit Monitoring. Aplikasi Audit Monitoring bertujuan untuk memudahkan porses pengolahan data dalam melakukan audit. Hal ini dikarenakan proses audit internal yang dilakukan belum menggunakan suatu sistem sehingga memerlukan waktu yang tidak sedikit. Penggunaan sistem Audit Monitoring juga dapat mempermudah admin audit untuk mengelola berkas-berkas temuan yang sudah ditindaklanjuti maupun belum. Banyaknya pekerjaan yang harus diselesaikan oleh kelompok OFA menjadi latar belakang penulis untuk membantu pekerjaan kelompok OFA dalam melakukan <it>development</it> aplikasi yang belum sempat untuk diimplementasikan. Selain itu, penulis juga tertarik untuk belajar dan mengaplikasikan pengethauan yang didapat selama melakukan studi pada Fakultas Ilmu Komputer Universitas Indonesia pada dunia kerja secara nyata. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			•  Proyek  Menurut definisi dari PMBOK Guide, definisi proyek adalah suatu usaha sementara untuk membuat suatu produk, jasa, dan hasil yang unik [3]. •  Web Development Framework  <it>Web</it> <it>development</it> <it>framework</it> adalah suatu kumpulan sumber daya dan alat pengembangan untuk membangun dan mengelola aplikasi <it>web,</it> layanan <it>web,</it> dan situs <it>web</it> [4]. •  Software Development Process  <it>Software</it> <it>development</it> <it>process</it> atau <it>software</it> <it>development</it> <it>life</it> <it>cycle</it> adalah kerangka untuk aktifitas, tindakan, dan tugas yang dibutuhkan untuk membuat perangkat lunak dengan kualitas tinggi [5]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo> Dalam pelaksanaan kerja praktik pada PT. Bank Negara Indonesia (Persero) Tbk., penulis menggunakan metodologi <it>Mini</it> <it>Software</it> <it>Development</it> <it>Life</it> <it>Cycle</it> (<it>Mini</it> <it>SDLC)</it> yang dianjurkan oleh penyelia KP. Proses yang terdapat dalam metodologi <it>mini</it> <it>SDLC</it> adalah <it>planning,</it> <it>analysis,</it> <it>design,</it> <it>implementation,</it> dan <it>mini</it> <it>testing</it> dan tebagi menjadi dua iterasi.</title>
+		<segment>
+			Pengembangan suatu aplikasi dimulai dengan penyelia kerja praktik memberikan pilihan aplikasi yang belum diimplementasi. Setelah memilih aplikasi yang akan diimplementasi, penulis melakukan analisis dan diskusi mengenai konsep, rencana, serta <it>requirement</it> yang dibutuhkan untuk aplikasi tersebut. Kemudian penulis melakukan proses desain dari aplikasi tersebut. Setelah melakukan desain, penulis lanjut ke tahap implementasi aplikasi. Dalam melakukan implementasi aplikasi, penulis melakukan diskusi dengan penyelia secara berkala sehingga hasil implementasi dapat sesuai dengan kebutuhan organisasi. Setelah aplikasi selesai di implementasi, penulis melakukan <it>mini</it> <it>testing</it> untuk memastikan aplikasi telah berjalan dengan baik. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> Penulis menggunakan beberapa bantuan teknologi dalam proses pelaksana kerja praktik pada PT. Bank Negara Indonesia (Persero) Tbk. Teknologi yang digunakan selama mengerjakan <it>development</it> aplikasi adalah XAMPP, GitHub, FileZilla, Sublime Text, dan Adobe Photoshop.</title>
+		<title>•  XAMPP </title>
+		<segment>
+			Aplikasi XAMPP digunakan selama proses <it>development</it> aplikasi untuk melakukan <it>testing</it> secara lokal pada laptop penulis. Dengan XAMPP penulis dapat secara langsung melihat dan melakukan <it>testing</it> aplikasi yang dibuat tanpa harus melakukan <it>deployment</it> ke server. Aplikasi XAMPP digunakan karena pengaplikasiannya sangat mudah dan penulis sudah familiar dengan aplikasi tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			•  Github  Github adalah sebuah aplikasi <it>version</it> <it>control</it> dan <it>source</it> <it>code</it> <it>management</it> yang memudahkan penulis dalam melakukan <it>development</it> bersama rekan penulis tanpa harus memindahkan <it>file</it> secara manual. Aplikasi Github dipilih karena memiliki Graphic User Interface yang baik dan penulis sudah familiar dengan aplikasi tersebut. Selain itu, Github memiliki fitur <it>private</it> <it>repository</it> sehingga <it>source</it> <it>code</it> yang di-<it>publish</it> penulis terjaga kerahasiaannya. •  FileZilla  Aplikasi FileZilla digunakan selama proses <it>development</it> aplikasi untuk memudahkan proses <it>deployment</it> ke server. Hal ini dikarenakan aplikasi FileZilla memiliki <it>size</it> <it>limit</it> yang lebih tinggi, sehingga penulis dan rekan penulis dapat melakukan <it>deployment</it> dengan jumlah <it>file</it> yang lebih banyak. Aplikasi FileZilla dipilih karena bersifat <it>multi-platform</it> dan penulis sudah familiar dengan aplikasi tersebut. •  Sublime Text  Sublime Text adalah sebuah aplikasi <it>text</it> <it>editor</it> yang digunakan penulis dalam melakukan <it>development</it> aplikasi. Aplikasi Sublime Text dipilih karena memiliki tampilan yang baik dengan fitur yang beragam sehingga memudahkan penulis dalam melalukan proses <it>development.</it> •  Adobe Photoshop  Aplikasi Adobe Photoshop digunakan selama proses development aplikasi untuk memudahkan pada proses <it>design.</it> Dengan aplikasi ini, penulis dapat membuat <it>mockup</it> dan <it>background</it> pada aplikasi. Aplikasi Adobe Photoshop dipilih karena memudahkan penulis dalam melakukan proses olah gambar secara <it>digital</it> dan penulis sudah familiar dengan aplikasi tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<title><bo>2.1.5.</bo> <bo>Non-Teknis</bo> Selain hal-hal teknis, dalam <it>development</it> aplikasi juga membutuhkan kemampuan atau keterampilan non-teknis. Hal ini dikarenakan kemampuan non-teknis dapat membantu mempermudah proses <it>development</it> sebuah aplikasi. Kemampuan non-teknis yang dibutuhkan dalam pelaksanaan kerja praktik ini adalah kemampuan komunikasi, <it>problem</it> <it>solving,</it> dan adaptasi.</title>
+		<segment>
+			Aspek kemampuan komunikasi yang dibutuhkan tidak hanya sebatas antar rekan-rekan kelompok OFA, tetapi juga kemampuan untuk berkomunikasi dengan penyelia serta kemampuan presentasi. Hal ini dikarenakan dalam melakukan development aplikasi, dibutuhkan komunikasi yang baik dengan penyelia agar tidak terjadi miskomunikasi atau kesalah pahaman. Selain itu komunikasi dengan rekan-rekan kelompok OFA juga tidak kalah penting. Hal ini dikarenakan rekan-rekan kelompok OFA dapat berbagi pengetahuan dan informasi mengenai hal-hal yang perlu diperhatikan dalam <it>development</it> aplikasi pada perusahaan. Hal yang tidak kalah penting adalah kemampuan dalam melakukan presentasi. Kemampuan presentasi sangat penting untuk meyakinkan klien ataupun penyelia mengenai kinerja penulis dalam melakukan <it>development</it> aplikasi. Aspek kemampuan selanjutnya adalah <it>problem</it> <it>solving.</it> Kemampuan <it>problem</it> <it>solving</it> sangat dibutuhkan untuk mememcahkan masalah saat terjadi hal-hal yang berada diluar dugaan saat melakukan <it>development</it> aplikasi. Dalam hal ini, kemampuan <it>problem</it> <it>solving</it> dapat membantu penulis dalam memberikan alternatif solusi terhadap suatu permasalahan, memberikan alternatif logika dan algoritma pada suatu sistem yang sedang atau akan dibangun, atau mengatasi masalah yang terjadi pada suatu sistem. Aspek kemampuan yang terakhir adalah kemampuan untuk beradaptasi dengan lingkungan. Kemampuan beradaptasi merupakan salah satu kunci untuk dapat mengikuti perubahan dengan baik. Dalam hal ini, mengerjakan suatu <it>development</it> di lingkungan perusahaan merupakan hal yang berbeda jika dibandingkan dengan kuliah. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			Pada perusahaan memiliki terdapat budaya perusahaan yang harus diikuti dan memiliki jam kerja yang lebih padat. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pelaksanaan kerja praktik pada PT. Bank Negara Indonesia (Persero) Tbk. Sudah cukup sesuai dengan KAKP yang ditulis oleh penulis sebelumnya. Semua aplikasi yang tertera pada KAKP dapat diimplementasikan dan didokumentasikan dengan baik. Aplikasi yang berhasil diimplementasikan adalah Sistem Administrasi Aplikasi BNI, e-Absensi BNI, dan Audit Monitoring.</title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis dan rekan penulis juga diberikan informasi mengenai kegiatan dan <it>job</it> <it>desk</it> yang dilakukan pada seluruh divisi Solusi dan Keamanan Teknologi Informasi. Penulis juga diberikan pengetahuan bagaimana proses <it>development</it> aplikasi pada perusahaan. Dapat disimpulkan bahwa proses <it>development</it> pada perusahaan membutuhkan sinergi dan <it>support</it> yang baik dari berbagai divisi. Hal ini dikarenakan aplikasi pada perusahaan khususnya bank memiliki tingkat resiko yang sangat tinggi. Selain itu, penulis juga diterangkan mengenai bagaimana proses <it>Disaster</it> <it>Recovery</it> <it>Plan</it> yang dimiliki oleh perushaan. Selain mendapatkan ilmu dan pengetahuan mengenai proses development aplikasi pada perusahaan, penulis juga ikut menghadiri acara hari ulang tahun BNI ke 70 di Jakarta Convention Center pada tanggal 24 Juli 2016. Pada acara tersebut, penulis bersama rekan penulis dan kelompok Office Automation (OFA) menampilkan aplikasi absensi QR (e-Absensi BNI) pada <it>booth</it> kelompok Office Automation dimana pengunjung yang datang dapat mencoba langsung aplikasi tersebut. Terdapat beberapa kendala yang dialami penulis dalam melakukan <it>development</it> aplikasi. Sebagai contoh pada awalnya penulis mengalami kesulitan dalam menangani data dengan jumlah yang sangat banyak. Data-data ini membuat sistem yang di implementasi penulis menjadi sangat lambat. Hal ini dikarenakan pada awalnya penulis tidak menggunakan <it>data</it> <it>tables</it> sehingga jika mengakses suatu data, seluruh data harus 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			diproses terlebih dahulu. Hal ini memberikan tambahan pengetahuan bagi penulis, yaitu saat menghadapi data yang banyak sebaiknya melakukan proses data tidak secara sekaligus. Bantuan dari penyelia dan rekan-rekan OFA sangat membantu penulis dalam menyelesaikan masalah tersebut sehingga sistem dapat berjalan dengan lebih baik. Tempat pelaksanaan kerja praktik yang berada pada gedung Landmark Sudirman sangat nyaman dan kondusif untuk melaksanakan kerja praktik. Hal ini dikarenakan suasana kerja sangat baik dan rekan-rekan kelompok OFA sangat ramah dan bersedia untuk membantu dan berdiskusi jika penulis membutuhkan bantuan. Selain itu, suasana kekeluargaan juga sangat kental dimana rekan-rekan kelompok OFA dengan mudah menerima dan bergaul dengan penulis dan rekan penulis sehingga kami merasa nyaman dalam melaksanakan kerja praktik. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> Pekerjaan yang dilakukan selama masa kerja praktik memilki keterkaitan dengan beberama mata kuliah yang sudah pernah diambil penulis seperti Perangcangan dan Pemrograman Web (PPW), Basis Data, Rekayasa Perangkat Lunak (RPL), dan Proyek Pengembangan Sistem Informasi (Propensi).</title>
+		<segment>
+			•  Perancangan dan Pemrograman Web (PPW)  Dalam mata kuliah PPW, penulis mempelajari cara untuk melakukan perancangan dan pembuatan web dengan bahasa HTML, CSS, PHP, dan Java Script. Selain itu penulis juga diajarkan untuk melakukan pembuatan <it>web</it> dengan menggunakan <it>framework.</it> Penerapan ilmu dari mata kuliah PPW sangat membantu penulis dalam melakukan <it>development</it> aplikasi. Hal ini dikarenakan aplikasi yang di <it>develop</it> oleh penulis merupakan aplikasi yang berbasis <it>web.</it> •  Basis Data  Dalam mata kuliah Basis Data, penulis mempelajari cara untuk membangun basis data dengan baik dan efisien. Penerapan mata kuliah Basis Data sangat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			membantu penulis dalam melakukan <it>development</it> aplikasi, akan tetapi terdapat perbedaan antara pengetahuan yang diajarkan pada mata kuliah dan dunia kerja. Pada mata kuliah tersebut diajarkan bahwa basis data yang baik tidak memiliki data yang redundan antara tabel satu dengan lainnya, tetapi dalam kerja praktik penggunaan data yang redundan diperbolehkan. Hal ini dikarenakan basis data pada perusahaan sangatlah banyak sehingga penggunaan data yang redundan dapat mempercepat proses akses terhadap suatu data. Selain itu, penggunaan data redundan dapat dimanfaatkan untuk menyimpan <it>history</it> dari suatu aktivitas. •  Rekayasa Perangkat Lunak (RPL)  Dalam mata kuliah Rekayasa Perangkat Lunak, penulis mempelajari bagaimana proses dan metodologi dalam pengembangan suatu proyek. Pengetahuan dan teori mengenai <it>software</it> <it>development</it> <it>life</it> <it>cycle</it> dari mata kuliah RPL sangat membantu penulis dalam melakukan <it>development</it> dari sisi alur dan tahapan perancangan aplikasi. •  Proyek Pengembangan Sistem Informasi (Propensi)  Dalam mata kuliah Proyek Pengembangan Sistem Informasi, penulis mendapatkan pengalaman secara langsung proses pengembangan sistem informasi pada dunia kerja. Pengalaman tersebut membantu penulis baik dalam sisi teknis maupun non-teknis dalam melakukan <it>development</it> aplikasi. Sebagai contoh, penulis dapat belajar mengenai <it>framwork</it> baru, belajar cara mengatasi masalah pada saat <it>development,</it> dan belajar untuk berhadapan dengan klien atau penyelia. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo> Pelaksanaan kerja praktik pada kelompok Office Automation divisi Solusi dan Teknologi Informasi PT. Bank Negara Indonesia (Persero) Tbk. sangat relevan dengan pembelajaran yang didapatkan penulis pada Fakultas Ilmu Komputer Universitas Indonesia. Penulis menyelesaikan tugas sebagai developer untuk membuat tiga aplikasi selama masa kerja praktik. Dalam pelaksanaannya, penulis dapat mengaplikasikan berbagai ilmu yang didapat dari mata kuliah yang relevan seperti PPW, Basis Data, RPL, dan Propensi secara nyata. Selain itu, penulis juga mendapatkan berbagai macam wawasan dan pengetahuan dalam proses <it>development</it> aplikasi pada kelas perushaan dan mendapatkan pengalaman bagaimana untuk beradaptasi di dunia kerja. Selain wawasan dan pengetahuan teknis, penulis juga mendapatkan pengalaman mengenai proses sosialisasi dan adaptasi dalam perusahaan.</title>
+		<title><bo>3.2.</bo> <bo>Saran</bo> Penulis memiliki saran kepada mahasiswa yang ingin melaksanakan kerja praktik untuk melakukan pencarian kerja praktik lebih awal. Hal ini untuk meminimalisir kemungkinan ditolaknya lamaran kerja praktik atau mendapatkan kerja praktik yang tidak sesuai dengan syarat Fakultas Ilmu Komputer. Maksimalkan kinerja saat pelaksanaan kerja praktik karena kerja praktik merupakan salah satu wadah yang sangat baik untuk mencari pengalaman dan mendapatkan pengetahuan secara nyata.</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] n.p. “Sejarah  Singkat  BNI”.  (n.d). Diakses pada 13 Juni 2016 dari http://www.bni.co.id/id-id/tentangkami/sejarah.aspx [2] n.p. “BNI  Company  Profile”.  (2014). Diakses pada 13 Juni 2016 dari http://www.bni.co.id/Portals/0/image/2014_BNI_Company_Profile_IND.pdf [3] Association of Modern Technology Proffesionals. “Project  Management  Body  of  dari  Knowledge”.  http://www.itinfo.am/eng/project-management-body-of-knowledge-pmbok-guide/  Oktober (2016). Diakses pada 
+		</segment>
+		<pagenum>5</pagenum>
+		<pagenum>2016</pagenum>
+		<segment>
+			[4] Rouse, M. “What  is  framework”.  (2015).  Diakses  pada  5  Oktober  2016  dari  http://whatis.techtarget.com/definition/framework [5] Pressman, R. (2010). “Software Engineering: a Practioner’s Approach 5th Edition”.  New York: McGraw-Hill. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

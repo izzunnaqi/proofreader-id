@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>REQUIREMENT</bo></it> <it><bo>ANALYSIS</bo></it> <bo>PROYEK</bo> <bo>GOVERNANCE,</bo> <bo>RISK,</bo> <bo>AND</bo> <bo>COMPLIANCE</bo> <bo>PORTAL</bo> <bo>DAN</bo> <bo>E-LEARNING,</bo> <bo>SERTA</bo> <it><bo>PLANNING</bo></it> <bo>PROYEK</bo> <bo>ASTRA</bo> <bo>RISK</bo> <bo>CONTROL</bo> <bo>AWARENESS</bo></title>
+		<title><bo>SYSTEM</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>REZA</bo> <bo>BRIYAN</bo> <bo>PRATAMA</bo></title>
+		<segment>
+			<bo>1306396750</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>JANUARI</bo> <bo>2017</bo></title>
+	</page>
+	<page id="2">
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Mata kuliah Kerja Praktik merupakan salah satu mata kuliah yang wajib diambil oleh semua mahasiswa Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI). Penulis melaksanakan kerja praktik di salah satu <it>corporate</it> <it>function</it> PT Astra International Tbk., yakni Group Audit and Risk Advisory (GAnRA) selama 11 minggu, terhitung sejak tanggal 13 Juni 2016 hingga 26 Agustus 2016. Penulis ditempatkan di departemen Project Management Assistance (PMA) sebagai <it>system</it> <it>analyst.</it> Selama kerja praktik, penulis dilibatkan di beberapa proyek, yaitu proyek Governance, Risk, and Compliance Portal, e-Learning, dan Astra Risk Control Awareness System. Melalui kerja praktik ini, penulis dapat menerapkan ilmu yang diperoleh dari perkuliahan, menambah pengalaman baru, serta memperluas wawasan penulis. Kata kunci: <it>project</it> <it>management,</it> Kerja Praktik, audit, <it>system</it> <it>analyst</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN PENYELIA KERJA PRAKTIK .................................. i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2.</title>
+		<segment>
+			Profil Tempat Kerja Praktik ...................................................................... 2 
+		</segment>
+		<title>1.2.1. Bidang Inti Bisnis ..................................................................................... 2</title>
+		<title>1.2.2. Struktur Organisasi dan Penempatan Pelaksana Kerja Praktik ................ 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 6 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 6</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 6</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 8</title>
+		<segment>
+			2.1.2.1. e-Learning ................................................................................................. 8 2.1.2.2. Learning Management System (LMS) ..................................................... 8 2.1.2.3. Governance, Risk and Compliance (GRC) ............................................... 9 
+		</segment>
+		<title>2.1.3. Teknologi ................................................................................................ 10</title>
+		<title>2.1.4. Metodologi .............................................................................................. 10</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>2.1.5. Hasil Pekerjaan Kerja Praktik ................................................................. 12</title>
+		<title>2.2. Analisis .......................................................................................................... 13</title>
+		<title>2.2.1. Kesesuaian dan Perbedaan dengan KAKP ............................................. 13</title>
+		<title>2.2.2. Kendala Pelaksanaan Kerja Praktik ........................................................ 14</title>
+		<title>2.2.3. Relevansi dengan Perkuliahan di Fasiklah UI ........................................ 14</title>
+		<segment>
+			BAB 3 PENUTUP ..................................................................................................... 17 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 17</title>
+		<title>3.2. Saran .............................................................................................................. 17</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 19 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi PT Astra International Tbk. ........................................ 4 Gambar 2. Struktur Organisasi GAnRA ....................................................................... 5 Gambar 3. Alur Kerja di Proyek GRC Portal ............................................................. 11 Gambar 4. Alur Kerja di Proyek e-Learning .............................................................. 11 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Daftar Teknologi Pendukung ........................................................................ 10 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			<bo>LAMPIRAN</bo> <bo>1</bo> <bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> ................................. 20 <bo>LAMPIRAN</bo> <bo>2</bo> <bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> ............................................................... 21 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Sebelum mulai mencari lowongan kerja praktik, penulis mencoba menentukan terlebih dahulu posisi seperti apa yang ingindilamar. Awalnya penulis cukup kebingungan saat menentukan posisi ini karena penulis masih belum mengetahui posisi seperti apa yang sesuai dengan kemampuan yang dimiliki penulis. Penulis memulai proses pencarian lowongan kerja praktik pada bulan Maret 2016. terdapat beberapa faktor yang dipertimbangkan penulis ketika melamar kerja praktik, di antaranya lokasi kantor dan posisi yang ditawarkan. Penulis awalnya memutuskan untuk mencari lowongan kerja praktik yang tidak membutuhkan kemampuan pemrograman. Akan tetapi, di tengah pencarian kerja praktik penulis merasa membatasi diri dengan tidak mencari lowongan yang membutuhkan kemampuan pemrograman. Penulis kemudian memutuskan untuk terbuka ke semua jenis lowongan agar lebih fleksibel dalam mencari lowongan. Akhirnya, penulis melamar ke empat perusahaan, yaitu PT Veritrans (kini berubah nama menjadi PT Midtrans), Xendit, PT Astra International Tbk. (AI), dan PT Kudo Teknologi Indonesia (Kudo). Penulis melamar posisi kerja praktik sebagai <it>business</it> &amp; <it>operations</it> <it>intern</it> di Veritrans sekitar akhir Maret 2016. Penulis memilih Veritrans sebagai perusahaan yang dilamar pertama kali karena penulis banyak mendengar hal-hal positif dari beberapa senior yang pernah melaksanakan kerja praktik di perusahaan tersebut. Hal- hal positif yang dimaksud antara lain gaji dengan jumlah yang besar untuk karyawan magang, mentor, dan lingkungan kerja yang nyaman. Pada awal bulan April, penulis menerima surat elektronik (surel) yang berisi undangan untuk mengikuti seleksi magang. Penulis pun mengikuti proses seleksi tersebut. Menurut informasi dari pihak Veritrans, proses penilaiannya membutuhkan waktu kurang lebih dua minggu. Pada 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			akhirnya, hasil seleksi tersebut baru didapatkan melalui surel sekitar kurang lebih satu bulan dan hasilnya penulis tidak diterima. Selama menunggu hasil seleksi dari Veritrans, penulis mencoba untuk mengajukan lamaran via surel ke beberapa perusahaan lain, yakni AI dan Xendit. Di AI penulis melamar sebagai <it>system</it> <it>analyst,</it> sedangkan di Xendit penulis melamar sebagai <it>back-</it> <it>end</it> <it>engineer.</it> Namun, penulis hanya mendapat balasan dari AI. Penulis diundang untuk melakukan wawancara langsung di kantor AI yang berlokasi di Sunter, Jakarta Utara. Setelah melakukan wawancara, penulis tidak langsung mendapatkan hasilnya karena AI masih harus melakukan wawancara dengan pelamar lainnya. Selanjutnya penulis mencoba untuk melamar ke Kudo sebagai <it>technology</it> <it>intern,</it> Awalnya penulis tidak mendapat respons dari pihak Kudo. Akan tetapi, karena saat itu sudah mendekati akhir semester, penulis berusaha untuk menghubungi lagi pihak Kudo melalui surel untuk menanyakan status lamaran penulis. Keesokan harinya, penulis dihubungi langsung via telepon untuk menetapkan waktu wawancara. Di hari yang telah ditetapkan untuk wawancara, penulis dihubungi oleh pihak AI untuk memberitahukan bahwa penulis telah diterima sebagai <it>intern</it> di AI. Setelah mendapatkan informasi tersebut, penulis lalu membatalkan wawancara yang akan dilakukan dengan Kudo. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada subbab ini, penulis akan menjelaskan profil dari tempat kerja praktik penulis. Subbab ini terdiri dari dua bagian, yakni bidang inti bisnis tempat kerja praktik dan struktur organisasi dari tempat kerja praktik tersebut. Kemudian akan dijelaskan juga mengenai penempatan penulis selama melaksanakan kerja praktik. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Bidang</bo> <bo>Inti</bo> <bo>Bisnis</bo></title>
+		<segment>
+			PT Astra International Tbk. (AI) merupakan sebuah <it>holding</it> <it>company</it> yang bergerak di berbagai industri, seperti halnya agrobisnis, otomotif, jasa keuangan, dan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			konstruksi. Hingga saat ini, AI memiliki lebih dari 190 anak perusahaan yang tersebar di Indonesia dan bergerak di berbagai industri. [1] AI memiliki visi untuk: 1. menjadi salah satu perusahaan dengan pengelolaan terbaik di Asia Pasifik dengan penekanan pada pertumbuhan yang berkelanjutan dengan pembangunan kompetensi melalui pengembangan sumber daya manusia, struktur keuangan yang solid, kepuasan pelanggan, dan efisiensi; dan 2. menjadi perusahaan yang mempunyai tanggung jawab sosial serta ramah lingkungan. Selain itu, misi yang dibawa oleh AI adalah “sejahtera  bersama  bangsa  dengan  memberikan nilai terbaik kepada stakeholder kami”. [2]  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Struktur</bo> <bo>Organisasi</bo> <bo>dan</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Seperti yang dapat dilihat pada Gambar 1, struktur organisasi yang dimiliki AI secara umum terbagi menjadi 3 bagian, yakni <it>board</it> <it>of</it> <it>directors,</it> <it>corporate</it> <it>function,</it> dan <it>corporate</it> <it>operation.</it> Penulis ditempatkan di salah satu <it>corporate</it> <it>function</it> di AI, yaitu Group Audit and Risk Advisory (GAnRA). GAnRA memiliki struktur organisasi tersendiri yang terbagi menjadi 3 level yang terdiri dari Chief GAnRA, divisi, dan departemen. Pembagian lebih rinci mengenai pembagian divisi dan departemen dapat dilihat pada Gambar 2. Penulis ditempatkan sebagai <it>system</it> <it>analyst</it> di departemen Project Management Assistance (PMA), yang merupakan salah satu departemen yang terdapat di GAnRA.</it> Gambar 1. Struktur Organisasi PT Astra International Tbk. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<segment>
+			Gambar 2. Struktur Organisasi GAnRA 
+		</segment>
+		<pagenum>5</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis dilibatkan di beberapa proyek yang dikerjakan oleh departemen PMA. Penulis mengerjakan proyek-proyek tersebut selama 11 minggu. Penulis diwajibkan untuk mengerjakan tugas-tugas yang diberikan <it>on-site.</it> 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			AI menggunakan pendekatan <it>project</it> <it>based</it> sebagai metode kerjanya, artinya setiap karyawan tergabung ke beberapa tim yang mengerjakan proyek yang berbeda-beda. Sesuai dengan visi AI untuk menjadi perusahaan dengan pengelolaan terbaik, AI menerapkan manajemen proyek di setiap proyek yang dijalankan. Karena ukuran perusahaan AI yang cukup besar, maka dibentuklah departemen tersendiri yaitu PMA. PMA berfokus untuk menyediakan layanan bagi anak-anak perusahaan AI berupa pemantauan proyek-proyek yang dikerjakan serta memberikan masukan kepada <it>project</it> <it>manager</it> agar bisa mengelola proyeknya dengan baik. Selain itu, PMA juga bertugas menyediakan sistem informasi pendukung bagi internal GAnRA. Departemen PMA merupakan sebuah tim yang cukup kecil dengan jumlah anggota sebanyak tiga orang, termasuk kepala departemennya. Akan tetapi karena jumlah proyek yang mereka kelola cukup banyak, departemen GAnRA membutuhkan bantuan untuk mengelola proyek-proyek yang menjadi tanggung jawab mereka. Umumnya bantuan yang dibutuhkan untuk melakukan analisis terhadap <it>requirement</it> yang dikumpulkan dari <it>user</it> dan membuat <it>business</it> <it>requirement</it> <it>document</it> (BRD) untuk proyek pembuatan sistem informasi atau membantu pengelolaan suatu proyek. Penulis, sebagai <it>system</it> <it>analyst,</it> diperbantukan untuk mengerjakan beberapa proyek yang sedang dikerjakan GAnRA, yakni proyek GRC Portal, e-Learning, dan ARCAS. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Saat melaksanakan kerja praktik, ketiga proyek tersebut sedang berada di fase yang berbeda. Penulis diberikan tugas yang berbeda sesuai dengan fase tersebut. Selanjutnya akan dijelaskan latar belakang dilakukannya proyek tersebut dan juga tugas penulis di proyek tersebut. •  GRC Portal  GAnRA memiliki banyak sistem untuk menunjang operasionalnya. Namun, sistem- sistem tersebut belum terintegrasi, sehingga dapat menimbulkan masalah seperti setiap karyawan memiliki <it>user</it> <it>crendential</it> yang berbeda-beda di setiap sistemnya. Proyek GRC Portal ini dibuat dengan tujuan untuk membuat sebuah portal yang menyatukan berbagai sistem tersebut. Penulis ditugaskan untuk merevisi BRD untuk proyek tersebut agar bisa diserahkan ke <it>corporate</it> <it>function</it> Corporate Information Systems &amp; Technology (CIST) untuk diproses. •  e-Learning  Pada dasarnya, karyawan di GAnRA merupakan seorang auditor. Untuk menjadi auditor yang baik, tentunya auditor tersebut harus memiliki wawasan yang luas. Salah satu metode untuk mencapai hal tersebut adalah dengan mengadakan <it>training</it> bagi auditor. GAnRA memiliki kebutuhan untuk bisa menyediakan metode <it>training</it> yang efektif dan efisien bagi auditor, mengingat jadwal mereka yang cukup ketat. Oleh karena itu, dibuatlah proyek e-Learning untuk mengakomodasi kebutuhan tersebut. Penulis ditugaskan untuk mendefinisikan <it>requirement</it> untuk sistem yang akan menjadi <it>output</it> dari proyek ini dan juga membuat BRD yang diserahkan ke CIST untuk diproses lebih lanjut. 
+		</segment>
+		<title>•  ARCAS </title>
+		<segment>
+			Proyek ARCAS merupakan proyek yang baru saja akan dimulai saat penulis melaksanakan kerja praktik. Proyek ini dilakukan dengan tujuan untuk menyatukan dua buah sistem yang sebelumnya ingin diintegrasikan menjadi satu sistem karena keterhubungan keduanya yang cukup erat. terpisah. Kedua sistem tersebut 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Penulis ditugaskan untuk membantu <it>project</it> <it>leader</it> untuk merumuskan <it>requirement</it> untuk proyek ARCAS. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Pada subbab ini akan dijelaskan beberapa landasan teori yang digunakan penulis. Beberapa di antaranya adalah e-Learning, <it>learning</it> <it>management</it> <it>system,</it> dan <it>Governance,</it> <it>Risk,</it> <it>and</it> <it>Compliance</it> (GRC). Masing-masing teori tersebut akan dijelaskan pada subbab selanjutnya. <bo>2.1.2.1.</bo> <bo>e-Learning</bo> e-Learning adalah sebuah metode pembelajaran dengan memanfaatkan media elektronik. Dengan menggunakan e-Learning, organisasi bisa mengurangi biaya yang dikeluarkan untuk menyampaikan materi pelajaran. Selain itu, karena e-Learning berbasis <it>web,</it> e-Learning dapat diakses di mana saja dan kapan saja, sehingga semua <it>user</it> tidak perlu berada di satu tempat dan waktu yang sama hanya untuk menerima materi ingin disampaikan. Kemudian e-Learning umumnya memiliki fitur <it>tracking</it> yang memudahkan bagaimana perkembangan setiap peserta e-Learning dalam belajar. [3] untuk mengetahui pengelola e-Learning <bo>2.1.2.2.</bo> <bo>Learning</bo> <bo>Management</bo> <bo>System</bo> <bo>(LMS)</bo> LMS adalah sebuah sistem yang digunakan untuk membuat, mengelola, dan menyampaikan materi e-Learning. LMS merupakan komponen penting dari e- Learning yang berperan sebagai <it>platform</it> bagi e-Learning. LMS terdiri dari dari dua komponen utama, yakni sebuah <it>server</it> yang bertugas melakukan fungsionalitas LMS dan sebuah antar muka bagi <it>user</it> agar bisa interaksi dengan LMS. Beberapa pemanfaatan LMS yang cukup umum, antara lain untuk pelatihan karyawan, menyimpan pengetahuan yang dimiliki organisasi, dan sebagai media pembelajaran di institusi pendidikan. [4] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<segment>
+			<bo>2.1.2.3.</bo> <bo>Governance,</bo> <bo>Risk</bo> <bo>and</bo> <bo>Compliance</bo> <bo>(GRC)</bo> 
+		</segment>
+		<pagenum>9</pagenum>
+		<segment>
+			GRC adalah sebuah strategi organisasi yang terkoordinasi untuk mengelola <it>corporate</it> <it>governance,</it> <it>enterprise</it> <it>risk</it> <it>management</it> (ERM), dan <it>corporate</it> <it>compliance</it> dengan memperhatikan hukum dan regulasi yang berlaku. GRC memiliki 3 pilar utama yang terdiri dari: •  <it>governance,</it>  yakni  pengelolaan  organisasi  secara  efektif  dan  etis  yang  dilakukan oleh manajemen organisasi; •  <it>risk,</it>  kemampuan  yang  dimiliki  organisasi  untuk  mengurangi  dampak  dari  suatu risiko yang dapat mengganggu operasional organisasi; •  <it>compliance,</it> kepatuhan organisasi terhadap hukum dan regulasi yang berlaku  selama beroperasi. Open Compliance and Ethics Group (OCEG) mendefinisikan GRC sebagai sebuah sistem yang terdiri dari <it>people,</it> <it>processes,</it> dan <it>techonology</it> yang memungkinkan suatu organisasi untuk: •  memahami dan memprioritaskan ekspektasi dari <it>stakeholders,</it>  •  menentukan  tujuan  bisnis  yang  bersesuaian  dengan  nilai  organisasi  serta  risiko yang ada, •  memenuhi tujuan dan juga mengoptimalkan <it>risk</it> <it>profile</it> dan melindungi nilai  organisasi, •  beroperasi dengan batasan hukum, kontrak, internal, sosial, dan etika,  •  memungkinkan pengukuran performa dan efektivitas dari sistem. [5]   Implementasi GRC oleh organisasi bisa sangat berdampak pada operasionalnya secara keseluruhan. Jika diimplementasikan dengan baik, GRC akan memberikan dampak yang positif bagi organisasi. Namun tidak diimplementasikan dengan baik GRC akan memberikan dampak negatif. Beberapa contoh dampak positif yang didapat oleh organisasi adalah berkurangnya biaya, mengumpulkan informasi dengan lebih cepat dan efisien, dan mengurangi dampak sebaliknya, jika 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			pada operasional. Di sisi lain, beberapa dampak negatif yang mungkin timbul, antara lain ketidakmampuan untuk menangani risiko dari pihak ketiga dan semakin sulit untuk mengukur performa yang sudah disesuaikan dengan risiko organisasi. [6] 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama melaksanakan kerja praktik, penulis memanfaatkan sejumlah teknologi pendukung. Penulis menggunakan teknologi perangkat lunak untuk mengolah kata atau data seperti Microsoft Word atau Microsoft Excel. Di samping itu, penulis juga membutuhkan teknologi pendukung lainnya untuk berkomunikasi dengan rekan kerja atau mencari informasi dari internet. Tabel 1 berikut menyajikan daftar teknologi yang digunakan selama masa kerja praktik penulis sebagai <it>system</it> <it>analyst:</it> Tabel 1. Daftar Teknologi Pendukung <bo>Dokumen</bo> <bo>Presentasi</bo> <bo>Alat</bo> <bo>Komunikasi</bo> <it><bo>Web</bo></it> <it><bo>Browser</bo></it> <it><bo>Software</bo></it> <it><bo>Design</bo></it> Microsoft Word, Excel Google Slides Inbox by GMail, WhatsApp Opera Balsamiq Mockups 3 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Metodologi</bo> Di proyek GRC Portal, penulis ditugaskan untuk merevisi BRD yang telah dibuat pada fase sebelumnya. BRD adalah sebuah dokumen yang menjelaskan latar belakang dilaksanakannya suatu proyek, tahapan dan <it>timeline</it> pengerjaannya, serta <it>requirement</it> dari sistem yang merupakan <it>output</it> dari proyek tersebut. Konten BRD mirip dengan dokumen <it>software</it> <it>requirement</it> <it>specification</it> (SRS), hanya saja detail konten dan pembahasan teknis yang ada di BRD tidak sedalam yang terdapat di SRS.</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			Gambar 3. Alur Kerja di Proyek GRC Portal Setelah me-<it>review</it> BRD, penulis mendiskusikan hasil <it>review</it> dengan penyelia mengenai perbaikan apa saja yang perlu dilakukan. Kemudian penulis melakukan revisi berdasarkan hasil <it>Ervie.</it> <it>Deliverables</it> dari tugas ini adalah BRD yang telah direvisi dan sudah siap untuk diserahkan ke <it>corporate</it> <it>function</it> Corporate Information Systems &amp; Technology (CIST) untuk di-<it>review</it> dan dicarikan <it>vendor</it> yang akan mengimplementasikan sistem tersebut. Secara garis besar, alur kerja penulis dalam mengerjakan proyek ini dapat dilihat pada Gambar 3. Pada proyek kedua, yaitu proyek e-Learning, penulis ditugaskan untuk membuat BRD. Sebelum membuat BRD-nya, penulis diminta untuk melakukan riset terlebih dahulu tentang <it>learning</it> <it>management</it> <it>system</it> (LMS) dengan mempelajari Moodle. Moodle dipilih karena nantinya sistem e-Learning yang akan dibangun menggunakan Moodle sebagai basisnya. Gambar 4. Alur Kerja di Proyek e-Learning 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			Setelah riset dilakukan, penulis berdiskusi dengan penyelia mengenai tujuan pembuatan sistem e-Learning tersebut dan gambaran bentuk akhir yang diinginkan oleh <it>user.</it> Penulis kemudian membuat BRD berdasarkan analisis hasil riset dan diskusi dengan penyelia. Setelah BRD selesai dibuat, dokumen tersebut kemudian di- <it>review</it> terlebih dahulu oleh penyelia. Penulis lalu melakukan revisi berdasarkan hasil <it>review</it> tersebut. BRD yang telah direvisi lalu diserahkan ke CIST. Secara garis besar, alur kerja penulis dalam mengerjakan proyek ini dapat dilihat pada Gambar 4. Selanjutnya pada proyek ketiga, yaitu proyek ARCAS, penulis dan salah seorang staf PMA ditugaskan untuk membantu <it>project</it> <it>leader</it> dalam perencanaan proyek dengan mengacu pada tahapan manajemen proyek. Staf PMA yang ditugaskan bersama penulis membantu merancang tahapan pengerjaan proyek secara garis besar. Sementara penulis ditugaskan untuk bekerja secara intensif dengan <it>project</it> <it>leader</it> untuk membuat <it>breakdown</it> dari tahapan umum tersebut. Selain itu, penulis juga membantu <it>project</it> <it>leader</it> untuk mendefinisikan gambaran <it>output</it> dari sistem yang akan dikembangkan. Pendefinisian ini diperlukan karena <it>project</it> <it>leader</it> sendiri masih belum mengetahui sistem seperti apa yang dapat memenuhi tujuan dari proyek tersebut. Untuk mendefinisikannya, penulis dan <it>project</it> <it>leader</it> melakukan metode <it>gap</it> <it>analysis</it> terhadap kondisi yang sekarang dan kondisi yang ingin dicapai. Hasil dari <it>gap</it> <it>analysis</it> tersebut kemudian didefinisikan lebih lanjut menjadi <it>requirement</it> yang lebih detail. Setelah <it>requirement</it> tersebut dibuat, penulis membuat <it>mockup</it> dari <it>requirement</it> yang telah didefinisikan. <it>Mockup</it> adalah sebuah draf tampilan suatu sistem. Selama pembuatan <it>mockup-nya,</it> penulis juga mendiskusikan <it>mockup</it> yang telah dibuat dengan <it>user.</it> 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Di proyek GRC Portal, <it>deliverable</it> yang dihasilkan penulis adalah BRD yang telah direvisi dan sudah siap untuk diserahkan ke <it>corporate</it> <it>function</it> Corporate</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			Information Systems &amp; Technology (CIST) untuk di-<it>review</it> dan dicarikan <it>vendor</it> yang akan mengimplementasikan sistem tersebut. Pada proyek kedua, yaitu proyek e-Learning, <it>deliverable</it> yang dihasilkan penulis adalah BRD. BRD yang telah dibuat juga telah di-<it>review</it> oleh penyelia dan sudah siap untuk diserahkan ke CIST untuk dicarikan <it>vendor</it> yang dapat mengerjakan sistem yang ingin dikembangkan. Selanjutnya pada proyek ketiga, yaitu proyek ARCAS, <it>deliverables</it> yang dihasilkan ada dua. Yang pertama adalah <it>requirement</it> yang telah didefinisikan dengan berdasarkan pada <it>gap</it> <it>analysis</it> yang telah dilakukan. Yang kedua adalah <it>mockup</it> untuk menggambarkan sistem berdasarkan <it>requirement</it> yang telah didefinisikan. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo> Pada bagian ini akan dijelaskan analisis penulis terhadap pelaksanaan kerja praktik yang telah dilakukan. Bagian ini terdiri dari beberapa bagian, yaitu kesesuaian dengan KAKP, kendala yang ditemui selama kerja praktik, relevansi dengan perkuliahan, pembelajaran <it>soft</it> <it>skill</it> selama kerja praktik, penilaian penulis terhadap tempat kerja praktik.</title>
+		<title><bo>2.2.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Secara umum pekerjaan yang dilakukan penulis sudah sesuai dengan KAKP yang telah dibuat. Hampir semua pekerjaan yang tercantum pada tabel Rencana Jadwal Kerja Praktik di KAKP dilaksanakan oleh penulis. Pekerjaan yang tidak dilaksanakan oleh penulis hanya lah pembuatan konten untuk Proyek e-Learning karena konten tersebut akan disiapkan oleh <it>vendor.</it></title>
+		<segment>
+			Perbedaan rencana pada KAKP dengan realisasi pelaksanaan adalah pada waktu pengerjaannya. Terdapat perbedaan waktu beberapa hari karena tugas tersebut ditugaskan pada waktu yang sama yang telah ditulis di KAKP. Perbedaan lainnya adalah tambahan pekerjaan dari penyelia, di antaranya melakukan riset untuk beberapa materi untuk kebutuhan Proyek e-Learning dan ARCAS. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<title><bo>2.2.2.</bo> <bo>Kendala</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<pagenum>14</pagenum>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis mengalami beberapa kendala. Kendala yang dialami penulis, antara lain tidak adanya akses internet yang disediakan tempat kerja praktik, jarak yang cukup jauh antara tempat tinggal penulis dan kantor tempat kerja praktik, dan penulis belum memahami proses bisnis sebuah audit. Selama melakukan tugasnya, tempat kerja praktik tidak menyediakan fasilitas akses internet ke karyawan magang. AI, sebagai tempat kerja praktik penulis, juga membatasi kuota akses internet untuk karyawannya sejumlah 3 Gigabyte. Penulis sempat diberikan sebuah modem sebagai fasilitas kantor untuk digunakan, tetapi modem tersebut tidak kompatibel dengan laptop yang dimiliki penulis. Oleh karena itu, penulis harus menyediakan akses internet sendiri agar bisa mengerjakan tugas- tugas yang diberikan. Kendala yang kedua adalah jarak yang cukup jauh antara tempat kerja praktik dan tempat tinggal penulis. Tempat kerja praktik berlokasi di daerah Sunter, Jakarta Utara, sedangkan tempat tinggal penulis berlokasi di Depok. Untuk sampai ke tempat kerja praktik, penulis membutuhkan waktu sekitar satu setengah jam dengan menggunakan alat transportasi umum, seperti kereta, ojek, dan ojek <it>online.</it> Karena penulis harus tiba di tempat kerja praktik sebelum pukul 07.30, penulis harus bangun cukup pagi. Kendala yang terakhir adalah penulis belum memahami proses bisnis audit. Kebanyakan proyek yang dikerjakan penulis berkaitan erat dengan proses audit. Karena penulis belum pernah mengetahui proses audit secara umum, penulis cukup kesulitan untuk memahami proses bisnis di internal perusahaan. 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasiklah</bo> <bo>UI</bo> Secara keseluruhan, ilmu yang telah diterima penulis selama perkuliahan sangat membantu dalam mengerjakan tugas-tugas yang diberikan. Berikut beberapa mata kuliah yang memiliki relevansi dengan tugas-tugas penulis:</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<segment>
+			<bo>a.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>(RPL)</bo> 
+		</segment>
+		<pagenum>15</pagenum>
+		<segment>
+			Kebanyakan tugas yang dikerjakan penulis berkaitan dengan pembuatan dokumen <it>requirement.</it> Salah satu konten yang ada di dokumen tersebut adalah <it>use</it> <it>case</it> <it>specification.</it> Dengan ilmu yang didapatkan selama mengambil RPL, penulis dapat membuat <it>use</it> <it>case</it> <it>specification</it> yang baik dan benar. <bo>b.</bo> <bo>Manajemen</bo> <bo>Proyek</bo> <bo>Teknologi</bo> <bo>Informasi</bo> <bo>(Manpro</bo> <bo>TI)</bo> Salah satu tugas yang dikerjakan penulis adalah membantu <it>project</it> <it>leader</it> Proyek ARCAS dalam tahap perencanaan awal. Selama tahap perencanaan ini, ilmu yang didapatkan selama mengambil mata kuliah Manpro TI sangat berguna untuk memahami hal-hal yang dilakukan ketika perencanaan. Selain itu, karena penulis ditugaskan pada departemen PMA yang berfokus untuk menerapkan manajemen proyek, penulis juga banyak mendapat <it>insight</it> baru mengenai penerapan langsung manajemen proyek yang sesuai dengan standar internasional. <bo>c.</bo> <bo>Proyek</bo> <bo>Pengembangan</bo> <bo>Sistem</bo> <bo>Informasi</bo> <bo>(Propensi)</bo> Karena karakteristik dari tugas-tugas yang dilakukan penulis merupakan sebuah proyek sistem informasi, ilmu yang diperoleh penulis dari mata kuliah Propensi sangat berguna untuk selama mengerjakan tugas-tugas yang diberikan, seperti halnya analisis <it>requirement</it> dan pembuatan dokumen <it>requirement.</it> Penulis juga mendapatkan <it>insight</it> baru mengenai pengelolaan proyek sistem informasi di perusahaan yang cukup besar, begitu juga <it>insight</it> mengenai kendala-kendala yang mungkin dialami. <bo>d.</bo> <bo>Komunikasi</bo> <bo>Bisnis</bo> <bo>dan</bo> <bo>Teknologi</bo> <bo>(Kombistek)</bo> tugas-tugas yang diberikan, penulis sering kali harus Selama mengerjakan berkomunikasi dengan rekan kerja lainnya. Ilmu yang didapatkan dari mata kuliah Kubistik sangat membantu penulis sehingga bisa berkomunikasi dengan baik. Salah satu contohnya adalah saat berkomunikasi dengan <it>Project</it> <it>leader</it> Proyek ARCAS. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<segment>
+			Karena <it>project</it> <it>leader</it> tidak memiliki latar belakang teknologi informasi (TI), penulis harus bisa mengkomunikasikan hal-hal yang cukup teknis dengan <it>project</it> <it>leader</it> tersebut agar ia bisa memahami maksud penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis telah melakukan kerja praktik selama 11 minggu, terhitung sejak tanggal 13 Juni 2016 –  26  Agustus  2016  di  PT  Astra  International  Tbk.  dan  ditempatkan  di  departemen PMA yang merupakan bagian dari GAnRA, salah satu <it>corporate</it> <it>function</it>  di  AI.  Selama  masa  kerja  praktik,  penulis  dilibatkan  dalam  3  buah  proyek,  yaitu  Proyek GRC Portal, e-Learning, dan ARCAS.  Selama masa kerja praktik, penulis mendapatkan banyak pengalaman baik dari segi teknis maupun non-teknis. Dari segi teknis, penulis mempelajari penerapan manajemen proyek yang baik, cara membuat sebuah BRD, proses bisnis audit secara umum, merasakan dunia kerja yang sebenarnya, dan berbagai ilmu lainnya. Di sisi lain, dari segi non-teknis, penulis belajar bagaimana cara mengkomunikasi hal teknis ke pihak awak, bertanggung tugas yang diberikan, belajar menghadapi birokrasi di suatu perusahaan. terhadap jawab Dengan melaksanakan kerja praktik menjadi pengalaman yang sangat berharga bagi penulis. Penulis bisa berkenalan dengan banyak orang dan bisa belajar dari pengalaman mereka. Penulis juga merasakan kontribusi yang diberikan melalui tugas yang dikerjakan penulis bisa bermanfaat. Selain itu, penulis juga mendapatkan kesempatan untuk menerapkan secara langsung ilmu-ilmu yang telah dipelajari selama perkuliahan. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Dari pengalaman penulis selama kerja praktik, ada baiknya calon pelaksana kerja praktik menentukan terlebih dahulu minat dan kemampuan yang mereka miliki. Hal 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<segment>
+			tersebut akan sangat membantu dalam mencari kerja praktik nantinya, karena penulis sudah merasakan kesulitan yang dialami jika tidak mengetahui minat atau kemampuan sendiri. Akibatnya, penulis kebingungan harus memulai proses pencarian dari mana. Oleh karena itu, penting bagi calon pelaksana kerja praktik nantinya agar sudah mengetahui minat dan kemampuannya sejak dini untuk mempermudah proses pencarian. Selain itu, ada baiknya calon pelaksana kerja praktik juga mulai mencari tempat kerja praktik sejak awal semester 6 agar masih memiliki banyak waktu untuk mencoba melamar ke berbagai tempat. Perlu diketahui bahwa proses pencarian tempat kerja praktik tidak mudah dan membutuhkan waktu dan usaha yang tidak sedikit. Jika calon baru mulai mencari di akhir semester, maka akan semakin besar risikonya calon pelaksana KP memulai masa kerja praktik lebih lambat dari yang lain. Saran untuk Fakultas adalah agar dokumen-dokumen <it>tempat</it> yang digunakan dirilis dari awal perkuliahan agar pelaksana kerja praktik tidak kebingungan dalam pembuatan dokumennya. Salah satu contohnya adalah dokumen KAKP. <it>Template</it> untuk dokumen KAKP tidak langsung dirilis, melainkan saat para pelaksana kerja praktik memulai kerja praktiknya barulah <it>template</it> tersebut dirilis. Terakhir untuk dosen kerja praktik, sebaiknya proses <it>review</it> dokumen KAKP dilakukan lebih cepat. Hal ini disebabkan lamanya proses <it>review</it> ini mengakibatkan semakin lamanya KAKP ditandatangani. Di sisi lain, peserta kerja praktik juga untuk melengkapi KAKP. membutuhkan penyelia dari tanda tangan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>19</pagenum>
+		<title>DAFTAR REFERENSI</title>
+		<segment>
+			[1] PT Astra International Tbk., "Struktur Grup Astra," 15 February 2016. [Online]. Pada: https://www.astra.co.id/About-Astra/Astra-Group-Structure. [Diakses 15 November 2016]. [2] PT Astra International Tbk., "Struktur Organisasi Astra," 15 February 2016. https://www.astra.co.id/About-Astra/Astra-Organization- Pada: [Online]. Structure. [Diakses 15 November 2016]. [3] Virtual College, "What is e-Learning? A short introduction," 24 September 2011. http://www.virtual-college.co.uk/elearning/elearning.aspx. Pada: [Online]. [Diakses 21 November 2016]. [4] Epignosis LLC., "What is an LMS / Definition and Uses - TalentLMS," 4 Juni 2015. [Online]. Pada: https://www.talentlms.com/what-is-an-lms/. [Diakses 21 November 2016]. [5] F. Stroud, "What Is Governance, Risk, and Compliance (GRC)? Webopedia Pada: Definition," http://www.webopedia.com/TERM/G/grc-governance-risk-compliance.html. [Diakses 6 December 2016]. [Online]. February 
+		</segment>
+		<pagenum>20</pagenum>
+		<segment>
+			2015. [6] OCEG, "What is GRC - OCEG," 15 June 2016. [Online]. Pada: http://www.oceg.org/about/what-is-grc/. [Diakses 6 December 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>20</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>21</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

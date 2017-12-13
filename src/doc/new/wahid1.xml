@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>ANDROID</bo> <bo>DEVELOPER</bo> <bo>DI</bo> <bo>PT</bo> <bo>BUKALAPAK.COM</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>WAHID</bo> <bo>NUR</bo> <bo>ROHMAN</bo></title>
+		<segment>
+			<bo>1306381856</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Wahid Nur Rohman : 1306381856 Program Studi : Ilmu Komputer Judul Kerja Praktik : Android Developer di PT Bukalapak.com <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> Mahendra S.Kom., M.Sc.) Ditetapkan di : Depok Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja praktik merupakan salah satu mata kuliah wajib di Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI). Penulis mengambil mata kuliah tersebut dan melaksanakan kerja praktik di PT Bukalapak.com dari 13 Juni hingga 26 Agustus 2016 di PT.Bukalapak.com. Penulis mendapatkan posisi sebagai <it>Android</it> <it>Developer</it> dan bertugas ikut mengembangkan aplikasi Android Bukalapak. Selama melaksanakan kerja praktik, penulis ikut berpartisipasi dalam mengembangkan fitur baru, <it>redesign</it> beberapa halaman dan melakukan perbaikan <it>bug</it> pada aplikasi. Dalam pelaksanaannya, penulis mendapatkan beberapa kendala, namun penulis dapat menangani kendala tersebut dengan beberapa solusi. Penulis mendapatkan banyak manfaat <it>hardskill</it> dan <it>softskill</it> dari kerja praktik ini. Kata kunci: Bukalapak, Android, kerja praktik, <it>Android</it> <it>Developer</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			 HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<segment>
+			BAB 2 PELAKSANAAN KERJA PRAKTIK ............................................................ 5 
+		</segment>
+		<title>2.1. Latar Belakang ................................................................................................. 5</title>
+		<title>2.2. Metodologi ....................................................................................................... 5</title>
+		<title>2.3. Teknologi ......................................................................................................... 7</title>
+		<title>2.4. Gambaran Pelaksanaan Kerja Praktik ............................................................. 8</title>
+		<segment>
+			BAB 3 ANALISIS PELAKSANAAN KERJA PRAKTIK ....................................... 11 
+		</segment>
+		<title>3.1. Kesesuaian dan Perbedaan dengan KAKP .................................................... 11</title>
+		<title>3.2. Kendala dalam Kerja Praktik dan Cara Penanganannya ............................... 12</title>
+		<title>3.3. Relevansi dengan Perkuliahan di Fasilkom UI .............................................. 13</title>
+		<title>3.4. Pembelajaran Soft Skill selama Kerja Praktik ............................................... 13</title>
+		<title>3.5. Penilaian Individu terhadap Tempat Kerja Praktik ....................................... 14</title>
+		<segment>
+			BAB 4 PENUTUP ...................................................................................................... 15 
+		</segment>
+		<title>4.1. Kesimpulan .................................................................................................... 15</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>4.2. Saran .............................................................................................................. 15</title>
+		<segment>
+			Daftar Referensi .......................................................................................................... 17 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1: Struktur Organisasi di Bukalapak ………..…………………………..  3  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Perbedaan KAKP dengan realisasi ……….……………………………..  11  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis memulai mencari tempat Kerja Praktik pada tanggal 10 Maret 2016. Pada saat itu, penulis melamar sebagai <it>Software</it> <it>Engineer</it> <it>Intern</it> di PT Tokopedia. Setelah penulis mengirim berkas lamaran ke tim HRD PT Tokopedia, penulis mendapatkan surat elektronik dari salah satu staf HRD. Isi surat elektronik tersebut yaitu penulis diminta untuk menyelesaikan soal <it>programming</it> melalui sebuah situs <it>online.</it> Penulis mengerjakan tes tersebut pada tanggal 14 Maret 2016. Namun karena pada saat sedang mengerjakan <it>online</it> <it>test,</it> penulis harus melakukan suatu hal yang bersifat darurat, penulis belum beruntung dalam lamaran ini. Pada tanggal 14 Maret 2016, penulis mengajukan lamaran sebagai <it>Android</it> <it>Developer</it> <it>Intern</it> di PT Bukalapak.com dengan mengirimkan surat elektronik berisi surat pengajuan lamaran magang, <it>resumee</it> dan <it>cover</it> <it>letter.</it> Pada hari yang sama, penulis mendapatkan balasan surat elektronik dari tim HRD terkait lamaran tersebut. Isi surat elektronik tersebut yaitu penulis diminta mengerjakan tugas membuat sebuah aplikasi Android sederhana. Pada tanggal 16 Maret 2016, penulis selesai mengerjakan tugas membuat Aplikasi Android sederhana yang diminta. Penulis kemudian mengunggah tugas tersebut melalui git, kemudian membagikan <it>link</it> tersebut kepada tim HRD. Pada tanggal yang sama, penulis mendapatkan surat elektronik balasan dari staf HRD. Isi surat elektronik tersebut yaitu undangan untuk melaksanakan wawancara dengan Tim HRD dan Tim Android Developer PT Bukalapak.com pada tanggal 17 Maret 2016. Namun, karena pada tanggal tersebut penulis memiliki jadwal kelas, akhirnya penulis meminta kepada Tim HRD untuk menunda jadwal wawancara. Setelah berdiskusi, penulis dan Tim HRD sepakat untuk mengadakan wawancara pada tanggal 21 Maret 2016. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Pada tanggal 21 Maret 2016, penulis melaksanakan tes wawancara. Pada tahap pertama, penulis melaksanakan tes wawancara dengan Tim HRD. Pada tahap ini, penulis mendapatkan pertanyaan seputar latar belakang penulis dan motivasi melamar magang di PT Bukalapak.com. Kemudian, pada tahap kedua, penulis melaksanakan tes wawancara dengan tim Android Developer PT Bukalapak.com. Penulis mendapatkan 3 buah soal <it>programming.</it> Karena suatu hal, penulis mengerjakan soal tersebut di kampus dan dikirim melalui surat elektronik kepada penguji. Pada tanggal 22 Maret 2016, penulis dinyatakan lolos dan diterima sebagai <it>Android</it> <it>Developer</it> <it>Intern</it> di PT Bukalapak.com. Pengumuman tersebut penulis dapatkan dari surat elektronik yang dikirimkan oleh Tim HRD. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Bukalapak merupakan sebuah <it>online</it> <it>marketplace</it> di Indonesia. Bukalapak menyediakan sarana jual-beli dari konsumen ke konsumen (<it>consumer</it> <it>to</it> <it>consumer)</it> secara <it>online.</it> Setiap orang dapat menjadi penjual maupun pembeli di Bukalapak. Bukalapak memiliki slogan “jual-beli  <it>online</it>  mudah  dan  terpercaya”.  Sesuai  slogan  tersebut, Bukalapak memberikan jaminan 100% uang kembali kepada pembeli apabila barang yang dibeli tidak dikirimkan oleh penjual. Bukalapak memiliki visi “Menjadi  <it>online</it> <it>marketplace</it> nomor 1 di Indonesia” dan misi “Memberdayakan UKM yang ada  di seluruh penjuru Indonesia” (PT Bukalapak.com, n.d.).  Bukalapak memiliki seorang <it>President</it> sebagai pemimpin perusahaan. <it>President</it> membawahi <it>Chief</it> <it>Technology</it> <it>Officer</it> <it>(CTO),</it> <it>Chief</it> <it>Operation</it> <it>Officer</it> <it>(COO),</it> <it>Chief</it> <it>Financial</it> <it>Officer</it> <it>(CFO),</it> <it>Human</it> <it>Capital</it> <it>Management,</it> <it>Marketing,</it> <it>Customer</it> <it>Relation,</it> dan <it>Community</it> <it>Management.</it> Masing-masing orang yang menduduki jabatan tersebut membawahi bidang-bidang yang terkait. Berikut merupakan struktur organisasi di Bukalapak: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			<bo>Gambar</bo> <bo>1<it>.</bo></it> Struktur Organisasi di Bukalapak 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			Pada kerja praktik ini, penulis mendapatkan kesempatan menjadi <it>Android</it> <it>Developer</it> <it>Intern.</it> <it>Android</it> <it>Developer</it> <it>Intern</it> merupakan bagian dari Departemen <it>Mobile</it> <it>Apps</it> <it>Developer.</it> Departemen ini sendiri berada pada divisi <it>Engineering</it> di bawah pengawasan <it>Chief</it> <it>Operation</it> <it>Officer.</it> Pada hari pertama penulis melaksanakan kerja praktik, penulis dan rekan-rekan yang diterima sebagai <it>Mobile</it> <it>Apps</it> <it>Developer</it> dibagi menjadi 2 kelompok, kelompok <it>Android</it> <it>Developer</it> dan <it>IOS</it> <it>Developer.</it> Pada kesempatan ini, penulis dan salah satu rekannya mendapatkan posisi sebagai <it>Android</it> <it>Developer</it> <it>Intern.</it> Secara singkat, posisi <it>Android</it> <it>Developer</it> <it>Intern</it> bertugas untuk mengembangkan aplikasi Android yang dimiliki Bukalapak. Penulis berkesempatan untuk bergabung dengan tim <it>Android</it> <it>Developer</it> Bukalapak. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>2.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Saat ini, metode pembayaran di Bukalapak hanya dapat menangani transaksi pada 1 lapak saja. Pembeli yang melakukan transaksi ke lebih dari satu pelapak harus melakukan pembayaran sebanyak jumlah pelapak. Padahal tidak semua kebutuhan penjual tersedia dalam satu buah lapak. Misalnya apabila seorang pembeli ingin membeli sebuah komputer rakitan, barang-barang kebutuhan tersebut dijual secara terpisah oleh beberapa pelapak. Pembeli tidak bisa membayar sekaligus karena sistem pembayaran di Bukalapak belum dapat menangani pembayaran untuk lebih dari satu pelapak dalam satu waktu. Berangkat dari permasalahan tersebut, perlu ada metode pembayaran yang dapat menangani masalah di atas. Oleh karena itu, diusulkanlah fitur “Sekali  Bayar  untuk  Berbagai Pelapak” atau disebut juga fitur “<it>Multiple</it> <it>Order</it> <it>in</it> <it>One</it> <it>Payment”.</it> Dalam  hal pengimplementasian, fitur ini melibatkan berbagai divisi. Pada kerja praktik ini, penulis mengimplementasikan fitur tersebut di aplikasi Android Bukalapak. Selain masalah di atas, terdapat beberapa halaman di aplikasi Android Bukalapak yang membutuhkan perbaikan baik dari sisi <it>User</it> <it>Interface</it> maupun <it>User</it> <it>Experience.</it> Halaman yang dimaksud yaitu halaman BukaDompet Cairkan dan Ulas Barang. Halaman tersebut dinilai memiliki pengalaman penggunaan yang kurang baik. Oleh karena itu, <it>redesign</it> pada dua halaman tersebut dilakukan supaya pengguna lebih mudah memakainya. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Tim <it>Android</it> <it>Developer</it> di Bukalapak menggunakan metode <it>scrum</it> dalam mengembangkan aplikasi Android Bukalapak. Di dalam metode tersebut, sebuah <it>sprint</it> dilakukan dalam waktu dua sampai tiga minggu tergantung dari bobot <it>sprint</it> tersebut. Kegiatan-kegiatan yang dilakukan dalam satu bauh <it>sprint</it> yaitu: 1. <it>Sprint</it> <it>Planning</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			Pada kegiatan ini, tim <it>Android</it> <it>Developer</it> berkumpul di sebuah ruangan untuk mendiskusikan <it>backlog</it> apa saja yang akan dikerjakan dalam sebuah <it>sprint.</it> Untuk <it>assigning</it> <it>backlog,</it> setiap <it>engineer</it> bebas memilih <it>backlog</it> yang akan dikerjakan dan biasanya dilakukan pada saat <it>board</it> sudah dibuat. 2. <it>Marketplace</it> <it>Session</it> Pada kegiatan ini, tim <it>Android</it> <it>Developer</it> berkumpul di sebuah ruangan untuk mendiskusikan bobot beberapa <it>backlog.</it> Pertama-tama, <it>Project</it> <it>Manager</it> atau <it>Lead</it> <it>Mobile</it> <it>Developer</it> menjelaskan <it>backlog</it> yang akan diberi bobot, kemudian setiap anggota dalam tim memberikan bobot menurut pendapatnya masing-masing. Apabila bobot yang diberikan oleh setiap anggota sama, bobot langsung diambil ditetapkan pada <it>backlog.</it> Namun, apabila terjadi perbedaan, tim melakukan musyawarah sampai mencapai mufakat. Bobot yang dipakai merupakan angka dari bilangan Fibonacci. Kegiatan ini dilaksanakan setiap satu atau dua minggu sekali. Bobot tersebut digunakan untuk membantu melakukan pemilihan <it>backlog</it> pada <it>Sprint</it> <it>Planning.</it> 3. Implementasi Pada kegiatan ini, semua <it>engineer</it> melakukan implementasi <it>backlog</it> yang diambil. 4. <it>Standup</it> <it>Meeting</it> Pada kegiatan ini, semua tim berdiskusi terkait <it>backlog</it> yang sedang dikerjakan. Masing-masing anggota mengutarakan secara singkat apa saja yang sudah dikerjakan, kendala yang dihadapi dan rencana yang akan dilakukan. Anggota lain dapat menanyakan pekerjaannya atau memberikan solusi dari kendala yang dihadapi. Ketika sebuah <it>sprint</it> selesai, tim akan langsung melanjutkan ke <it>sprint</it> berikutnya. Kegiatan <it>sprint</it> <it>restropective</it> tidak dilakukan dalam satu waktu, namun disisipkan pada beberapa kegiatan, seperti <it>Sprint</it> <it>Planning</it> dan <it>Standup</it> <it>Meeting.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<title><bo>2.3.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Ada beberapa teknologi yang digunakan tim <it>Android</it> <it>Developer</it> dalam membangun aplikasi Bukalapak, yaitu: 1. SourceTree SourceTree merupakan salah satu platform klien Mercurial dan Git yang menyediakan antar muka untuk <it>repository</it> Hg dan Git (Atlasian, n.d.). <it>Software</it> ini merupakan salah satu produk yang dibuat dan didistribusikan oleh Atlasian. Software ini dapat diunduh secara gratis, dan tersedia untuk OS Windows dan Mac. SourceTree mempermudah akses ke git seperti <it>push,</it> <it>pull,</it> <it>merge</it> dll. 2. Github Github merupakan <it>version-control</it> berbasis <it>web</it> dan <it>platform</it> kolaborasi untuk pengembang perangkat lunak (Github, Inc, n.d.). Github sendiri dibentuk pada tahun 2008, yang sebelumnya dibuat di atas git. Git merupakan system manajemen kode yang <it>open</it> <it>source</it> dan diciptakan oleh Linus Trovalds. 3. Android Studio Android Studio merupakan <it>Integrated</it> <it>Development</it> <it>Environment</it> (IDE) yang dibuat resmi oleh Google (Google, Inc, n.d.). Android Studio ini digunakan untuk membangun aplikasi Android. Perangkat lunak ini dibangun di atas Intellij IDEA. Android Studio sendiri memiliki berbagai fitur untuk menunjang produktifitas ketika membangun aplikasi Android. 4. GenyMotion Genymotion merupakan sebuah perangkat lunak yang digunakan sebagai simulator aplikasi Android (Genymobile, n.d.). Genymotion menyediakan simulator untuk berbagai system operasi Android, seperti Lollipop, Kitkat, JellyBean dan system operasi Android yang lain. Dibandingkan dengan Simulator bawaan Android Studio, Genymotion memiliki lebih banyak fitur dan relatif lebih sedikit memakan memori. 5. Jira Jira merupakan salah satu aplikasi manajemen projek untuk melacak masalah- masalah (<it>issues),</it> kesalahan (<it>bug),</it> tugas (<it>task)</it> pada saat pengembangan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			perangkat lunak (Atlasian, n.d.). Jira merupakan salah satu produk yang dikembangkan oleh Atlasian. 
+		</segment>
+		<title><bo>2.4.</bo> <bo>Gambaran</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada awal pelaksanaan kerja praktik, penulis diminta untuk membuat beberapa aplikasi Android yang memanfaatkan <it>library-library</it> tertentu. Tujuan dari latihan ini yaitu supaya penulis terbiasa menggunakan <it>library</it> yang digunakan aplikasi Android Bukalapak. Setelah latihan selesai, penulis diberikan akses <it>repository</it> aplikasi Android di Github dan diberikan waktu 3 hari untuk men-<it>deploy</it> aplikasi tersebut di laptop penulis. Pada minggu kedua, penulis ditugaskan untuk memperbaiki <it>bug</it> <it>minor</it> yang ada di aplikasi. Tujuan dari penugasan ini adalah untuk mengenali <it>style</it> <it>coding</it> dan <it>flow</it> pada aplikasi Android. Namun, karena <it>bug</it> ini terkait dengan divisi lain, mentor penulis memutuskan untuk menunda penyelesaiannya. Setelah itu, penulis mengambil <it>backlog</it> fitur “Sekali  Bayar  untuk  Berbagai  Lapak”.  Dalam implementasi fitur ini, penulis bekerja sama dengan salah satu <it>engineer</it> di tim <it>Android</it> <it>Developer.</it> Pada awal implementasi, penulis diminta mempelajari <it>code</it> untuk menampilkan daftar transaksi. Kemudian penulis diminta mengimplementasikan <it>code</it> untuk menampilkan daftar tagihan. Setelah selesai, penulis mengimplementasikan halaman daftar tagihan dan daftar transaksi di dalam detail tagihan. Implementasi fitur ini memakan waktu cukup lama, karena bobot <it>backlog</it> untuk satu fitur ini cukup besar dan penulis menemui berbagai kesulitan. Namun, karena <it>engineer</it> yang bekerja sama dengan penulis memiliki karakter yang <it>friendly</it> dan terbuka,</it> penulis sering diberikan solusi atas permasalahan tersebut. Setelah fitur di atas selesai, penulis memperbaiki beberapa <it>bug</it> yang ada di aplikasi Android, seperti <it>bug</it> <it>Pointer</it> <it>Side</it> <it>Menu</it> dan <it>Filter</it> <it>Diskusi</it> <it>Retur.</it> Karena penulis sudah mulai terbiasa, dua <it>bug</it> di atas dapat dikerjakan dengan waktu yang lebih singkat. Ketika dua pekerjaan di tersebut masuk ke tahap <it>QA,</it> ternyata terdapat beberapa kondisi yang belum ditangani, sehingga pekerjaan diserahkan kembali ke penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			Setalah dua <it>bug</it> di atas selesai, penulis mengambil <it>backlog</it> <it>redesign</it> halaman BukaDompet Cairkan. Saat pengimplementasian tugas ini, penulis sering berkomunikasi dengan tim <it>Design</it> yang berada di divisi <it>Mobile.</it> Karena hanya sekedar <it>redesign</it> untuk memperbaiki <it>User</it> <it>Interface</it> dan <it>User</it> <it>Experience,</it> penulis memperkirakan waktu yang diperlukan cukup singkat. Ternyata, terdapat beberapa kendala seperti ukuran yang ditampilkan di rancangan halaman berbeda dengan ukuran sebenarnya pada aplikasi di sebuah <it>smartphone.</it> Namun penulis dapat menyelesaikannya dengan mengunduh berbagai simulator untuk menangani masalah tersebut. Setelah implementasi <it>backlog</it> di atas selesai, penulis mengambil <it>backlog</it> untuk menambahkan <it>badge</it> <it>premium</it> di beberapa halaman. Implementasi <it>code</it> untuk tugas ini cukup sederhana, karena hanya menambahkan <it>icon</it> saja. Kemudian penulis mengambil <it>baclog</it> memperbaiki <it>bug</it> pada <it>DompetPending.</it> Pada saat implementasi, penulis harus mengubah sedikit <it>code</it> pada halaman lain, karena <it>bug</it> ini terkai dengan halaman lain. Selain itu, <it>bug</it> ini juga terkait dengan <it>redesign</it> yang sudah penulis selesaikan. Setelah dua pekerjaan di atas selesai, penulis mengambil <it>backlog</it> <it>redesign</it> halaman Ulas Barang. Pada saat implementasi, penulis harus mengubah total <it>code</it> yang ada karena konsep dari halaman ini berbeda dengan yang lama. Penulis sering berkomunikasi dengan tim <it>design</it> dan seorang <it>engineer</it> yang dahulu mengerjakan pembuatan halaman ulas barang. Selain itu, penulis juga sering mendapatkan masukan dari <it>engineer</it> lain sehingga implementasi halaman ini relatif lebih cepat selesai. Pada <it>sprint</it> terakhir yang penulis ikuti, penulis mengambil <it>backlog</it> <it>maintenance</it> tampilan item barang di setiap halaman dan memperbaiki <it>bug</it> notifikasi pada aplikasi. Ketika penulis bertanya dengan beberapa <it>engineer,</it> ternyata kedua solusi untuk masing-masing <it>backlog</it> cukup sederhana. Namun, karena <it>maintenance</it> tampilan item nantinya ditampilkan di banyak halaman, penulis mengalami kesulitan untuk memastikan semua halaman sudah menampilkannya dengan benar. Selain itu, ada 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			<it>device</it> Android memiliki resolusi yang berbeda sehingga penulis harus menjamin bahwa semua tampilan tidak mengandung <it>bug</it> baru di beberapa <it>device.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo> <bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Dalam melaksanakan kerja praktik, terdapat beberapa perbedaan tugas yang penulis laporkan di KAKP dengan tugas yang penulis laksanakan di lapangan. Hal ini dikarenakan tim <it>Android</it> <it>Developer</it> menggunakan metode <it>Scrum</it> sehingga dari awal penulis belum mengetahui secara pasti tugas yang akan dikerjakan. Namun, penulis mendapatkan gambaran umum mengenai apa yang akan dikerjakan. Terkait dengan waktu pelaksanaan kerja praktik, waktu perencanaan yang penulis tuliskan di KAKP berbeda dengan realisasi pada saat kerja praktik. Penulis memperkirakan kerja praktik selesai pada tanggal 19 Agustus, namun pada saat realisasi kerja praktik selesai pada tanggal 26 Agustus 2016. Berikut merupakan tabel perbedaan pekerjaan yang direncanakan di KAKP dan realisasi pekerjaan tersebut: <bo>Tabel</bo> <bo>2.</bo> Perbedaan KAKP dengan realisasi Waktu Rencana Kerja Perbedaan 13 Juni 2016 –  22 Juni 2016  Pengenalan sistem dan pembelajaran aplikasi Android yang dipakai di PT. Bukalapak.com 23 Juni 2016 - 1 Juli 2016 2 Juli 2016 –  10 Juli 2016  11 Juli 2016 –  22 Juli 2016  Sprint 26 : Perbaikan <it>bug</it> dan implementasi fitur “Sekali Bayar  untuk Berbagai Lapak”.  Libur Idul Fitri Sprint 26 : Perbaikan <it>bug</it> dan implementasi fitur “Sekali Bayar  untuk Berbagai Lapak”.  25 Juli 2016 - 5 Agustus 2016 Sprint 27 : Perbaikan <it>bug</it> dan <it>maintenance</it> BukaDompet, - - - - - 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			8 Agustus 2016 - 19 Agustus 2016 Sprint 28 : Perbaikan <it>bug</it> dan <it>maintenance</it> Ulas Barang, Presentasi Akhir 22 Agustus 2016 – 26  Agustus 2016  - - <it>Maintenance</it> tampilan item barang - <it>Fixing</it> <it>bug</it> pada <it>notification</it> - <it>Fixing</it> <it>bug</it> <it>endpoint</it> BukaDompet 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganannya</bo></title>
+		<segment>
+			Penulis menghadapi beberapa kendala pada saat pelaksanaan kerja praktik. Kendala tersebut yaitu: 1. Pada awal pelaksanaan kerja praktik, penulis merasa canggung dengan tim <it>Android</it> <it>Developer.</it> Hal ini disebabkan karena penulis baru merasakan suasana kerja di sebuah perusahaan. Sebenarnya tim <it>Android</it> <it>Developer</it> sangat terbuka dan <it>friendly</it> dengan penulis. Oleh karena itu, lama kelamaan penulis akrab dengan tim <it>Android</it> <it>Developer.</it> 2. Pada awal pelaksanaan kerja praktik, penulis mengalami kesulitan dalam memahami <it>code</it> aplikasi Android Bukalapak. Solusi yang penulis lakukan yaitu bertanya dengan tim <it>engineer</it> terkait, sehingga lama kelamaan penulis mulai terbiasa dalam membaca dan mengubah sesuai pekerjaan yang penulis laksanakan. 3. Penulis belum terbiasa dengan <it>tools</it> yang dipakai oleh tim <it>Android</it> <it>Developer</it> Bukalapak. Solusi yang penulis ambil yaitu melakukan penyesuaian kurang lebih 1 minggu untuk benar-benar mengerti <it>tools</it> yang dipakai Bukalapak. 4. <it>Resource</it> yang dimiliki penulis dalam mengembangkan aplikasi Bukalapak kurang mumpuni. Prosesor terpasang pada laptop penulis, yaitu AMD A8- 5550M. Walaupun prosesor ini memiliki 4 <it>core,</it> namun ketika digunakan untuk men-<it>deploy</it> aplikasi Bukalapak, penulis perlu menunggu waktu kurang lebih 10 menit sampai proses <it>build</it> selesai. Selain itu, suara kipas karena proses <it>build</it> juga berisik. 5. <it>Device</it> Android memiliki berbagai resolusi, sehingga penulis mengalami kesulitan dalam memastikan <it>code</it> yang penulis buat bekerja optimal untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			masing-masing jenis resolusi. Solusi yang penulis ambil yaitu dengan mengunduh berbagai simulator Android dengan resolusi yang berbeda-beda. 
+		</segment>
+		<title><bo>3.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Dalam melaksanakan kerja praktik, terdapat beberapa mata kuliah yang materinya terkait dengan pekerjaan penulis, yaitu: 1. Dasar-Dasar Pemrograman Pada mata kuliah ini, beberapa ilmu yang penulis manfaatkan yaitu materi terkait <it>loop,</it> <it>decision,</it> <it>object</it> <it>oriented</it> <it>programming,</it> dan beberapa materi lain. 2. Struktur Data Algoritma Pada mata kuliah ini, materi yang memiliki keterkaitan dengan pekerjaan penulis yaitu terkait pemilihan struktur data yang tepat dalam suatu masalah, dan menentukan algoritma yang tepat untuk masalah tersebut. Misalnya, penulis diminta untuk mengimplementasikan kode untuk menampilkan daftar tagihan. Oleh karena itu, penulis perlu menentukan struktur data yang cocok untuk menyimpan daftar tersebut sebelum ditampilkan di layar. 3. Perancangan dan Pemrograman Web Penulis sangat terbantu dengan materi terkait <it>html,</it> <it>json,</it> <it>request</it> <it>data</it> dari <it>web,</it> atau melakukan <it>get</it> dan <it>post</it> dari aplikasi. 4. Rekayasa Perangkat Lunak Dalam mata kuliah ini, penulis belajar mengenai beberapa teori dalam membangun aplikasi. Penulis sangat terbantu dengan adanya materi ini pada awal pelaksanaan kerja praktik. Beberapa teori yang terkait dengan pelaksanaan kerja praktik yaitu metode pengembangan aplikasi (<it>scrum),</it> istilah-istilah dalam <it>scrum,</it> dan tahapan <it>testing</it> dalam pengembangan aplikasi. 5. Pengembangan Perangkat Lunak Dalam mata kuliah ini, penulis mengerjakan sebuah <it>project</it> untuk membangun aplikasi dengan menggunakan metode <it>scrum.</it> Penulis sangat terbantu dengan mata kuliah ini sehingga penulis sudah terbiasa dengan metode <it>scrum</it> yang diimplementasikan di Bukalapak. 
+		</segment>
+		<title><bo>3.4.</bo> <bo>Pembelajaran</bo> <bo>Soft</bo> <bo>Skill</bo> <bo>selama</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Di Bukalapak, penulis mempelajari hal-hal <it>soft</it> <it>skill</it> seperti komunikasi dalam satu tim. Pada saat penulis memiliki kesulitan terhadap apa yang sedang dikerjakan, penulis tentu bertanya dengan tim <it>Android</it> <it>Developer</it> Bukalapak. Selain itu, penulis juga diajarkan bagaimana berkomunikasi dengan tim dari divisi lain, yang pekerjaannya terkait dengan pekerjaan yang sedang diselesaikan penulis pada saat Kerja Praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			berlangsung. Selain itu, penulis juga belajar bertanggung jawab terhadap sebuah pekerjaan. Penulis mendapatkan amanah sebuah pekerjaan, penulis harus menyelesaikan pekerjaan tersebut dalam batas waktu yang ditentukan. 
+		</segment>
+		<title><bo>3.5.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Secara keseluruhan, penulis merasa nyaman pada saat melaksanakan kerja praktik di Bukalapak. Dari segi lingkungan kerja, penulis merasa bahwa setiap karyawan di Bukalapak sangat terbuka. Pada saat bertanya, para <it>engineer</it> sangat terbuka dan mau menjelaskan apa yang penulis tanyakan walaupun saat itu sedang sibuk. Selain itu, karyawan di Bukalapak juga ramah dan murah senyum, sehingga penulis merasa nyaman. Dari segi fasilitas, penulis berpendapat bahwa Bukalapak sangat menghargai karyawannya. Di Bukalapak sendiri terdapat fasilitas <it>gym</it> yang terbuka bagi seluruh karyawan dan pekerja magang. Selain itu, juga terdapat ruang perpustakaan yang berisi buku-buku terkait teknologi. Di sudut-sudut ruangan terdapat beberapa tempat duduk dengan desain yang unik, dan biasanya digunakan untuk makan, atau diskusi secara personal dll. Penulis pun pernah melakukan tugas di tempat tersebut saat penulis merasa bosan. Selain itu, setiap karyawan dan pekerja magang mendapatkan fasilitas makan siang yang sangat membantu penulis untuk menghemat pengeluaran dan waktu untuk mencari makan siang. Terkait dengan peraturan jam masuk kantor, Bukalapak memberlakukan jam masuk kantor yang fleksibel. Oleh karena itu setiap karyawan dapat masuk pada jam berapa pun dan yang terpenting dirinya bertanggung jawab terhadap pekerjaan. Hal tersebut juga berlaku pada pekerja magang. Penulis sangat merasa nyaman dengan jam kerja fleksibel tersebut, sehingga penulis tidak terburu-buru pada saat berangkat ke kantor. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik di Bukalapak dari tanggal 13 Juni 2016 sampai dengan 26 Agustus 2016. Pada kerja praktik tersebut, penulis mendapatkan posisi sebagai <it>Android</it> <it>Developer,</it> dan ikut mengembangkan aplikasi Android Bukalapak. Banyak mata kuliah yang memiliki relevansi terhadap pekerjaan di Bukalapak, sperti Dasar-Dasar Pemrograman, Struktur Data Algoritma, Perencanaan dan Pemrograman Web, Rekayasa Perangkat Lunak dan Pemrograman Perangkat Lunak. Dalam pelaksanaan kerja praktik, penulis mendapatkan beberapa kendala. Namun penulis dapat menangani kendala tersebut dengan beberapa solusi. Selain itu, penulis juga mendapatkan beberapa manfaat dari pelaksanaan kerja praktik ini. Secara umum, Bukalapak merupakan tempat yang baik dan nyaman untuk para <it>engineer</it> dan tempat yang baik untuk belajar <it>hardskill</it> dan <it>softkill.</it> 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Dalam melaksanakan kerja praktik ini, penulis memiliki saran-saran untuk beberapa pihak. 1. Pihak dosen dan fakultas Sebaiknya dosen aktif dan mudah dihubungi dalam memberikan <it>feedback</it> terkait KAKP. KAKP seharusnya dikumpulkan pada awal kerja praktik, namun baru dapat dikumpulkan pada akhir kerja praktik. 2. Pihak Bukalapak Sebaiknya setiap pekerja baru baik pekerja magang maupun pekerja tetap mendapatkan pelatihan seputar teknologi yang digunakan, atau mekanisme aplikasi yang diterapkan. Hal ini diperlukan supaya <it>engineer</it> baru tidak menghabiskan waktu yang banyak untuk belajar sendiri. 3. Mahasiswa yang akan mengambil kerja praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<segment>
+			Mahasiswa yang akan mengambil kerja praktik sebaiknya melamar perusahaan jauh-jauh hari sebelum semester berakhir. Hal ini karena pada waktu semester berakhir, banyak lamaran yang sudah ditutup. Selain itu juga untuk menghindari hal-hal yang tidak diinginkan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<segment>
+			<bo>Daftar</bo> <bo>Referensi</bo> Atlasian. (t.thn.). <it>JIRA</it> <it>Software</it> <it>-</it> <it>Issue</it> &amp; <it>Project</it> <it>Tracking</it> <it>for</it> <it>Software</it> <it>Teams</it> <it>|</it> <it>Atlassian.</it> Diambil kembali dari Jira Software: https://www.atlassian.com/software/jira Atlasian. (t.thn.). <it>SourceTree.</it> Diambil kembali dari SourceTree: https://www.sourcetreeapp.com/ Genymobile. (t.thn.). <it>Genymotion</it> <it>–</it> <it>Fast</it> &amp; <it>Easy</it> <it>Android</it> <it>Emulator.</it> Diambil kembali  dari Genymotion: https://www.genymotion.com/ Github, Inc. (t.thn.). <it>About.</it> Diambil kembali dari Github: https://github.com/about Google, Inc. (t.thn.). <it>Meet</it> <it>Android</it> <it>Studio.</it> Diambil kembali dari Android Studio: https://developer.android.com/studio/intro/index.html PT Bukalapak.com. (t.thn.). <it>Tentang</it> <it>Bukalapak.</it> Diambil kembali dari Bukalapak: https://www.bukalapak.com/about 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

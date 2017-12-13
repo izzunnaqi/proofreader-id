@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>FULLSTACK</bo></it> <it><bo>DEVELOPER</bo></it> <bo>UNTUK</bo> <it><bo>MAIN</bo></it> <it><bo>SITE</bo></it> <bo>DAN</bo> <bo>ADMIN</bo></title>
+		<segment>
+			<it><bo>SITE</bo></it> <bo>PT.</bo> <bo>RUANG</bo> <bo>RAYA</bo> <bo>INDONESIA</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>IRA</bo> <bo>ELIYA</bo> <bo>RAHMADHANI</bo></title>
+		<segment>
+			<bo>1306397841</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>DESEMBER</bo> <bo>2016</bo></title>
+		<pagenum>0</pagenum>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh: Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			Program Studi Kelas : Ira Eliya Rahmadhani : 1306397841 : Ilmu Komputer : Kerja Praktik - A Judul Kerja Praktik : Fullstack Developer untuk Main Site dan Admin Site PT. Ruang Raya Indonesia Telah berhasil menyelesaikan laporan kerja praktik dan akan mempresentasikan hasil kerja praktik pada seminar kerja praktik sebagai persyaratan yang harus dipenuhi dalam mata kuliah Kerja Praktik. <bo>Dosen</bo> <bo>Mata</bo> <bo>Kuliah</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Pelaksana</bo> <bo>Mata</bo> <bo>Kuliah</bo> <bo>Kerja</bo> <bo>Kelas</bo> <bo>A,</bo> <bo>Praktik,</bo> <bo>Dosen:</bo> <bo>Meganingrum</bo> <bo>Arista</bo> <bo>Peserta:</bo> <bo>Ira</bo> <bo>Eliya</bo> <bo>Rahmadhani</bo> <bo>Jiwanggi,</bo> <bo>S.Kom.,</bo> <bo>M.Kom</bo> Ditetapkan di  : Depok Tanggal  : 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="3">
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Nama Program Studi : Ilmu Komputer : Ira Eliya Rahmadhani Judul : <it>Fullstack</it> <it>Developer</it> untuk <it>Main</it> <it>Site</it> dan <it>Admin</it> <it>Site</it> PT. Ruang  Raya Indonesia Laporan Kerja Praktik ini dibangun atas aktivitas penulis saat melaksanakan kerja praktik pada semester gasal periode 2016/2017. Penulis telah menyelesaikan kerja praktik selama 2 (dua) bulan terhitung dari tanggal 13 Juni 2016 sampai 19 Agustus 2016 di PT. Ruang Raya Indonesia. Selama kerja praktik, pelaksana kerja praktik memegang posisi sebagai <it>Fullstack</it> <it>Developer</it> pada <it>admin</it> <it>site</it> dan <it>main</it> <it>site</it> perusahaan tempat penulis melaksanakan kerja praktik. Tanggung jawab penulis selama masa kerja praktik adalah untuk membangun <it>admin</it> <it>site</it> dan <it>main</it> <it>site</it> sesuai dengan <it>design</it> yang telah dibuat oleh UI/UX designer perusahaan pada halaman Zeplin dan menuliskan baris <it>code</it> dalam <it>web</it> berbasis <it>framework</it> javascript yaitu AngularJS. Selama bekerja sebagai <it>intern,</it> penulis dibimbing oleh satu orang mentor yaitu Ibnu Imam (<it>Lead</it> <it>Fullstack</it> <it>Developer).</it> <bo>Kata</bo> <bo>kunci:</bo> <it>Fullstack</it> <it>Developer,</it> <it>Frontend</it> <it>Developer,</it> <it>Javascript,</it> <it>AngularJS,</it> <it>Meteor,</it> <it>Zeplin,</it> <it>Postman,</it> Ruangguru 
+		</segment>
+		<pagenum>2</pagenum>
+	</page>
+	<page id="4">
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			<bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>..........</bo> <bo>1</bo> <bo>ABSTRAK</bo> <bo>.........................................................................................................................</bo> <bo>2</bo> <bo>DAFTAR</bo> <bo>ISI......................................................................................................................</bo> <bo>3</bo> <bo>PENDAHULUAN</bo> <bo>.............................................................................................................</bo> <bo>4</bo> 1.1. PROSES PENCARIAN KERJA PRAKTIK ....................................................................... 4 1.2. TEMPAT KERJA PRAKTIK ......................................................................................... 5 <it>1.2.1.</it> <it>Profil</it> <it>Tempat</it> <it>Kerja</it> <it>Praktik</it> <it>.............................................................................</it> <it>6</it> <it>1.2.2</it> <it>Struktur</it> <it>Singkat</it> <it>Organisasi</it> <it>...............................................................................</it> <it>7</it> <it>1.2.3.</it> <it>Posisi</it> <it>Penempatan</it> <it>Pelaksana</it> <it>Kerja</it> <it>Praktik</it> <it>dalam</it> <it>Struktur</it> <it>Organisasi</it> <it>........</it> <it>7</it> <bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>............................................................................</bo> <bo>8</bo> 2.1 LATAR BELAKANG PEKERJAAN ................................................................................ 8 2.2 TINJAUAN PUSTAKA .................................................................................................. 8 2.3. METODOLOGI ......................................................................................................... 10 2.4. TEKNOLOGI ............................................................................................................ 10 <it>Postman.............................................................................................................</it> <it>10</it> <it>Zeplin</it> <it>................................................................................................................</it> <it>11</it> <it>Sublime</it> <it>Text</it> <it>......................................................................................................</it> <it>11</it> <it>GIT</it> <it>Bash</it> <it>...........................................................................................................</it> <it>11</it> <it>Webstorm</it> <it>..........................................................................................................</it> <it>11</it> <it>AngularJS</it> <it>..........................................................................................................</it> <it>12</it> <bo>ANALISIS</bo> <bo>KERJA</bo> <bo>PRAKTIK......................................................................................</bo> <bo>13</bo> 3.1. PELAKSANAAN KERJA PRAKTIK ............................................................................ 13 <it>3.1.1</it> <it>Kesesuaian</it> <it>dengan</it> <it>KAKP</it> <it>...............................................................................</it> <it>13</it> <it>3.1.2.</it> <it>Kendala</it> <it>Kerja</it> <it>Praktik</it> <it>....................................................................................</it> <it>14</it> 3.2. PENILAIAN TERHADAP TEMPAT KERJA PRAKTIK................................................... 15 3.3. RELEVANSI DENGAN PERKULIAHAN DI FASILKOM UI ........................................... 15 3.4 PEROLEHAN DARI PELAKSANAAN KERJA PRAKTIK ................................................ 16 <it>3.4.1.</it> <it>Hard-Skills</it> <it>......................................................................................................</it> <it>17</it> <it>3.4.2.</it> <it>Soft-Skills</it> <it>........................................................................................................</it> <it>17</it> <bo>PENUTUP</bo> <bo>........................................................................................................................</bo> <bo>19</bo> 4.1. KESIMPULAN .......................................................................................................... 19 4.2. SARAN .................................................................................................................... 19 <bo>DAFTAR</bo> <bo>REFERENSI</bo> <bo>..................................................................................................</bo> <bo>20</bo> <bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KAKP</bo> <bo>....................................................................................................</bo> <bo>21</bo> <bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KP</bo> <bo>................................................................................................</bo> <bo>22</bo> 
+		</segment>
+		<pagenum>3</pagenum>
+	</page>
+	<page id="5">
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses pencarian kerja praktik merupakan proses yang panjang bagi penulis. Penulis memulai proses pencarian dengan membuat <it>list</it> dari bidang-bidang yang ingin ditekuni penulis saat sudah dilepas ke industri kerja nanti. Setelah melakukan pertimbangan yang matang, penulis meruncingkan pilihan pada 2 hal yang ingin ditekuni penulis; <it>frontend</it> <it>developing</it> dan <it>UI/UX</it> <it>designing.</it> Beberapa bulan sebelum kerja praktik dimulai, penulis melihat-lihat perusahaan mana yang kiranya cocok bagi penulis untuk mengembangkan <it>skill</it> yang ingin dikembangkan oleh penulis. Di awal masa pencarian, penulis tertarik untuk bekerja di <it>advertising</it> <it>agency,</it> sehingga penulis melamar di beberapa <it>agency.</it> Dari beberapa <it>agency</it> yang dikirim <it>email</it> lamaran kerja, salah satu perusahaan yang mengirim surat kembali adalah Blackstone Agency. Namun, karena satu dan lain hal saat <it>interview,</it> penulis mengurungkan niat untuk bekerja disana meskipun sudah diterima. Gagal di <it>agency,</it> penulis mulai mencari jenis perusahaan lain untuk kerja praktik. Penulis mulai memasangkan target pada <it>startup</it> dan korporat. Beberapa perusahaan yang dituju oleh penulis adalah; Gramedia (<it>Web</it> <it>Developer),</it> Tokopedia (<it>Software</it> <it>Engineer),</it> KMK Online (<it>Frontend</it> <it>Developer),</it> Ruangguru (<it>Frontend</it> <it>Developer).</it> <it>Startup</it> yang pertama yang dilamar oleh penulis adalah Tokopedia. Penulis melakukan pelamaran melalui <it>tab</it> <it>career</it> Tokopedia. Setelah <it>apply,</it> penulis mendapat <it>email</it> balasan berupa <it>link</it> <it>test</it> <it>online.</it> Namun, sayang sekali penulis gagal di putaran pertama. 
+		</segment>
+		<pagenum>4</pagenum>
+	</page>
+	<page id="6">
+		<segment>
+			Setelah gagal pada tahap <it>online</it> <it>test</it> di Tokopedia, penulis mencoba melamar sebagai <it>frontend</it> <it>developer</it> di Ruangguru. Penulis mengisi <it>form</it> pelamaran magang di <it>link</it> yang mereka sediakan. Selanjutnya penulis dihubungi oleh pihak ruangguru dan membuat janji <it>interview</it> <it>online.</it> Pada saat <it>interview,</it> didiskusikan apa saja proyek yang pernah penulis lakukan, <it>framework</it> yang pernah dipakai dan sebagainya. Juga dibahas pada <it>interview,</it> teknologi apa saja yang mereka gunakan dan apakah penulis pernah mendengar atau menggunakan teknologi itu sebelumnya. Pada pandangan penulis, <it>interview</it> berjalan lancar. Penulis mendapatkan <it>email</it> kepastian beberapa hari kemudian, penulis diterima. Mendapatkan kepastian magang di Ruangguru tidak membuat penulis berpuas diri. Penulis masih ingin menantang dirinya lebih lagi sembari mencari <it>opportunity</it> yang masih terbuka lebar di luar sana. Penulis mencoba melamar di KMKonline dan Gramedia. KMK membalas terlebih dahulu dengan link test <it>online</it> di dalamnya. Penulis lulus <it>test</it> <it>online.</it> Namun, karena satu dan lain hal, penulis tidak jadi melanjutkan di KMKonline. Hingga akhir bulan Mei, Gramedia belum juga membalas <it>email</it> lamaran yang dikirimkan oleh penulis. Penulis diminta oleh Ruangguru untuk datang dan menandatangani kontrak. Akhirnya, pada awal bulan Juni 2016, penulis datang ke Ruangguru untuk menandatangani kontrak. Pada saat itu, penulis baru menyadari bahwa pada kontrak tertulis penulis dikontrak sebagai pemagang <it>Fullstack</it> <it>Developer,</it> dan bukan <it>Frontend</it> <it>Developer</it> seperti yang didaftarkan oleh penulis. Namun, setelah diskusi panjang, penulis tetap menandatangani kontrak. Satu hari kemudian, Gramedia baru mengkontak penulis mengenai kelanjutan lamaran. Namun, karena penulis sudah tandatangan kontrak di tempat lain, penulis tidak melanjutkan proses magang ke Gramedia. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan menceritakan tempat kerja praktik dimana penulis melaksanakan kerja praktik pada bulan Juni – Agustus 2016.  
+		</segment>
+		<pagenum>5</pagenum>
+	</page>
+	<page id="7">
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Ruangguru.com merupakan sebuah perusahaan yang mengembangkan produk dan layanan di bidang teknologi pendidikan di Indonesia. Perusahaan yang berbasis di Tebet, Jakarta ini dibangun oleh beberapa anak muda Indonesia yang memiliki <it>concern</it> tinggi pada dunia pendidikan yang telah memiliki pengalaman kerja dan pendidikan di luar negeri. Pada saat ini, Ruangguru sendiri merupakan layanan pendidikan berbasis teknologi terbesar di Indonesia. Sejak berdiri pada tahun 2014, sejumlah produk yang telah dirilis oleh Ruangguru antara lain: 1. Situs <it>marketplace</it> pencarian guru privat - mengelola lebih dari 27,000 guru yang menawarkan jasa di lebih dari 100 bidang pelajaran di seluruh Indonesia. Tidak hanya di bidang pendidikan formal saja, namun juga non formal seperti privat bahasa asing, mengaji, dan banyak lagi. 2. <it>Mobile-app</it> yang membantu murid untuk mendapatkan solusi permasalahan belajar secara instan. Misalnya, jika murid menemui kendala saat mengerjakan PR, murid bisa langsung berkomunikasi dengan guru terbaik lewat fasilitas <it>chat</it> dan <it>audio</it> <it>call</it> yang tersedia di dalam <it>app.</it> 3. <it>Platform</it> <it>learning</it> <it>management</it> <it>system</it> yang memungkinkan murid untuk mengakses ribuan soal latihan dan ujian yang disusun berdasarkan kurikulum 2006 &amp; 2013. Dengan menggunakan fitur <it>analytics</it> yang ada, murid juga dapat memahami perkembangan belajar, kekuatan dan kelemahan, manajemen waktu, hingga strategi belajar yang tepat. <it>Platform</it> ini juga memungkinkan guru di sekolah untuk mengelola kelas belajar secara <it>online</it> (memberikan latihan dan ujian, menghimpun nilai latihan dan ujian, memonitor perkembangan siswa, dll). Pada saat ini, Ruangguru masih terus berkembang untuk meningkatkan layanan serta memproduksi lebih banyak produk lagi yang nantinya diharapkan akan meningkatkan kualitas pendidikan di Indonesia [1]. 
+		</segment>
+		<pagenum>6</pagenum>
+	</page>
+	<page id="8">
+		<title><bo>1.2.2</bo> <bo>Struktur</bo> <bo>Singkat</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi Perusahaan 
+		</segment>
+		<title><bo>1.2.3.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo></title>
+		<segment>
+			<bo>Organisasi</bo> Pada pelaksanaan kerja praktik, penulis berada dalam kelompok <it>programmer,</it> di bagian <it>Fullstack</it> <it>Developer</it> yang mengelola <it>website-website</it> yang dimiliki Ruangguru. Selain <it>Fullstack</it> <it>Developer</it> <it>intern,</it> yang merupakan bagian dari programmer adalah Android <it>Developer,</it> IOS <it>Developer,</it> dan <it>Core.</it> 
+		</segment>
+		<pagenum>7</pagenum>
+	</page>
+	<page id="9">
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>2.1</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> Pendidikan merupakan sektor penting yang harus terus diperhatikan dan dipelihara dengan baik. Bila ingin membangun suatu negara, bangunlah pendidikan di negara tersebut. Berawal dari latar belakang tersebut, serta <it>concern</it> yang tinggi dari Iman Usman, berdirilah Ruangguru hingga sekarang ini. Iman melihat bahwa salah satu komponen pendidikan yang penting adalah bimbingan belajar. Namun, bimbingan belajar yang selama ini ia lihat memiliki keuntungan yang tidak imbang antara penyelenggara dan pengajar, dalam hal ini pengajar dirugikan. Dari situ lah Iman Usman semakin bertekad untuk membangun <it>marketplace</it> untuk para guru mempromosikan dirinya dan agar lebih mudah ditemukan oleh calon murid. Seiring berjalannya waktu dan perkembangan Ruangguru semakin pesat, terdapat beberapa <it>feedback</it> mengenai produk-produk Ruangguru, diantaranya: <it>main</it> <it>site</it> yang dinilai tidak indah <it>user</it> <it>interactionnya</it> serta tidak mudah <it>user</it> <it>experiencenya,</it> fitur-fitur yang kurang pada admin site, dan banyak lagi. Oleh karena itu, Ruangguru menyadari ada beberapa hal yang perlu diperbaharui dan diperbaiki. Salah satunya adalah admin site dan main site pada ruangguru itu sendiri. Penulis dipekerjakan oleh Ruangguru untuk membantu tim <it>Fullstack</it> <it>Developer</it> untuk membangun <it>admin</it> <it>site</it> dan <it>main</it> <it>site</it> ruangguru menjadi lebih baik lagi dengan tampilan dan fitur yang lebih mumpuni. <bo>2.2</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo> <it>Fullstack</it> <it>Developer</it> adalah istilah yang dikembangkan oleh Facebook <it>Engineering</it> <it>Department</it> lima tahun yang lalu yang berarti, orang tersebut dapat menguasai kedua aspek <it>front-end</it> <it>developing</it> dan <it>back-end</it> <it>developing.</it> Idenya adalah bahwa <it>full-stack</it> <it>developer</it> dapat bekerja lintas-fungsional pada dua 
+		</segment>
+		<pagenum>8</pagenum>
+	</page>
+	<page id="10">
+		<segment>
+			teknologi yang berbeda, yaitu <it>front-end</it> dan <it>back-end.</it> Dari situ diharapkan seorang <it>Fullstack</it> <it>Developer</it> dapat membuka peluang yang lebih besar bagi dirinya sendiri [2]. <it>Javascript</it> adalah sebuah bahasa komputer atau kode pemrograman yang digunakan pada <it>website</it> agar <it>website</it> tersebut menjadi lebih interaktif dan dinamis. Javascript adalah jenis bahasa pemrograman <it>client</it> <it>side.</it> Penggunaan kode javascript pada sebuah <it>website</it> bersifat opsional, artinya tidak harus selalu ada, namun biasanya digunakan untuk membuat <it>website</it> lebih menarik [3]. Seiring berjalannya waktu, Javascript tidak hanya digunakan sebagai pembuat animasi agar <it>web</it> lebih interaktif saja, namun juga sebagai <it>framework</it> dari <it>frontend</it> itu sendiri. Salah satu <it>framework</it> yang ada dan digunakan di Ruangguru adalah AngularJS. <it>Framework</it> <it>Javascript</it> adalah sebuah <it>framework</it> yang menggunakan javascript sebagai menopang atau tulang punggung dari baris <it>codenya.</it> Umumnya menggunakan metode MVC yang membuat <it>source</it> <it>code</it> aplikasi menjadi bersih dan mudah dipahami untuk dikembangkan lebih lanjut. Sampai saat ini, terdapat beberapa <it>framework</it> <it>javascript</it> yang dikembangkan diantaranya: AngularJS oleh Google, ReactJS oleh Facebook, dan masih banyak lagi [4]. <it>REST</it> <it>API</it> (<it>Representational</it> <it>state</it> <it>transfer</it> <it>Application</it> <it>Programming</it> <it>Interface)</it> merupakan sekumpulan data yang dibungkus ke dalam bentuk objek dan dibuat berdasarkan karakteristik untuk fungsi tertentu. REST API dibungkus ke dalam format JSON, sehingga diperlukan sekali kemampuan memahami dan memroses kode dalam format JSON. Dalam implementasinya, terdapat dua hal dalam proses penggunaan REST API, yaitu <it>request</it> dan <it>response.</it> Kode yang diberikan pada saat <it>request</it> dapat berupa <it>get,</it> <it>post,</it> <it>update,</it> dan <it>delete.</it> Setelah kode dikirim ke <it>server,</it> <it>response</it> yang dikembalikan berupa kode <it>response</it> dan data berupa dalam format JSON. 
+		</segment>
+		<pagenum>9</pagenum>
+	</page>
+	<page id="11">
+		<title><bo>2.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Metodologi yang digunakan dalam pengembangan situs <it>admin</it> dan situs utama dari Ruangguru adalah Scrum. Scrum adalah metode pengembangan perangkat lunak yang digunakan untuk permasalahan yang kompleks yang diperlukan adaptasi terhadap <it>requirement</it> (Schwaber dan Sutherland, 2013). Scrum termasuk ke dalam jenis metode pengembangan Agile. Dalam prosesnya, terdapat tiga komponen yang saling berintegrasi, yaitu: <it>Product</it> <it>Owner,</it> <it>Scrum</it> <it>Master,</it> dan <it>Developer</it> Dalam penerapannya, terdapat <it>scrum</it> <it>meeting</it> yang merupakan pertemuan singkat antara <it>developer</it> dan <it>scrum</it> <it>master</it> untuk membahas pekerjaan apa saja yang sudah diselesaikan, pekerjaan apa saja yang akan dikerjakan berikutnya, dan apakah ada kendala yang dihadapi ketika menyelesaikan pekerjaan. 
+		</segment>
+		<title><bo>2.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, ada cukup banyak teknologi yang dimanfaatkan oleh pelaksana kerja praktik. Kebanyakan dari teknologi yang ada merupakan teknologi-teknologi yang memang digunakan oleh internal Ruangguru. Adapun teknologi-teknologi yang digunakan oleh pelaksana kerja praktik adalah:   <bo>Postman</bo>  Postman merupakan API <it>tool</it> yang digunakan oleh ruangguru, untuk menghubungkan tim <it>core</it> dan tim <it>fullstack</it> dalam bertukar informasi API untuk <it>retrieving</it> data pada <it>website</it>   <bo>Telegram</bo>  Telegram merupakan <it>tool</it> untuk melakukan komunikasi. Pada Ruagguru, Telegram dimanfaatkan menjadi <it>tool</it> komunikasi internal perusahaan. 
+		</segment>
+		<pagenum>10</pagenum>
+	</page>
+	<page id="12">
+		<segment>
+			  <bo>Zeplin</bo>  Zeplin merupakan tempat UI/UX Designer megirim <it>design</it> mereka untuk diterjemahkan menjadi baris <it>code</it> oleh <it>fullstack</it> <it>developer.</it>   <bo>Sublime</bo> <bo>Text</bo>  Merupakan <it>text</it> <it>editor</it> khusus <it>programming</it> yang dilengkapi berbagai fitur untuk memudahkan <it>programmer</it> bekerja, seperti text highlighting, error checking, dan banyak lagi <it>plugin</it> yang bisa diinstall</it> untuk memperkaya fitur pada Sublime Text   <bo>GIT</bo> <bo>Bash</bo>  <it>Tools</it> yang digunakan penulis untuk mendorong hasil pekerjaannya ke GIT Pusat maupun cabang pribadi, serta mengambil hasil pekerjaan rekan kerja yang lain dari GIT pusat.   <bo>Webstorm</bo>  Webstorm juga merupakan <it>text</it> <it>editor</it> khusus <it>programming</it> yang dilengkapi berbagai fitur untuk memudahkan <it>programmer</it> bekerja, namun perbedaannya adalah, dengan menggunakan Webstorm, kita tidak perlu lagi menggunakan GIT <it>client,</it> karena Webstorm sudah memiliki fitur yang memungkinkan penggunanya untuk mendorong dan mengambil hasil pekerjaan ke GIT. Sayangnya, <it>laptop</it> pelaksana praktik tidak dapat mengoperasikan <it>tool</it> ini dengan baik lantaran <it>tool</it> ini menyerap terlalu banyak tenaga yang tidak bisa diberikan dengan cukup oleh <it>laptop</it> pelaksana praktik. 
+		</segment>
+		<pagenum>11</pagenum>
+	</page>
+	<page id="13">
+		<segment>
+			  <bo>AngularJS</bo>  <it>AngularJS</it> adalah sebuah <it>framework</it> Javascript yang dikembangkan oleh tim Google. AngularJS menggunakan metode MVC yang membuat <it>source</it> <it>code</it> aplikasi menjadi bersih dan mudah dipahami untuk dikembangkan lebih lanjut. Sampai saat ini, AngularJS sudah menjadi salah satu <it>framework</it> <it>javascript</it> yang populer dan banyak digunakan para <it>developer</it> untuk membangun aplikasi. 
+		</segment>
+		<pagenum>12</pagenum>
+	</page>
+	<page id="14">
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>3.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan menjelaskan bagaimana pelaksanaan Kerja Praktik yang berjalan selama Juni – Agustus 2016.  
+		</segment>
+		<title><bo>3.1.1</bo> <bo>Kesesuaian</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Secara umum, pelaksanaan kerja praktik sesuai dengan KAKP yang telah diajukan di awal kerja praktik. Relatif tidak begitu banyak pekerjaan tambahan atau di luar lingkup kerja yang sudah dituangkan di dalam KAKP, hanya saja mungkin <it>timelinenya</it> agak berbeda dengan yang diberikan di KAKP. Sedikit perbedaan terjadi pada jadwal yang sedikit tertunda karena proyek yang masih belum turun dari atas (tingkat CTO). Karena proyek yang belum disetujui sehingga belum bisa dikerjakan oleh kami para programmer. Selama pelaksanaan kerja praktik, penulis lebih banyak mengerjakan bagian <it>admin</it> <it>site</it> Ruangguru. <it>Admin</it> <it>site</it> Ruangguru memang memiliki sedikit fitur disbanding dengan situs utamanya. Di dalam pengerjaan situs admin, penulis berkontribusi dalam pengerjaan: <bo>No</bo> 1. 2. 3. <bo>Fitur</bo> User Pengaturan Teacher Tabel 1. Daftar fitur <it>Admin</it> <it>site</it> Dalam pengerjaan situs utama dari Ruangguru, penulis berkontribusi dalam pengerjaan: <bo>No.</bo> 1. <bo>Fitur</bo> Guru Privat Tabel 2. Daftar fitur situs utama 
+		</segment>
+		<pagenum>13</pagenum>
+	</page>
+	<page id="15">
+		<segment>
+			Dalam pengerjaan kedua situs tersebut, penulis yang bertugas sebagai <it>fullstack</it> <it>developer</it> mengerjakan tampilan antarmuka sekaligus integrasi dengan bagian <it>back-end</it> atau <it>server</it> dari Ruangguru menggunakan API yang disediakan oleh bagian <it>core.</it> Selain mengerjakan pekerjaan tersebut, penulis juga mengerjakan beberapa pekerjaan kecil lainnya seperti: perbaikan <it>bugs,</it> pembuatan halaman statis, dan perbaikan gambar (<it>alt</it> <it>tag,</it> penamaan gambar yang seragam, dan <it>source)</it> di bagian HTML. Secara keseluruhan, menurut penulis Ruangguru merupakan tempat yang <it>relative</it> cukup baik untuk dijadikan sebagai tempat kerja praktik. Namun, terdapat beberapa hal kecil yang membuat proses belajar di Kerja Praktik menjadi terhambat seperti ditundanya pengerjaan proyek yang menyebabkan beberapa hari dihabiskan tidak melakukan hal yang benar-benar produktif. 
+		</segment>
+		<title><bo>3.1.2.</bo> <bo>Kendala</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Berikut adalah kendala-kendala yang dihadapi oleh pelaksana kerja praktik serta penanganannya selama melaksanakan kerja praktik di Ruangguru: ●  Pelaksana  kerja  praktik  mendaftar  sebagai  <it>Frontend</it>  <it>Developer,</it>  diterima  sebagai <it>Frontend</it> <it>Developer,</it> namun dikontrak sebagai <it>Fullstack</it> <it>Developer.</it> Tentu saja, perubahan yang terjadi pada job description tidak sedikit, namun pelaksana kerja praktik bertekad untuk tetap menjalankannya. ●  Selama beberapa waktu di awal dimulainya kerja praktik, pelaksana kerja  praktik merasa bahwa ada terlalu banyak hal yang harus dicerna dan dipahami dalam waktu yang sangat singkat. Ini membuat pelaksana kerja praktik cukup kebingungan selama beberapa hari akan apa yang harus dilakukan. ●  Laptop pelaksana kerja praktik sempat bermasalah di suatu periode waktu,  dikarenakan spesifikasi yang tidak cukup. Namun akhirnya masalah ini teratasi setelah meminjam laptop dari teman. 
+		</segment>
+		<pagenum>14</pagenum>
+	</page>
+	<page id="16">
+		<segment>
+			●  Tempat  pelaksana  kerja  praktik  yang  kurang  memberikan  program  yang  jelas bagi para pemagangnya, sehingga kami terkadang seperti meminta- minta pekerjaan karena mereka tidak kunjung memberikan. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Penilaian</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Sebagai pemagang di PT. Ruang Raya selama sekitar dua bulan lamanya, pelaksana kerja praktik dapat menilai bahwa ruangguru merupakan tempat yang cukup baik untuk melaksanakan Kerja Praktik atau magang. Meskipun di poin sebelumnya pelaksana kerja praktik mengatakan bahwa tempat kerja praktik kurang memberikan program yang jelas bagi para pemagangnya, namun pelaksana kerja praktik tau bahwa tempat kerja praktik sudah berusaha sebaik mereka untuk menjadi tempat kerja praktik yang nyaman, hal itu dapat dilihat dari program- program non pekerjaan yang mereka hadirkan untuk menyambut pemagang, misalnya kelas design thinking, grand opening dan grand closing #internAtRuangguru, hiburan tiap akhir bulan, dan banyak lagi. Selain itu, yang pelaksana kerja praktik rasakan kurang jelas programnya hanyalah posisi dimana pelaksana bekerja, yaitu fullstack developer. Diluar itu, pelaksana kerja praktik merasa ruangguru telah memberikan pekerjaan/program yang cukup menarik bagi pemagangnya.  <bo>3.3.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> Berikut adalah beberapa mata kuliah yang telah diambil oleh pelaksana kerja praktik sebelum kerja praktik berjalan yang dirasa memiliki relevansi dengan pekerjaan pelaksana kerja praktik: ●  Rekayasa Perangkat Lunak  Dalam perkuliahan Rekayasa Perangkat Lunak, pelaksana kerja praktik mempelajari macam-macam proses pengembangan perangkat lunak. Ruangguru menggunakan siklus pengembangan perangkat lunak <it>Scrum.</it> Pengetahuan yang pelaksana kerja praktik dapatkan di mata kuliah ini 
+		</segment>
+		<pagenum>15</pagenum>
+	</page>
+	<page id="17">
+		<segment>
+			membantu dalam memperkenalkan istilah-istilah dalam proses pengembangan perangkat lunak. ●  Proyek Perangkat Lunak  Pelaksana kerja praktik telah menyelesaikan mata kuliah proyek perangkat lunak di semester enam. Dalam praktiknya, pelaksana kerja praktik bersama dengan tim bekerja sama dengan mahasiswa-mahasiswi untuk menyelesaikan salah satu masalah yang dikemukakan bersama. Ada banyak pengetahuan yang didapat selama pelaksana kerja praktik menyelesaikan perkuliahan proyek perangkat lunak. Kami menggunakan <it>agile</it> <it>software</it> <it>development</it> <it>cycle,</it> atau untuk lebih spesifiknya, <it>scrum.</it> Pelaksana kerja praktik langsung menjajal sendiri <it>scrum</it> dengan mengadakan <it>scrum</it> <it>meeting,</it> berpartisipasi dalam <it>sprint</it> <it>planning</it> dan <it>sprint</it> <it>review</it> serta <it>sprint</it> <it>retrospective,</it> pengetahuan mengenai <it>product</it> <it>backlog,</it> dan masih banyak lagi. Pengetahuan yang didapat di mata kuliah yang satu ini cukup membantu pelaksana kerja praktik dalam beradaptasi dengan lingkungan profesional Ruangguru yang juga menggunakan <it>scrum.</it> ●  Proyek dan Pengembangan <it>Web</it>  Pelaksana kerja praktik bersentuhan dengan frontend dan backend pertama kali saat mengambil mata kuliah Proyek dan Pengembangan Web di semester 3. Di mata kuliah inilah pelaksana kerja praktik mengenal HTML, CSS, Javascript serta teman-temannya dan mulai tertarik dengan bidang tersebut. Pengalaman membuat web cukup membantu pelaksana kerja praktik untuk merasa familiar dengan dunia web developing. <bo>3.4</bo> <bo>Perolehan</bo> <bo>dari</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pada bagian ini, penulis akan menjelaskan apa saja yang diperoleh penulis dari melaksanakan kerja praktik di Ruangguru pada periode Juni – Agustus 2016.  
+		</segment>
+		<pagenum>16</pagenum>
+	</page>
+	<page id="18">
+		<title><bo>3.4.1.</bo> <it><bo>Hard-Skills</bo></it></title>
+		<segment>
+			  <bo>HTTP</bo> <bo>call</bo>  Sebelum bekerja sebagai <it>Fullstack</it> <it>Developer</it> <it>Intern</it> tentu saja saya tidak tahu menahu mengenai HTTP call, karena hal tersebut tidak sampai dibahas di mata kuliah Perancangan dan Pemrograman Web, namun juga tidak dibahas di mata kuliah Basis Data karena kami tidak diperbolehkan menggunakan <it>framework</it> apapun untuk mengakses data. HTTP call digunakan untuk <it>request</it> yang dilakukan client pada server. Pada ruangguru, HTTP call dilakukan di level meteor (backend) sehingga tidak bisa diretas dengan mudah isi request yang dilakukan.   API &amp; JSON  API dan JSON merupakan cara yang digunakan oleh ruangguru untuk transfer data dari backend yang sesungguhnya (<it>core).</it> Meskipun telah dipelajari di mata kuliah Perancangan dan Pemrograman Web, namun pada kerja praktik ini, pelaksana merasa ilmu yang diterapkan mengenai API dan JSON lebih dalam dari pada yang telah pelaksana kerja praktik dapatkan di kampus.   Framework Javascript  Sebelum kerja praktik di Ruangguru, Pelaksana kerja praktik hanya pernah menggunakan php framework, diantaranya CI dan Laravel. Sebelum ini, pelaksana tidak mengetahui bahwa javascript dapat menjadi tulang punggung suatu website tanpa menggunakan php dan frameworknya untuk menunjang dan mentransfer data. Melakukan kerja praktik di Ruangguru telah membuka wawasan pelaksana kerja praktik menjadi lebih luas akan kehadiran Framework Javascript sebagai opsi dalam <it>website</it> <it>building.</it> 
+		</segment>
+		<title><bo>3.4.2.</bo> <it><bo>Soft-Skills</bo></it></title>
+		<segment>
+			  <it><bo>Time</bo></it> <it><bo>Management</bo></it>  Bekerja di perusahaan sesungguhnya, pelaksana kerja praktik dituntut untuk mampu mengelola waktunya agar pekerjaan-pekerjaan yang ada dapat selesai dengan baik dan tidak mengganggu perkembangan tim. 
+		</segment>
+		<pagenum>17</pagenum>
+	</page>
+	<page id="19">
+		<segment>
+			  <it><bo>Problem-Solving</bo></it> <bo>dan</bo> <it><bo>Critical</bo></it> <it><bo>Thinking</bo></it>  Kemampuan pemecahan masalah dan berpikir kritis adalah dua kemampuan yang dibutuhkan oleh seorang programmer. Kedua hal ini paling dibutuhkan terutama di dalam proses penyelesaian masalah saat bertemu <it>requirement</it> dan output yang diharapkan.   <it><bo>Kolaborasi</bo></it> <bo>dan</bo> <it><bo>Komunikasi</bo></it>  Pelaksana kerja praktik dituntut untuk dapat bekerja dengan tim dan berkomunikasi dengan kolega, terutama dalam hal pekerjaan. Pelaksana kerja praktik merasa bahwa kemampuannya dalam dua hal ini terasah saat pelaksana kerja praktik bekerja di Ruangguru.   <bo>Inisiatif</bo>  Walaupun hanya sekedar pekerja magang, pelaksana kerja praktik dituntut untuk memiliki inisiatif, baik untuk bertanya apabila ada hal yang kurang dimengerti maupun dalam mencari cara menyelesaikan pekerjaan. 
+		</segment>
+		<pagenum>18</pagenum>
+	</page>
+	<page id="20">
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Meskipun diterima di posisi yang sebelumnya kurang dikehendaki oleh pelaksana kerja praktik, bekerja di Ruangguru.com cukup memberikan <it>insight</it> dan pengalaman bagi pelaksana. Pengalaman pelaksana kerja praktik yang dirasakan di Ruangguru merupakan salah satu kegiatan yang berpengaruh dalam perkembangan diri pelaksana kerja praktik. Selama mengemban tanggung jawab sebagai fullstack developer intern, pelaksana kerja praktik mendapat banyak sekali kesempatan untuk mengasah dan mendapat soft-skills serta hard-skills, diantaranya: bagaimana mengolah data JSON dari API, cara menggunakan salah satu framework javascript, cara berkomunikasi dengan rekan kerja, dan tentunya banyak lagi. 
+		</segment>
+		<title><bo>4.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Pelaksana kerja praktik menyarankan untuk mendaftar kerja praktik sesegera mungkin. Banyak dari perusahaan yang lumayan lama dalam memberikan balasan atas pendaftaran kerja praktik. Selain itu, jangan membatasi diri hanya di bidang-bidang tertentu saja. Buatlah diri lebih terbuka, karena bisa jadi bidang yang tidak kita lirik sama sekali sebenarnya menyenangkan, namun kita tidak akan tau karena kita bahkan tidak pernah berusaha untuk mencoba. Saran lebih lanjut, selama kerja praktik berjalan, meskipun hanya sebagai pekerja magang, pelaksana kerja praktik menyarankan kepada peserta kerja praktik selanjutnya untuk berani mengambil inisiatif lebih. Karena, hal tersebut akan membantu pekerja magang dalam menyelesaikan pekerjaan dan mengembangkan diri. 
+		</segment>
+		<pagenum>19</pagenum>
+	</page>
+	<page id="21">
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Tentang Kami. (2016). Ruangguru. Diakses pada 10 Desember 2016, melalui https://ruangguru.com/tentang-kami/ [2] Perbedaan antara Front End, Back End dan Full Stack Developer. (2016). Bsierad. Diakses pada 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			Desember 2016, melalui https://www.bsierad.com/perbedaan-antara-front-end-back-end-dan-full-stack- developer/ [3] Mengenal Apa Itu Javascript, Fungsi Dan Contoh Penggunaannya. (2016). Devaradise. Diakses pada 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			Desember 2016, melalui http://www.devaradise.com/id/2014/11/pengertianl-apa-itu-javascript-manfaat- cara-kerja.html [4] Pengertian Dan Cara Menggunakan AngularJS. (2016). Malas Ngoding. Diakses pada 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			November 2016, melalui http://www.malasngoding.com/pengertian-dan-cara-menggunakan-angularjs/ 
+		</segment>
+		<pagenum>20</pagenum>
+	</page>
+	<page id="22">
+		<title><bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KAKP</bo></title>
+		<pagenum>21</pagenum>
+	</page>
+	<page id="23">
+		<title><bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KP</bo></title>
+		<pagenum>22</pagenum>
+	</page>
+
+</document>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>ANALISA</bo> <bo>DAN</bo> <bo>PERANCANGAN</bo> <bo>PENGELOLAAN</bo> <it><bo>TICKET</bo></it></title>
+		<title><it><bo>HELPDESK</bo></it> <bo>PADA</bo> <it><bo>IT</bo></it> <it><bo>SUPPORT</bo></it> <it><bo>DEPARTMENT</bo></it> <bo>DI</bo> <bo>PT</bo></title>
+		<segment>
+			<bo>INDOCEMENT</bo> <bo>TUNGGAL</bo> <bo>PRAKARSA</bo> <bo>Tbk</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>LIZIA</bo> <bo>MELDIANA</bo></title>
+		<segment>
+			 <bo>1306415775</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Lizia Meldiana : 1306415775 Program Studi : Sistem Informasi Judul Kerja Praktik : Analisa dan Perancangan Pengelolaan <it>Ticket</it> <it>Helpdesk</it> pada <it>IT</it> <it>Support</it> <it>Management</it> di PT Indocement Tunggal Prakarsa Tbk <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title>ABSTRAK</title>
+		<segment>
+			Laporan kerja praktik dengan judul “Analisa  dan  Perancangan  Pengelolaan  Ticket Helpdesk pada IT Support Department di PT Indocement Tunggal Prakarsa Tbk”.  Tujuan Penulisan laporan kerja praktik ini adalah untuk memenuhi tugas mata kuliah Kerja Praktik yang sedang ditempuh oleh pelaksana kerja praktik. Metodologi yang digunakan selama melaksanakan kerja praktik ini meliputi observasi dan wawancara secara langsung. Observasi dilakukan untuk mempelajari sistem informasi yang telah diimplementasikan pada divisi <it>Management</it> <it>Information</it> <it>System.</it> Sementara wawancara dilakukan untuk mengetahui masalah-masalah terkait dengan sistem informasi tersebut. sesuai dengan analisa yang telah dilakukan oleh pelaksana kerja praktik, pengguna dari sistem <it>ticketing</it> <it>helpdesk</it> pada <it>IT</it> <it>Support</it> <it>Department</it> memiliki kesulitan ketika ingin mencari data yang pernah diakses sebelumnya. Oleh karena itu sistem tersebut perlu memiliki sebuah fitur <it>searching</it> yang dapat membantu pengguna untuk menemukan data yang dicari dengan cepat dan mudah. Laporan ini akan menjelaskan tahap-tahap perancangan dan implementasi dari fitur yang akan ditambahkan pada sistem <it>ticketing.</it> Kata kunci: Kerja praktik, <it>helpdesk,</it> sistem <it>ticketing</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 5</title>
+		<title>2.1.2. Ruang Lingkup Pekerjaan ......................................................................... 6</title>
+		<title>2.1.3. Tinjauan Pustaka ....................................................................................... 6</title>
+		<title>2.1.4. Metodologi ................................................................................................ 7</title>
+		<title>2.1.5. Teknologi ................................................................................................ 11</title>
+		<title>2.1.5. Non Teknis .............................................................................................. 11</title>
+		<title>2.1.6 Perancangan Dan Implementasi .............................................................. 12</title>
+		<title>2.2. Analisis ........................................................................................................ 200</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik .................................................................... 200</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 20</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 23 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 23</title>
+		<title>3.2. Saran .............................................................................................................. 23</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 25 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi PT Indocement Tunggal Prakarsa Tbk ....................... 3 Gambar 2. Struktur Organisasi Divisi Management Information System .................... 4 Gambar 3. Flowchart Fitur Searching ......................................................................... 13 Gambar 4. Context Diagram ....................................................................................... 14 Gambar 5. DFD Level 0 .............................................................................................. 14 Gambar 6. DFD Level 1 .............................................................................................. 15 Gambar 7. Entity Relationship Diagram ..................................................................... 15 Gambar 8. Halaman awal SQL Server Management Studio ...................................... 17 Gambar 9. Halaman awal fitur searching.................................................................... 18 Gambar 10. Sistem menampilkan hasil lebih banyak ................................................. 18 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Kesesuaian dan Perbedaan dengan KAKP ................................................... 20 Tabel 2. Kendala Dalam Pelaksanaan Kerja Praktik .................................................. 21 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam melakukan pencarian tempat kerja praktik ini pelaksana kerja praktik pertama- tama melakukan pencarian tempat kerja praktik yang memiliki divisi atau <it>department</it> yang sesuai dengan ruang lingkup pengetahuan yang diajarkan kepada pelaksana kerja praktik. Setelah proses pencarian tersebut pelaksana kerja praktik memutuskan untuk menghubungi PT Indocement Tunggal Prakarsa Tbk. Setelah menunggu beberapa waktu, pelaksana kerja praktik mendapatkan kabar dari PT Indocement Tunggal Prakarsa Tbk agar pelaksana kerja praktik membuat surat pengantar dari universitas. Sumber informasi menuju PT Indocement Tunggal Prakarsa Tbk ini diperoleh dari anggota keluarga yang bekerja di perusahaan tersebut. Surat pengantar kerja praktik yang dibuat oleh pelaksana kerja praktik berisi permohonan untuk melakukan kerja praktik pada periode Juni hingga Agustus di PT Indocement Tunggal Prakarsa Tbk. Setelah menunggu selama dua minggu pelaksana kerja praktik mendapat kabar bahwa periode kerja praktik untuk bulan juni dan juli ditiadakan karena alasan tertentu. Kemudian pelaksana kerja praktik diberi tawaran untuk melakukan kerja praktik pada periode bulan agustus hingga September. Setelah tawaran diterima, pelaksana kerja praktik mendapat surat balasan dari perusahaan untuk ditujukan kepada fakultas. Surat tersebut berisi pernyataan bahwa pelaksana kerja praktik telah diterima untuk melaksanakan kerja praktik di PT Indocement Tunggal Prakarsa Tbk untuk periode bulan agustus hingga September. Kemudian pelaksana kerja praktik diminta untuk menemui penanggung jawab KP di perusahaan untuk membicarakan ruang lingkup serta tujuan kerja praktik yang ingin dicapai oleh pelaksana kerja praktik. Setelah pelaksana kerja praktik menemui penanggung jawab KP maka pelaksana kerja praktik resmi ditempatkan pada divisi <it>Management</it> <it>Information</it> <it>System</it> PT Indocement Tunggal Prakarsa Tbk. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Indocement Tunggal Prakarsa Tbk mengoperasikan pabrik pertamanya secara resmi tahun 1975. Indocement telah menjadi salah satu produsen semen terbesar di Indonesia. Perseroan didirikan pada tanggal 16 Januari 1985 melalui penggabungan enam perusahaan semen yang pada saat itu memiliki delapan pabrik. Indocement mencatatkan sahamnya pertama kali di Bursa Efek Indonesia (BEI) pada 5 Desember 1989 dengan kode saham “INTP”. Sejak 2001, HeidelbergCement Group yang berbasis  di Jerman menjadi pemiliki mayoritas saham perseroan. Produk semen perseroan adalah Portland Composite Cement (PCC), Ordinary Portland Cement (OPC tipe I, II, dan V), Oil Well Cement (OWC), Semen putih, dan TR-30 Acian Putih. Selain penjualan semen, Indocement juga menjual beton siap pakai melalui PT Pionirbeton Industri. Sesuai dengan visi dan misinya, indocement memfokuskan usahanya pada tiga segmen utama yaitu semen, beton siap-pakai (RMC) dan agregat. Segmen utama pasar semen di Indonesia adalah konsumen perumahan atau perorangan, RMC diproduksi untuk konsumen skala besar, sedangkan agregat diproduksi terutama untuk mendukung produksi RMC. Inducement saat ini mengoperasikan 12 pabrik di tiga lokasi dan 1 pabrik yang masih dalam tahap pembangunan, sehingga total Indocement akan memiliki 13 buah pabrik. Pada saat ini Indocement memiliki total produksi tahunan sebesar 20,5 juta ton semen, 5 juta m3 RMC, dan 2,8 Juta ton agregat[3]. Berikut ini adalah struktur organisasi dari PT Indocement Tunggal Prakarsa Tbk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Gambar 1. Struktur Organisasi PT Indocement Tunggal Prakarsa Tbk 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			PT Indocement Tunggal Prakarsa Tbk terdiri dari beberapa divisi, salah satunya adalah Divisi <it>Management</it> <it>Information</it> <it>System</it> (MIS) yang berperan dalam menyediakan layanan sumber daya komputer, implementasi sistem, dan dukungan operasional untuk semua pabrik fungsional ataupun divisi. Divisi ini bertanggung jawab sepenuhnya untuk menyediakan sistem manajemen informasi yang tepat dan terpadu untuk mendukung kegiatan perusahaan. Pada kerja praktik ini pelaksana kerja praktik ditempatkan di divisi <it>Management</it> <it>Information</it> <it>System</it> tepatnya pada <it>IT</it> <it>Support</it> <it>Department.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<segment>
+			Tugas dan Fungsi divisi MIS: 
+		</segment>
+		<pagenum>4</pagenum>
+		<segment>
+			1. Menyediakan layanan sumber daya komputer, implementasi sistem dan dukungan operasional untuk semua pabrik fungsional/ divisi dari kelompok bisnis tersebut. 2. Memberikan kerjasama koordinasi dengan semua anggota kelompok dalam menghasilkan informasi konsolidasi pengolahan data kepada dewan direksi. 3. Sepenuhnya bertanggung jawab untuk menyediakan sistem manajamen informasi yang tepat dan terpadu untuk mendukung kegiatan kelompok[4]. Berikut ini adalah struktur organisasi yang ada pada MIS (Management Information System) <it>Gambar</it> <it>2.</it> Struktur Organisasi Divisi Management Information System 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Kebutuhan akan informasi yang cepat dan akurat sangat dibutuhkan saat ini, terutama dalam hal mencari suatu informasi yang mudah diakses sehingga mampu meningkatkan produktifitas dalam bekerja. Produktifitas bekerja salah satunya dapat dicapai dengan meningkatkan efisiensi dalam melakukan sebuah pekerjaan. Hal yang sangat dibutuhkan untuk menyelesaikan pekerjaan salah satunya adalah ketersediaan informasi. Sistem informasi merupakan sarana yang dapat digunakan oleh pengguna untuk mengakses informasi secara lebih efisien. Hal ini sangat diperlukan oleh perusahaan skala besar dan memiliki jumlah data yang besar. Salah satu masalah yang sering terjadi ketika data yang dimiliki jumlahnya sangat besar adalah sulitnya dalam memperoleh data yang diperlukan. Proses pencarian data yang sulit dapat menghabiskan waktu yang cukup lama sehingga dapat mengurangi produktifitas bekerja. Dengan adanya masalah pencarian data tersebut ada baiknya jika sebuah sistem informasi dilengkapi dengan sebuah fitur yang berfungsi untuk mengakses <it>history</it> yang dibutuhkan dengan cepat. Oleh karena itu pelaksana kerja praktik dalam hal ini melakukan analisis dan merancang sebuah fitur yang mampu mengantisipasi masalah diatas. Melalui laporan kerja praktik yang berjudul “Analisa  dan  Perancangan  Pengelolaan <it>Ticket</it> <it>Helpdesk</it> Pada <it>IT</it> <it>Support</it> <it>Department</it> di PT Indocement Tunggal Prakarsa Tbk” akan dipaparkan hasil dokumentasi perancangan fitur tersebut. Fitur ini  diharapkan dapat membantu kinerja <it>helpdesk</it> <it>officer</it> agar lebih cepat dalam melakukan akses menuju <it>ticket</it> yang pernah dicatat sehingga informasi yang terdapat dalam <it>ticket</it> tersebut cepat diperoleh. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<title><bo>2.1.2</bo> <bo>Ruang</bo> <bo>Lingkup</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Ruang lingkup yang dibahas dalam pekerjaan ini adalah perancangan fitur untuk melakukan pencarian terhadap <it>ticket</it> <it>helpdesk</it> yang pernah dibuat oleh <it>helpdek</it> <it>officer</it> pada <it>Helpdesk</it> <it>and</it> <it>Application</it> <it>System</it> <it>Support</it> <it>Section,</it> <it>Management</it> <it>Information</it> 
+		</segment>
+		<pagenum>6</pagenum>
+		<segment>
+			<it>System</it> <it>Division.</it> 
+		</segment>
+		<title><bo>2.1.3</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.3.1</bo> <bo>Konsep</bo> <bo>Sistem</bo> <bo>Informasi</bo> Sistem informasi adalah kombinasi dari manusia, fasilitas atau alat teknologi, media dan pengendalian yang bermaksud menata jaringan komunikasi yang penting, proses atau transaksi tertentu dan rutin, membantu manajemen dan pemakai intern dan ekstern dan menyediakan dasar pengambilan keputusan yang tepat <it><bo>(John</bo></it> <it><bo>F.</bo></it> <it><bo>Nash,</bo></it> <it><bo>1995).</bo></it> <bo>2.1.3.2</bo> <bo>Pengertian</bo> <bo>Sistem</bo> <bo>Ticketing</bo> Sistem <it>ticketing</it> adalah suatu sistem yang mengelola dan memelihara daftar masalah serta pelacakan masalah, dimana masalah yang dilaporkan pelanggan akan tercatat kedalam suatu sistem <it>ticket</it> masalah. Kemudian sistem akan melakukan perekaman mulai dari tanggal kejadian, jenis permasalahan, informasi pelanggan, bentuk pelaporan dan lain sebagainya yang berkaitan dengan keluhan pelanggan. Sistem <it>ticketing</it> tidak hanya berlaku untuk pelanggan diluar perusahaan, pada ruang lingkup perusahaan sistem ini juga dapat digunakan pada permasalahan internal perusahaan, seperti permasalahan masing-masing divisi atau kejadian internal di area perusahaan[2]. <bo>2.1.3.3</bo> <bo>Pengertian</bo> <bo>Database</bo> <it>Database</it> adalah kumpulan informasi yang disimpan di dalam komputer secara sistematik, terbagi/<it>shared,</it> terdefinisi secara formal dan dikontrol terpusat pada organisasi, sehingga dapat diperiksa menggunakan suatu program komputer untuk memperoleh informasi dari basis data tersebut. <it>Database</it> berfungsi untuk menampung atau menyimpan data-data, dimana masing-masing data yang ada pada tabel atau <it>file</it> tersebut saling berhubungan satu sama lainnya <it><bo>(Gordon</bo></it> <it><bo>C.</bo></it> <it><bo>Everest,</bo></it> <it><bo>2001).</bo></it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<segment>
+			<bo>2.1.3.4</bo> <bo>Pengertian</bo> <bo>Microsoft</bo> <bo>SQL</bo> <bo>Server</bo> 
+		</segment>
+		<pagenum>7</pagenum>
+		<segment>
+			Microsoft SQL Server adalah <it>Relational</it> <it>Database</it> <it>Management</it> <it>System</it> (RDBMS) yang dibangun oleh Microsoft dan didesain untuk lingkungan <it>enterprise.</it> SQL Server menggunakan bahasa Transact-SQL yang merupakan kelanjutan dari versi standar SQL yang digunakan oleh Sybase dan Microsoft. Penambahan yang dilakukan pada Transact-SQL ini antara lain seperti penambahan fitur transaksi, <it>exception</it> <it>and</it> <it>error</it> <it>handling,</it> <it>row</it> <it>processing</it> dan <it>declared</it> <it>variable.</it> Microsoft SQL Server juga memiliki kemampuan untuk melakukan <it>clustering</it> dan <it>mirroring[6].</it> <bo>2.1.3.5</bo> <bo>Pengertian</bo> <bo>Helpdesk</bo> <it>Helpdesk</it> merupakan sebuah <it>department</it> atau bagian dalam perusahaan yang melayani dan menanggapi pertanyaan teknis pengguna. Pertanyaan dan jawaban dapat disampaikan melalui telepon, <it>email,</it> <it>web,</it> fax atau <it>software</it> yang dimiliki <it>helpdesk</it> itu sendiri. <it>Helpdesk</it> bertugas sebagai pemecah masalah, atau dengan kata lain <it>helpdesk</it> bertugas menyediakan layanan untuk memberi informasi atau solusi kepada pengguna[5]. <bo>2.1.3.6</bo> <bo>Pengertian</bo> <bo>Cache</bo> <it>Cache</it> merupakan sebuah tempat penyimpanan yang bersifat sementara (<it>temporary).</it> Dalam terminologi <it>hardware</it> istilah <it>cache</it> merujuk pada <it>memory</it> berkecepatan tinggi yang menjembatani <it>processor</it> dan <it>memory</it> utama, yang biasanya memiliki kecepatan rendah. Dalam sebuah <it>network,</it> <it>cache</it> biasanya dgunakan untuk menyimpan data atau <it>file</it> yang pernah diakses oleh pengguna. <it>Cache</it> dapat mempercepat proses pencarian suatu data karena <it>cache</it> menyimpan data yang telah diakses sebelumnya. Sehingga ketika pengguna mengakses data yang sama, <it>cache</it> akan mengirimkan data yang berasal dari <it>cache</it> bukan dari <it>database</it> utama. 
+		</segment>
+		<title><bo>2.1.4</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam melaksanan pekerjaan ini pelaksana kerja praktik melakukan observasi secara langsung dengan pihak <it>IT</it> <it>Support</it> <it>Department</it> <it>Management</it> <it>Information</it> <it>System</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			khususnya <it>helpdesk</it> <it>officer</it> di PT Indocement Tunggal Prakarsa untuk melihat sistem yang sudah ada. Selain itu pelaksana kerja praktik juga melakukan wawancara dengan penyelia dan juga <it>Department</it> <it>Head</it> mengenai pengembangan sistem yang ingin dilakukan. Berikut ini adalah tahapan yang dilakukan: <bo>1.</bo> <bo>Identifikasi</bo> <bo>Masalah</bo> Pada tahap ini dilakukan observasi langsung dan wawancara secara langsung dengan pembimbing mengenai masalah atau kekurangan yang dimiliki oleh sistem. 2. <bo>Analisis</bo> <bo>Masalah</bo> Pada tahap ini masalah yang telah diperoleh kemudian dianalisis untuk menentukan solusi apa yang dapat diterapkan pada sistem. Pada tahap ini dibangun pula diagram alur atau <it>flowchart</it> terkait <it>improvement</it> yang akan diterapkan. Berikut ini adalah <it>deliverables</it> yang dihasilkan pada tahap analisis: - Flowchart <it>Flowchart</it> ini dibuat untuk menggambarkan proses secara mendetail. Masing-masing langkah digambarkan dengan simbol yang dihubungkan satu sama lain sehingga membentuk sebuah urutan yang lengkap dari sebuah proses. - Use Case Spesification <it>Use</it> <it>case</it> <it>specification</it> dibuat dengan tujuan agar pengguna dari sistem paham dan mengerti mengenai cara penggunaan dan fungsi dari fitur yang akan dibangun. - Entity Relationship Diagram <it>Entity</it> <it>Relationship</it> <it>Diagram</it> merupakan sebuah diagram yang menjelaskan hubungan antar data dalam basis data berdasarkan objek- objek yang mempunyai hubungan relasi. <it>Entity</it> <it>Relationship</it> <it>Diagram</it> ini dibangun dengan menggunakan beberapa notasi dan simbol yang disusun untuk memodelkan struktur data dan hubungan antar data. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			- Analysis Class Diagram <it>Class</it> <it>diagram</it> digunakan untuk menggambarkan <it>class</it> atau <it>object</it> pada sebuah sistem. Pada <it>class</it> <it>diagram</it> juga digambarkan hubungan antar <it>class</it> seperti hubungan asosiasi, agregasi, komposisi, atau inheritance. Pada <it>analysis</it> <it>class</it> <it>diagram</it> tidak terdapat <it>method</it> pada setiap <it>class,</it> sehingga <it>analysis</it> <it>class</it> <it>diagram</it> hanya berisi atribut serta hubungan antar <it>class[1].</it> <bo>3.</bo> <bo>Perancangan</bo> <bo>Fitur</bo> - Pada tahap ini dilakukan perancangan <it>database</it> dan juga tampilan fitur yang akan dibangun. Perancangan <it>database</it> dilakukan dengan pembuatan <it>database</it> <it>schema,</it> dan <it>Table</it> <it>Structures</it> <it>and</it> <it>Attributes.</it> Sementara perancangan tampilan fitur dilakukan dengan menggunakan <it>data</it> <it>flow</it> <it>diagram</it> dan <it>sequence</it> <it>diagram.</it> Pada tahap ini juga akan dibuat desain tampilan untuk fitur tersebut secara keseluruhan. Sehingga pada tahap ini akan dihasilkan beberapa <it>deliverables</it> seperti berikut: - Data Flow Diagram <it>Data</it> <it>Flow</it> <it>Diagram</it> (DFD) digunakan untuk menggambarkan arus dari data pada suatu sistem. Pembuatan DFD bertujuan untuk membantu dalam memahami sistem secara logika dan terstruktur. Struktur dari DFD sangat mirip dengan <it>flowchart.</it> - Sequence Diagram <it>Sequence</it> <it>Diagram</it> ini digunakan untuk menggambarkan serangkaian langkah yang dilakukan sebagai respon dari sebuah <it>event</it> untuk menghasilkan <it>output</it> tertentu. - Database Schema - Table Structures and Attributes <it>Table</it> <it>Structures</it> <it>and</it> <it>Attributes</it> ini berisi atribut yang ada pada setiap tabel disertai dengan keterangan dan tipe datanya. Tabel ini dapat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			membantu proses pembuatan <it>database</it> pada tahap implementasi <it>database.</it> - User interface untuk fitur <bo>4.</bo> <bo>Implementasi</bo> <bo>Database</bo> Pada tahap ini dilakukan implementasi <it>database</it> dengan menggunakan software Microsoft SQL Server 2012. <it>Database</it> yang dibangun ini akan mengikuti model yang dibuat sebelumnya pada tahap perancangan fitur. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<title><bo>2.1.5</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik ini terdapat beberapa teknologi berupa <it>hardware</it> dan <it>software</it> yang digunakan oleh pelaksana kerja praktik 
+		</segment>
+		<pagenum>11</pagenum>
+		<segment>
+			<bo>1.</bo> <bo>Hardware</bo> - Notebook - Printer <bo>2.</bo> <bo>Software</bo> - Microsoft SQL Server 2012 - SQL Server Management Studio - Sublime text editor - Google Chrome - Draw,io - Microsoft Word 2013 - Microsoft Excel 2013 
+		</segment>
+		<title><bo>2.1.6</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<segment>
+			Aspek non teknis yang berkaitan dengan pelaksanaan kerja praktik ini adalah kemampuan berkomunikasi, memegang tanggung jawab, dan manajemen waktu. Pelaksana kerja praktik harus dapat membangun komunikasi yang baik dengan seluruh anggota dari divisi tempat pelaksana kerja praktik melaksanakan kerja praktik. Pelaksana kerja praktik juga harus dapat bertanggung jawab atas tugas-tugas yang diberikan oleh penyelia kerja praktik, seperti menyelesaikan tugas tersebut tepat waktu dan melaporkan hasil pekerjaan kepada penyelia. Selain itu pelaksanaan kerja praktik ini juga mendorong pelaksana kerja praktik untuk dapat melakukan manajemen waktu dengan baik. Karena setiap tugas yang diberikan oleh penyelia memiliki <it>deadline</it> tersendiri sehingga pelaksana kerja praktik harus membagi waktu yang dimiliki agar semua tugas dapat terselesaikan dengan baik sesuai waktu yang ditentukan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<title><bo>2.1.7</bo> <bo>Perancangan</bo> <bo>dan</bo> <bo>Implementasi</bo></title>
+		<pagenum>12</pagenum>
+		<segment>
+			Pada bagian ini akan ditampilkan sebagian <it>deliverables</it> yang dihasilkan selama pelaksanaan kerja praktik. <bo>2.1.7.1</bo> <bo>Perancangan</bo> <bo>Fitur</bo> <bo>1.</bo> <bo>Flowchart</bo> Perancangan <it>Flowchart</it> untuk fitur <it>searching</it> ini dilakukan untuk menggambarkan alur cara kerja fitur secara detail. <it>Flowchart</it> ini dimulai ketika pengguna atau <it>helpdesk</it> mengisi kata kunci serta mengisi elemen pencarian lainnya dan berakhir ketika data ticket yang dicari ditampilkan oleh sistem. <it>Flowchart</it> untuk fitur <it>searching</it> ini dapat dilihat pada gambar berikut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			Gambar 3. <it>Flowchart</it> Fitur <it>Searching</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<segment>
+			<bo>2.</bo> <bo>Context</bo> <bo>Diagram</bo> <bo>3.</bo> <bo>Data</bo> <bo>Flow</bo> <bo>Diagram</bo> <bo>Level</bo> <bo>0</bo> Gambar 4. <it>Context</it> <it>Diagram</it> 
+		</segment>
+		<pagenum>14</pagenum>
+		<segment>
+			Gambar 5. DFD Level 0 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<segment>
+			<bo>4.</bo> <bo>Data</bo> <bo>Flow</bo> <bo>Diagram</bo> <bo>Level</bo> <bo>1</bo> <bo>5.</bo> <bo>Entity</bo> <bo>Relationship</bo> <bo>Diagram</bo> Gambar 6. DFD Level 1 
+		</segment>
+		<pagenum>15</pagenum>
+		<segment>
+			Gambar 7<it>.</it> <it>Entity</it> <it>Relationship</it> <it>Diagram</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<segment>
+			<bo>6.</bo> <bo>Database</bo> <bo>Schema</bo> <bo>Problem</bo> 
+		</segment>
+		<pagenum>16</pagenum>
+		<segment>
+			Description Action 
+		</segment>
+		<title>ID</title>
+		<segment>
+			<bo>Category</bo> 
+		</segment>
+		<title>ID</title>
+		<segment>
+			CategoryName <bo>Department</bo> 
+		</segment>
+		<title>ID</title>
+		<segment>
+			DepartmentName TicketNumbe CreationDate Actio IdCategory IdDepartment r n 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<segment>
+			<bo>2.1.7.2</bo> <bo>Implementasi</bo> <bo>Database</bo> 
+		</segment>
+		<pagenum>17</pagenum>
+		<segment>
+			<it>Database</it> yang digunakan dalam fitur ini dinamakan Ticket Helpdesk. <it>Database</it> ini dibangun dengan DBMS Microsoft SQL Server 2012 dan SQL Server Management Studio sebagai <it>tool</it> dalam pembuatan basis datanya. <it>Database</it> ini terdiri dari tiga tabel yaitu tabel <it>Problem,</it> tabel <it>Category,</it> dan tabel <it>Department.</it> Berikut ini adalah tahapan dalam implementasi <it>database</it> Ticket Helpdesk. Gambar 8. Halaman awal SQL Server Management Studio 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<segment>
+			<bo>2.1.7.3</bo> <bo>Rancangan</bo> <bo>User</bo> <bo>Interface</bo> 
+		</segment>
+		<pagenum>18</pagenum>
+		<segment>
+			Berikut ini merupakan rancangan tampilan (<it>interface)</it> dari fitur <it>searching.</it> Gambar dibawah ini merupakan tampilan formulir pencarian <it>ticket,</it> formulir ini terdiri dari tiga buah <it>field</it> pencarian yang dapat digunakan oleh pengguna. <it>Field</it> tersebut antara lain <it>keyword,</it> <it>Category,</it> dan <it>Department.</it> <it>Field</it> <it>keyword</it> merupakan <it>field</it> yang wajib diisi ketika pengguna ingin melakukan pencarian. Pengguna dapat menekan tombol <it>search</it> setelah mengisi elemen pencarian. Gambar 9. Halaman awal fitur searching Gambar dibawah ini merupakan tampilan ketika fitur menampilkan hasil pencarian. Gambar 10. Sistem menampilkan hasil lebih banyak Gambar dibawah ini merupakan code untuk tampilan diatas 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>19</pagenum>
+		<segment>
+			Pengguna dapat memilih setiap <it>ticket</it> yang ditampilkan untuk melihat detail informasi dari <it>ticket.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>20</pagenum>
+		<segment>
+			<bo>2.2</bo> <bo>Analisis</bo> 
+		</segment>
+		<title><bo>2.2.1</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			<bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Tabel 1. Kesesuaian dan Perbedaan dengan KAKP <bo>No</bo> <bo>Kesesuaian</bo> <bo>Perbedaan</bo> 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			Seluruh kegiatan yang dilakukan Pelaksana 
+		</segment>
+		<title>KP</title>
+		<segment>
+			melakukan pada minggu pertama sesuai implementasi fitur <it>searching</it> dengan yang tertulis dalam KAKP. (implementasi <it>database,</it> <it>user</it> <it>interface</it> dan integrasi UI dengan <it>database)</it> sementara pada KAKP kegiatan yang akan dilakukan hanya sampai membuat desain <it>user</it> <it>interface</it> 
+		</segment>
+		<pagenum>2</pagenum>
+		<segment>
+			Seluruh kegiatan di minggu kedua Pembuatan ERD, <it>class</it> <it>diagram,</it> dan yang tertulis di KAKP berhasil <it>draft</it> laporan tahap 2 dilakukan pada diselesaikan pada minggu kedua minggu kedua 
+		</segment>
+		<pagenum>3</pagenum>
+		<segment>
+			Pembuatan <it>database</it> <it>schema</it> dan Pembuatan <it>sequence</it> <it>diagram,</it> <it>data</it> <it>flow</it> <it>diagram</it> dilakukan pada instalasi <it>database</it> dan perancangan minggu ketiga sesuai dengan yang desain <it>user</it> <it>interface</it> dilakukan di tertulis dalam KAKP minggu ketiga 
+		</segment>
+		<pagenum>4</pagenum>
+		<segment>
+			Perancangan <it>database</it> dilakukan Presentasi kepada penyelia dan kepala pada minggu keempat sesuai department dilakukan pada minggu dengan yang tertulis dalam KAKP kelima 
+		</segment>
+		<pagenum>5</pagenum>
+		<segment>
+			Laporan akhir untuk perusahaan selesai pada minggu keenam sesuai dengan KAKP 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>21</pagenum>
+		<segment>
+			<bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Penanganan</bo> Tabel 2. Kendala Dalam Pelaksanaan Kerja Praktik <bo>No</bo> <bo>Kendala</bo> <bo>Cara</bo> <bo>Penanganan</bo> 
+		</segment>
+		<pagenum>1</pagenum>
+		<segment>
+			Pelaksana KP tidak diberi akses ke Menggunakan komputer perusahaan jaringan <it>hotspot</it> untuk mengakses internet 
+		</segment>
+		<pagenum>2</pagenum>
+		<segment>
+			Penyelia KP tidak dapat <it>Feedback</it> disampaikan setelah jam memberikan <it>feedback</it> dengan kerja selesai atau disampaikan melalui cepat <it>e-mail</it> <bo>Penilaian</bo> <bo>Terhadap</bo> <bo>Tempak</bo> <bo>Kerja</bo> <bo>Praktik</bo> Secara keseluruhan PT Indocement Tunggal Prakarsa Tbk memiliki tingkat keamanan yang sangat tinggi karena hanya pihak-pihak yang berkepentingan yang dapat memasuki area perusahaan. Begitu pula pada divisi MIS, area tersebut juga memiliki tingkat keamanan yang tinggi dan memiliki perhatian yang besar terhadap keamanan <it>IT.</it> Dalam hal kerja praktik, PT Indocement Tunggal Prakarsa Tbk juga sangat memperhatikan mahasiswa-mahasiswa yang sedang melaksanakan kerja praktik di tempat tersebut. 
+		</segment>
+		<title><bo>2.2.2</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			<bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>(RPL)</bo> Pada pelaksanaan KP ini pelaksana kerja praktik diminta untuk menambahkan fitur pada sebuah sistem yang sudah berjalan. Tahap-tahap pengembangan sistem tersebut (SDLC) yang berjalan kurang lebih sama dengan yang dipelajari pada mata kuliah Rekayasa Perangkat Lunak. Hanya terdapat sedikit perbedaan minor pada penulisan notasi <it>entity</it> <it>relationship</it> <it>diagram.</it> Dalam KP ini pelaksana kerja praktik juga diminta 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>22</pagenum>
+		<segment>
+			untuk membuat <it>data</it> <it>flow</it> <it>diagram,</it> dimana diagram tersebut belum pernah diajarkan secara mendalam pada perkuliahan RPL. <bo>Basis</bo> <bo>Data</bo> Dalam kerja praktik ini pelaksana kerja praktik diminta untuk mengimplementasikan basis data baru sebagai pendukung sistem <it>ticketing</it> <it>helpdesk</it> yang sedang berjalan. Proses pembuatan basis data sangat sesuai dengan yang dipelajari pada mata kuliah basis data. Pelaksana kerja praktik juga berkesempatan untuk mempelajari jenis DBMS baru yang tidak diajarkan pada mata kuliah basis data sehingga menambah pengetahuan pelaksana kerja praktik mengenai keragaman DBMS yang dapat digunakan. <bo>Perangcangan</bo> <bo>dan</bo> <bo>Pemprograman</bo> <bo>Web</bo> Pada kerja praktik ini pelaksana kerja praktik diminta untuk membuat rancangan <it>user</it> <it>interface</it> untuk fitur yang akan ditambahkan pada sistem. Pelaksana kerja praktik juga diminta untuk mengintegrasikan halaman-halaman <it>UI</it> yang dibuat dengan <it>database</it> yang sudah dibangun. Apa yang dipelajari oleh pelaksana kerja praktik pada mata kuliah Perancangan dan Pemprograman Web sangat membantu pelaksana kerja praktik untuk menyelesaikan pekerjaan tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<pagenum>23</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			<bo>2.3</bo> <bo>Kesimpulan</bo> PT Indocement Tunggal Prakarsa merupakan sebuah perusahaan yang memproduksi berbagai tipe semen sebegai produk utamanya. Perusahaan ini terdiri dari beberapa divisi, salah satunya adalah divisi <it>management</it> <it>information</it> <it>system</it> yang merupakan tempat kerja dari pelaksana kerja praktik. Pelaksanaan kerja praktik memberikan pengalaman dalam banyak hal bagi pelaksana kerja praktik. salah satunya adalah pelaksana kerja praktik dapat membantu perusahaan dengan memberikan solusi bagi masalah yang dialami oleh pegawai dalam perusahaan tempat kerja praktik dilakukan. Untuk memberikan solusi terkait masalah yang ada, pelaksana kerja praktik terlebih dahulu harus mengenal dan mempelajari sistem informasi yang sudah ada. Kemudian pelaksana kerja praktik melakukan analisa terhadap masalah untuk menemukan solusi yang paling tepat dan sesuai. Setelah solusi ditemukan pelaksana kerja melakukan analisis agar solusi tersebut bisa diimplementasikan, dan kemudian dilanjutkan dengan peembuatan rancangan solusi (desain fitur) yang nantinya dapat diintegrasikan dengan sistem informasi yang sudah ada. Laporan ini berisi rangkuman kegiatan yang dilakukan oleh pelaksana kerja praktik dalam melakukan <it>improvement</it> pada sistem <it>ticketing</it> <it>helpdesk</it> yang ada pada divisi <it>management</it> <it>information</it> <it>system.</it> Dimulai dari fase identifikasi masalah, analisis pembuatan fitur yang akan ditambah pada sistem, fase desain, implementasi <it>user</it> <it>interface,</it> dan implementasi <it>database.</it> Selain itu pada pelaksanaan kerja praktik ini terdapat beberapa perbedaan dengan yang tertulis dalam KAKP, dan perbedaan pengetahuan yang diajarkan di dalam perkuliahan dengan pengetahuan yang diperoleh ketika melaksanakan kerja praktik. <bo>2.4</bo> <bo>Saran</bo> Sistem <it>ticketing</it> <it>helpdesk</it> pada divisi <it>Management</it> <it>Information</it> <it>System</it> menyimpan <it>record</it> yang sangat banyak karena semua masalah yang berasal dari seluruh lokasi pabrik maupun <it>head</it> <it>office</it> akan masuk ke dalam sistem ini. Hal ini menyebabkan <it>helpdesk</it> mengalami kesulitan dalam mencari data yang pernah diakses sebelumnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="32">
+		<pagenum>24</pagenum>
+		<segment>
+			Oleh karena itu fitur yang telah didesain ini ini sekiranya dapat diintegrasikan dengan sistem <it>ticketing</it> agar dapat meningkatkan efisiensi waktu yang dikeluarkan <it>helpdesk</it> <it>officer</it> ketika ingin mencari sebuah data. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="33">
+		<pagenum>25</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Binus University. (2014, March 14). <it>Analisis</it> <it>Pembentukan</it> <it>Class</it> <it>Diagram</it> <it>Dengan</it> <it>Menggunakan</it> <it>Metode</it> <it>Domain</it> <it>Modelling.</it> Retrieved from Binus Univertsity School Of Computer Science: http://socs.binus.ac.id/2014/03/19/analisis-pembentukan-class- diagram-dengan-menggunakan-metode-domain-modelling/ [2] DFED. (n.d.). <it>DFED</it> <it>Helpdesk</it> <it>Sistem</it> <it>management</it> <it>trouble</it> <it>ticket.</it> Retrieved from DFED Helpdesk Trouble Ticket: http://deljao.com/dfed-helpdesk-trouble-ticket- management.php [3] Indocement HeidelbergCement Group. Sekilas Indocement. Diakses pada 30 Juli 2016 dari http://www.indocement.co.id/v5/id/company/indocement-in-brief/brief- description [4] PT Indocement Tunggal Prakarsa Tbk. (n.d.). Management Information System Division Function. In M. I. Division, <it>MIS</it> <it>Function</it> <it>and</it> <it>Job</it> <it>Spesification.</it> PT Indocement Tunggal Prakarsa Tbk. [5] Siswa Master. (2016, January). <it>Pengertian</it> <it>Helpdesk,</it> <it>Cara</it> <it>Kerja</it> <it>dan</it> <it>Contoh</it> <it>Softwarenya.</it> Master: www.siswamaster.com/2016/01/pengertian-dan-cara-kerja-help-desk.html?m=1 Retrieved from Siswa [6] TechTarget. (2006, January). <it>Definition</it> <it>SQL</it> <it>Server.</it> Retrieved from TechTarget: http://searchsqlserver.techtarget.com/definition/SQL-Server 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="34">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="35">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

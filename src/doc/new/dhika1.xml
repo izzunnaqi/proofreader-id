@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <bo>SISTEM</bo> <bo>ADMINISTRASI</bo> <bo>APLIKASI</bo> <bo>BNI,</bo></title>
+		<segment>
+			<bo>EABSENSI</bo> &amp; <bo>AUDIT</bo> <bo>MONITORING</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>ADHIKA</bo> <bo>PRADIPTA</bo> <bo>DHANESWARA</bo></title>
+		<segment>
+			<bo>1306383104</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>1</bo> <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo></title>
+		<title><bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Adhika Pradipta Dhaneswara : 1306383104 Program Studi : Sistem Informasi Judul Kerja Praktik : Pengembangan Sistem Administrasi Aplikasi BNI, Eabsensi, dan Audit Monitoring. <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>2</bo> <bo>ABSTRAK</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik adalah salah satu mata kuliah wajib untuk memenuhi prasyarat kelulusan Fakultas Ilmu Komputer. Laporan kerja praktik ini ditujukan untuk memenuhi prasyarat terebut. Kerja praktik ini dimulai pada tanggal 9 Juni – 12  Agustus 2016. Kerja praktik penulis dilakukan di kelompok Office Automation, Divisi Solusi &amp; Keamanan Teknologi Informasi BNI. Penulis diposisikan sebagai PHP <it>developer</it> yang akan mengerjakan tiga proyek yaitu Sistem Administrasi Aplikasi BNI, Eabsensi, dan Audit Monitoring. Dalam pelaksanaan kerja praktik penulis menggunakan beberapa teknologi seperti <it>framework</it> PHP CodeIgniter, HTML 5, JavaScript, Xampp Control Panel yang terdiri dari Apache dan MySQL, Github. Terdapat banyak relevansi dari mata kuliah yang diambil oleh penulis terhadap pelaksanaan kerja praktik. Pelaksanaan kerja praktik ini memberikan banyak manfaat serta pengalaman bagi penulis. Penulis berharap hasil pekerjaan tim pelaksana kerja praktik dapat memberikan kontribusi yang positif terhadap BNI. Kata kunci: [Kerja praktik, PHP <it>developer,</it> PT Bank Negara Indonesia] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>3</bo> <bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			<bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>....................</bo> <bo>i</bo> <bo>ABSTRAK</bo> <bo>........................................................................................................</bo> <bo>ii</bo> <bo>DAFTAR</bo> <bo>ISI</bo> <bo>....................................................................................................</bo> <bo>iii</bo> <bo>DAFTAR</bo> <bo>GAMBAR</bo> <bo>...........................................................................................</bo> <bo>v</bo> <bo>DAFTAR</bo> <bo>TABEL</bo> <bo>..............................................................................................</bo> <bo>vi</bo> <bo>DAFTAR</bo> <bo>LAMPIRAN</bo> <bo>......................................................................................</bo> <bo>vii</bo> 
+		</segment>
+		<pagenum><bo>1</bo></pagenum>
+		<pagenum><bo>2</bo></pagenum>
+		<pagenum><bo>3</bo></pagenum>
+		<pagenum><bo>4</bo></pagenum>
+		<pagenum><bo>5</bo></pagenum>
+		<pagenum><bo>6</bo></pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<segment>
+			<bo>PENDAHULUAN</bo> <bo>......................................................................................</bo> <bo>1</bo> 
+		</segment>
+		<title><bo>1.1.</bo></title>
+		<title><bo>1.2.</bo></title>
+		<segment>
+			<bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>...........................................................................</bo> <bo>1</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>..........................................................................................</bo> <bo>2</bo> 
+		</segment>
+		<title>1.2.1.</title>
+		<segment>
+			Profil Tempat Kerja Praktik ............................................................................ 2 
+		</segment>
+		<title>1.2.2.</title>
+		<segment>
+			Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi ......... 2 
+		</segment>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<segment>
+			<bo>ISI</bo> <bo>...........................................................................................................</bo> <bo>4</bo> 
+		</segment>
+		<title><bo>2.1.</bo></title>
+		<segment>
+			<bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>...........................................................................</bo> <bo>4</bo> 
+		</segment>
+		<title>2.1.1.</title>
+		<segment>
+			Latar Belakang Pekerjaan ............................................................................... 4 
+		</segment>
+		<title>2.1.2.</title>
+		<segment>
+			Metodologi ..................................................................................................... 5 
+		</segment>
+		<title>2.1.3.</title>
+		<segment>
+			Teknologi ........................................................................................................ 6 
+		</segment>
+		<title>2.1.4.</title>
+		<segment>
+			Non-Teknis ..................................................................................................... 8 
+		</segment>
+		<title>2.1.5.</title>
+		<segment>
+			Hasil Pekerjaan ............................................................................................... 8 
+		</segment>
+		<title><bo>2.2.</bo></title>
+		<segment>
+			<bo>Analisis</bo> <bo>...............................................................................................................</bo> <bo>9</bo> 
+		</segment>
+		<title>2.2.1.</title>
+		<segment>
+			Pelaksanaan Kerja Praktik .............................................................................. 9  2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI .............................................. 12 2.2.2.1. Struktur Data &amp; Algoritma ............................................................................ 12 2.2.2.2. Pengembangan &amp; Pemrograman Web ......................................................... 12 2.2.2.3. Rekayasa Perangkat Lunak ........................................................................... 12 2.2.2.4. Basis Data ..................................................................................................... 13 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			2.2.2.5. Proyek Pengembangan Sistem Informasi ..................................................... 13 2.2.2.6. Komunikasi Bisnis &amp; Teknologi ..................................................................... 13 
+		</segment>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<segment>
+			<bo>PENUTUP</bo> <bo>..............................................................................................</bo> <bo>14</bo> 
+		</segment>
+		<title><bo>3.1.</bo></title>
+		<title><bo>3.2.</bo></title>
+		<segment>
+			<bo>Kesimpulan</bo> <bo>......................................................................................................</bo> <bo>14</bo> <bo>Saran</bo> <bo>................................................................................................................</bo> <bo>14</bo> <bo>DAFTAR</bo> <bo>REFERENSI</bo> <bo>......................................................................................</bo> <bo>15</bo> <bo>LAMPIRAN</bo> <bo>1</bo> <bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>..........................................viii</bo> <bo>LAMPIRAN</bo> <bo>2</bo> <bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>..................................................................</bo> <bo>ix</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+		<pagenum><bo>7</bo></pagenum>
+		<pagenum><bo>8</bo></pagenum>
+		<pagenum><bo>9</bo></pagenum>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>4</bo> <bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Struktur Organisasi Divisi Solusi dan Keamanan Teknologi Informasi ...... 3 Gambar 2 Aplikasi Eabsensi pada HUT BNI ke 70...................................................... 8 Gambar 3 Booth pameran Divisi STI ........................................................................... 9 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>5</bo> <bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>6</bo> <bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam proses pelamaran kerja praktik, penulis mencoba beberapa opsi seperti melamar di Jobstreet. Kemudian, penulis juga mencoba melamar ke PT Telkomsel karena pada saat itu, perusahaan tersebut membuka lowongan kerja praktik. Pada saat menunggu balasan dari beberapa perusahaan diatas, penulis juga mengirimkan lamaran ke PT Gojek Indonesia. Namun, dari semua lamaran diatas, Penulis tidak menerima balasan apapun. Penulis juga mendaftarkan diri untuk melaksanakan kerja praktik di Jepang yaitu pada perusahaan Rakuten. Rakuten saat itu sedang membuka lowongan kerja praktik untuk mahasiswa se-Asia. Semua berkas-berkas yang dibutuhkan telah dikirimkan kemudian penulis dihubungi untuk melaksanakan ujian <it>programming</it> menggunakan bahasa Go. Namun, pada tahap ujian <it>programming</it> ini, penulis tidak lolos. Setelah beberapa percobaan pelamaran kerja praktik diatas, penulis menanyakan kepada salah satu relasi yang bekerja di PT Bank Negara Indonesia mengenai ketersediaan lowongan untuk kerja praktik di perusahaan tersebut. Penulis akhirnya mendapatkan informasi bahwa untuk melaksanakan kerja praktik, Penulis harus menghubungi Divisi Organizational Learning (ONL). Divisi ini bertugas untuk menangani semua proses pembelajaran staff BNI termasuk kerja praktik. Ada dua syarat yang harus dipenuhi oleh calon peserta kerja praktik di BNI. Syarat pertama adalah mengumpulkan berkas transkrip nilai, proposal kerja praktik, dan surat keterangan ingin melaksanakan kerja praktik. Syarat kedua adalah melaksanakan wawancara pada Divisi ONL untuk menentukan posisi kerja praktik. Penulis memenuhi kedua syarat tersebut kemudian diarahkan kepada Divisi Solusi &amp; Keamanan Teknologi Informasi (STI) untuk melakukan wawancara penempatan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			proyek. Kemudian, Penulis diterima dan ditempatkan pada Divisi STI pada kelompok Office Automation. Kelompok ini memiliki tanggung jawab untuk menunjang kebutuhan internal organisasi BNI dalam hal pengembangan aplikasi web maupun <it>mobile.</it> 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Bank Negara Indonesia (persero) Tbk adalah badan usaha milik negara berbentuk bank. Bank Negara Indonesia (BNI) merupakan bank pertama milik Indonesia yang lahir pada 5 Juli 1946. Selama 70 tahun, BNI melayani masyarakat Indonesia dengan menyediakan produk jasa perbankan seperti penyimpanan dan peminjaman dana. Bisnis utama BNI adalah <it>Business</it> <it>Banking</it> yaitu menawarkan kerjasama dalam memberikan yang terintegrasi dan <it>Consumer</it> &amp; <it>Retail</it> <it>Banking</it> yaitu menawarkan jasa perbankan untuk nasabah segala usia [1]<it>.</it> Saat ini, BNI memiliki lebih dari 1700 outlet di Indonesia dan memiliki 6 kantor cabang di luar negeri. Pada kesempatan kerja praktik ini, penulis ditempatkan pada Divisi Solusi &amp; Keamanan Teknologi Informasi (STI). Divisi ini terletak di Gedung Landmark Sudirman Tower A, lantai 12. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Penulis ditempatkan pada kelompok Office Automation dengan ketua kelompok yaitu bapak Cahyo Adi Nugroho dan pengelola kelompok yaitu bapak Setyo Ari Sudadi. Penulis akan di posisikan sebagai PHP <it>developer</it> dengan <it>framework</it> CodeIgniter. Selama masa kerja praktik, penulis dibimbing oleh Pengelola dan juga Ketua Kelompok Office Automation. Penulis juga akan bekerjasama dengan <it>developer</it> lain yaitu <it>mobile</it> dan PHP <it>developer.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			<bo>Gambar</bo> <bo>1</bo> <bo>Struktur</bo> <bo>Organisasi</bo> <bo>Divisi</bo> <bo>Solusi</bo> <bo>dan</bo> <bo>Keamanan</bo> <bo>Teknologi</bo> <bo>Informasi</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title>2.1.1.</title>
+		<segment>
+			 <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo> Meningkatnya kebutuhan internal organisasi BNI akan aplikasi berbasis web yang menggunakan PHP mengharuskan kelompok OFA untuk mempercepat pengembangan web PHP. Untuk mempercepat setiap pengembangan di masa depan, kelompok OFA membutuhkan sebuah fondasi awal sehingga pengembangan PHP tidak dilakukan dari <it>scratch.</it> Fondasi awal ini memiliki fitur-fitur utama seperti sistem login, pengelolaan <it>user,</it> pengelolaan <it>permission,</it> pengelolaan role, pengelolaan <it>session,</it> penyimpanan log akses, dan pengelolaan input data. Maka dari itu, penulis diberikan pekerjaan untuk mengembangkan fondasi awal aplikasi yang bernama Sistem Administrasi Aplikasi BNI (SAA BNI) dengan menggunakan framework PHP CodeIgniter. Pengembangan SAA BNI ini berguna bagi pengembang selanjutnya agar ia bisa lebih fokus terhadap pengembangan fungsionalitas saja. Selain itu, proses <it>maintenance</it> dapat dilakukan secara lebih mudah untuk semua aplikasi yang menggunakan SAA BNI. Setelah pengembangan SAA BNI selesai, ketua kelompok OFA memiliki gagasan untuk membuat sebuah sistem absensi mobile. Sistem absensi mobile ini mengintegrasikan antara mobile <it>check-in</it> dan juga QR Reader. Sistem ini dinamakan Eabsensi. Gagasan ini merupakan solusi dari masalah ketepatan waktu <it>tap-in</it> menggunakan mesin absen. Ada beberapa faktor yang bisa mengurangi akurasi waktu kehadiran pegawai seperti perjalanan menuju mesin absensi dan mengantri untuk <it>tap</it> pada mesin absensi. Hal-hal seperti dapat diatasi dengan melakukan mobile <it>check-in</it> jika sudah berada di area kantor dan melakukan verifikasi dengan menampilkan QR Code pada QR Reader. Tanggung jawab penulis pada proyek ini adalah membuat <it>mobile</it> API untuk login, mengirimkan profil pegawai, menerima data <it>check-in,</it> serta 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			membuat QR Reader untuk verifikasi kehadiran. Proyek ini akan dikembangkan diatas SAA BNI. Dalam mengerjakan proyek ini, penulis akan bekerja sama dengan <it>mobile</it> <it>developer.</it> Proyek terakhir merupakan sebuah permintaan langsung untuk kelompok OFA yaitu pembuatan Sistem Audit Monitoring. Sistem ini akan mempermudah proses <it>monitoring</it> status audit serta melakukan rekap dari semua data audit. Selain itu, dengan pengembangan sistem ini semua pihak yang terlibat dalam suatu audit akan dipertemukan dalam sistem ini. Sehingga, mereka bisa memberikan balasan terkait suatu audit dan balasan tersebut dapat terlacak siapa pengirimnya. Semua proses ini juga didukung dengan sistem <it>inbox</it> yang berperan sebagai pemberi notifikasi. Dalam pengembangan sistem ini, penulis juga akan menggunakan SAA BNI untuk mempercepat pengembangan Sistem Audit Monitoring. 
+		</segment>
+		<title>2.1.2.</title>
+		<segment>
+			 <bo>Metodologi</bo> Kerja praktik ini dilaksanakan oleh tim pelaksana kerja praktik yang terdiri dari penulis dan salah satu mahasiswa jurusan Sistem Informasi, Fakultas Ilmu Komputer Universitas Indonesia, yaitu Andre Valerian. Pengembangan proyek ini dilakukan dengan menggunakan <it>mini</it> <it>software</it> <it>development</it> <it>life</it> <it>cycle</it> (SDLC) yang dianjurkan oleh kelompok OFA. Mini SDLC ini akan dilaksanakan menggunakan beberapa tahapan ini yaitu <it>planning,</it> <it>analysis,</it> <it>design,</it> <it>implementation</it> dan <it>mini-testing</it> dengan dua iterasi. Pengerjaan proyek ini akan diarahkan oleh ketua dan pengelola kelompok. Setiap proyek yang baru akan diberikan <it>requirements</it> oleh ketua dan pengelola kelompok. Kemudian, tim pelaksana kerja praktik akan dikoordinasikan dengan pengembang lain jika ada kerjasama yang akan terjadi. <it>Requirements</it> yang didapatkan akan ditranslasikan ke dalam <it>use</it> <it>case</it> <it>diagram</it> kemudian dipecah menjadi dua iterasi. <it>Use</it> <it>case</it> yang telah ada akan dibagi dua antara penulis dengan rekan pelaksana kerja praktik. Setelah itu, tugas penulis adalah mendiskusikan alur sistem bersama pengelola kelompok untuk menentukan alur sistem yang terbaik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			Penulis akan mendesain kebutuhan basis data untuk sistem kemudian melakukan implementasi sistem. Setelah semua use case terbuat, akan dilakukan <it>mini</it> <it>testing</it> pada sistem. Siklus ini akan dilakukan sesuai jumlah iterasi. Penulis akan melakukan review sistem yang sudah dikerjakan dengan pengelola kelompok untuk perbaikan pada setiap akhir iterasi. Pengelola kelompok akan memberikan <it>feedback</it> dan akan dilakukan perbaikan oleh tim pelaksana kerja praktik. Ketika sudah diverifikasi oleh pengelola kelompok bahwa sistem sudah berjalan sesuai dengan <it>requirements</it> maka akan dilakukan presentasi aplikasi di hadapan semua anggota kelompok OFA. Presentasi ini bertujuan untuk mendapatkan kritik dan saran terakhir sebelum sistem akan masuk ke tahap <it>production.</it> 
+		</segment>
+		<title>2.1.3.</title>
+		<segment>
+			 <bo>Teknologi</bo> Terdapat beberapa teknologi yang penulis gunakan selama masa kerja praktik. Teknologi tersebut adalah <it>framework</it> PHP CodeIgniter, HTML 5, JavaScript, Xampp Control Panel yang terdiri dari Apache dan MySQL, Github, Unity 3D, dan Android Studio. CodeIgniter, HTML 5, Unity 3D, dan Android Studio adalah beberapa teknologi yang baru dipelajari oleh penulis saat melaksanakan kerja praktik. Salah satu teknologi yang digunakan secara intensif oleh penulis adalah <it>framework</it> CodeIgniter yang menggunakan bahasa PHP. CodeIgniter menggunakan arsitektur Model-View-Controller (MVC) yang memudahkan penulis dalam me-<it>reuse</it> code. Salah satu kelebihan <it>framework</it> ini adalah kecepatannya dan fleksibilitas dalam melakukan pengembangan. Tersedianya banyak <it>front-end</it> <it>template</it> untuk CodeIgniter juga mempermudah penulis. Dalam pengembangan CodeIgniter ini, penulis juga mengintegrasikan fitur-fitur dari JavaScript. JavaScript digunakan penulis untuk melakukan <it>server-side</it> <it>processing</it> bersama AJAX yaitu untuk menampilkan data pada tabel tanpa harus pindah halaman atau <it>refresh</it> <it>page.</it> Selain itu, JavaScript juga digunakan untuk melakukan <it>server-side</it> validation sehingga validasi dilakukan di halaman yang sama. Secara overall, performa <it>server-side</it> <it>processing</it> lebih cepat setelah mengintegrasikan javascript. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Penulis juga membutuhkan XAMPP Control Panel yang digunakan untuk menjalankan PHP dan basis data secara lokal dalam komputer penulis. XAMPP menyediakan Apache untuk menjalakan PHP. Kemudian untuk menjalankan basis data, XAMPP menyediakan MySQL. Konfigurasi yang dilakukan adalah menempatkan folder proyek kedalam folder XAMPP. Kemudian, penulis membuat basis data pada MySQL untuk digunakan pada proyek. Tim pelaksana kerja praktik sepakat untuk menggunakan Github untuk menjaga kekonsistenan sistem. Github membantu penulis untuk mengintegrasikan program penulis dengan rekan penulis. Penggunaan github membantu penulis untuk melakukan <it>version</it> <it>control</it> yaitu menyimpan semua data yang diubah ke dalam versi- versi yang nantinya dapat di-<it>retrieve.</it> Penggunaan Github ini sudah menggunakan Github Enterprise sehingga tidak semua orang dapat mengakses program yang dikembangkan penulis. Selain dari teknologi diatas, pengembang juga mendapatkan kesempatan untuk mempelajari <it>software</it> yaitu Unity 3D. Unity 3D merupakan <it>engine</it> untuk membuat aplikasi yang bisa berjalan secara <it>cross-platform</it> seperti Android, iOS, dan website. Setelah penulis berhasil menginstall Unity 3D, penulis pun diajarkan untuk membuat sebuah fitur di Unity 3D. Penulis juga membantu mencoba menjalankan aplikasi dari Unity 3D pada iOS. Ketika pengembangan Eabsensi, penulis sangat tertarik terhadap proses pengembangan aplikasi <it>mobile.</it> Penulis akhirnya diajarkan oleh salah satu rekan kerja BNI tentang konsep serta cara mengembangkan aplikasi mobile. Penulis pun akhirnya menginstall Android Studio. Android Studio adalah platform untuk mengembangkan aplikasi untuk Android. Android Studio menggunakan XML <it>layout</it> untuk interfacenya, kemudian menggunakan Java untuk kepentingan <it>back-end.</it> Jika ada kebutuhan untuk menggunakan API, maka API tersebut akan dibuat menggunakan PHP. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<title>2.1.4.</title>
+		<segment>
+			 <bo>Non-Teknis</bo> Dalam pengembangan proyek teknologi informasi, tidak hanya kemampuan <it>programming</it> saja yang dibutuhkan tetapi kemampuan seperti komunikasi dan juga bekerjasama sangat dibutuhkan. Hal ini disadari betul oleh penulis selama masa kerja praktik. Teknik komunikasi yang tepat digunakan oleh penulis untuk melakukan percakapan sehari-hari dan juga presentasi. Kemampuan bekerjasama juga diperlukan dalam pengembangan karena penulis tidak bekerja sendiri melainkan bekerja sama. Dalam masa kerja praktik, penulis bekerja sama dengan rekan pelaksana kerja praktik dan rekan kerja BNI. Kelancaran pelaksanaan kerja praktik penulis sangatlah bergantung terhadap beberapa kemampuan diatas. 
+		</segment>
+		<title>2.1.5.</title>
+		<segment>
+			 <bo>Hasil</bo> <bo>Pekerjaan</bo> Salah satu hasil kerja praktik Kerja praktik yang dilaksanakan oleh tim pelaksana kerja praktik adalah sistem Eabsensi. Sistem ini adalah hasil kolaborasi dengan pengembang <it>mobile</it> kelompok OFA. Eabsensi merupakan salah satu sistem yang ditampilkan pada acara HUT BNI ke 70 yang diadakan di Jakarta Convention Center Senayan. Acara ini dihadiri oleh seluruh pegawai BNI di Jakarta. Aplikasi ini berhasil dikembangkan dengan baik serta tepat waktu dan mendapatkan tempat di booth divisi STI. <bo>Gambar</bo> <bo>2</bo> <bo>Aplikasi</bo> <bo>Eabsensi</bo> <bo>pada</bo> <bo>HUT</bo> <bo>BNI</bo> <bo>ke</bo> <bo>70</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			<bo>Gambar</bo> <bo>3</bo> <bo>Booth</bo> <bo>pameran</bo> <bo>Divisi</bo> <bo>STI</bo> 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title>2.2.1.</title>
+		<segment>
+			 <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Terdapat kesesuaian dan perbedaan antara pelaksanaan kerja praktik dengan KAKP. Kesesuaian yang terjadi adalah terselesaikannya SAA BNI, Eabsensi, dan Audit Monitoring. Semua fitur yang diajukan pada KAKP pun sudah terlaksana. Selain itu, kegiatan presentasi akhir pun terlaksana sesuai dengan KAKP. Namun, ketidaksesuaian yang terjadi adalah terjadinya perpanjangan <it>timeline</it> SAA BNI. Perpanjangan ini mengurangi waktu pada <it>mini-testing</it> serta pengerjaan proyek Eabsensi.</it> Maka dari itu, pada saat pengerjaan Eabsensi, penulis dan rekan pelaksana kerja praktik hanya memiliki waktu yang sedikit tetapi waktu tersebut cukup untuk menyelesaikan proyek Eabsensi. Selama pengerjaan kerja praktik, penulis menemukan beberapa kendala. Saat pengembangan SAA BNI, penulis masih belum paham mengenai bagaimana cara menyimpan <it>role</it> pada user di satu waktu. Setelah penulis meneliti lagi, penulis menemukan <it>session.</it> <it>Session,</it> merupakan penyimpanan informasi <it>user</it> dalam bentuk <it>array</it> pada sesi <it>browser</it> pengguna.</it> Sehingga informasi tersebut bisa digunakan untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			berbagai halaman tetapi akan dihapus ketika user menutup <it>browser.</it> Penulis akhirnya mengerti bagaimana cara untuk menyimpan informasi <it>role</it> sebuah <it>user</it> dengan menyimpannya ke dalam <it>session.</it> Kendala selanjutnya adalah performa tabel ketika memperoleh data yang besar sejumlah 30,000 data. Teknik yang digunakan penulis dalam mengolah data untuk ditampilkan di tabel adalah mengambil semua data kemudian di-render</it> lalu di <it>paginate.</it> Teknik ini memakan waktu lebih dari 60 detik. Penulis akhirnya mempelajari AJAX dan JavaScript. AJAX adalah sebuah metode untuk mengolah data XML seperti JSON dengan JavaScript secara asinkron. Teknik AJAX, memecahkan masalah penulis karena dengan AJAX ini, penulis dapat menampilkan data tabel hanya sesuai dengan jumlah yang ingin dilihat. Misalnya, dari 30,000 data, data tersebut akan di <it>paginate</it> sebanyak 10 data pada satu halaman. Hal ini berarti kita memiliki 3000 halaman tabel tetapi tidak semua data diambil pada satu waktu yang sama. Hanya data yang ingin dilihat yang akan diambil ke <it>database</it> dan kelebihannya juga tidak diperlukannya <it>refresh</it> halaman. Sehingga, performa penampilan tabel menjadi lebih cepat hingga 1 detik. Selain kendala performa tabel, penulis juga masih belum memiliki pengetahuan yang dalam mengenai QR Reader. Penulis akhirnya disarankan untuk mencari QR Reader berbasis HTML 5. Setelah menemukan beberapa QR Reader banyak dari QR Reader tersebut tidak akurat. Akhirnya setelah membandingkan beberapa QR Reader, penulis dan rekan pelaksana kerja praktik menemukan yang paling akurat. Setelah itu, penulis mengubah kode untuk menampilkan profil secara <it>back-end</it> menggunakan JavaScript. Kendala-kendala diatas tentunya tidak dapat diselesaikan oleh penulis tanpa lingkungan yang mendukung. Dalam pengerjaan proyek, penulis dan rekan pelaksana kerja praktik saling membantu mencari alternatif solusi yang paling optimal. Ketika ada kesulitan yang belum dapat dipecahkan, tim kerja praktik akan diarahkan untuk alternatif solusi lain oleh ketua dan pengelola kelompok. Selain itu, rekan kerja BNI pun sangat suportif terutama ketika ada pekerjaan yang beririsan. Tim pengembang di 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			BNI akan saling dukung dalam hal pemecahan masalah. Contohnya adalah ketika penulis belum mengerti cara untuk membuat API <it>mobile.</it> Penulis pun diarahkan oleh salah satu rekan kerja BNI dan diberikan contoh <it>file</it> API. Maka, masalah pengembangan API pun dapat dipecahkan. Salah satu hal yang menarik dalam pelaksanaan kerja praktik adalah proses transfer ilmu yang terjadi dalam divisi STI. Hubungan yang erat antar kelompok di divisi STI membuat pembelajaran antara kelompok sangat mudah. Tim pelaksana kerja praktik yang terdiri dari penulis, Andre Valerian, Rahmahayuningsih Ilyas, dan juga Nur Fazri Ilham memiliki kesempatan untuk mempelajari kegiatan pada Divisi Operasional. Penulis mempelajari mengenai bagaimana cara mengembangkan aplikasi yang <it>scalable</it> sehingga ketika aplikasi tersebut digunakan oleh pengguna yang banyak, tidak terjadi masalah. Faktor-faktor yang harus dipahami ketika membuat aplikasi adalah arsitektur aplikasi tersebut serta alokasi penggunaan infrastruktur. Dalam hal infrastruktur, BNI memiliki beberapa <it>data</it> <it>center</it> yang digunakan untuk menunjang segala transaksi yang terjadi setiap hari dan menjaga agar transaksi bisa terus dijalankan. Penulis juga mempelajari bagaimana aktivitas BNI dalam memantau seluruh ATM yang ada di Indonesia serta kelompok mana saja yang terlibat. Dalam masa kerja praktik, penulis merasa bahwa kelompok OFA memiliki lingkungan kerja yang nyaman. Ketua dan pengelola kelompok serta rekan kerja yang ramah membuat penulis merasa diterima di lingkungan baru. Penulis pun diberikan banyak nasihat dan arahan mengenai dunia kerja. Selain itu, penulis merasa sangat senang karena penulis diajari mengenai teknologi-teknologi baru seperti Unity 3D dan juga Android Studio. Menurut penulis, pembelajaran yang diberikan sangat berguna serta aplikatif dimasa yang akan datang. Secara keseluruhan, kelompok OFA adalah tempat yang baik untuk terus berkembang. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<title>2.2.2.</title>
+		<segment>
+			 <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> Terdapat beberapa mata kuliah yang relevan terhadap pekerjaan penulis yaitu sebagai PHP <it>developer.</it> Berikut merupakan mata kuliah yang memiliki relevansi dengan kerja praktik yang dilakukan penulis : <bo>2.2.2.1.</bo> <bo>Struktur</bo> <bo>Data</bo> &amp; <bo>Algoritma</bo> Dari mata kuliah Struktur Data &amp; Algoritma (SDA) penulis mendapatkan ilmu tentang <it>class</it> dan <it>methods.</it> Hal ini sangat berguna karena memiliki kemiripan dengan struktur <it>file</it> pada CodeIgniter. Selain itu, penulis juga mempelajari mengenai bahasa pemrograman Java dari mata kuliah ini. Java banyak digunakan pada saat penulis mengimplementasikan JavaScript. <bo>2.2.2.2.</bo> <bo>Pengembangan</bo> &amp; <bo>Pemrograman</bo> <bo>Web</bo> Pengembangan &amp; Pemrograman Web (PPW) membantu penulis dalam memahami mengenai bahasa HTML, CSS, AJAX, dan juga JavaScript. PPW juga mengajarkan penulis mengenai penggunaan <it>framework</it> dalam mengembangkan suatu aplikasi berbasis web. Penulis juga mengerti perbedaan antara pemrosesan dari sisi browser klien dan dari sisi server. <bo>2.2.2.3.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> Mata kuliah Rekayasa Perangkat Lunak (RPL) memiliki relevansi pada masa kerja praktik yaitu dalam hal konsep SDLC. Konsep ini sangat berguna ketika kerja praktik karena dalam pengembangan, tim pelaksana kerja praktik menggunakan SDLC. Selain itu, penulis juga memahami cara untuk membuat <it>use</it> <it>case</it> <it>diagram</it> yang dipergunakan untuk memperjelas fitur-fitur yang dapat dilakukan oleh sekumpulan <it>user.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			<bo>2.2.2.4.</bo> <bo>Basis</bo> <bo>Data</bo> Basis Data mengajarkan penulis tentang bagaimana merancang basis data yang efektif dan efisien. Secara keseluruhan tidak ada perbedaan mengenai konsep <it>database</it> yang dipelajari dan yang digunakan pada kerja praktik. Namun, ada kondisi tertentu dimana redundasi data diperlukan. Hal ini, dilakukan untuk kepentingan audit. Dari mata kuliah ini juga penulis memahami betul cara untuk menggunakan <it>software</it> MySQL. <bo>2.2.2.5.</bo> <bo>Proyek</bo> <bo>Pengembangan</bo> <bo>Sistem</bo> <bo>Informasi</bo> Mata kuliah Proyek Pengembangan Sistem Informasi (Propensi) memiliki relevansi pada masa kerja praktik yaitu cara dalam mendapatkan <it>requirement,</it> membuat <it>use</it> <it>case</it> <it>diagram,</it> merancang <it>database</it> <it>design</it> dan pada saat implementasi.</it> Propensi memiliki relevansi juga pada saat penulis membagi-bagi tugas dengan rekan pelaksana kerja praktik. Pada saat Propensi, penulis mempelajari bagaimana sebuah PHP <it>framework</it> bekerja maka pada saat melaksanakan kerja praktik, penulis tidak mengalami kesulitan saat mencoba <it>framework</it> baru yang serupa. <bo>2.2.2.6.</bo> <bo>Komunikasi</bo> <bo>Bisnis</bo> &amp; <bo>Teknologi</bo> Dari mata kuliah Komunikasi Bisnis &amp; Teknologi (Kombistek) penulis memahami mengenai tata cara komunikasi dalam lingkungan bisnis &amp; teknologi. Salah satunya adalah tenik komunikasi secara informal, mengirim email, dan presentasi. Presentasi akhir yang dilakukan penulis menggunakan beberapa prinsip-prinsip Kombistek. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Masa pelaksanaan kerja praktik adalah masa yang penting untuk memahami dunia kerja. Penulis dan rekan pelaksana kerja praktik mendapatkan banyak ilmu yang bermanfaat dari pelaksanaan kerja praktik ini. Dari segi target, tim pelaksana kerja praktik sudah berhasil memenuhi target walaupun ada sedikit pergeseran waktu pengerjaan. Dalam pengerjaan kerja praktik tim pelaksana kerja praktik menggunakan <it>mini</it> <it>SDLC</it> yang ada pada kelompok OFA. Teknologi utama yang digunakan adalah <it>framework</it> PHP CodeIgniter, HTML 5, JavaScript, Xampp Control Panel yang terdiri dari Apache dan MySQL, Github. Penulis juga diajarkan beberapa teknologi lain yaitu Unity 3D dan Android Studio. Secara keseluruhan pelaksanaan kerja praktik sangat bermakna. Penulis merasa mendapatkan banyak pengalaman berharga dari kemampuan <it>programming</it> hingga kemampuan berorganisasi. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik bukanlah hal yang mudah serupa dengan mencari pekerjaan. Maka dari itu, semua mahasiswa peserta kerja praktik harus mendaftar sedini mungkin ke banyak perusahaan. Persiapkan <it>curriculum</it> <it>vitae</it> sebaik mungkin karena itu merupakan acuan dalam penempatan posisi pekerjaan. Dari segi pelaksanaan kerja praktik penulis, pada kelompok OFA sudah sangat nyaman bagi penulis. Penulis berharap agar lebih banyak lagi mahasiswa yang diterima untuk mengerjakan kerja praktik di BNI karena begitu banyak ilmu yang bisa didapatkan disana. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<title><bo>7</bo> <bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] n.p. “BNI  Company  Profile”.  (2014).  Diakses  pada  6  Oktober  2016  dari  http://www.bni.co.id/Portals/0/image/2014_BNI_Company_Profile_IND.pdf 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>viii</pagenum>
+		<title>8 <bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>ix</pagenum>
+		<title>9 <bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

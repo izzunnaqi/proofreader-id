@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>WEB</bo></it> <it><bo>FRONT-END</bo></it> <it><bo>DEVELOPER</bo></it> <it><bo>INTERN</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>SITI</bo> <bo>FATIMAH</bo></title>
+		<segment>
+			<bo>1306409482</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Siti Fatimah : 1306409482 Program Studi : Ilmu Komputer Judul Kerja Praktik : <it>Web</it> <it>Front-end</it> <it>Developer</it> <it>Intern</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.Sc.)</bo> Ditetapkan di : [NAMA TEMPAT] Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Sehubungan dengan mata kuliah wajib Fakultas Ilmu Komputer, Kerja Praktik, penulis telah melaksanakan kerja praktik di Kudo Teknologi Indonesia. Kerja praktik dilaksanakan selama kurang lebih 9 minggu, terhitung dari tanggal 13 Juni 2016 sampai 19 Agustus 2016. Penulis ditempatkan pada bagian <it>Web</it> <it>Development</it> sebagai <it>Web</it> <it>Front-end</it> <it>Developer</it> <it>Intern</it> dan tergabung dalam tim <it>Frequently</it> <it>Asked</it> <it>Question</it> (FAQ) dan <it>Feedback.</it> Penulis dipercaya untuk mengerjakan fitur FAQ dan <it>Feedback</it> pada Kudo <it>Mobile</it> <it>Agent</it> <it>Web.</it> Penulis juga dipercaya untuk membuat <it>Content</it> <it>Management</it> <it>System</it> (CMS) untuk FAQ dan <it>Feedback.</it> Dalam kerja praktik ini, penulis belajar beberapa teknologi dalam pengembangan <it>website</it> dan belajar berbagai pengalaman baru dalam dunia kerja. Kata kunci: Kudo,</it> <it>FAQ,</it> <it>Feedback,</it> <it>Web</it> <it>Development</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 4</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 4</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 5</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 6 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 6</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 6</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 8</title>
+		<segment>
+			2.1.2.1. Sass .................................................................................................... 8 2.1.2.2. MUI .................................................................................................... 8 2.1.2.3. <it>Responsive</it> <it>Web</it> <it>Design</it> ..................................................................... 8 
+		</segment>
+		<title>2.1.3. Metodologi ................................................................................................ 9</title>
+		<title>2.1.4. Teknologi dan <it>Tools</it> ............................................................................... 10</title>
+		<segment>
+			2.1.4.1. Bitbucket .......................................................................................... 10 2.1.4.2. SourceTree ....................................................................................... 10 2.1.4.3. JIRA ................................................................................................. 10 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			2.1.4.4. Blisk ................................................................................................. 10 2.1.4.5. CKEditor dan CKFinder .................................................................. 11 2.1.4.6. Slack ................................................................................................. 11 
+		</segment>
+		<title>2.1.5. Pelaksanaan Kerja Praktik .................... 1<bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.2. Analisis .......................................................................................................... 14</title>
+		<title>2.2.1. Kesesuaian dan Perbedaan dengan KAKP ............................................. 14</title>
+		<title>2.2.2. Kendala dalam Kerja Praktik .................................................................. 15</title>
+		<title>2.2.3. Pembelajaran <it>Softskill</it> dalam Kerja Praktik ............................................ 15</title>
+		<title>2.2.4. Penilaian Individu terhadap Tempat Kerja Praktik ................................. 16</title>
+		<title>2.2.5. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 17</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 18 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 18</title>
+		<title>3.2. Saran .............................................................................................................. 18</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 19 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... vii LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................ viviii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1. Posisi Penulis dalam Struktur Organisasi Kudo ………………………….  
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<pagenum>5</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<segment>
+			Lampiran 1. Kerangka Acuan Kerja Praktik ………………………………………..  
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<segment>
+			Lampiran 2. Log Kerja Praktik ……………………………………………………..  
+		</segment>
+		<pagenum>viii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis memulai proses pencarian tempat kerja praktik agak telat dibandingkan dengan mahasiswa lainnya. Beberapa mahasiswa sudah mencari tempat kerja praktik dari awal semester genap 2015/2016. Sedangkan penulis mulai mencari tempat kerja praktik pada pertengahan semester genap 2015/2016, sekitar akhir Maret 2016. Penulis baru tersadarkan dengan beberapa teman yang sudah dapat tempat kerja praktik. Pada awalnya penulis masih sangat buta dan bingung harus melamar ke perusahaan mana dan dengan posisi apa. Setelah berpikir lebih jauh, penulis memutuskan untuk melamar dengan posisi <it>Front-end</it> <it>Web</it> <it>Developer</it> atau <it>Software</it> <it>Engineer</it> <it>Intern</it> agar mengasah kemampuan teknis penulis. Setelah menentukan posisi yang diinginkan, penulis harus menentukan perusahaan yang ingin dituju. Penulis mulai mengikuti acara <it>job</it> <it>fair,</it> berharap ada sedikit gambaran mengenai tempat kerja praktik mana yang sebenarnya diinginkan penulis. Penulis juga mencari dengan bertanya ke beberapa senior dan mengunjungi situs beberapa perusahaan. Akhirnya penulis memutuskan untuk membuat target perusahaan yang akan dijadikan tempat kerja praktik. Target perusahaan yang diinginkan penulis adalah Bukalapak, Kudo, dan Veritrans. Namun penulis juga mencoba melamar di perusahaan lain yang tidak ada pada daftar tersebut. Setelah mencari tahu bagaimana cara mendaftar di perusahaan-perusahaan tersebut, penulis mendaftarkan diri untuk pertama kalinya ke Bukalapak sebagai <it>Front-end</it> <it>Web</it> <it>Developer</it> <it>Intern</it> melalui halaman karir di situs Bukalapak. Pada halaman tersebut, pendaftar diwajibkan untuk mengisi data diri dan melampirkan CV serta <it>cover</it> <it>letter.</it> Penulis cukup lama menunggu kabar dari Bukalapak. Sambil menunggu kabar, penulis mencoba daftar ke Veritrans sebagai <it>Software</it> <it>Engineer</it> <it>Intern</it> dan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			Kudo sebagai <it>Front-end</it> <it>Web</it> <it>Developer</it> <it>Intern.</it> Ternyata penulis merasa kabar dari Veritrans dan Kudo juga lama, seperti Bukalapak. Akhirnya penulis mencoba daftar ke Suitmedia sebagai <it>Front-end</it> <it>Web</it> <it>Developer</it> <it>Intern.</it> Penulis mengetahui Suitmedia dari salah satu temannya. Ketika penulis mengunjungi situs Suitmedia, penulis tertarik untuk daftar karena situs Suitmedia yang bagus dan Suitmedia memiliki beberapa <it>partner</it> kerja yang terkenal. Suitmedia adalah perusahaan yang pertama kali memberikan kabar kepada penulis dengan cepat. Suitmedia memberikan <it>competency</it> <it>test</it> untuk <it>Front-end</it> <it>Web</it> <it>Intern</it> yang harus diselesaikan dalam waktu 5 hari. Akhirnya penulis mengerjakan <it>competency</it> <it>test</it> tersebut dan mengumpulkan dengan tepat waktu. Setelah mengikuti <it>competency</it> <it>test</it> dari Suitmedia, Bukalapak baru memberikan kabar yang hampir sama dengan Suitmedia, yaitu tugas individu untuk <it>Front-end</it> <it>Web</it> <it>Developer</it> <it>Intern.</it> Namun tugas yang diberikan Bukalapak harus diselesaikan dalam waktu 2 hari. Penulis juga berhasil menyelesaikan tugas tersebut. Sambil menunggu kabar dari Suitmedia dan Bukalapak, Veritrans juga memberikan kabar. Berbeda dengan Suitmedia dan Bukalapak yang hanya memberikan tugas individu melalui <it>email,</it> Veritrans mengadakan <it>Interns</it> <it>Selection</it> <it>Day,</it> yaitu satu hari dimana seluruh pendaftar <it>Software</it> <it>Engineer</it> <it>Intern</it> akan diuji secara bersamaan dan diajak untuk melihat kantor Veritrans. Beberapa hari setelah mengikuti <it>Interns</it> <it>Selection</it> <it>Day,</it> penulis mendapatkan <it>email</it> dari Bukalapak yang berisi panggilan untuk mengikuti wawancara di kantor Bukalapak. Penulis diwawancarai oleh orang dari bagian <it>Human</it> <it>Resources</it> yang menanyakan seputar pengalaman berorganisasi. Setelah itu penulis juga diwawancarai oleh orang dari bagian <it>Front-end</it> <it>Web</it> <it>Developer</it> yang menanyakan beberapa pertanyaan seputar teknologi perkembangan <it>website</it> dan memberikan tugas untuk mengembangkan tugas yang telah penulis kumpulkan melalui <it>email</it> dalam waktu 2 jam. Di akhir wawancara, penulis diberitahukan akan dikabari sekitar seminggu setelahnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			Sudah lebih dari seminggu, penulis belum dapat kabar dari Bukalapak. Penulis justru mendapatkan kabar dari Suitmedia. Pada akhir April 2016, Suitmedia menelepon penulis dan memberikan kabar bahwa penulis diterima sebagai <it>Front-end</it> <it>Web</it> <it>Intern.</it> Penulis senang akhirnya ada perusahaan yang memberikan kabar walaupun bukan perusahaan yang ditargetkan. Namun setelah diterima di Suitmedia, Kudo baru memanggil penulis untuk wawancara. Penulis menerima panggilan tersebut dan melakukan wawancara di Kudo. Di Kudo, penulis juga diwawancarai oleh orang dari bagian <it>Human</it> <it>Resources</it> dan <it>Web</it> <it>Developer.</it> Penulis tidak diberikan tugas teknis, tetapi lebih banyak pertanyaan mengenai bagaimana penulis menyelesaikan suatu masalah. Pada awal Mei 2016, Bukalapak dan Veritrans baru memberikan kabar bahwa penulis tidak lolos menjadi <it>intern.</it> Penulis cukup kaget dan kecewa melihat kabar tersebut, karena dua perusahaan tersebut adalah target awal penulis. Namun Kudo memberikan kabar baik kepada penulis. Penulis lolos menjadi <it>Web</it> <it>Front-end</it> <it>Intern</it> di Kudo. Penulis merasa senang karena salah satu perusahaan yang ditargetkan memberikan kabar positif. Akhirnya penulis memutuskan untuk melewatkan kesempatan dari Suitmedia dan menerima kesempatan <it>intern</it> di Kudo. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan menjelaskan tentang profil tempat kerja praktik, struktur organisasi tempat kerja praktik, dan posisi penulis dalam struktur organisasi tempat kerja praktik. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Kudo Teknologi Indonesia atau yang biasa dikenal dengan Kudo, Kios Untuk Dagang Online, merupakan <it>assisted</it> <it>e-Commerce</it> yang menghubungkan pedagang, baik <it>seller</it> maupun <it>reseller</it> produk. Kudo memberikan kemudahan untuk masyarakat Indonesia yang tidak memiliki akses atau tidak ingin melakukan transaksi <it>online</it> sehingga dapat melakukan pembelanjaan <it>e-Commerce</it> secara tunai melalui agen Kudo. Agen Kudo memegang peran penting, karena visi Kudo adalah memajukan Indonesia dengan melahirkan ribuan pengusaha digital. Agen Kudo bertugas untuk memasarkan produk yang tersedia <it>online,</it> yang berasal dari <it>marketplace</it> <it>online,</it> seperti Bukalapak, Elevenia, dan sebagainya, kepada masyarakat yang tidak memiliki akses atau tidak ingin melakukan transaksi <it>online.</it> Sehingga masyarakat tersebut melakukan transaksi tunai dengan agen Kudo [1]. Kudo mulai diluncurkan pada Desember 2014 dengan aplikasi khusus pada tablet, yang dikenal sebagai Kudobox, dengan konsep kerja sama B2B. Kudobox diletakkan di beberapa tempat umum, seperti perkantoran, <it>mini</it> <it>market,</it> dan <it>mall.</it> Pada Januari 2015, Kudobox diubah dengan konsep keagenan perorangan, yang disebut agen Kudo. Agen Kudo berjualan dengan tablet individu. Maret 2016, Kudo meninggalkan konsep tablet dan meluncurkan <it>mobile</it> <it>app.</it> Dengan konsep ini, jumlah pelanggan dan agen Kudo meningkat tanpa ada batasan wilayah. Setelah <it>mobile</it> <it>app,</it> Kudo juga meluncurkan <it>web</it> <it>app</it> sehingga agen Kudo dapat berjualan menggunakan PC tanpa harus meng-<it>install</it> aplikasi Kudo [1]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Penulis ditempatkan pada posisi <it>Web</it> <it>Front-end</it> <it>Developer</it> <it>Intern</it> yang termasuk dalam divisi <it>Web</it> <it>Development,</it> di bawah tim <it>Front-end.</it> Divisi <it>Web</it> <it>Development</it> sendiri terbagi lagi menjadi <it>Web</it> <it>Front-end</it> dan <it>Web</it> <it>Back-end</it> yang memiliki kepala masing-masing. Agar lebih jelas, posisi penempatan penulis dalam struktur organisasi Kudo dapat dilihat pada Gambar 1. <it>Gambar</it> <it>1.</it> <it>Posisi</it> <it>Penulis</it> <it>dalam</it> <it>Struktur</it> <it>Organisasi</it> <it>Kudo</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan menjelaskan tentang latar belakang pekerjaan, tinjauan pustaka, metodologi, teknologi yang digunakan, dan pelaksanaan kerja praktik penulis. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Dari tahun 2014, Kudo terus maju dengan berbagai perubahan aplikasinya. Tahun 2016 merupakan tahun dimana Kudo berkembang pesat dengan Kudo <it>Mobile</it> <it>Apps</it> dan Kudo <it>Mobile</it> <it>App</it> <it>Web.</it> Dengan kedua aplikasi tersebut, jumlah pelanggan dan agen Kudo terus meningkat tanpa batas daerah. Kudo melakukan upaya untuk mempertahankan pelanggan dan agen Kudo dengan menyediakan tim <it>Customer</it> <it>Service.</it> Tim <it>Customer</it> <it>Service</it> khusus disediakan sebagai bentuk pelayanan Kudo kepada pelanggan dan agen Kudo. Pelanggan dan agen Kudo dapat bertanya atau memberikan kritik dan saran melalui <it>customer</it> <it>service.</it> Namun, meningkatnya jumlah pelanggan dan agen Kudo, menyebabkan meningkatnya pula pertanyaan yang datang ke tim <it>Customer</it> <it>Service.</it> Sebagian besar pertanyaan adalah pertanyaan berulang yang sudah pernah ditanyakan oleh pelanggan atau agen Kudo lain, sehingga <it>customer</it> <it>service</it> harus mengulang jawaban yang sama. Hal tersebut tidak efektif untuk <it>customer</it> <it>service.</it> Meningkatnya pelanggan dan agen Kudo juga mengharuskan Kudo menambah jumlah <it>customer</it> <it>service.</it> Hal ini dikarenakan <it>customer</it> <it>service</it> menjadi satu-satunya media yang menghubungkan pelanggan dan agen Kudo dengan Kudo. Jumlah <it>customer</it> <it>service</it> yang ada sekarang sudah lebih dari dua kali lipat jumlah <it>customer</it> <it>service</it> pada 6 bulan lalu. Bertambahnya <it>customer</it> <it>service</it> tentu memakan biaya yang cukup banyak bagi Kudo. Jika pelanggan dan agen Kudo terus bertambah, maka jumlah <it>customer</it> <it>service</it> juga harus ditambah untuk menyeimbangi pertanyaan yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			akan masuk. Maka dari itu, <it>customer</it> <it>service</it> tidak dapat menjadi satu-satunya media yang menghubungkan pelanggan dan agen Kudo dengan Kudo agar jumlah <it>customer</it> <it>service</it> tidak bertambah lagi. <it>Customer</it> <it>service</it> biasa menerima pertanyaan yang sama, namun Kudo tidak dapat menjamin jawaban yang diberikan juga sama. Hal ini dikarenakan penyampaian dan pemahaman tiap <it>customer</it> <it>service</it> yang berbeda. Selain itu, Kudo juga tidak dapat menjamin kritik dan saran yang masuk tersampaikan seluruhnya. Oleh karena itu, dibutuhkan wadah yang dapat menjamin kritik dan saran tersebut tersimpan dan dapat dibaca, sehingga Kudo dapat melakukan perbaikan agar menjadi lebih baik lagi. Permasalahan yang telah dituliskan di atas, dapat terselesaikan dengan membuat halaman <it>Frequently</it> <it>Asked</it> <it>Question</it> (FAQ) dan <it>Feedback.</it> Sesuai dengan namanya, halaman FAQ adalah halaman yang berisi kumpulan pertanyaan yang sering ditanyakan oleh pelanggan atau agen Kudo. Dengan begitu, pertanyaan berulang yang pelanggan atau agen Kudo tanyakan ke <it>customer</it> <it>service</it> dapat berkurang. <it>Customer</it> <it>service</it> juga tidak perlu bertambah lagi walaupun jumlah pelanggan dan agen Kudo bertambah. Halaman <it>Feedback</it> adalah halaman yang akan menampung kritik dan saran dari pelanggan dan agen Kudo. Halaman ini akan otomatis menyimpan kritik dan saran yang diberikan, sehingga dapat dibaca dan dapat dijadikan bahan evaluasi Kudo agar menjadi lebih baik lagi kedepannya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.2.1.</bo> <bo>Sass</bo> Sass, <it>Syntactically</it> <it>Awesome</it> <it>Stylesheets,</it> merupakan <it>stylesheet</it> <it>language</it> yang saat dijalankan akan otomatis diterjemahkan ke dalam CSS [2]. Penulisan kode Sass lebih dinamis dan modular [2]. Dengan Sass, dapat dibuat komponen-komponen yang nantinya dapat digunakan secara berulang dengan hanya memanggil nama komponen tersebut. Jadi jika ingin mengubah suatu elemen pada komponen, <it>programmer</it> hanya perlu mengubah satu komponen saja, tidak perlu di seluruh bagian saat pemanggilan komponen tersebut. Kudo baru mulai mengimplementasikan Sass di halaman baru dan halaman yang lama sedang diproses untuk pindah dari CSS biasa ke Sass. <bo>2.1.2.2.</bo> <bo>MUI</bo> MUI adalah <it>framework</it> CSS, seperti Bootstrap, yang mengikuti aturan dari <it>material</it> <it>design</it> Google. MUI menyediakan beberapa komponen yang dapat digunakan langsung secara <it>front-end,</it> seperti <it>button,</it> <it>form,</it> dan lain sebagainya. MUI juga menyediakan beberapa komponen yang telah tersinkronisasi dengan <it>framework</it> JavaScript, seperti React JS dan Angular JS [3]. Kudo menggunakan MUI karena desain aplikasi Kudo juga mengikuti aturan dari <it>material</it> <it>design</it> Google. Kudo mengimplementasikan MUI dengan melakukan kombinasi penulisan kode menggunakan Sass. <bo>2.1.2.3.</bo> <it><bo>Responsive</bo></it> <it><bo>Web</bo></it> <it><bo>Design</bo></it> <it>Responsive</it> <it>web</it> <it>design</it> adalah suatu pendekatan pengembangan <it>web</it> dengan desain dan pengembangan yang sesuai dengan tingkah laku dan ukuran layar. Desain tersebut dibuat dengan berbagai komponen yang ada di CSS, seperti kotak-kotak dan <it>layout</it> yang fleksibel [4]. Kudo menerapkan pendekatan ini agar pengguna yang mengakses suatu <it>web</it> dapat melihat konten <it>web</it> tersebut dengan nyaman karena penempatan konten dan <it>layouting</it> <it>web</it> sudah sesuai dengan layar akses. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Tim <it>Technology</it> Kudo menggunakan <it>scrum</it> sebagai <it>software</it> <it>development</it> <it>life</it> <it>cycle.</it> Divisi <it>Web</it> <it>Developer</it> mengadakan <it>daily</it> <it>meeting</it> untuk membahas apa yang sudah dikerjakan, apa yang sedang dikerjakan, dan apa yang akan dikerjakan tiap individu. <it>Daily</it> <it>meeting</it> tersebut juga sebagai wadah untuk menyampaikan kesulitan individu agar dicari jalan keluarnya bersama. Setiap minggunya, tim <it>Technology</it> mengadakan <it>weekly</it> <it>meeting</it> yang fungsinya tidak jauh berbeda dengan <it>daily</it> <it>meeting</it> namun untuk tingkat keseluruhan <it>Technology.</it> Selain itu juga ada <it>weekly</it> <it>meeting</it> untuk tim FAQ dan <it>Feedback</it> dengan <it>Product</it> <it>Manager</it> untuk membahas perkembangan tim. Tim FAQ dan <it>Feedback</it> memiliki tahapan pengerjaan berupa <it>sprint</it> sebagai target proyek FAQ dan <it>Feedback.</it> <it>Sprint</it> pertama, tim FAQ dan <it>Feedback</it> melakukan perencanaan, seperti mencari <it>structure</it> <it>idea</it> yang baik dan melakukan <it>brainstorming</it> untuk FAQ dan <it>Feedback</it> serta CMS. <it>Sprint</it> kedua, tim mulai mengimplementasi halaman FAQ dan <it>Feedback.</it> <it>Sprint</it> ketiga, tim mulai mengimplementasi CMS untuk FAQ. Setelah <it>sprint</it> ketiga, tim melaksanakan <it>mid</it> <it>presentation</it> yang dihadiri oleh CEO, COO, <it>Head</it> <it>of</it> <it>Product,</it> dan <it>lead</it> divisi yang bersangkutan dengan proyek FAQ dan <it>Feedback.</it> Presentasi ini dilakukan untuk menyampaikan perkembangan yang telah tim kerjakan. Hasilnya diharapkan tim mendapatkan saran peserta presentasi agar proyek FAQ dan <it>Feedback</it> nantinya dapat bermanfaat dan sesuai dengan kebutuhan. Setelah <it>mid</it> <it>presentation,</it> tim melanjutkan <it>sprint</it> keempat, yaitu mengimplementasikan CMS untuk <it>Feedback.</it> Proyek diakhiri dengan <it>final</it> <it>presentation</it> yang dihadiri oleh CEO, COO, <it>Head</it> <it>of</it> <it>Product,</it> <it>lead</it> divisi seluruh tim <it>Technology,</it> dan perwakilan dari tim <it>Customer</it> <it>Service.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> <bo>dan</bo> <it><bo>Tools</bo></it></title>
+		<segment>
+			<bo>2.1.4.1.</bo> <bo>Bitbucket</bo> Bitbucket adalah sistem <it>version</it> <it>control</it> Git yang digunakan Kudo agar tim <it>Technology</it> dapat berkolaborasi dengan mudah [5]. Bitbucket menyediakan <it>repository</it> yang digunakan Kudo untuk setiap divisi dan produk. Selain kolaborasi, Bitbucket juga dapat digunakan untuk <it>code</it> <it>review.</it> <bo>2.1.4.2.</bo> <bo>SourceTree</bo> SourceTree dapat dibilang sebagai <it>tool</it> pendukung Bitbucket versi <it>desktop.</it> SourceTree mempermudah interaksi dengan Git dan lebih fokus dengan <it>repository</it> yang sedang dikerjakan [6]. Kudo menggunakan SourceTree agar lebih mudah mengelola dokumen dan <it>repository</it> yang sedang dalam pengerjaan. SourceTree juga mencatat riwayat perubahan dokumen, sehingga jika ada kesalahan dapat ditemukan dengan mudah. <bo>2.1.4.3.</bo> <bo>JIRA</bo> JIRA adalah <it>software</it> <it>development</it> <it>tool</it> yang dapat digunakan untuk mengelola suatu proyek atau fitur. Seluruh proyek atau fitur yang dikerjakan tim <it>Technology</it> Kudo dapat dikelola melalui JIRA, dari mulai perencanaan, pembuatan, <it>release,</it> sampai pemeliharaan [7]. Setiap proyek atau fitur dapat ditentukan siapa yang bertanggung jawab, kapan <it>deadline</it> atau tanggal <it>release,</it> dan <it>milestone</it> yang harus ditempuh proyek atau fitur tersebut. Di Kudo, JIRA juga digunakan pada saat pembuatan dan pemeliharaan untuk <it>bug</it> dan <it>issue</it> <it>tracking</it> tiap divisi dengan divisi <it>Quality</it> <it>Assurance.</it> <bo>2.1.4.4.</bo> <bo>Blisk</bo> Blisk adalah <it>browser</it> yang dapat digunakan <it>web</it> <it>developer</it> untuk melakukan <it>debugging</it> dan <it>testing.</it> Blisk mendukung beberapa tampilan <it>device</it> yang membantu visualisasi tampilan di berbagai <it>device.</it> Dengan Blisk juga dapat dilakukan perbandingan konten pada versi <it>mobile</it> dan <it>desktop</it> [8]. Kudo menggunakan Blisk untuk memastikan tampilan yang telah dibuat sesuai dengan <it>device</it> manapun. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			<bo>2.1.4.5.</bo> <bo>CKEditor</bo> <bo>dan</bo> <bo>CKFinder</bo> CKEditor adalah <it>text</it> <it>editor</it> berbasis <it>web</it> yang digunakan agar pengguna lebih mudah dalam mengatur konten suatu <it>website.</it> Sedangkan CKFinder adalah <it>ajax</it> <it>file</it> <it>manage</it> yang mempermudah untuk memasukkan dokumen dan gambar ke dalam konten yang dibuat dengan suatu <it>editor</it> [9]. Kudo menggunakan CKEditor yang diintegrasikan dengan CKFinder pada setiap halaman CMS. <bo>2.1.4.6.</bo> <bo>Slack</bo> Slack adalah <it>tool</it> yang digunakan sebagai alat komunikasi suatu tim. Slack digunakan Kudo baik untuk komunikasi keseluruhan Kudo, maupun komunikasi tiap divisi Kudo. Slack juga digunakan untuk komunikasi mengenai proyek atau fitur. Menggunakan Slack, komunikasi dapat fokus dan terarah karena Slack menyediakan fitur <it>channel.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<title><bo>2.1.5.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Seperti yang telah ditulis di atas, penulis ditempatkan di tim FAQ dan <it>Feedback</it> dan memiliki tanggung jawab dalam proyek FAQ dan <it>Feedback.</it> Proyek FAQ dan <it>Feedback</it> meliputi fitur FAQ dan <it>Feedback</it> pada Kudo <it>Mobile</it> <it>Agent</it> <it>Web</it> serta CMS untuk FAQ dan <it>Feedback.</it> Pada masa perencanaan, penulis dan tim mengumpulkan <it>structure</it> <it>idea</it> yang baik untuk halaman FAQ dan <it>Feedback.</it> Setelah mengumpulkan masing-masing ide, penulis dan tim melakukan <it>brainstorming</it> ide mana yang paling baik untuk diimplementasikan. Setelah mendapatkan garis besar <it>structure</it> <it>idea</it> yang baik untuk halaman FAQ dan <it>Feedback,</it> penulis dan tim berdiskusi dengan divisi UI/UX untuk pembuatan <it>mockup.</it> Sambil menunggu <it>mockup</it> dari divisi UI/UX, penulis dan tim mulai mengimplementasi halaman FAQ berdasarkan sketsa dari hasil diskusi tim dengan divisi UI/UX. Setelah halaman FAQ mulai terbentuk sesuai sketsa, penulis juga mengimplementasi halaman <it>Feedback.</it> Penulis lebih fokus mengimplementasi <it>front-</it> <it>end</it> atau tampilan dari halaman FAQ dan <it>Feedback,</it> seperti menu apa yang cocok digunakan. Implementasi halaman FAQ dan <it>Feedback</it> dibuat dengan menggunakan CSS dan MUI. Penulis juga sedikit menyentuh bagian <it>back-end,</it> seperti me-<it>retrieve</it> informasi yang diperlukan pada halaman FAQ dan <it>Feedback</it> dari <it>database.</it> Penulis dan tim lanjut mengimplementasi CMS untuk FAQ. Kudo menyediakan semacam <it>template</it> <it>front-end</it> untuk CMS agar sesuai dengan CMS Kudo yang sudah ada, namun belum terintegrasi dengan <it>back-end.</it> Jadi penulis juga mengerjakan bagian <it>back-end</it> dalam pembuatan CMS untuk FAQ ini. CMS untuk FAQ akan dibagi menjadi tiga halaman, yaitu halaman <it>Dashboard,</it> Topik, dan Pertanyaan. Penulis bertanggung jawab membuat <it>front-end</it> dan <it>back-end</it> halaman <it>dashboard</it> yang berisi informasi penting tentang FAQ. Penulis juga bertanggung jawab membuat <it>front-end</it> halaman Topik dan me-<it>retrieve</it> informasi yang diperlukan pada halaman Topik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			Ketika <it>mockup</it> FAQ dan <it>Feedback</it> dari divisi UI/UX selesai, penulis harus membagi waktu untuk mengerjakan tampilan FAQ dan <it>Feedback</it> untuk disesuaikan dengan <it>mockup</it> tersebut. Lalu tim FAQ dan <it>Feedback</it> melakukan <it>mid</it> <it>presentation</it> dan mendapatkan banyak saran dari peserta presentasi. Penulis dan tim sadar bahwa kurang memikirkan divisi lain yang mungkin terlibat pada proyek tersebut, seperti divisi Data, Android, dan CMS. Akhirnya penulis dan tim melakukan <it>requirement</it> <it>gathering</it> ulang ke divisi yang mungkin terlibat untuk memperkuat konsep. Setelah itu penulis dan tim melanjutkan implementasi CMS untuk <it>Feedback.</it> Fitur FAQ dan <it>Feedback</it> serta CMS untuk FAQ yang telah terimplementasi diuji oleh <it>Quality</it> <it>Assurance.</it> Jika ada <it>bug</it> atau <it>issue</it> yang ditemukan, <it>Quality</it> <it>Assurance</it> akan memberikan pemberitahuan melalui JIRA. Begitu juga saat implementasi CMS untuk <it>Feedback</it> selesai. Jadi sisa waktu setelah implementasi digunakan untuk memperbaiki <it>bug</it> atau <it>issue</it> yang ditemukan <it>Quality</it> <it>Assurance.</it> Sisa waktu juga digunakan penulis untuk mengubah sebagian kode CSS menjadi Sass. Tampilan halaman FAQ dan <it>Feedback</it> juga masih perlu disesuaikan dengan perubahan <it>mockup</it> terbaru. Penulis juga memperbaiki konsistensi tampilan pada CMS. Kegiatan yang paling akhir adalah penulis dan tim membuat dokumentasi pada kode dan laporan dokumentasi proyek FAQ dan <it>Feedback.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada bagian ini, penulis akan menganalisis tentang kesesuaian dan perbedaan kerja praktik dengan KAKP, kendala dalam kerja praktik, pembelajaran <it>softskill</it> dalam kerja praktik, penilaian individu terhadap tempat kerja praktik, serta relevansi dengan perkuliahan di Fasilkom UI. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Ruang lingkup kerja praktik yang telah dituliskan pada KAKP sesuai dengan pelaksanaan kerja praktik, yaitu melakukan perencanaan dan implementasi fitur FAQ dan <it>Feedback</it> pada Kudo <it>Mobile</it> <it>Agent</it> <it>Web</it> serta CMS untuk FAQ dan <it>Feedback.</it> Namun untuk rencana jadwal kerja praktik ada yang tidak sesuai dengan pelaksanaan kerja praktik. Dalam rencana yang dibuat, penulis melakukan perencanaan dan implementasi per fitur. Perencanaan dan implementasi fitur <it>Feedback</it> terlebih dahulu, kemudian perencanaan dan implementasi fitur FAQ, lalu yang terakhir perencanaan dan implementasi CMS untuk <it>Feedback.</it> Setiap fitur yang selesai diimplementasi, akan ada <it>alpha</it> dan <it>beta</it> <it>testing</it> oleh <it>Quality</it> <it>Assurance</it> baru lanjut ke fitur berikutnya. Namun pada pelaksanaannya, penulis melakukan perencanaan fitur FAQ dan <it>Feedback</it> serta CMS untuk FAQ dan <it>Feedback</it> terlebih dahulu secara berurut. Baru lanjut ke tahap implementasi tanpa adanya pengujian fitur yang telah selesai terlebih dahulu. Pengujian fitur FAQ dan <it>Feedback</it> serta CMS untuk FAQ dan <it>Feedback</it> dilakukan di akhir masa kerja praktik, setelah <it>final</it> <it>presentation.</it> Walaupun demikian, penulis dan tim berhasil memperbaiki sebagian besar <it>bug</it> dan <it>issue</it> yang ada. Perbedaan juga terdapat pada posisi penulis dengan pelaksanaan kerja praktik. Penulis mendapatkan posisi <it>Web</it> <it>Front-end</it> <it>Developer</it> <it>Intern.</it> Sesuai namanya, seharusnya penulis hanya terlibat dalam bagian <it>front-end</it> saja, namun penulis juga dituntut untuk ikut terlibat dalam bagian <it>back-end</it> dikarenakan <it>resource</it> tim FAQ dan <it>Feedback</it> yang terbatas. <it>Timeline</it> rencana kerja praktik juga berbeda dengan pelaksanaan kerja praktik, karena di Kudo terdapat banyak acara yang melibatkan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<segment>
+			<it>intern.</it> Namun karena waktu kerja di Kudo fleksibel, jadi penulis dan tim dapat mengatur waktu dengan mudah. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Kendala</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Kendala yang penulis hadapi selama kerja praktik bukanlah kendala besar yang tidak dapat diselesaikan. Salah satu kendala yang penulis alami adalah tidak terbiasa dalam penggunaan SourceTree. Setelah melakukan perubahan kode, penulis dan tim seharusnya melakukan <it>push,</it> <it>pull,</it> dan <it>merge</it> Git melalui SourceTree secepat mungkin. Hal tersebut dilakukan agar tidak banyak memunculkan <it>conflict.</it> Namun penulis dan tim belum terbiasa, sehingga ketika melakukan <it>push,</it> <it>pull,</it> dan <it>merge</it> Git melalui SourceTree banyak <it>conflict</it> dan <it>error</it> yang muncul. Untuk mengatasi <it>conflict</it> dan <it>error</it> tersebut kadang memakan waktu yang lama dan harus bertanya kepada mentor agar tidak salah menghapus atau mengganti dokumen yang terkena <it>conflict</it> atau <it>error.</it> Penulis juga menemukan kendala dalam mempelajari struktur Kudo <it>Mobile</it> <it>Agent</it> <it>Web</it> dan penyesuaian penulisan kode. Penulis harus membaca sumber kode yang telah ada agar dapat memahami struktur dan penulisan kode, namun penulis menemukan beberapa penulisan kode yang berbeda. Ternyata belum semua penulisan kode sesuai dengan standar penulisan kode di Kudo. Namun mentor telah memberikan sumber kode yang benar untuk standar penulisan kode. 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Pembelajaran</bo> <it><bo>Softskill</bo></it> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selain meningkatnya kemampuan teknis penulis, penulis merasa melalui kerja praktik ini <it>softskill</it> penulis juga meningkat. Kemampuan berkomunikasi dan bekerja dalam tim lebih meningkat. Hal ini dikarenakan hampir setiap hari penulis dituntut untuk berkomunikasi tidak hanya dengan tim, namun juga dengan divisi lain yang bersangkutan. Penulis juga dituntut untuk bertukar pikiran dengan anggota tim lain. Selain itu, kemampuan penulis dalam mengatur waktu juga meningkat. Dari mulai bekerja, bermain, bersosialisasi, sampai istirahat. Penulis merasa dapat mengatur waktu dengan baik selama kerja praktik sehingga tidak keteteran. Penulis juga merasa 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			lebih bertanggung jawab atas apa yang penulis kerjakan setelah melaksanakan kerja praktik ini. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<title><bo>2.2.4.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Kudo merupakan tempat kerja praktik pertama penulis. Pengalaman yang diberikan Kudo selama penulis kerja praktik sangat beragam dan bermakna. Dalam waktu tiga bulan, penulis sudah merasa mendapatkan banyak pembelajaran dan sudah merasa nyaman mengikuti kerja praktik di Kudo. Kudo merupakan tempat kerja yang sangat mendukung pegawainya. Hal tersebut dapat dilihat dari peraturan Kudo yang tidak menyulitkan pegawai, seperti jam masuk yang fleksibel. Pegawai juga dibebaskan untuk memilih kapan bekerja dan kapan istirahat atau bermain. Kudo juga menyediakan berbagai fasilitas yang menunjang kesenangan pegawainya, seperti adanya <it>gym</it> dan ruang rekreasi yang berisi mainan- mainan yang dapat menghibur pegawai yang sedang letih bekerja atau sekedar untuk bersosialisasi dengan pegawai lain. Penulis dapat merasa nyaman di Kudo karena sebagian besar pegawai Kudo dapat bersosialisasi dengan baik dan tidak ada pegawai yang membeda-bedakan. Semua pegawai bersosialisasi dengan siapa saja, termasuk dengan <it>intern.</it> Kudo juga menyelenggarakan berbagai kegiatan yang melibatkan semua pegawai Kudo, minimal tiga bulan sekali. Kegiatan seperti menonton bersama dan perayaan hari besar Indonesia juga diselenggarakan di Kudo. Hal ini dilakukan upaya meningkatkan kedekatan sesama pegawai. Dengan begitu, jika seorang pegawai sedang ada masalah, pegawai lain akan membantu walaupun berbeda divisi. Berbagai fasilitas dan kegiatan yang telah disediakan Kudo, dapat membuat kinerja pegawai meningkat. Penulis merasa tanggung jawab pegawai juga dapat meningkat. Jika suatu proyek atau fitur telah selesai, biasanya divisi yang bersangkutan akan makan-makan dalam rangka perayaan. Apabila proyek atau fitur tersebut terselesaikan dengan sangat baik, CEO dapat memberikan hadiah kepada yang bersangkutan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>18</pagenum>
+		<title><bo>2.2.5.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Dalam kerja praktik, penulis banyak menerapkan ilmu dan pengetahuan yang dipelajari melalui berbagai mata kuliah yang ada di Fasilkom UI. Pelaksanaan kerja praktik ini banyak menerapkan mata kuliah Rekayasa Perangkat Lunak (RPL), Proyek Pengembangan Web (PPW), Proyek Perangkat Lunak (PPL), dan Basis Data. Dalam pelaksanaan proyek FAQ dan <it>Feedback,</it> penulis dan tim menerapkan <it>scrum</it> sebagai <it>software</it> <it>development</it> <it>life</it> <it>cycle</it> seperti teori yang telah penulis pelajari dalam mata kuliah RPL. Ilmu dan pengetahuan dari mata kuliah PPW dan PPL juga banyak diterapkan penulis dalam mengimplementasi fitur FAQ dan <it>Feedback</it> serta CMS untuk FAQ dan <it>Feedback</it> secara keseluruhan. Penulis juga merancang <it>database</it> untuk FAQ dan <it>Feedback</it> dengan baik sesuai pengetahuan yang penulis dapat dari mata kuliah Basis Data. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>19</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik selama kurang lebih tiga bulan sebagai <it>Web</it> <it>Front-end</it> <it>Developer</it> <it>Intern</it> di Kudo. Selama kerja praktik, penulis dipercaya dalam tim FAQ dan <it>Feedback</it> dan bertanggung jawab atas implementasi fitur FAQ dan <it>Feedback</it> pada Kudo <it>Mobile</it> <it>App</it> <it>Web</it> serta CMS untuk FAQ dan <it>Feedback.</it> Dalam pelaksanaan kerja praktik, banyak teknologi dan <it>tools</it> baru yang penulis gunakan. Pada implementasi proyek FAQ dan <it>Feedback,</it> penulis juga banyak menerapkan ilmu yang didapat dari mata kuliah Fasilkom UI. Meskipun ada kendala yang ditemui penulis, namun kendala tersebut dapat terselesaikan dan tidak menjadi halangan dalam menyelesaikan proyek FAQ dan <it>Feedback</it> dengan baik. Selain itu, penulis banyak mendapatkan pengalaman baik dari segi teknis maupun <it>softskill</it> dari kerja praktik ini. Penulis merasa termotivasi dan nyaman saat melaksanakan kerja praktik ini. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, penulis mendapatkan banyak sekali manfaat dan pengalaman berharga yang menggambarkan bagaimana dunia kerja nantinya. Manfaat dan pengalaman tersebut tidak dapat didapatkan hanya di perkuliahan. Oleh karena itu, sangat disarankan untuk melaksanakan kerja praktik sebaik mungkin. Manfaatkan kesempatan tersebut untuk mendapatkan ilmu dan pengalaman sebanyak mungkin dari tempat kerja praktik. Lebih baik lagi jika posisi kerja praktik sudah merupakan posisi yang diinginkan saat bekerja nanti. Sehingga akan lebih termotivasi dalam pelaksanaannya. Tentunya dalam mencari posisi dan tempat kerja praktik yang diinginkan tidak dapat dibilang mudah. Sehingga persiapkan diri sebaik mungkin sebelum mulai mendaftar, baik kemampuan teknis maupun <it>softskill.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>20</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] <it>Apa</it> <it>Itu</it> <it>Kudo</it> <it>-</it> <it>Kudo.</it> (2016). <it>Kudo.</it> Retrieved 30 November 2016, from https://kudo.co.id/apa-itu-kudo [2] Leverenz, A. (2016). <it>The</it> <it>beginner’s</it>  <it>guide</it>  <it>to</it>  <it>Sass</it>  <it>|</it>  <it>Webdesigner</it>  <it>Depot.</it>  <it>Webdesigner</it> <it>Depot.</it> Retrieved 
+		</segment>
+		<pagenum>30</pagenum>
+		<segment>
+			November 2016, from http://www.webdesignerdepot.com/2013/11/the-beginners-guide-to-sass/ [3] <it>MUI</it> <it>-</it> <it>Material</it> <it>Design</it> <it>CSS</it> <it>Framework.</it> (2016). <it>Muicss.com.</it> Retrieved 30 November 2016, from https://www.muicss.com/ [4] Editorial, S. (2016). <it>Responsive</it> <it>Web</it> <it>Design:</it> <it>What</it> <it>It</it> <it>Is</it> <it>And</it> <it>How</it> <it>To</it> <it>Use</it> <it>It</it> <it>–</it>  <it>Smashing</it> <it>Magazine.</it> <it>Smashing</it> <it>Magazine.</it> Retrieved 30 November 2016, from https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web- design/ [5] <it>Bitbucket</it> <it>|</it> <it>The</it> <it>Git</it> <it>solution</it> <it>for</it> <it>professional</it> <it>teams.</it> (2016). <it>Bitbucket.</it> Retrieved 30 November 2016, from https://bitbucket.org/ [6] <it>SourceTree</it> <it>|</it> <it>Free</it> <it>Git</it> <it>and</it> <it>Hg</it> <it>Client</it> <it>for</it> <it>Mac</it> <it>and</it> <it>Windows.</it> (2016). <it>SourceTree.</it> Retrieved 30 November 2016, from https://www.sourcetreeapp.com/ [7] <it>JIRA</it> <it>Software</it> <it>-</it> <it>Issue</it> &amp; <it>Project</it> <it>Tracking</it> <it>for</it> <it>Software</it> <it>Teams</it> <it>|</it> <it>Atlassian.</it> (2016). <it>Atlassian.</it> Retrieved 
+		</segment>
+		<pagenum>30</pagenum>
+		<segment>
+			November 2016, from https://www.atlassian.com/software/jira [8] Team, B. (2016). <it>Download</it> <it>Blisk</it> <it>-</it> <it>a</it> <it>browser</it> <it>for</it> <it>web</it> <it>developers.</it> <it>Blisk.</it> Retrieved 30 November 2016, from https://blisk.io/ [9] Knabben, C. (2016). <it>FAQ.</it> <it>CKEditor.com.</it> Retrieved 30 November 2016, from http://ckeditor.com/support/faq/ckfinder 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>vii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

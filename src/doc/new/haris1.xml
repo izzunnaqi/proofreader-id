@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><it><bo>QUALITY</bo></it> <it><bo>ASSURANCE</bo></it> <it><bo>OF</bo></it> <it><bo>LIQUID</bo></it> <it><bo>PAY</bo></it> <it><bo>APPLICATION</bo></it> <it><bo>FOR</bo></it></title>
+		<title><it><bo>LIQUID</bo></it> <it><bo>GROUP</bo></it> <it><bo>PTE</bo></it> <it><bo>LTD</bo></it></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>HARIS</bo> <bo>ADI</bo> <bo>SAPUTRA</bo></title>
+		<segment>
+			<bo>1306396845</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Haris Adi Saputra : 1306396845 Program Studi : Sistem Informasi Judul Kerja Praktik : <it>Quality</it> <it>Assurance</it> <it>of</it> <it>Liquid</it> <it>Pay</it> <it>Application</it> <it>for</it> <it>Liquid</it> <it>Group</it> <it>Pte</it> <it>Ltd</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf,</bo> <bo>S.Kom.,</bo> <bo>M.I.S.</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik di Liquid Group Pte Ltd selama 7 minggu dari tanggal 15 Juni 2016 hingga 29 Juli 2016. Penulis tergabung dalam divisi pengembangan aplikasi <it>mobile</it> yang berada di departemen teknologi. Dalam pelaksanaan kerja praktik, penulis berperan sebagai <it>software</it> <it>quality</it> <it>assurance</it> untuk 2 aplikasi <it>mobile</it> yang saling berkaitan. yaitu Liquid Pay dan Liquid Merchant (selanjutnya disingkat menjadi Merchant). Penulis juga memberikan saran atau rekomendasi tentang hal-hal yang dapat diimplementasi perusahaan untuk meningkatkan kualitas aplikasi Liquid Pay dan Merchant berdasarkan <it>testing</it> yang dilakukan. Banyak pengetahuan yang diperoleh semasa kuliah, secara spesifik terkait mata kuliah Komunikasi Bisnis dan Teknis, Pengembangan dan Pemasaran Produk, Rekayasa Perangkat Lunak, dan Proyek Pengembangan Sistem Informasi yang membantu penulis dalam melaksanakan kerja praktik. Selain kemampuan teknis, kemampuan non teknis juga membantu penulis selama pelaksanaan kerja praktik, terutama kemampuan dalam memahami konsep yang relevan dengan aplikasi pembayaran <it>mobile</it> dan kemampuan dalam berkomunikasi dengan penyelia atau rekan kerja penulis. Kata Kunci : Kerja Praktik, Liquid Group Pte Ltd, <it>Quality</it> <it>Assurance,</it> Riset Pasar, <it>Testing</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 3</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 5</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 6</title>
+		<title>2.1.3. Metodologi ................................................................................................ 7</title>
+		<title>2.1.4. Teknologi .................................................................................................. 7</title>
+		<title>2.1.5. Non Teknis ................................................................................................ 8</title>
+		<title>2.1.6. Hasil Pekerjaan ......................................................................................... 9</title>
+		<title>2.2. Analisis .......................................................................................................... 10</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 10</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 12</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			BAB 3 PENUTUP...................................................................................................... 14 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 14</title>
+		<title>3.2. Saran .............................................................................................................. 14</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 16 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi Liquid Group Pte Ltd……………………………… 4  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Daftar Pengajuan Lamaran Kerja Praktik………………………………… 1  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			Lampiran 1. Kerangka Acuan Kerja Praktik Lampiran 2. Log Kerja Praktik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis melakukan pencarian tempat kerja praktik selama bulan Februari hingga bulan Juni tahun 2016. Penulis mulai mencari informasi mengenai <it>internship</it> di beberapa perusahaan melalui <it>browsing</it> di internet maupun bertanya kepada orangtua penulis, serta menyiapkan dokumen yang dibutuhkan, seperti <it>curriculum</it> <it>vitae,</it> <it>application</it> <it>letter,</it> dan transkrip nilai sementara hingga semester 6. Berikut ini adalah tabel 1.1. yang merupakan rincian pelamaran kerja praktik yang dilakukan penulis ke beberapa perusahaan. <bo>Tabel</bo> <bo>1.1.</bo> <bo>Daftar</bo> <bo>Pengajuan</bo> <bo>Lamaran</bo> <bo>Kerja</bo> <bo>Praktik</bo> No. Nama Perusahaan Sumber Informasi Status 1. Kantor Gubernur DKI Jakarta Internet Ditolak karena <it>slot</it> magang sudah penuh. 2. Bank Indonesia Orangtua Penulis Tidak mendapatkan respon. 3. PT. Jakarta Internasional Orangtua Penulis Diterima, tetapi Setiabudi Tbk. mengundurkan diri karena penulis memutuskan untuk melakukan kerja praktik di Liquid Group Pte Ltd. 4. Liquid Group Pte Ltd Orangtua Penulis Diterima dan dipilih penulis sebagai tempat pelaksanaan kerja praktik. 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			Pada awal bulan Maret 2016, penulis melakukan pencarian tempat kerja praktik melalui <it>internet</it> dan menemukan informasi magang di kantor Gubernur DKI Jakarta. Kemudian pada tanggal 19 Maret 2016, penulis mengajukan lamaran ke kantor tersebut melalui <it>e-mail</it> dengan mengirimkan berkas-berkas berupa <it>curriculum</it> <it>vitae,</it> <it>cover</it> <it>letter,</it> <it>resume,</it> dan transkrip nilai. Namun 4 hari kemudian, pihak panitia dari program magang kantor Gubernur memberikan respon terhadap <it>e-mail</it> penulis yang menyatakan bahwa lamaran penulis ditolak dikarenakan <it>slot</it> <it>magang</it> sudah penuh. Selanjutnya, pada akhir bulan Maret 2016, penulis mengajukan lamaran ke Bank Indonesia dengan memberikan berkas-berkas yang diperlukan ke orangtua penulis agar kemudian diberikan langsung kepada pihak Bank Indonesia yang memiliki koneksi dengan orangtua penulis. Namun, pihak Bank Indonesia itu tidak memberikan respon apapun kepada penulis maupun orangtua penulis walaupun 3 minggu telah berlalu, terhitung sejak penulis mulai mengajukan lamaran. Pada akhirnya, penulis berasumsi bahwa Bank Indonesia menolak lamarannya dan segera mencari tempat kerja praktik yang lain. Pada akhir bulan April 2016, penulis mengajukan lamaran ke PT. Jakarta Setiabudi Internasional Tbk. dengan memberikan berkas-berkas yang diperlukan ke orangtua penulis agar diberikan langsung kepada Bapak Natih Suputra, kepala departemen IT di PT. Jakarta Setiabudi Internasional Tbk. Kemudian, pada awal bulan Mei 2016, Bapak Natih meminta untuk bertemu langsung dengan penulis di perusahaan tempat dia bekerja itu. Hasil dari pertemuan itu adalah bahwa penulis dinyatakan diterima untuk melaksanakan kerja praktik di perusahaan tersebut. Namun, karena penulis masih memiliki keinginan untuk mencoba melamar perusahaan lain dan juga periode kerja praktik itu baru dimulai pada awal bulan Juli 2016, penulis memutuskan untuk tetap mencari tempat kerja praktik yang lain hingga akhir bulan Juni 2016. Selanjutnya, pada akhir bulan Mei 2016, penulis mengajukan lamaran ke Liquid Group Pte Ltd dengan mengirimkan <it>softcopy</it> berkas-berkas yang diperlukan ke <it>e-mail</it> Bapak Joko Waluyo, rekan dari CEO Liquid Group Pte Ltd yang memiliki koneksi dengan 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			orangtua penulis. Seminggu kemudian, Ibu Karen Cheong, kepala departemen sumberdaya manusia Liquid Group Pte Ltd, memberikan respon terhadap <it>e-mail</it> penulis yang menyatakan bahwa penulis diterima sebagai <it>intern</it> yang bekerja di bidang <it>quality</it> <it>assurance.</it> Setelah berdiskusi dengan orangtua penulis, akhirnya penulis memilih untuk melaksanakan kerja praktik di Liquid Group Pte Ltd dengan alasan utama yaitu ingin mendapatkan pengalaman kerja di luar negeri. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada subbab ini, akan dijelaskan profil dari tempat penulis melaksanakan kerja praktik yaitu Liquid Group Pte Ltd serta posisi penempatan penulis dalam perusahaan tersebut. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Liquid Group Pte Ltd adalah perusahaan yang bergerak di bidang aplikasi pembayaran <it>mobile.</it> Perusahaan ini merupakan anak perusahaan dari Korvac Holdings, yaitu suatu <it>investment</it> <it>holdings</it> yang didirikan pada tahun 1999. Liquid Group Pte Ltd memiliki visi dan misi untuk mengubah metode pembayaran secara mendunia untuk menurunkan <it>interchange</it> <it>fee,</it> menggantikan <it>Point-of-Sale</it> (POS) <it>terminals</it> dan mendukung metode pembayaran yang bersifat <it>cashier-less.</it> Liquid Group Pte Ltd percaya bahwa di masa depan, mekanisme pembayaran akan menggunakan <it>smartphone</it> sebagai pengganti dari kartu fisik (contohnya kartu debit) dan POS <it>terminals.</it> Untuk merealisasikan visi dan misi ini, Liquid Group Pte Ltd mengembangkan sebuah aplikasi <it>mobile</it> yang bernama Liquid Pay. Liquid Group Pte Ltd memiliki seorang CEO yang merupakan pemimpin dari perusahaan ini. CEO ini membawahi berbagai departemen seperti departemen inovasi produk, teknologi, dan pengembangan bisnis. Lebih lanjut, penulis melaksanakan kerja praktiknya pada divisi pengembangan aplikasi <it>mobile</it> yang berada dalam departemen teknologi. Gambar 1 berikut ini merupakan struktur organisasi Liquid Group Pte Ltd. 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<segment>
+			Gambar 1. Struktur Organisasi Liquid Group Pte Ltd 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Penulis ditempatkan pada divisi pengembangan aplikasi <it>mobile</it> yang ditandai dengan kotak berwarna merah pada Gambar 1. Divisi ini beranggotakan 6 orang (termasuk penulis) dan dipimpin oleh Koh Tze Min. Selain itu, divisi ini termasuk ke dalam departemen teknologi yang dipimpin oleh Matt Quinian. 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada subbab ini, penulis akan menjelaskan 6 hal utama. Pertama, penulis akan menjelaskan latar belakang pekerjaan yang penulis lakukan dan alasan penulis mengerjakan pekerjaan tersebut. Kemudian dalam bahasan tinjauan pustaka, akan dijelaskan definisi terkait hal-hal yang berkaitan dengan kerja praktik penulis. Selanjutnya, penulis akan menjelaskan segala hal terkait aspek teknologi dan non- teknis yang digunakan dalam melaksanakan kerja praktiknya. Terakhir, akan dijelaskan hasil pekerjaan terkait kerja praktik penulis. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Secara umum, berikut adalah pekerjaan yang dilakukan selama pelaksanaan kerja praktik penulis:   Mempelajari  hal-hal  terkait  aplikasi  pembayaran  <it>mobile</it>  secara  umum  dan  aplikasi Liquid Pay. Selain itu, penulis juga mempelajari rincian <it>testing</it> yang akan dilakukan dalam pelaksanaan kerja praktik serta JIRA <it>system</it> yang merupakan teknologi baru bagi penulis. Tujuan dilakukannya aktifitas ini adalah untuk mempersiapkan penulis terhadap riset pasar dan proses <it>testing</it> yang akan dilakukan.   Melakukan  riset  pasar  terkait  aplikasi  pembayaran  <it>mobile</it>  yang  ada  di  Indonesia. Tujuan dilakukannya aktifitas ini adalah untuk meningkatkan pengetahuan penulis mengenai aplikasi pembayaran <it>mobile</it> dan juga untuk menganalisa peluang dan tantangan pemasaran aplikasi Liquid Pay di Indonesia.   Membuat  <it>test</it>  <it>case</it>  dan  melakukan  <it>testing</it>  untuk  aplikasi  Liquid  Pay  serta  Liquid Merchant (selanjutnya disingkat menjadi Merchant) Android serta iOS versi 1.0 dan 2.0. Setelah itu, penulis mencatat hasilnya, menganalisa 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			perbedaan fitur atau flow antara versi Android dan iOS, dan kemudian mengidentifikasi <it>bugs</it> yang harus diperbaiki serta <it>improvements</it> yang dapat diimplementasi. Untuk aplikasi versi 1.0, dilakukan juga UAT bersama-sama dengan para pedagang makanan di Singapura. Tujuan dilakukannya aktifitas ini adalah untuk meningkatkan kualitas dari kedua aplikasi tersebut. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			  <it>Testing</it>  <it>Testing</it> adalah sekumpulan aktifitas pengujian suatu program yang bertujuan untuk menemukan <it>error</it> dalam program tersebut[1]. <it>Testing</it> ini dapat dilakukan secara <it>manual</it> ataupun dengan menggunakan <it>automated</it> <it>testing</it> <it>tool</it> seperti Selenium.   Liquid Pay dan Merchant  Liquid Pay adalah aplikasi pembayaran <it>mobile</it> berbasis QR code. Aplikasi ini memiliki saldo tersendiri yang dapat diisi ulang dengan menggunakan uang tunai maupun kartu debit atau kredit. Kemudian, aplikasi ini dapat digunakan untuk membayar <it>item</it> yang dibeli secara <it>online</it> maupun yang dibeli langsung di <it>store</it> pedagang. Liquid Pay berkaitan erat dengan Merchant, yaitu aplikasi yang digunakan oleh para pedagang dan bertujuan untuk memproses pembayaran yang dilakukan dari Liquid Pay. Selain itu, Merchant juga dapat memproses pengisian ulang saldo pengguna Liquid Pay yang ingin mengisi ulang dengan menggunakan uang tunai. Selanjutnya, terdapat 2 versi aplikasi (untuk Liquid Pay dan Merchant) yang terkait dengan kerja praktik penulis, yaitu versi 1.0 dan 2.0. Adapun perbedaannya adalah aplikasi versi 2.0 merupakan penyempurnaan dari aplikasi versi 1.0 dan juga memiliki fitur baru seperti pembayaran <it>item</it> yang dibeli secara <it>online.</it>   JIRA <it>System</it> (selanjutnya disingkat menjadi JIRA)  JIRA adalah <it>tool</it> yang dikembangkan sebuah perusahaan Australia yang bernama Atlassian[2]. Fitur utama yang dimiliki <it>tool</it> ini adalah <it>bug</it> <it>and</it> <it>issue</it> 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			<it>tracking</it> serta berbagai fungsi terkait manajemen proyek[3]. Liquid Group Pte Ltd menggunakan <it>tool</it> ini terutama untuk melaporkan <it>bug</it> yang ditemukan dan membuat suatu <it>change</it> <it>request</it> tertentu. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Dalam pengembangan aplikasi Liquid Pay dan Merchant, Liquid Group Pte Ltd menggunakan metodologi <it>agile,</it> dimana perusahaan mengembangkan fitur baru secara berkala dan tim pengembang langsung menggarap <it>feedback</it> atau <it>change</it> <it>request</it> yang ada. Dalam kerja praktik ini, penulis terlibat dalam fase <it>testing</it> untuk aplikasi versi 1.0 dan 2.0. Lebih lanjut, <it>testing</it> ini dilakukan dengan metode <it>manual</it> dan tidak menggunakan <it>automated</it> <it>testing</it> <it>tool</it> tertentu. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, penulis menggunakan teknologi/aplikasi sebagai berikut:   Microsoft Office (Word, Excel, Powerpoint, dan Outlook)  <it>Software</it> ini merupakan salah satu <it>tools</it> utama yang digunakan penulis dalam melaksanakan kerja praktiknya. Secara spesifik, Microsoft Word digunakan penulis untuk membuat dokumen terkait perbedaan <it>flow</it> antara 2 aplikasi yang diuji yaitu Liquid Pay dan Merchant, serta dokumen terkait <it>bugs</it> dan <it>improvements</it> yang diidentifikasi penulis. Kemudian, Microsoft Excel digunakan penulis untuk membuat <it>test</it> <it>case</it> dan UAT terkait aplikasi yang akan diuji. Selanjutnya, Microsoft Powerpoint digunakan penulis terutama dalam melakukan riset pasar terkait aplikasi pembayaran <it>mobile</it> yang ada di Indonesia. Terakhir, Microsoft Outlook digunakan penulis sebagai salah satu media komunikasi (untuk mengirim dan menerima <it>e-mail)</it> dengan penyelia dan rekan kerja selama proses kerja praktik berlangsung.   Skype for Business  
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Aplikasi ini digunakan penulis untuk berkomunikasi (mengirim dan menerima pesan tertulis) dengan penyelia dan <it>project</it> <it>manager</it> terkait aplikasi Liquid Pay dan Merchant.   <it>Internet</it> <it>Browser</it> Aplikasi ini digunakan penulis terutama untuk mencari informasi terkait riset pasar yang dilakukan dalam pelaksanaan kerja praktik.   Paint dan Aplikasi <it>Image</it> <it>Viewer</it>  Aplikasi ini digunakan terutama untuk memproses <it>screenshot</it> gambar-gambar yang relevan dengan riset pasar yang dilakukan penulis.   <it>Smartphone</it> Android dan iOS  <it>Smartphone</it> ini merupakan salah satu teknologi yang paling penting, karena digunakan untuk melakukan <it>testing</it> aplikasi Liquid Pay dan Merchant. Dalam pelaksanaan kerja praktik, penulis dapat menggunakan <it>smartphone</it> yang dimilikinya atau <it>smartphone</it> yang telah disediakan perusahaan untuk melakukan proses <it>testing.</it> 
+		</segment>
+		<title>  JIRA </title>
+		<segment>
+			<it>Tool</it> ini digunakan oleh penulis untuk melaporkan <it>bugs</it> dan <it>improvements</it> yang diidentifikasi penulis agar segera digarap oleh tim pengembang perusahaan. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<segment>
+			Terdapat 2 kemampuan non teknis yang penting agar penulis dapat melaksanakan kerja praktiknya dengan baik. Kemampuan pertama yaitu kemampuan dalam memahami konsep aplikasi pembayaran <it>mobile</it> secara umum, aplikasi Liquid Pay dan Merchant, serta sampel situs yang digunakan dalam proses <it>testing.</it> Secara spesifik, penulis harus mengetahui tujuan dari aplikasi tersebut, cara mereka bekerja, dan bagaimana keterkaitan antara satu aplikasi dengan aplikasi yang lain. pemahaman ini sangat penting dalam riset pasar serta <it>testing</it> yang dilakukan agar penulis mengetahui dengan tepat riset seperti apakah yang diharapkan perusahaan, dan juga tahap-tahap yang harus dilakukan dalam proses <it>testing.</it> 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			Kemudian, kemampuan yang kedua terkait dengan komunikasi dengan seluruh rekan kerja dalam perusahaan. Hal ini sangat penting agar penulis dapat mengetahui dengan tepat rincian aktifitas yang harus dilakukan selama pelaksanaan kerja praktik. Selain itu, kemampuan komunikasi tersebut juga penting untuk menjelaskan hasil riset pasar dan <it>testing</it> yang dilakukan penulis, dan juga menjelaskan hal-hal yang dianggap kurang jelas oleh penyelia atau rekan kerja penulis. 
+		</segment>
+		<title><bo>2.1.6.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, hasil pekerjaan yang dibuat penulis untuk perusahaan adalah sebagai berikut:   Dokumen  <it>powerpoint</it>  riset  pasar  terkait  aplikasi  pembayaran  yang  ada  di  Indonesia saat ini. Secara spesifik, dokumen ini memiliki <it>outline</it> konten sebagai berikut: o Profil dari aplikasi tersebut o Teknologi yang digunakan dan servis/fitur yang diberikan o Pedagang-pedagang yang menggunakan aplikasi tersebut o <it>Flow</it> dari aplikasi pembayaran itu, termasuk didalamnya <it>screenshot</it> cara menggunakan aplikasinya o Tabel perbandingan aplikasi pembayaran yang telah dijelaskan penulis sebelumnya   Dokumen <it>excel</it> mengenai <it>test</it> <it>case</it> serta UAT untuk aplikasi Liquid Pay serta  Merchant Android dan iOS versi 1.0 dan 2.0   Dokumen <it>word</it> mengenai perbedaan <it>flow</it> aplikasi Liquid Pay serta Merchant  Android dan iOS untuk versi 1.0 dan 2.0   <it>Bugs</it>  yang  ditemukan  serta  <it>improvements</it>  yang  disarankan  penulis  untuk  aplikasi Liquid Pay serta Merchant Android dan iOS versi 1.0 dan 2.0. Hasil pekerjaan ini berupa dokumen <it>word</it> dan juga <it>thread</it> penulis dalam JIRA yang dimiliki Liquid Group Pte Ltd   Dokumen  UAT  untuk  aplikasi  Liquid  Pay  serta  Merchant  Android  dan  iOS  versi 1.0 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			Secara umum, dokumen <it>test</it> <it>case</it> dan UAT yang dibuat penulis tidak jauh berbeda dengan dokumen <it>testing</it> yang penulis buat dalam mata kuliah Proyek Pengembangan Sistem Informasi. Dokumen ini memiliki <it>outline</it> konten sebagai berikut:   Nama fitur yang akan dilakukan <it>testing</it> serta tanggal pelaksanaannya    Tujuan <it>testing</it> yang ingin dicapai    Tahap <it>testing</it> yang dilakukan    Hasil <it>testing</it> yang diharapkan    Hasil <it>testing</it> sebenarnya    Hasil  akhir  <it>testing</it>  yang  dilakukan  (Membandingkan  kesesuaian  antara  hasil  sebenarnya dengan hasil yang diharapkan)   Komentar <it>tester</it> terkait <it>testing</it> yang dilakukan (jika ada)  Karena hasil pekerjaan diatas merupakan dokumen yang bersifat <it>confidential,</it> penulis tidak dapat memberikan sampelnya dalam laporan ini. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada subbab ini, penulis akan menjelaskan 4 hal utama. Pertama, akan dijelaskan mengenai kesesuaian dan perbedaan antara pelaksanaan kerja praktik yang sebenarnya dengan aktifitas yang tertulis dalam KAKP. Kemudian, penulis akan menjelaskan segala kendala yang dialami selama pelaksanaan kerja praktik dan cara menanganinya. Selanjutnya, penulis akan memberikan penilaiannya terhadap perusahaan tempat penulis melaksanakan kerja praktik. Terakhir, akan dijelaskan mengenai kesesuaian dan perbedaan pengetahuan yang dipelajari di kuliah dengan tempat kerja praktik. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Secara keseluruhan, kerja praktik yang dilakukan penulis berjalan sesuai dengan KAKP yang ada. Proses kerja praktik dimulai dan berakhir pada tanggal yang telah ditetapkan di KAKP, dan aktifitas yang dilakukan juga sesuai dengan aktifitas yang tertulis di KAKP. Masalah yang ada hanyalah pada pada minggu pertama kerja praktik dan <it>draft</it> KAKP versi pertama, dimana terdapat 2 penyelia yang tertulis di KAKP yaitu Koh Tze Min dan Alex Lew. Hal ini terjadi karena saat itu memang masih belum jelas 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			siapakah yang bersedia untuk membimbing penulis dalam melaksanakan kerja praktiknya. Namun, setelah penulis berdiskusi dengan Ibu Karen Cheong, diputuskan bahwa penyelia yang akan membimbing penulis adalah Koh Tze Min. Dengan adanya keputusan ini, penulis dapat merevisi KAKP penulis dan proses kerja praktiknya dapat berlangsung dengan baik. Selama pelaksanaan kerja praktik, penulis menghadapi beberapa kendala yang tidak terlalu signifikan karena penulis dengan cepat bisa mempelajarinya. Kendala pertama yaitu penulis belum pernah terlibat secara langsung ke dalam sebuah proyek aplikasi (selain proyek yang dilakukan dalam mata kuliah Proyek Pengembangan Sistem Informasi). Hal ini membuat penulis sedikit bingung ketika ingin memulai <it>testing</it> modul/fitur yang dimiliki aplikasi. Namun, setelah berkomunikasi dengan tim pengembang dan penyelia, penulis dengan cepat belajar hal-hal apa saja yang seharusnya dilakukan pada tahap <it>testing.</it> Kendala yang kedua yaitu terkait penyelia yang terkadang tidak berada di tempat sehingga penulis bingung untuk bertanya atau meminta bantuan. Penyelia tidak selalu berada ditempat dikarenakan berbagai alasan, salah satunya kesibukan terkait pekerjaan di luar kantor atau cuti. Solusinya adalah penulis bertanya kepada anggota divisi pengembangan aplikasi <it>mobile</it> yang lain. Menjalankan kerja praktik di Liquid Group Pte Ltd adalah pengalaman yang sangat berguna sekaligus menyenangkan. Suasana kerja yang kondusif dan fleksibel membuat penulis menjadi nyaman bekerja dan tidak merasa kaku atau tertekan. Suasana kondusif ini ditunjukkan dengan adanya sarana yang memadai, seperti ruangan ber-AC, tempat duduk dan meja kerja yang nyaman, dan koneksi internet yang cepat. Selain itu, secara umum, seluruh orang yang tergabung dalam Liquid Group Pte Ltd secara umum mudah ditemui dan bersedia untuk membantu penulis walaupun mereka sedang sangat sibuk. Terutama penyelia yang aktif dalam memberikan informasi dan bimbingan (ketika sedang berada di kantor), serta masukan yang dibutuhkan penulis dalam mengerjakan setiap tugas. Penyelia juga seringkali memastikan penulis untuk tidak malu bertanya, dan memberikan penulis rekognisi serta apresiasi sederhana dengan berterima kasih ketika penulis selesai mengerjakan tugas. Penulis sangat menikmati keseharian dalam 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			melakukan kerja praktik ini karena penulis diperlakukan dengan sangat baik dan lingkungan kerja praktik memberikan penulis banyak pengetahuan tentang penggunaan teknologi informasi dalam dunia <it>mobile</it> <it>payment</it> dan mendukung penulis untuk selalu bekerja secara produktif dan lebih bersemangat lagi. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, terdapat beberapa mata kuliah yang mendukung penulis dalam kegiatan tersebut. Adapun mata kuliah yang mendukung antara lain Komunikasi Bisnis dan Teknis, Pengembangan dan Pemasaran Produk, Rekayasa Perangkat Lunak, dan Proyek Pengembangan Sistem Informasi. Berikut merupakan penjelasan mengenai kesesuaian dan perbedaan pengetahuan mata kuliah tersebut.   Komunikasi Bisnis dan Teknis  Dalam mata kuliah ini, penulis belajar untuk berkomunikasi secara sopan dan professional, baik secara lisan maupun non lisan. Pengetahuan ini saat bermanfaat ketika ingin mengirimkan <it>e-mail</it> ataupun ketika ingin berdiskusi dengan rekan pegawai. Namun, terdapat sedikit perbedaan dengan pelaksanaan kerja praktik penulis, yaitu terkait bahasa komunikasi yang digunakan. Dalam pelaksanaan mata kuliah Komunikasi Bisnis dan Teknis, bahasa pengantar yang digunakan adalah Bahasa Indonesia, sedangkan saat penulis melaksanakan kerja praktik, bahasa yang digunakan untuk berkomunikasi adalah Bahasa Inggris.   Pengembangan dan Pemasaran Produk  Dalam mata kuliah ini, penulis belajar mengenai tahap-tahap dalam melakukan riset pasar yang baik dan benar. Pengetahuan ini digunakan penulis dalam melakukan riset pasar di minggu pertama pelaksanaan kerja praktik. Perbedaan yang ada ialah pada kedetilan proses riset pasar itu. Pada pelaksanaan kerja praktik, penulis tidak melakukan semua tahap riset pasar yang diajarkan selama perkuliahan karena fokus utama kerja praktik penulis bukan pada riset pasar, namun pada proses <it>testing</it> aplikasi <it>mobile.</it> 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			  Rekayasa Perangkat Lunak  Dalam mata kuliah ini, penulis belajar mengenai <it>System</it> <it>Development</it> <it>Life</it> <it>Cycle</it> (SDLC), jenis-jenis diagram dan pengujian dalam pengembangan sistem. Pada saat pelaksanaan kerja praktik, penulis menjadi lebih paham mengenai latar belakang <it>testing</it> dan hal-hal lain yang berkaitan dengan <it>testing.</it> Perbedaan yang ada adalah pada masa perkuliahan, penulis diajarkan SDLC dari fase awal hingga fase akhir, sedangkan pada pelaksanaan kerja praktik penulis hanya melakukan fase <it>testing</it> saja.   Proyek Pengembangan Sistem Informasi  Melalui mata kuliah ini, penulis memiliki pengalaman dalam melakukan testing dan merancang dokumennya. Pengalaman ini digunakan oleh penulis dalam melakukan proses <it>testing</it> pada saat pelaksanaan kerja praktik, Namun demikian, terdapat perbedaan antara pelaksanaan mata kuliah ini dan kerja praktik, yaitu terkait dengan kedetilan dokumen testing. Pada mata kuliah ini, semua dokumen terkait <it>testing</it> dibuat agar sedetil mungkin dan mengikuti diagram yang terkait seperti <it>sequence</it> <it>diagram.</it> Sedangkan ketika penulis melakukan kerja praktik hal tersebut tidak dilakukan karena preferensi penyelia agar dokumen <it>testing</it> singkat namun tetap jelas. 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Setelah melaksanakan kerja praktik selama kurang lebih 7 minggu, kesimpulan yang penulis dapatkan adalah sebagai berikut:   Proses pencarian hingga penerimaan kerja praktik berlangsung cukup lancar,  walaupun terdapat penolakan dan ketidakjelasan respon dari perusahaan sebelum akhirnya penulis diterima untuk melaksanakan kerja praktik di Liquid Group Pte Ltd sebagai <it>intern</it> yang bekerja di bidang <it>Quality</it> <it>Assurance.</it>   Selama  pelaksanaan  kerja  praktik,  penulis  tergabung dalam divisi pengembangan aplikasi <it>mobile</it> yang berada di departemen teknologi   Pekerjaan yang dilakukan penulis selama pelaksanaan kerja praktik adalah riset  pasar terkait aplikasi pembayaran <it>mobile</it> di Indonesia serta membuat <it>test</it> <it>case</it> dan melakukan <it>testing</it> untuk aplikasi Liquid Pay dan Merchant Android dan iOS   Terdapat  beberapa  kendala  selama  pelaksanaan  kerja  praktik,  namun  penulis  dapat mengatasinya dengan baik dan cepat   Aktifitas  yang  dilakukan  penulis  selama  pelaksanaan  kerja  praktik  sesuai  dengan aktifitas yang tertulis dalam KAKP   Penulis berhasil menyelesaikan kerja praktik selama 7 minggu dari tanggal 15  Juni 2016 sampai 29 Juli 2016   Menjalankan  kerja  praktik  di  Liquid  Group  Pte  Ltd  merupakan  pengalaman  yang berguna dan menyenangkan 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Untuk tempat kerja praktik, saran dari penulis adalah agar mempersiapkan penyelia yang akan membimbing <it>intern</it> sebelum kerja praktik dimulai. Hal ini penting mengingat pada minggu pertama pelaksanaan kerja praktik, terdapat 2 penyelia yang 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<segment>
+			di-<it>assign</it> dalam <it>draft</it> KAKP penulis. Ketidakjelasan penyelia yang di-<it>assign</it> ini dapat memperlambat proses persetujuan KAKP dari fakultas dan juga memperlambat pelaksanaan kerja praktik secara keseluruhan. Untuk fakultas, penulis memiliki saran agar fakultas mempercepat proses pemeriksaan KAKP karena penulis merasa proses tersebut berjalan cukup lama dan ada beberapa KAKP milik peserta kerja praktik selain penulis yang tidak diperiksa hingga akhir masa kerja praktik mereka. Penulis juga menyarankan agar dokumen terkait lembar penilaian dirilis lebih cepat. Hal ini akan sangat membantu peserta kerja praktik, terutama bagi peserta yang melaksanakan kerja praktik di luar negeri, dalam meminta penilaian ke penyelia sebelum masa kerja praktiknya berakhir. 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] Pressman, R. (2016). <it>Software</it> <it>Engineering:</it> <it>A</it> <it>Practitioner's</it> <it>Approach.</it> 7th ed. New York: McGraw-Hill Higher Education. [2] Guru99.com. (2016). <it>JIRA</it> <it>Tutorial:</it> <it>A</it> <it>Complete</it> <it>Guide</it> <it>for</it> <it>Beginners.</it> [online] Available at: http://www.guru99.com/jira-tutorial-a-complete-guide-for- beginners.html [Accessed 30 Sep. 2016]. [3] Atlassian. (2016). <it>JIRA</it> <it>Software</it> <it>-</it> <it>Features</it> <it>|</it> <it>Atlassian.</it> [online] Available at: https://www.atlassian.com/software/jira/features [Accessed 30 Sep. 2016]. 
+		</segment>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

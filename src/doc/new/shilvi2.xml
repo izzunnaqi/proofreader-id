@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>BUSINESS</bo> <bo>INTELLIGENCE:</bo> <bo>ETL,</bo> <bo>NLP</bo> <bo>ANALYSIS,</bo> <bo>DATA</bo> &amp; 
+		</segment>
+		<title><bo>MAPPING</bo> <bo>VISUALIZATIONS,</bo> <bo>BUSINESS</bo> <bo>AUTOMATIONS</bo> <bo>AND</bo></title>
+		<title><bo>FRAUD</bo> <bo>ANALYSIS</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>SHILVIA</bo> <bo>LESMINA</bo> <bo>BR</bo> <bo>SILALAHI</bo></title>
+		<segment>
+			<bo>1306383054</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Shilvia Lesmina Br Silalahi : 1306383054 Program Studi : Sistem Informasi Judul Kerja Praktik : <it>Business</it> <it>Intelligence:</it> <it>ETL,</it> <it>NLP</it> <it>Anaysis,</it> <it>Data</it> &amp; <it>Mapping</it> <it>Visualizations,</it> <it>Business</it> <it>Automation</it> <it>and</it> <it>Sentiment</it> <it>Analysis</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.A.,</bo> <bo>M.Sc.</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja Praktik merupakan salah satu mata kuliah wajib untuk mahasiswa Fasilkom UI. Adapun penulisan laporan Kerja Praktik ini merupakan salah satu syarat kelulusan pada mata kuliah ini. Pada laporan ini terdapat penjelasan mengenai Kerja Praktik yang dilakukan oleh pelaksana KP selama sepuluh minggu terhitung mulai Juni 2016 sampai dengan Agustus 2016 di PT GO-JEK Indonesia. Penulis ditempatkan dalam divisi <it>Business</it> <it>Intelligence</it> sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> dengan Crystal Widjaja sebagai Penyelia dan berperan sebagai <it>Vice</it> <it>President</it> <it>Business</it> <it>Intelligence.</it> Selama Kerja Praktik, tim <it>Intern</it> bertanggung jawab untuk melakukan beberapa analisis terhadap data, melakukan <it>data</it> <it>mapping</it> <it>and</it> <it>visualization</it> dan <it>Natural</it> <it>Language</it> <it>Processing</it> (NLP) <it>analysis.</it> Dalam menjalani Kerja Praktik, penulis mendapat banyak pengalaman dan pengetahuan yang baru sebagai <it>Business</it> <it>Intelligence</it> di sebuah <it>Start-</it> <it>up.</it> Kata kunci: <it>Business</it> <it>Intelligence,</it> Kerja Praktik, GO-JEK 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 5</title>
+		<title>2.1.3. Metodologi ................................................................................................ 6</title>
+		<title>2.1.4. Teknologi .................................................................................................. 6</title>
+		<title>2.1.5. Issues dan Deliverables ............................................................................. 7</title>
+		<title>2.2. Analisis .......................................................................................................... 11</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 11</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 12</title>
+		<title>2.2.3. Pembelajaran Soft Skill selama Kerja Praktik ........................................ 13</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>2.2.4. Penilaian terhadap Tempat Kerja Praktik ............................................... 14</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 16 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 16</title>
+		<title>3.2. Saran .............................................................................................................. 17</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 18 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi PT GO-JEK Indonesia ................................................ 3 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Pelaksana KP yang Terlibat dalam Pengerjaan Issues .................................. 10 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<segment>
+			[Daftar Lampiran, ditulis serupa dengan daftar isi] 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Awal proses pencarian tempat untuk melaksanakan Kerja Praktik (KP) pelaksana KP laksanakan pada bulan Maret. Pelaksana KP awalnya berdiskusi dengan beberapa senior mengenai tempat yang tepat untuk melaksanakan KP. Setelah berdiskusi, pelaksana KP akhirnya menyusun daftar tempat KP yang memungkinkan untuk pelaksana KP lamar. Dari daftar yang sudah disusun, pelaksana KP memutuskan untuk mengajukan permohonan KP ke Global Digital Prima (GDP) terlebih dahulu. GDP merupakan unit usaha grup Djarum yang fokus pada bisnis internet konsumen. Alasan pelaksana KP memilih GDP adalah karena saat itu GDP menawarkan posisi sebagai <it>Product</it> <it>Manager.</it> Posisi ini sangat berkaitan dengan mata kuliah yang sudah pelaksana KP ambil pada perkuliahan di Fasilkom, yaitu Manajemen Proyek sehingga pelaksana KP merasa tertarik untuk mengaplikasikan ilmu dari mata kuliah tersebut. Selain itu, GDP juga merupakan tempat KP yang direkomendasikan oleh senior karena kenyamanan yang diberikan pada saat melakukan KP. Namun, posisi sebagai <it>Product</it> <it>Manager</it> telah terisi penuh menurut <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) dari GDP. Tempat kedua yang pelaksana KP pilih adalah Neo Fusion. Perusahaan ini merupakan perusahaan yang berperan sebagai <it>Software</it> <it>Developer</it> khususnya untuk industri telekomunikasi. Pelaksana KP melamar sebagai <it>Data</it> <it>Analyst</it> dan melewati dua tahapan seleksi yaitu tes tertulis dan wawancara. Setelah melalui tahapan seleksi, pelaksana KP harus menunggu beberapa hari untuk mengetahui hasil tes. Selain Neo Fusion, pelaksana KP juga mendaftar di PT GO-JEK Indonesia (selanjutnya ditulis GO-JEK) sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> dalam waktu yang bersamaan. Pelaksana KP mendapatkan informasi mengenai lowongan KP di GO-JEK saat pelaksana KP mengikuti perkuliahan <it>Business</it> <it>Intelligence</it> yang menghadirkan dosen 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			tamu dari GOJEK. Setelah mendaftarkan diri, pelaksana KP dipanggil untuk melakukan wawancara. Di hari yang sama pelaksana KP dinyatakan diterima sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> di perusahaan tersebut. Pelaksana KP akhirnya memutuskan memilih GO-JEK sebagai tempat melaksanakan KP dan tidak melanjutkan proses penerimaan di perusahaan Neo Fusion karena pelaksana KP sudah terlebih dahulu diterima GO-JEK. Selain itu, alasan pelaksana KP memilih GOJEK karena memberikan kesempatan pelaksana KP belajar di divisi <it>Business</it> <it>Intelligence.</it> Pelaksana KP merasa ini cukup menarik karena pelaksana KP sudah terlebih dahulu belajar mengenai <it>business</it> <it>intelligence</it> di perkuliahan. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bagian ini akan dijelaskan profil dari GO-JEK sebagai tempat melaksanakan KP dan posisi penempatan pelaksana KP di GO-JEK. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			GO-JEK merupakan perusahaan yang bergerak pada bidang transportasi yang berbasis <it>mobile</it> <it>technology</it> dan bertujuan untuk meningkatkan kesejahteraan pekerja pada sektor informal di Indonesia. GO-JEK didirikan pada tahun 2010 dan saat ini sudah resmi beroperasi di sepuluh kota besar di Indonesia, yaitu Jakarta, Bandung, Bali, Surabaya, Makassar, Yogyakarta, Medan, Semarang, Palembang, dan Balikpapan dengan rencana pengembangan di kota-kota lainnya pada tahun mendatang. Selain itu, GO-JEK juga memiliki empat belas jenis layanan yang dapat digunakan oleh pengguna, yaitu GO-RIDE, GO-CAR, GO-FOOD, GO-SEND, GO-MART, GO-BOX, 
+		</segment>
+		<title>GO-MASSAGE, GO-CLEAN, GO-GLAM, GO-TIX, GO-BUSWAY, GO-PAY, GO-</title>
+		<segment>
+			MED dan GO-AUTO. Saat ini, GO-JEK dipimpin oleh seorang CEO yaitu Nadiem Makarim. CEO juga dibantu oleh CFO, CIO, CCO, CMO, CHRO, COO, dan CTO dalam memimpin perusahaan dengan bertanggung jawab terhadap divisi tertentu. Misalnya divisi <it>Business</it> <it>Intelligence</it> yang dibawahi oleh CIO. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<segment>
+			Berikut merupakan struktur organisasi dari GO-JEK. 
+		</segment>
+		<pagenum>3</pagenum>
+		<segment>
+			Gambar 1. Struktur Organisasi PT GO-JEK Indonesia 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Dalam menjalani KP, pelaksana KP ditempatkan pada posisi <it>Business</it> <it>Intelligence</it> <it>Intern.</it> Posisi ini berada dalam divisi <it>Business</it> <it>Intelligence</it> (BI). Divisi ini dipimpin oleh seorang <it>Vice</it> <it>President</it> (VP) dari BI yang bernama Crystal Widjaja. Beliau juga berperan sebagai penyelia bagi setiap pelaksana KP di divisi tersebut. Divisi BI sendiri berada dibawah pengawasan <it>Chief</it> <it>Information</it> <it>Officer</it> (CIO). 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama pelaksanaan KP di GO-JEK, pelaksana KP bersama lima orang pelaksana KP lainnya tergabung dalam <it>Business</it> <it>Intelligence</it> <it>Intern.</it> Para pelaksana KP mendapat tugas berupa pengerjaan empat puluh <it>issues</it> yang tercatat pada <it>project</it> <it>management</it> <it>tools</it> JIRA. <it>Issues</it> merupakan istilah yang menggambarkan suatu kegiatan. <it>Issues</it> dapat berupa proyek atau <it>task.</it> Proyek merupakan tugas dengan <it>scope</it> yang lebih besar dari <it>task</it> dan dapat memuat beberapa <it>task</it> di dalamnya. <it>Issues</it> yang ada telah ditetapkan oleh penyelia dari awal pelaksanaan KP dan dalam pengerjaannya pelaksana KP mendapatkan bantuan dari anggota divisi BI yang lain. Selain itu, untuk mengerjakan tugas tersebut pelaksana KP juga akan berhubungan dengan unit bisnis yang lain. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			GO-JEK merupakan perusahaan dengan transaksi mencapai jutaan dalam satu hari. Data-data dari transaksi tersebut dapat digunakan untuk membantu proses pengambilan keputusan terkait bisnis. Oleh sebab itu, diperlukan satu divisi yang secara khusus mengelola data hasil transaksi tersebut. Di GO-JEK divisi tersebut disebut dengan divisi <it>Business</it> <it>Intelligence</it> (BI). Pada dasarnya, BI bertanggung jawab untuk memberikan laporan, memberikan saran berdasarkan hasil analisis data, dan menampilkan data agar mudah dibaca oleh unit bisnis yang berkaitan seperti <it>dashboard.</it> Laporan yang dihasilkan oleh divisi BI dapat berupa analisis tren saat ini, jumlah transaksi dalam kurun waktu tertentu dan analisis kompetitor. Berdasarkan laporan tersebut, divisi BI memberikan saran yang dapat dipertimbangkan untuk keperluan bisnis. Sama halnya dengan divisi BI, para pelaksana KP juga bertanggung jawab terhadap hal-hal yang sudah disebutkan sebelumnmya. Secara khusus, pekerjaan yang dilakukan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			oleh pelaksana KP mencakup tiga hal yaitu ETL (<it>Extract,</it> <it>Transform,</it> <it>Load)</it> <it>and</it> <it>data</it> <it>quality,</it> <it>data</it> <it>visualization,</it> dan meningkatkan <it>usability</it> data di seluruh unit bisnis. Salah satu contoh meningkatkan <it>usability</it> data adalah olahan data mengenai menu yang sering dipilih pelanggan dari perusahaan yang bekerja sama dengan GO-JEK pada unit bisnis GO-FOOD (<it>merchants).</it> Olahan data ini dapat digunakan sebagai bahan pertimbangan <it>merchants</it> saat menentukan menu untuk promosi. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Pada bagian ini, pelaksana KP akan membahas mengenai tinjauan pustaka yang berkaitan dengan pelaksanaan kerja praktik. Pembahasan tinjauan pustaka mencakup konsep <it>Business</it> <it>Intelligence</it> dan <it>Natural</it> <it>Language</it> <it>Processing</it> <it>(NLP)</it> <it>Analysis.</it> <bo>2.1.2.1.</bo> <bo>Konsep</bo> <it><bo>Business</bo></it> <it><bo>Intelligence</bo></it> <bo>(BI)</bo> <it>Business</it> <it>Intelligence</it> (BI) merupakan upaya perencanaan dan manajemen strategis yang menerapkan teknik dan alat untuk mentransformasi data mentah menjadi informasi yang dapat digunakan untuk menganalisis bisnis dan membantu proses pengambilan keputusan yang lebih baik. (Bataweel, 2015) Teknologi kunci yang digunakan dalam BI adalah <it>data</it> <it>warehouse.</it> <it>Data</it> <it>warehouse</it> merupakan tempat menyimpan data dari yang dikumpulkan dari beberapa sumber. Salah satu proses yang berkaitan dengan <it>data</it> <it>warehouse</it> adalah proses ETL (<it>Extract,</it> <it>Transform,</it> <it>Load).</it> Menurut M. Bala, O. Boussaid dan Z. Alimazighi (2015), proses ETL adalah proses untuk meng-<it>extract</it> data dari berbagai sumber lalu men-<it>transform</it> data tersebut ke <it>format</it> yang sesuai kemudian di-<it>load</it> ke dalam <it>data</it> <it>warehouse</it> (DW). Jadi secara sederhana, tujuan dari proses ETL adalah pembentukan <it>data</it> <it>warehouse.</it> <it><bo>2.1.2.2.</bo></it> <bo>Konsep</bo> <it><bo>Natural</bo></it> <it><bo>Language</bo></it> <it><bo>Processing</bo></it> <it><bo>(NLP)</bo></it> <it><bo>Analysis</bo></it> <it>Natural</it> <it>Language</it> <it>Processing</it> merupakan salah satu cabang ilmu <it>Artificial</it> <it>Intelligence</it> (AI) yang berfokus pada pengolahan bahasa natural. Bahasa natural merupakan bahasa umum yang digunakan manusia sehari-hari. Dengan menerapkan NLP, bahasa ini dapat diterima dan dimengerti oleh komputer. (Binus, n.d) 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Crystal Widjaja selaku penyelia sudah menyiapkan beberapa <it>issues</it> pada awal pelaksanaan KP. Pelaksana KP kemudian berdiskusi untuk menentukan kategori <it>issues</it> tersebut. <it>Issues</it> dengan kategori penting dan memungkinkan untuk dikerjakan akan dipilih ke tahap <it>selected</it> <it>for</it> <it>development.</it> Setelah itu, para pelaksana KP berdiskusi untuk menentukan orang yang bertanggung jawab terhadap <it>issues</it> tersebut. Selama pelaksanaan KP, para pelaksana KP biasanya akan melakukan <it>stand-up</it> <it>meeting.</it> <it>Stand-up</it> <it>meeting</it> merupakan pertemuan singkat sekitar lima belas menit tiap pertemuaan. <it>Stand-up</it> <it>meeting</it> diadakan tiga kali dalam seminggu yaitu Senin, Rabu dan Jumat. Dalam <it>stand-up</it> <it>meeting</it> akan dibahas <it>issues</it> yang sudah selesai, <it>issues</it> yang akan dikerjakan berikutnya dan kendala yang dihadapi. Penyelia kemudian akan memberikan <it>feedback</it> dan saran untuk kesulitan yang dihadapi. Sedikit berbeda jika <it>issues</it> yang dikerjakan oleh pelaksana KP berhubungan dengan unit bisnis lain. Pelaksana KP akan terlebih dahulu melakukan pertemuan dan melakukan wawancara kepada pihak terkait berhubungan dengan <it>issues</it> yang akan dikerjakan. Proses ini disebut <it>requirements</it> <it>gathering.</it> Setelah itu, pelaksana KP akan mengerjakan <it>issues</it> tersebut sesuai dengan <it>requirements</it> yang sudah dikumpulkan. Jika <it>issues</it> sudah selesai maka pelaksana KP akan mempresentasikan kepada unit bisnis yang terkait untuk menerima <it>feedback.</it> Setelah semua sudah sesuai dengan kebutuhan unit bisnis maka <it>issues</it> ini akan dikatakan selesai. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Adapun teknologi yang digunakan selama pelaksanaan KP yaitu: - MySQL dan PostgreSQL <it>database</it> <it>access.</it> - Pentaho sebagai <it>tools</it> untuk mengerjakan project terkait ETL <it>process.</it> - Python sebagai <it>programming</it> <it>language</it> yang digunakan dalam proyek NLP <it>Analysis</it> dan <it>Data</it> <it>Analysis.</it> - PHP sebagai <it>programming</it> <it>language</it> yang digunakan dalam pengerjaan proyek berbasis <it>web.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			- Atlassian JIRA sebagai <it>project</it> <it>management</it> <it>tools.</it> - Sublime Text 3 sebagai <it>text</it> <it>editor</it> - Slack sebagai <it>team</it> <it>communication</it> <it>channel.</it> Selain itu, pelaksana KP dan pelaksana KP yang lain juga menggunakan Google Drive untuk membantu dalam pengerjaan <it>issues.</it> 
+		</segment>
+		<title><it><bo>2.1.5.</bo></it> <it><bo>Issues</bo></it> <bo>dan</bo> <it><bo>Deliverables</bo></it></title>
+		<segment>
+			Dalam pelaksanaan KP di GO-JEK, para pelaksana KP berhasil menyelesaikan beberapa <it>issues</it> berupa proyek dan <it>task</it> yang dikerjakan bersama-sama. Berikut ini merupakan beberapa <it>issues</it> yang dikerjakan oleh pelaksana KP.   GO-FOOD <it>Merchant</it> <it>Ranking</it> <it>System</it>  Pelaksana KP merupakan BI <it>Intern</it> yang bertanggung jawab untuk proyek ini. Proyek ini berupa pembuatan sistem sederhana untuk menampilkan peringkat suatu <it>merchant</it> dari unit bisnis GO-FOOD. Peringkat <it>merchant</it> berdasarkan jumlah penjualan dari <it>merchant</it> tersebut. Untuk mengerjakan proyek ini, pelaksana KP bekerja sama dengan beberapa pelaksana KP lainnya. Hal yang pertama dilakukan adalah dengan melakukan <it>requirement</it> <it>gathering</it> ke unit bisnis GO-FOOD terkait dengan sistem yang akan dibuat. Setelah itu, pelaksana KP yang terlibat membuat <it>query</it> untuk mendapatkan data dan membuat kode untuk menampilkan data tersebut. Setelah selesai, pelaksana KP lalu mempresentasikan proyek tersebut kepada unit bisnis GO-FOOD. Pihak GO-FOOD memberikan <it>feedback</it> dan pelaksana KP memperbaiki sesuai dengan <it>feedback</it> yang diberikan. Adapan <it>deliverable</it> dari proyek ini adalah sebuah sistem sederhana yang saat ini sudah dapat diakses di <it>dashboard</it> GO- JEK.   <it>Cohort</it>  <it>Cohort</it> merupakan laporan yang berisi informasi mengenai ringkasan data dimiliki oleh GO-JEK. Misalnya jumlah <it>new</it> <it>customer</it> dari GO-JEK setiap bulan dan jumlah <it>customer</it> yang bertahan tiap bulan sesudahnya. Laporan ini 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			digunakan oleh hampir semua unit bisnis dari GO-JEK. Setiap bulan, laporan ini harus di-<it>update.</it> Pelaksana KP bertanggung jawab untuk meng-<it>update</it> laporan ini dari Juni hingga Agustus bersama beberapa pelaksana KP lainnya.   <it>Web</it> <it>Service</it> <it>for</it> <it>Customer</it> <it>Care</it> <it>Unit</it> <it>(CCU)</it>  <it>Web</it> <it>service</it> ini akan menampilkan detail dari <it>voucher</it> yang dikeluarkan oleh GO-JEK atau <it>partner</it> dari GO-JEK. CCU sebagai pengguna sistem ini hanya perlu memasukkan kode <it>voucher.</it> Untuk mengerjakan proyek ini, pelaksana KP terlebih dahulu melakukan <it>requirements</it> <it>gathering</it> kepada CCU. Setelah itu, para pelaksana KP yang terlibat mulai mengerjakan proyek ini dengan menggunakan API yang sudah tersedia. Namun, API yang tersedia ternyata tidak memenuhi <it>requirements</it> dari CCU. Setelah berdiskusi dengan penyelia, akhirnya diputukan bahwa proyek ini tidak dilanjutkan.   <it>Map</it> <it>Service</it> <it>Validation</it>  Proyek ini merupakan proyek yang melibatkan seluruh pelaksana KP. Para pelaksana KP melakukan validasi <it>map</it> terkait <it>service</it> <it>area</it> GO-JEK. Validasi dilakukan untuk kecamatan, kabupatern dan kota menggunakan <it>tools</it> geojson.io. Hasil dari <it>service</it> <it>map</it> <it>validation</it> ini digunakan untuk pengembangan proyek yang lain dari GO-JEK yang berkaitan dengan penggunaan lokasi, seperti <it>heatmap.</it>   <it>Customer</it> <it>Survey</it> <it>Call</it>  Pada proyek ini, pelaksana KP bertugas untuk melakukan survei kepada pelanggan melalui telepon. Survei ini bertujuan untuk mendapatkan data mengenai alasan seorang pelanggan melakukan pembatalan pemesanan GO- CAR. Pelaksana KP terlebih dahulu memilih secara acak pelanggan yang akan ditelepon dengan melakukan <it>query.</it> Setelah beberapa pelanggan ditelepon, pelaksana KP lalu membuat laporan mengenai survei tersebut.   <it>Fraud</it> <it>Analysis</it>  Proyek ini melibatkan beberapa pelaksana KP. Adapun tujuan dari proyek ini adalah menentukan hal-hal yang kemungkinan dapat diindikasikan sebagai <it>fraud.</it> Pelaksana KP terlebih dahulu menentukan atribut-atribut yang dapat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			digunakan untuk membuat <it>fraud</it> <it>rule.</it> <it>Fraud</it> <it>rule</it> berarti aturan-aturan yang menetapkan suatu transaksi adalah <it>fraud</it> atau tidak serta seorang driver melakukan <it>fraud</it> atau tidak. Misalnya seorang <it>driver</it> yang dapat menyelesaikan sepuluh transaksi dalam satu jam dapat diindikasikan telah melakukan <it>fraud.</it>   <it>NLP</it> <it>Analysis</it> <it>for</it> <it>NPS</it> <it>(Net</it> <it>Promotor</it> <it>Score)</it> <it>Survey</it>  Untuk proyek ini, pelaksana KP bertindak sebagai penanggung jawab dan dibantu oleh seluruh pelaksana KP dalam mengerjakan proyek ini. Adapun tujuan dari proyek ini adalah melakukan analisis terhadap hasil NPS <it>survey.</it> NPS <it>survey</it> merupakan survei yang dilakukan untuk mengetahui seberapa besar keinginan pelanggan untuk mempromosikan layanan GO-JEK ke pengguna lain. Untuk pelanggan yang memberikan nilai tinggi (9-10) disebut sebagai <it>promotor</it> dan yang memberikan nilai rendah (0-6) disebut sebagai <it>detractor.</it> NLP <it>analysis</it> dilakukan untuk mendapatkan topik yang paling sering dibahas oleh pelanggan yang berperan sebagai <it>promotor</it> atau <it>detractor.</it> Dalam pengerjaan proyek ini, pelaksana KP juga dibantu oleh salah satu pegawai BI dalam pembuatan kode karena keterbatasan pengetahuan yang dimiliki oleh pelaksana KP. Hasil akhir dari proyek ini berupa laporan dari NLP <it>analysis</it> yang dilakukan dan saran kepada GO-JEK agar pelanggan yang awalnya sebagai <it>detractor</it> dapat berpindah sebagai <it>promotor.</it>   <it>NLP</it> <it>Analysis</it> <it>for</it> <it>Google</it> <it>Play</it> <it>Store</it> <it>Review</it>  Proyek ini hampir sama dengan NLP <it>analysis</it> pada NPS <it>survey</it> dan dilakukan secara pararel. Tujuan dari proyek ini adalah untuk mendapatkan topik yang sering dibahas oleh pelanggan yang memberikan rating tinggi (empat atau lima) atau rating rendah (satu atau dua) pada aplikasi GO-JEK. Hasil akhir dari proyek ini juga berupa laporan dan saran yang dapat meningkatkan rating dari pelanggan.   <it>Billboard</it> <it>Effectiveness</it> <it>Analysis</it>  Proyek ini bertujuan untuk melakukan analisis pada efektivitas penggunaan <it>billboard</it> yang dipasang oleh tim <it>Marketing</it> GO-JEK di beberapa tempat.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			Untuk mengerjakan proyek ini, para pelaksana KP yang terlibat harus menentukan terlebih dahulu cara untuk mengukur efektivitas dari penggunaan <it>billboard.</it> Setelah itu, pelaksana KP yang terlibat menjalankan <it>query</it> dan membuat laporan yang berisi hasil analisis. Dalam laporan juga terdapat kesimpulan dan saran yang dapat dipertimbangkan oleh tim <it>Marketing</it> GO- JEK.   <it>Price</it> <it>Sensitivity</it> <it>Analysis</it>  Analisis pada tarif ini bertujuan untuk melihat apakah kenaikan atau penurunan tarif berpengaruh pada jumlah transaksi di GO-JEK. Hasil ini berkaitan dengan <it>pricing</it> <it>strategy</it> yang digunakan GO-JEK. Untuk mengerjakan proyek ini, pelaksana KP yang terlibat terlebih dahulu menentukan periode waktu yang akan digunakan dan menjalankan <it>query.</it> Hasil dari analisis ini berupa laporan dan rekomendasi kepada GO-JEK. Selain proyek dan <it>task</it> yang telah disebutkan, para pelaksana KP juga mengerjakan beberapa <it>ad-hoc.</it> <it>Ad-hoc</it> merupakan tugas kecil dan cenderung lebih mudah untuk dikerjakan oleh pelaksana KP. Waktu yang dibutuhkan dalam pengerjaan <it>ad-hoc</it> juga cenderung lebih singkat dibandingkan dengan proyek dan <it>task</it> yang dikerjakan pelaksana KP. <it>Ad-hoc</it> dapat berupa pembuatan <it>query</it> sederhana untuk mendapatkan data dengan kriteria tertentu, melakukan proses ETL sederhana atau hal kecil lainnya. Berikut ini merupakan tabel <it>issues</it> yang dikerjakan oleh pelaksana KP dan pelaksana KP yang terlibat dalam setiap <it>issues.</it> Pelaksana KP yang terlibat dalam pengerjaan suatu <it>issue</it> ditandai dengan simbol <bo>v.</bo> Tabel 1. Pelaksana KP yang Terlibat dalam Pengerjaan <it>Issues</it> Issues GO-FOOD <it>Merchant</it> <it>Ranking</it> <it>System</it> <it>Cohort</it> Pelaksana KP Azis Irene Mamid Rika Zultan 
+		</segment>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<segment>
+			<it>Web</it> <it>Service</it> <it>for</it> <it>Customer</it> <it>Care</it> <it>Unit</it> <it>(CCU)</it> <it>Map</it> <it>Service</it> <it>Validation</it> <it>Customer</it> <it>Survey</it> <it>Call</it> <it>Fraud</it> <it>Analysis</it> <it>NLP</it> <it>Analysis</it> <it>Billboard</it> <it>Effectiveness</it> <it>Analysis</it> <it>Price</it> <it>Sensitivity</it> <it>Analysis</it> <it>Adhoc</it> <it>Task</it> 
+		</segment>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum>11</pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<pagenum><bo>v</bo></pagenum>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada bagian ini akan dibahas bagaimana pelaksanaan KP, relevansi dengan perkuliahan di Fasilkom, pembelajaran <it>soft</it> <it>skill</it> yang didapat oleh pelaksana KP dan penilaian pelaksana KP terhadap tempat melaksanakan KP. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam pelaksanaan KP kali ini ada beberapa perbedaan dengan Kerangka Acuan Kerja Praktik (KAKP) yang sudah terlebih dahulu disusun. Perbedaan tersebut yaitu perbedaan <it>timeline</it> pekerjaan dari pelaksana. Misalnya dalam KAKP tertulis NLP <it>Analysis</it> dilakukan pada minggu ke-enam tapi dalam kenyataannya NLP <it>Analysis</it> dilakukan lebih awal yaitu minggu ke-empat. Salah satu penyebab dari ketidaksesuaian ini karena proyek atau <it>task</it> yang lain lebih penting untuk diselesaikan dalam minggu tersebut. Sehingga proyek atau <it>task</it> yang harusnya diselesaikan dalam minggu tersebut diundur penyelesaiannya. Penyebab lain dari berubahnya <it>timeline</it> pelaksana KP adalah keterbatasan pengetahuan dari pelaksana KP. Keterbatasan tersebut menjadikan waktu pengerjaan suatu proyek atau <it>task</it> lebih lama dari waktu yang tertulis pada KAKP. Hal ini dikarenakan pelaksana KP harus terlebih dahulu belajar mengenai proyek atau <it>task</it> tersebut kemudian mengerjakan. Untuk menangani keterbatasan pengetahuan yang dimiliki, pelaksana KP akan berdiskusi dengan pelaksana KP lainnya dan kemudian akan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			bekerja sama menyelesaikan proyek atau <it>task</it> yang harus diselesaikan. Selain itu, pelaksana KP juga akan bertanya kepada pegawai BI lainnya yang mempunyai pengetahuan yang jauh lebih banyak dari pelaksana KP. Pelaksana KP juga memanfaatkan fasilitas internet untuk mendapatkan pengetahuan yang lebih banyak dalam menyelesaikan proyek atau <it>task.</it> Selain perbedaan <it>timeline,</it> terdapat juga perbedaan jumlah pekerjaan yang harus diselesaikan oleh para pelaksana KP. Pada awal KP terdapat empat puluh <it>issues</it> yang harus diselesaikan. Seiring dengan berjalannya waktu, muncul <it>issues</it> lain yang juga yang menjadi tanggung jawab para pelaksana KP. <it>Issues</it> tersebut merupakan tugas dari pegawai BI lain atau unit bisnis lain. Hingga akhir masa KP, para pelaksana KP berhasil menyelesaikan sekitar dua puluh <it>issues</it> dari total lima puluh <it>issues.</it> 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama menjalani KP di GO-JEK, terdapat beberapa pengetahuan yang relevan dengan pengetahuan yang didapat dalam perkuliahan di Fasilkom UI. Berikut merupakan pengetahuan yang pelaksana KP anggap relevan: - <it><bo>Programming</bo></it> Dalam perkuliahan di Fasilkom, terdapat beberapa mata kuliah yang berkaitan dengan <it>programming,</it> yaitu Dasar-Dasar Pemograman (DDP), Struktur Data dan Algoritma (SDA), Perancangan dan Pengembangan Web (PPW) dan Proyek Pengembangan Sistem Informasi (PROPENSI). Selain belajar menuliskan kode, mata kuliah ini juga mengajarkan cara berfikir yang logis dan terstruktur untuk menyelesaikan suatu masalah. Dalam pelaksanaan KP, pelaksana KP menggunakan kemampuan untuk menuliskan kode dan menggunakan cara berfikir tersebut untuk menyelesaikan permasalahan selama KP, dalam hal ini menyelesaikan proyek atau <it>task.</it> Proyek tersebut ada yang berupa pembuatan sistem sederhana atau <it>dashboard</it> sederhana untuk perusahaan sehingga ilmu <it>programming</it> sangat dibutuhkan pelaksana KP. - <it><bo>Database</bo></it> <bo>(Basis</bo> <bo>Data)</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			Seperti yang sudah dijelaskan sebelumnya bahwa divisi <it>Business</it> <it>Intelligence</it> sangat berkaitan dengan data. Dalam perkuliahan di Fasilkom terdapat satu mata kuliah yang membahas mengenai data, yaitu <it>database.</it> Mata kuliah ini mengajarkan hal-hal paling dasar dalam pembuatan <it>database</it> dan pembuatan <it>query</it> untuk mengakses data. Hal yang sama juga dipelajari dalam pelaksanaan KP. Para pelaksana KP akan berhubungan dengan pembuatan <it>query</it> untuk mengerjakan hampir semua proyek atau <it>task.</it> Oleh sebab itu, pengetahuan dasar mengenai data dan pembuatan <it>query</it> sangat membantu dalam KP kali ini. Namun, pelaksana KP merasa bahwa pembuatan <it>query</it> yang dijelaskan di perkuliahan jauh lebih sederhana dibandingkan dengan <it>query</it> yang harus dibuat oleh pelaksana KP sehingga pelaksana KP juga masih harus banyak belajar. - <it><bo>Business</bo></it> <it><bo>Intelligence</bo></it> <bo>(BI)</bo> Pengetahuan BI yang didapat pelaksana KP dari perkuliahan di Fasilkom UI juga relevan dengan KP yang pelaksana KP jalani. Dalam perkuliahan, pelaksana KP mendapatkan pengetahuan BI yang bersifat teoritis. Pelaksana KP kemudian mempraktekkan ilmu yang didapat dalam perkuliahan tersebut dalam KP. Selain ketiga hal tersebut, mata kuliah yang juga relevan adalah komunikasi bisnis dan teknologi (Kombistek). Dalam mata kuliah tersebut, pelaksana KP belajar cara berkomunikasi yang baik dengan klien. Pengetahuan ini pelaksana KP gunakan saat berinteraksi pegawai lain atau unit bisnis lain. 
+		</segment>
+		<title><bo>2.2.3.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>selama</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selain mendapatkan pengetahuan mengenai hal teknis, pelaksana KP juga mendapatkan pembelajaran dalam hal <it>soft</it> <it>skill.</it> Beberapa hal yang dipelajari oleh pelaksana KP, yaitu:   <it>Teamwork</it>  Selama melaksanakan KP di GO-JEK, para pelaksana KP di GO-JEK tergabung dalam suatu tim. Sebagian besar proyek dan <it>task</it> juga dikerjakan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			bersama-sama. Hal ini mengajarkan pelaksana KP bagaimana bekerja sama dalam suatu tim untuk menyelesaikan proyek dan <it>task</it> yang ada.   <it>Presentation</it> <it>skill</it>  Seperti yang sudah dijelaskan sebelumnya, pelaksana KP yang sudah menyelesaikan suatu proyek atau <it>task</it> akan mempresentasikan hasil dari proyek atau <it>task</it> tersebut kepada penyelia atau unit bisnis yang terkait. Hal ini meningkatkan kemampuan pelaksana KP dalam melakukan presentasi di hadapan orang lain. Pelaksana KP juga belajar bagaimana membuat presentasi dapat dimengerti oleh semua yang hadir dengan mudah.   <it>Time</it> <it>management</it>  Selama KP, para pelaksana KP banyak mengerjakan proyek dan <it>task.</it> Pelaksana KP belajar bagaimana menyusun prioritas proyek atau task yang akan dikerjakan. Selain itu, pelaksana KP juga belajar bagaimana mengalokasikan waktu dalam pengerjaan suatu proyek atau <it>task</it> sehingga dapat selesai tepat waktu.   <it>Communication</it> <it>skill</it>  Dalam mengerjakan proyek dan task, para pelaksana KP akan berinteraksi dengan banyak orang yang berasal dari divisi BI atau unit bisnis lain. Pelaksana KP juga berdiskusi dan berbagi pendapat dengan rekan sesame pelaksana KP. Hal ini menjadikan kemampuan berkomunikasi pelaksana KP bertambah baik. 
+		</segment>
+		<title><bo>2.2.4.</bo> <bo>Penilaian</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksana KP merasa GO-JEK merupakan tempat yang tepat untuk orang-orang yang menyukai dunia kerja yang santai. Pegawai GO-JEK pada umumnya tidak terikat pada aturan mengenai kehadiran. Pegawai dapat hadir ataupun bekerja dari tempat lain (<it>remote).</it> Hal yang paling penting adalah pegawai dapat menyelesaikan tanggung jawab dengan baik. Hal tersebut juga berlaku untuk pelaksana KP. Lingkungan kerja di GO-JEK juga sangat hangat. Para pelaksana KP tidak hanya berinteraksi dengan pegawai dalam divisi BI tapi dengan divisi lain juga. Bahkan para pelaksana KP dapat berinteraksi langsung dengan para pimpinan GO-JEK untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<segment>
+			berdiskusi. Para pimpinan GO-JEK juga sering meminta pendapat pelaksana KP secara langsung sehingga pelaksana KP merasa dihargai. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Perusahaan tempat pelaksana KP melakukan kerja praktik adalah GO-JEK. GO-JEK merupakan perusahaan yang bergerak pada bidang transportasi berbasis <it>mobile</it> <it>technology.</it> Pelaksana KP mendapatkan informasi mengenai penerimaan di GO-JEK melalui <it>guest</it> <it>lecture</it> dari mata kuliah <it>Business</it> <it>Intelligence.</it> Pelaksana KP kemudian mengirimkan lamaran kepada Crystal Widjaja selaku <it>Vice</it> <it>President</it> divisi BI. Pelaksana KP dinyatakan diterima setelah melakukan wawancara. Pelaksana KP melaksanakan Kerja Praktik selama sepuluh minggu terhitung mulai Juni 2016 sampai dengan Agustus 2016. Selama masa KP, pelaksana KP ditempatkan pada divisi <it>Business</it> <it>Intelligence</it> (BI) sebagai BI <it>Intern.</it> Dalam tim ini terdapat juga lima orang pelaksana KP lainnya. Selama KP, para pelaksana KP berhasil menyelesaikan sekitar dua puluh <it>issues</it> dari total lima puluh <it>issues</it> yang tercatat pada <it>project</it> <it>management</it> <it>tools</it> yang digunakan oleh GO-JEK. Dari sekitar dua puluh issues tersebut, pelaksana KP terlibat dalam sepuluh <it>issues,</it> yaitu GO-FOOD <it>Merchant</it> <it>Ranking</it> <it>System,</it> <it>Cohort,</it> <it>Web</it> <it>Service</it> <it>for</it> <it>Customer</it> <it>Care</it> <it>Unit</it> <it>(CCU),</it> <it>Map</it> <it>Service</it> <it>Validation,</it> <it>Customer</it> <it>Survey</it> <it>Call,</it> <it>Fraud</it> <it>Analysis,</it> <it>NLP</it> <it>Analysis,</it> <it>Billboard</it> <it>Effectiveness</it> <it>Analysis,</it> <it>Price</it> <it>Sensitivity</it> <it>Analysis</it> <it>dan</it> <it>Ad-hoc</it> <it>Task.</it> Adapun deliverables dari issues ini berupa laporan yang berisi hasil analisis dan rekomendasi serta <it>ranking</it> <it>system</it> untuk GO-FOOD. Selama menjalani KP, kendala yang dihadapi pelaksana KP berkaitan dengan keterbatasan dengan pengetahuan yang dimiliki oleh pelaksana KP. Untuk mengatasi hal ini, pelaksana KP belajar dan meminta bantuan dari pegawai lain yang memiliki pengetahuan lebih banyak. Dalam menjalani KP, pelaksana KP juga menemukan beberapa pengetahuan yang relevan dengan perkuliahan pelaksana KP seperti pengetahuan mengenai <it>programming,</it> basis data dan <it>business</it> <it>intelligence.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<segment>
+			Pengetahuan tersebut dijadikan pelaksana KP sebagai panduan untuk mengerjakan <it>issues</it> yang berupa proyek atau <it>task.</it> Namun, tidak cukup hanya pengetahuan tersebut. Pelaksana KP juga harus belajar untuk mendapatkan pengetahuan yang lebih banyak agar dapat menyelesaikan <it>issues.</it> Secara keseluruhan, berkesempatan merasakan pengalaman Kerja Praktik merupakan hal yang istimewa bagi pelaksana KP. Melalui KP ini, pelaksana KP mendapat banyak pelajaran baru. Hal tersebut tidak hanya terkait dengan <it>hard</it> <it>skill</it> tetapi juga <it>soft</it> <it>skill.</it> Pelaksana KP juga berkesempatan untuk menerapkan ilmu yang sudah didapat selama perkuliahan. Pengalaman dan pengetahuan yang didapat selama KP ini dapat pelaksana KP jadikan sebagai bekal sebelum memasuki dunia kerja yang sebenarnya. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Selama menjalani proses Kerja Praktik (KP), pelaksana KP memiliki beberapa saran yang dapat dipertimbangkan, yaitu: - Pelaksana KP harus mampu bekerja dalam kelompok dan individu dengan baik. Hal ini berdasarkan pengalaman pelaksana KP ketika melakukan KP. Pelaksana KP akan mengerjakan tugas bersama dengan pegawai lain dan juga memiliki tanggung jawab untuk menyelesaikan tugas sendiri. - Sebaiknya durasi pengerjaan suatu proyek atau <it>task</it> disesuaikan dengan kemampuan dari pelaksana KP sehingga pelaksana KP dapat belajar dari proyek atau <it>task</it> tersebut tanpa terkesan terburu-buru dalam pengerjaannya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			Bala, M., Boussaid, O., &amp; Alimazighi, Z. (2015). Big-ETL: Extracting-Transforming- Loading Approach for Big Data. <it>Int'l</it> <it>Conf.</it> <it>Par.</it> <it>and</it> <it>Dist.</it> <it>Proc.</it> <it>Tech.</it> <it>and</it> <it>Appl.</it> (pp. 462-468). PDPTA. Bataweel, Dalal Suliman. (2015). Business Intelligence: Evolution and Future Trends. – (pp. 6-7). UMI Diseertation Publishing.  BINUS University. (2013). <it>Natural</it> <it>Language</it> <it>Processing.</it> [Online] Tersedia di: http://socs.binus.ac.id/2013/06/22/NATURAL-LANGUAGE-PROCESSING/ [Diakses pada 2 Desember 2016] Go-jek.com. (2016). <it>GO-JEK</it> <it>Indonesia.</it> [online] Tersedia di: https://www.go- jek.com/ [Diakses pada 30 Oct. 2016]. Mind.ilstu.edu. (2016). <it>Introduction</it> <it>to</it> <it>Natural</it> <it>Language</it> <it>Processing</it> <it>-</it> <it>The</it> <it>Mind</it> <it>Proyek.</it> [online] Tersedia di: http://www.mind.ilstu.edu/curriculum/protothinker/natural_language_processi ng.php [Diakses pada 30 Oct. 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

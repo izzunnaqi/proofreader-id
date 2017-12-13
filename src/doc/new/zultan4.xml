@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>BUSINESS</bo> <bo>INTELLIGENCE:</bo> <bo>ETL,</bo> <bo>DATA</bo> <bo>VISUALIZATION,</bo></title>
+		<title><bo>BUSINESS</bo> <bo>AUTOMATION,</bo> <bo>AND</bo> <bo>FRAUD</bo> <bo>ANALYSIS</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>DUHAZULTAN</bo> <bo>SYAH</bo> <bo>ALAM</bo> <bo>BARENO</bo></title>
+		<segment>
+			<bo>1306401675</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>DESEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Duhazultan Syah Alam Bareno : 1306401675 Program Studi : Sistem Informasi Judul Kerja Praktik : <it>Business</it> <it>Intelligence:</it> ETL, <it>Data</it> <it>Visualization,</it> <it>Business</it> <it>Automation,</it> <it>and</it> <it>Fraud</it> <it>Analysis</it> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra,</bo> <bo>S.Kom.,</bo> <bo>M.A.,</bo> <bo>M.Sc.)</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+		<segment>
+			Ditetapkan di : Tanggal : 
+		</segment>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja Praktik merupakan salah satu mata kuliah wajib bagi mahasiswa Fakultas Ilmu Komputer Universitas Indonesia. Pada mata kuliah tersebut mahasiswa diwajibkan untuk melakukan kerja praktik pada bidang IT dengan durasi enam hingga sepuluh minggu. Pada laporan ini tertuang pengalaman pelaksana kerja praktik yang melaksanakan kerja praktik di salah satu <it>startup</it> terkemuka di Indonesia, yaitu GO- JEK. Pelaksana kerja praktik akan menjelaskan dan menjabarkan mengenai apa saja yang pelaksana kerja praktik lakukan selama menjalani kerja praktik di divisi <it>Business</it> <it>Intelligence</it> GO-JEK, bagaimana hubungan pekerjaan yang dilakukan oleh pelaksana kerja praktik selama kurang lebih sepuluh minggu dengan mata kuliah yang diajarkan di Fasilkom UI, serta manfaat yang didapatkan oleh pelaksana kerja praktik setelah melakukan kerja praktik. Pekerjaan tersebut mencakup <it>mapping</it> <it>visualization,</it> <it>fraud</it> <it>analysis,</it> <it>data</it> <it>analysis,</it> ETL, NLP, pembuatan <it>dashboard,</it> serta <it>adhoc</it> <it>task</it> yang sesuai dengan kebutuhan dari <it>business</it> <it>unit</it> yang ada. Kata kunci: <it>business</it> <it>intelligence,</it> <it>go-jek,</it> <it>kerja</it> <it>praktik,</it> <it>startup</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 5</title>
+		<title>2.1.3. Metodologi Pekerjaan ............................................................................... 6</title>
+		<title>2.1.4. Teknologi yang Digunakan ....................................................................... 7</title>
+		<title><it>2.1.5.</it> <it>Deliverables</it> .............................................................................................. 8</title>
+		<title>2.2. Analisis .......................................................................................................... 13</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 13</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 15</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 17 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 17</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.2. Saran .............................................................................................................. 18</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 19 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Struktur Organisasi GO-JEK Indonesia ....................................................... 3 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1 Pembagian Pekerjaan Kerja Praktik................................................................. 8 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksana kerja praktik memulai proses pencarian kerja praktik sejak bulan Februari 2016. Pada bulan tersebut pelaksana kerja praktik terlibat sebagai salah satu panitia pada acara <it>Career</it> <it>Expo</it> yang diadakan oleh Career Development Center Universitas Indonesia (CDC UI). Kesempatan tersebut dimanfaatkan oleh pelaksana kerja praktik untuk mengunjungi beberapa <it>booth</it> yang ada untuk mencari informasi mengenai lowongan magang bagi mahasiswa. Dari <it>Career</it> <it>Expo</it> tersebut pelaksana kerja praktik memutuskan untuk melamar ke salah satu <it>startup</it> yang cukup terkenal di Indonesia, yaitu Mediatrac. Karena setelah beberapa hari pelaksana kerja praktik masih belum mendapatkan kabar dari pihak Mediatrac, pelaksana kerja praktik kemudian mencoba untuk mencari lowongan magang lainnya melalui situs yang menyediakan informasi pekerjaan seperti jobstreet.com dan studentjob.co.id, serta dengan mengunjungi situs milik perusahaan teknologi maupun kantor akuntan publik (KAP). Dengan informasi yang didapatkan, pelaksana kerja praktik kemudian mencoba untuk kembali melamar di beberapa tempat, seperti Citibank, Deloitte, GO-JEK, dan Pricewaterhouse Coopers (PWC). Dari keempat tempat tersebut, pihak GO-JEK terlebih dahulu menghubungi pelaksana kerja praktik untuk melaksanakan <it>interview</it> di kantor mereka. Pelaksana kerja praktik pun menyanggupi dan melakukan <it>interview</it> dengan HR dari GO-JEK dan <it>Vice</it> <it>President</it> dari divisi <it>Business</it> <it>Intelligence,</it> divisi tempat pelaksana kerja praktik memasukkan lamaran. Setelah melaksanakan <it>interview,</it> pelaksana kerja praktik diterima oleh GO-JEK sebagai <it>intern</it> di divisi <it>Business</it> <it>Intelligence</it> dan resmi bergabung sejak April 2016. Setelah itu pelaksana kerja praktik sempat dihubungi oleh Citibank untuk melakukan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			<it>interview</it> namun pelaksana kerja praktik menolak karena telah mendapatkan tempat untuk magang, dan pelaksana kerja praktik sejak saat itu juga menghentikan proses pencarian tempat magang lainnya. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			GO-JEK merupakan sebuah startup yang bergerak di bidang teknologi dan dibentuk pada tahun 2010. Selain untuk menyediakan sarana transportasi yang nyaman dan mudah didapatkan, GO-JEK juga bertujuan untuk meningkatkan kesejahteraan para pekerja pada bidang informal di Indonesia. GO-JEK didirikan dengan tiga nilai sebagai pondasinya, yaitu kecepatan, inovasi, dan dampak sosial. Dengan lebih dari 200.000 <it>driver</it> <it>partner</it> yang terpercaya dan berpengalaman, GO-JEK menyediakan berbagai layanan dari <it>business</it> <it>units</it> mereka, seperti GO-RIDE, GO-CAR, GO-FOOD, GO- 
+		</segment>
+		<title>SEND, GO-MART, GO-BOX, GO-MASSAGE, GO-CLEAN, GO-GLAM, GO-TIX,</title>
+		<segment>
+			GO-BUSWAY, GO-PAY, GO-MED, dan GO-AUTO. Layanan-layanan tersebut telah bisa diakses oleh para pengguna sejak tahun 2015 melalui aplikasi <it>mobile</it> mereka di sepuluh kota-kota besar di Indonesia, yaitu Jakarta, Bandung, Bali, Surabaya, Makasar, Yogyakarta, Medan, Semarang, Palembang, dan Balikpapan [1]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Berikut adalah struktur organisasi singkat dari GO-JEK Indonesia: Gambar 1 Struktur Organisasi GO-JEK Indonesia 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada pelaksanaan kerja praktik, pelaksana kerja praktik ditempatkan sebagai <it>intern</it> pada divisi <it>Business</it> <it>Intelligence.</it> Divisi tersebut dikepalai oleh seorang VP yang selanjutnya akan menjadi penyelia pelaksana kerja praktik, divisi tersebut juga berada di bawah seorang <it>Chief</it> <it>Information</it> <it>Officer</it> (CIO). 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Dalam melaksanakan pekerjaan selama masa kerja praktik, pelaksana kerja praktik bekerjasama dengan enam mahasiswa Fakultas Ilmu Komputer Universitas Indonesia lainnya, dan sama-sama tergabung ke dalam divisi <it>Business</it> <it>Intelligence</it> sebagai <it>intern.</it> Keenam mahasiswa tersebut adalah Azis Maarij Jamil, Irene Yulinda, M. Rizki Noerhamid, Rika Mariska, Roy Mario Fransiskus Klau, dan Shilvia Br Silalahi. Pekerjaan yang dikerjakan oleh pelaksana kerja praktik diawasi secara langsung oleh <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence</it> yang juga menjadi penyelia pelaksana kerja praktik. Pelaksana kerja praktik tidak mempunyai mentor khusus dalam pengerjaan pekerjaan yang diberikan, akan tetapi pelaksana kerja praktik bebas untuk bertanya kepada penyelia maupun anggota dari divisi <it>Business</it> <it>Intelligence</it> lainnya jika menemui kendala dalam bekerja. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			GO-JEK mempunyai ratusan ribu hingga bahkan jutaan data transaksi setiap harinya. Karena banyaknya data transaksi yang dimiliki, GO-JEK membutuhkan <it>insight</it> serta <it>report</it> yang cepat dan akurat untuk membantu pengambilan keputusan, pemecahan masalah yang ada, atau untuk membantu <it>business</it> <it>unit</it> yang ada agar dapat selalu berkembang. Sebagai <it>data</it> <it>driven</it> <it>company,</it> GO-JEK selalu berpedoman pada data yang dimiliki untuk mengambil langkah perusahaan ke depannya. Sehingga divisi <it>Business</it> <it>Intelligence</it> bertanggung jawab untuk dapat menyediakan <it>report</it> serta memberikan <it>insight</it> yang berdasarkan pada analisis data yang dimiliki. Oleh karena itu, pekerjaan dan tanggung jawab dari divisi <it>Business</it> <it>Intelligence</it> mencakup tiga bagian, yaitu ETL (<it>Extract,</it> <it>Transform,</it> <it>Load)</it> <it>and</it> <it>data</it> <it>quality,</it> <it>data</it> <it>visualization,</it> dan <it>increasing</it> <it>the</it> <it>usability</it> <it>of</it> <it>data</it> <it>throughout</it> <it>business</it> <it>units.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			Sebagai <it>intern</it> pada divisi <it>Business</it> <it>Intelligence,</it> pelaksana kerja praktik juga mempunyai tanggung jawab yang sama seperti anggota divisi <it>Business</it> <it>Intelligence</it> lainnya. Pelaksana kerja praktik bersentuhan dan berinteraksi langsung dengan data yang dimiliki oleh GO-JEK agar pelaksana kerja praktik bisa memberikan laporan maupun menyediakan data yang dibutuhkan oleh <it>business</it> <it>units</it> lainnya agar mereka dapat tetap menjalankan aktivitas mereka sehingga tetap menjaga agar GO-JEK terus berkembang. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Pada bagian ini pelaksana kerja praktik akan membahas mengenai beberapa istilah yang berhubungan dengan pekerjaan yang dilakukan selama masa kerja praktik. <it><bo>2.1.2.1.Business</bo></it> <it><bo>Intelligence</bo></it> <it>Business</it> <it>Intelligence</it> atau biasa disingkat dengan BI mengacu kepada bermacam aplikasi yang digunakan untuk menganalisis data mentah pada suatu organisasi. Beberapa aktivitas yang termasuk ke dalam BI seperti <it>data</it> <it>mining,</it> <it>online</it> <it>analytical</it> <it>processing</it> (OLAP), <it>querying,</it> dan <it>reporting.</it> BI pada perusahaan digunakan untuk meningkatkan <it>decision</it> <it>making,</it> memotong biaya pengeluaran, serta untuk mengidentifikasi peluang bisnis baru [2]. <it><bo>2.1.2.2.Cohort</bo></it> <it>Cohort</it> adalah sekelompok individu yang memiliki pengalaman yang serupa pada periode waktu tertentu, atau memiliki satu atau beberapa karakteristik yang sama [3]. <it><bo>2.1.2.3.Fraud</bo></it> <it><bo>Analysis</bo></it> <it>Fraud</it> <it>analysis</it> merupakan sebuah aktivitas yang dilakukan untuk menyelidiki transaksi yang terlihat mencurigakan, baik karena dipalsukan maupun karena ada tindakan kecurangan di dalamnya. Pada investigasi tersebut juga perlu dilakukan pengumpulan bukti lebih lanjut mengenai transaksi yang mencurigakan untuk menetapkan apakah transaksi tersebut positif terindikasi <it>fraud</it> atau tidak [4]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			<it><bo>2.1.2.4.Natural</bo></it> <it><bo>Language</bo></it> <it><bo>Processing</bo></it> <it>Natural</it> <it>Language</it> <it>Processing</it> (NLP) merupakan sebuah cara yang dilakukan oleh komputer untuk menganalisis, memahami, dan mendapatkan makna dari bahasa manusia. NLP bisa digunakan untuk melakukan pekerjaan seperti melakukan terjemahan, <it>speech</it> <it>recognition,</it> <it>sentiment</it> <it>analysis,</it> dan lain sebagainya [5]. <it><bo>2.1.2.5.Sentiment</bo></it> <it><bo>Analysis</bo></it> Sentiment analysis adalah proses yang dilakukan untuk menentukan emosi yang terdapat pada sebuah rangkaian kata dengan memanfaatkan NLP, sehingga bisa dipahami bagaimana sikap, opini, serta emosi yang diekspresikan yang berada dalam jaringan (<it>online)</it> [6]. <it><bo>2.1.2.6.Net</bo></it> <it><bo>Promoter</bo></it> <it><bo>Score</bo></it> <it>Net</it> <it>Promoter</it> <it>Score</it> (NPS) merupakan sebuah nilai yang diberikan kepada pengguna untuk mengukur pengalaman mereka dan memprediksi pertumbuhan bisnis ke depannya. NPS dibedakan menjadi tiga kategori, yaitu <it>Detractor</it> (skor 0-6), <it>Passive</it> (skor 7-8), dan <it>Promoter</it> (skor 9-10) [7]. <it><bo>2.1.2.7.Dashboard</bo></it> <it>Dashboard</it> pada <it>business</it> <it>intelligence</it> merupakan alat yang digunakan untuk melakukan visualisasi data sehingga dapat menampilkan status dari <it>metrics</it> dan <it>key</it> <it>performance</it> <it>indicators</it> (KPIs) pada sebuah perusahaan [8]. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Dalam melaksanakan kerja praktik, pelaksana kerja praktik dan tim tidak menggunakan metodologi tertentu. Namun dalam praktiknya, pekerjaan pelaksana kerja praktik mengadaptasi metodologi <it>agile,</it> dimana setiap minggu pelaksana kerja praktik dan tim beserta penyelia dan anggota divisi <it>Business</it> <it>Intelligence</it> lainnya mengadakan <it>stand-up</it> <it>meeting</it> sebanyak tiga kali setiap hari Senin, Rabu, dan Jumat. <it>Meeting</it> tersebut bertujuan untuk mengevaluasi pekerjaan yang telah dilakukan selama ini, membahas kendala-kendala yang ditemui selama pengerjaan, dan melakukan presentasi terkait pekerjaan-pekerjaan yang telah diselesaikan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Mengenai pekerjaan pelaksana kerja praktik dan tim, pada awal masa kerja praktik penyelia telah menetapkan beberapa <it>backlog</it> untuk dikerjakan selama masa kerja praktik. <it>Backlog</it> tersebut telah ditentukan masing-masing penanggung jawabnya atau disebut dengan <it>assignee.</it> Dari <it>backlog</it> tersebut pelaksana kerja praktik dan tim kemudian menentukan prioritas pengerjaan <it>backlog</it> lalu membagi orang-orang yang akan mengerjakan <it>backlog</it> tersebut sesuai dengan permintaan <it>assignee</it> yang bersangkutan. Dalam mengerjakan <it>backlog</it> tersebut pelaksana kerja praktik dan rekan-rekan pelaksana kerja praktik lainnya juga tidak menerapkan metodologi tertentu. Pelaksana kerja praktik biasanya menentukan sendiri apa saja yang akan pelaksana kerja praktik lakukan untuk menyelesaikan <it>backlog</it> sesuai dengan pembagian yang telah ditentukan dengan rekan lainnya. Lalu setelah itu pelaksana kerja praktik mengerjakan pekerjaan- pekerjaan tersebut dan berusaha untuk menyelesaikannya sebelum <it>deadline</it> yang telah ditentukan sebelumnya. Setelah menyelesaikan <it>backlog,</it> maka pelaksana kerja praktik dan rekan lain yang terlibat dalam pengerjaan <it>backlog</it> tersebut akan mempresentasikan hasilnya pada <it>stand-up</it> <it>meeting</it> yang berikutnya. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo></title>
+		<segment>
+			Selama masa kerja praktik, pelaksana kerja praktik menggunakan berbagai macam teknologi untuk membantu pekerjaan pelaksana kerja praktik. Teknologi tersebut ada yang telah pernah digunakan oleh pelaksana kerja praktik dan ada teknologi yang baru dan belum pernah digunakan oleh pelaksana kerja praktik sama sekali. Teknologi- teknologi yang pelaksana kerja praktik gunakan antara lain seperti berikut:   MySQL, PostgreSQL, dan MongoDB sebagai <it>database</it> <it>access.</it>    Pentaho sebagai <it>tool</it> untuk melakukan ETL.    Sublime Text 3 sebagai <it>text</it> <it>editor.</it>    Python  sebagai  bahasa  pemrograman  untuk  pekerjaan  yang  berhubungan  dengan <it>data</it> <it>analysis.</it>   Ruby sebagai bahasa pemrograman untuk membuat <it>dashboard</it> berbasis <it>web.</it>  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			  Hanami sebagai <it>framework</it> pengembangan <it>dashboard</it> berbasis <it>web.</it>    Geojson.io sebagai <it>tool</it> untuk melakukan validasi area pada peta.    Sequel Pro sebagai <it>database</it> <it>management</it> <it>tool.</it>    JIRA sebagai <it>project</it> <it>management</it> <it>tool.</it>    Bitbucket sebagai <it>project</it> <it>revision</it> <it>control</it> <it>system.</it>    Slack sebagai <it>communication</it> <it>channel.</it>  
+		</segment>
+		<title><it><bo>2.1.5.</bo></it> <it><bo>Deliverables</bo></it></title>
+		<segment>
+			Selama masa kerja praktik, pelaksana kerja praktik dan tim memiliki banyak <it>backlog</it> untuk dikerjakan. Selain <it>deliverables</it> yang berasal dari <it>backlog</it> tim, pelaksana kerja praktik juga menyampaikan <it>deliverables</it> lainnya yang berasal dari <it>adhoc</it> <it>request</it> dari penyelia maupun <it>business</it> <it>units</it> lainnya. Pelaksana kerja praktik hanya dapat menyebutkan garis besar dari <it>deliverables</it> yang telah diberikan. Pelaksana kerja praktik tidak dapat melampirkan bagian dari <it>deliverables</it> tersebut seperti <it>source</it> <it>code</it> maupun dokumentasi yang ada karena alasan <it>confidentiality</it> yang telah ditetapkan oleh pihak GO-JEK dan disetujui oleh pelaksana kerja praktik. Beberapa <it>backlog</it> yang berhasil disampaikan oleh pelaksana kerja praktik dapat dilihat pada tabel berikut. Tabel 1 Pembagian Pekerjaan Kerja Praktik No Backlog 1. Heatmap area validation 2. Dokumentasi query parameter 3. Template JQL 4. Cohort bulanan 5. Sentiment analysis 6. Topic extraction 7. Reversal dashboard 8. Agregasi data customer Tim Business Intelligence Intern Zultan Irene Azis Mamid Rika Shilvia                     -       - -     -       - -     -       - -     -       - -     -   -   - - 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			9. Fraud analysis 10. Analisis stasiun kereta 11. Adhoc task 12. Customer force update analysis 13. Billboard effectiveness analysis 14. GO-BENEFIT driver ranking           -           -   - - - -     - -     - -   -         -         <it><bo>2.1.5.1.</bo></it> <it><bo>Area</bo></it> <it><bo>validation</bo></it> <bo>untuk</bo> <it><bo>heatmap</bo></it> Untuk pengerjaan <it>backlog</it> ini pelaksana kerja praktik bekerja sama dengan seluruh rekan <it>intern</it> lainnya. Pelaksana kerja praktik mendapatkan tanggung jawab untuk melakukan validasi area Pulau Sulawesi dan Pulau Jawa dengan menggunakan geojson.io. <it><bo>2.1.5.2.</bo></it> <bo>Dokumentasi</bo> <it><bo>query</bo></it> <it><bo>parameter</bo></it> <it>Backlog</it> ini bertujuan untuk membantu <it>business</it> <it>units</it> lainnya agar dapat memperoleh data yang diperlukan secara mandiri tanpa bergantung pada divisi <it>business</it> <it>intelligence.</it> Pelaksana kerja praktik dan rekan <it>intern</it> lainnya bertanggung jawab dalam dokumentasi <it>parameter</it> yang dibutuhkan pada <it>query</it> untuk mengambil data, sehingga dengan adanya dokumentasi tersebut <it>business</it> <it>units</it> lainnya dapat mencocokan <it>parameter</it> pada <it>query</it> sesuai dengan kebutuhan mereka masing-masing. <bo>2.1.5.3.</bo> <it><bo>Template</bo></it> <bo>JavaScript</bo> <bo>Query</bo> <bo>Language</bo> <bo>(JQL)</bo> Pelaksana kerja praktik bertanggung jawab untuk menyediakan <it>template</it> JQL yang akan digunakan untuk mengambil data dari Mixpanel. <it>Template</it> yang pelaksana kerja praktik berhasil sediakan adalah <it>template</it> untuk mengambil data hasil <it>survey</it> dan <it>template</it> untuk mengambil data <it>event</it> tertentu yang dilakukan pada aplikasi. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			<bo>2.1.5.4.</bo> <it><bo>Cohort</bo></it> <bo>bulanan</bo> <it>Cohort</it> dibutuhkan untuk analisis finansial terkait transaksi yang terjadi setiap bulannya. Transaksi tersebut dibedakan dari jenis sistem operasi yang digunakan, tipe business unit yang terlibat, dan berdasarkan kota tempat transaksi terjadi. Pelaksana kerja praktik beserta seluruh rekan <it>intern</it> yang lain ditugaskan untuk melengkapi <it>cohort</it> bulan April, Mei, Juni dan Juli. <bo>2.1.5.5.</bo> <it><bo>Sentiment</bo></it> <it><bo>analysis</bo></it> <bo>terkait</bo> <bo>fitur-fitur</bo> <bo>yang</bo> <bo>dimiliki</bo> <bo>GO-JEK</bo> <it>Backlog</it> ini dilakukan untuk mencari tahu pendapat <it>users</it> terhadap fitur-fitur yang dimiliki oleh GO-JEK. Data yang diolah didapatkan dari hasil <it>survey</it> melalui Mixpanel. Pada pengerjaan <it>backlog</it> ini pelaksana kerja praktik bekerja sama dengan <it>intern</it> lainnya seperti Irene, Azis, Mamid, dan Rika. Pelaksana kerja praktik bertanggung jawab dalam proses pengambilan data hasil <it>survey,</it> <it>cleaning</it> data hasil <it>survey,</it> penyimpulan <it>sentiment,</it> dan pemberian rekomendasi terkait <it>sentiment</it> <it>users.</it> <bo>2.1.5.6.</bo> <it><bo>Sentiment</bo></it> <it><bo>analysis</bo></it> <bo>berdasarkan</bo> <it><bo>review</bo></it> <bo>dan</bo> <it><bo>rating</bo></it> <bo>aplikasi</bo> <bo>GO-JEK</bo> <bo>di</bo> <bo>Google</bo> <bo>Play</bo> <bo>Store</bo> <bo>dan</bo> <bo>Apple</bo> <bo>Store</bo> <it>Sentiment</it> <it>analysis</it> lain yang pelaksana kerja praktik lakukan adalah terkait <it>review</it> yang diberikan oleh <it>users</it> di Google Play Store dan Apple Store. Analisis ini bertujuan untuk mendapatkan <it>insights</it> dari opini dari <it>user</it> terkait <it>performance</it> aplikasi GO-JEK. Pelaksana kerja praktik bekerja sama dengan <it>intern</it> lainnya seperti Irene, Azis, Mamid, dan Rika. Tanggung jawab utama pelaksana kerja praktik pada <it>backlog</it> ini adalah pengambilan data <it>review</it> <it>users,</it> <it>cleaning</it> <it>review</it> data, penyimpulan <it>sentiment</it> <it>users,</it> dan pemberian rekomendasi terkait <it>sentiment</it> <it>users.</it> <bo>2.1.5.7.</bo> <it><bo>Topics</bo></it> <it><bo>extraction</bo></it> <bo>berdasarkan</bo> <it><bo>Net</bo></it> <it><bo>Promoter</bo></it> <it><bo>Score</bo></it> <bo>(NPS)</bo> Tujuan dari <it>backlog</it> ini adalah untuk mendapatkan <it>insights</it> dari <it>user</it> terkait hal-hal yang membuat seorang <it>user</it> ingin atau tidak ingin mempromosikan GO-JEK ke orang lain. <it>Topics</it> yang diambil merupakan kata-kata atau istilah yang paling sering muncul pada jawaban <it>user.</it> Pelaksana kerja praktik bekerja sama dengan seluruh <it>intern</it> lainnya dalam mengerjakan <it>backlog</it> ini. Tanggung jawab pelaksana kerja praktik antara lain 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			pengambilan data <it>survey</it> terkait NPS dari Mixpanel, <it>cleaning</it> data hasil <it>survey,</it> <it>binning</it> hasil <it>survey</it> sesuai dengan NPS masing-masing <it>user,</it> dan penyimpulan <it>top</it> <it>topics.</it> <bo>2.1.5.8.</bo> <it><bo>Reversal</bo></it> <it><bo>dashboard</bo></it> <it>Dashboard</it> yang pelaksana kerja praktik kembangkan merupakan permintaan dari <it>Customer</it> <it>Care</it> <it>Unit</it> (CCU) GO-JEK. <it>Dashboard</it> ini berfungsi untuk melihat berapa jumlah transaksi pengembalian kredit GO-PAY (<it>reversal)</it> ke <it>user</it> dalam satu hari, <it>agent</it> yang melakukan <it>reversal,</it> dan nominal <it>reversal</it> yang dilakukan. Pengembangan <it>dashboard</it> dilakukan sendiri oleh pelaksana kerja praktik. <bo>2.1.5.9.</bo> <bo>Agregasi</bo> <bo>data</bo> <it><bo>customer</bo></it> <bo>dari</bo> <bo>MongoDB</bo> Pelaksana kerja praktik diminta untuk melakukan agregasi dan <it>pipelining</it> data <it>user</it> dari MongoDB. Hal ini dilakukan untuk mengecek apakah <it>user</it> dengan <it>id</it> yang sama muncul beberapa kali ketika datanya diambil dari <it>database.</it> Pelaksana kerja praktik hanya ditugaskan untuk mengambil data dan tidak diberitahu penggunaan data tersebut bagaimana selanjutnya. <bo>2.1.5.10.</bo> <it><bo>Fraud</bo></it> <it><bo>analysis</bo></it> Pelaksana kerja praktik dua kali mendapatkan pekerjaan yang berhubungan dengan <it>fraud</it> <it>analysis.</it> Pelaksana kerja praktik mengerjakan <it>fraud</it> <it>analysis</it> bersama dengan dua <it>intern</it> lainnya, yaitu Irene dan Azis. Walaupun sama-sama ditugaskan dalam <it>fraud</it> <it>analysis,</it> akan tetapi pelaksana kerja praktik dengan rekan <it>intern</it> lainnya ditugaskan untuk menyelidiki <it>feature</it> yang berbeda. Pada pekerjaan yang pertama, pelaksana kerja praktik ditugaskan untuk mencari beberapa <it>features</it> dari data transaksi, kemudian melakukan agregasi dari data tersebut, dan menyimpulkan apakah terdapat keanehan atau anomali pada hasil agregasi data tersebut. Namun hasil penyelidikan dan analisis yang dilakukan oleh pelaksana kerja praktik pada saat itu masih belum terlalu meyakinkan apakah transaksi tersebut <it>fraud</it> <it>positive</it> apa tidak. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			Pada pekerjaan yang kedua pelaksana kerja praktik ditugaskan untuk fokus ke <it>features</it> yang terdapat pada data <it>user.</it> Pelaksana kerja praktik mencari tahu bagaimana data transaksi yang mencurigakan lalu dari data tersebut pelaksana kerja praktik mencari hubungannya dengan <it>features</it> yang terdapat pada <it>user.</it> Dari <it>features</it> tersebut pelaksana kerja praktik ditugaskan untuk menyimpulkan sebuah <it>fraud</it> <it>rule</it> dan membuat <it>script</it> yang menangani <it>rule</it> tersebut lalu mengimplementasikan <it>script</it> tersebut di <it>server</it> untuk mengecek apakah <it>rule</it> yang pelaksana kerja praktik buat bersifat <it>false</it> <it>positive</it> atau tidak. <bo>2.1.5.11.</bo> <bo>Analisis</bo> <it><bo>pickups</bo></it> <bo>dan</bo> <it><bo>drop-offs</bo></it> <bo>GO-JEK</bo> <bo>di</bo> <bo>stasiun</bo> <bo>kereta</bo> Untuk <it>backlog</it> ini pelaksana kerja praktik ditugaskan untuk melakukan analisis mengenai jumlah <it>pickups</it> dan <it>drop-offs</it> GO-RIDE di sekitar stasiun kereta. Pelaksana kerja praktik mengambil sampel beberapa stasiun yang cukup besar dan padat, kemudian mengambil koordinat di sekitar stasiun tersebut untuk membatasi area analisis yang pelaksana kerja praktik lakukan. Pelaksana kerja praktik mengambil data seminggu terakhir dan membaginya menjadi per hari, lalu pelaksana kerja praktik juga mengelompokan data tersebut menjadi <it>weekdays</it> dan <it>weekends.</it> Hasil analisis ini kemudian dipresentasikan dan dapat digunakan untuk tujuan <it>marketing</it> maupun pemusatan <it>driver</it> pada waktu tertentu. <bo>2.1.5.12.</bo> <it><bo>Adhoc</bo></it> <it><bo>request</bo></it> Selain <it>backlog</it> yang telah ditetapkan, pelaksana kerja praktik juga sering mendapatkan <it>adhoc</it> <it>request</it> dari penyelia maupun <it>business</it> <it>unit</it> yang membutuhkan. <it>Adhoc</it> <it>request</it> yang biasanya pelaksana kerja praktik dapatkan berupa permintaan data, <it>reports,</it> maupun <it>insights</it> yang dapat membantu kelancaran aktivitas <it>business</it> <it>unit</it> maupun GO- JEK secara keseluruhan. <bo>2.1.5.13.</bo> <it><bo>Backlog</bo></it> <bo>lainnya</bo> Selain <it>backlog</it> yang telah dijelaskan sebelumnya, pelaksana kerja praktik juga membantu <it>intern</it> lain dalam melaksanakan <it>backlog</it> yang mereka pertanggungjawabkan. Beberapa <it>backlog</it> yang pelaksana kerja praktik bantu seperti 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<segment>
+			<it>customer</it> <it>force</it> <it>update</it> <it>analysis</it> dan <it>billboard</it> <it>effectiveness</it> <it>analysis</it> yang ditangani oleh Irene. Pelaksana kerja praktik membantu Irene dalam melakukan <it>query</it> data yang dibutuhkan untuk analisis. <it>Backlog</it> lainnya adalah GO-BENEFIT <it>driver</it> <it>ranking</it> yang ditangani oleh Azis. Pelaksana kerja praktik membantu Azis dalam melakukan <it>testing</it> <it>dashboard</it> dan pembuatan <it>query</it> yang dibutuhkan. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Pada bagian ini, pelaksana kerja praktik akan menjelaskan mengenai pelaksanaan kerja praktik dan relevansi pekerjaan yang pelaksana kerja praktik lakukan dengan perkuliahan yang ada di Fasilkom UI. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik memiliki beberapa perbedaan dengan rencana pada Kerangka Acuan Kerja Praktik (KAKP). Hal ini disebabkan oleh beberapa hal seperti beban pekerjaan yang berbeda dengan perkiraan, pengubahan prioritas pekerjaan sesuai dengan kebutuhan perusahaan, serta tambahan-tambahan pekerjaan yang diberikan oleh penyelia maupun <it>business</it> <it>units</it> lainnya yang membutuhkan. Pada awal kerja praktik, pelaksana kerja praktik dan tim telah diberikan sejumlah <it>backlog</it> yang harus dikerjakan selama masa kerja praktik beserta orang-orang yang menjadi penanggung jawab dari <it>backlog</it> tersebut. Untuk beberapa <it>backlog</it> yang belum diberi penanggung jawab, pelaksana kerja praktik bersama <it>intern</it> lainnya menentukan sendiri siapa yang akan menjadi penanggung jawab dari <it>backlog</it> tersebut dan urutan prioritas pengerjaannya. Seiring berjalannya masa kerja praktik <it>backlog</it> yang ada semakin bertambah dan urutan prioritas pengerjaannya juga berubah. Namun, ada beberapa <it>backlog</it> yang dianggap tidak relevan untuk dikerjakan setelah didiskusikan dengan penyelia dan kemudian <it>backlog</it> tersebut dicoret dari daftar <it>backlog.</it> Beberapa perbedaan dapat terlihat dari urutan pengerjaan yang berbeda antara KAKP dengan <it>log</it> kerja praktik yang disebabkan oleh sifat pekerjaan yang dinamis di GO- JEK. Kebutuhan maupun prioritas pekerjaan yang harus dilakukan sering berubah karena menyesuaikan dengan kondisi yang ada pada saat itu. Contoh perbedaan yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			terjadi seperti <it>mapping</it> <it>visualization.</it> Pada KAKP seharusnya pekerjaan ini dilakukan pada minggu keenam, tetapi karena ada permintaan dari <it>board</it> <it>of</it> <it>director</it> untuk mengerjakan ini lebih awal maka pekerjaan ini telah dilakukan sejak minggu pertama pelaksanaan kerja praktik. Pada pelaksanaan kerja praktik juga dilakukan beberapa <it>task</it> yang sebelumnya tidak dicantumkan pada KAKP seperti melakukan natural</it> <it>language</it> <it>processing</it> (NLP). Pekerjaan ini dilakukan karena adanya permintaan langsung dari CFO pada pertengahan masa kerja praktik, sehingga pada rencana pekerjaan KAKP tidak dicantumkan. Selain itu juga terdapat beberapa pekerjaan pada KAKP yang dikurangi. Contohnya adalah durasi praktik ETL yang berkurang dari rencana awal pada KAKP. Pada rencana awal terdapat tiga sesi praktik ETL, tetapi pada pelaksanaan kerja praktik sesi tersebut hanya dilakukan sekali saja. Hal ini disebabkan oleh tingginya <it>load</it> pekerjaan divisi Business</it> <it>Intelligence</it> pada saat itu sehingga para <it>intern</it> ditugaskan untuk belajar mengenai ETL secara mandiri. Selama masa kerja praktik pelaksana kerja praktik sempat mengalami beberapa kendala terkait pekerjaan yang diberikan. Kendala tersebut pada umumnya disebabkan karena kurangnya pengetahuan pelaksana kerja praktik mengenai suatu teknologi yang digunakan. Untuk menangani kendala tersebut, pelaksana kerja praktik mencoba untuk mencari tahu sendiri mengenai kendala yang ada dengan melakukan pencarian menggunakan internet. Selain dengan memanfaatkan internet, pelaksana kerja praktik juga bertanya kepada penyelia maupun anggota divisi <it>Business</it> <it>Intelligence</it> lainnya terkait kendala yang dihadapi oleh pelaksana kerja praktik. Lingkungan tempat pelaksanaan kerja praktik sendiri dirasa cukup bersahabat oleh pelaksana kerja praktik. Para anggota divisi <it>Business</it> <it>Intelligence</it> menganggap <it>intern</it> merupakan bagian dari divisi itu sendiri, sehingga membuat <it>intern</it> tidak canggung untuk bertanya mengenai pekerjaan yang dilakukan. Mereka juga tidak sungkan untuk berbagi pengetahuan tertentu maupun berbagi pengalaman dengan <it>intern,</it> sehingga 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<segment>
+			pelaksana kerja praktik dan rekan <it>intern</it> lainnya merasa nyaman dan diterima sebagai bagian dari divisi <it>Business</it> <it>Intelligence</it> itu sendiri. Pelaksana kerja praktik juga merasa bisa mengembangkan diri lebih jauh dengan bergabung menjadi bagian dari divisi <it>Business</it> <it>Intelligence</it> walaupun sebagai <it>intern.</it> Perkembangan tersebut bisa didapatkan baik dari pekerjaan yang dilakukan maupun pengetahuan dari anggota divisi <it>Business</it> <it>Intelligence</it> lainnya. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			<it>Backlog</it> yang harus dikerjakan oleh pelaksana kerja praktik selama masa kerja praktik rata-rata menuntut pelaksana kerja praktik untuk dapat menggunakan kemampuan pemrograman serta kemampuan analisis dari data yang tersedia. Sebagian dari pengetahuan yang dibutuhkan oleh pelaksana kerja praktik telah didapatkan dari mata kuliah yang pernah diambil oleh pelaksana kerja praktik, akan tetapi masih banyak yang harus pelaksana kerja praktik pelajari secara mandiri agar dapat menyelesaikan pekerjaan yang diberikan kepada pelaksana kerja praktik. Pekerjaan yang membutuhkan kemampuan pemrograman ditunjang dari pengetahuan yang dipelajari dari mata kuliah seperti Dasar-dasar Pemrograman, Struktur Data dan Algoritma, dan Perancangan dan Pemrograman <it>Web.</it> Pelaksana kerja praktik juga terbantu dengan pengetahuan yang telah didapatkan dari mata kuliah Perancangan dan Pemrograman <it>Web</it> dan Proyek Pengembangan Sistem Informasi mengenai penggunaan <it>framework</it> dalam mengembangkan aplikasi berbasis <it>web.</it> Pengetahuan mengenai pengembangan sistem dan penggunaan <it>framework</it> yang didapatkan dari mata kuliah tersebut membantu pelaksana kerja praktik saat membangun sebuah <it>dashboard</it> yang diminta walaupun <it>framework</it> yang digunakan berbeda. Mata kuliah pemrograman lainnya seperti Dasar-dasar Pemrograman dan Struktur Data dan Algoritma tidak terlalu berhubungan dengan pekerjaan yang dilakukan oleh pelaksana kerja praktik selama masa kerja praktik. Pada praktiknya pelaksana kerja praktik menggunakan bahasa pemrograman Python, berbeda dengan bahasa pemrograman Java yang dipelajari ketika di perkuliahan. Selain itu, pelaksana kerja 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>16</pagenum>
+		<segment>
+			praktik juga tidak mengaplikasikan <it>object-oriented</it> <it>programming</it> seperti yang diajarkan pada perkuliahan karena pelaksana kerja praktik lebih sering memakai pemrograman untuk melakukan analisis data. Akan tetapi, perkuliahan pemrograman yang telah pelaksana kerja praktik ambil cukup membantu pada pengembangan pola pikir pelaksana kerja praktik dalam hal pemrograman serta dalam analisis algoritma untuk memecahkan permasalahan tertentu. Mata kuliah lainnya yang berhubungan dengan pekerjaan yang pelaksana kerja praktik lakukan adalah mata kuliah Basis Data. Mata kuliah tersebut membantu pelaksana kerja praktik untuk memahami <it>database</it> <it>management</it> <it>system</it> serta melatih pelaksana kerja praktik untuk menggunakan <it>query</it> dalam pengambilan maupun pengolahan data yang terdapat pada <it>database.</it> Akan tetapi masih banyak <it>function</it> pada <it>query</it> yang tidak dibahas maupun dipelajari pada mata kuliah tersebut yang pada kenyataannya sangat bermanfaat untuk membantu pekerjaan dari pelaksana kerja praktik. Selanjutnya, mata kuliah <it>Business</it> <it>Intelligence</it> juga cukup membantu pelaksana kerja praktik dalam melaksanakan kerja praktik. Akan tetapi, mata kuliah tersebut hanya membantu pelaksana kerja praktik sebatas pemahaman teori yang berhubungan dengan pekerjaan pelaksana kerja praktik saja, seperti <it>data</it> <it>cleaning</it> maupun <it>data</it> <it>clustering.</it> Untuk implementasi pada kasus di dunia nyata pelaksana kerja praktik harus mempelajari lebih lanjut agar dapat memahami langkah yang perlu dilakukan. Selain itu pelaksana kerja praktik juga mendapatkan beberapa pekerjaan yang membutuhkan pengetahuan maupun <it>skill</it> yang pelaksana kerja praktik belum pernah pelajari atau dapatkan dari bangku perkuliahan. Contohnya adalah untuk cara melakukan optimisasi <it>query</it> yang tidak pelaksana kerja praktik pelajari dari mata kuliah Basis Data, <it>natural</it> <it>language</it> <it>processing</it> dan pemodelan mesin untuk <it>topic</it> <it>extraction</it> yang belum pernah pelaksana kerja praktik pelajari dari mata kuliah yang pernah pelaksana kerja praktik ambil. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>17</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Kerja praktik yang dilakukan oleh pelaksana kerja praktik selama kurang lebih sepuluh minggu telah memberikan pengalaman yang sangat berharga bagi pelaksana kerja praktik. Pengalaman tersebut membuat pelaksana kerja praktik mendapatkan berbagai kemampuan yang sangat bermanfaat, baik <it>soft</it> <it>skills</it> maupun <it>hard</it> <it>skills,</it> yang tidak pelaksana kerja praktik dapatkan pada perkuliahan. Selain itu, pelaksana kerja praktik juga mendapatkan pengalaman bekerja langsung di dunia nyata dan mendapatkan kesempatan untuk mengaplikasikan ilmu yang telah pelaksana kerja praktik dapatkan selama berkuliah di Fasilkom UI. Pelaksana kerja praktik juga mendapatkan ilmu pengetahuan yang lebih selama melaksanakan kerja praktik di GO-JEK. Ilmu pengetahuan yang didapatkan dari pelaksanaan kerja praktik seperti bagaimana cara melakukan <it>mapping</it> <it>visualization</it> menggunakan <it>tool</it> yang ada, bagaimana cara melakukan <it>fraud</it> <it>analysis,</it> bagaimana cara membuat <it>query</it> yang baik sehingga hasilnya lebih optimal, bagaimana cara melakukan NLP dan <it>sentiment</it> <it>analysis,</it> serta bagaimana cara membuat sebuah <it>dashboard</it> dengan implementasi <it>fraud</it> <it>rule</it> di dalamnya. Selama pelaksanaan kerja praktik banyak hambatan dan kesulitan yang ditemui oleh pelaksana kerja praktik. Namun hambatan dan kesulitan tersebut tidak menjadi penghalang dalam melaksanakan kerja praktik, tetapi menjadi motivasi bagi pelaksana kerja praktik untuk belajar lebih banyak dan menghadapi hambatan dan kesulitan tersebut dengan mandiri. Lingkungan kerja yang bersahabat juga membantu pelaksana kerja praktik untuk dapat berkembang dan belajar lebih banyak mengenai dunia IT khususnya di bidang <it>business</it> <it>intelligence.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>18</pagenum>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Berdasarkan pengalaman yang pelaksana kerja praktik dapatkan selama melaksanakan kerja praktik, pelaksana kerja praktik memiliki beberapa saran untuk mahasiswa yang ingin melakukan magang atau kerja praktik:   Sebelum melamar untuk kerja praktik atau magang, sebaiknya cari tahu terlebih  dahulu tentang <it>job</it> <it>description</it> dari posisi yang akan dilamar. Hal ini akan membantu pelamar untuk menyesuaikan kemampuan yang dimiliki serta mempersiapkan diri sebaik mungkin agar dapat diterima dan dapat menjalankan masa kerja praktik atau magang dengan lancar.   Tingkatkan  kemampuan  untuk  dapat  bekerjasama  dengan  orang  lain  dalam  sebuah tim. Karena pada umumnya saat ini semua pekerjaan menuntut orang- orang yang terlibat untuk dapat bekerja secara tim agar mendapatkan hasil yang optimal.   Biasakan untuk mencoba memecahkan masalah yang dihadapi secara mandiri.  Jika menemui jalan buntu, jangan malu untuk bertanya kepada yang lebih ahli dalam masalah yang dihadapi, agar pekerjaan yang dilakukan tetap dapat diselesaikan dengan optimal.   Tingkatkan  <it>communication</it>  <it>skill,</it> karena sangat dibutuhkan untuk berkomunikasi dengan orang lain serta untuk menyampaikan ide yang ada kepada tim sehingga presentasi yang dilakukan dapat dimengerti oleh orang lain. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>19</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] GO-JEK Indonesia, "GO-JEK Indonesia," GO-JEK Indonesia, 2016. [Online]. Available: https://www.go-jek.com/. [Accessed 31 Oktober 2016]. [2] R. Mulcahy, "Business Intelligence Definition and Solutions," CIO, 6 March 20017. [Online]. Available: http://www.cio.com/article/2439504/business- intelligence/business-intelligence-definition-and-solutions.html. [Accessed 2 December 2016]. [3] "What is Cohort Analysis - Definitions, Examples, and Tools," [Online]. Available: http://cohortanalysis.com/. [Accessed 2 December 2016]. [4] Plotr, "How To Become A Fraud Analyst," Plotr, [Online]. Available: https://www.plotr.co.uk/careers/fraud-analyst/overview/. [Accessed 2 December 2016]. [5] M. Kiser, "Introduction to Natural Language Processing (NLP) 2016," 11 August 2016. [Online]. Available: http://blog.algorithmia.com/introduction-natural- language-processing-nlp/. [Accessed 2 December 2016]. [6] K. Bannister, "Sentiment Analysis: How Does It Work? Why Should We Use It?," 
+		</segment>
+		<pagenum>26</pagenum>
+		<segment>
+			January 2015. [Online]. Available: https://www.brandwatch.com/blog/understanding-sentiment-analysis/. [Accessed 2 December 2016]. [7] Net Promoter Network, "What Is Net Promoter?," [Online]. Available: https://www.netpromoter.com/know/. [Accessed 2 December 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>20</pagenum>
+		<segment>
+			[8] M. Rouse, "What is business intelligence dashboard?," November 2010. [Online]. Available: http://searchbusinessanalytics.techtarget.com/definition/business- intelligence-dashboard. [Accessed 2 December 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

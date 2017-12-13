@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>Perancangan</bo> <bo>dan</bo> <bo>pengembangan</bo> <bo>Perancangan</bo> <bo>dan</bo> <bo>pengembangan</bo> <bo>sistem</bo> <it><bo>Enterprise</bo></it> <it><bo>resource</bo></it> <it><bo>planning</bo></it> <it><bo>Enterprise</bo></it> <it><bo>resource</bo></it> <it><bo>planning</bo></it> <bo>(ERP)</bo> <bo>pada</bo> <bo>PT</bo> <bo>Denbe</bo> <bo>Anugerah</bo> <bo>Solusindo</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>Muhammad</bo> <bo>Devin</bo> <bo>Pradipta</bo> <bo>1306382663</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo> <bo>PROGRAM</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh, Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			Program Studi Judul Kerja Praktik : Muhammad Devin Pradipta : 1306382663 : Sistem informasi : <bo>Perancangan</bo> <bo>dan</bo> <bo>pengembangan</bo> <bo>sistem</bo> <it><bo>Enterprise</bo></it> <it><bo>resource</bo></it> <it><bo>planning</bo></it> <bo>(ERP)</bo> <bo>pada</bo> <bo>PT</bo> <bo>Denbe</bo> <bo>Anugerah</bo> <bo>Solusindo</bo> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini dibuat sebagai salah satu dokumen dalam mata kuliah Kerja Praktik yang bertujuan untuk melaporkan pekerjaan yang dikerjakan saat penulis melakukan kerja praktik. Penulis melakasanakan kerja praktik dimulai pada tanggal 13 Juni 2016 hingga 5 Agustus 2016. Pekerjaan yang dilakukan oleh penulis ialah melakukan perancangan dan pengembangan Sistem informasi berupa ERP pada PT Denbe Anugrah Solusindo yang dimana penulis mengimplementasikan beberapa modul ERP yang telah diberikan oleh penyelia KP. Dalam melakukan pengerjaan Proyek ERP, penulis mengimplementasikan beberapa disiplin ilmu yang dipelajari selama perkuliahan di Fasilkom UI seperti Rekayasa Perangkat Lunak, Basis Data, Kombistek dan <it>Enterprise</it> <it>Resource</it> <it>Planning.</it> Saat melakukan kerja praktik, terdapat kendala-kendala yang dihadapi penulis dari segi teknis maupun non teknis dan beberapa solusi untuk mengatasi masalah yang dihadapi penulis. Pada saat melakukan kerja praktik, penulis menggunakan beberapa teknologi untuk menunjang pekerjaan dan juga faktor non teknis dalam melakukan kerja praktik seperti melakukan presentasi dan komunikasi dengan <it>stackholder.</it> Kata kunci: [Enterprise Resource Planning, Kerja Praktik,Sistem Informasi] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 2</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 3 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 3</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 3</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 3</title>
+		<title>2.1.3. Metodologi ................................................................................................ 6</title>
+		<title>2.1.4. Teknologi .................................................................................................. 6</title>
+		<title>2.1.5. Non-teknis ................................................................................................. 6</title>
+		<title>2.2. Analisis ............................................................................................................ 7</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 7</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ......................................... 8</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 10 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 10</title>
+		<title>3.2. Saran .............................................................................................................. 10</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 11 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<segment>
+			Gambar 1 Struktur Organisasi PT Denbe Anugrah Solusindo 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 2 <it>Agile</it> <it>Development</it> <it>Methodology</it> 
+		</segment>
+		<pagenum>v</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			Lampiran 1 Kerangka Acuan Kerja Praktik Lampiran 2 LOG Kerja Praktik 
+		</segment>
+		<pagenum>vii</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis mulai mencari lowongan kerja praktik pada bulan April 2016, dibulan April</title>
+		<segment>
+			2016, penulis mendaftar pada 2 perusahaan yaitu radiokeras.com dan rupawa.co.id. Di rupawa.co.id, penulis tidak mendapatkan jawaban apapun sekitar 1 bulan setelah melakukan pendaftaran ke perusahaan tersebut sehingga, penulis mencari tempat Kerja Praktik di perusahaan lain. Lalu penulis mendapat kabar bahwa di radiokeras.com ada lowongan pekerjaan, penulis memberikan CV ke perusahaan tersebut dan penulis diterima bekerja pada perusahaan tersebut ,tetapi dikarenakan pekerjaan yang dilakukan di radiokeras.com hampir tidak ada kaitannya dengan Sistem Informasi (lingkup pekerjaan lebih ke ilmu komputer), maka penulis tidak melakukan proses rekrutment lanjut di radiokeras.com, sehingga penulis masih mencari perusahaan lain untuk kerja praktik. Sekitar bulan Juni 2016, penulis mendapatkan informasi dari salah satu teman di Fakultas Ilmu Komputer UI bahwa penulis dan beberapa teman di Fasilkom UI ada lowongan pekerjaan dan dapat melakukan kerja praktik di PT Denbe Anugrah solusindo. Setelah mengetahui lingkup pekerjaannya terkait dengan matakuliah Sistem Informasi, akhirnya penulis melaksanakan kerja praktik di PT Denbe Anugrah Solusindo. Pada awalnya, proyek yang ingin dikerjakan oleh penulis dan teman lainnya berupa <it>website</it> resiko manajemen, tapi dikarenakan waktu magang penulis baru bisa dimulai pada tanggal 13 Juni 2016, maka proyek yang penulis dan teman lainnya kerjakan berupa perancangan ERP pada PT Denbe Anugrah Solusindo. Setelah kami mendapatkan kepastian dapat melakukan kerja praktik di PT Denbe Anugrah Solusindo, kami mengurus dokumen yang berupa surat izin dari Fakultas Ilmu Komputer UI dan setelah dokumen terpenuhi, penulis dan teman lainnya resmi bekerja di PT Denbe Anugrah Solusindo pada tanggal 13 Juni 2016. Pertimbangan penulis untuk memilih kerja praktik di PT Denbe Anugrah Solusindo ialah karena penulis ingin mempelajari 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			ERP lebih dalam lalu mengetahui lebih lanjut implementasi ERP didalam sebuah perusahaan, dan ERP erat kaitannya dengan Sistem Informasi. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> PT. Denbe Anugerah Solusindo adalah perusahaan yang bergerak pada bidang</title>
+		<segment>
+			konsultan IT. Didalam perusahaan Denbe juga terdapat pelayanan Infrastruktur <it>hardware,</it> implementasi <it>software,</it> <it>Maintenance</it> <it>service,</it> dan pelayanan <it>end</it> <it>to</it> <it>end</it> <it>solution</it> dibidang training IT dan SDM[1]. PT Denbe Anugrah Solusindo tempat penulis melakukan Kerja Praktik berlokasi di Ruko ITC Fatmawati Blok C2 no.8, Jakarta Selatan, dan mempunyai beberapa cabang ditempat lainnya. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Posisi yang diberikan kepada tim magang adalah divisi <it>App</it> <it>Dev</it> &amp; <it>Support</it> yang</title>
+		<segment>
+			menangani proyek perancangan dan pengembangan ERP operasional PT Denbe Anugerah Solusindo yang dipimpin oleh <it>President</it> <it>director</it> lalu dibawahnya terdapat <it>GM</it> <it>marketing,</it> <it>operation</it> <it>and</it> <it>support</it> <it>dan</it> <it>director,</it> lalu dibawahnya terdapat divisi <it>support.</it> Berikut merupakan gambar struktur organisasinya: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo> <bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>belakang</bo> PT Denbe Anugrah Solusindo ingin merancang dan implementasi Sistem informasi</title>
+		<segment>
+			berupa Enterprise Resource Planning (ERP) untuk mendukung proses bisnis PT Denbe Anugrah Solusindo lalu, penulis juga tertarik dengan topik kerja praktik yang ditawarkan oleh PT Denbe Anugrah Solusindo karena penulis bisa mendapatkan ilmu ERP lebih dalam lagi mengenai ERP lalu penulis ingin mengetahui praktik implementasi ERP di dalam perusahaan ataupun organisasi, dan ERP merupakan cabang daripada Program studi Sistem informasi sehingga ilmu yang didapat ada kaitannya dengan Sistem Informasi seperti yang dipelajari pada saat kuliah di Fasilkom UI. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo> <bo>2.1.2.1</bo> <bo>Enterprise</bo> <bo>Resource</bo> <bo>Planning</bo> <bo>(ERP)</bo></title>
+		<segment>
+			Pengertian ERP adalah “sebuah  sistem  informasi  perusahaan  yg  dirancang  untuk  mengkoordinasikan semua sumber daya, informasi dan aktifitas yang diperlukan dalam proses bisnis yang lengkap didalam perusahaan”.  Sistem  ERP  didasarkan  <it>database</it> pada umumnya dan rancangan perangkat lunak berupa tipe modular. Syarat penting ERP adalah “integrasi”,  integrasi  yg  dimaksud  ialah  menggabungkan  berbagai kebutuhan pada satu <it>software</it> dalam <it>logical</it> <it>database,</it> sehingga memudahkan semua departemen berbagi informasi dan berkomunikasi satu sama lain. Pengertian rancangan perangkat lunak modular berarti bahwa sebuah bisnis dapat memilih modul-modul yang diperlukan, dikombinasikan dan disesuaikan dari vendor yang berbeda, dan dapat menambahkan modul baru untuk meningkatkan kinerja bisnis Modul ERP Secara modular, software ERP biasanya terbagi atas modul 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			utama yakni Operasi serta modul pendukung yakni <it>Finance</it> dan <it>Accounting</it> serta Sumber Daya Manusia. Modul ERP bisa terdiri dari:  1. Modul Operasi <it>General</it> <it>Logistics,</it> <it>Sales</it> <it>and</it> <it>Distribution,</it> <it>Materials</it> <it>Management,</it> <it>Logistics</it> <it>Execution,</it> <it>Quality</it> <it>Management,</it> <it>Plant</it> <it>Maintenance,</it> <it>Customer</it> <it>Service,</it> <it>Production</it> <it>Planning</it> <it>and</it> <it>Control,</it> <it>Project</it> <it>System,</it> <it>Environment</it> <it>Management.</it> 2<it>.</it> Modul <it>Financial</it> &amp; <it>Akuntansi</it> <it>General</it> <it>Accounting,</it> <it>Financial</it> <it>Accounting,</it> <it>Controlling,</it> <it>Investment</it> <it>Management,</it> <it>Treasury,</it> <it>Enterprise</it> <it>Controlling.</it> 3. Modul Sumber Daya Manusia <it>Personnel</it> <it>Management,</it> <it>Personnel</it> <it>Time</it> <it>Management,</it> <it>Payroll,</it> <it>Training</it> and <it>Event</it> <it>Management,</it> <it>Organizational</it> <it>Management,</it> <it>Travel</it> <it>Management.</it> Pendekatan Implementasi ERP terdiri dari 3 macam yaitu: 1. <it>The</it> <it>Big</it> <it>Bang</it> <it>Strategy,</it> penerapan seluruh modul dalam paket ERP secara simultan di seluruh fungsi perusahaan. Kelebihannya adalah hanya memerlukan sedikit <it>interface</it> antara sistem lama dan sistem baru, sangat efisien dari segi waktu dan hasilnya optimal. Kekurangannya adalah implementasi yang kompleks sehingga resiko kegagalan tinggi saat pengerjaan proyek. 2. <it>Step-by</it> <it>step</it> <it>(Phased</it> <it>Approach)</it> Melakukan implementasi sedikit demi sedikit dan pada tahap selanjutnya berkonsentrasi yang dimana mengimplementasikan modul yang terkait. Keseluruhan proses bisnis harus terlebih dahulu disiapkan. Kelebihannya adalah kompleksitas dapat dikurangi, memungkinkan terjadinya perbaikan proyek yang akan datang akibat konsultasi internal, biaya tidak terlalu membebani. Kekurangan adalah waktu implementasi keseluruhan lebih panjang, dan hasil dari implementasic ERP hanya dapat dirasakan sedikit demi sedikit akibat hasil yang tidak optimal. 3. <it>Small</it> <it>Bang</it> <it>(Pilot</it> <it>Approach)</it> Pembuatan model implementasi pada salah satu <it>site</it> atau fungsi perusahaan sebagai <it>pilot</it> <it>project</it> dan diteruskan ke fungsi atau <it>site</it> yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			terkait. Kelebihannya adalah biaya relatif rendah, kompleksitas berkurang. Kekurangannya adalah membutuhkan membutuhkan banyak banyak customisasi akibat adanya operasi spesifik antar <it>site.</it> <bo>2.1.2.2</bo> <bo>Sistem</bo> <bo>Informasi</bo> Sistem informasi adalah “suatu  sistem  yang  memiliki  kemampuan  untuk  mengumpulkan informasi dari semua sumber dan menggunakan berbagai media untuk menampilkan informasi”.  Didalam  perancangan  teknologi  informasi,  Sistem  Informasi ialah suatu sistem yang mempunyai visi untuk membantu kinerja seluruh divisi dalam organisasi dengan Teknologi Informasi. Dibawah ini merupakan beberapa fungsi sistem informasi: 1.Meningkatkan aksesibilitas data yang tersaji secara tepat waktu dan akurat bagi para pemakai, tanpa mengharuskan adanya prantara sistem informasi. 2.Menjamin tersedianya kualitas dan keterampilan dalam memanfaatkan sistem informasi secara kritis. 3.Mengembangkan proses perencanaan yang efektif. 4.Mengidentifikasi kebutuhan-kebutuhan akan keterampilan pendukung sistem informasi. 5.Menetapkan investasi yang akan diarahkan pada sistem informasi. 6.Mengantisipasi dan memahami konsekuensi-konsekuensi ekonomis dari sistem informasi dan teknologi baru. 7.Memperbaiki produktivitas dalam aplikasi pengembangan dan pemeliharaan sistem. <bo>2.1.2.3</bo> <bo>Agile</bo> <bo>development</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Agile development ialah salah satu pengembangan metodologi perangkat lunak jangka pendek dan terdapat adaptasi cepat dari tim pengembang terkait perubahan terkait proyek yang dikerjakan. Dibawah ini merupakan gambar dari metodologi <it>agile</it> <it>development.</it>  Gambar 2 Agile Development methodology Dibawah ini merupakan beberapa bentuk proses <it>agile</it> yang umum ditemui: <bo>2.1.2.3.1</bo> <bo>Adaptive</bo> <bo>Software</bo> <bo>Development(ASD)</bo> Sistem kerja dari ASD ialah mengkolaborasikan antara manusia dan tim yang mengatur diri sendiri. Sistem kerja ASD ialah <it>collaboration</it> <it>and</it> <it>learning.</it> Proses ASD sendiri terdiri dari <it>collaboration,</it> yaitu orang yang bermotivasi tinggi bekerja sama, rela membantu, kerja keras, terampil di bidangnya, dan komunikasi masalah untuk menyelesaikan suatu masalah, lalu proses selanjutnya ialah <it>learning,</it> <it>learning</it> disini ialah bagaimana tim <it>developer</it> mempelajari semua hal yang berkaitan dengan proyek, sehingga proyek dapat berjalan dengan baik. <it>Learning</it> dilakukan dengan 3 cara yaitu, <it>Focus</it> <it>group,</it> bagaimana klien dan pengguna memberikan masukan terhadap perangkat lunak, lalu <it>formal</it> <it>technique</it> <it>review,</it> yaitu tim ASD memberikan masukan terhadap proyek dan yang terakhir ialah <it>postemortem,</it> yaitu tim ASD melakukan inspeksi pada kinerja dan proses <it>software</it> <it>development.</it> <bo>2.1.2.3.2</bo> <bo>Agile</bo> <bo>Modelling</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Agile modelling ialah suatu metodologi yang praktis untuk dokumentasi dan pemodelan system <it>software.</it> <it>Agile</it> <it>Modeling</it> adalah kumpulan nilai-nilai, prinsip dan praktek-praktek untuk memodelkan <it>software</it> agar dapat diaplikasikan pada <it>software</it> <it>development</it> proyek secara efektif. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo> Metodologi yang digunakan dalam pengembangan proyek ERP ialah metode <it>agile,</it></title>
+		<segment>
+			metodologi ini dipilih karena pada saat melakukan pengembangan proyek, terjadi banyak perubahan dan penambahan <it>requirement</it> yang terjadi pada saat melakukan presentasi mingguan ke PT denbe anugrah solusindo yang tidak diperkirakan sebelumnya oleh penulis, sehingga dengan metode <it>agile</it> yang diimplementasikan saat pengembangan proyek ERP, maka tim lebih siap menghadapi perubahan yang cukup fleksibel dari perusahaan. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> Teknologi yang digunakan untuk mendukung Kerja Praktik terdiri dari:</title>
+		<segment>
+			<bo>2.1.4.1.</bo> <bo>Draw.io</bo> Draw.io berfungsi untuk membuat <it>Use</it> <it>case</it> <it>diagram</it> dan <it>Entity</it> <it>Relationship</it> <it>Diagram</it> pada proyek ERP. Keunggulan Draw.io ialah lengkapnya modul-modul dalam pembuatan grafik ataupun tabel-tabel, sehingga dalam praktik Kerja KP dalam pembuatan <it>Use</it> <it>Case</it> <it>Diagram</it> dan <it>Entity</it> <it>Relationship</it> <it>Diagram,</it> penulis cukup menggunakan Draw.io, dan aplikasi ini juga bisa terintegrasi dengan google drive sehingga penulis dan teman KP lainnya dapat mengubah sesuai dengan kebutuhan proyek yang sering berubah saat proyek berlangsung. <bo>2.1.4.2.Google</bo> <bo>Drive</bo> Dalam hal ini, Google Drive berguna untuk menyimpan <it>file-file</it> proyek yang dikerjakan, sehingga tim KP di Denbe dapat melakukan pengeditan maupun melihat progress pekerjaan. Google drive juga terintegrasi dengan draw io, sehingga penulis dapat melakukan pekerjaannya secara <it>online.</it> 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non</bo> <bo>teknis</bo> Aspek non teknis yang dipelajari dan diimplementasikan pada saat Kerja Praktik</title>
+		<segment>
+			ialah <it>skill</it> kominukasi dan presentasi. <it>Skill</it> komunikasi yang dipraktikkan ialah bagaimana berkoordinasi dan menyampaikan pendapat terkait proyek yang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			dikerjakan oleh tim kerja praktik lalu dalam presentasi, bagaimana penulis menyampaikan hasil kerja dengan <it>stackholder</it> PT Denbe Anugrah solusindo dengan cara yang efektif dan efisien sehingga <it>stackholder</it> dapat memahami apa yang dipresentasikan oleh penulis. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pelaksanaan Kerja Praktik yang dikerjakan oleh penulis yang sesuai dengan KAKP</title>
+		<segment>
+			ialah melakukan <it>requirement</it> <it>gathering</it> dengan pihak penyelia KP. Pada tahap ini, penulis dan teman lainnya menerima fitur apa saja yang akan dikerjakan oleh penulis dan teman kerja praktik selama kerja praktik. Lalu Penulis merancang <it>use</it> <it>case</it> <it>diagram</it> untuk menjelaskan kepada <it>stackholder</it> <it>use</it> <it>case</it> apa saja yang akan dikerjakan kedepannya, selanjutnya, penulis melakukan perancangan <it>database</it> dari hasil analisis oleh tim kerja praktik berupa <it>Entity</it> <it>relationship</it> <it>diagram</it> (ERD). Dalam melakukan pengerjaan ERD, penulis membagi ERD menjadi 2 bagian dengan Sukrian Syahnel Putra <it>,setelah</it> itu, penulis dengan teman lainnya membuat <it>sitemap</it> untuk mengetahui <it>link</it> antar modul yang dikerjakan oleh <it>programmer</it> nantinya, penulis juga merancang <it>User</it> <it>Acceptance</it> <it>Test</it> (UAT), yang isinya ialah <it>guideline</it> untuk melakukan <it>testing</it> terhadap sistem yang sudah dibuat sebelumnya, sehingga bisa diketahui <it>use</it> <it>case</it> mana saja yang masih terdapat <it>bug</it> dan belum diimplementasi secara sempurna, dan yang terakhir ialah <it>integration</it> <it>testing</it> untuk <it>guideline</it> testing semua modul yang dikerjakan. <it>Integration</it> <it>Testing</it> merupakan <it>testing</it> sebelum produk diberikan kepada penyelia KP. Perbedaan lingkup pekerjaan yang ada di KAKP dan kendala ialah yang awalnya penulis mengerjakan UCRS dari tanggal 21 Juni 2016 hingga tanggal 1 Juli 2016, penulis hanya mengerjakan UCRS selama 3 hari dari tanggal awal, dikarenakan dalam kerja praktik, <it>requirement</it> terus berubah saat tim melakukan presentasi, sehingga penulis fokus pada perencangan <it>database</it> saja bersama Sukrian Syahnel Putra. Kendala kedua yang dihadapi ialah kondisi jalan untuk menuju lokasi Kerja 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			praktik selalu macet, dan solusi yang dilakukan ialah dengan mengidentifikasi jam macet perjalanan ke lokasi Kerja Praktik dan mencari jalan pintas untuk terhindar dari macet, sehingga penulis dapat menghindari kemacetan saat pergi maupun pulang dari kantor agar tidak terlambat ke kantor. Menurut penulis, tempat penulis melakukan kerja praktik, memiliki suasana kekeluargaan yang cukup baik sehingga dalam berkomunikasi, penulis tidak terlalu kaku apabila terdapat masalah pekerjaan dari segi teknis maupun non teknis, lalu suasana kerja yang cukup santai di dalam perusahaan PT Denbe Anugrah Solusindo sehingga tidak ada tekanan yang sangat berat dirasakan oleh penulis. Lalu setiap pegawai PT Denbe Anugrah Solusindo memiliki <it>skill</it> yang bagus dalam melakukan pekerjaannya, sehingga apabila penulis bertanya, mereka dapat menjawab dengan baik dan dapat menyelesaikan masalah yang penulis hadapi saat melakukan Kerja Praktik dan pelaksana Kerja Praktik mendapatkan ilmu yang bermanfaat yang tidak didapatkan pada saat kuliah. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo> Berikut merupakan mata kuliah yang ada kaitannya dengan mata kuliah di Fasilkom</title>
+		<title>UI:</title>
+		<segment>
+			<bo>2.2.2.1</bo> <bo>Enterprise</bo> <bo>Resource</bo> <bo>Planning(ERP)</bo> Relevansi mata kuliah ERP dengan proyek yang dikerjakan oleh penulis ialah dari konten ERP yang dirancang. Konten yang berhubungan ialah berupa konten <it>marketing,</it> HR, kebutuhan operasional dari perusahaan, lalu aplikasi ERP yang diberikan sebagai contoh dari pihak penyelia KP dengan penulis juga terdapat relevansi dengan proyek yang dikerjakan. <bo>2.2.2.2</bo> <bo>Basis</bo> <bo>data</bo> Relevansi mata kuliah basis data dengan proyek yang dikerjakan ialah dalam pembuatan <it>Entity</it> <it>relationship</it> <it>Diagram(ERD).</it> Pembuatan ERD dalam proyek, 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			mengikuti prosedur pembuatan ERD pada saat penulis mengambil mata kuliah basis data. <bo>2.2.2.3</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>(RPL)</bo> Relevansi mata kuliah RPL dengan proyek yang dikerjakan oleh penulis ialah dalam melakukan pengerjaan <it>Use</it> <it>case</it> <it>diagram</it> dan UCRS. Dalam praktiknya, penulis membuat <it>use</it> <it>case</it> <it>diagram</it> dengan berkomunikasi langsung dengan penyelia KP, sehingga penulis merasa lebih sulit dalam pembuatan <it>use</it> <it>case</it> <it>diagram.</it> Didalam pembuatan UCRS, penulis juga mendapatkan ilmu yang relevan dengan implementasinya saat kerja praktik. <bo>2.2.2.4</bo> <bo>Kombistek</bo> Relevansi mata kuliah kombistek ialah <it>skill</it> komunikasi yang efektif. Pada saat penulis melakukan presentasi, penulis mengimplementasikan cara presentasi yang diajarkan pada saat mengambil mata kuliah kombistek, sehingga pesan dapat tersampaikan dengan baik kepada penyelia KP. Lalu yang kedua ialah kemampuan dalam penulisan dokumen (pada bab <it>writing</it> mata kuliah kombistek), dalam penulisan dokumen, dokumen dibuat agar pembaca dapat memahami isi daripada dokumen tersebut dengan baik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo> Penulis melakukan Kerja Praktik bersama teman-temannya di PT Denbe Anugrah</title>
+		<segment>
+			Solusindo dari tanggal 13 Juni 2016 sampai 5 September 2016 dengan mengerjakan proyek Enterprise Resource Planning(ERP) untuk PT Denbe Anugrah Solusindo. Dalam melakukan pengerjaan proyek, beberapa pihak <it>stackholder</it> melakukan perubahan <it>requirement</it> sehingga metodologi yang digunakan pada saat Kerja Praktik ialah metodologi <it>agile.</it> Penulis menghadapi beberapa kendala saat melakukan kerja praktik seperti <it>requirement</it> yang terus berubah, sehingga penulis fokus pada <it>database</it> saja dan macetnya perjalanan dari tempat tinggal penulis ke lokasi Kerja Praktik, dimana solusinya penulis mempelejari jam macet dalam perjalanan menuju tempat Kerja Praktik. Dalam melaksanakan kerja praktik, terdapat beberapa ilmu yang terkait dengan perkuliahan di Fasilkom UI seperti, RPL, basis data, Kombistek dan ERP. Dalam melakukan kerja praktik, penulis mendapatkan ilmu yang tidak didapat pada saat kuliah di Fasilkom seperti praktik komunikasi yang baik dengan <it>stackholder</it> dan praktik <it>requirement</it> <it>gathering</it> . 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo> Saran dari penulis mengenai proyek ialah, agar <it>requirement</it> sudah jelas pada saat</title>
+		<segment>
+			awal analisis, sehingga pada saat pengerjaan proyek, tim Kerja Praktik tidak perlu melakukan analisis berulang kali dan dapat fokus pada pekerjaan implementasi sehingga waktu pengerjaan bisa selesai tepat waktu dan untuk penyelia KP agar dapat memberikan proyek yang sesuai dengan jumlah <it>resource</it> yang tersedia. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			<bo>Netsuite</bo> <bo>(2016)</bo> Diambil 
+		</segment>
+		<pagenum>27</pagenum>
+		<segment>
+			September 2016, dari http://www.netsuite.com/portal/resource/articles/erp/what-is-erp.shtml <bo>What</bo> <bo>is</bo> <bo>(2016)</bo> Diambil 
+		</segment>
+		<pagenum>27</pagenum>
+		<segment>
+			September 2016, dari http://whatis.techtarget.com/definition/IS-information-system-or-information- services <bo>Denbe,</bo> <bo>P.</bo> <bo>(2016).</bo> <it><bo>PT</bo></it> <it><bo>Denbe</bo></it> <it><bo>Anugerah</bo></it> <it><bo>Solusindo.</bo></it> <it><bo>Denbe.co.id.</bo></it> diambil 12 Juli 2016, dari http://www.denbe.co.id 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

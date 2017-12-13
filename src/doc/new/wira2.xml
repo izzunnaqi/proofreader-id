@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <bo>SISTEM</bo> <bo>DETEKSI</bo> <bo>ANOMALI</bo> <bo>PERCOBAAN</bo></title>
+		<title><it><bo>LOGIN</bo></it> <bo>PENGGUNA</bo> <bo>PADA</bo> <bo>APLIKASI</bo> <bo>TRAVELOKA</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>PUTU</bo> <bo>WIRA</bo> <bo>ASTIKA</bo> <bo>DHARMA</bo></title>
+		<segment>
+			<bo>1306403831</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Putu Wira Astika Dharma : 1306403831 Program Studi : Ilmu Komputer Judul Kerja Praktik : Pengembangan Sistem Deteksi Anomali Percobaan <it>Login</it> Pengguna Pada Aplikasi Traveloka <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Rahmad</bo> <bo>Mahendra)</bo> Ditetapkan di : ……………….  Tanggal : ……………….  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan ini secara umum menjelaskan pelaksanaan kerja praktik dan analisis pekerjaan kerja praktik yang dilaksanakan oleh pelaksana KP. Kerja praktik (KP) dilaksanakan dalam rangka memenuhi mata kuliah Kerja Praktik Fakultas Ilmu Komputer, Universitas Indonesia. Pelaksanaan KP dilakukan di PT Trinusa Travelindo atau lebih dikenal sebagai Traveloka selama kurang lebih 3 bulan, dimulai dari tanggal 6 Juli 2016 hingga 5 September 2016. Peran pelaksana KP adalah sebagai <it>Software</it> <it>Engineer</it> <it>Intern</it> yang ditempatkan pada tim <it>User.</it> Proyek yang dikerjakan oleh pelaksana KP adalah Sistem Deteksi Anomali Percobaan <it>Login</it> Pengguna Traveloka. Kata kunci: PT Trinusa Travelindo, Traveloka, <it>Login</it> <it>Anomaly,</it> kerja praktik, <it>Software</it> <it>Engineering</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Profil Tempat Kerja Praktik............................................................................. 3</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik ............................................. 3</title>
+		<segment>
+			BAB 2 PELAKSANAAN KERJA PRAKTIK ............................................................ 5 
+		</segment>
+		<title>2.1. Latak Belakang Pekerjaan ............................................................................... 5</title>
+		<title>2.2. Metodologi ....................................................................................................... 6</title>
+		<title>2.3. Proyek Kerja dan Deliverables ........................................................................ 6</title>
+		<title>2.4. Teknologi ......................................................................................................... 8</title>
+		<title>2.5. Non Teknis ..................................................................................................... 10</title>
+		<segment>
+			BAB 3 ANALISIS PEKERJAAN KERJA PRAKTIK .............................................. 12 
+		</segment>
+		<title>3.1. Kesesuaian dan Perbedaan dengan KAKP ............................................. 12</title>
+		<title>3.2. Kendala dan Cara Menanganinya ........................................................... 14</title>
+		<title>3.3.</title>
+		<segment>
+			Pembelajaran Soft Skill selama Kerja Praktik ........................................ 15 
+		</segment>
+		<title>3.4.</title>
+		<segment>
+			Penilaian Individu terhadap Tempat KP ................................................. 16 
+		</segment>
+		<title>3.5. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 18</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			BAB 4 PENUTUP ...................................................................................................... 20 
+		</segment>
+		<title>4.1. Kesimpulan .................................................................................................... 20</title>
+		<title>4.2. Saran .............................................................................................................. 21</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 22 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ...................................... vii LAMPIRAN 2 LOG KERJA PRAKTIK ................................................................... viii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Posisi Pelaksana Kerja Praktik dalam Struktur Organisasi Traveloka....4 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<segment>
+			Tabel 1. Perbandingan Pelaksanaan KP dengan KAKP..............................................12 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Sebelum memulai pencarian tempat pelaksanaan Kerja Praktik (KP), Pelaksana KP sudah terlebih dahulu bekerja paruh waktu di perusahaan bernama Vesperia. Vesperia, atau lengkapnya PT Vesperia Global Merdeka, adalah perusahaan yang bergerak di bidang teknologi informasi dan menerima beberapa proyek pekerjaan perangkat lunak. Pelaksana KP memutuskan untuk mengundurkan diri dari Vesperia dan mulai mencari tempat pelaksanaan KP di tempat lain. Hal ini pelaksana KP putuskan untuk mencari pengalaman kerja di tempat lain dan bekerja sama dengan jumlah orang yang lebih banyak. Sebelum pelaksana KP memulai pencarian tempat pelaksanaan KP, beberapa perusahaan sudah terlebih dahulu menawarkan pelaksana KP untuk melakukan wawancara di perusahaan mereka. Perusahaan-perusahaan tersebut di antaranya Bizzy, Blackgarlic.id , Mainspring Technology, dan Tri-Niche Pte. Ltd. Perusahaan- perusahaan tersebut mengaku mengenal pelaksana KP melalui media sosial Linkedin. Beberapa dari perusahaan tersebut bahkan menawarkan wawancara untuk bekerja <it>full</it> <it>time</it> di perusahaan mereka. Namun, mengingat pelaksana KP memiliki sasaran dan kriteria perusahaan tertentu untuk dijadikan tempat pelaksanaan KP, pelaksana KP memutuskan untuk menolak tawaran-tawaran tersebut. Hal ini juga mengingat pelaksana KP hanya dapat bekerja selama 3 bulan semasa waktu liburan. Kriteria perusahaan yang diinginkan pelaksana KP adalah <it>startup</it> yang bergerak di bidang teknologi informasi (TI) dengan sasaran posisi yang diinginkan adalah <it>software</it> <it>engineer.</it> <it>Startup</it> merupakan perusahaan muda yang mulai berkembang dalam mengembangkan bisnisnya. Pelaksana KP memilih kriteria tersebut karena menurut pelaksana KP perusahaan tersebut akan memberikan pengalaman yang lebih baik untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			karir pelaksana KP ke depannya. Pemilihan posisi <it>software</it> <it>engineer</it> juga didasari oleh kemampuan dan pengalaman yang dimiliki oleh pelaksana KP. Ketika mencoba mendaftarkan diri, pelaksana KP memiliki sasaran perusahaan di Indonesia. Perusahaan-perusahaan tersebut di antaranya Traveloka, Bukalapak, dan Tokopedia. Sasaran utama pelaksana KP adalah Traveloka. Pelaksana KP sudah menginginkan untuk bekerja di Traveloka sejak satu tahun yang lalu. Pendaftaran Tokopedia dan Bukalapak hanya didasari oleh naluri dan ajakan teman pelaksana KP. Selain itu, Tokopedia dan Bukalapak memenuhi kriteria tempat pelaksanaan KP yang pelaksana inginkan. Hal ini membuat pelaksana KP tetap mendaftarkan diri di kedua perusahaan tersebut. Pendaftaran yang dilakukan oleh pelaksana KP terbilang telat, sebab pelaksana KP baru mulai mendaftarkan diri pada pertengahan bulan April 2016. Pelaksana KP melakukan pendaftaran KP melalui <it>email</it> kepada perusahaan- perusahaan tersebut dengan mengirimkan surat permohonan dan <it>curriculum</it> <it>vitae.</it> Tokopedia adalah perusahaan pertama yang membalas <it>email</it> lamaran pelaksana KP. Tokopedia membalas lamaran pelaksana KP dengan mengirimkan beberapa tugas dan soal-soal pemrograman kepada pelaksana KP. Karena soal yang diberikan oleh Tokopedia memiliki batas waktu tertentu, hal ini membuat pelaksana KP memutuskan untuk menunggu balasan dari Traveloka dan Bukalapak terlebih dahulu. Setelah mendapat balasan dan kepastian dari Traveloka, akhirnya pelaksana KP memutuskan untuk tidak melanjutkan proses pendaftaran di Tokopedia. Setelah hampir satu bulan mengirimkan <it>email,</it> akhirnya Traveloka membalas <it>email</it> lamaran yang diajukan oleh pelaksana KP. Isi dari <it>email</it> balasan oleh Traveloka adalah berupa undangan untuk melakukan wawancara secara langsung di kantor Traveloka. Pihak Traveloka juga menghubungi pelaksana KP melalui telepon untuk memastikan kehadiran pelaksana KP pada wawancara langsung yang diadakan Traveloka. Ketika melaksanakan proses wawancara, Traveloka mengajukan beberapa pertanyaan teknis. Wawancara dilakukan dengan dua orang berbeda dari pihak Traveloka yang merupakan pegawai tetap dengan posisi <it>software</it> <it>engineer</it> di Traveloka. Pelaksana KP 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			diberikan beberapa contoh kasus permasalahan dan diminta untuk menyelesaikan permasalahan tersebut di papan tulis yang disediakan dengan cara yang efisien dan efektif. Setelah beberapa minggu melakukan wawancara, akhirnya pelaksana KP menerima <it>email</it> dari Traveloka yang menyatakan bahwa pelaksana KP diterima di Traveloka dengan posisi <it>software</it> <it>engineer</it> <it>intern.</it> Bukalapak hingga saat ini tidak membalas <it>email</it> lamaran yang pelaksana KP ajukan. Setelah pelaksana KP tanyakan kepada teman yang bekerja di Bukalapak, ternyata kuota penerimaan peserta KP di Bukalapak sudah penuh sehingga Bukalapak tidak lagi menerima pendaftaran kerja praktik. Oleh karena itu, pelaksana KP memutuskan untuk mulai bekerja di Traveloka pada tanggal 6 Juni 2016 dan menandatangani surat kerjasama yang diberikan oleh Traveloka. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksana KP melaksanakan kerja praktik di perusahaan PT Trinusa Travelindo atau lebih dikenal sebagai Traveloka selama kurang lebih tiga bulan. Pada bagian ini, akan dijelaskan mengani profil Traveloka dan posisi pelaksana KP di Traveloka. 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Traveloka adalah salah satu situs pencarian tiket pesawat dan hotel terkemuka di Asia Tenggara, melayani lebih dari 100.000 rute penerbangan dan 100.000 hotel di seluruh dunia [1]. Traveloka merupakan perusahaan Teknologi Informasi yang bergerak di bidang <it>travel.</it> Traveloka didirikan pada tahun 2012 oleh tiga orang mantan pekerja di Silicon Valley yaitu Ferry Unardi, Derianto Kusuma, dan Albert. Saat ini, Traveloka beroperasi di enam negara di Asia Tenggara, yaitu Indonesia, Singapura, Thailand, Vietnam, Filipina, dan Malaysia, dengan total karyawan sebanyak 1200 orang. 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksana KP ditempatkan pada Tim <it>User</it> Traveloka. Tim <it>User</it> Traveloka bertanggung jawab terhadap alur, identitas, identifikasi, konteks, dan hal-hal lain yang terkait keterlibatan pengguna aplikasi Traveloka. Pelaksana KP ditempatkan di Tim 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<segment>
+			<it>User</it> dan diberikan satu proyek khusus yang akan dikerjakan oleh pelaksana KP selama masa kerja praktik berlangsung. Pelaksana KP diberikan seorang mentor dengan posisi sebagai <it>lead</it> <it>software</it> <it>engineer</it> tim <it>User</it> Traveloka. Selama masa kerja praktik, mentor sangat banyak membantu pelaksana KP dari sisi teknis hingga non-teknis. Posisi duduk mentor dan pelaksana KP berdekatan sehingga ke depannya memudahkan pelaksana KP untuk melakukan diskusi dan tanya jawab dengan mentor. <bo>Gambar</bo> <bo>1.</bo> <bo>Posisi</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> <bo>Traveloka</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>PELAKSANAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>2.1.</bo> <bo>Latak</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Traveloka memiliki banyak pengguna. Pengguna-pengguna tersebut menuliskan informasi pribadi miliknya di situs Traveloka untuk keperluan pendaftaran dan pembelian tiket. Traveloka mengusahakan kerahasiaan setiap informasi pribadi yang pengguna tuliskan di situs Traveloka. Beberapa pengguna juga menuliskan informasi kartu kredit untuk keperluan pembayaran menggunakan fitur Traveloka <it>Quick.</it> Belakangan ini, terdapat beberapa tindakan yang dilakukan oleh pihak yang tidak bertanggung jawab. Tindakan tersebut adalah upaya untuk membocorkan informasi yang dimiliki oleh pengguna Traveloka. Pihak yang tidak bertanggung jawab tersebut memiliki list nama-nama pengguna beserta <it>password-nya.</it> Nama-nama pengguna dan <it>password</it> tersebut didapatkan dari sumber yang berbeda-beda. Beberapa sumber yang mungkin adalah penggunaan situs <it>phising,</it> pencurian <it>password</it> menggunakan koneksi internet gratis, dan lain-lain. Sistem Traveloka dapat dikategorikan aman, tetapi beberapa pengguna tidak dapat menyimpan <it>password-nya</it> dengan baik sehingga terjadi tindakan yang merugikan bagi pengguna itu sendiri. Tindakan ini disebut sebagai Anomali Percobaan Login Pengguna Traveloka. Kerugian yang diderita oleh adanya anomali ini cukup banyak. Dari sisi pengguna, anomali ini menyebabkan informasi pribadi pengguna bocor. Selain itu, informasi penting kartu kredit menjadi berada ditangan orang yang salah dan disalahgunakan untuk melakukan pembelian tiket oleh orang yang tidak bertanggung jawab. Pengguna juga sering dirugikan karena tiket yang sudah dibeli tiba-tiba dilakukan proses <it>refund</it> oleh orang yang tidak bertanggung jawab tersebut. Dari sisi Traveloka, Traveloka sangat dirugikan karena integritas dan nama baiknya menjadi tercemar. Traveloka juga mengalami kerugian secara finansial karena harus melakukan ganti rugi terhadap kerugian yang dialami oleh pengguna. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			Sebelum pelaksanaan KP dimulai, sistem deteksi anomali sebelumnya sudah pernah dibuat untuk melakukan <it>block</it> terhadap <it>IP</it> <it>Address</it> yang diduga melakukan percobaan login tidak wajar. Namun, sistem deteksi anomali masih bersifat sangat mendasar. Kode sumber dibuat dengan terburu-buru sehingga tidak didokumentasikan dan dibuat dengan baik. Fleksibilitas fitur ini masih sangat kaku, sehingga <it>administrator</it> Traveloka tidak dapat membuat pengaturan lebih lanjut terkait fitur ini. Selain itu, <it>administrator</it> Traveloka juga tidak dapat melihat siapa saja yang di-<it>block</it> serta tidak dapat melakukan <it>block</it> atau <it>unblock</it> secara manual. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik tidak menerapkan metodologi khusus karena proyek yang dikerjakan oleh pelaksana KP bersifat <it>improvement</it> terhadap sistem deteksi anomali percobaan login di Traveloka sebelumnya. Pelaksana KP mengikuti rapat mingguan tim <it>User</it> yang dilaksanakan setiap satu minggu sekali. Pada setiap rapat mingguan, dilaksanakan <it>review</it> terhadap pekerjaan setiap anggota satu minggu sebelumnya serta menetapkan tujuan selama satu minggu kedepan. Selain rapat mingguan, pelaksana KP juga mengikuti sesi <it>sharing</it> setiap minggunya bersama <it>backend</it> <it>programmer</it> tim <it>User</it> Traveloka. Sesi <it>sharing</it> ini bertujuan sebagai media berbagi pengetahuan untuk internal tim <it>User</it> mengenai hal-hal yang berhubungan dengan ruang lingkup tim <it>User.</it> <it>Code</it> <it>Review</it> dilakukan setiap kali sebuah fitur dinyatakan selesai pada suatu tahap tertentu. Tujuan diadakannya <it>code</it> <it>review</it> adalah untuk memastikan kode sumber yang dibuat oleh <it>programmer</it> memenuhi kriteria penulisan bahasa pemrograman yang diterapkan oleh Traveloka dengan baik. <it>Testing</it> yang dilakukan oleh <it>Product</it> <it>Manager</it> setiap kali sebuah fitur dinyatakan selesai dan siap digunakan. 
+		</segment>
+		<title><it><bo>2.3.</bo></it> <bo>Proyek</bo> <bo>Kerja</bo> <bo>dan</bo> <it><bo>Deliverables</bo></it></title>
+		<segment>
+			Proyek yang pelaksana KP kerjakan adalah pengembangan dari pekerjaan sebelumnya. Pelaksana KP fokus untuk membuat satu modul tambahan yaitu modul <it>UserRiskDetection</it> untuk ke depannya dapat digunakan oleh seluruh tim <it>User</it> atau bahkan seluruh <it>software</it> <it>engineer</it> Traveloka. Modul ini akan mendeteksi adanya percobaan login tidak wajar yang dilakukan oleh suatu alamat IP tertentu. Sistem 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			deteksi bersifat <it>rule</it> <it>based,</it> artinya dengan menggunakan aturan-aturan tertentu yang didefinisikan oleh <it>administrator</it> Traveloka. Selain aturan-aturan untuk keperluan deteksi secara <it>rule</it> <it>based,</it> pelaksana KP juga mendefinisikan strategi-strategi tertentu. Strategi tersebut dirancang menjadi modul <it>IPVelocityStrategy</it> untuk mendeteksi percobaan <it>login</it> tidak wajar berdasarkan seberapa seringnya suatu alamat IP melakukan <it>login,</it> serta modul <it>NewDeviceStrategy</it> untuk mendeteksi percobaan <it>login</it> tidak wajar berdasarkan seberapa seringnya suatu pengguna <it>login</it> di perangkat yang berbeda. Selain membuat modul <it>UserRiskDetection,</it> pelaksana KP juga diminta membuat modul <it>BlockIP,</it> <it>UnBlockIP,</it> dan <it>WhiteListIP.</it> Modul ini nantinya akan berperan untuk melakukan <it>block</it> atau <it>unblock</it> alamat IP. Modul ini akan dipanggil oleh modul <it>UserRiskDetection</it> maupun dipanggil secara manual melalui halaman <it>administrator</it> untuk menambahkan alamat IP ke dalam daftar IP yang diblokir. Selain itu, diperlukan juga modul untuk mendefinisikan alamat IP yang seharusnya tidak akan diblokir untuk keperluan <it>testing.</it> Salah satu alamat IP yang tidak boleh diblokir adalah alamat IP kantor Traveloka. Mendefinisikan alamat IP yang tidak boleh diblokir menggunakan modul <it>WhilteListIP.</it> Pelaksana KP juga diminta membuat halaman <it>administrator</it> untuk memudahkan <it>administrator</it> Traveloka dalam mengatur penggunaan fitur ini. Halaman <it>administrator</it> memiliki beberapa fungsi, di antaranya:   Membuat atau menghapus suatu <it>rule</it> terkait deteksi perocabaan <it>login</it> tidak  wajar yang dilakukan oleh suatu alamat IP.   Melihat aktivitas alamat IP yang diblokir.    Melakukan <it>block</it> atau <it>unblock</it> alamat IP secara manual.    Memasukkan alamat IP kedalam daftar <it>while</it> <it>list.</it>  <it>Deliverables</it> yang dihasilkan oleh pelaksana KP selama pelaksanaan kerja praktik di antaranya: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			  Dokumentasi  Pelaksana KP diminta untuk membuat dokumentasi yang baik terkait fitur yang dibuat. Dokumentasi terdiri dari arsitektur program secara keseluruhan, serta fungsi-fungsi dan modul-modul apa saja yang dapat digunakan dan bagaimana cara menggunakannya. Dokumentasi penting sebab fitur yang pelaksana KP buat nantinya akan digunakan hampir di semua fitur yang Traveloka miliki.   Kode Sumber  Seluruh kode sumber yang dibuat oleh pelaksana KP dikirimkan ke <it>repository</it> yang dimiliki Traveloka.   <it>Release</it>  Pekerjaan yang dikerjakan oleh pelaksana KP bukan merupakan pekerjaan <it>dummy.</it> Artinya fitur yang pelaksana KP implementasikan benar-benar sudah di-<it>release</it> di sistem Traveloka dan benar-benar sudah berjalan hingga saat ini. Sebelum pelaksana KP menyelesaikan masa pelaksanaan KP di Traveloka, pelaksana KP diberi tanggung jawab untuk melakukan <it>release</it> ke sistem Traveloka. Karena pentingnya proses <it>release,</it> serta proses ini juga memiliki resiko yang tinggi terhadap kegagalan, pelaksana KP dibantu oleh beberapa tim yang bertanggung jawab melakukan <it>release.</it> 
+		</segment>
+		<title><bo>2.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, berbagai teknologi digunakan oleh pelaksana KP. Teknologi tersebut beberapa di antaranya sudah pernah dipelajari sebelumnya dan beberapa teknologi bersifat baru bagi pelaksana KP sehingga perlu dipelajari terlebih dahulu. Berikut adalah <it>tools</it> yang digunakan dan dipelajari oleh pelaksana KP, yaitu:   Phabricator.  Phabricator  adalah  aplikasi  <it>online</it>  berbasis  <it>web.</it>  Phabricator  memiliki fitur untuk menyimpan kode sumber di <it>repository</it> <it>online,</it> melakukan <it>code</it> <it>review,</it> melakukan <it>build</it> <it>project</it> untuk nantinya dilakukan <it>release</it> di <it>server</it> Traveloka. Pelaksana KP menggunakan ketiga fitur tersebut selama mengerjakan proyek di Traveloka. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			  IntelliJ IDEA. IntelliJ IDEA merupakan sebuah IDE. IDE merupakan sebuah perangkat lunak yang memberikan berbagai fasilitas dan kemudahan kepada <it>programmer</it> ketika menuliskan kode program. IntelliJ IDEA biasa digunakan pelaksana KP untuk menuliskan kode sumber dengan bahasa pemrograman Java di Traveloka.   Slack. Slack merupakan  aplikasi  <it>online</it>  yang biasa digunakan sebagai  media  kolaborasi internal Traveloka. Pelaksana KP menggunakan Slack untuk berkomunikasi dengan sesama pegawai lainnya di Traveloka, baik itu di tim <it>User</it> maupun tim lainnya di <it>software</it> <it>engineering</it> maupun dari berbagai bidang lainnya selain <it>software</it> <it>engineering.</it>   Confluence.  Confluence  merupakan  aplikasi  <it>online</it>  yang  biasa  digunakan  untuk membuat dokumentasi dan manual yang dibutuhkan oleh perusahaan. Pelaksana KP menggunakan Confluence untuk keperluan membuat dokumentasi maupun mempelajari dokumentasi dari program aplikasi Traveloka yang sudah dibuat. Confluence dikembangkan oleh perusahaan Atlassian pada tahun 2004.   Asana.  Asana  merupakan  aplikasi  yang  berguna  untuk  membuat  pembagian  pekerjaan, dan <it>monitoring</it> jadwal pekerjaan yang dibagikan oleh seluruh anggota dalam tim. Pelaksana KP menggunakan Asana untuk melihat pekerjaan apa saja yang diberikan beserta sasaran kapan pekerjaan tersebut harus diselesaikan.   GoCD.  GoCD  merupakan  aplikasi  untuk  melakukan  <it>build</it>  <it>project</it>  dari  kode  sumber yang sudah dituliskan oleh <it>programmer.</it> Pelaksana KP menggunakan GoCD untuk melakukan <it>build</it> <it>project</it> sebelum melakukan proses <it>release</it> maupun <it>code</it> <it>review.</it> Bahasa pemrograman yang digunakan dan dipelajari oleh pelaksana KP selama pelaksanaan kerja praktik, yaitu: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			  Bash.  Bash  merupakan  suatu  bahasa  pemrograman  yang  digunakan  untuk  memberikan perintah kepada sistem operasi. Bash digunakan di <it>command</it> <it>terminal</it> sistem operasi Linux.   Java.  Java  merupakan  bahasa  pemrograman  tingkat  tinggi  dan  umum  digunakan dikalangan <it>programmer.</it> Bahasa Java bersifat <it>concurrent,</it> <it>class-</it> <it>based,</it> dan <it>object-oriented.</it> Bahasa pemrograman ini digunakan sebagai bahasa pemrograman utama dalam membuat <it>web</it> <it>services</it> aplikasi Traveloka.   HTML.  <it>Hypertext</it>  <it>Markup</it>  <it>Language</it>  (HTML)  merupakan  suatu  bahasa  markah yang digunakan untuk membuat sebuah halaman <it>web</it> dan menampilkan berbagai informasi di penjelajah <it>web.</it>   CSS.  <it>Cascading</it>  <it>Style</it>  <it>Sheet</it>  (CSS)  adalah  bahasa  pemrograman  yang  digunakan untuk mendefinisikan desain dari bahasa markah. Salah satu bahasa markah yang biasa digunakan adalah HTML. CSS biasa digunakan untuk mempercantik tampilan suatu halaman <it>web.</it>   JavaScript.  Javascript  merupakah  bahasa  pemrograman  tingkat  tinggi  yang  bersifat dinamis. Javascript biasa digunakan untuk membuat interaksi pada halaman <it>web.</it> Meskipun memiliki kemiripan nama dengan bahasa pemrograman Java, kedua bahasa pemrograman ini memiliki karakteristik dan kegunaan yang benar-benar berbeda. 
+		</segment>
+		<title><bo>2.5.</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, selain mendapatkan pengalaman teknis, pelaksana KP juga mendapatkan pengalaman non-teknis. Di Traveloka, pelaksana KP dituntut aktif bertanya dan belajar terkait permasalahan yang muncul selama pengerjaan proyek. Meskipun mentor ada untuk membimbing pelaksana KP, mengingat posisi mentor sebagai <it>lead</it> <it>software</it> <it>engineer</it> tim <it>User,</it> mentor memiliki agenda yang sangat padat. Hal ini membuat pelaksana KP wajib untuk aktif bertanya dengan sesama anggota tim <it>User.</it> Komunikasi merupakan hal yang penting di Traveloka sebab sebagai anggota baru tentunya membutuhkan anggota lainnya yang lebih berpengalaman untuk membimbing dan memberikan bantuan teknis maupun non-teknis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			Selain komunikasi dengan sesama anggota tim, pelaksana KP juga dituntut untuk dapat berkomunikasi dengan baik antar sesama pegawai Traveloka. Hal ini diperlukan karena terkadang pekerjaan yang dikerjakan oleh pelaksana KP menyentuh pekerjaan yang dikerjakan oleh pegawai di tim lain. Kemampuan kerja sama dan komunikasi penting agar pekerjaan bisa diselesaikan dengan baik oleh pelaksana KP maupun pegawai lain tersebut. Pelaksana KP juga dituntut untuk belajar mandiri dengan membaca dokumentasi, kode sumber program, atau bahkan menjelajah internet untuk menemukan solusi dari permasalahan yang ditemukan. Hal ini diperlukan karena terkadang permasalahan yang muncul bersifat unik dan tidak pernah dialami oleh <it>programmer</it> lain di Traveloka. Proses belajar mandiri tidak hanya dilakukan oleh pelaksana KP, tetapi juga dilakukan oleh anggota lainnya. Setiap minggunya, <it>programmer</it> tim <it>User</it> akan melakukan sesi <it>sharing</it> <it>knowledge</it> untuk berbagi pengetahuan hasil belajar mandiri yang dilakukan oleh masing-masing anggota. Pelaksana KP juga dituntut mandiri untuk mengatur waktu. Jika di perkuliahan maupun tempat kerja lainnya memiliki jam masuk yang tetap, Traveloka memiliki jam masuk yang fleksibel. Pegawai Traveloka juga bahkan boleh saja tidak masuk kantor jika memang memiliki halangan hadir tanpa harus mengirimkan surat atau mendapat potongan kompensasi. Hal ini membuat pelaksana KP harus disiplin waktu agar pekerjaan yang dikerjakan dapat diselesaikan tepat waktu. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>ANALISIS</bo> <bo>PEKERJAAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilakukan selama 10 minggu, terhitung mulai 6 Juni 2016 hingga 5 September 2016. Pada bagian ini dijelaskan Kesesuaian dan Perbedaan dengan KAKP, Kendala dan Cara Menanganinya, Penilaian Individu Terhadap Tempat KP, serta Relevansi dengan Perkuliahan di Fakultas Ilmu Komputer, Universitas Indonesia. 
+		</segment>
+		<title><bo>3.1.</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo></title>
+		<segment>
+			Secara umum, pelaksanaan kerja praktik tidak jauh berbeda dengan kerangka acuan kerja praktik. Ruang lingkup yang dikerjakan oleh pelaksana KP sesuai dengan apa yang direncanakan. Meski begitu, terdapat beberapa perubahan jadwal untuk menyesuaikan kondisi. Beberapa perbedaan tersebut didefinisikan pada tabel dibawah ini. <bo>Tabel</bo> <bo>1.</bo> <bo>Perbandingan</bo> <bo>Pelaksanaan</bo> <bo>KP</bo> <bo>dengan</bo> <bo>KAKP</bo> Waktu Perbedaan dengan KAKP Minggu 1 6 Juni 2016 – 10 Juni 2016  Minggu 2 - 3  13 Juni 2016 – 24 Juni 2016  Minggu 4  27 Juni 2016 – 1 Juli 2016  Sesuai dengan KAKP Sesuai dengan KAKP Sesuai dengan KAKP. Pada minggu ini juga dilakukan:   Pembelajaran  tentang  prosedur  program  yang sekarang ada. 4 Juli 2016 – 8 Juli 2016  Minggu 5  11 Juli 2016 – 15 Juli 2016  Cuti Bersama Lebaran Sesuai dengan KAKP. Pada minggu ini juga dilakukan: Minggu 6 18 Juli 2016 – 22 Juli 2016    Perbaikan  kode  sumber <it>User</it> <it>Risk</it> <it>Detection</it> yang sudah dilakukan <it>testing</it> dan <it>review</it> pada minggu sebelumnya.   Pembuatan dokumentasi terkait <it>User</it> <it>Risk</it>  <it>Detecion.</it> Terdapat perbedaan dengan KAKP, yaitu:   Tidak  menggunakan  <it>machine</it>  <it>learning</it>  sebab data yang dimiliki masih sedikit. Pada minggu ini juga dilakukan: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			  Pembuatan  <it>Randomize</it> fitur <it>Mass</it> <it>Randomize</it> <it>Password</it> untuk memanggil secara masal fitur yang sebelumnya terhadap beberapa pengguna sekaligus. Fitur ini dibuat atas permintaan <it>Product</it> <it>Manager.</it> <it>Password</it> dibuat sudah Minggu 7 25 Juli 2016 – 29 Juli 2016  Terdapat perbedaan dengan KAKP, yaitu:   Pada  minggu  ini tidak dilakukan pengerjaan <it>NewDeviceStrategy.</it> Pada minggu ini dilakukan beberapa pekerjaan pengganti, yaitu:   Pembuatan  modul  <it>IPWhiteList</it> dan prosedur mendaftarkan alamat IP kedalam daftar <it>white</it> <it>list.</it>   Memanfaatkan  <it>IPWhiteList</it> kedalam <it>IPVeloctityStrategy.</it>   Merancang  tampilan halaman serta menghubungkan sudah dibuat kedalam <it>administrator</it> modul yang halaman <it>administrator.</it> Minggu 8 1 Agustus 2016 – 5 Agustus  2016  Sesuai dengan KAKP.</it> Pada minggu ini juga dilakukan:   <it>Refactoring</it>  kode  sumber  yang  sudah  dibuat sebelumnya.   Memperbaiki  halaman <it>administrator</it> sesuai dengan permintaan mentor. tampilan   Perbaikan  kode  sumber  modul-modul  <it>IPBlacklist</it> dan <it>IPWhitelist.</it>   Menerapkan  <it>NewDeviceStrategy</it>  yang  seharusnya  dikerjakan  pada  minggu  sebelumnya.  dibuat. Hal   Merubah  template  <it>email</it>  notifikasi  fitur  <it>Randomize</it>  <it>Password</it>  yang  sebelumnya  sudah  dilakukan  berdasarkan permintaan <it>Product</it> <it>Manager</it>  untuk  bekerja  sama  dengan  tim  penyedia  konten.  Implementasi  strategi  diusulkan oleh <it>Product</it> <it>Manager.</it>  tambahan yang ini   Minggu 9 - 10 8 Agustus 2016 – 19 Agustus  2016  Sesuai dengan KAKP. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<title><bo>3.2.</bo> <bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo></title>
+		<segment>
+			Dalam menyelesaikan pekerjaan selama pelaksanaan KP, pelaksana KP merasa mendapatkan cukup banyak kendala. Hal ini disebabkan karena sebagian besar teknologi yang digunakan belum pernah pelaksana KP pelajari sebelumnya, baik itu selama masa perkuliahan maupun di luar perkuliahan. Hal ini pelaksana KP tangani dengan melakukan proses belajar mandiri untuk melakukan <it>learning</it> <it>by</it> <it>doing</it> penggunaan teknologi-teknologi tersebut. Jika sudah merasa <it>stuck,</it> pelaksana KP akan mengajak berbincang teman satu tim, sekaligus bertanya-tanya seputar kebingungan yang pelaksana KP alami. Selain masalah penggunaan teknologi baru, struktur kode sumber program di sistem Traveloka juga tidak mudah untuk dibaca. Sebagian besar dari kode sumber tidak rapi. Pembuatan kode sumber dilakukan dengan menggunakan <it>best</it> <it>practices</it> yang hanya diketahui oleh masing-masing orang saja. Hal ini diakui oleh <it>lead</it> <it>software</it> <it>engineer</it> tim <it>User,</it> bahwa setiap tim atau bahkan setiap pekerja memiliki preferensi cara membuat kode sumber. Hal ini pelaksana KP tangani dengan membaca dokumentasi dan <it>wiki</it> terlebih dahulu sebelum memulai membaca kode sumber. Namun, beberapa dokumentasi dan <it>wiki</it> juga berantakan atau bahkan beberapa di antara kode sumber tidak didokumentasikan dengan baik. Hal ini pelaksana KP tangani dengan berbincang dengan mentor, sesama anggota tim, atau dengan orang yang bertanggung jawab langsung terhadap kode sumber tersebut. Kendala lainnya adalah agenda mentor yang sangat padat membuat pelaksana KP tidak selalu mendapat bimbingan dari mentor. Hal ini pelaksana KP tangani dengan bersosialisasi dan mengakrabkan diri dengan sesama anggota tim. Sesama pekerja khususnya di tim <it>User</it> memiliki kemampuan kerja sama yang baik dan kemauan untuk saling membantu. Hal ini pelaksana KP manfaatkan untuk menangani masalah mentor yang sibuk. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<title><bo>3.3.</bo> <bo>Pembelajaran</bo> <it><bo>Soft</bo></it> <it><bo>Skill</bo></it> <bo>selama</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik sangat memberikan pengalaman dan mengasah kemampuan teknis maupun non-teknis pelaksana KP. Selama pelaksanaan KP, pelaksana KP mendapatkan pelajaran <it>soft</it> <it>skill</it> berupa:   Kemampuan beradaptasi di lingkungan baru  Ketika pelaksana KP memulai pelaksanaan kerja praktik di Traveloka, pelaksana KP dihadapkan dengan kondisi lingkungan baru dan orang-orang baru. Pelaksana KP dituntut untuk dapat beradaptasi dengan orang-orang dan lingkungan baru. Pelaksana KP harus aktif berkenalan dengan pegawai lainnya, dan harus aktif menjalin komunikasi untuk meningkatkan keakraban antar sesama. Hal ini penting sebab selama pelaksanaan KP, pelaksana KP tentunya membutuhkan bantuan maupun bekerja sama dengan pegawai lainnya.   Kemampuan berkomunikasi  Meskipun pelaksana KP mendapatkan mentor sebagai pembimbing selama pelaksanaan KP berlangsung, mentor memiliki agenda yang cukup padat. Hal ini membuat pelaksana KP harus aktif bertanya selain kepada mentor tetapi juga kepada anggota tim lainnya agar dapat menyelesaikan permasalahan yang dihadapi, maupun mendapatkan ilmu dan kemampuan baru. Dalam proses aktif bertanya ini, pelaksana KP dituntut untuk mengasah kemampuan berkomunikasi dengan sesama anggota tim. Selain komunikasi dengan sesama anggota tim, pelaksana KP juga dituntut untuk aktif berkomunikasi dengan anggota tim lainnya karena terkadang pekerjaan yang dikerjakan oleh pelaksana KP memiliki keterkaitan dengan anggota tim lainnya.   Kemampuan belajar dan menyelesaikan masalah  Ketika dihadapkan oleh suatu permasalahan, tidak semua anggota tim dapat membantu menyelesaikan permasalahan yang dihadapi oleh pelaksana KP. Hal ini disebabkan karena anggota tim memiliki kesibukan masing-masing. Terkadang permasalahan yang pelaksana KP hadapi sifatnya unik atau belum pernah dialami oleh pegawai lainnya. Hal ini membuat pelaksana KP harus 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<segment>
+			aktif belajar dengan membaca dokumentasi, menjelajah internet, maupun membaca dan mempelajari secara mandiri kode sumber yang sebelumnya sudah pernah dibuat oleh pegawai lainnya. Pelaksana KP dituntut untuk belajar menghadapi dan menyelesaikan permasalahan yang dialami selama pelaksanaan KP berlangsung.   Kemampuan mengatur waktu  Traveloka tidak memberikan jam kerja yang tetap dan mengikat bagi seluruh pegawainya. Pelaksana KP mendapatkan kebebasan untuk datang ke kantor pukul berapapun yang pelaksana KP inginkan. Hal ini, jika pelaksana KP tidak mengatur waktunya dengan baik, akan menyebabkan pelaksana KP menjadi malas dan pekerjaan yang dikerjakan tertunda penyelesaiannya. Pelaksana KP dituntut untuk disiplin waktu dalam mengerjakan pekerjaannya sehingga pekerjaan yang dikerjakan bisa diselesaikan tepat waktu dan tentunya tidak menyusahkan pegawai lainnya jika pekerjaan tersebut berhubungan dengan pegawai lainnya. 
+		</segment>
+		<title><bo>3.4.</bo> <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>KP</bo></title>
+		<segment>
+			Traveloka memiliki lokasi kantor yang strategis. Kantor Traveloka yang berada di Slipi berdekatan dengan kantor Tokopedia, GDP, AiryRooms, dan perusahaan- perusahaan di bidang teknologi lainnya. Hal ini membuat pelaksana KP merasa dekat dengan teman-teman di Fasilkom UI sehingga di saat waktu istirahat memungkinkan bagi pelaksana KP untuk bertemu teman-teman dan melakukan <it>sharing</it> pengetahuan seputar tempat KP masing-masing. Lokasi kantor yang strategis ini juga membuat pelaksana KP dapat dengan mudah menuju lokasi kantor dengan kendaraan pribadi atau kendaraan umum apapun. Traveloka sangat memfasilitasi pegawainya dengan baik. Selama masa pelaksanaan KP, pelaksana KP mendapatkan fasilitas berupa laptop berspesifikasi tinggi beserta perlengkapannya, monitor 23 inci, serta meja dan tempat duduk yang khusus untuk pelaksana KP. Pelaksana KP juga mendapat jatah makan siang dari Traveloka dan dapat memilih sendiri menu makan siangnya. Selain itu, untuk keperluan percetakkan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>17</pagenum>
+		<segment>
+			dokumen dan biaya parkir juga disediakan oleh Traveloka. Traveloka bahkan juga menawarkan pelaksana KP untuk melakukan permintaan jika membutuhkan fasilitas tambahan. Traveloka menawarkan lingkungan kerja yang fleksibel. Jam masuk di Traveloka tidak memiliki aturan baku. Setiap pegawai boleh datang pada pukul berapapun. Selama di kantor, pegawai Traveloka juga bebas melakukan aktivitas yang mendukung kinerja pegawai. Traveloka juga menyediakan tempat bermain <it>board</it> <it>game</it> dan tempat untuk tidur jika pegawai lelah mengerjakan pekerjaannya. Lingkungan kerja ini membuat pelaksana KP merasa tidak tertekan selama melaksanakan pekerjaannya. Namun begitu, lingkungan kerja seperti ini membuat pelaksana KP harus disiplin waktu sebab pekerjaan yang diberikan tetap harus selesai pada jadwal yang sudah ditentukan. Pegawai Traveloka adalah tipe orang yang bersahabat. Saat pelaksana KP pertama melaksanakan kerja praktik, beberapa pegawai bahkan langsung mengajak pelaksana KP berkenalan. Beberapa diantara mereka bahkan menawarkan bantuan tanpa pelaksana KP terlebih dahulu bertanya. Pegawai di Traveloka sangat mudah untuk diajak berbincang sehingga tidak butuh waktu lama bagi pelaksana KP untuk dapat beradaptasi di Traveloka. Keakraban sesama pegawai, khususnya di tim <it>User,</it> terlihat pada hari terakhir pelaksana KP bekerja di Traveloka, satu tim <it>user</it> Traveloka mengadakan acara perpisahaan. Di Traveloka, khususnya di tim <it>User,</it> kualitas kerja sangat dipertimbangkan. Setiap satu fitur dinyatakan selesai, <it>testing</it> dilakukan oleh <it>Product</it> <it>Manager</it> secara detail. Demi menjaga kualitas produk yang dihasilkan, <it>code</it> <it>Review</it> dilaksanakan bersama mentor dan pegawai lainnya yang terkait dengan pekerjaan yang dilaksanakan oleh pelaksana KP. Setiap pekerjaan yang dihasilkan, kualitas hasilnya maupun kode sumbernya benar-benar diperhatikan secara teliti. Hal ini membuat pelaksana KP terbiasa untuk kerja lebih rapi dan berusaha untuk menghasilkan hasil yang maksimal disetiap kode sumber dan pekerjaan yang pelaksana KP kerjakan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>18</pagenum>
+		<title><bo>3.5.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama pelaksanaan KP, terdapat beberapa pengetahuan dari perkuliahan di Fasilkom UI yang relevan dengan apa yang dikerjakan oleh pelaksana KP. Pengetahuan ini sangat berguna bagi pelaksana KP ketika menyelesaikan pekerjaannya di Traveloka. Berikut ini adalah beberapa perkuliahan di Fasilkom UI dan relevansinya dengan pekerjaan pelaksana KP:   Dasar Dasar Pemrograman (DDP)  Selama melaksanakan pekerjaan di Traveloka, bahasa pemrograman Java adalah bahasa pemrograman utama yang digunakan. Pelaksana KP pertama kali belajar bahasa pemrograman Java melalui kuliah DDP. Pada kuliah DDP juga diajarkan tentang konsep pemrograman <it>object-oriented.</it> Konsep pemrograman ini sangat diterapkan di Traveloka pada setiap pekerjaan yang pelaksana KP kerjakan.   Struktur Data Algoritma (SDA) dan Desain dan Analisis Algoritma (DAA)  Ketika mengerjakan pekerjaan, pelaksana KP dihadapkan pada beberapa kumpulan data yang akan diproses ke depannya. Pelaksana KP pertama kali belajar di perkuliahan SDA tentang mengolah kumpulan data menggunakan struktur data yang baik dan efisien. Pengetahuan pada perkuliahan SDA sangat berguna bagi pelaksana KP ketika merancang algoritma dan menggunakan struktur data yang tepat untuk suatu permasalahan yang ada. Efisiensi dan efektivitas suatu algoritma merupakan hal yang sangat diperhatikan di Traveloka sebab jika tidak, sistem Traveloka akan berjalan lambat.   Matematika Diskret 1 (MD1) dan Matematika Diskret 2 (MD2)  Perkuliahan MD1 dan MD2 sangat membantu pelaksana KP dalam menyelesaikan permasalahan yang ada di setiap pekerjaan yang diberikan. Perkuliahan ini membantu pelaksana KP dengan mengasah pola pikir logika pelaksana KP dalam merancang suatu algoritma dari suatu permasalahan.   Perancangan dan Pemrograman Web (PPW)  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>19</pagenum>
+		<segment>
+			Selama melaksanakan kerja praktik, terdapat beberapa pekerjaan berhubungan dengan perancangan halaman <it>web</it> yang pelaksana KP dapatkan. Perkuliahan PPW memberikan modal bagi pelaksana KP untuk melakukan pemrograman HTML, CSS, dan JavaScript. Pengetahuan ini sangat berguna sehingga pelaksana KP tidak perlu lagi belajar banyak untuk melakukan pekerjaan yang berhubungan dengan pembuatan halaman <it>web.</it>   Basis Data (Basdat)  Traveloka memiliki kumpulan data yang sangat besar. Dalam merancang <it>query</it> untuk mengakses basis data Traveloka, perkuliahan Basdat sangat membantu pelaksana KP membuat <it>query</it> yang baik. Di Traveloka, rancangan <it>query</it> yang dikerjakan oleh <it>programmer</it> sangat dinilai sebab jika <it>query</it> yang dirancang tidak efisien tentunya akan membuat proses menjadi sangat lama dan merugikan sistem secara keseluruhan.   Sistem Operasi (OS) dan Pemrograman Sistem (Sysprog)  Selama masa kerja praktik, bahasa pemrograman Bash dan struktur sistem operasi Linux menjadi hal yang umum bagi pelaksana KP. Pelaksana KP pertama kali belajar Bash dan sistem operasi Linux di perkuliahan OS dan Sysprog.   Rekayasa Perangkat Lunak (RPL) dan Proyek Perangkat Lunak (PPL)  Perkuliahan RPL dan PPL memberikan pengetahuan tentang proses pengembangan perangkat lunak berupa analisis, desain, <it>coding,</it> <it>testing,</it> dan pemeliharaan kepada pelaksana KP. Pelaksana KP merasa terbantu dengan pengetahuan ini sebab di Traveloka, proses pengembangan yang diajarkan di RPL dan PPL sangat diterapkan dengan baik.   Layanan Aplikasi Web (LAW)  Pekerjaan pelaksana KP di Traveloka sangat berkaitan dengan pembuatan <it>web</it> <it>services.</it> Pelaksana KP merasa sangat terbantu dengan kuliah LAW sebab di perkuliahan ini, pelaksana KP sangat banyak belajar tentang pembuatan <it>web</it> <it>services.</it> Kuliah LAW juga mengajarkan pelaksana KP teknologi Java sebagai bahasa pemrograman utama dalam membuat <it>web</it> <it>services.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<pagenum>20</pagenum>
+		<title><bo>BAB</bo> <bo>4</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>4.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dilaksanakan oleh pelaksana KP selama kurang lebih 10 minggu, dimulai dari 6 Juni 2016 hingga 5 September 2016. Pelaksana KP melaksanakan kerja praktik di PT Trinusa Travelindo atau Traveloka. Pelaksana KP ditempatkan di tim <it>User</it> Traveloka yang bertanggung jawab terhadap hal-hal yang terkait keterlibatan pengguna aplikasi Traveloka. Pelaksana KP diberikan proyek pengembangan Sistem Deteksi Anomali Percobaan Login di Traveloka untuk dikerjakan selama masa pelaksanaan kerja praktik. Selama masa pelaksanaan kerja praktik, tidak ada metodologi khusus yang digunakan oleh pelaksana KP karena proyek yang dikerjakan bersifat pengembangan dari proyek sebelumnya. Teknologi yang digunakan pelaksana KP selama pengerjaan proyek adalah Phabricator, IDE IntelliJ IDEA, Slack, Confulence, Asana, dan GoCD, dengan bahasa pemrograman yang berkaitan adalah Bash, Java, HTML, CSS, dan JavaScript. <it>Deliverables</it> yang dihasilkan selama masa pelaksanaan KP adalah berupa dokumentasi, kode sumber, dan program akhir yang sudah dilakukan proses <it>release</it> ke sistem Traveloka. Selama masa pelaksanaan KP, pelaksana KP tidak hanya mendapat pembelajaran berupa <it>hard</it> <it>skill,</it> tetapi juga pembelajaran <it>soft</it> <it>skill.</it> Pelaksana KP mendapat pengalaman membuat sistem yang digunakan oleh masyarakat luas, dengan teknologi yang mayoritas pelaksana KP baru pelajari ketika melaksanakan KP, dan bekerja sama dengan jumlah orang yang lebih banyak. Pelaksana KP merasa bahwa pelaksanaan KP adalah salah satu sarana pelaksana KP menggunakan dan mempelajari lebih lanjut ilmu-ilmu yang sebelumnya dipelajari di Fasilkom secara langsung di dunia nyata. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<pagenum>21</pagenum>
+		<title><bo>4.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Pelaksana KP merasa terlambat untuk mendaftar kerja praktik sehingga dampaknya beberapa perusahaan sudah terlebih dahulu menutup pendaftaran. Keterlambatan ini dikarenakan oleh pelaksana KP belum mempersiapkan <it>Curriculum</it> <it>Vitae</it> (CV) dan <it>Resume</it> serta surat lamaran kerja. Saran untuk mahasiswa yang akan mengambil kerja praktik di semester berikutnya adalah untuk memulai mempersiapkan CV, <it>Resume,</it> dan surat lamaran kerja dari jauh hari. Hal ini penting sebab jika ketiga berkas tersebut sudah siap, proses pendaftaran menjadi lebih mudah karena mahasiswa hanya tinggal fokus untuk mendaftar saja. Pelaksana KP juga menyarankan mahasiswa yang akan mengambil kerja praktik di semester berikutnya untuk mengerjakan berbagai dokumen yang dibutuhkan sesegera mungkin. Dokumen yang dimaksud adalah Kerangka Acuan Kerja Praktik, <it>Log</it> Kerja Praktik, dan Laporan Kerja Praktik. Hal ini penting sebab jika dokumen tersebut dicicil dan dipersiapkan dari jauh hari, maka hasilnya juga akan maksimal dan tidak membuat pelaksana KP merasa kewalahan. Selama masa pelaksanaan KP, pelaksana KP menyarankan agar mahasiswa yang mengambil kerja praktik di semester berikutnya untuk aktif dan mampu bersosialisasi dengan baik. Hal ini sangat dibutuhkan sebab selama pelaksanaan KP, pelaksana KP merasa lingkungan kerja baru membuat pelaksana KP tidak nyaman pada awalnya. Jika pelaksana KP tidak berusaha beradaptasi dan bersosialisasi aktif dengan sekitar, dapat dipastikan pelaksana KP akan merasa tidak nyaman dan hal ini akan berdampak pada pekerjaan yang dihasilkan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="29">
+		<pagenum>22</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] https://www.traveloka.com/help. Diakses pada 15 November 2016, 12.00 WIB. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="30">
+		<pagenum>vii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="31">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

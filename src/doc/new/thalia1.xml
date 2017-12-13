@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<pagenum>i</pagenum>
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<segment>
+			<bo>IMPLEMENTASI</bo> <it><bo>IT</bo></it> <it><bo>SERVICE</bo></it> <it><bo>MANAGEMENT</bo></it> <bo>DAN</bo> <it><bo>IT</bo></it> <it><bo>OPERATIONS</bo></it> <it><bo>SUPPORT</bo></it> <bo>DI</bo> <bo>TOTAL</bo> <bo>E&amp;P</bo> <bo>INDONESIE</bo> 
+		</segment>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>THALIA</bo> <bo>ARANTHERA</bo> <bo>RIZKY</bo></title>
+		<segment>
+			<bo>1306382732</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>OKTOBER</bo> <bo>2016</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>ii</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Thalia Aranthera Rizky : 1306382732 Program Studi : Sistem Informasi Judul Kerja Praktik : Implementasi IT Service Management dan IT Operation Support di Total E&amp;P Indonesie <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>Rahmad</bo> <bo>Mahendra</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>iii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Kerja Praktik (KP) merupakan mata kuliah wajib yang harus diambil oleh mahasiswa Fasilkom UI. Penulis telah berhasil melaksanakan KP pada bulan Juni 2016 s.d September 2016 lalu di perusahaan minyak dan gas terbesar di Indonesia, yaitu Total E&amp;P Indonesie, kantor Jakarta. Di perusahaan tersebut, penulis ditempatkan pada divisi IST atau Information Systems and Telecommunications. Penulis mengerjakan tugas yang berkaitan dengan ITSM, BI, dan <it>database,</it> seperti yang sudah diajarkan di Fasilkom. Dari KP di Total, banyak hal baru yang penulis pelajari. Dari melaksanakan KP juga, penulis mendapatkan <it>insight</it> mengenai apa yang akan penulis lakukan selanjutnya. Kata kunci : Total E&amp;P Indonesie, ITSM, BI, <it>database</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iv</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK .......... ii ABSTRAK ................................................................................................................... iii DAFTAR ISI ................................................................................................................ iv DAFTAR GAMBAR .................................................................................................... v BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 3</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 3</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 6 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 6</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 6</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 6</title>
+		<title>2.2. Analisis ............................................................................................................ 8</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 8</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ......................................... 9</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 11 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 11</title>
+		<title>3.2. Saran .............................................................................................................. 11</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 13 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1.1 Struktur Organisasi Total E&amp;P Indonesie………………………………4  Gambar 1.2 Bagan hirarki departemen IST/JHO…………………………………….5  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Sebelum memilih Total E&amp;P Indonesie untuk melaksanakan Kerja Praktik (KP) penulis sempat daftar ke beberapa perusahaan lain. Penulis sempat daftar ke beberapa perusahaan <it>start</it> <it>up</it> sampai perusahaan besar. Perjalanan penulis mencari tempat KP dapat dibilang sulit. Hal ini mungkin karena <it>skills</it> yang dimiliki belum terlalu memadai, sehingga mereka memilih kandidat lain yang lebih berpengalaman. Perusahaan pertama yang penulis daftar adalah Bornevia, start up yang bergerak dalam bidang <it>customer</it> <it>relationship</it> <it>management</it> <it>(CRM).</it> Penulis tertarik untuk mendaftarkan di perusahaan tersebut karena tertarik untuk mempelajari CRM setelah mengambil matkul tersebut pada semester lima yang lalu. Di perusahaan tersebut, penulis mendaftar ke bagian <it>Business</it> <it>Development.</it> Penulis pun sudah melaksanakan wawancara dengan pihak Bornevia. Lalu, penulis juga mencoba mendaftarkan diri ke Veritrans, vendor <it>online</it> <it>payment</it> <it>gateway</it> untuk <it>e-commerce.</it> Disana penulis mendaftarkan diri ke bagian <it>Business</it> <it>Operations.</it> Pada pertengahan April, penulis diundang oleh perusahaan tersebut untuk mengikuti <it>Interns</it> <it>Selection</it> <it>Day</it> yang diselenggarakan oleh perusahaan tersebut. <it>Interns</it> <it>Selection</it> <it>Day</it> adalah tahap pertama Veritrans untuk memilih peserta magang. Setelah menunggu selama kurang lebih dua minggu, penulis diberi kabar oleh pihak Veritrans bahwa penulis tidak lolos ke tahap berikutnya. Sehingga penulis tidak dapat melaksanakan KP di Veritrans. Pada saat tersebut, Bornevia juga belum mengabari terkait diterima atau tidaknya penulis dalam perusahaan tersebut. Setelah mendapatkan kabar bahwa saya tidak diterima oleh Veritrans, penulis mendapatkan tawaran untuk melaksanakan KP di Total E&amp;P Indonesie pada divisi IST (<it>Information</it> <it>Systems</it> <it>and</it> <it>Telecommunications).</it> Penulis pun menerima tawaran tersebut, lantaran per bulan April 2016 penulis belum diterima di perusahaan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>2</pagenum>
+		<segment>
+			manapun. Penulis langsung mengurus surat keterangan KP dan meminta transkrip nilai ke sekretariat Fasilkom. Setelah itu, penulis mengirim surat-surat tersebut ke HR Total lewat <it>e-mail.</it> Setelah <it>e-mail</it> tersebut diterima oleh HR Total, mentor penulis menghubungi penulis lewat telepon. Ia menanyakan apakah penulis memiliki pengalaman dalam merancang <it>database</it> dari awal dan apakah penulis memahami SQL (<it>Structured</it> <it>Query</it> <it>Language).</it> Penulis memang memiliki pengalaman dalam merancang <it>database</it> dan memahami SQL. Penulis juga memiliki pengalaman dalam menggunakan postgresql dan MySql. Pada saat itu, mentor penulis belum menyatakan apakah penulis diterima untuk melaksanakan KP di Total atau tidak. Sembari menunggu kabar dari Total, penulis sempat mendaftarkan diri ke PT. Gojek. Pada saat itu, PT Gojek sedang membuka lowongan magang untuk bagian <it>Business</it> <it>Development.</it> Sebelumnya, penulis sudah sempat mengirimkan <it>e-mail</it> kepada HR PT. Gojek perihal Kerja Praktik. Penulis pun mendaftarkan diri pada lowongan tersebut, lewat <it>online</it> <it>employment</it> <it>agency</it> yang bernama www.kalibrr.com. Pada pertengahan Mei 2016, penulis diundang untuk mengikuti <it>interview</it> di PT Gojek. Setelah mengikuti <it>interview,</it> penulis merasa bahwa pekerjaan yang akan dilakukan apabila melaksanakan KP di <it>Business</it> <it>Development</it> PT Gojek tidak sesuai dengan kriteria yang diinginkan. Sehingga, beberapa hari setelah itu, penulis mengundurkan diri dari tahap seleksi PT Gojek. Beberapa hari kemudian, penulis mendapatkan kabar bahwa penulis diterima untuk melaksanakan KP di Total E&amp;P Indonesie, kantor Jakarta (Jakarta Head Office atau JHO). Penulis diwajibkan untuk melakukan <it>medical</it> <it>check</it> <it>up</it> untuk dapat bekerja di Total. Penulis juga dikabari bahwa cakupan pekerjaan yang akan dilaksanakan adalah <it>IT</it> <it>Service</it> <it>Management</it> <it>(ITSM)</it> dan <it>IT</it> <it>Operations</it> <it>Support.</it> Penulis juga dikabarkan bahwa penulis akan menggunakan <it>tools</it> Power BI dan BMC Remedy selama pelaksanaan KP. Setelah itu, penulis mulai bekerja di Total E&amp;P Indonesie pada hari Senin, tanggal 13 Juni 2016. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>3</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Total Group adalah perusahaan yang bergerak di bidang eksplorasi dan produksi minyak dan gas alam. Perusahaan ini adalah perusahaan asal Perancis. Berdiri pada tahun 1924, perusahaan ini memiliki <it>headquarter</it> di Paris, Perancis. Total Group sekarang sudah memiliki banyak <it>subsidiary</it> di berbagai negara di dunia, salah satunya adalah di Indonesia yang bernama Total E&amp;P Indonesie. Total E&amp;P Indonesie (TEPI) ditunjuk sebagai Kontraktor Kontrak Kerja Sama (KKKS atau K3S) oleh Pemerintah RI untuk hak pengelolaan sumber daya minyak dan gas di wilayah kerja Blok Mahakam yang terletak di propinsi Kalimantan Timur. TEPI sudah beroperasi di Indonesia sejak tahun 1968 dengan melakukan kegiatan eksplorasi dan eksploitasi sumber daya minyak dan gas di wilayah Blok Mahakam. Total E&amp;P Indonesie sudah menjadi perusahaan pemroduksi minyak dan gas terbesar di Indonesia. Total E&amp;P Indonesie memiliki dua kantor cabang di Balikpapan (Balikpapan <it>Base</it> atau BPN) dan di Jakarta (<it>Jakarta</it> <it>Head</it> <it>Office</it> atau JHO). Di Balikpapan, kantor Total E&amp;P Indonesie berada di Jalan Yos Sudarso, Balikpapan, sedangkan di Jakarta berada di gedung World Trade Center II, Jalan Jenderal Sudirman, Jakarta Pusat. Total E&amp;P Indonesie memiliki tujuh wilayah kerja lapangan atau <it>sites</it> yang tersebar di area Blok Mahakam. Jumlah karyawan adalah sekitar 3600 pekerja di seluruh kantor cabang dan <it>sites.</it> Untuk di Jakarta sendiri, jumlah karyawan sekitar 370 pekerja. Berikut struktur organisasi singkat dari Total E&amp;P Indonesie. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>4</pagenum>
+		<segment>
+			Gambar 1.1. Struktur Organisasi Total E&amp;P Indonesie 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Total E&amp;P Indonesie memiliki divisi yang khusus menjalankan operasional IT perusahaan. Divisi tersebut bernama divisi <it>Information</it> <it>Systems</it> <it>and</it> <it>Telecommunications</it> <it>(IST),</it> seperti yang telah dipaparkan di Gambar 1.1. Divisi ini berada dibawah <it>Executive</it> <it>Vice</it> <it>President</it> (EVP). Divisi IST terdiri dari beberapa departemen dibawahnya, yaitu departemen IT <it>Governance</it> (IST/GOV), departemen <it>Project</it> <it>and</it> <it>Development</it> (IST/PRD), departemen IT <it>Support</it> (IST/SUP), departmen IT <it>Operations</it> (IST/OPS)<it>,</it> dan departmen IST untuk <it>Jakarta</it> <it>Head</it> <it>Office</it> (IST/JHO). Di Total, penulis ditempatkan di departemen IST/JHO untuk melaksanakan KP. Departemen IST/JHO adalah departemen pada divisi IST yang khusus menjalankan kegiatan operasional IT Total di kantor Jakarta (JHO). Departemen IST/JHO membawahi dua jenis <it>service,</it> yaitu Support (IST/JHO/SUP) dan Operations (IST/JHO/OPS). Secara kontrak, penulis bekerja untuk <it>service</it> IST/JHO/SUP. Namun, penulis juga ditugaskan untuk membantu suatu pekerjaan dari <it>service</it> IST/JHO/OPS. Adapun fokus dari <it>service</it> IST/JHO/SUP adalah untuk IT <it>support</it> kepada <it>user</it> di Total JHO. <it>User</it> disini maksudnya adalah karyawan-karyawan yang bekerja di Total JHO. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>5</pagenum>
+		<segment>
+			<it>Service</it> ini terdiri dari dua posisi, yaitu <it>Business</it> <it>Analyst</it> dan <it>Information</it> <it>Systems</it> <it>Engineer</it> <it>(IS</it> <it>Engineer).</it> Berikut struktur organisasi dari departemen IST/JHO. Gambar 1.2 Bagan Hirarki Departemen IST/JHO. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>6</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			<it>IT</it> <it>Service</it> <it>Management</it> berfokus pada <it>support</it> untuk <it>user.</it> Jika ada <it>incidents,</it> <it>user</it> hanya perlu memberikan laporan lewat aplikasi BMC Remedy. BMC Remedy menjadi <it>tools</it> yang digunakan untuk mengelola <it>incidents</it> terkait IT yang diajukan oleh <it>user.</it> Tentunya, Total ingin meminimalisir <it>incidents</it> yang dilakukan oleh <it>user.</it> Oleh karena itu, perlu dilakukannya analisis tentang penyebab <it>user</it> dapat melakukan <it>incidents</it> tersebut. Selain untuk pengelolaan <it>incidents,</it> BMC Remedy juga digunakan untuk dapat menyimpan data aset IT di Total. Namun, sejauh ini hanya data terkait PC saja yang sudah disimpan di BMC Remedy. Untuk aset lainnya seperti <it>router,</it> <it>switch,</it> dan lain-lain masih disimpan menggunakan Microsoft Excel. Penyimpanan data yang hanya menggunakan Microsoft Excel ini menyebabkan penyebaran data yang sulit dikontrol. Oleh karena itu, data-data terkait aset tersebut harus disentralisasi dengan disimpan di BMC Remedy. Namun, <it>function</it> untuk menyimpan data aset IT belum sesuai dengan <it>requirements</it> sesungguhnya. BMC Remedy perlu dikostumisasi agar dapat digunakan untuk menyimpan data-data aset tersebut. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<it><bo>2.1.2.1</bo></it> <it><bo>IT</bo></it> <it><bo>Service</bo></it> <it><bo>Management</bo></it> IT Service Management adalah pendekatan strategis untuk merancang, mengelola, memberikan, dan meningkatkan penggunaan IT di dalam suatu organisasi. Fokus dari <it>IT</it> <it>Service</it> <it>Management</it> adalah <it>user</it> atau <it>customer-nya,</it> sehingga memfokuskan di bagaimana menyediakan layanan IT yang sesuai dengan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>7</pagenum>
+		<segment>
+			keinginan <it>user</it> daripada sistemnya. ITSM juga menekankan kepada <it>improvement</it> terhadap implementasi IT yang diberikan kepada <it>user</it> atau <it>customer.</it> <it><bo>2.1.2.2</bo></it> <it><bo>BMC</bo></it> <it><bo>Remedy</bo></it> BMC Remedy adalah <it>tools</it> untuk ITSM. BMC Remedy terdiri dari beberapa <it>functions,</it> yaitu <it>Service</it> <it>Request</it> <it>Management,</it> <it>Incident</it> <it>Management,</it> dan <it>Asset</it> <it>Management.</it> <it>Service</it> <it>Request</it> <it>Management</it> adalah <it>functions</it> yang digunakan oleh <it>user</it> (dalam hal ini, karyawan di Total) untuk mengajukan <it>request</it> (misalnya <it>user</it> membutuhkan suatu aplikasi IT untuk digunakan di divisinya) atau <it>incidents</it> jika terdapat suatu <it>incidents</it> yang dilakukan. <it>Function</it> ini juga memunginkan adanya <it>workflow,</it> dimana dalam mengajukan <it>request,</it> <it>request</it> dari <it>user</it> tersebut harus melewati prosedur <it>approval</it> dari beberapa pihak. Setelah <it>request</it> disetujui, <it>request</it> tersebut akan menjadi <it>ticket</it> dalam aplikasi BMC Remedy. <it>Ticket</it> adalah istilah yang digunakan untuk <it>request</it> yang telah disetujui dan <it>incident</it> yang sedang dijalankan. <it>Incident</it> <it>management</it> adalah <it>functions</it> untuk mengelola <it>tickets.</it> Dalam functions ini, pengguna (dalam hal ini, orang yang bertanggung jawab untuk mengelola <it>tickets)</it> dapat memonitori apakah ada <it>user</it> yang mengajukan <it>incidents,</it> mengetahui apakah suatu <it>incidents</it> sudah ditangani, meng-<it>assign</it> orang untuk menangani permintaan <it>user</it> terkait <it>incident,</it> serta memonitori progress dalam menangani <it>tickets.</it> Untuk <it>Asset</it> <it>Management,</it> adalah <it>function</it> yang digunakan untuk mengelola data terkait aset IT di suatu perusahaan. <it><bo>2.1.2.3</bo></it> <it><bo>Power</bo></it> <it><bo>BI</bo></it> Power BI adalah <it>tools</it> keluaran Microsoft yang digunakan dalam hal <it>business</it> <it>intelligence</it> atau BI. Dengan <it>tools</it> ini, pengguna dapat me-<it>retrieve</it> data dari <it>database,</it> membuat visualisasi data lalu melakukan analisa terhadap data. Dalam me- <it>retrieve</it> data pengguna juga dapat menuliskan <it>query</it> untuk mengeluarkan data yang diinginkan. Total E&amp;P Indonesie baru saja menggunakan aplikasi ini untuk digunakan sebagai <it>tools</it> untuk menganalisa <it>incidents</it> terkait pemanfaatan IT di Total. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<pagenum>8</pagenum>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Seperti yang sudah dijelaskan sebelumnya, penulis membantu divisi IST dalam hal IT Service Management dan IT Support. Seperti yang sudah dijelaskan sebelumnya juga, penulis bekerja untuk <it>service</it> IST/JHO/SUP dan juga mengerjakan suatu pekerjaan dari <it>service</it> IST/JHO/OPS. Untuk pekerjaan yang dibawah <it>service</it> IST/JHO/SUP, penulis ditugaskan untuk membuat laporan tentang <it>tickets</it> di Total JHO dan menganalisanya untuk dapat mencari cara untuk meminimalisirnya serta mengingkatkan IT Service yang diberikan untuk karyawan. Untuk melakukan hal tersebut, penulis menggunakan aplikasi Power BI. Dengan aplikasi Power BI yang telah terhubung dengan <it>database</it> BMC Remedy, penulis me-<it>retrieve</it> data dari <it>database</it> tersebut menggunakan aplikasi Power BI dan membuat visualisasi grafik yang tepat. Setelah itu, penulis membuat laporan mingguan dan kemudian mempresentasikannya saat rapat mingguan departemen IST/JHO untuk menganalisa hasil dari laporan tersebut. Untuk pekerjaan dibawah <it>service</it> IST/JHO/OPS, penulis diberi pekerjaan untuk melakukan penyesuaian data aset IT yang ada di Total JHO dengan BMC Remedy. Hal ini dilakukan karena seperti yang sudah dijelaskan sebelumnya, Total E&amp;P Indonesie memiliki kebutuhan untuk memindahkan data aset IT di Total JHO yang semula hanya disimpan di Microsoft Excel ke aplikasi BMC Remedy itu sendiri. Penulis melakukan pengumpulan data apa saja yang perlu dimasukkan ke BMC Remedy dan menyesuaikan tampilan BMC Remedy dengan data-data yang ingin dimasukkan. Penulis juga mengumpulkan dan menganalisa <it>requirements</it> terkait hal tersebut. Hasil akhirnya adalah penulis mengajukkan <it>requirements</it> tersebut kepada admin BMC Remedy yang ditempatkan di kantor Balikpapan untuk kemudian dipertimbangkan implementasinya. Penulis juga menjadi perantara yang menjembatani antara orang-orang di <it>service</it> IST/JHO/OPS dengan admin BMC Remedy. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>9</pagenum>
+		<segment>
+			Penulis juga mengerjakan hal yang berkaitan dengan Quality Assurance. Total JHO baru saja menambahkan kategori WAT Access pada <it>service</it> <it>catalogue</it> BMC Remedy. WAT adalah portal intranet yang digunakan di semua cabang Total E&amp;P di berbagai negara. Di Total E&amp;P Indonesie, karena biaya untuk berlangganan WAT yang cukup mahal, maka hanya karyawan yang membutuhkan saja yang dapat memiliki akses ke WAT. Oleh karena itu, Total Indonesia menambahkan kategori servis WAT Access untuk memudahkan karyawan yang ingin me-<it>request</it> akses untuk WAT. Untuk mendapatkan akses untuk WAT, karyawan harus melakukan <it>request</it> via BMC Remedy, lalu <it>request</it> tersebut diproses dengan melewati <it>approval</it> atau penyetujuan dari beberapa pihak. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Secara umum, apa yang penulis kerjakan selama Kerja Praktik sesuai dengan yang dipelajari di Fasilkom UI. Mata kuliah yang ada di Fasilkom sangat membantu penulis dalam pekerjaan yang dilakukan. Adapun mata kuliah yang sesuai dengan pekerjaan penulis di Total E&amp;P Indonesie antara lain :   Manajemen Layanan TI (MLTI)  Penulis diberikan tugas yang menyangkut <it>IT</it> <it>Service</it> <it>Management.</it> Di Fasilkom UI, terdapat mata kuliah Manajemen Layanan TI (MLTI). Tentunya hal ini sangat membantu, karena dalam melaksanakan pekerjaan, penulis dapat membaca- baca teori dan materi lain yang dapat diambil dari mata kuliah Manajemen Layanan TI.   Basis Data   Seperti yang sudah dijelaskan sebelumnya bahwa penulis me-<it>retrieve</it> data dari <it>database,</it> maka hal ini merupakan hal yang didapatkan dari mata kuliah basis data. Penulis sudah memiliki dasar dalam hal basis data, sehingga memudahkan penulis dalam melakukan <it>query</it> untuk mengeluarkan data. Dalam melakukan analisa 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>10</pagenum>
+		<segment>
+			<it>tickets,</it> penulis mengeluarkan data dengan Power BI dengan menuliskan <it>query</it> untuk data yang ingin dikeluarkan.   <it>Business</it> <it>Intelligence</it> (BI)  Pekerjaan penulis juga berhubungan dengan BI. Dalam menganalisa data terkait <it>tickets,</it> penulis melakukan pembuatan visualisasi data, lalu menganalisanya untuk mendapatkan <it>insights</it> terkait data tersebut.   Proyek Pengembangan Sistem Informasi (Propensi)  Terdapat pula kesesuaian antara pekerjaan penulis dengan mata kuliah Proyek Pengembangan Sistem Informasi atau Propensi. Dalam pelaksanaan Propensi, penulis melakukan pengumpulan <it>requirement</it> dari pengguna dan menganalisanya untuk untuk dapat merancang sistem yang sesuai dengan kebutuhan pengguna. Selain itu, dalam Propensi juga terdapat aktivitas <it>testing</it> pada sistem yang bertujuan untuk memastikan apakah sistem sudah mengeluarkan <it>output</it> sesuai dengan yang diinginkan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>11</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Secara umum, pelaksanaan kerja praktik di Total E&amp;P Indonesie sesuai dengan yang tertulis dalam KAKP. Meskipun terdapat beberapa pekerjaan yang dilakukan tidak sesuai dengan KAKP, namun sebagian besar masih sesuai dengan KAKP. Secara tempat, karena Total E&amp;P Indonesie bukan perusahaan yang memiliki <it>core</it> <it>business</it> bidang IT, inovasi dalam bidang IT terbatas. Implementasi IT di perusahaan ini berfokus kepada <it>support</it> untuk <it>user</it> saja. Namun, dengan bekerja di perusahaan ini, penulis tetap mendapatkan banyak ilmu tentang bagaimana implementasi IT di perusahaan. Selain itu, secara lingkungan kerja, Total memiliki lingkungan kerja yang baik sehingga mendukung produktivitas karyawan-karyawannya. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Untuk Fakultas, penulis menyarankan untuk lebih cepat dalam me-<it>review</it> KAKP mahasiswa. Hal ini karena banyak mahasiswa yang mengeluh karena banyak KAKP yang tak kunjung disetujui meskipun pelaksanaan KP sudah selesai. Sebaiknya proses persetujuan KP dipercepat, agar jika KAKP tidak sesuai dengan yang seharusnya, maka peserta KP dapat mencari lagi tempat KP yang lebih sesuai. Selain itu, penulis juga menyarankan untuk memberikan <it>template</it> laporan KP sejak masa KP berjalan. Sehingga, peserta dapat mempersiapkan laporan KP lebih dini. Untuk calon pelaksana KP, penulis menyarankan jika ingin KP di tempat yang memiliki banyak inovasi di bidang IT, maka sebaiknya mencari perusahaan yang memiliki <it>core</it> <it>business</it> dalam bidang IT saja. Selain itu, hal lain yang berkaitan dengan <it>core</it> <it>business</it> perusahaan adalah, jika perusahaan sedang mengalami kendala, misalnya seperti sedang turunnya <it>revenue</it> dari perusahaan, maka akan mempengaruhi biaya yang dialokasikan untuk setiap divisi yang ada di perusahaan tersebut. Sehingga perusahaan cenderung untuk mengalokasikan <it>budget</it> ke divisi yang sesuai 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>12</pagenum>
+		<segment>
+			dengan <it>core</it> <it>business</it> dari perusahaan tersebut. Hal ini tentu mempengaruhi divisi IT- nya juga, yaitu menyebabkan berkurangnya proyek IT yang dapat dikerjaan. Saran lain yang penulis sampaikan adalah untuk mencari tempat KP secepat mungkin. Hal ini karena mencari KP cenderung sulit dan proses penerimaan juga cenderung lama. Sehingga perlu persiapan dari jauh-jauh hari sebelumnya. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>13</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			Total in Indonesia. (n. d.). Total E&amp;P Indonesie. September 25, 2016. http://www.total.id/en-us/total-indonesia/total-indonesia About 
+		</segment>
+		<title>BMC</title>
+		<segment>
+			(n. d.). 
+		</segment>
+		<title>BMC</title>
+		<segment>
+			Corporate. October 25, 2016. http://www.bmc.com/corporate/about-bmc-software.html Power BI Features. (n. d.). Microsoft Corporation. October 25, 2016. https://powerbi.microsoft.com/en-us/features/ Yudhoatmojo, Satrio Baskoro., Aji, Rizal Fathoni., &amp; Budi, Nur Fitriah Ayuning. (2016). <it>Introduction</it> <it>to</it> <it>IT</it> <it>Service</it> <it>Management</it> [PowerPoint Slide]. Retrieved from http://scele.cs.ui.ac.id/scele_2015/file.php/2404/Introduction_to_IT_Service_Manage ment_Update_.pdf BMC Remedy IT Service Management Concepts Guide (2011, January). BMC Software. October 26, 2016. http://it.mst.edu/media/informationtechnology/it/documents/internal/ITSM_Concepts Guide.pdf 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

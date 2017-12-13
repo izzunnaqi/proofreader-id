@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>IMPLEMENTASI</bo> <it><bo>BACK-END</bo></it> <bo>PROYEK</bo> <bo>HUKUMLAW</bo></title>
+		<title><bo>DAN</bo> <bo>KADO</bo> <bo>DI</bo> <bo>PT</bo> <bo>APPSTRAK</bo> <bo>TEKNOLOGI</bo> <bo>INDONESIA</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>William</bo> <bo>Lim</bo> <bo>1306412060</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>DESEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Laporan kerja praktik ini berisi pengalaman dari kerja praktik yang penulis lakukan pada PT Appstrak Teknologi. Penulis melakukan kerja praktik sebagai <it>back</it> <it>end</it> <it>developer</it> selama sembilan minggu bersama seorang penyelia bernama Andito Pranandya yang merupakan CTO (<it>Chief</it> <it>Technology</it> <it>Officer)</it> pada PT Appstrak Teknologi. Pada saat penulis melakukan kerja praktik, penulis mengerjakan beberapa proyek, diantaranya ialah HukumLaw—suatu <it>website</it> yang berfungsi sebagai <it>platform</it>  bagi para pekerja hukum agar lebih mudah untuk mendapatkan klien dan sebagai komunitas bagi para pekerja hukum untuk bertukar informasi. Proyek lain yang penulis kerjakan ialah Kado— <it>website</it> dimana penggunanya dapat mengunggah barang yang  diinginkannya sebagai <it>wishlist</it> agar teman yang melihatnya dapat memberikan barang tersebut kepadanya. Proyek-proyek tersebut merupakan proyek penawaran klien. Penulis terlibat dalam proses perencanaan, pengembangan, dan <it>deployment</it> pada proyek tersebut. Selama penulis melakukan kerja praktik, penulis memperolah banyak pengalaman baru bagaimana cara mengerjakan proyek dengan baik. Kata kunci: Kerja praktik, Appstrak, Hukumlaw, Kado. 
+		</segment>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			 HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 2</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 4</title>
+		<title>2.1.2. Metodologi ................................................................................................ 5</title>
+		<title>2.1.3. Teknologi yang Digunakan ....................................................................... 7</title>
+		<title>2.1.4. Hasil Pekerjaan ......................................................................................... 7</title>
+		<title>2.1.5. Non-Teknis ............................................................................................... 8</title>
+		<title>2.2. Analisis .......................................................................................................... 10</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 10</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 10</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 13 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 13</title>
+		<title>3.2. Saran .............................................................................................................. 13</title>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 14 
+		</segment>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1. Struktur Organisasi Tim Penulis...................................................................3 Gambar 2. <it>Process</it> <it>Flow</it> <it>Incremental</it> <it>Diagram.............................................................5</it> Gambar 3. <it>Procses</it> <it>Flow</it> <it>Waterfall</it> <it>Diagram.................................................................6</it> 
+		</segment>
+	</page>
+	<page id="7">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Sebelum mencoba untuk mendaftar pada PT Appstrak Teknologi, penulis telah mencari beberapa perusahaan untuk melakukan kerja praktik dan mengirimkan permohonan melakukan kerja praktik pada perusahaan-perusahaan tersebut, namun beberapa dari mereka ada yang menolak, ada yang tidak mengabari, dan ada juga yang mengabari setelah beberapa lama pada saat penulis sedang melakukan kerja praktik. Penulis mencari perusahaan untuk melakukan kerja praktik dari banyak sumber, salah satunya jobstreet.com, sebuah <it>website</it> yang menyediakan <it>platform</it> bagi para pencari kerja atau tempat magang untuk mencari lowongan pekerjaan atau lowongan magang. Selain jobstreet.com, penulis juga mengikuti acara <it>Job</it> <it>Fair</it> yang diadakan di Balairung Universitas Indonesia. Selain itu penulis juga mencari perusahaan untuk melakukan kerja praktik dengan mengikuti seminar-seminar perusahaan yang mencari lowongan pekerjaan. Saat penulis sedang mencari perusahaan untuk melakukan kerja praktik, penulis bertemu dengan penyelia. Pada saat itu penyelia juga sedang mencari mahasiswa untuk melakukan kerja praktik pada PT Appstrak Teknologi. Berhubung pada saat itu penulis juga sedang mencari perusahaan untuk melakukan kerja praktik, penulis pun menerima tawaran tersebut. Penulis melakukan wawancara pekerjaan bersama penyelia dan CEO dari PT Appstrak Teknologi di Sudirman, dan akhirnya penulis diterima sebagai salah satu <it>back</it> <it>end</it> <it>developer</it> <it>intern</it> pada PT Appstrak Teknologi. 
+		</segment>
+	</page>
+	<page id="8">
+		<pagenum>2</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Subbab ini menjelaskan tempat kerja praktik penulis dan posisi penulis pada masa magang untuk mata kuliah kerja praktik. Penulis melakukan kerja praktik pada PT Appstrak Teknologi sebagai <it>back</it> <it>end</it> <it>developer.</it> 
+		</segment>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Appstrak Teknologi merupakan sebuah perusahaan <it>technology</it> <it>developer</it> yang menerima tawaran proyek dari klien dan mendistribusikan pekerjaan tersebut pada tim pengembang PT Appstrak Teknologi, salah satunya ialah tim dimana penulis ditempatkan yang berisi mahasiswa dan mahasiswi interns. [1] PT Appstrak yang terletak pada Jalan Walet Elok 6 No.21 Pantai Indah Kapuk didirikan oleh seorang <it>intrepreneur</it> muda bernama Stephanie Aurelrica Tassya Yoe dengan visi “membantu  dunia  dan  generasi  masa  depan”  dan  misi  “membangun  perusahaan teknologi <it>platform</it> <it>centric</it> yang menghubungkan masyarakat, membawa transparansi bagi masyarakat, dan membuat kehidupan masyarakat lebih mudah”. PT  Appstrak memiliki tiga konsep, yaitu <it>people,</it> <it>Jakarta-Bound,</it> dan <it>culture</it> yang optimis. Konsep <it>people</it> artinya PT Appstrak mengedepankan kerjasama tim. <it>Jakarta-Bound</it> artinya PT Appstrak lebih memprioritaskan tawaran proyek dari dalam Jakarta agar lingkupnya tidak terlalu luas. <it>Culture</it> <it>yang</it> <it>optimis,</it> artinya karyawan PT Appstrak dituntut untuk selalu optimis. [1] 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada kerja praktik ini, penulis melakukan kerja praktik sebagai <it>back</it> <it>end</it> <it>developer</it> <it>intern</it> di bawah pengawasan penyelia, yaitu Andito Pranandya pada sebuah tim yang seluruhnya berisi mahasiswa <it>interns.</it> 
+		</segment>
+	</page>
+	<page id="9">
+		<pagenum>3</pagenum>
+		<segment>
+			Andito Pranandya 
+		</segment>
+		<title>(CTO)</title>
+		<segment>
+			Ferdinand Chandra (Front-end developer intern) Septiani Sinaga (UI/UX designer intern) Fendi (Back-end developer intern) William Lim (Back- end developer intern) <it>Gambar</it> <it>1.</it> Struktur Organisasi Tim Penulis 
+		</segment>
+	</page>
+	<page id="10">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada masa magang, penulis menempati posisi sebagai <it>back</it> <it>end</it> <it>developer</it> <it>intern</it> pada suatu tim pada PT. Appstrak Teknologi Indonesia. Pada tim tersebut penulis mengerjakan hal-hal yang berhubungan dengan <it>back</it> <it>end,</it> seperti merancang penyimpanan dan pengaksesan data. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			PT Appstrak Teknologi Indonesia adalah sebuah <it>platform</it> <it>revolution</it> <it>company.</it> Perusahaan ini mengembangkan sistem informasi, <it>platform</it> <it>web</it> dan aplikasi <it>mobile</it> atas permintaan dan tawaran dari beberapa klien. Tawaran-tawaran tersebut dikerjakan oleh tim pengembang PT Appstrak Teknologi Indonesia. Salah satu tim pengembang tersebut merupakan tim yang seluruhnya berisi mahasiswa dan mahasiswi <it>interns.</it> Kebetulan, penulis ditugaskan bersama rekan penulis yang sama-sama merupakan mahasiswa-mahasiswi FASILKOM. Penulis ditempatkan pada sebuah tim pengembang bersama Fendi (FASILKOM UI 2013), Septiani Sinaga (FASILKOM UI 2013), dan Ferdinand (FASILKOM UI 2014). Tim tersebut terdiri oleh penulis dan Fendi yang berperan sebagai <it>back</it> <it>end</it> <it>developer,</it> Septiani Sinaga yang berperan sebagai <it>user</it> <it>interface</it> <it>designer,</it> dan Ferdinand yang berperan sebagai <it>front</it> <it>end</it> <it>developer.</it> Tim penulis diberikan tugas untuk mengerjakan beberapa proyek, proyek pertama yang tim penulis kerjakan ialah HukumLaw, yang telah sedikit dikerjakan oleh tim pengembang sebelumnya, namun karena proyek tersebut belum selesai, proyek HukumLaw diberikan kepada tim penulis. HukumLaw merupakan sebuah <it>website</it> yang menjadi <it>platform</it> bagi pekerja hukum yang memudahkan orang yang ingin mencari pekerja hukum seperti pengacara atau jaksa. <it>Website</it> ini juga dapat berfungsi sebagai komunitas bagi para pekerja hukum untuk saling bertukar informasi. Proyek 
+		</segment>
+	</page>
+	<page id="11">
+		<pagenum>5</pagenum>
+		<segment>
+			berikutnya yang diberikan kepada tim penulis ialah Kado, pada proyek ini tim penulis ikut melakukan <it>requirement</it> <it>gathering</it> bersama klien Kado. Kado merupakan <it>website</it> yang berfungsi sebagai <it>whistlist,</it> dengan <it>website</it> ini, para penggunanya dapat mem- <it>posting</it> barang yang mereka inginkan, contohnya di hari ulang tahunnya, sehingga orang lain yang mengikuti orang tersebut pada <it>website</it> ini dapat mengetahui hadiah apa yang cocok diberikan kepadanya. Proyek ini belum selesai karena pada pertengahan pengerjaan proyek, terdapat masalah teknis dan disebabkan masa kerja praktik penulis dan tim penulis sudah selesai. Penulis dan tim penulis akan melanjutkan kuliah, sehingga proyek ini belum dilanjutkan lagi, namun memungkinkan bagi tim penulis untuk melanjutkannya lagi nanti. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Penulis mengerjakan beberapa proyek ketika sedang melakukan kerja praktik pada PT Appstrak Teknologi, proyek pertama adalah HukumLaw, karena proyek tersebut merupakan proyek yang dilanjutkan dari pengembang sebelumnya, maka tim penulis menggunakan <it>process</it> <it>flow</it> <it>incremental.</it> <it>Gambar</it> <it>2.</it> <it>Proces</it> <it>Flow</it> <it>Incremental</it> <it>Diagram</it> [2] Hal tersebut dikarenakan pengembangan <it>website</it> tersebut dibagi berdasarkan fitur yang diselesaikan. Contohnya apabila terdapat fitur baru yang akan diimplementasi, maka 
+		</segment>
+	</page>
+	<page id="12">
+		<pagenum>6</pagenum>
+		<segment>
+			seluruh tim penulis akan merancang fitur tersebut dari awal, dari rancangan <it>user</it> <it>interface,</it> tampilan <it>front</it> <it>end,</it> dan <it>back</it> <it>end.</it> Setelah seluruh pekerjaan untuk fitur tersebut selesai, maka akan dilakukan integrasi agar fitur tersebut dapat berjalan dengan baik. Lalu siklus akan diulangi lagi ketika ada fitur baru yang akan diimplementasi. <it>Gambar</it> <it>3.</it> <it>Process</it> <it>Flow</it> <it>Waterfall</it> <it>Diagram</it> [3] Proyek kedua yang tim penulis kerjakan ialah Kado, pada proyek ini tim penulis bertemu dengan klien dan memdiskusikan fitur yang akan diimplementasikan. Setelah mendapatkan <it>requirement</it> yang dibutuhkan, tim penulis mulai mengerjakan proyek tersebut dengan <it>process</it> <it>flow</it> <it>waterfall.</it> Pertama, setelah mendapatkan <it>requirement</it> dalam proyek, tim penulis mulai mendesain <it>user</it> <it>interface</it> dan <it>schema</it> <it>database</it> dari <it>website</it> tersebut. Namun, ketika tim penulis memasuki tahap implementasi, karena 
+		</segment>
+	</page>
+	<page id="13">
+		<pagenum>7</pagenum>
+		<segment>
+			disebabkan oleh suatu masalah dan masa kerja praktik tim penulis sudah selesai, proyek dihentikan. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo></title>
+		<segment>
+			Dalam mengerjakan proyek tim penulis menggunakan teknologi yang membantu jalannya pekerjaan tim penulis dalam mengerjakan proyek, karena <it>website</it> proyek tersebut berbasis <it>web,</it> tim pengembang memakai <it>framework</it> CI yang menggunakan bahasa pemograman HTML, PHP, dan Javascript. Tim penulis menggunakan <it>version</it> <it>control</it> git dengan GUI <it>sourctree</it> dalam mengontrol versi dan memudahkan dalam pembagian pekerjaan antar tim pengembang. Dalam penggunaan <it>database,</it> tim pengembang tidak memiliki <it>server</it> yang dapat digunakan untuk menyimpan data yang akan digunakan, oleh karena itu tim penulis menggunakan XAMPP dan PHPMYAdmin sebagai <it>server</it> <it>local</it> sehingga data <it>database</it> dapat diakses secara <it>local</it> dari masing-masing laptop tim penulis. Tim penulis juga menggunakan Trello sebagai alat untuk mengatur penjadwalan dan penanda <it>progress</it> dari pekerjaan yang tim penulis kerjakan, tim penulis juga menggunakan Trello untuk melaporkan <it>progress</it> dari pekerjaan yang sudah dilakukan oleh tim penulis. Dalam mengerjakan proyek tersebut tim penulis juga tidak lupa mendokumentasikan dan menyimpan data-data penting seperti <it>entity</it> <it>relationship</it> <it>diagram,</it> laporan pekerjaan, atau <it>database,</it> tim penulis menggunakan Google Drive untuk melakukan dokumentasi tersebut. Dalam melakukan komunikasi, tim penulis membuat sebuah <it>group</it> menggunakan aplikasi Whatsapp untuk memudahkan komunikasi antara pengembang dan penyelia. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Selama melakukan kerja praktik di PT Appstrak Teknologi, penulis mengerjakan beberapa proyek, namun proyek utama yang penulis kerjakan adalah HukumLaw dan Kado. <it>Website</it> HukumLaw sudah di-<it>deliver</it> dan di-<it>hosting</it> menggunakan jasa penyedia jasa <it>hosting</it> dari Hostingator. <it>Website</it> HukumLaw bersifat publik dan dapat diakses melalui alamat http://www.hukumlaw.com/. Fitur-fitur yang terdapat pada <it>HukumLaw</it> dikerjakan secara bersama-sama, namun penulis bertanggung jawab atas beberapa fitur. Fitur-fitur tersebut diantaranya adalah fitur <it>lawyer</it> <it>directory</it> untuk 
+		</segment>
+	</page>
+	<page id="14">
+		<pagenum>8</pagenum>
+		<segment>
+			mencari pekerja hukum, fitur <it>ask</it> <it>lawyer</it> bagi pengguna jasa pekerja hukum untuk bertanya kepada pekerja hukum, fitur notifikasi sebagai notifikasi apabila ada yang membalas diskusi forum atau memberikan pertanyaan, fitur <it>contact</it> <it>us</it> untuk mengirimkan pesan kepada admin dari HukumLaw, fitur artikel sebagai wadah bagi pekerja hukum untuk mengunggah artikel publikasi, dan <it>dashboard</it> bagi admin. Selain produk berupa <it>website,</it> tim penulis juga menghasilkan dokumentasi berupa dokumen- dokumen seperti <it>entity</it> <it>relationship</it> <it>diagram</it> dan <it>sitemap</it> sehingga akan memudahkan pengembang selanjutya apabila proyek ini akan dikembangkan lebih lanjut. Proyek lainnya ialah pengembangan <it>website</it> Kado yang baru sampai tahap implementasi, pengerjaan proyek tersebut sudah menghasilkan <it>database</it> yang sudah memenuhi <it>requirement</it> dan beberapa dokumen seperti <it>entity</it> <it>relationship</it> <it>diagram.</it> Meskipun proyek tersebut baru dikerjakan sampai tahap implementasi, namun proyek ini akan dikembangkan lagi oleh tim pengembang selanjutnya, meskipun memungkinkan bagi tim penulis untuk melanjutkannya. Kedua proyek tersebut menggunakan <it>framework</it> CI sehingga penulis harus mempelajari pemrograman <it>web</it> menggunakan <it>framework</it> tersebut. Penulis juga harus mempersiapkan kemampuan dalam mengelola basis data dan penggunaan DBMS Mysql karena penulis berada pada posisi <it>back</it> <it>end</it> <it>developer</it> sehingga penulis harus menguasai pengelolaan basis data. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non-Teknis</bo></title>
+		<segment>
+			Dalam melakukan kerja praktik, penulis belajar lebih jauh lagi cara mengerjakan proyek secara terstruktur, karena sebelumnya penulis mengerjakan proyek secara <it>cross-functional,</it> namun saat melakukan kerja praktik, penulis lebih diarahkan untuk mengerjakan pekerjaan menurut tugas yang berdasarkan <it>role</it> dari penulis. Penulis juga pertama kali ini melakukan magang sehingga penulis belajar bagaimana rasanya terjun ke dunia kerja. Proyek HukumLaw sebelumnya telah dikerjakan oleh pengembang lain sebelum penulis menjalankan kerja praktik di PT Appstrak Teknologi. Namun mereka baru 
+		</segment>
+	</page>
+	<page id="15">
+		<pagenum>9</pagenum>
+		<segment>
+			mempelajari cara menggunakan <it>framework</it> CodeIgniter sehingga kode yang mereka tulis sangat berantakan, tidak ada ketetapan dalam melakukan penamaan, tidak ada dokumentasi apapun sehingga tim penulis mengalami kesulitan dalam melanjutkan proyek tersebut. Tim penulis pun melakukan <it>backward</it> <it>engineering</it> dengan membuat dokumentasi berupa <it>Entity</it> <it>Relationship</it> <it>Diagram</it> atau sitemap.</it> Melalui kejadian ini, penulis belajar bahwa dokumentasi dalam melakukan proyek merupakan hal yang penting, terlebih lagi sangat dibutuhkan apabila proyek akan dilanjutkan ke pengembang selanjutnya. Pada awalnya tim penulis bersama penyelia datang ke kantor Appstrak setiap hari, tim penulis dan penyelia merasa kesulitan apabila harus datang ke kantor Appstrak setiap hari karena masalah transportasi dan konsumsi. Karena tim penulis dan penyelia merasa bahwa biaya transportasi dan konsumsi yang dikeluarkan apabila dalam pengerjaan proyeknya harus pergi ke kantor setiap hari, maka dibuatlah kebijakan baru, yaitu bahwa tim penulis dan penyelia dapat mengerjakan proyek ditempat lain, sehingga dipilihlah fasilkom UI sebagai tempat tim pengembang menjalankan kerja praktik. 
+		</segment>
+	</page>
+	<page id="16">
+		<pagenum>10</pagenum>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<segment>
+			Subbab ini akan berisi analisis penulis terhadap pelaksanaan kerja praktik yang penulis lakukan di PT Appstrak Teknologi. Analisis terhadap pelaksanaan kerja praktik akan berkaitan dengan perbedaan pelaksanaan kerja praktik dibandingkan dengan KAKP yang telah dibuat serta penjelasan lingkungan kerja pada PT Appstrak Indonesia. Subbab ini juga akan mencakup relevansi mata kuliah yang penulis ambil di FASILKOM UI dengan kerja praktik yang penulis jalankan. 
+		</segment>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Tidak banyak perbedaan pada pelaksanaan kerja praktik dibandingkan dengan KAKP yang telah dibuat. Salah satu perbedaan antara KAKP dengan apa yang penulis lakukan saat kerja praktik adalah periode jam kerja yang pada kenyataannya tidak terlalu terpaku pada jadwal yang tertulis di KAKP karena jadwal pengerjaan pada kenyataanya fleksibel. Lingkungan kerja pada PT Appstrak Teknologi cukup baik, pegawai lain pada PT Appstrak Teknologi ramah dan suasana tempat kerja fleksibel. Tim penulis seluruhnya terdiri dari pegawai <it>intern,</it> sehingga posisi masing-masing anggota setara. Hal tersebut membuat masing-masing anggota tim penulis dapat berkontrobusi dan mengungkapkan ide-ide yang dimiliki oleh masing-masing anggota tim penulis. Penilaian penulis terhadap tempat penulis melakukan KP ialah karena tempat penulis melakukan KP masih tergolong perusahaan baru, maka masih banyak yang perlu dikembangkan lagi. Contohnya ialah bagaimana perusahaan menjalankan kontrak dengan klien sehingga apabila klien melakukan hal yang tidak bertanggung jawab seperti mengulur waktu sehingga rencana proyek terganggu, maka dapat dikenakan penalti. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Dalam melakukan kerja praktik, penulis mengerjakan proyek dengan mengembangkan <it>website.Tentu</it> saja ini merupakan hal yang relevan dengan perkuliahan di Fasilkom UI. 
+		</segment>
+	</page>
+	<page id="17">
+		<pagenum>11</pagenum>
+		<segment>
+			Banyak sekali hal-hal yang penulis pelajari di Fasilkom UI terpakai ketika mengerjakan proyek pengembangan <it>website</it> tersebut. Mata kuliah-mata kuliah yang relevan dengan apa yang penulis lakukan saat melakukan kerja praktik ialah Dasar-Dasar Pemograman, Matematika Diskret, Struktur Data dan Algoritma, Perancangan dan Pemograman <it>Web,</it> Basis Data, Manajemen Proyek, Proyek Pengembangan Sistem Informasi, dan Rekayasa Perangkat Lunak. Mata kuliah Dasar-Dasar Pemograman, Matematika Diskret, dan Struktur Data dan Algoritma relevan dengan apa yang penulis lakukan pada saat melakukan kerja praktik karena mata kuliah-mata kuliah tersebut membentuk pola pikir penulis dalam melakukan pemograman. Mata kuliah Perancangan dan Pemograman Web dan Basis Data relevan dengan apa yang penulis lakukan ketika melakukan kerja praktik karena penulis berperan sebagai <it>back</it> <it>end</it> <it>developer</it> pada sebuah <it>website,</it> sehingga penulis harus paham bagaimana cara merancang dan memrogram suatu <it>website</it> dan karena <it>website-website</it> tersebut menggunakan suatu basis data dalam menyimpan data, tentu saja penulis harus paham teori-teori dan cara mengolah data pada basis data. Mata kuliah Manajemen Proyek relevan dengan apa yang penulis lakukan pada saat melakukan kerja praktik karena pada saat kerja praktik, penulis mengerjakan suatu proyek, sehingga teori-teori, <it>best</it> <it>practice,</it> dan <it>tools</it> yang membantu pengerjaan proyek yang penulis dapatkan saat menjalani mata kuliah Manajemen Proyek sangat membantu penulis selama menjalani aktivitas tersebut. Mata kuliah Rekayasa Perangkat Lunak relevan dengan apa yang penulis lakukan saat melakukan kerja praktik karena dalam mata kuliah tersebut, penulis belajar bagaimana merekayasa perangkat lunak dengan baik seperti membuat diagram-diagram yang diperlukan dan menggunakan <it>process</it> <it>flow.</it> Mata kuliah Propensi relevan dengan apa yang penulis lakukan saat melakukan kerja praktik karena pada mata kuliah tersebut, penulis sudah mempelajari cara mengerjakan proyek dalam sebuah tim sehingga pada saat mengerjakan proyek ketika kerja praktik, penulis sudah memiliki cukup pengalaman dalam pengembangan proyek. 
+		</segment>
+	</page>
+	<page id="18">
+		<pagenum>12</pagenum>
+		<segment>
+			Menurut penulis, tidak banyak perbedaan di antara pelajaran yang penulis dapatkan di perkuliahan dengan pada saat melakukan kerja praktik. Salah satu contoh dari perbedaan tersebut ialah pada mata kuliah Rekayasa Perangkat Lunak atau Basis Data, diajarkan banyak diagram yang dapat mendukung proyek, namun pada saat melakukan kerja praktik, beberapa dari diagram tersebut tidak diimplementasikan, misalnya <it>sequence</it> <it>diagram,</it> <it>communication</it> <it>diagram,</it> dan <it>data</it> <it>flow</it> <it>diagram.</it> 
+		</segment>
+	</page>
+	<page id="19">
+		<pagenum>13</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Penulis melakukan kerja praktik pada PT Appstrak Teknologi dengan posisi sebagai <it>back</it> <it>end</it> <it>developer</it> <it>intern.</it> Penulis ditempatkan dalam sebuah tim yang seluruhnya berisi mahasiswa <it>intern.</it> Penulis mengerjakan beberapa proyek bersama tim tersebut, diantaranya adalah HukumLaw dan Kado. Dalam menjalani kerja praktik, penulis mendapatkan pengalaman dan pengetahuan baru mengenai bagaimana menjalankan proyek dengan struktur yang ada. Kerja praktik ini menambah pengalaman penulis dalam hal-hal teknis seperti menggunakan <it>framework</it> CI dan bagaimana melakukan <it>requirement</it> <it>gathering</it> bersama <it>client.</it> Kerja praktik ini juga menambah <it>soft</it> <it>skill</it> penulis seperti dalam hal manajemen waktu dan bekerja sama dengan tim dan dibawah pengawasan dari perusahaan. Kerja praktik ini juga membantu penulis dalam pencarian pekerjaan selanjutnya karena akan menambah CV dan <it>portfolio</it> penulis. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Saran penulis untuk PT Appstrak Teknologi adalah untuk lebih memperketat kontrak dengan klien. Ada baiknya terdapat <it>milestone</it> pengerjaan proyek pada kontrak sehingga klien harus membayar sejumlah harga apabila <it>milestone</it> yang ditetapkan telah tercapai. Hal ini dilakukan untuk mencegah adanya klien yang membatalkan proyek pada pertengahan pengerjaan proyek. 
+		</segment>
+	</page>
+	<page id="20">
+		<pagenum>14</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			"Appstrak". Appstrak.com. N.p., 2016. Web. 4 Nov. 2016. [1] "Iterative And Incremental Development". En.wikipedia.org. N.p., 2016. Web. 4 Nov. 2016. [2] "Waterfall Model". En.wikipedia.org. N.p., 2016. Web. 4 Nov. 2016. [3] 
+		</segment>
+	</page>
+	<page id="21">
+		<pagenum>15</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<segment>
+			<bo>Kerangka</bo> <bo>Acuan</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> Fendi 1306383086 Sistem Informasi fendi.tan1996@gmail.com / +62 898 3344 655 William Lim 1306412060 Sistem Informasi williamkrav@gmail.com / +62 816 7281 83 <bo>1.</bo> <bo>Judul</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>:</bo> <bo>Implementasi</bo> <bo>dan</bo> <bo>Perancangan</bo> <bo>Proyek</bo> <bo>pada</bo> <bo>Appstrak</bo> Tempat Kerja Praktik Nama Perusahaan: PT Appstrak Teknologi Indonesia Alamat: Jln. Walet Elok 6 No. 21 Pantai Indah Kapuk, Jakarta Utara, DKI Jakarta, 14460 Telepon/Fax: +6221 97494742 Website: http://appstrak.com/appstrak/ &amp; http://appstraklabs.com/ Waktu Pelaksanaan KP Periode : 20 Juni 2016 – 19 Agustus 2016  Hari dan Jam Kerja : Senin – Jumat, 10.00 – 18.00  Penyelia Kerja Praktik Nama : Andito Pranandya Jabatan: Founding Partner &amp; CTO Telepon: 0898 8332 728 e-mail: daitotheorise@gmail.com Deskripsi Tempat KP PT Appstrak Teknologi Indonesia adalah sebuah <it>Platform</it> <it>Revolution</it> <it>Company.</it> Perusahaan ini mengembangkan sistem informasi, <it>platform</it> <it>web</it> dan aplikasi <it>mobile</it> untuk klien [1]. Adapun visi dan misi PT Appstrak Teknologi Indonesia adalah sebagai berikut [2]: Visi: Membantu dunia dan generasi masa depan. Misi: Membangun perusahaan teknologi <it>platform</it> <it>centric</it> yang menghubungkan masyarakat, membawa transparansi bagi masyarakat, dan membuat kehidupan masyarakat lebih mudah. Ruang Lingkup Kerja Praktik - Melanjutkan pengerjaan proyek HukumLaw yang sedang berjalan pada saat ini. - Melakukan perbaikan terhadap proyek yang sedang dikerjakan. - Proyek yang dikerjakan ialah HukumLaw dan Wish Funding. - Menghubungkan desain tampilan web yang telah dirancang dengan <it>database</it> melalui <it>application</it> <it>logic.</it> - Mengimplementasi proyek Wish Funding dari klien. 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="23">
+		<segment>
+			<bo>2.</bo> <bo>Rencana</bo> <bo>Jadwal</bo> <bo>Kerja</bo> <bo>Praktik</bo> Berikut ialah rencana jadwal kerja praktik yang akan dilakukan selama 2 bulan (9 minggu). <bo>Tabel</bo> <bo>1.1</bo> <bo>Rencana</bo> <bo>Jadwal</bo> <bo>Kerja</bo> <bo>Praktik</bo> Waktu Rencana Kerja Fendi Rencana Kerja William Lim Minggu 1 20 Juni 2016 – 24 Juni 2016  Minggu 2 27 Juni 2016 – 1 Juli 2016    Perkenalan dengan tim Appstrak    <it>Briefing</it> rencana kerja.    Memahami dan mempelajari proses bisnis dari proyek yang sedang  dikembangkan saat ini.   Mempelajari framework CodeIgniter.    Mulai mengerjakan fitur yang    Mulai mengerjakan fitur yang  masih belum diimplementasikan, seperti fitur discussion, view_profile dan mydiscussion pada proyek Hukum Law. masih belum diimplementasikan, seperti fitur lawyer directory, notifikasi, dan ask_lawyer pada proyek Hukum Law.   Transfer knowledge dari pengembang proyek HukumLaw.  Minggu 3 4 Juli 2016 – 8 Juli 2016    Melakukan testing terhadap fitur yang telah diimplementasikan.    Memperbaiki bug yang telah ditemukan.  Minggu 4 11 Juli 2016 – 15 Juli 2016  Minggu 5   Melanjutkan pengerjaan fitur    Melanjutkan pengerjaan fitur  yang belum selesai, seperti fitur registrasi dan enkripsi password pada proyek Hukum Law. yang belum selesai, seperti contact_us, artikel, dan dashboard admin pada proyek Hukum Law.   Mengerjakan fitur chat menggunakan plugin Applozic    Mengimplementasi semua fitur control panel yang dimiliki admin  (front-end dan back-end) 18 Juli 2016 – 22 Juli 2016    Mengimplementasikan    Mengimplementasikan  control panel admin bagian controller control panel admin bagian view Minggu 6   Menghubungkan rancangan yang telah dibuat dengan database dan  25 Juli 2016 – 29 Juli 2016  controller Minggu 7 1 Agustus 2016 – 5 Agustus  
+		</segment>
+		<pagenum>2016</pagenum>
+		<segment>
+			Minggu 8 8 Agustus 2016 – 12  Agustus 2016   Memperbaiki kode implementasi sistem sesuai dengan keinginan  project manager.   Menyusun User Acceptance Test    <it>Briefing</it> rencana kerja baru.    Memahami dan mempelajari proses bisnis dari proyek Wish  Funding yang akan dikembangkan. 
+		</segment>
+		<pagenum>2</pagenum>
+	</page>
+	<page id="24">
+		<segment>
+			Scanned by CamScanner 
+		</segment>
+	</page>
+	<page id="25">
+		<pagenum>16</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 20 – 24 Juni 2016  NPM / Nama : 1306412060 / William Lim Tempat KP :PT Appstrak Teknologi Indonesia Judul KP : Implementasi dan Perancangan Proyek pada Appstrak <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 20 Juni 2016 10:00 – 12:00            13:00 – 18:00  Briefing dengan penyelia   Perkenalan dengan tim Appstrak,    Briefing rencana kerja,    Penjelasan mengenai proyek yang akan  dikerjakan oleh Appstrak.  Mempelajari proses bisnispadaHukum Law   Mempelajari halaman dan fitur-fitur yang  akan dikembangkan pada Hukum Law,   Browsing website sejenis Hukum Law,  yaitu Avvo. Selasa,21 Juni 2016 Rabu, 22 Juni 2016 Kamis, 23 Juni 2016 10:00 – 18:00  Mempelajari framework CodeIgniter 10:00 – 18:00        10:00 – 18:00          Mempelajari MVC    Mempelajari cara memulai membangun  website menggunakan CodeIgniter Mempelajari implementasi fitur-fitur HukumLaw   Mempelajari implementasi fitur-fitur yang  dimiliki HukumLaw,   Mempelajari cara mengimplementasi fitur  website menggunakan CodeIgniter. Pemindahan source code ke server local   Pindahkan source code di server ke local    Buat project menggunakan GitLab untuk  sharing source code   Impor DDL dan DML database server ke database local Jum’at, 24 Juni  2016  10:00 – 18:00    Pemindahan source code ke server local   Pindahkan source code di server ke local  
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="27">
+	</page>
+	<page id="28">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 27 Juni – 1Juli 2016  NPM / Nama : 1306412060 / William Lim Tempat KP :PT Appstrak Teknologi Indonesia Judul KP : Implementasi dan Perancangan Proyek pada Appstrak <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 27 Juni 2016 10:00 – 18:00          Implementasi fitur Discussion dan My Discussionpada HukumLaw Perkenalan dengan tim Appstrak   Memperbaiki tampilan notifikasi pada kolom  navigasi yang masih error.   Mengimplementasi fitur notifikasi untuk  mengirim notifikasi kepada user yang berhak menerimanya 10:00 – 18:00  Implementasi fitur View Profile pada HukumLaw   Memperbaiki halaman notifikasi     Memberi link thread forum    Membuat fitur search lawyer (lawdir) untuk  mencari lawyer berdasarkan lokasi dan topik  yang dikuasai      Transfer Knowledge dengan Developer sebelumnya   Berdiskusi dengan developer sebelumnya  mengenai fitur-fitur dan database HukumLaw   Merencanakan fitur-fitur dan database dari  HukumLaw Merencanakan database pada HukumLaw   Membuat fitur ask a lawyer  Selasa,28 Juni 2016 Rabu, 29 Juni 2016 Kamis, 30 Juni 2016 10:00 – 18:00        10:00 – 18:00        Jum’at, 1 Juli 2016  10:00 – 18:00  Memperbaiki bug pada HukumLaw   Mencari bug fitur-fitur pada HukumLaw    Memperbaiki  dan  optimisasi  fitur-fitur  pada  HukumLaw 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="29">
+	</page>
+	<page id="30">
+	</page>
+	<page id="31">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 11 –15Juli 2016  NPM / Nama : 1306412060 / William Lim Tempat KP :PT Appstrak Teknologi Indonesia Judul KP : Implementasi dan Perancangan Proyek pada Appstrak <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 11 Juli 2016 Selasa, 12 Juli 2016 10:00 – 18:00          10:00 – 18:00          Rabu,13 Juli 2016 10:00 – 18:00  Testing fitur pada HukumLaw   Mencari bug fitur-fitur pada HukumLaw     Memperbaiki dan optimisasi fitur-fitur pada  HukumLaw Implementasi fitur Registrasi dan Enkripsi password akun pada HukumLaw   Membuat fitur contact us sebagai tempat  pengguna mengontak pihak HukumLaw    Integrasi database antar lawyer, member, dan login Implementasi fitur Approval Lawyer baru yang dilakukan oleh Admin pada HukumLaw   Membetulkan dashboard admin    Membuat fitur validasi untuk admin    Membuat fitur search artikel berdasarkan  sub topic   Mempelajari cara menggunakan Applozic  Kamis, 14 Juli 2016 10:00 – 18:00  Implementasi fitur chat Applozic pada HukumLaw   Membuat fitur chat Applozic untuk lawyer  Jum’at, 15 Juli  2016  10:00 – 18:00    Implementasi fitur chat Applozic dan Control Panel Admin pada HukumLaw   Membuat fitur chat Applozic untuk admin  Depok, 15 Juli 2016 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="32">
+	</page>
+	<page id="33">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 18 – 22Juli 2016  NPM / Nama : 1306412060 / William Lim Tempat KP :PT AppstrakTeknologi Indonesia Judul KP : Implementasi dan Perancangan Proyek pada Appstrak <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> 10:00 – 18:00  Implementasi fitur control panel Admin pada HukumLaw Senin, 18 Juli 2016 Selasa, 19 Juli 2016 10:00 – 18:00  Rabu,20 Juli 2016 10:00 – 18:00  Kamis, 21 Juli 2016 10:00 – 18:00  Integrasi antara discussion dan topic.     Menambahkan discussion terkait subtopic  pada halaman subtopic. Implementasi fitur control panel Admin pada HukumLaw   Mengimplementasi tampilan navigasi Admin    Memperbaiki tampilan untuk fitur create  Implementasi fitur control panel Admin pada HukumLaw   Memperbaiki navbar dan footer Admin    Memperbaiki tampilan untuk fitur edit  dan delete   Memperbaiki database member  Implementasi fitur control panel Admin pada HukumLaw   Memperbaiki database member    Memperbaiki semua form pada admin  Jum’at, 22 Juli  2016  10:00 – 18:00  Implementasifitur control panel Admin padaHukumLaw   Mencari bug fitur-fitur pada control panel  Admin HukumLaw   Memperbaiki dan optimisasi fitur-fitur pada  control panel Admin HukumLaw 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="34">
+	</page>
+	<page id="35">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 25 – 29Juli 2016  NPM / Nama : 1306412060 / William Lim Tempat KP :PT AppstrakTeknologi Indonesia Judul KP : Implementasi dan Perancangan Proyek pada Appstrak <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 25 Juli 2016 Selasa, 26 Juli 2016 10:00 – 18:00  Integrasi front end dan back end padaHukumLaw 10:00 – 18:00    Mengubah format kode kasar pada front end  agar sesuai dengan kebutuhan.   Integrasi fitur topik, lawyer directory, dan artikel Integrasi front end dan back end padaHukumLaw   Memperbaiki fitur topik, lawyer directory,  dan article Rabu,27 Juli 2016 10:00 – 18:00  Integrasi front end dan back end padaHukumLaw Kamis, 28 Juli 2016 Jum’at, 29 Juli  2016  10:00 – 18:00  Integrasi front end dan back end padaHukumLaw   Integrasi fitur mycase dan notifikasi Integrasi fitur lawyer directory     Memperbaiki form edit dan create pada  myarticle dan mycase 10:00 – 18:00  Integrasi front end dan back end padaHukumLaw   Memperbaiki bug pada halaman utama    Membuat fitur popular topik dan  menampilkan para pekerja hukum terpopuler di halaman utama 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="36">
+	</page>
+	<page id="37">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 1 – 5Agustus 2016  NPM / Nama : 1306412060 / William Lim Tempat KP :PT Appstrak Teknologi Indonesia Judul KP : Implementasi dan Perancangan Proyek pada Appstrak <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> 10:00 – 18:00  Integrasi front end dan back end padaHukumLaw Senin, 2 Agustus 2016 Selasa, 3 Agustus 2016 10:00 – 18:00    Briefing proyek baru bersama klien dan  project manager.   Memperbaiki fitur upload profile picture  Finalisasiintegrasi front end dan back end padaHukumLaw   Memperbaiki pencarian pekerja hukum    Merapihkan kode yang tidak diperlukan  Rabu,4 Agustus 2016 10:00 – 18:00  Finalisasi integrasi front end dan back end pada HukumLaw   Memperbaiki otorisasi dan restriksi masing- masing peran   Mengaktifkan fitur chat pada setiap peran  Kamis, 5 Agustus 2016 10:00 – 18:00  Finalisasi integrasi front end dan back end pada HukumLaw   Membuat fitur pencarian pada halaman utama    Melakukan alpha testing dan debugging  bersama dengan anggota tim lain Jum’at, 6 Agustus  2016  10:00 – 18:00  PerancangandanAnalisisproyek KADO   Membuat rancangan ERD    Memetakan rancangan ke dalam database  
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="38">
+	</page>
+	<page id="39">
+		<segment>
+			<bo>Log</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>Semester</bo> <bo>Gasal</bo> <bo>2016/2017</bo> 8 – 12Agustus 2016  NPM / Nama : 1306412060 / William Lim Tempat KP :PT Appstrak Teknologi Indonesia Judul KP : Implementasi dan Perancangan Proyek pada Appstrak <bo>Hari,</bo> <bo>Tanggal</bo> <bo>Waktu</bo> <bo>Deskripsi</bo> <bo>Pekerjaan</bo> Senin, 8 Agustus 2016 Selasa, 9 Agustus 2016 Rabu,10 Agustus 2016 Kamis, 11 Agustus 2016 Jum’at, 12  Agustus 2016  10:00 – 18:00  Deployment proyek Hukum Law   Melakukan deployment proyek HukumLaw    Melakukan testing dan debugging  10:00 – 18:00  Deployment proyek Hukum Law   Memperbaiki fitur-fitur pada halaman depan  termasuk tampilan 10:00 – 18:00  Deployment proyek Hukum Law   Melakukan revisi dan debugging fitur  HukumLaw pada role admin   Merevisi ERD dan mapping database proyek  
+		</segment>
+		<title>KADO</title>
+		<segment>
+			10:00 – 18:00  Perancangan dan Analisis proyek KADO   Melanjutkan pembuatan rancangan ERD    Memetakan rancangan ke dalam database  10:00 – 18:00  Implementasi proyek KADO   Implementasi fitur halaman utama, login, dan sign up member 
+		</segment>
+		<pagenum>1</pagenum>
+	</page>
+	<page id="40">
+	</page>
+	<page id="41">
+	</page>
+
+</document>

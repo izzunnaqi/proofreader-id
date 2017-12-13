@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PERANCANGAN</bo> <bo>DAN</bo> <bo>PENGEMBANGAN</bo> <it><bo>SOFTWARE</bo></it> <it><bo>ENTERPRISE</bo></it></title>
+		<title><it><bo>RESOURCE</bo></it> <it><bo>PLANNING</bo></it> <bo>(ERP)</bo> <bo>PADA</bo> <bo>PT</bo> <bo>DENBE</bo> <bo>ANUGERAH</bo> <bo>SOLUSINDO</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>MUHAMMAD</bo> <bo>SALEH</bo></title>
+		<segment>
+			<bo>1306396776</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Muhammad Saleh : 1306396776 Program Studi : Sistem Informasi Judul Kerja Praktik : <bo>Perancangan</bo> <bo>dan</bo> <bo>pengembangan</bo> <it><bo>software</bo></it> <bo>ERP</bo> <bo>pada</bo> <bo>PT</bo> <bo>Denbe</bo> <bo>Anugerah</bo> <bo>Solusindo</bo> <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			laporan ini dibuat untuk memenuhi persyaratan mata kuliah kerja praktik (KP) yang telah dilakukan oleh penulis selama delapan minggu pada tanggal 13 Juni 2016 hingga 5 Agustus 2016. Pekerjaan yang dilakukan oleh penulis adalah perancangan dan pengembangan <it>software</it> ERP pada PT Denbe Anugerah Solusindo. Dalam KP ini, penulis diberikan tugas untuk merancang dan mengembangkan <it>software</it> ERP untuk Denbe yaitu Denbe ERP. Dalam pelaksanaan KP, penulis menggunakan beberapa aplikasi seperti draw.io, Microsoft Word, dan Google Drive agar dapat membantu penulis dalam melaksanakan KP. Meskipun penulis mengalami beberapa kendala dalam pelaksanaan KP, penulis dapat menangani dan mengambil pelajar dari kendala tersebut. KP yang dilakukan oleh penulis juga memiliki relevansi dengan mata kuliah yang telah diberikan sebelumnya di Fasilkom UI seperti Rekayasa Perangkat Lunak (RPL), <it>Enterprise</it> <it>Resource</it> <it>Planning</it> (ERP), Proyek Pengembangan Sistem Informasi (Propensi), Komunikasi Binsnis dan Teknis (Kombistek). Kata kunci: [Kerja praktik, <it>Enterprise</it> <it>Resource</it> <it>Planning,</it> PT Denbe Anugerah Solusindo] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang .......................................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 4</title>
+		<title>2.1.3. Metodologi ................................................................................................ 6</title>
+		<title>2.1.4. Teknologi .................................................................................................. 7</title>
+		<title>2.1.5. Non Teknis ................................................................................................ 8</title>
+		<title>2.2. Analisis ............................................................................................................ 8</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 8</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 12</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 13 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 13</title>
+		<title>3.2. Saran .............................................................................................................. 13</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 15 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1 Struktur Organisasi PT Denbe Anugerah Solusindo .................................... 2 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Proses pencarian kerja praktik (KP) penulis dimulai dengan niat penulis untuk mencari tempat KP bersama dengan teman-teman penulis. Sebelum melakukan pencarian, penulis melakukan konsultasi dengan salah satu dosen KP untuk menanyakan jenis pekerjaan yang cocok dan dapat dilakukan untuk mata kuliah KP. Berdasarkan infromasi yang diperoleh dari hasil konsultasi tersebut, jenis pekerjaan yang cocok dan dapat dilakukan adalah pekerjaan yang terkait atau memiliki hubungan dengan sistem informasi. Setelah memperoleh informasi tersebut, penulis mulai melakukan pencarian lowongan magang bersama teman-teman penulis. Pada saat melakukan pencarian lowongan magang, salah seorang teman penulis memiliki informasi mengenali lowongan magang pada PT Denbe Anugerah Solusindo. Sebelum memutuskan untuk magang di tersebut penulis mempertimbangkan beberapa aspek terkait lowongan tersebut dengan teman-teman penulis. Beberapa aspek tersebut meliputi lokasi, lowongan yang dibuka, <it>scope</it> dan ruang lingkup dari pekerjaan. Berdasarkan pertimbangan tersebut, penulis akhirnya sepakat dan memutuskan untuk magang di tempat tersebut. Sebelum diterima magang di tempat tersebut, penulis harus menyusun berkas untuk keperluan administrasi yang terdiri dari surat permohonan KP dari fakultas dan data dari diri penulis. Mengetahui hal itu, penulis kemudian menyusun dan menyerahkan berkas tersebut kepada PT Denbe Anugerah Solusindo bersama teman-teman penulis. Setelah berkas tersebut diserahkan, penulis dan teman-teman penulis berhasil diterima sebagai karyawan untuk magang di PT Denbe Anugerah Solusindo dan mulai bekerja di tempat tersebut pada tanggal 13 Juni 2016. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<pagenum>2</pagenum>
+		<segment>
+			PT. Denbe Anugerah Solusindo adalah sebuah perusahaan IT <it>consultant</it> yang menyediakan jasa konsultasi di bidang IT. Beberpa contoh layanan yang disediakan adalah jasa konsultasi untuk <it>hardware</it> dan <it>infrastructure,</it> <it>maintenance</it> <it>service,</it> <it>software</it> <it>implementation,</it> IT <it>business</it> <it>solution,</it> dan <it>service</it> <it>provider.</it> Denbe juga memiliki layanan yang menyediakan layanan untuk <it>training</it> <it>IT</it> dan SDM yaitu Denbe Solusi, <it>covering</it> <it>end</it> <it>to</it> <it>end</it> <it>solution.</it> [1]. Alamat dari tempat KP penulis adalah Ruko ITC Fatmawati Blok C2 no.8, Jakarta Selatan. Penulis bekerja selama lima hari dalam satu minggu dimulai dari hari Senin sampai hari Jumat. Jika terdapat hari libur maka hari kerja pada Denbe pun juga ikut diliburkan. Jam kerja penulis selama bekerja dimulai pada pukul 10:00 dan selesai pada pukul 16:00 WIB namun pukul 12 penulis diberikan waktu untuk istirahat, Sholat, dan makan siang selama sekitar 30 menit. Struktur singkat organisasi PT Denbe Anugerah Solusindo terdiri dari presiden direktur, GM Marketing, GM Operation &amp; Support, dan direktur. Direktur membawahi Kepala Acc &amp; Finance, Kepala Acc &amp; Finance membawahu Admin dan Staf Acc &amp; Finance sedangkan GM Marketing dan GM Operation &amp; Support membawahi beberapa bidang. Berikut gambar diagram struktur organisasi Denbe: 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Gambar 1 Struktur Organisasi PT Denbe Anugerah Solusindo 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Posisis penempatan yang diberikan kepada penulis pada KP ini adalah pada divisi App Dev &amp; Support di bagian tim yang menangani proyek perancangan dan pengembangan ERP operasional PT Dembe Anugerah Solisindo atau dapat disebut sebagai Denbe ERP. Pada divisi tersebut, penulis deberikan <it>role</it> sebagai <it>system</it> <it>analyst</it> UI/UX <it>designer,</it> <it>technical</it> <it>writer,</it> dan <it>tester</it> yang bertanggung jawab dalam perancangan fungsional, arsitektur, dan tampilan antarmuka, dokumentasi dan <it>testing</it> fungsionalitas dari Denbe ERP. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>belakang</bo></title>
+		<segment>
+			PT Denbe Anugerah Solusindo merupakan sebuah perusahaan IT <it>consultant</it> yang telah terlibat dan menangani berbagai jenis proyek IT. Dalam upaya mengembangkan perusahaannya, Denbe berencana menjalankan proyek untuk membuat sebuah <it>software</it> <it>enterprise</it> <it>resource</it> <it>planning</it> (ERP) operasional yaitu Denbe ERP. Denbe ERP dibuat dengan tujuan agar dapat membantu Denbe memaksimalkan efisiensi dan efektifitas dari operasional perusahaan tersebut. Pelaksanaan proyek Denbe ERP dimulai pada saat penulis dan teman-temannya mulai magang di Denbe. Waktu pengerjaan proyek tersebut direncanakan berlangsung kurang lebh dua sampai tiga bulan. Berdasarkan pengalaman penulis pada ERP, sistem informasi, dan UI/UX <it>design,</it> penulis akhirnya memutuskan untuk mengambil bagian kerja pada proyek tersebut. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			<bo>2.1.2.1</bo> <bo>Proyek</bo> Definisi atau pengertian dari proyek adalah “usaha  sementara  yang  dilakukan  untuk  membuat produk yang unik, layanan, atau, hasil” (PMBOK® Guide, Fourth Edition,  2013, p. 3). Proyek bersifat sementara karena setiap proyek memiliki batas waktu pengerjaan baik yang telah didefinisikan di awal pengerjaan atau pada saat pengerjaan. Proyek juga memiliki tujuan yang unik dan dapat memerlukan sumber daya dari berbagai bidang [2]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			<bo>2.1.2.2</bo> <bo>ERP</bo> <it>Enterprise</it> <it>resource</it> <it>planning</it> (ERP) merupakan sebuah proses dimana perusahaan mengelola dan mengintegrasikan bagian-bagian yang penting dari bisnis mereka. Sistem manajemen dalam sebuah ERP mengintegrasikan beberapa bidang dalam perusahaan seperti <it>planning,</it> <it>purchasing,</it> <it>inventory,</it> <it>sales,</it> <it>marketing,</it> <it>finance,</it> dan <it>human</it> <it>resource.</it> ERP pada umumnya digunakan dalam bentuk <it>software.</it> Saat ini berbagai <it>software</it> telah dikembangkan untuk membantu perusahaan dalam menerapkan ERP [3]. <bo>2.1.2.3</bo> <bo>Software</bo> <bo>Development</bo> <bo>Process</bo> <it>Software</it> <it>development</it> <it>process</it> adalah struktur yang dilakukan dalam pengembangan <it>software.</it> <it>Software</it> <it>development</it> <it>process</it> memiliki beberapa model, masing-masing dari model tersebut menggambarkan pendekatan untuk berbagai aktivitas dan tugas yang berlangsung selama proses tersebut. Langkah dalam melakukan <it>software</it> <it>development</it> terdiri dari banyak aktivitas [4]. Berikut beberapa contoh dari aktivitas yang dilakukan: <it><bo>1.</bo></it> <it><bo>Requirements</bo></it> <it><bo>Analysis</bo></it> <it>Reuirements</it> <it>analysis</it> atau analisis kebutuhan merupakan aktivitas dalam memperoleh peryaratan dari produk <it>software</it> yang diinginkan. <it>Client</it> atau <it>Customer</it> umumnya yakin bahwa mereka mengetahui apa yang dapat dilakukan dari <it>software</it> yang ingin dibuat. Namun, untuk membuat <it>software</it> tersebut diperlukan kemampuan dan pengalaman yang cukup dalam <it>software</it> <it>engineering</it> agar dapat mengidentifikasi kebutuhan yang kurang, ambigusitas, atau kebutuhan yang bertentangan. <it><bo>2.</bo></it> <it><bo>Software</bo></it> <it><bo>architecture</bo></it> Arsitektur dari sistem <it>software</it> mengacu kepada representasi abstrak dari sistem tersebut. Arsitektur berhubungan dengan memastikan bahwa sistem <it>software</it> yang dibuat akan memenuhi persyaratan produk. Selain itu, 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			arsitektur juga dapat memastikan bahwa kebutuhan-kebutuhan yang mungkin akan muncul di masa mendatang dapat teratasi. <it><bo>3.</bo></it> <it><bo>Implementation</bo></it> Implementasi merupakan tahapan pada saat mengeksekusi pembuatan <it>software</it> atau mengimplementasikan <it>software</it> yang sudah dirancang. <it><bo>4.</bo></it> <it><bo>Testing</bo></it> <it>Testing</it> atau pengujian dari <it>software</it> yang sudah dibuat merupakan tahap yang penting dalam <it>software</it> <it>development.</it> Pada tahap ini, <it>tester</it> harus memastikan bahwa <it>software</it> yang telah dibuat dapat memenuhi kebutuhan dan keinginan dari <it>client</it> berdasarkan hasil dari <it>requirement</it> <it>analysis.</it> Tahap terakhir pada <it>testing</it> adalah <it>user</it> <it>acceptance</it> <it>testing</it> (UAT). Pada saat melakukan UAT, pengguna dari <it>software</it> yang dikembangkan akan melakukan pengujian dari <it>software</it> tersebut. <it><bo>5.</bo></it> <it><bo>Documentation</bo></it> Dalam konteks <it>software</it> <it>development.</it> Dokumentasi merupakan tahap yang dilakukan untuk mendokumentasikan aspek-aspek yang dibutuhkan dalam perencangan dan pengembangan <it>software.</it> Dokumen yang dihasilkan dapat berupa <it>project</it> <it>plan,</it> dokumen <it>requirement</it> <it>specification,</it> dokumen analisis dan rancangan, atau document UAT. Pada umumnya, dokumentasi dilakukan oleh seorang <it>technical</it> <it>writer.</it> 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Metodologi yang digunakan dalam pelaskanaan KP adalah <it>Agile.</it> Pada metode ini, <it>client</it> dan <it>user</it> memiliki keterlibatan dan keaktifan pada seluruh tahapan dalam proses pengembangan <it>software.</it> Tahapan dari <it>Agile</it> berkelanjutan dan terintegrasi agar dapat menemukan dan mengatasi masalah yang ada dari sejak awal proses pengembangan [5]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			Keterlibatan <it>client</it> pada proyek Denbe ERP yaitu pada saat presentasi progress dan evaluasi. Pada setiap minggu, penulis dan teman-teman KP yang terlibat akan mempresentasikan <it>progress</it> dari hasil pekerjaannya kepada Denbe. <it>Ouput</it> dari presentasi tersebut berupa <it>feedback,</it> masukan, dan saran dari hasil pekerjaan selama satu minggu yang dapat dijadikan sebagai bahan acuan untuk revisi pada minggu berikutnya. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			Teknologi yang digunakan oleh penulis untuk membantu dalam melaksanakan KP adalah sebagai berikut: <bo>1.</bo> <bo>Google</bo> <bo>Drive</bo> Penulis dengan teman-teman KP yang ditugaskan sebagai <it>technical</it> <it>writer</it> menggunakan Google Drive dalam menyimpan dan mendistribusikan data- data yang berhubungan dengan Denbe ERP. Data-data tersebut dapat berupa dokumen, diagram, grafik, dan konten-konten lainnya. <it>Folder</it> Drive yang digunakan hanya dibagikan kepada anggota tim yang terlibat dan mengerjakan proyek Denbe ERP. Google Drive membantu penulis dalam melakukan dokumentasi dan mengintegrasikan dokumen tersebut dengan teman-teman penulis yang terlibat dalam proyek. Dengan menggunakan Google Drive, penulis dapat membuat atau memperbaiki dokumen secara bersamaan dan simultan. Penulis juga dapat memantau perkembangan <it>file</it> dan data yang terjadi dan pihak yang terlibat dengan melihat <it>detail</it> pada sebuah folder di Google Drive. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			<bo>2.</bo> <bo>Draw.io</bo> Penulis menggunakan Draw.io untuk membuat berbagai macam diagram yang dibutuhkan dalam perancangan Denbe ERP. Beberapa contoh diagram yang dibuat adalah <it>use</it> <it>case</it> <it>diagram</it> (UCD), <it>sitemap</it> <it>diagram,</it> <it>database</it> <it>schema,</it> dan <it>sequence</it> <it>diagram.</it> <it>File</it> diagram yang dibuat akan disimpan di Google Drive dan dapat direvisi oleh temant-teman KP penulis apabila terdapat kesalahan pada diagram tersebut. <bo>3.</bo> <bo>Microsoft</bo> <bo>Word</bo> Microsoft Word digunakan oleh penulis untuk membuat dokumen- dokument terkait dengan Denbe ERP. Dokumen yang dibuat antara lain dokumen <it>project</it> <it>plan,</it> dokumen analisis dan rancangan, dan dokumen UAT. Dengan fitur <it>Navigation</it> <it>Pane</it> yang dimiliki oleh Microsoft Word, penulis dapat dengan mudah mengubah, merevisi, atau melihat bagian tertentu pada dokumen. Hal ini dapat membantu proses pembuatan dan verifikasi dokumen karena jumlah halaman dokumen yang dikerjakan tergolong relatif banyak. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non</bo> <bo>teknis</bo></title>
+		<segment>
+			Aspek non teknis yang paling dibutuhkan penulis dalam pelaksanaan KP adalah kemampuan berkomunikasi antara tim dan komunikasi dengan <it>stakeholder</it> atau <it>client</it> pada tempat KP penulis. Komunikasi yang efektif dan efisien merupakan salah satu kunci dari kesuksesan pada KP ini. Dengan komunikasi yang efektif dan efisien, penulis dapat meningkatkan kinerja <it>teamwork</it> dan meminimalisir kemungkinan terjadinya kesalahpahaman antara tim pengembang dengan <it>stakeholder</it> atau <it>client</it> pada saat <it>requirement</it> <it>gathering</it> dan melakukan presentasi.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<pagenum>9</pagenum>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pelaksanaan kerja praktik dimulai dengan perkenalan dengan lingkungan kerja Denbe dan penyampaian instruksi juga perencanaan untuk proyek Denbe ERP yang akan dikerjakan oleh penulis dan teman-teman KP penulis. Setelah diberikan instruksi, tim KP penulis membuat jadwal dan menyusun kegiatan-kegiatan apa saja yang akan dilakukan selama pelasksanaan KP dalam bentuk <it>project</it> <it>plan.</it> Setelah <it>project</it> <it>plan</it> selesai dibuat, penulis mempresentasikan <it>project</it> <it>plan</it> tersebut kepada direktur atau <it>stakeholder</it> yang memiliki kewenangan untuk menentukan persetujuan terkait proyek yang akan dijlankan. Setelah <it>project</it> <it>plan</it> disetujui, penulis mulai melakukan <it>requirement</it> <it>gathering</it> secara bertahap dengan <it>stakeholder</it> yang terlibat dan menganalisis hasil dari <it>requirement</it> <it>gathering</it> tersebut. Jika <it>requirement</it> <it>gathering</it> sudah selesai dilakukan, penulis dan teman-teman KP penulis melakukan analisis dan perancangan terkait hasil <it>requirement</it> <it>gathering</it> yang telah dilakukan. Berdasarkan hasil <it>requirement</it> <it>gathering</it> terdapat enam modul yang perlu dirancang dan diimpelementasikan untuk Denbe ERP yaitu modul <it>General</it> <it>Feature,</it> modul <it>Fix</it> <it>Assets,</it> dan modul GL sebagai pengelola laporan keuangan Denbe. Analisis yang dilakukan sifatnya bertahap sesuai dengan modul- modul yang ada. Apabila kebutuhan untuk sutiap modul telah selesai maka penulis akan melanjutkan menganalissi kebutuhan-kebutuhan untuk modul lainnya. Contoh dari hasil analisis dan perancangan yang telah dilakukan antara lain <it>use</it> <it>case</it> <it>diagram,</it> <it>database</it> <it>schema,</it> dan <it>sitemap.</it> Setelah hasil dari analisis telah dikumpulkan, penulis melanjutkan untuk merancang tampilan antarmuka dari Denbe ERP. Perancangan tersebut dilakukan oleh penulis dan salah seorang teman KP penulis yang diberi <it>role</it> sebagai <it>front-end</it> <it>programmer.</it> Proses perancangan tampilan antarmuka dilakukan dengan cara langsung mengimplementasikan rancangan yang ingin dibuat. Implementasi dilakukan oleh 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			teman KP penulis berdasarkan arahan untuk rancangan dari tampilan antarmuka yang diberikan oleh penulis. Setelah dokumen rancangan dan analisis selesai digabungkan dan difinalisasi. Penulis ditugaskan untuk membuat document UAT, melakukan <it>testing</it> dan <it>debugging</it> seiring dengan proses implementasi. Jika fitur-fitur untuk setiap modul telah diimplementasikan dan telah melalui prosess <it>testing.</it> Penulis melakukan <it>integration</it> <it>testing</it> yaitu <it>testing</it> secara keseluruhan setelah seluruh modul diintegrasikan untuk memastikan bahwa <it>software</it> yang dihasilkan dapat memenuhi kebutuhan yang diperlukan oleh <it>stakeholder</it> Denbe. Perbedaan pelaksanaan dari perencanaan terdapat pada segi fungsionalitas dimana modul GL dihilangkan dari sistem karena <it>stakeholder</it> untuk modul tersebut sulit untuk dihubungi oleh pihak Denbe. Hal tersebut menyebabkan informasi untuk <it>requirement</it> yang diperoleh terkait modul tersebut tidak dapat diperoleh. Waktu yang dialokasikan untuk merancang, mengimplementasi, dan <it>testing</it> untuk modul GL dimanfaatkan oleh penulis untuk melakukan finalisasi terhadap dokumen rancangan, dokumen UAT, dan melakukan UI/UX <it>testing.</it> Dalam pelaksanaan KP, terdapat beberapa kendala yang dialami oleh penulis. Kendala pertama yang dialami oleh penulis adalah seringnya terjadi perubahan <it>requirement</it> pada saat proses pengembangan. Upaya yang dilakukan penulis untuk menyelesaikan kendala tersebut adalah melakukan verifikasi dari <it>requirement</it> yang baru setiap terjadi perubahan dan melaporkan progress juga kendala terkait perancangan atau pengembangan dari setiap <it>requirement</it> pada saat presentasi <it>progress.</it> Kendala kedua yang dialami adalah kemacetan yang terjadi pada lalu lintas di sekitar lingkungan KP. Lokasi tempat KP penulis tergolong strategis namun karena masih terdapat pembangunan di sekitar jalan yang menuju ke arah tempat KP, jalur tersebut sering mengalami kemacetan sehingga menyulitkan transportasi penulis dari rumah ke tempat KP penulis. Upaya untuk menanggulangi masalah tersebut yaitu penulis berangkat pada sekitar pukul enam atau tujuh pagi karena pada waktu tersebut lalu lintas masih 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<segment>
+			belum ramai sehingga penulis tidak terlambat dan dapat sampai tepat waktu di tempat KP. Kendala terakhir yang dialami oleh penulis adalah kurangnya informasi mengenai standar dalam penulisan dokumen. Untuk menanggulangi kendala tersebut, penulis menggunakan referensi berdasarkan mata kuliah yang pernah diambil oleh penulis di fasilkom seperti Proyek Pengembangan Sistem Informasi (Propensi) dan Rekayasa Perangkat Lunak (RPL) sebagau acuan. Menurut pendapat penulis, suasana kerja PT Denbe Anugerah Solusindo cukup baik, fleksibel dan nyaman. Hal tersebut diperoleh berdasarkan pertimbangan dari segi fasilitas, lokasi, dan komunikasi antar pegawai dan rekan kerja. Fasilitas yang disediakan Denbe tergolong lengkap. Beberapa fasilitas yang disediakan adalah Wi-fi, toilet, mushola, <it>dispenser,</it> ruang tunggu, dan ruang istirahat. Lokasi tempat kerja cukup strategis karena dekat dengan pusat perbelanjaan, rumah sakit, stasiun pengisian bahan bakar umum (SPBU), dll. Komunikasi antar pegawai dan rekan kerja di lingkungan Denbe juga cukup fleksibel dan tidak terlalu kaku sehingga penulis menjadi tidak kesulitan apabila ingin berkomunikasi dan menjalin hubungan kerja yang baik dengan pegawai dan rekan kerja di lingkungan Denbe. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Peleksanaan KP penulis memiliki kaitan dan relevansi dengan beberapa mata kuliah di Fasilkom yang telah dipelajari oleh penulis sebelum KP. Keterkaitan tersebut dapat membantu penulis dalam melaksanakan KPnya. Berikut mata kuliah yang memiliki relevansi dengan KP yang dilaksanakan oleh penulis: <bo>1.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>(RPL)</bo> Pada mata kuliah RPL, penulis diajarkan metode pengembangan <it>software</it> jenis <it>Agile.</it> Beberapa hal yang diajarkan antara lain pengertian, kelebihan dan kekurangan, dan cara penerapannya. Pada pelaksanaan KP ini, penulis menggunakan <it>Agile</it> sebagai acuan dalam metode perancangan dan pengembangan <it>software</it> Denbe ERP sehingga materi yang telah diajarkan pada mata kuliah RPL dapat membantu penulis dalam melaksanakan KP. Selain itu, mata kuliah RPL 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<segment>
+			juga mengajarkan bagiamana cara membuat <it>use</it> <it>case</it> <it>diagram</it> dan <it>class</it> <it>diagram</it> yang juga membantu penulis dalam membuat dokumen-dokumen selama pelaksanaan KP. <bo>2.</bo> <it><bo>Enterprise</bo></it> <it><bo>Resource</bo></it> <it><bo>Planning</bo></it> <bo>(ERP)</bo> Pada mata kuliah ini, penulis diajarakan tentang pemahaman dan fungsi dari ERP pada perusahaan. Mata kuliah ERP juga mengajarkan karakteristik dari berbagai jenis modul yang terdapat di sebuat <it>software</it> ERP. Dengan mata kuliah ini, penulis memiliki pemahaman tentang ERP secara garis besar Oleh karena itu, penulis dapat memiliki basis pengetahuan yang cukup sebagai acuan dalam melaksanakan KP. <bo>3.</bo> <bo>Proyek</bo> <bo>Pengembangan</bo> <bo>Sistem</bo> <bo>Informasi</bo> <bo>(Propensi)</bo> Pada mata kuliah Propensi, penulis diajarakan tentang proses yang perlu dilakukan agar dapat merancang dan mengembangkan sebuah sistem informasi. Tahapan yang perlu dilakukan pada proses tersebut antara lain <it>planning,</it> <it>analyzing,</it> <it>designing,</it> <it>implementation,</it> dan <it>testing.</it> Dalam pelaksanaan KP, penulis terlibat hampir ke seluruh tahapan tersebut, terutama pada bagian <it>analyzing,</it> <it>designing,</it> <it>dan</it> <it>testing.</it> Penulis sangat terbantu dengan adanya mata kuliah Propensi karena proses pembelajaran pada mata kuliah propensi sebagian besar dilakukan dalam bentuk praktik sehingga penulis dapat memilki pengalaman secara langsung dalam menjalankan proyek pengembangan sistem informasi.</it> <bo>4.</bo> <bo>Komunikasi</bo> <bo>Bisnis</bo> <bo>dan</bo> <bo>Teknis</bo> <bo>(Kombistek)</bo> Pada mata kuliah Kombistek, penulis diajarkan bagimana agar dapat berkomunikasi dengan efektif, baik dalam bentuk lisan maupun tertulis. Dalam pelaksanaan KP, penulis terlibat dalam pekerjaan yang memerlukan kerjasama yang baik dengan tim kerjanya dan komunikasi yang baik dengan <it>stakeholder</it> terkait proyek Denbe ERP. Oleh karena itu, mata kuliah Kombistek memiliki relevansi yang tinggi dengan pelaksanaan KP penulis. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			Tim perancangan dan pengambangan Denbe ERP yang terdiri dari penulis dan teman- temannya yang melaksanakan KP di PT Denbe Anugerah Solusindo telah menyelesaikan KP dengan baik karena <it>stakeholder</it> pada Denbe. Pada saat melakukan presentasi <it>final</it> <it>product,</it> Denbe merasa puas dengan hasil dan performa kerja yang telah diberikan oleh penulis dan teman-teman penulis. Meskipun pada proses pengerjaan terdapat beberapa perubahan pada jadwal dan <it>requirement,</it> penulis dapat menyesuaikan terhadap perubahan tersebut dan tetap menyelesaikan pekerjaan sesuai dengan jangka waktu yang diberikan. Selama melaksanakan KP selama delapan minggu, penulis mendapat beberapa pengalaman. Pengalaman tersebut adalah pengalaman dalam merancang dan mengembangkan ERP pada suatu perusahaan dengan metode <it>agile.</it> Selain itu, penulis mendapatkan pengalaman bagaimana cara agar dapat berkomunikasi dan berkerja sama dengan efektif dan efisien dalam pengerjaan proyek dengan tim dan <it>stakeholder</it> Denbe. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Setelah penulis melaksanakan KP pada Denbe selama delapan minggu, penulis dapat memberikan beberapa saran untuk Denbe dalam melaksanakan proyek. Saran tersebut antara lain dalam menentukan <it>scope</it> dalam pemberian <it>requirement</it> agar lebih mempertimbangkan <it>resource</it> yang dimiliki baik dari segi potensi, kemampuan, waktu, dan jumlah sumber daya manusia (SDM) yang tersedia. Hal tersebut bertujuan agar 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>14</pagenum>
+		<segment>
+			dapat Denbe memberikan pekerjaan yang lebih sesuai dengan kemampuan tim pengerjaan proyeknya. Saran penulis terkait pemberian <it>requirement</it> adalah sebaiknya tidak terlalu banyak memberikan perubahan <it>requirement</it> terutama ketika sedang tahap implementasi karena akan menyulitkan tim pengembang apabila perubahan yang diinginkan tergolong cukup berat sehingga dapat memakan <it>resource</it> yang banyak pada saat pengembangan. Penulis juga menyarankan untuk teman-teman yang akan melaksanakan KP agar mempersiapkan diri dengan lebih baik sebelum melamar dan melaksanakan KP. Hal itu didasarkan pada pengalaman penulis selama KP karena dalam pelaksanaan KP penulis harus kuat mental dan disiplin agar dapat bertahan dan menangani berbagai hal tidak terduka yang mungkin terjadi dengan maksimal dan sebaik mungkin. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>15</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1]P. TEKNOLOGI, "PT Denbe Anugerah Solusindo", <it>Denbe.co.id,</it> 2016. [Online]. Available: http://www.denbe.co.id. [Accessed: 25- Sep- 2016]. [2]<it>PMBOK®</it> <it>Guide,</it> 4th ed. 2013, 2016.  [3]"Enterprise Resource Planning - ERP", <it>Investopedia,</it> 2005. [Online]. Available: http://www.investopedia.com/terms/e/erp.asp. [Accessed: 25- Sep- 2016]. [4]V. McKay, "What is a Software Development Process? | Analysis and Design | FAQ", <it>Selectbs.com,</it> 2016. [Online]. Available: http://www.selectbs.com/analysis- and-design/what-is-a-software-development-process. [Accessed: 25- Sep- 2016]. [5]"What is Agile Software Development? - Definition from Techopedia", <it>Techopedia.com,</it> 2016. [Online]. Available: https://www.techopedia.com/definition/13564/agile-software-development. [Accessed: 27- Sep- 2016]. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

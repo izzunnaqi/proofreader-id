@@ -3,6 +3,7 @@
 
 import sys
 import re
+import optparse
 import xml.etree.ElementTree as et
 
 def config():
@@ -127,8 +128,16 @@ def extract_xml(argv):
 def main():
 	config()
 	a = extract_xml(sys.argv)
-	
-	print a
+
+	parser = optparse.OptionParser()
+	parser.add_option('-o', action="store")
+
+	options, args = parser.parse_args()
+
+	with open(options.o, 'w') as f:
+		f.write(a)
+
+
 
 if __name__ == '__main__':
 	main()

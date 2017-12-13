@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>PENGEMBANGAN</bo> <it><bo>USER</bo></it> <it><bo>INTERFACE</bo></it> <bo>DAN</bo> <it><bo>AUTOMATED</bo></it></title>
+		<title><it><bo>TESTING</bo></it> <bo>API</bo> <it><bo>SERVICE</bo></it> <it><bo>DUMMY</bo></it> <bo>UNTUK</bo> <bo>SIMULATOR</bo> <bo>BANK</bo></title>
+		<title><bo>PADA</bo> <bo>SISTEM</bo> <bo>PEMBAYARAN</bo> <bo>VERITRANS</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>RANI</bo> <bo>UTAMI</bo></title>
+		<segment>
+			<bo>1306382070</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<pagenum>i</pagenum>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Rani Utami : 1306382070 Program Studi : Ilmu Komputer Judul Kerja Praktik : Pengembangan <it>User</it> <it>Interface</it> dan <it>Automated</it> <it>Testing</it> API <it>Service</it> <it>Dummy</it> untuk Simulator Bank pada Sistem Pembayaran Veritrans <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Meganingrum</bo> <bo>Arista</bo> <bo>Jiwanggi,</bo> <bo>S.Kom,</bo> <bo>M.Kom)</bo> Ditetapkan di : Depok Tanggal 
+		</segment>
+		<title>: [TANGGAL]</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<segment>
+			Nama 
+		</segment>
+		<title>NPM</title>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			: Rani Utami : 1306382070 Program Studi : Ilmu Komputer Judul Kerja Praktik : Pengembangan <it>User</it> <it>Interface</it> dan <it>Automated</it> <it>Testing</it> API <it>Service</it> <it>Dummy</it> untuk Simulator Bank pada Sistem Pembayaran Veritrans Laporan kerja praktik ini disusun sebagai salah satu tugas dari mata kuliah Kerja Praktik (KP) untuk melaporkan kegiatan kerja praktik yang telah dilakukan oleh penulis di PT. Midtrans (Veritrans) selama 10 minggu terhitung sejak 13 Juni 2016 hingga 26 Agustus 2016. PT. Midtrans merupakan sebuah perusahaan penyedia layanan <it>online</it> <it>payment</it> <it>gateway</it> untuk para pebisnis <it>e-commerce</it> di Indonesia. Selama melaksanakan kerja praktik, penulis mengerjakan dua proyek. Proyek pertama adalah melakukan pengembangan <it>user</it> <it>interface</it> <it>API</it> <it>service</it> <it>dummy</it> untuk simulator bank. Proyek kedua, penulis membuat <it>automated</it> <it>testing</it> <it>API</it> yang berfungsi sebagai <it>scenario</it> <it>test</it> untuk setiap <it>payment</it> <it>channel</it> yang ada di Veritrans. Secara keseluruhan, banyak hal yang didapatkan oleh penulis selama melakukan kerja praktik terutama mengenai gambaran mengenai dunia kerja, pengalaman dan pengetahuan–pengetahuan  baru  yang  belum  tentu bisa didapatkan di masa perkuliahan. Kata kunci: API,</it> kerja praktik, <it>online</it> <it>payment</it> <it>gateway,</it> PT. Midtrans 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR LAMPIRAN ................................................................................................ vi BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 4</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 5 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 5</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 5</title>
+		<title>2.1.2. Tinjauan Pustaka ..................................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.3. Metodologi .............................................. <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.4. Teknologi yang Digunakan ..................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.1.5. Non Teknis yang Dipelajari .................... <bo>Error!</bo> <bo>Bookmark</bo> <bo>not</bo> <bo>defined.</bo></title>
+		<title>2.2. Analisis .......................................................................................................... 12</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ...................................................................... 12</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 13</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 15 
+		</segment>
+		<title>3.1. Kesimpulan .................................................................................................... 15</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.2. Saran .............................................................................................................. 15</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 16 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<segment>
+			Gambar 1.1 Struktur Organisasi PT. Midtrans ........................................................... vii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<segment>
+			Lampiran 1 Kerangka Acuan Kerja Praktik ................................................................ vii Lampiran 2 Log Kerja Praktik ................................................................................... viii 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Penulis melakukan pencarian tempat kerja praktik (KP) secara mandiri. Penulis melakukan pencarian dengan berbagai pertimbangan, diantaranya penulis memiliki ketertarikan dengan <it>web,</it> maka ketika mencari tempat kerja praktik, penulis mencari deskripsi pekerjaan yang berkaitan dengan <it>web.</it> Selain faktor ketertarikan, penulis saat mencari tempat kerja praktik memiliki rencana untuk mengikuti semester pendek yang waktu pelaksanaannya bersamaan dengan kerja praktik. Oleh karena itu, penulis mencari tahu tempat kerja praktik yang dapat mengizinkan kerja praktik sambil mengikuti kuliah semester pendek. Penulis bertanya kepada para senior yang sudah melaksanakan kerja praktik, bahwa Suitmedia memperbolehkan hal tersebut. Sehingga pencarian tempat kerja praktik dimulai pada bulan Maret dengan melamar ke Suitmedia sebagai <it>front-end</it> <it>developer.</it> Respon yang diberikan oleh Suitmedia sangat lama, sehingga penulis memutuskan untuk melakukan pencarian tempat KP lainnya dengan mempertimbangkan untuk tidak mengikuti semester pendek ketika kerja praktik berlangsung. Penulis juga mempertimbangkan lokasi dan deskripsi pekerjaan tidak hanya terpaku dengan <it>web</it> terutama <it>front-end.</it> Penulis melamar ke Tokopedia, Veritrans, dan Traveloka sebagai <it>software</it> <it>engineer.</it> Respon dari ketiga perusahaan tersebut sangat cepat. Pada awal April penulis melakukan ujian <it>programming</it> <it>online</it> Tokopedia, dan jika lolos tahap selanjutnya akan diumumkan dua hari hingga seminggu setelah ujian tersebut. Karena sudah seminggu lebih tidak ada kabar, maka penulis menyimpulkan tidak lolos tahap berikutnya. Selain itu, setelah beberapa minggu Suitmedia merespon <it>email</it> yang penulis dikirimkan. Penulis diberikan ujian untuk membuat <it>web</it> yang sama persis dengan <it>prototype</it> yang diberikan. Selama menunggu respon dari Suitmedia, penulis mengikuti <it>Interns</it> <it>Selection</it> <it>Day</it> untuk <it>software</it> <it>engineer</it> pada 13 April 2016 di Veritrans. Penulis diberikan ujian matematika dan <it>programming</it> pada <it>Interns</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>2</pagenum>
+		<segment>
+			<it>Selection</it> <it>Day</it> tersebut. Pada 20 April 2016, penulis juga melakukan <it>interview</it> <it>test</it> di Traveloka. Selama menunggu pengumuman hasil dari Veritrans dan Traveloka, penulis melamar juga ke Kreavi, Kargo, MNC Play Media, Bukalapak, dan IBM. Semua perusahaan tersebut merespon dengan cepat. Pada minggu terakhir April, Kreavi dan MNC Play Media penulis melakukan wawancara langsung di perusahaannya, sedangkan Kargo dan IBM penulis melakukan wawancara via telepon. Untuk Bukalapak karena penulis mendaftar sebagai <it>front-end</it> <it>developer</it> maka diberikan tes untuk membuat tampilan <it>web</it> yang sama dengan beberapa fitur di <it>web</it> Bukalapak. Setelah 2 hari dari penulis wawancara dengan Kreavi, penulis dinyatakan diterima sebagai <it>web</it> <it>developer.</it> Selain itu sehari setelah diwawancara oleh Kargo, penulis diterima sebagai <it>front-end</it> <it>developer,</it> sedangkan MNC Play Media tidak ada kabar sama sekali setelah wawancara. Setelah itu, penulis akhirnya mendapatkan kabar dari Veritrans bahwa penulis diterima sebagai <it>software</it> <it>engineer.</it> Sebelum memutuskan menerima perusahaan yang akan penulis pilih, penulis menanyakan ke Traveloka yang belum memberi kabar sama sekali mengenai hasilnya, dan penulis belum lolos ke tahap selanjutnya. Dengan berbagai pertimbangan mulai dari lokasi, deskripsi pekerjaan, dan <it>benefit</it> yang diberikan oleh masing-masing perusahaan, oleh karena itu penulis memilih Veritrans sebagai tempat KP penulis. Selain itu, <it>deadline</it> tes Bukalapak yang bersamaan dengan pengumuman Veritrans, penulis mengundurkan diri dan tidak melanjutkan untuk tes berikutnya. Dan tak berapa lama dari penulis menyatakan menerima Veritrans, IBM menyatakan penulis diterima sebagai <it>mobile</it> <it>apps</it> <it>developer</it> dan Traveloka juga menawarkan posisi <it>marketing</it> <it>technology</it> kepada penulis. Berhubungan penulis sudah lebih dulu menyatakan untuk KP di Veritrans, maka penulis tidak dapat menerima tawaran dari IBM dan Traveloka. 
+		</segment>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Veritrans adalah perusahaan yang bergerak di bidang <it>online</it> <it>payment</it> <it>gateway</it> untuk pasar <it>e-commerce</it> di Indonesia, yang fokus pada produk dan layanan terbaik 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>3</pagenum>
+		<segment>
+			untuk menciptakan pembayaran <it>online</it> yang mudah, aman, dan terpercaya [1]. Veritrans bekerja sama dengan bank dan operator seluler di Indonesia untuk mengumpulkan semua metode pembayaran <it>online.</it> Veritrans berusaha keras untuk menyederhanakan metode <it>online</it> <it>payment</it> dengan memberikan satu pintu integrasi untuk kartu kredit, Mandiri ClickPay, CIMB Clicks, BRI e-Pay, XL Tunai, Telkomsel T-Cash, Indomaret, dan lain-lain [3]. Veritrans juga memberikan beberapa pilihan berintegrasi di berbagai <it>platform</it> sesuai dengan teknologi <it>online</it> <it>shop</it> yang <it>merchant</it> gunakan. Produk integrasi pembayaran yang ditawarkan oleh Veritrans adalah VT <it>Link,</it> VT <it>Web,</it> dan VT <it>Direct</it> [2]. Sebagai perusahaan teknologi, Veritrans menitikberatkan pada kualitas manusia untuk menghasilkan produk yang mampu bersaing di industri [1]. Hal ini dapat dibuktikan dengan Veritrans Indonesia telah berhasil mendapatkan kepercayaan lebih dari 1000 perusahaan <it>e-commerce</it> Indonesia untuk melayani sistem pembayaran <it>online</it> mereka. Perusahaan pengguna jasa Veritrans Indonesia (<it>merchants)</it> tersebut antara lain Garuda Indonesia, Blitzmegaplex, Groupon Indonesia, Sribu, dan lain-lain [4]. Veritrans memiliki delapan divisi, yaitu <it>data,</it> <it>operations,</it> <it>engineering,</it> <it>community</it> <it>management,</it> <it>business</it> <it>development,</it> <it>information</it> <it>security,</it> <it>business</it> <it>process</it> <it>improvement</it> <it>,</it> dan <it>product.</it> Tentunya masing-masing divisi memiliki peran penting bagi perusahaan tersebut. Gambar 1.1 berikut merupakan gambaran sederhana dari struktur organisasi di Veritrans: 
+		</segment>
+		<title>CEO</title>
+		<segment>
+			<it>Business</it> <it>Development</it> <it>Operations</it> <it>Data</it> <it>Engineering</it> <it>Community</it> <it>Management</it> <it>Business</it> <it>Process</it> <it>Improvement</it> <it>Information</it> <it>Security</it> <it>Product</it> Gambar 1.1 Struktur Organisasi PT. Midtrans [5] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>4</pagenum>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Pada kerja praktik ini, penulis ditempatkan di divisi <it>engineering</it> sebagai <it>software</it> <it>engineer.</it> Pada minggu pertama hingga minggu ke delapan periode kerja praktik penulis ditugaskan untuk mengembangkan <it>user</it> <it>interface</it> dan membuat <it>logging</it> untuk simulator bank pada sistem pembayaran Veritrans. Selama tiga minggu terakhir dari periode kerja praktik penulis ditugaskan untuk membuat dan mengembangkan <it>scenario</it> <it>test</it> untuk <it>automated</it> <it>testing</it> sistem pembayaran Veritrans. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>5</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pada bab ini akan dijelaskan mengenai latar belakang pekerjaan yang dikerjakan oleh penulis, tinjauan pustaka yang diperoleh oleh penulis, metodologi yang diterapkan oleh penulis dan teknologi yang digunakan, serta hal–hal non teknis  yang dipelajari oleh penulis selama melaksanakan kerja praktik di Veritrans. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			PT. Midtrans merupakan perusahaan yang bergerak di bidang <it>online</it> <it>payment</it> <it>gateway</it> untuk pasar <it>e-commerce</it> di Indonesia. Sebagai penyedia layanan pembayaran <it>online,</it> PT. Midtrans menciptakan produk dan layanan yang bertujuan untuk menangani transaksi pembayaran yang dilakukan <it>merchants</it> dengan metode pembayaran dan <it>payment</it> <it>channel</it> tertentu. Untuk menciptakan pembayaran <it>online</it> yang mudah, aman, dan terpercaya, PT Midtrans terus melakukan perbaikan terhadap sistem-sistem yang mendukung kinerja dari produk dan layanan yang telah dibuat sehingga dapat memberikan produk dan layanan terbaik kepada <it>merchants.</it> Salah satu sistem yang terus dikembangkan PT. Midtrans yaitu sistem <it>testing</it> sebagai <it>quality</it> <it>assurance</it> dari sistem pembayaran Veritrans, yaitu VT-<it>Web,</it> VT-<it>Direct,</it> dan VT-<it>Link.</it> Sistem ini merupakan sistem yang dikembangkan oleh tim <it>Payment</it> API, dimana sistem <it>testing</it> dibuat dengan menggunakan <it>framework</it> Turnip yang menggunakan Gherkin dan Ruby. Akan tetapi PT. Midtrans ingin melakukan peningkatan sistem <it>testing</it> tersebut dengan mengubah implementasi sistem dengan menggunakan bahasa pemrograman yang berbeda yaitu Java. Selain itu, terdapat beberapa <it>testing</it> yang belum mengikuti <it>best</it> <it>practices</it> dalam penulisan BDD (<it>Behavior-</it> <it>Driven</it> <it>Development).</it> Oleh karena itu, selama kerja praktik penulis mendapatkan tugas untuk mengintegrasikan <it>testing</it> dari bahasa pemrograman Ruby ke bahasa pemrograman Java, me-<it>refactor</it> <it>testing</it> yang sudah ada agar tidak <it>redundant</it> dan lebih dinamis, dan memperbaiki penulisan <it>scenario</it> <it>test</it> agar lebih optimal berdasarkan <it>user</it> <it>perspective.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>6</pagenum>
+		<segment>
+			Selain itu sistem yang dikembangkan oleh PT. Midtrans yaitu API <it>Merchant</it> <it>Integration,</it> sistem ini digunakan sebagai visualisasi dari <it>testing</it> <it>virtual</it> bank <it>account.</it> Untuk memberikan kemudahan dan kenyamanan bagi pengguna dalam melakukan <it>testing,</it> PT. Midtrans ingin meningkatkan tampilan <it>user</it> <it>interface</it> dari API <it>service</it> <it>dummy</it> untuk simulator bank. Oleh karena itu, penulis mendapatkan kesempatan untuk memperbaiki <it>user</it> <it>interface</it> yang sudah ada menjadi lebih responsif, konsisten, dan lebih menarik, serta membuat <it>logging</it> dari setiap akses yang dilakukan pada sistem ini. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis mendapatkan beberapa referensi dari berbagai sumber yang membantu penulis dalam mengerjakan proyek-proyek yang diberikan kepada penulis. Beberapa sumber utama yang penulis gunakan selama kerja praktik diantaranya sebagai berikut.   Dokumentasi API Veritrans  Pada <it>website</it> Veritrans terdapat <it>open</it> <it>source</it> dokumentasi API yang dibuat oleh Veritrans. Dokumentasi ini berisi <it>method</it> <it>-</it> <it>method</it> API yang digunakan pada semua produk dan layanan Veritrans. Pada dokumentasi ini, disertai JSON <it>attribute,</it> tipe data, <it>library,</it> dan deskripsi dari masing – masing fungsi  sesuai dengan tipe pembayaran dan <it>payment</it> <it>channel</it> yang digunakan untuk melakukan pembayaran. Dokumentasi ini disarankan oleh penyelia untuk dipelajari agar memudahkan dalam pengerjaan proyek yang diberikan dan memberikan gambaran bagaimana <it>method</it> <it>–</it>  <it>method</it>    API  yang  digunakan  oleh Veritrans, serta dokumentasi ini membantu penulis memahami API pembayaran di Veritrans.   Github - Dokumentasi API <it>Merchant</it> <it>Integration</it> Veritrans  Github yang berisi dokumentasi API <it>merchant</it> <it>integration</it> digunakan oleh penulis selama mengerjakan proyek <it>user</it> <it>interface</it> API <it>service</it> <it>dummy</it> untuk simulator bank. Pada dokumentasi ini terdapat penjelasan untuk melakukan <it>running</it> API yang dibuat pada browser dan kode –  kode  program  yang  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>7</pagenum>
+		<segment>
+			tersusun dalam API <it>merchant</it> <it>integration,</it> sehingga memudahkan penulis dalam melakukan pengerjaan proyek selama kerja praktik.   Gitlab - Dokumentasi <it>Automated</it> <it>Testing</it> Veritrans  Penulis mempelajari dan menggunakan dokumentasi kode–kode  yang  disimpan pada Gitlab yang disediakan oleh penyelia. Pada Gitlab ini berisi dokumentasi <it>automated</it> <it>testing</it> yang awalnya menggunakan bahasa pemrograman Ruby lalu diintegrasikan ke bahasa pemrograman Java. Dokumentasi ini berisi hasil pekerjaan mengenai <it>automated</it> <it>testing</it> yang telah yang telah dikerjakan oleh penulis dan disimpan ke dalam Gitlab ini. Terdapat juga dokumentasi yang telah di-<it>review</it> dan disetujui oleh penyelia jika kode– kode yang dikerjakan penulis sudah sesuai dan berjalan dengan baik. Dengan sumber yang berisi dokumentasi <it>automated</it> <it>testing</it> membantu memberikan gambaran kepada penulis mengenai struktur API, <it>scenario</it> <it>test,</it> dan program- program yang mendukung pada proyek <it>automated</it> <it>testing</it> Veritrans.   Stackoverflow  Selama kerja praktik, penulis menggunakan Stackoverflow yang merupakan situs yang berisi kumpulan pertanyaan mengenai permasalahan yang dihadapi oleh para <it>programmer</it> dalam mengerjakan kode–kode  pemrograman  yang  disertai dengan jawaban–jawaban  solusi  mengenai  permasalahan  yang   dihadapi tersebut. Stackoverflow membantu penulis mengatasi permasalahan kode – kode pemrograman yang dihadapi oleh penulis selama kerja praktik.   
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Metodologi pengembangan yang diterapkan dalam pengerjaan proyek ini yaitu metodologi <it>scrum.</it> Dalam penerapan metodologi ini, penulis dan tim lainnya melakukan pertemuan dengan penyelia selama sepuluh menit pada pagi hari. Pertemuan tersebut dilakukan untuk membahas <it>task</it> yang akan dikerjakan pada hari itu, perkembangan pekerjaan yang sedang dikerjakan, dan kendala dalam pengerjaan dari setiap <it>task</it> yang dikerjakan. Setelah itu, penulis melakukan pengerjaan <it>task</it> sesuai dengan <it>sprint</it> <it>backlog</it> yang terdapat pada aplikasi Trello. Selanjutnya setiap 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>8</pagenum>
+		<segment>
+			iterasi berakhir akan dilakukan <it>review,</it> dimana <it>review</it> ini dilakukan oleh penulis dengan menunjukkan hasil pekerjaan kepada penyelia dan penyelia akan memberitahukan kepada penulis apa saja kekurangan dan kelebihan pekerjaan yang sudah dikerjakan, serta memberi saran untuk memperbaiki bagian-bagian yang masih perlu diperbaiki. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo> <bo>yang</bo> <bo>Digunakan</bo></title>
+		<segment>
+			Dalam pelaksanaan kerja praktik, penulis menggunakan berbagai teknologi yang menunjang pengerjaan <it>task.</it> Berikut adalah teknologi-teknologi yang digunakan oleh penulis selama pelaksanaan kerja praktik:   Apache Log4j 2  Apache Log4j 2 merupakan <it>framework</it> yang berfungsi untuk mendata <it>logging</it> aplikasi [6]. Penulis menggunakan Log4j 2 berdasarkan rekomendasi penyelia untuk diimplementasikan pada proyek <it>user</it> <it>interface</it> untuk simulator bank. Dengan Log4j 2 ini penulis dapat menyimpan data <it>logging</it> ketika API untuk simulator bank diakses.   Bootstrap  Bootstrap adalah sebuah framework yang terdiri dari HTML, CSS, dan JavaScript untuk mempermudah membangun tampilan <it>web</it> yang <it>responsive.</it> Dengan penggunaan Bootstrap memudahkan penulis untuk membuat tampilan simulator bank yang dapat diakses di semua <it>device</it> dan mempermudah untuk memodifikasi tampilan yang lebih rapi.   CSS, HTML, Mustache, PHP, dan XML  Pada awal proyek <it>user</it> <it>interface</it> untuk simulator bank, penulis menggunakan PHP untuk mem-<it>preview</it> tampilan <it>user</it> <it>interface</it> sebelum dimodifikasi. Selain itu, penulis menggunakan berkas berekstensi Mustache yang berisi <it>HTML</it> (<it>Hypertext</it> <it>Markup</it> <it>Language)</it> sebagai pondasi struktur halaman <it>website</it> yang digunakan untuk menampilkan konten dan terdapat beberapa <it>syntax</it> Mustache yang digunakan untuk me-<it>refer</it> ke berkas Mustache yang berisi HTML lainnya. Sementara CSS (<it>Cascading</it> <it>Stylesheet)</it> digunakan 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>9</pagenum>
+		<segment>
+			untuk mendekorasi halaman HTML yang telah didefinisikan di berkas Mustache. Selain itu, penulis menggunakan XML untuk membuat <it>logging</it> <it>request-response</it> ketika pengaksesan <it>web</it> simulator bank.   Cucumber  Cucumber merupakan sebuah perangkat <it>testing</it> yang mendukung <it>framework</it> <it>Behavior</it> <it>Driven</it> <it>Development</it> (BDD) dengan menggunakan bahasa Gherkin, dimana bahasa Gherkin mendefinisikan <it>behavior</it> dari aplikasi dengan kalimat yang sederhana sehingga mudah dimengerti bagi <it>non-programmers</it> untuk tetap memahami arti dari <it>acceptance</it> <it>testing</it> yang dibuat [7].   Git  Dalam pengerjaan proyek, penulis menggunakan Git untuk melakukan <it>commit</it> berkas yang berisi kode-kode pada sebuah repositori, penulis juga dapat menggabungkan antara berkas-berkas yang telah diperbarui dengan berkas versi lama, dan penulis dapat membuat beberapa <it>branch</it> untuk setiap berkas yang sedang dimodifikasi. Penggunaan Git pada proyek ini memudahkan penulis untuk berkolaborasi memodifikasi berkas dan menggabungkan berkas yang sudah dimodifikasi dengan yang belum dimodifikasi, serta memudahkan penyelia untuk memperhatikan pengembangan yang telah dilakukan oleh penulis serta dapat mengevaluasi dan memberi contoh kode untuk penulis.   Gitkraken dan SmartGit  GitKraken dan SmartGit merupakan aplikasi Git GUI Client untuk Windows, Mac, dan Linux yang berperan untuk memvisualisasikan struktur <it>branch</it> dalam repositori Git. Penulis menggunakan kedua aplikasi tersebut untuk mempermudah penulis dalam penggunaan Git, dimana pada aplikasi tersebut terdapat visualisasi struktur dari repositori beserta <it>update</it> yang terjadi di setiap <it>branch,</it> penulis juga dapat melakukan <it>pull</it> dan <it>push</it> langsung dari kedua aplikasi tersebut, serta penulis dapat me-<it>revert</it> untuk mengembalikan <it>branch</it> yang sudah di-<it>merge.</it>   Maven  
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>10</pagenum>
+		<segment>
+			Maven merupakan sebuah perangkat lunak yang membantu untuk mengatur proyek Java dan mengotomatis aplikasi yang di-<it>build</it> [8]. Dengan penggunaan Maven pada proyek <it>automated</it> <it>testing,</it> penulis dapat melakukan instalasi dependensi dan <it>plugins,</it> dan penulis dapat melihat laporan dan dokumentasi dari Maven setiap selesai melakukan eksekusi.   Postman  Postman merupakan aplikasi REST Client yang digunakan untuk melakukan uji coba API yang telah dibuat. Pada proyek <it>user</it> <it>interface</it> simulator bank, penulis melakukan <it>testing</it> <it>input</it> <it>method</it> <it>POST</it> dan <it>GET</it> menggunakan kumpulan dokumentasi <it>input</it> yang telah dibuat di Postman sehingga penulis dapat melakukan mengecek <it>output</it> yang dikeluarkan dari <it>web</it> sudah berjalan sesuai yang diujikan atau belum. 
+		</segment>
+		<title>  SBT </title>
+		<segment>
+			<it>Scala</it> <it>Build</it> <it>Tool</it> (SBT) merupakan sebuah <it>build</it> <it>tool</it> berbasis bahasa pemrograman Scala dan Java yang berperan untuk memfasilitasi <it>compile,</it> <it>run,</it> <it>package</it> <it>projects,</it> <it>make,</it> <it>maven,</it> <it>ant,</it> <it>ivy</it> dan perintah lainnya [9]. Penulis menggunakan SBT untuk melakukan <it>compile</it> dan <it>running</it> simulator bank di <it>web</it> dengan memanggil <it>port</it> <it>localhost</it> tertentu dan <it>path</it> berkas Mustache yang ingin ditampilkan.</it> Selain itu, <it>log</it> yang terdapat ketika mengakses <it>web</it> simulator bank ditampilkan pada <it>window</it> SBT.   Scala  Scala merupakan kepanjangan dari <it>Scalable</it> <it>Language,</it> dimana Scala termasuk bahasa pemrograman yang berjalan diatas JVM dan menggabungkan paradigma pemrograman berorientasi objek dan fungsional [10]. Scala memiliki kemiripan dengan Java, tetapi Scala memiliki banyak kelebihan seperti <it>syntax</it> yang lebih singkat dan mudah dimengerti, aman, serta dapat <it>available</it> dengan Java <it>libraries,</it> <it>framework,</it> dan <it>tools</it> lain yang dapat berjalan diatas JVM. Oleh karena itu, pada proyek <it>user</it> <it>interface</it> API <it>service</it> <it>dummy</it> untuk simulator bank yang berbasis Spring <it>framework</it> menggunakan Scala. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>11</pagenum>
+		<segment>
+			  Slack  Slack merupakan aplikasi yang digunakan sebagai wadah untuk berkomunikasi antar anggota tim. Aplikasi ini lebih sering digunakan oleh penyelia untuk berkomunikasi dengan penulis, dikarenakan Slack memiliki berbagai fitur yang memudahkan bagi penulis dan penyelia menyampaikan penulisan-penulisan struktur kode dan berbagi berkas yang berisi kode-kode.   Trello  Trello merupakan visualisasi <it>project</it> <it>management</it> <it>tool</it> yang digunakan secara berkolaborasi untuk mengelompokkan <it>task,</it> mengatur <it>deadline,</it> mendeskripsikan <it>task,</it> dan lainnya. Selama kerja praktik, penyelia memberikan <it>task</it> yang akan dikerjakan setiap harinya melalui Trello. Penyelia mengelompokkan <it>task-task</it> yang ada ke beberapa kategori, yaitu <it>backlog</it> berisi kumpulan <it>task</it> yang harus dikerjakan, WIP (<it>Work</it> <it>in</it> Progress) terdiri dari <it>task-task</it> yang sedang dikerjakan, <it>Dev</it> <it>Done</it> terdiri dari <it>task</it> yang sudah selesai dikerjakan namun belum di-review</it> oleh penyelia dan <it>Done/Merged</it> terdiri dari <it>task</it> yang sudah di-review</it> oleh penyelia dan siap di-<it>deploy.</it> 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non</bo> <bo>Teknis</bo> <bo>yang</bo> <bo>Dipelajari</bo></title>
+		<segment>
+			Penulis mendapatkan pengalaman bekerja di dunia perkantoran. Penulis juga memperoleh pengalaman cara berkomunikasi dengan baik dan cara beradaptasi dengan orang-orang baru. Penulis terlatih untuk berpikir kritis, inisiatif dan bekerja dengan cepat. Para pelaksana internship di PT. Midtrans diperlakukan dengan profesional selayaknya pegawai tetap, sehingga tidak ada kesenjangan antar pegawai dan juga menimbulkan rasa tanggung jawab yang besar dan bangga dalam menyelesaikan pekerjaan. Penulis banyak belajar mengenai peran-peran dari masing- masing divisi-divisi di PT. Midtrans terutama divisi <it>engineering</it> terhadap startup secara keseluruhan, dan memahami pentingnya <it>best</it> <it>practices</it> dalam <it>software</it> <it>development.</it> Tentunya hal ini tidak bisa penulis dapatkan di perkuliahan. Dengan adanya pengalaman tersebut, penulis lebih mendapatkan gambaran mengenai dunia 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>12</pagenum>
+		<segment>
+			kerja sehingga penulis bisa lebih mempersiapkan diri sebelum penulis memasuki dunia kerja yang sebenarnya. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Tema dan deskripsi pekerjaan yang dilakukan penulis pada masa kerja praktik sesuai dengan KAKP yang telah disetujui. Setiap pekerjaan yang dilakukan oleh penulis juga dituliskan secara rinci di log mingguan. Dapat dilihat waktu dan hasil akhir dari kerja praktik yang telah dilaksanakan penulis tidak jauh berbeda dengan yang telah dirancang pada kerangka acuan kerja praktik (KAKP) meski ada beberapa perbedaan. Dalam dokumen KAKP rencana kerja penulis awalnya membuat <it>automated</it> <it>testing</it> untuk sistem pembayaran Veritrans, namun seiringnya waktu penulis mendapat tugas tambahan yaitu memperbaiki <it>API</it> <it>testing</it> dan melakukan strukturisasi kembali untuk memberikan <it>scenario</it> <it>test</it> yang lebih baik bagi pengguna. Terdapat beberapa kendala yang dihadapi penulis selama kerja praktik yaitu dalam mengembangkan dan membuat <it>automated</it> <it>testing</it> penulis perlu membaca dan memahami struktur dan algoritma kode dari <it>automated</it> <it>testing</it> yang sudah ada. Hal yang dilakukan oleh penulis untuk menanganinya dengan menanyakan kepada penyelia dan penulis juga berdiskusi dengan <it>partner</it> satu tim proyek <it>automated</it> <it>testing</it> mengenai struktur kode yang ada. Kendala lainnya yaitu banyaknya teknologi dan bahasa pemrograman yang belum pernah dipakai oleh penulis sehingga tidak memungkinkan bagi penulis untuk mempelajarinya dalam waktu singkat. Teknologi dan bahasa pemrograman yang digunakan oleh perusahaan berbeda dengan teknologi dan bahasa pemrograman yang dikuasai oleh penulis. Penyelesaian dari kendala tersebut adalah penulis mempelajari teknologi dan bahasa pemrograman yang diperlukan oleh perusahaan dengan cepat dan juga bertanya kepada penyelia, sehingga tidak banyak waktu yang terbuang. Kerja praktik di Veritrans memberikan pengalaman yang berkesan bagi penulis. Para pelaksana kerja praktik sangat diterima oleh seluruh karyawan. Terutama CEO Veritrans yang sangat ramah terdapat semua karyawannya. Veritrans 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>13</pagenum>
+		<segment>
+			juga banyak mengadakan acara kebersamaan, seperti <it>sharing</it> <it>session,</it> makan bersama, bermain <it>game</it> dan jalan-jalan. Hal tersebut yang membuat hubungan sesama karyawan menjadi lebih erat. Sebagai perusahaan besar, Veritrans tidak menomorduakan pelaksana kerja praktiknya. Penulis dan pelaksana kerja praktik lainnya diberikan proyek yang tidak kalah penting bagi perusahaan bila dibandingkan dengan proyek yang dilakukan oleh karyawan tetap. Proyek pengembangan <it>user</it> <it>interface</it> untuk simulator bank pada sistem pembayaran Veritrans dipakai langsung untuk internal Veritrans. Selain itu, adanya insentif yang cukup besar sebagai bonus dari kinerja selama kerja praktik disana. Veritrans bahkan juga tidak enggan untuk melatih pelaksana kerja praktiknya. Sebelum memulai kerja praktik, perusahaan membiayai pelatihan di salah satu situs jasa penyedia tutorial untuk para calon pelaksana kerja praktik. Hal tersebut dilakukan untuk membuat para calon pelaksana kerja praktik lebih siap ketika memulai kerja praktik. Di situs tersebut banyak tutorial yang tidak dapat diperoleh di kuliah. Penulis mendapatkan banyak pengetahuan dengan mengikuti pelatihan tersebut. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis dibantu dengan terdapatnya kesesuaian beberapa mata kuliah yang pernah diambil penulis di perkuliahan. Mata kuliah tersebut antara lain: 1. Perancangan dan Pemrograman <it>Web</it> (PPW) Mata kuliah PPW membekali penulis tentang teknologi yang digunakan dalam <it>web,</it> seperti HTML, CSS, JavaScript, dan PHP. Pengetahuan mengenai teknologi tersebut memudahkan penulis dalam mengembangkan <it>user</it> <it>interface</it> <it>API</it> <it>service</it> <it>dummy</it> untuk simulator bank pada sistem pembayaran Veritrans. 2. Rekayasa Perangkat Lunak (RPL) dan Proyek Perangkat Lunak (PPL) Pada mata kuliah RPL, penulis mempelajari beberapa proses model dan pada mata kuliah PPL, penulis menerapkan salah satu proses modelnya yaitu <it>scrum</it> untuk merancang perangkat lunak. Selama melaksanakan kerja praktik, penulis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>14</pagenum>
+		<segment>
+			juga menggunakan proses model <it>scrum.</it> Pada umumnya proses model <it>scrum</it> yang penulis lakukan di Veritrans sama dengan apa yang penulis pelajari pada mata kuliah RPL dan PPL. 3. Dasar – Dasar Pemrograman (DDP)   Dalam melaksanakan kerja praktik, penulis juga dibantu oleh pengetahuan yang didapat dari mata kuliah DDP. Pada mata kuliah DDP, penulis diajarkan mengenai konsep pemrograman dan penulisan program yang baik dalam bahasa pemrograman Java. Namun pada masa kerja praktik di Veritrans, penulis juga dituntut untuk merancang kode yang tidak sekedar benar, tetapi juga harus <it>maintainable</it> (dapat dipelihara). 4. Sistem Operasi dan Pemrograman Sistem Pada kedua proyek yang penulis dapat, perlu melakukan instalasi dan konfigurasi beberapa aplikasi yang diperlukan di sistem operasi Linux. Penulis dituntut untuk memahami konsep-konsep yang ada di Linux, seperti kemampuan menggunakan perangkat UNIX standar dan menuliskan kode dalam bahasa pemrograman Bash. Pengetahuan tersebut penulis dapatkan di mata kuliah Sistem Operasi dan Pemrograman Sistem. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>15</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Setelah penulis menjalani masa kerja praktik selama 10 minggu, penulis mendapat banyak manfaat dari kerja praktik ini. Salah satu manfaat yang penulis dapatkan adalah penulis menjadi lebih tahu gambaran mengenai dunia kerja setelah lulus nanti. Penulis juga mendapatkan pengalaman dan pengetahuan baru baik secara teknis maupun non teknis yang mungkin tidak diperoleh di perkuliahan, seperti cara untuk beradaptasi dengan suasana lingkungan kerja yang mungkin berbeda sekali dengan suasana perkuliahan. 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Setelah menyelesaikan kerja praktik, penulis menyarankan ketika melakukan pencarian kerja praktik, sebaiknya melakukan pertimbangan mengenai lokasi, waktu, deskripsi pekerjaan, dan lingkungan kerja yang sesuai dengan minat dan kepribadian. Proses dalam mendapatkan kerja praktik terbilang cukup lama, maka pencariannya juga harus dilakukan dari sejak jauh hari. Penulis juga menyarankan bagi calon pelaksana kerja praktik untuk mempersiapkan diri sejak jauh hari agar dapat mengikuti wawancara dan ujian masuk kerja praktik dengan baik. Sebagai peserta kerja praktik, kerja praktik merupakan kesempatan untuk mempelajari kehidupan dunia kerja sebelum lulus dari kuliah nanti. Oleh karena itu, sebaiknya peserta kerja praktik menggunakan kesempatan ini semaksimal mungkin untuk mempelajari hal-hal yang tidak didapatkan di perkuliahan. Penulis juga menyarankan agar peserta kerja praktik aktif berkomunikasi dan bertanya dengan pekerja disana, terutama penyelia dan mentor pembimbing. Hal ini menjadi penting agar pelaksanaan kerja praktik dapat menghasilkan kebermanfaatan yang maksimal. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>16</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT. Midtrans. <it>About</it> <it>-</it> <it>Online</it> <it>Payment</it> <it>Gateway</it> <it>for</it> <it>Indonesia</it> <it>eCommerce.</it> Diperoleh Juni 13, 2016. http://www.veritrans.co.id/about.html. [2] PT. Midtrans. <it>Sistem</it> <it>Pembayaran</it> <it>Online.</it> Diperoleh Juni 13, 2016. http://www.veritrans.co.id/product_pricing.html. [3] PT. Midtrans. <it>Metode</it> <it>Pembayaran</it> <it>Online</it> <it>Kartu</it> <it>Kredit</it> &amp; <it>Bank</it> <it>Transfer</it> <it>-</it> <it>Veritrans.</it> Diperoleh Juni 13, 2016. http://www.veritrans.co.id/payment_channels.html. [4] PT. Midtrans. <it>Payment</it> <it>Gateway</it> <it>Indonesia</it> &amp; <it>Sistem</it> <it>Pembayaran</it> <it>Online.</it> Diperoleh Juni 13, 2016. http://www.veritrans.co.id/partners.html. [5] PT. Midtrans. <it>Organizational</it> <it>Chart</it> 2016<it>-updated</it> 21 <it>July.pdf.</it> Wu, Tannia. [6] <it>Fitur-Fitur</it> <it>Terbaru</it> <it>Apache</it> <it>Log4j</it> <it>2.</it> Diperoleh November 15, 2016. https://www.codepolitan.com/fitur-fitur-terbaru-apache-log4j-2-4 [7] <it>Cucumber</it> <it>Tutorial.</it> Diperoleh November 15, 2016. https://www.tutorialspoint.com/cucumber/index.htm.  [8] <it>Maven-Welcome</it> <it>to</it> <it>Apache</it> <it>Maven.</it> Diperoleh November 15, 2016. http://maven.apache.org/. [9] <it>Quick</it> <it>Sbt</it> <it>tutorial.</it> Diperoleh November 15, 2016. http://grosdim.blogspot.co.id/2013/01/quick-sbt-tutorial.html. [10] <it>Scala</it> <it>Sebuah</it> <it>Java</it> <it>yang</it> <it>Lebih</it> <it>Baik.</it> Diperoleh November 15, 2016. http://bertzzie.com/post/2/scala-sebuah-java-yang-lebih-baik. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="24">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

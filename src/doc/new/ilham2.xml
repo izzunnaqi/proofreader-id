@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>ANALISIS</bo> <bo>DAN</bo> <bo>DESAIN</bo> <bo>PROSES</bo> <bo>BISNIS</bo> <bo>PROYEK</bo></title>
+		<title><bo>PEMINJAMAN</bo> <bo>KONVENSIONAL</bo> <bo>KE</bo> <bo>PEMINJAMAN</bo> <bo>DIGITAL</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>NUR</bo> <bo>FAZRI</bo> <bo>ILHAM</bo></title>
+		<segment>
+			<bo>1306396864</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>NOVEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh Nama NPM Program Studi Judul Kerja Praktik : : Nur Fazri Ilham : 1306396864 : Sistem Informasi : Analisis dan Desain Proses Bisnis Proyek Peminjaman Konvensional ke Peminjaman Digital <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf,</bo> <bo>S.Kom.,</bo> <bo>M.I.S.)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Penulis melaksanakan kerja praktik di PT. Bank Negara Indonesia (persero) Tbk yang merupakan bank pertama milik negara setelah merdeka. Penulis menjalani kerja praktik selama 8 minggu mulai dari tanggal 13 Juni hingga 13 Agustus 2016 dibawah Divisi Solusi dan Keamanan Teknologi Informasi, tepatnya di kelompok <it>Business</it> <it>Solution</it> <it>Analyst.</it> Penulis diberikan tugas untuk menganalisis dan membuat desain ulang terhadap proses bisnis peminjaman konvensional menjadi proses bisnis proyek peminjaman digital. Proyek Peminjaman Digital ini sendiri diharapkan mampu menarik <it>customer,</it> mengurangi penggunaan kertas, dan memotong proses bisnis yang tidak efisien. Hasil akhir dari kerja praktik ini adalah beberapa dokumen yang bisa membantu Manajer <it>Business</it> <it>Analyst</it> untuk mengambil keputusan terkait sumber daya, dana, dan waktu yang dimiliki. Penulis juga mendapatkan beberapa manfaat dari mata kuliah yang sudah penulis pelajari antara lain, <it>Enterprise</it> <it>Resource</it> <it>Planning,</it> Proyek Pengembangan Sistem Informasi, dan Komunikasi Bisnis dan Teknis Kata kunci: Kerja Praktik, BNI, Peminjaman Konvensional, Peminjaman Digital 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<segment>
+			1.2 Tempat Kerja Praktik .......................................................................................... 2 
+		</segment>
+		<title>1.2.1 Profil Tempat Kerja Praktik ......................................................................... 2</title>
+		<title>1.2.2 Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			2.1 Pekerjaan dalam Kerja Praktik ........................................................................ 4 
+		</segment>
+		<title>2.1.1 Latar Belakang .......................................................................................... 4</title>
+		<title>2.1.2 Metodologi ................................................................................................ 5</title>
+		<title>2.1.3 Teknologi .................................................................................................. 6</title>
+		<title>2.1.4 Tinjauan Pustaka ....................................................................................... 7</title>
+		<title>2.1.5 Non Teknis ................................................................................................ 7</title>
+		<segment>
+			2.2 Analisis ............................................................................................................ 8 
+		</segment>
+		<title>2.2.1 Pelaksanaan Kerja Praktik ........................................................................ 8</title>
+		<title>2.2.2 Relevansi dengan Perkuliahan di Fasilkom UI ....................................... 10</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 11 3.1 Kesimpulan .................................................................................................... 11 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<segment>
+			3.2 Saran .............................................................................................................. 11 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1………………………………………………………………………………3  
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<segment>
+			Pada bagian ini akan dijelaskan bagaimana penulis mendapatkan tempat kerja praktik. Penulis juga akan mendeskripsikan profil tempat kerja praktik dan posisi penempatan kerja praktik. Akan dijelaskan juga sumber informasi yang digunakan penulis dalam melamar kerja praktik serta profil kerja praktik dan posisi penempatan kerja praktik. 
+		</segment>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis menyadari bahwa mahasiswa angkatan 2013 akan melaksanakan kerja praktik saat libur semester 6 menuju semester 7. Saat memasuki semester 6, penulis mulai mencari-cari informasi terkait kerja praktik. Awalnya penulis bertanya kepada senior di kampus bagaimana mekanisme kerja praktik yang diminta fakultas serta mekanisme melamar kerja praktik. Dari pertanyaan tersebut dapat disimpulkan bahwa penulis harus mengikuti beberapa prosedur yang fakultas berikan seperti membuat kerangka acuan, membuat log harian, membuat laporan, dan mengadakan seminar. Penulis juga dapat menyimpulkan bahwa mencari kerja praktik sesuai minat dan waktu yang disediakan penulis tidak mudah. Perusahaan biasanya mempunyai periode tertentu dalam mengadakan program magang, selain itu kebanyakan perusahaan sangat lambat dalam menanggapi lamaran, atau bahkan tidak ditanggapi sama sekali. Belajar dari pengalaman senior, penulis memutuskan untuk mencari kerja praktik lebih cepat dan melamar di banyak perusahaan.</title>
+		<segment>
+			Awal mula mencari kerja praktik adalah penulis menghadiri <it>Job</it> &amp; <it>Career</it> <it>Expo</it> CDC UI di Balairung UI pada awal tahun 2016. Namun banyak kendala yang dihadapi penulis dalam melamar kerja praktik disana, karena tidak banyak perusahaan menyediakan program magang. Setelah itu penulis beralih untuk melamar di http://www.jobstreet.co.id dan melamar di banyak perusahaan. Penulis mencoba melamar di Mediatrac, Nissan Motor Indonesia, PT GDP, PT Cipta Krida Bahari, dan PT Sinergy Global Indonesia. Akan tetapi penulis tidak lolos tahap wawancara PT Sinergy Global Indonesia dan PT GDP. Selain itu penulis juga mendaftar untuk 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<segment>
+			program magang di website Bulakapak dan Unilever. Akan tetapi, penulis tidak lolos saat seleksi test <it>online,</it> sedangkan penulis tidak mendapatkan kabar dari Bukalapak. Penulis juga mengirimkan lamaran melalui email ke beberapa perusahaan seperti HOOQ, <it>Start</it> <it>Friday</it> <it>Asia</it> <it>Brand</it> <it>Consultant,</it> dan MNC. Penulis dinyatakan diterima di perusahaan <it>Start</it> <it>Friday</it> <it>Asia</it> <it>Brand</it> <it>Consultant,</it> akan tetapi perusahaan tersebut berlokasi di Surabaya sehingga penulis tidak dapat menerima tawaran tersebut. Penulis mulai berdiskusi dengan rekan penulis tentang lowongan kerja praktik di PT Bank Negara Indonesia. Kebetulan rekan penulis mempunyai relasi di BNI yang memberikan peluang lebih besar ke penulis untuk melaksanakan kerja praktik di BNI. Untuk memulai melamar di BNI, penulis harus mengumpulkan beberapa dokumen sebagai syarat untuk melamat kerja praktik seperti transkrip nilai, CV, dan proposal kerja praktik. Semua dokumen tersebut diberikan <it>hardcopy</it> ke Divisi <it>Organizational</it> <it>Learning</it> (ONL). Setelah Divisi ONL selesai memproses berkas yang penulis berikan, penulis diundang untuk wawancara di Divisi ONL dan diberitahu bahwa penulis diterima untuk melakukan kerja praktik di BNI dan ditempatkan di Divisi Solusi dan Keamanan Teknologi Informasi. <bo>1.2</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> 
+		</segment>
+		<title><bo>1.2.1</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo> PT Bank Negara Indonesia (persero) Tbk didirikan tanggal 5 Juli 1946 dan merupakan bank milik negara pertama setelah Indonesia merdeka. Awalnya BNI beroperasi sebagai bank sentral sesuai dengan Peraturan Pemerintah Undang-Undang No. 2/1946. BNI mulai mengepakan sayap di dunia internasional pada tahun 1950 sebagai bank devisa yang mampu melakukan transaksi langsung ke luar negeri. BNI juga mendirikan kantor cabang pertama diluar negeri pada tahun 1955 di Singapura. Dengan ditetapkannya Undang-Undang no. 17 Tahun 1968, BNI resmi menjadi bank umum yang bertugas untuk memperbaiki perekonomian rakyat dan membangun ekonomi nasional. Selamat 70 Tahun BNI fokus pada <it>corporate</it> <it>banking</it> yang didukung dengan <it>retail</it> <it>banking</it> yang kuat. Dengan visi menjadi lembaga keuangan yang unggul dalam</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			layanan dan kinerja, BNI selalu dituntut untuk selalu meningkatkan kinerja yang unggul demi memberikan <it>value</it> kepada para pemegang saham. 
+		</segment>
+		<title><bo>1.2.2</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo> Penulis melakukan kerja praktik selama 8 minggu dari tanggal 13 Juni hingga 13 Agustus 2016. Penulis ditempatkan di Divisi Solusi dan Kemanan Teknologi Informasi, tepatnya di kelompok <it>Business</it> <it>Solution</it> <it>Analyst.</it> Penulis dibantu oleh penyelia bertugas untuk menganalisis dan membuat desain ulang proses bisnis peminjaman konvensional menjadi proses bisnis peminjaman digital.</title>
+		<segment>
+			Gambar 1. Struktur Organisasi Divisi STI BNI 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<segment>
+			<bo>2.1</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> Saat menjalankan kerja praktik, penulis di tempatkan di kelompok <it>Business</it> <it>Solution</it> <it>Analyst.</it> Penulis bertugas untuk mendesain ulang proses bisnis proyek peminjaman konvensional menjadi proyek peminjaman digital. Proyek ini berada di tahap pengembangan implementasi dan survey terhadap apa yang dibutuhkan pelanggan. Penulis dibimbing oleh satu mentor yang menjabat sebagai <it>Business</it> <it>Analyst</it> <it>Manager.</it> Hasil pekerjaan penulis yang berupa dokumen <it>Business</it> <it>Solution</it> <it>Design</it> akan digunakan beberapa divisi yang terkait dengan pengembangan proyek peminjaman digital itu sendiri. Contohnya digunakan oleh <it>IT</it> <it>Structure</it> &amp; <it>Security</it> <it>Analyst</it> untuk dibuatkan analisis dan desain arsitektural pengembangan fitur proyek peminjaman digital. 
+		</segment>
+		<title><bo>2.1.1</bo> <bo>Latar</bo> <bo>Belakang</bo> Pada era globalisasi ini, masyarakat membutuhkan berbagai macam pinjaman dana untuk berbagai kebutuhan hidup. Kebutuhan tersebut meliputi pembuatan usaha, kebutuhan rumah tangga, dan lain-lain. Terlebih lagi pinjaman yang ditawarkan oleh bank-bank milik swasta atau negara khususnya PT Bank Negara Indonesia (persero) Tbk menawarkan berbagai kemudahan cicilan pembayaran yang tidak memberatkan masyarakat.</title>
+		<segment>
+			Tidak dapat dipungkiri juga pertumbuhan dunia digital di Indonesia sedang berkembang pesat. Itu semua terbukti dengan dengan semakin bertambahnya pengguna internet aktif di Indonesia dan juga bertambahnya penggunaan perangkat mobile di Indonesia. Contohnya dengan total populasi penduduk Indonesia yang mencapai 259,1 juta jiwa, terdapat 88,1 juta jiwa pengguna internet aktif atau sepertiga penduduk Indonesia merupakan pengguna aktif internet. 79 juta jiwa masyarakat Indonesia 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			adalah pengguna media sosial aktif, hal tersebut merupakan nilai tambah dalam memasarkan produk-produk perbankan seperti peminjaman. Selain itu PT Bank Negara Indonesia (persero) Tbk mempunyai beberapa masalah di prosedur peminjaman konvensional yang masih terbilang tidak efisien dan tidak efektif. Contohnya dalam melakukan verifikasi untuk mengetahui bahwa calon debitur produk BNI KUR layak mendapatkan pinjaman atau tidak, unit sentra kredit harus memeriksa satu persatu secara manual dari verifikasi jaminan, jenis usaha, dan bobot dari calon debitur. Hal tersebut akan memakan waktu lama dan juga memakan biaya yang cukup besar untuk mencetak banyak kertas. Dengan peminjaman digital, data akan dengan mudah terintegrasi melalui <it>data</it> <it>record</it> calon debitur. Calon debitur juga tidak perlu repot-repot untuk mendatangi outlet BNI untuk melakukan permohonan pengajuan pinjaman. Calon debitur hanya memerlukan internet dan perangkat <it>mobile</it> untuk bisa mengajukan permohonan pinjaman sesuai dengan kebutuhan calon debitur. Berdasarkan masalah yang telah disebutkan diatas, PT Bank Negara Indoensia (persero) Tbk mengembangkan proyek pengembangan peminjaman digital dengan berbagai macam jenis produk sesuai dengan kebutuhan calon debitur. Proyek ini diharapkan dapat memotong proses bisnis yang tidak efektif serta mengurangi biaya operasional dari peminjaman digital. Proyek ini juga diharapkan mampu menarik berbagai macam kalangan untuk mengajukan pinjaman di BNI dengan berbagai kemudahan yang ditawarkan baik akses atau cicilan pembayaran. Proyek ini juga ditujukan untuk menarik berbagai perusahaan <it>startup</it> agar dapat bekerja sama dalam hal pendanaan modal. Hal tersebut akan menaikkan pertumbuhan perekonomian Indonesia. 
+		</segment>
+		<title><bo>2.1.2</bo> <bo>Metodologi</bo> Tidak ada metodologi khusus untuk penulis dalam melakukan kerja praktik ini. Penulis dibimbing oleh penyelia yang menjabat sebagai <it>Business</it> <it>Analyst</it> <it>Manager</it> untuk berdiskusi <it>requirement</it> apa saja yang diminta oleh <it>user.</it> Tapi sebelum itu, penulis harus mengerti produk-produk peminjaman yang ditawarkan serta prosedur-prosedur dalam</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			mengajukan permohonan pinjaman, maka dari itu penulis melakukan pembelajaran mandiri dengan bahan ajar yang diberikan oleh penyelia. Setelah melakukan diskusi <it>requirement,</it> penulis menentukan alur yang tepat untuk menjalankan proses bisnis tersebut agar efisien dan efektif. 
+		</segment>
+		<title><bo>2.1.3</bo> <bo>Teknologi</bo> •  <bo>Draw.io</bo>  </title>
+		<segment>
+			Draw.io merupakan sebuah teknologi yang berasal dari Google dan sudah terintegrasi dengan <it>Google</it> <it>Drive.</it> Draw.io memfasilitasi pengguna untuk membuat berbagai bagan dan <it>flow</it> <it>chart</it> dengan lebih mudah, cepat, dan efisien. Pengguna juga dapat dengan mudah menyimpan <it>file</it> yang terlah dibuat di <it>Google</it> <it>Drive</it> atau di <it>download</it> ke komputer pengguna. Penulis menggunakan teknologi ini untuk membuat desain ulang proses bisnis peminjaman konvensional dan peminjaman digital dengan menggunakan teknik swimlane yang sudah di jelaskan pada mata kuliah <it>Enterprise</it> <it>Resource</it> <it>Planning.</it> Dengan menggunakan teknik tersebut, penyelia merasa proses bisnis tersebut lebih detail dan dapat dengan mudah melacak masalah pada suatu proses bisnis. •  <bo>Microsoft</bo> <bo>Word</bo>  Penulis menggunakan Microsoft Word untuk membuat mendokumentasikan semua pekerjaan yang penulis kerjakan, seperti membuat proses bisnis peminjaman konvensional BNI KUR, proses bisnis peminjaman konvensional BNI Fleksi, proses bisnis peminjaman digital BNI KUR, dan proses bisnis peminjaman digital BNI Fleksi. Dekumen tersebut berbentuk dokumen <it>Business</it> <it>Solution</it> <it>Design,</it> dokumen tersebut akan digunakan berbagai kelompok terkait pengembangan proyek ini. Salah satu kelompok yang menggunakan dokumen tersebut adalah kelompok <it>IT</it> &amp; <it>Security</it> <it>Architecture</it> untuk membuat desain arsitektur dari proyek tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<title><bo>2.1.4</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo> Selama mengerjakan kerja praktik, penulis melakukan pembelajaran secara mandiri. Penulis diberikan beberapa bahan terkait dengan pengembangan proyek peminjaman digital seperti <it>slide</it> presentasi yang sudah dilakukan sebelumnya, notulensi rapat terkait pengembangan proyek, serta <it>requirement</it> yang dibutuhkan oleh <it>user.</it></title>
+		<title><bo>2.1.5</bo> <bo>Non</bo> <bo>Teknis</bo> Kerja praktik merupakan pengalaman pertama merasakan dunia kerja bagi penulis. Penulis mendapatkan banyak sekali pengetahuan tentang dunia kerja khususnya di bidang perbankan. Sebelum menjalankan kerja praktik ini, penulis hanya mengetahui produk-produk perbankan berupa kartu debit dan kartu kredit saja. Setelah menjalankan kerja praktik selama 8 minggu, penulis mendapatkan banyak pengetahuan produk perbankan khususnya produk peminjaman yang disediakan oleh BNI seperti peminjaman BNI KUR yang dikhususkan untuk masyarakat yang ingin memulai usaha kecil menengah dan BNI Fleksi yang dikhusukan untuk peminjaman dana pribadi calon debitur. Penulis juga mendapatkan ilmu-ilmu tambahan mengenai istilah-istilah perbankan di BNI. Penulis menyadari bahwa suatu produk di perbankan memiliki prosedur yang cukup rumit dengan berbagai aturan yang ada, peraturan tersebut berguna untuk mengurangi penyalah gunaan fungsi uang nasabah.</title>
+		<segment>
+			Penulis hanya seorang mahasiswa yang sedang melakukan kerja praktik di <it>corporate</it> yang besar dan ternama, maka dari itu sangat penting untuk beradaptasi dan mengikuti peraturan yang ada dan sudah diterapkan seperti mengikuti budaya berpakaian di BNI yang umumnya memakai kemeja terang lengan panjang, celana panjang bahan gelap, menggunakan ikat pinggang, dan pantofel warna gelap. Penulis juga harus mengikuti jam kerja BNI yang mulai bekerja pukul 8 pagi dan selesai pukul 5 sore. Penulis juga belajar banyak bagaimana berkomunikasi dengan atasan dan yang lebih tua dari penulis sendiri. Bagaimanapun <it>corporate</it> besar milik negara seperti BNI mengedepankan aspek sopan santun terhadap yang lebih senior. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			Ilmu yang didapatkan penulis dalam perkuliahan masi sangat terbilang minim untuk menyelesaikan masalah dan <it>requirement</it> terkait dengan pengembangan proyek peminjaman digital ini. Penulis merasa sangat perlu untuk berdiskusi dengan penyelia, dengan berdiskusi dengan penyelia, penulis dapat menentukan proses bisnis terbaik yang meminimalkan resiko dan memaksimalkan efisiensi. akan tetapi penulis juga tidak lupa untuk berdiskusi dan bertanya kepada anggota kelompok <it>Business</it> <it>Solution</it> <it>Analyst</it> yang lain. Penulis merasakan manfaat dari berbaur dan membentuk relasi dengan karyawan lain. Penulis merasakan kenyamanan saat sudah dua minggu menjalani kerja praktik. Suasana kerja yang ramah dan nyaman membuat penulis lebih bersemangat kerja. Penulis banyak sekali mendapat bantuan dari karyawan lain sesama kelompok <it>Business</it> <it>Solution</it> <it>Analyst</it> atau dari kelompok lain. <bo>2.2</bo> <bo>Analisis</bo> 
+		</segment>
+		<title><bo>2.2.1</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Bedasarkan yang sudah dijabarkan sebelumnya, penulis menjalankan kerja praktik di PT Bank Negara Indonesia (persere) Tbk. Penulis ditempatkan di divisi Solusi dan Keamanan Teknologi Informasi tepatnya di kelompok <it>Business</it> <it>Solution</it> <it>Analyst.</it> Penulis diberi tugas untuk membuat desain ulang proses bisnis peminjaman konvensional ke peminjaman digital.</title>
+		<segment>
+			Penulis membuat desain ulang proses bisnis peminjaman konvensional dan memberikan beberapa <it>value</it> serta memotong proses bisnis yang kurang efisien dan efektif. Contohnya pada proses peminjaman konvensional, calon debitur diharuskan utnuk mengunjungi outlet BNI terdekat dan mengisi form yang terlah disediakan dioutlet sebelumnya. Setelah mengisi <it>form</it> yang telah disediakan, calon debitur memberikan <it>form</it> tersebut kepada <it>teller</it> bank dan <it>teller</it> bank akan mengisi form tersebut ke dalam sistem. Hal tersebut akan memakan waktu lama, terlebih lagi jika bank dalam keadaan ramai. Maka dari BNI berinisiatif mengembangkan proyek peminjaman digital ini untuk memangkas beberapa bisnis proses. Dengan dikembangkan proyek tersebut, penulis mencoba untuk membuat desain proses bisnis 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			proyek peminjaman digital sesuai dengan <it>user</it> <it>requirement.</it> Calon debitur yang hendak untuk mengajukan permohonan peminjaman cukup membuka website BNI dan mengeklik pilihan pinjaman yang dibutuhkan, dengan begitu sistem akan tersinkronisasi dengan <it>database</it> dan akan mengisi secara otomatis data calon debitur di dalam <it>form</it> digital. Hal tersebut akan memberikan <it>value</it> kepada calon debitur dan menarik banyak calon debitur yang berminat untuk mengajukan permohonan pinjaman. termasuk istilah-istilah perbankan Penulis mendapatkan beberapa kendala dalam melaksanakan kerja praktik ini, penulis merasa tidak memiliki pengetahuan sama sekali dengan dunia perbankan khususnya dengan produk-produk perbankan yang ditawarkan. Penulis juga banyak tidak mengerti tata kelola prosedur perbankan. Beradaptasi dengan berbagai karyawan yang umumnya sudah menjadi orang tua dan memiliki keluarga merupakan kendala sekaligus tantangan juga untuk penulis, karena penulis lebih terbiasa dengan keadaan sekitar yang sebaya dengan penulis. Akan tetapi penulis bisa mengatasi hal tersebut dengan mencoba untuk berdiskusi dengan beberapa karyawan di kelompok <it>Business</it> <it>Solution</it> <it>Analyst</it> serta membuat relasi yang baik dengan semua karyawan. Penulis juga tidak mengalami banyak perubahan seperti pada KAKP yang telah penulis buat sebelumnya. Hanya saja penulis hanya membuat satu buah dokumen sebagai hasil akhir kerja praktik penulis yaitu <it>Business</it> <it>Solution</it> <it>Design</it> dan penulis juga tidak melakukan presentasi di akhir waktu kerja praktik. Penulis merasa nyaman dengan lingkungan kerja yang diberikan oleh BNI. BNI memberikan fasilitas yang cukup untuk menunjang kerja praktik yang penulis jalani seperti meja pribadi, internet, ruangan yang nyaman, dapur beserta perlengkapannya, berbagai jenis minuman, dan kekeluargaan yang sangat ramah. Penulis juga beberapa kali diajak untuk mengikuti jamuan makan siang yang bertujuan untuk meningkatkan keakraban sesame karyawan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<title><bo>2.2.2</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			•  <bo>Proyek</bo> <bo>Pengembangan</bo> <bo>Sistem</bo> <bo>Informasi</bo>  
+		</segment>
+		<pagenum>10</pagenum>
+		<segment>
+			Mata kuliah ini mengajarkan penulis bagaimana mengumpulkan <it>requirement</it> dengan baik dan mendokumentasi secara detail. Penulis mempelajari bagaimana menerima suatu <it>requirement</it> dari <it>user</it> dan mengalokasikan sumberdaya yang perusahaan punya untuk <it>requirement</it> tersebut. Sumber daya yang dimaksud meliputi jumlah pengembang dalam satu tim serta peran masing-masing pengembang, waktu yang dibutuhkan, dana yang dibutuhkan, serta data yang dibutuhkan. Berbagai sumber daya tersebut akan didokumentasikan kedalam sebuah dokumen <it>Business</it> <it>Solution</it> <it>Design.</it> Mata kuliah ini juga memberikan penulis pemahaman tentang dokumentasi yang baik dan benar, sehingga kekurangan yang ada di BNI bisa penulis tangani disini. •  <bo>Enterprise</bo> <bo>Resource</bo> <bo>Planning</bo>   Mata kuliah ini mengajarkan teknik-teknik dalam membuat alur proses bisnis yang baik dan benar. BNI mempunyai masalah pada pembuatan alur proses bisnis dimana alur tersebut tidak menggambarkan jelas proses yang sedang dilakukan dan siapa yang bertanggung jawab atas proses bisnis tersebut. Penulis menggunakan salah satu teknik yang diajarkan pada mata kuliah <it>Enterprise</it> <it>Resource</it> <it>Planning,</it> yaitu Swimlane. Teknik ini memberikan alur proses bisnis yang detail serta siapa yang bertanggung jawab atas proses tersebut. •  <bo>Komunikasi</bo> <bo>Bisnis</bo> <bo>dan</bo> <bo>Teknis</bo>   Mata kuliah ini mengajarkan penulis bagaimana berkomunikasi dengan baik dan benar di lingkungan kerja dan atasan penulis. Rangkaian komunikasi tersebut meliputi bagaimana struktur membuat email untuk atasan penulis di dunia kerja dan bagaimana sikap yang baik dan benar saat menghadapi atasan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<segment>
+			<bo>3.1</bo> <bo>Kesimpulan</bo> Penulis menjalani kerja praktik selama 8 minggu di PT Bank Negara Indonesia (persero) Tbk terhitung dari tanggal 13 juni 2016 hingga 13 agustus 2016. Penulis ditempatkan di Divisi Solusi dan Keamanan Teknologi Informasi tepatnya di kelompok <it>Business</it> <it>Solution</it> <it>Analyst.</it> Penulis diberikan tugas untuk menganalisis dan membuat desain ulang proses bisnis peminjaman konvensional ke peminjaman digital. Metodologi yang digunakan oleh penulis adalah pembelajaran mandiri dan berdiskusi dengan penyelia rutin tiap minggu. Banyak sekali pengetahuan dan pengalaman baru yang dapat diambil dari kerja praktik ini. <bo>3.2</bo> <bo>Saran</bo> Berdasarkan pengalaman penulis setelah menjalani kerja praktik, penulis memiliki saran terkait dengan pelaksanaan kerja praktik. •  Melamar kerja praktik di jauh-jauh hari.  •  Sebelum  melakukan  wawancara  kerja,  ada  baiknya  pelamar  memahami  <it>job</it>  <it>requirement</it> dan <it>job</it> <it>specification</it> dengan cermat dan sesuai minat. Hal tersebut  memberikan  pedoman  kepada  pelamar  untuk  mencari  kerja  praktik  sesuai  dengan minat dan bakat pelamar.  •  Penulis menyarankan pihak fakultas memberikan informasi yang lengkap dan  mudah dipahami di akhir semester 5 dan awal libur semester. •  Jangan  malu  untuk  bertanya  saat  menjalani  kerja  praktik,  dikarenakan  pengetahuan dari kuliah saja tidak cukup untuk memecahkan masalah di dunia  kerja  •  Bangun  relasi  sebaik-baiknya  di  kerja  praktik  ini,  karena  kerja  praktik  ini  merupakan  jalan  pintas  untuk  menentukan  masa  depan  setelah  selesai  masa  perkuliahan nanti.   
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<pagenum>12</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT. Bank Negara Indonesia (persero) Tbk. Sejarah Singkat BNI. (n.d.). August 5, 2016. http://bni.co.id/id-id/tentangkami/sejarah.aspx 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>

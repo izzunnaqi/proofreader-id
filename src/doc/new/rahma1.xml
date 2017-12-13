@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<document>
+	<page id="1">
+		<title><bo>UNIVERSITAS</bo> <bo>INDONESIA</bo></title>
+		<title><bo>ANALISIS</bo> <bo>DAN</bo> <bo>DESAIN</bo> <bo>INTEGRASI</bo> <bo>PEMBAYARAN</bo></title>
+		<title><bo>ELEKTRONIK</bo> <bo>UNTUK</bo> <it><bo>MERCHANT</bo></it> <bo>PADA</bo> <bo>APLIKASI</bo> <bo>FLIP</bo></title>
+		<title><bo>LAPORAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<title><bo>RAHMAHAYUNINGSIH</bo> <bo>ILYAS</bo></title>
+		<segment>
+			<bo>1306464291</bo> 
+		</segment>
+		<title><bo>FAKULTAS</bo> <bo>ILMU</bo> <bo>KOMPUTER</bo></title>
+		<title><bo>PROGRAM</bo> <bo>STUDI</bo> <bo>SISTEM</bo> <bo>INFORMASI</bo></title>
+		<title><bo>DEPOK</bo></title>
+		<title><bo>SEPTEMBER</bo> <bo>2016</bo></title>
+	</page>
+	<page id="2">
+		<pagenum>i</pagenum>
+		<title><bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			Laporan ini diajukan oleh : Nama 
+		</segment>
+		<title>NPM</title>
+		<segment>
+			: Rahmahayuningsih Ilyas : 1306464291 Program Studi : Sistem Informasi Judul Kerja Praktik : Analisis dan Desain Integrasi Pembayaran Elektronik untuk <it>Merchant</it> pada Aplikasi Flip <bo>Telah</bo> <bo>berhasil</bo> <bo>diselesaikan</bo> <bo>laporan</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>untuk</bo> <bo>fakultas</bo> <bo>dan</bo> <bo>dipresentasikan</bo> <bo>hasil</bo> <bo>kerja</bo> <bo>praktiknya</bo> <bo>dalam</bo> <bo>forum</bo> <bo>seminar</bo> <bo>kerja</bo> <bo>praktik</bo> <bo>sebagai</bo> <bo>persyaratan</bo> <bo>yang</bo> <bo>harus</bo> <bo>dipenuhi</bo> <bo>dalam</bo> <bo>mata</bo> <bo>kuliah</bo> <bo>Kerja</bo> <bo>Praktik.</bo> 
+		</segment>
+		<title><bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK,</bo></title>
+		<segment>
+			<bo>(Muhammad</bo> <bo>Baharudin</bo> <bo>Jusuf,</bo> <bo>S.Kom.,</bo> <bo>M.I.S.)</bo> Ditetapkan di : Tanggal : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="3">
+		<pagenum>ii</pagenum>
+		<title><bo>ABSTRAK</bo></title>
+		<segment>
+			Dalam rangka memenuhi mata kuliah Kerja Praktik di Fakultas Ilmu Komputer Universitas Indonesia (Fasilkom UI), penulis melaksanakan kerja praktik di PT Bank Negara Indonesia (persero) Tbk (selanjutnya disebut BNI) terhitung mulai tanggal 9 Juni 2016 – 13 Agustus 2016. BNI adalah sebuah perusahaan yang bergerak di bidang  perbankan yang memberikan layanan simpanan, pinjaman, kartu kredit, dan <it>e-Banking.</it> Penulis ditempatkan pada divisi Solusi dan Keamanan Teknologi Informasi (STI) dan diberikan proyek berupa analisis dan desain pada sebuah aplikasi yang nantinya akan digunakan sebagai metode pembayaran terbaru untuk <it>merchant.</it> Kerja praktik memberikan penulis kesempatan untuk mengaplikasikan ilmu yang sudah diperoleh di perkuliahan. Selain itu, penulis juga banyak mendapat pengetahuan baru yang tidak diperoleh selama masa perkuliahan. Hasil akhir kerja prakti ini adalah sebuah dokumen diagram berupa hasil analisis dan desain arsitektur aplikasi yang dapat dimanfaatkan sebagai sebuah metode pembayaran baru tanpa menggunakan kartu kredit, uang tunai, dan mesin <it>Electronic</it> <it>Data</it> <it>Capture</it> (<it>EDC).</it> Kata kunci: [Kerja praktik, BNI, analisis, desain, pembayaran] 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="4">
+		<pagenum>iii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
+		<segment>
+			HALAMAN PERSETUJUAN DOSEN MATA KULIAH KERJA PRAKTIK ........... i ABSTRAK .................................................................................................................... ii DAFTAR ISI ................................................................................................................ iii DAFTAR GAMBAR .................................................................................................... v DAFTAR TABEL ........................................................................................................ vi DAFTAR LAMPIRAN ............................................................................................... vii BAB 1 PENDAHULUAN ........................................................................................... 1 
+		</segment>
+		<title>1.1. Proses Pencarian Kerja Praktik ........................................................................ 1</title>
+		<title>1.2. Tempat Kerja Praktik ....................................................................................... 2</title>
+		<title>1.2.1. Profil Tempat Kerja Praktik ...................................................................... 2</title>
+		<title>1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi .. 3</title>
+		<segment>
+			BAB 2 ISI ..................................................................................................................... 4 
+		</segment>
+		<title>2.1. Pekerjaan dalam Kerja Praktik ........................................................................ 4</title>
+		<title>2.1.1. Latar Belakang Pekerjaan ......................................................................... 4</title>
+		<title>2.1.2. Tinjauan Pustaka ....................................................................................... 6</title>
+		<title>2.1.3. Metodologi ................................................................................................ 6</title>
+		<title>2.1.4. Teknologi .................................................................................................. 6</title>
+		<title>2.1.5. Non-Teknis ............................................................................................... 7</title>
+		<title>2.2. Analisis ............................................................................................................ 8</title>
+		<title>2.2.1. Pelaksanaan Kerja Praktik ........................................................................ 8</title>
+		<title>2.2.2. Relevansi dengan Perkuliahan di Fasilkom UI ......................................... 8</title>
+		<segment>
+			BAB 3 PENUTUP ...................................................................................................... 11 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="5">
+		<pagenum>iv</pagenum>
+		<title>3.1. Kesimpulan .................................................................................................... 11</title>
+		<title>3.2. Saran .............................................................................................................. 11</title>
+		<segment>
+			DAFTAR REFERENSI .............................................................................................. 13 LAMPIRAN 1 KERANGKA ACUAN KERJA PRAKTIK ..................................... viii LAMPIRAN 2 LOG KERJA PRAKTIK ..................................................................... ix 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="6">
+		<pagenum>v</pagenum>
+		<segment>
+			Gambar 1 ................................................................................................... 3 
+		</segment>
+		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="7">
+		<pagenum>vi</pagenum>
+		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="8">
+		<pagenum>vii</pagenum>
+		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="9">
+		<pagenum>1</pagenum>
+		<title><bo>BAB</bo> <bo>1</bo></title>
+		<title><bo>PENDAHULUAN</bo></title>
+		<title><bo>1.1.</bo> <bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Pertama kali penulis mencari info tentang lowongan kerja praktik di acara Career and Scholarship Expo yang diselenggarakan oleh CDC UI pada tanggal 19 Februari 2016. Disana penulis banyak menaruh <it>curriculum</it> <it>vitae</it> (<it>cv)</it> di beberapa perusahaan yang membuka lowongan kerja praktik, diantaranya Unilever, DBS Bank, Seekmi Global, Zalora, Bank Mandiri, MNC Media, PwC, dan Mediatrac. Sebagian dari perusahaan tersebut ada yang merespon dan sebagian yang lain tidak. Beberapa perusahaan yang merespon lamaran penulis tersebut mulai menghubungi penulis di saat penulis sudah diterima kerja praktik di BNI. Selanjutnya penulis mencari informasi tempat kerja praktik dari website Jobstreet. Setelah melihat berbagai tempat yang tersedia penulis memilih untuk mengirim lamaran ke PT Synergy Global Indonesia. Penulis memilih perusahaan tersebut karena penulis merasa memenuhi requirement yang diminta. Penulis mengirimkan lamaran lewat <it>website</it> www.jobstreet.com pada tanggal 27 Februari 2016. Beberapa hari kemudian, penulis mendapat undangan wawancara yang diadakan pada tanggal 4 Maret 2016 di Sovereign Plaza. Tes terdiri dari dari dua bagian yaitu tes tertulis, <it>live</it> <it>coding,</it> dan wawancara. Namun tidak ada kabar lebih lanjut dari pihak PT Synergy Global Indonesia mengenai hasil wawancara penulis. Selanjutnya penulis mendapat info dari salah satu rekan perkuliahan bahwa BNI membuka lowongan kerja praktik. Mengetahui informasi tersebut, penulis tertarik untuk mencoba mengirim lamaran ke perusahaan tersebut. Bersama dengan tiga rekan penulis yang lain, kami pun mengirim berkas lamaran kerja praktik beserta transkrip nilai. Akhirnya pada tanggal 25 Mei 2016, kami dinyatakan diterima sebagai peserta kerja praktik di Divisi Solusi dan Keamanan Teknologi Informasi BNI. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="10">
+		<pagenum>2</pagenum>
+		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<title><bo>1.2.1.</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			PT Bank Negara Indonesia (persero) Tbk (BNI) merupakan sebuah perusahaan bank BUMN milik pemerintah. Didirikan oleh Margono Djojohadikusumo pada tanggal 5 Juli 1946, BNI menjadi bank komersial tertua di Indonesia. Saat ini BNI memiliki 914 kantor cabang di Indonesia dan 5 di luar negri. Visi BNI adalah menjadi lembaga keuangan yang unggul dalam layanan dan kinerja. BNI juga memiliki misi untuk mewujudkan visinya yaitu memberikan layanan prima dan solusi yang bernilai tambah kepada seluruh nasabah, dan selaku mitra pilihan utama; meningkatkan nilai investasi yan unggul bagi investor; menciptakan kondisi terbaik bagi karyawan sebagai kebanggaan untuk berkarya dan berprestasi; meningkatkan kepedulian dan tanggung jawab kepada lingkungan dan komunitas; menjadi acuan pelaksanaan kepatuhan dan tata kelola perusahaan yang baik bagi industri. BNI memiliki banyak layanan perbankan untuk mewujudkan visi dan misi tersebut yaitu simpanan, pinjaman, kartu debit kartu kredit, <it>e-Banking,</it> Jasa –  Jasa,  simpanan pensiun, dan Bancassurance. Berikut adalah bagan struktur organisasi divisi Solusi dan Keamanan Teknologi Informasi BNI 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="11">
+		<pagenum>3</pagenum>
+		<segment>
+			Gambar 1 Struktur Organisasi Divisi STI BNI 
+		</segment>
+		<title><bo>1.2.2.</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
+		<segment>
+			Selama pelaksanaan kerja praktik, penulis ditempatkan di divisi Solusi dan Keamanan Teknologi Informasi sebagai <it>IT</it> <it>Structure</it> &amp; <it>Security</it> <it>Analyst</it> <it>Intern.</it> Penulis dibimbing oleh seorang mentor bernama bapak Taufikurrahman. Beliau menjabat sebagai <it>IT</it> &amp; <it>Security</it> <it>Architecture</it> <it>Manager.</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="12">
+		<pagenum>4</pagenum>
+		<title><bo>BAB</bo> <bo>2</bo></title>
+		<title><bo>ISI</bo></title>
+		<title><bo>2.1.</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis ditempatkan pada tim ISA(<it>Information</it> <it>Security</it> <it>Architecture)</it> sebagai <it>IT</it> <it>Structure</it> &amp; <it>Security</it> <it>Analyst.</it> Penulis dibimbing oleh satu orang mentor yang merupakan <it>IT</it> &amp; <it>Security</it> <it>Architecture</it> <it>Manager.</it> Penulis ditugaskan untuk membuat analisis dan desain arsitektural terkait pengembangan fitur pada aplikasi <it>mobile</it> bernama Flip. Fitur yang ingin dikembangkan adalah fitur untuk melakukan transaksi pembayaran ketika pelanggan hendak membayar barang belanjaan di <it>merchant.</it> Fitur ini nantinya dapat melakukan transaksi pembayaran hanya melalui <it>smartphone</it> pembeli dan <it>smartphone</it> penjual saja. Analisis dan desain aristektural aplikasi Flip tersebut dibuat dalam bentuk diagram dengan <it>software</it> Archi versi 3.3.2. Dengan software tersebut penulis dapat memodelkan <it>business</it> <it>architecture,</it> <it>application</it> <it>architecture,</it> dan <it>technology</it> <it>architecture</it> sesuai dengan <it>requirement</it> aplikasi. Selain itu, penulis juga ditugaskan untuk membuat presentasi PowerPoint proyek kepada pimpinan divisi. 
+		</segment>
+		<title><bo>2.1.1.</bo> <bo>Latar</bo> <bo>Belakang</bo></title>
+		<segment>
+			Selain dengan uang tunai, metode pembayaran yang paling sering digunakan oleh masyarakat Indonesia adalah dengan kartu. Kartu ini bisa berupa kartu kredit, kartu debit, dan <it>electronic</it> <it>money.</it> Contoh <it>electronic</it> <it>money</it> yang populer di kalangan masyarakat adalah e-money dari Bank Mandiri, Flazz dari bank BCA, Kartu Multi Trip dari PT KAI Commuter Jabodetabek, Starbucks Card dari PT Sari Coffee Indonesia, dan masih banyak lagi. Metode pembayaran menggunakan kartu memang banyak memberikan kemudahan. Kita tidak perlu membawa uang tunai berlembar-lembar, cukup dengan menggesek kartu maka transaksi pembayaran dapat dilaksanakan. Dari sisi <it>merchant,</it> pembayaran dengan kartu juga cukup menguntungkan karena uang yang didapat dari transaksi bisa 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="13">
+		<pagenum>5</pagenum>
+		<segment>
+			langsung diolah kembali melalui rekening bank milik <it>merchant.</it> Agar transaksi menggunakan kartu ini dapat terlaksana dengan baik, diperlukan alat yang dinamakan EDC atau <it>Electronic</it> <it>Data</it> <it>Capture.</it> Alat ini dapat digunakan untuk pembayaran penjualan, pembatalan transaksi pembayaran, dan transfer dari bank ke <it>merchant.</it> Namun alat bernama EDC tersebut tidak murah. Alat ini tergolong mahal untuk dimiliki oleh <it>merchant</it> dengan skala bisnis kecil menengah. Biaya perawatan EDC ini semakin lama juga semakin mahal. Tetapi merchant dengan skala bisnis menengah ke atas terpaksa tetap memakai EDC karena untuk saat ini tetap menguntungkan. Metode pembayaran lain yang populer adalah Go-Pay dari PT Gojek Indonesia. Cara kerjanya cukup mudah yaitu dengan melakukan pengisian saldo atau top-up pada akun Go-Pay tersebut. Lalu saldo dari akun Go-Pay tersebut akan berkurang secara otomatis ketika bertransaksi pada aplikasi Gojek. Metode ini sangat digemari masyarakat karena pengguna tidak perlu repot dengan uang tunai. Namun pengguna harus tetap mengisi saldo Go-Pay secara manual lewat akun bank pengguna apabila ingin menambah nominal saldo. Untuk menangani permasalahan tersebut BNI ingin mengembangkan sebuah aplikasi <it>mobile</it> yang terhubung langsung dengan akun bank pembeli dan dapat digunakan sebagai alat transaksi pembayaran tanpa EDC. Proses transaksinya cukup mudah yaitu dengan mendekatkan smartphone milik pembeli dan smartphone milik penjual lalu proses pembayaran akan berjalan. Proses pembayaran tersebut dapat terjadi dengan menggunakan teknologi bernama <it>high</it> <it>frequency</it> <it>sound</it> <it>wave</it> <it>technology.</it> Teknologi tersebut memungkinkan pemindahbukuan uang dari rekening bank milik pembeli ke rekening bank milik penjual.  Dengan aplikasi <it>mobile</it> tersebut, penjual dan pembeli hanya membutuhkan smartphone untuk melakukan transaksi pembayaran. Tidak perlu lagi mesin EDC ataupun kartu, cukup dengan smartphone kita dapat melakukan pembayaran dengan mudah dan cepat. Selain itu tidak perlu lagi mengisi saldo manual karena aplikasi ini 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="14">
+		<pagenum>6</pagenum>
+		<segment>
+			sudah terhubung otomatis dengan rekening bank milik pengguna. Aplikasi <it>mobile</it> ini juga dapat digunakan oleh merchant dengan skala bisnis kecil menengah. Untuk pengembangan proyek ini, penulis diberikan tugas oleh mentor untuk membuat rancangan desain arsitektural terkait pengembangan fitur aplikasi. Nantinya hasil analisis dan desain arsitektural tersebut akan digunakan sebagai pedoman untuk mengimplementasikan aplikasi ini. BNI memberikan waktu delapan minggu untuk menyelesaikan analisis dan desain dari proyek ini. Penulis akhirnya menerima pekerjaan ini berdasarkan pengalaman penulis yang telah lulus dalam mata kuliah CRM, ERP, Kombistek, Propensi, dan MLTI. 
+		</segment>
+		<title><bo>2.1.2.</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis diwajibkan untuk melakukan pembelajaran secara mandiri dari berbagai sumber. Referensi yang digunakan adalah slide presentasi dari situs Slideshare dan berbagai website dari intenet. Situs website yang digunakan yaitu pubs.opengroup.org, www.hdfcbank.com, dimo.co.id, dan berbagai situs lainnya. Selain itu penulis juga diberikan slide presentasi produk dari BNI untuk pembelajaran mengenai proses bisnis perbankan terkait proyek. 
+		</segment>
+		<title><bo>2.1.3.</bo> <bo>Metodologi</bo></title>
+		<segment>
+			Tidak ada metodologi khusus yang digunakan penulis selama melaksanakan kerja praktik. Mentor hanya memberikan target mingguan untuk penulis dalam menyelesaikan bagian analisis. Diagram model hasil analisis dan desain kemudian di- <it>review</it> secara berkala oleh mentor. Apabila terdapat kesalahan, makan penulis akan mendiskusikan kesalahan tersebut dengan mentor. Lalu penulis memperbaiki diagram model berdasarkan <it>feedback</it> tersebut dan kemudian di-<it>review</it> kembali oleh mentor. Begitu seterusnya sampai semua bagian analisis dan desain selesai dikerjakan. 
+		</segment>
+		<title><bo>2.1.4.</bo> <bo>Teknologi</bo></title>
+		<segment>
+			<bo>1.</bo> <it><bo>Software</bo></it> <bo>Archi</bo> <bo>versi</bo> <bo>3.3.2</bo> Archi adalah <it>software</it> open source untuk membuat model Archimate. <it>Software</it> ini memfasilitasi pengguna untuk membuat diagram arsitektur teknologi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="15">
+		<pagenum>7</pagenum>
+		<segment>
+			informasi skala perusahaan. Notasi Archimate memiliki konsep <it>meta-model</it> yang diusung oleh <it>framework</it> TOGAF. Penulis menggunakan software ini untuk menggambar diagram hasil analisis dan desain arsitektural atas subsistem terkait pada internal sistem BNI. Selain itu software ini juga digunakan untuk menggambar diagram hasil analisis dan desain arsitektural pada aplikasi Flip. <bo>2.</bo> <bo>Microsoft</bo> <bo>PowerPoint</bo> <bo>2016</bo> Penulis menggunakan Microsoft PowerPoint untuk membuat slide presentasi. Penulis membuat slide presentasi tentang proyek ini untuk dipresentasikan kepada pimpinan divisi. Meskipun penulis tidak ikut dalam proses presentasi karena ini proyek internal, namun mentor menggunakan presentasi ini dan ditonton oleh pimpinan divisi serta jajaran karyawan bagian ISA. 
+		</segment>
+		<title><bo>2.1.5.</bo> <bo>Non</bo> <bo>teknis</bo></title>
+		<segment>
+			Secara non teknis, penulis mendapatkan ilmu dan pengalaman berharga yang tidak didapatkan melalui perkuliahan. Banyak hal baru yang penulis peroleh selama kerja praktik, yaitu pengetahuan tentang perbankan terutama berbagai metode pembayaran yang diterapkan saat ini dan bagaimana metode pembayaran dapat diefisiensikan. Selain itu penulis juga dapat merasakan budaya kerja korporat seperti apa. Tentunya hal ini merupakan pengalaman yang berharga yang tidak akan pernah didapatkan apabila tidak melaksanakan kerja praktik. Selain itu penulis juga banyak banyak mendapatkan pengetahuan mengenai pentingnya menjaga hubungan baik dengan <it>stakeholder.</it> Apabila salah satu pihak sulit untuk dihubungi atau sulit diajak bekerjasama maka proyek terancam tidak dapat dilanjutkan. Hal ini tentunya merugikan beberapa pihak yang sudah melihat <it>opportunity</it> dari proyek tersebut. Penulis juga mendapatkan ilmu tentang sistem pengaduan pelanggan yang diterapkan BNI. Bagaimana cara BNI menangani permasalahan yang dirasakan pelanggan sampai akhirnya masalah tersebut berhasil ditangani. Selain itu BNI juga memberikan pengetahuan tentang <it>Disaster</it> <it>Recovery</it> <it>Plan</it> yang diterapkan. Seperti apa <it>back-up</it> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="16">
+		<pagenum>8</pagenum>
+		<segment>
+			<it>plan</it> yang dilaksanakan BNI apabila terjadi bencana alam yang tidak diharapkan. Bagaimana cara BNI menyelamatkan dan mengembalikan data kembali. Aspek non teknis lain yang terpenting adalah soft skills. Dengan mengerjakan proyek ini, penulis belajar untuk bekerjasama dalam tim dan manajemen waktu. Selain itu, proses desain dan analisis aplikasi ini melatih kemampuan berkomunikasi dan berpikir kritis. Selama berlangsungnya kerja praktik ini penulis juga dituntut untuk melakukan pembelajaran secara mandiri dan kreatif untuk mencari informasi yang benar, akurat, dan cepat. 
+		</segment>
+		<title><bo>2.2.</bo> <bo>Analisis</bo></title>
+		<title><bo>2.2.1.</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			Terdapat perbedaan antara rancangan awal kerja praktik yang tertulis di dokumen KAKP dengan realisasi pelaksanan kerja praktik. Di dalam KAKP tertulis bahwa kegiatan minggu pertama sampai minggu keenam adalah melakukan pembelajaran mandiri, analisis, dan desain arsitektural proyek. Sedangkan pembuatan model menggunakan software Archi dilakukan mulai dari minggu keenam sampai minggu kedelapan. Namun realisasinya adalah proses pembelajaran mandiri, analisis, dan desain arsitektural proyek dilakukan bergantian dengan pembuatan model menggunakan software Archi. Hal ini dianggap cukup efektif mengingat banyak sekali hal yang harus dianalisa dan dipelajari dalam waktu singkat sehingga model harus segera dibuat. Dengan begitu penulis bisa langsung merevisi model apabila terdapat <it>feedback</it> dari mentor terkait hasil analisis dan desain. 
+		</segment>
+		<title><bo>2.2.2.</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Pengetahuan yang didapatkan di perkuliahan menjadi bekal bagi penulis dalam melaksanakan kerja praktik. Di samping itu, banyak hal baru yang dipelajari oleh penulis dan juga beberapa perbedaan yang dirasakan penulis antara perkuliahan dan dunia kerja. Berikut ini akan dipaparkan mengenai kesesuaian dan ketidaksesuaian di dunia perkuliahan dan praktiknya di dunia kerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="17">
+		<pagenum>9</pagenum>
+		<segment>
+			<bo>1.</bo> <bo>Customer</bo> <bo>Relationship</bo> <bo>Management</bo> <bo>(CRM)</bo> Mata kuliah CRM membantu penulis dalam menganalisis kepuasan pelanggan terkait dengan aplikasi yang dibangun. Karena kepuasan pelanggan merupakan hal utama yang dijunjung oleh BNI dalam menyediakan layanan bagi nasabahnya. Selain itu mata kuliah CRM juga membantu penulis dalam menganalisis <it>value</it> yang diperoleh nasabah apabila menggunakan aplikasi layanan dari BNI. Tidak ada hal yang jauh berbeda pada saat kerja praktik karena BNI sendiri membuat semua layanan perbankannya berdasarkan kebutuhan nasabah yang beragam. <bo>2.</bo> <bo>Enterprise</bo> <bo>Resources</bo> <bo>Planning</bo> <bo>(ERP)</bo> Mata kuliah ERP membantu penulis dalam menganalisis proses bisnis sebuah layanan. Setelah mendapatkan proses bisnis yang dirasa cukup ideal, proses bisnis tersebut harus dimodelkan melalui sebuah <it>platform</it> baru agar dapat dipahami oleh berbagai <it>stakeholder.</it> Perbedaan yang dirasakan penulis terdapat pada pemodelan proses bisnis ke dalam bentuk yang baru seperti ArchiMate Modelling Tool. <bo>3.</bo> <bo>Komunikasi</bo> <bo>Bisnis</bo> <bo>dan</bo> <bo>Teknis</bo> <bo>(Kombistek)</bo> Mata kuliah Kombistek membantu penulis dalam membuat slide PowerPoint yang harus dipresentasikan di hadapan pimpinan divisi bahkan dewan direksi. Slide PowerPoint dibuat untuk mempresentasikan rancangan aplikasi hasil analisis penulis agar diimplementasikan oleh BNI. Perbedaan yang cukup mendasar adalah slide PowerPoint yang dibuat tidak boleh minimalis atau hanya menampilkan gambar-gambar saja melainkan harus menampilkan banyak kata-kata penjelasan. Hal ini membuat penulis sedikit mengalami kesulitan karena harus terus merevisi slide presentasi dengan waktu pengerjaan yang tidak banyak. <bo>4.</bo> <bo>Proyek</bo> <bo>Pengembangan</bo> <bo>Sistem</bo> <bo>Informasi</bo> <bo>(Propensi)</bo> Mata kuliah Propensi memberikan penulis pengetahuan untuk mendokumentasikan proyek dengan baik dan benar. Pembuatan dokumen yang banyak dan detail pada mata kuliah Propensi sangat membantu penulis dalam 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="18">
+		<pagenum>10</pagenum>
+		<segment>
+			menyiapkan dokumentasi aplikasi. Selain itu penulis juga memiliki kemampuan untuk menggali <it>requirement</it> dari aplikasi yang dibangun berdasarkan objektif yang dituju. Perbedaan yang penulis temukan adalah dalam hal menjaga hubungan dengan klien. Apabila klien dari BNI terasa sulit diajak bekerja sama maka dengan sendirinya BNI akan memutuskan hubungan kerja dengan klien tanpa pemberitahuan lebih lanjut. Klien yang hendak bekerja sama dengan BNI harus kooperatif dan memiliki <it>effort</it> yang kuat. Hal ini berbeda dengan Propensi yang lebih mementingkan kemauan klien yaitu dosen dan klien profesional selaku pemilik proyek. <bo>5.</bo> <bo>Manajemen</bo> <bo>Layanan</bo> <bo>Teknologi</bo> <bo>Informasi</bo> <bo>(MLTI)</bo> Mata kuliah MLTI memberikan pengetahuan bagi penulis tentang <it>framework</it> TOGAF. TOGAF merupakan salah satu <it>framework</it> arsitektur perusahaan. <it>Architecture</it> <it>Development</it> <it>Method</it> (ADM) merupakan suatu metode penerapan arsitektur perusahaan yang dipakai oleh <it>framework</it> TOGAF. BNI menerapkan <it>framework</it> TOGAF untuk pengembangan perancangan strategis sistem informasi dikarenakan ruang lingkupnya yang cukup luas. Penulis mendapatkan banyak hal dari pengaplikasian <it>framework</it> TOGAF di dalam BNI sehingga menambah pengetahuan sebelumnya yang didapat dari perkuliahan. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="19">
+		<pagenum>11</pagenum>
+		<title><bo>BAB</bo> <bo>3</bo></title>
+		<title><bo>PENUTUP</bo></title>
+		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
+		<segment>
+			Selama masa kerja praktik, penulis bekerja di divisi Solusi dan Keamanan Teknologi Informasi (STI) BNI sebagai <it>IT</it> <it>Structure</it> &amp; <it>Security</it> <it>Analyst</it> <it>Intern</it> selama delapan minggu. Penulis mendapatkan tugas untuk membuat analisis dan desain arsitektural terkait pengembangan fitur pada aplikasi <it>mobile</it> bernama Flip. Selain itu, penulis juga ditugaskan untuk membuat presentasi PowerPoint proyek kepada pimpinan divisi. Tidak ada metodologi khusus yang diterapkan penulis, mentor lebih mementingkan target mingguan yang dipenuhi secara baik dan benar. Pengetahuan yang didapat penulis selama perkuliahan sebelumnya sangat membantu penulis dalam melaksanakan kerja praktik ini. Penulis juga mendapatkan banyak sekali hal-hal baru selama melaksanakan kerja praktik di BNI. Secara keseluruhan penulis sangat bersyukur karena telah mendapat kesempatan kerja praktik di BNI 
+		</segment>
+		<title><bo>3.2.</bo> <bo>Saran</bo></title>
+		<segment>
+			Berdasarkan pengalaman kerja praktik yang sudah dialami, penulis memiliki saran terkait pelaksanaan kerja praktik.   Penulis  menyarankan  pihak  fakultas  untuk  memberikan  informasi  yang  lengkap mengenai kerja praktik pada awal semester 6. Hal ini untuk mempermudah para pelaksana kerja praktik mempersiapkan segala hal terkait.   Mulailah  mencari  lowongan  kerja  praktik  pada  awal  masa  semester  6.  Kemungkinan untuk lamaran ditolak atau tidak ditanggapi sama sekali itu sangat besar.   Carilah lowongan kerja praktik sesuai dengan minat dan bakat    Pelaksana kerja praktik kemungkinan besar akan menghadapi kesulitan dalam  memahami pengetahuan baru terkait proyek kerja praktik. Untuk itu pelaksana kerja praktik harus bersiap diri menghadapi hal tersebut. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="20">
+		<segment>
+			  Jangan  ragu  dan  malu  untuk  membangun  koneksi  dengan  seluruh  karyawan.  Dengan begitu kita akan mendapatkan pengetahuan tentang manis dan pahitnya 
+		</segment>
+		<pagenum>12</pagenum>
+		<segment>
+			lingkungan kerja. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="21">
+		<pagenum>13</pagenum>
+		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
+		<segment>
+			[1] PT. Bank Negara Indonesia (persero) Tbk. Sejarah Singkat BNI. (n.d.). June 13, 2016. http://www.bni.co.id/Portals/0/image/2014_BNI_Company_Profile_IND.pdf [2] Language Structure. (n.d.). Retrieved October 06, 2016, from http://pubs.opengroup.org/architecture/archimate2-doc/chap02.html#_Toc371945144 [3] H. (2015). Go cashless and cardless with mobile payment technology Ultracash. Retrieved October 06, 2016, from https://yourstory.com/2015/11/ultracash/ [4] EDC(Electronic Data Capture). (n.d.). Retrieved October 6, 2016, from http://www.bankjombang.com/edc-electronic-data-capture/ [5] TOGAF® version 9.1. (2013). Retrieved October 6, 2016, from  https://www.opengroup.org/togaf/ 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="22">
+		<pagenum>viii</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>1</bo></title>
+		<title><bo>KERANGKA</bo> <bo>ACUAN</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>KAKP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="23">
+		<pagenum>ix</pagenum>
+		<title><bo>LAMPIRAN</bo> <bo>2</bo></title>
+		<title><bo>LOG</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo></title>
+		<segment>
+			<bo>[Selipkan</bo> <bo>LOG</bo> <bo>KP</bo> <bo>pada</bo> <bo>halaman-halaman</bo> <bo>setelah</bo> <bo>halaman</bo> <bo>ini.</bo> <bo>Gunakan</bo> <bo>PDFMerge</bo> <bo>atau</bo> <bo>lainnya</bo> <bo>untuk</bo> <bo>melakukan</bo> <bo>hal</bo> <bo>tersebut/<it>rearrange</bo></it> <bo>halaman-halaman</bo> <bo>pada</bo> <bo>PDF]</bo> 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+
+</document>
