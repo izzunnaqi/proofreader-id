@@ -31,11 +31,27 @@ daftar jenis perbedaan lain yang tidak ada pada jenis-jenis kesalahan yang telah
 	- kesalahan penggunaan kata ganti
 	- penggabungan kalimat
 
-@misc{jaccard,
-	author = {Bill Chambers},
-	title = {Basic Statistical NLP Part 1 - Jaccard Similarity and TF-IDF},
-	howpublished = {\url{http://billchambers.me/tutorials/2014/12/21/tf-idf-explained-in-python.html}},
-	month = {Desember},
-	year = {2014},
-	note = {[Diakses pada 10 Desember 2017]}
-}
+Unannotated: 0
+PARALELLISM: 2
+WSTYLE: 0
+LOGIC: 7
+CONJ: 17
+CHANGE: 84
+BOLD: 0
+PUNCT: 15
+INCOMPLETE: 6
+TYPO: 28
+SPACE: 16
+REDUNDANT: 19
+STANDARD: 3
+VERB: 9
+SPLIT: 2
+CAPITAL: 4
+TRANS: 10
+EFF: 28
+JOIN: 0
+PRONOUN: 8
+ITALIC: 30
+PREP: 3
+ABBR: 13
+Total Pair: 304
