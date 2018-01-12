@@ -1,7 +1,8 @@
 #!/bin/bash
 
-for f in ../resource/xml/new2/*.xml;
+for f in ../resource/xml/new/*.xml;
 do
 	b=$(basename $f)
-	python parser.py $f -o 'doc/new2/'${b}
+	echo "Parsing $b..."
+	python parser.py $f -o 'doc/new/'${b}
 done

@@ -4,12 +4,44 @@
 import sys
 import re
 import feature
-from sklearn import svm
-from sklearn import metrics
+import itertools
+import numpy as np
+import matplotlib
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+from sklearn.svm import SVC, LinearSVC
+from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import GaussianNB
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import precision_recall_fscore_support, accuracy_score
+from sklearn.metrics import confusion_matrix, classification_report
 from sklearn.model_selection import cross_val_predict
 from sklearn.model_selection import train_test_split
 from sklearn.model_selection import cross_val_score
+from sklearn.model_selection import StratifiedKFold
+from sklearn.model_selection import StratifiedShuffleSplit
 from bs4 import BeautifulSoup
+
+errors = [
+			"TYPO",
+			"PUNCT",
+			"SPACE",
+			"PARALELLISM",
+			"INCOMPLETE",
+			"EFF",
+			"CAPITAL",
+			"ITALIC",
+			"ABBR",
+			"REDUNDANT",
+			"CONJ",
+			"TRANS",
+			"STANDARD",
+			"VERB",
+			"PRONOUN",
+			"PREP",
+			"LOGIC",
+			"CHANGE"
+		]
 
 
 def config():
@@ -45,7 +77,53 @@ def extract_class(xmldoc):
 
 	return err
 
-def feature_generata(pair):
+def classify_error(clf, pair_data, pair_label):	
+	skf = StratifiedKFold(n_splits=10)
+
+	predicted = cross_val_predict(clf, pair_data, pair_label, cv=skf)
+	scores = cross_val_score(clf, pair_data, pair_label, cv=skf)
+
+	return predicted
+
+
+def evaluate(pair_label, predicted, name):
+	acc = accuracy_score(pair_label, predicted)
+	precision, recall, fscore, support = precision_recall_fscore_support(pair_label, predicted, average='micro')
+
+	print '%s :'% name
+	print '\taccuracy: {}'.format(acc)
+	print '\tprecision: {}'.format(precision)
+	print '\trecall: {}'.format(recall)
+	print '\tf1: {}\n'.format(fscore)
+
+def plot_confusion_matrix(cm, classes,
+                          normalize=False,
+                          title='Confusion matrix',
+                          cmap=plt.cm.Blues):
+	
+    plt.rc('font', size=11)  
+    plt.imshow(cm, interpolation='nearest', cmap=cmap)
+    plt.colorbar()
+    tick_marks = np.arange(len(classes))
+    plt.tick_params(axis='y', labelsize=10, right=False, top=False, direction="out")
+    plt.tick_params(axis='x', labelsize=9, right=False, bottom=False, direction="out", labelbottom=False, labeltop=True)
+    plt.xticks(tick_marks, classes, rotation=70)
+    plt.yticks(tick_marks, classes)
+
+    fmt = '.2f' if normalize else 'd'
+    thresh = cm.max() / 2.
+    for i, j in itertools.product(range(cm.shape[0]), range(cm.shape[1])):
+        plt.text(j, i, format(cm[i, j], fmt),
+                 horizontalalignment="center", va="center",
+                 color="white" if cm[i, j] > thresh else "black")
+
+    plt.ylabel('True label')
+    plt.xlabel('Predicted label')		
+    ax = plt.gca()
+    ax.xaxis.set_label_position("top")
+    plt.tight_layout()
+
+def feature_generate(pair):
 	ftr = feature.Feature()
 	res = []
 
@@ -58,57 +136,45 @@ def feature_generata(pair):
 		it = ftr.italic_diff(x, y)
 		cb = ftr.count_bigram(x, y)
 		cp = ftr.count_postag(x, y)
+		sim = ftr.similarity(x, y)
 
-		res.append([fc, cd, sld, cod, dd, it, cb, cp])
+		res.append([fc, cd, sld, cod, dd, it])
 
-	return res
+	return res  
 
 def main():
 	config()
 	train_in = sys.argv[1]
-	# test_in = sys.argv[2]
 
 	train_pair = get_pair(train_in)
 	pair_label = extract_class(train_in)
-	# test_pair = get_pair(test_in)
 
-	pair_data = feature_generata(train_pair)
-	model = svm.SVC(kernel='linear', C=1)
+	pair_data = feature_generate(train_pair)
 
-	# predicted = cross_val_predict(model, pair_data, pair_label, cv=7)
-	# correct = 0
-	# for i in xrange(len(predicted)):
-	# 	print pair_label[i] , predicted[i]
-	# 	if pair_label[i] == predicted[i]:
-	# 		correct += 1
+	print '=================================================='
+	print 'Feature Set: fc, cd, sld, cod, dd, it'
+	print '=================================================='
+	pred_svm = classify_error(SVC(), pair_data, pair_label)
 
-	# print "\nCorrect: " + str(correct)
-
-
-	for i in xrange(2, 10):
 	
-		scores = cross_val_score(model, pair_data, pair_label, cv=i)
-		print "Scores " + str(i) + "-folds"
-		print scores
+	evaluate(pair_label, pred_svm, "SVC")
+	# cm = confusion_matrix(pair_label, pred_svm, labels=errors)
+	# plot_confusion_matrix(cm, classes=errors)
+	# plt.savefig("conf-mat-svm.png")
+	
+	pred_lsvm = classify_error(LinearSVC(), pair_data, pair_label)
+	evaluate(pair_label, pred_lsvm, "Linear SVC")
+	
+	pred_nb = classify_error(GaussianNB(), pair_data, pair_label)
+	evaluate(pair_label, pred_nb, "Naive Bayes")
+	
+	pred_lr = classify_error(LogisticRegression(), pair_data, pair_label)
+	evaluate(pair_label, pred_lr, "Logistic Regression")
+	
+	pred_rf = classify_error(RandomForestClassifier(), pair_data, pair_label)
+	evaluate(pair_label, pred_rf, "Random Forest")
 
-		predicted = cross_val_predict(model, pair_data, pair_label, cv=i)
-		acc = metrics.accuracy_score(pair_label, predicted) 
-		print "Accuracy: " + str(acc)
 
-		print "====================\n"
-
-	# print "<CORPUS>"
-	# m = len(res)
-	# i = 0
-	# while i < m:
-	# 	print "<PAIR>"
-	# 	print "<BEFORE>" + test_pair[i][0] + "</BEFORE>"
-	# 	print "<AFTER>" + test_pair[i][1] + "</AFTER>"
-	# 	print "<ERRTYPE>" + res[i] + "</ERRTYPE>"
-	# 	print "</PAIR>"
-	# 	print
-	# 	i += 1
-	# print "</CORPUS>"
 
 if __name__ == '__main__':
 	main()

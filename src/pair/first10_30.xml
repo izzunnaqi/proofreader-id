@@ -1,0 +1,726 @@
+<PAIR>
+<BEFORE>Dalam rangka memenuhi mata kuliah wajib fakultas, Kerja Praktik, penulis melaksanakan kerja praktik di PT Bukalapak pada 13 Juni 2016 sampai dengan 26 Agustus 2016.</BEFORE>
+<AFTER>Laporan kerja praktik ini disusun berdasarkan pengalaman penulis selama melaksanakan kerja praktik di PT Bukalapak pada 13 Juni 2016 sampai dengan 26 Agustus 2016.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Untuk pemilihan tempat pelaksanaan kerja praktik, penulis berminat pada perusahaan yang bergerak di bidang <it>e-commerce.</it> Berdasarkan minat penulis tersebut, pada akhir semester penulis mulai mencari perusahaan dan menyusun surat lamaran untuk melakukan kerja praktik.</BEFORE>
+<AFTER><bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Untuk pemilihan tempat pelaksanaan kerja praktik, penulis berminat pada perusahaan yang bergerak di bidang <it>e-commerce.</it> Berdasarkan minat tersebut, pada akhir semester penulis mulai mencari informasi perusahaan yang membuka lowongan kerja praktik.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada saat itu juga penulis melampirkan berkas identitas kepada PT Sanghiang Perkasa (KALBE Nutritionals) karena perusahaan tersebut membuka lowongan kerja praktik untuk mengembangkan situs <it>e-commerce</it> milik perusahaan tersebut.</BEFORE>
+<AFTER>Setelah acara tersebut selesai, penulis melampirkan berkas identitas kepada PT Sanghiang Perkasa (KALBE Nutritionals) karena perusahaan tersebut membuka lowongan kerja praktik untuk mengembangkan situs <it>e-commerce</it> miliknya.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah menunggu beberapa hari penulis mendapat <it>email</it> balasan untuk melanjutkan ke tahap seleksi wawancara dan tes pemrograman.</BEFORE>
+<AFTER>Setelah menunggu beberapa hari, penulis mendapat <it>email</it> balasan untuk melanjutkan ke tahap seleksi wawancara dan tes pemrograman.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kejahatan yang sering ditemui sekarang ini adalah penipuan terhadap harga barang dimana harga yang diberikan jauh lebih murah dari harga pasaran.</BEFORE>
+<AFTER>Kejahatan yang sering ditemui sekarang ini adalah penipuan terhadap harga barang di mana harga yang diberikan jauh lebih rendah dari harga pasaran.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Ditambah lagi dengan pemberian nama produk dan deskripsi produk yang menambah minat <it>customer</it> untuk membeli barang tersebut.</BEFORE>
+<AFTER>Ditambah lagi dengan pemberian nama produk dan deskripsi produk yang menarik menambah minat <it>customer</it> untuk membeli barang tersebut.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk menangani kasus penipuan tersebut penulis diberikan tugas untuk mengembangkan sebuah sistem berupa <it>dashboard</it> pada halaman <it>admin.</it> <it>Dashboard</it> ini diberi nama <it>Product</it> <it>Keywords</it> dan <it>Product</it> <it>Keyword</it> <it>Suspects,</it> fungsinya adalah untuk melakukan manajemen data produk seperti nama, harga, dan deskripsi produk juga menampilkan produk-produk yang terindikasi adanya penipuan melalui harga dan nama barang yang tidak sesuai.</BEFORE>
+<AFTER>Untuk menangani kasus penipuan tersebut penulis diberikan tugas untuk mengembangkan sebuah sistem berupa <it>dashboard</it> pada halaman <it>admin.</it> <it>Dashboard</it> ini diberi nama <it>Product</it> <it>Keywords</it> dan <it>Product</it> <it>Keyword</it> <it>Suspects,</it> fungsinya adalah untuk melakukan manajemen data produk seperti nama, harga, dan deskripsi produk juga menampilkan produk-produk yang terindikasi adanya penipuan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Dashboard</it> ini nantinya akan digunakan oleh tim Anti Fraud untuk melakukan investigasi terhadap produk yang terindikasi adanya penipuan tersebut.</BEFORE>
+<AFTER><it>Dashboard</it> ini nantinya akan digunakan oleh tim Anti Fraud untuk melakukan investigasi terhadap produk yang terindikasi adanya penipuan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tim Trust and Safety ini adalah tim yang baru dibentuk pada bulan Februari lalu sehingga tim ini membuat sebuah sistem baru yaitu <it>fraud</it> <it>detection</it> <it>system</it> yang khusus dibuat untuk menangani kasus penipuan bernama <it>Sieve.</it> Oleh karena itu, penulis juga ikut berkontribusi dalam menyiapkan kebutuhan dalam proses pembuatan sistem tersebut, seperti melakukan <it>user</it> <it>requirement</it> <it>gathering,</it> merancang <it>mockup,</it> dokumentasi, dan membantu membuat sisi <it>front</it> <it>end</it> dari sistem tersebut.</BEFORE>
+<AFTER>Tim Trust and Safety ini adalah tim yang baru dibentuk pada bulan Februari lalu sehingga tim ini membuat sebuah sistem baru yaitu <it>fraud</it> <it>detection</it> <it>system</it> yang khusus dibuat untuk menangani kasus penipuan bernama <it>Sieve.</it> Oleh karena itu, penulis juga ikut berkontribusi dalam menyiapkan kebutuhan dalam proses pembuatan sistem tersebut, seperti melakukan <it>user</it> <it>requirement</it> <it>gathering,</it> merancang <it>mockup</it> dan <it>workflow</it> dari sistem, dokumentasi, dan membantu membuat sisi <it>front</it> <it>end</it> dari sistem tersebut.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>1.</it> <it>Task</it> <it>detailing</it> Proses ini adalah proses dimana seluruh anggota tim menentukan <it>backlog</it> dan dilakukan pembobotan untuk setiap <it>backlog.</it> <it>2.</it> <it>Sprint</it> <it>planning</it> <it>Sprint</it> <it>planning</it> ini dilakukan sebelum proses <it>sprint</it> berlangsung.</BEFORE>
+<AFTER><it>1.</it> <it>Task</it> <it>detailing</it> Proses ini adalah proses di mana seluruh anggota tim menentukan <it>backlog</it> dan dilakukan pembobotan untuk setiap <it>backlog.</it> <it>2.</it> <it>Sprint</it> <it>planning</it> <it>Sprint</it> <it>planning</it> ini dilakukan sebelum proses <it>sprint</it> berlangsung.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam proses ini dilakukan <it>sprint</it> <it>retrospective</it> dan penentuan <it>backlog</it> yang akan dimasukan ke dalam <it>sprint.</it> <it>3.</it> <it>Sprint</it><it>Sprint</it> merupakan proses pengerjaan <it>sprint</it> <it>backlog</it> yang telah ditentukan ketika <it>sprint</it> <it>planning</it> dan proses ini dilakukan selama 2 minggu.</BEFORE>
+<AFTER>Dalam proses ini dilakukan <it>sprint</it> <it>retrospective</it> dan penentuan <it>backlog</it> yang akan dimasukan ke dalam <it>sprint.</it> <it>3.</it> <it>Sprint</it> <it>Sprint</it> merupakan proses pengerjaan <it>sprint</it> <it>backlog</it> yang telah ditentukan ketika <it>sprint</it> <it>planning</it> dan proses ini dilakukan selama 2 minggu.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Informasi-informasi seputar magang baik itu perihal pengalaman, kenyamanan lingkungan kerja, gaji, dan perhitungan lain, penulis dapati pada awalnya dengan bertanya kepada senior yang melaksanakan kerja praktik pada tahun 2015.</BEFORE>
+<AFTER>Informasi seputar magang baik itu perihal pengalaman, kenyamanan lingkungan kerja, gaji, dan perhitungan lain, penulis dapati pada awalnya dengan bertanya kepada senior yang melaksanakan kerja praktik pada tahun 2015.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Terdapat banyak sekali referensi yang cukup baik serta saran untuk kerja praktik pada <it>startup-</it> <it>startup</it> seperti Tokopedia, Bukalapak, Traveloka, Veritrans, dan lain-lain.</BEFORE>
+<AFTER>Terdapat banyak sekali referensi yang cukup baik serta saran untuk kerja praktik pada <it>startup-startup</it> seperti Tokopedia, Bukalapak, Traveloka, Veritrans, dan lain-lain.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sebagai seorang <it>back</it> <it>end</it> <it>developer</it> <it>software</it> <it>engineer,</it> penulis diposisikan untuk berada di tim <it>Revention.</it> Tim <it>Revention</it> berfokus pada <it>developing</it> dan <it>maintaining</it> fitur-fitur pada produk Bukalapak yang berfokus pada fitur untuk pendapatan perusahaan serta membuat <it>user</it> (pembeli) kembali berbelanja lagi di Bukalapak.</BEFORE>
+<AFTER>Sebagai seorang <it>back</it> <it>end</it> <it>developer</it> <it>software</it> <it>engineer,</it> penulis diposisikan untuk berada di tim Revention.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada bagian <it>logic</it> untuk <it>front-</it> <it>end,</it> Rails juga menggunakan coffee-script di mana fungsinya adala sebagai <it>pre-</it> <it>processing</it> untuk javascript dengan <it>syntax</it> yang dipermudah dan diperjelas secara intuitif.</BEFORE>
+<AFTER>Pada bagian <it>logic</it> untuk <it>front-end,</it> Rails juga menggunakan coffee-script di mana fungsinya adala sebagai <it>pre-processing</it> untuk javascript dengan <it>syntax</it> yang dipermudah dan diperjelas secara intuitif.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis juga belajar untuk menggunakan Mongodb sebagai salah satu database <it>website</it> no-SQL.</BEFORE>
+<AFTER>Penulis juga belajar untuk menggunakan Mongodb sebagai salah satu database <it>website</it> <it>no-SQL.</it> Terlepas dari penggunaan umum <it>relational</it> <it>database</it> seperti Mysql ataupun semacamnya, Mongodb adalah <it>non-relational</it> <it>database.</it> Untuk menggunakan Mongodb sebagai salah satu <it>database</it> pada Rails, perlu ada <it>connector</it> tambahan yang dinamakan Mongoid.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Mongoid adalah ODM (<it>Object-Document-Mapper)</it> untuk model pada Rails dan digunakan sebagai pelengkap ORM (<it>Object-Relational-Mapper)</it> pada Rails.</BEFORE>
+<AFTER>Mongoid adalah ODM (<it>Object-Document-</it> <it>Mapper)</it> untuk model pada Rails dan digunakan sebagai pelengkap ORM (<it>Object-</it> <it>Relational-Mapper)</it> pada Rails.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hal ini disebabkan karena metode pengembangan <it>software</it> pada Bukalapak yang bersifat <it>agile.</it> Belum terdapat detail dari fitur yang dapat dikerjakan oleh penulis karena <it>backlog</it> yang ada mungkin saja berkurang atau bertambah pada <it>sprint</it> berikutnya.</BEFORE>
+<AFTER>Hal ini karena metode pengembangan <it>software</it> pada Bukalapak yang bersifat <it>agile.</it> Belum terdapat detail dari fitur yang dapat dikerjakan oleh penulis karena <it>backlog</it> yang ada mungkin saja berkurang atau bertambah pada <it>sprint</it> berikutnya.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pengerjaan fitur tersebut dilakukan kurang lebih selama satu-dua minggu bersamaan dengan pembelajaran <it>framework</it> yang digunakan.</BEFORE>
+<AFTER>Pengerjaan fitur tersebut dilakukan kurang lebih selama satu-dua minggu bersamaan dengan pembelajaran <it>framework</it>yang digunakan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selama masa KP, penulis mengerjakan berbagai fitur yang terkait dengan <it>retention</it> dan <it>revenue</it> Bukalapak.</BEFORE>
+<AFTER>Selama masa KP, penulis mengerjakan berbagai fitur yang terkait dengan <it>retention</it> dan pendapatan (<it>revenue)</it> Bukalapak.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada saat itu, penulis mencoba untuk mendaftarkan diri pada tiga perusahaan yang berada di luar negeri: Google Inc., Sabre Coorporation, dan Siemens United Kingdom (UK).</BEFORE>
+<AFTER>Pada saat itu, penulis mengajukan aplikasi ketiga perusahaan yang berada di luar negeri: Google Inc., Sabre Coorporation, dan Siemens United Kingdom (UK).</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk Google Inc. dan Sabre Coorporation, penulis dinyatakan gagal pada <it>interview</it> tahap awal.</BEFORE>
+<AFTER>Pada seleksi magang di Google Inc. dan Sabre Coorporation, penulis dinyatakan gagal pada wawancara tahap awal.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Karena baru tahap awal, kedua perusahaan tersebut belum bisa memberikan <it>feedback</it> terkait dengan <it>interview</it> yang dilakukan.</BEFORE>
+<AFTER>Karena baru tahap awal, kedua perusahaan tersebut belum bisa memberikan <it>feedback</it> terkait dengan wawancara yang dilakukan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk Siemens UK, penulis telah mengikuti <it>test</it> <it>online</it> dan dua buah <it>interview.</it> <it>Interview</it> pertama dilakukan dengan <it>recruiter,</it> yang mana penulis dihadapi dengan pertanyaan logika dan pengalaman ketika menjadi pemimpin.</BEFORE>
+<AFTER>Pada seleksi magang di Siemens UK, penulis telah mengikuti <it>online</it> <it>test</it> dan dua buah wawancara.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sementara itu untuk <it>interview</it> kedua, yang merupakan final <it>interview,</it> dilakukan dengan <it>Project</it> <it>Manager.</it> Pertanyaan yang diberikan pada interview tahap terakhir ini lebih banyak mengenai studi kasus.</BEFORE>
+<AFTER>Wawancara tahap kedua, yang merupakan <it>final</it> <it>interview,</it> dilakukan dengan <it>Project</it> <it>Manager.</it> Pertanyaan yang diberikan pada wawancara tahap akhir ini lebih banyak mengenai studi kasus.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah selesai mengikuti serangkaian proses seleksi, pada akhir bulan Februari 2016 penulis mendapatkan informasi bahwa Siemens UK belum bisa menerima penulis sebagai <it>intern,</it> tanpa memberikan <it>feedback</it> lebih lanjut.</BEFORE>
+<AFTER>Setelah selesai mengikuti serangkaian proses seleksi pada akhir bulan Februari 2016, penulis mendapatkan informasi bahwa Siemens UK belum bisa menerima penulis sebagai <it>intern</it> tanpa memberikan <it>feedback</it> lebih lanjut.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Alasannya karena Traveloka merupakan perusahaan teknologi yang paling berkembang di Indonesia dan memiliki standar yang tinggi dalam merekrut karyawannya.</BEFORE>
+<AFTER>Alasannya adalah Traveloka merupakan perusahaan teknologi yang paling berkembang di Indonesia dan memiliki standar yang tinggi dalam merekrut karyawannya.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itu, mahasiswa Fasilkom yang melaksanakan kerja praktik di sana akan “bermain” dengan teknologi terbaru, dan dibimbing oleh mentor-mentor yang berkualitas.</BEFORE>
+<AFTER>mahasiswa Fasilkom yang melaksanakan kerja praktik di Traveloka akan menggunakan teknologi terbaru dan dibimbing oleh mentor-mentor yang berkualitas.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah memutuskan untuk mendaftar Traveloka, penulis pun menghubungi salah satu pegawai Traveloka yaitu Elsa Anggraini Darwin (Fasilkom 2010) dan menyampaikan maksud dari penulis.</BEFORE>
+<AFTER>Setelah memutuskan untuk mengajukan lamaran ke Traveloka, penulis pun menghubungi salah seorang pegawai Traveloka yaitu Elsa Anggraini Darwin (Fasilkom 2010).</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada awalnya, karena ketertarikan penulis dalam bidang data, penulis ingin melamar sebagai <it>Data</it> <it>Analyst</it> <it>Intern.</it> Akan tetapi, Elsa merekomendasikan penulis untuk mencoba posisi <it>Marketing</it> <it>Technology</it> yang dapat dianggap seperti <it>Data</it> <it>Analyst</it> khusus untuk tim <it>Marketing.</it> Elsa merekomendasikan hal tersebut karena menurut dia, ilmu yang penulis dapatkan pada mata kuliah sistem informasi akan ikut terpakai.</BEFORE>
+<AFTER>Akan tetapi, Elsa merekomendasikan penulis untuk mencoba posisi <it>Marketing</it> <it>Technology</it> yang dapat dianggap seperti <it>Data</it> <it>Analyst</it> khusus untuk tim <it>Marketing.</it> Rekomendasi Elsa berdasarkan pertimbangan bahwa ilmu yang penulis dapatkan pada mata kuliah sistem informasi akan banyak diterapkan karena posisi <it>Marketing</it> <it>Technology</it> lebih dekat dengan bisnis, sedangkan <it>Data</it> <it>Analyst</it> lebih dekat dengan <it>Engineering.</it> Di sisi lain, menurut Elsa, karakter penulis yang extrovert serta suka berinteraksi dengan orang lain sepertinya akan cocok dengan tim di <it>Marketing</it> <it>Technology.</it> Akhirnya Elsa pun memberikan <it>referral</it> bagi penulis untuk melamar posisi <it>Marketing</it> <it>Technology</it> <it>Intern.</it> Dua minggu setelah <it>referral</it> diberikan, penulis menerima telepon dari <it>recruiter</it> Traveloka.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hal ini karena <it>Marketing</it> <it>Technology</it> lebih dekat dengan bisnis jika dibandingkan dengan <it>Data</it> <it>Analyst</it> yang lebih dekat dengan <it>engineering.</it> Di sisi lain, karakter penulis juga sepertinya akan lebih cocok dengan tim di <it>Marketing</it> <it>Technology.</it> Setelah berdiskusi dengan cukup panjang, akhirnya penulis menyetujui hal tersebut dan Elsa pun memberikan <it>referral</it> untuk posisi <it>Marketing</it> <it>Technology</it> <it>Intern.</it> Dua minggu setelah <it>referral</it> diberikan, penulis menerima telepon dari <it>recruiter</it> Traveloka dan dijadwalkan untuk mengikuti wawancara tahap 1 di Traveloka HQ, Wisma 77 Tower 2 satu minggu kemudian.</BEFORE>
+<AFTER>Akan tetapi, Elsa merekomendasikan penulis untuk mencoba posisi <it>Marketing</it> <it>Technology</it> yang dapat dianggap seperti <it>Data</it> <it>Analyst</it> khusus untuk tim <it>Marketing.</it> Rekomendasi Elsa berdasarkan pertimbangan bahwa ilmu yang penulis dapatkan pada mata kuliah sistem informasi akan banyak diterapkan karena posisi <it>Marketing</it> <it>Technology</it> lebih dekat dengan bisnis, sedangkan <it>Data</it> <it>Analyst</it> lebih dekat dengan <it>Engineering.</it> Di sisi lain, menurut Elsa, karakter penulis yang extrovert serta suka berinteraksi dengan orang lain sepertinya akan cocok dengan tim di <it>Marketing</it> <it>Technology.</it> Akhirnya Elsa pun memberikan <it>referral</it> bagi penulis untuk melamar posisi <it>Marketing</it> <it>Technology</it> <it>Intern.</it> Dua minggu setelah <it>referral</it> diberikan, penulis menerima telepon dari <it>recruiter</it> Traveloka.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dua soal pertama merupakan pertanyaan seputar pemrograman, dan dua soal lainnya merupakan analisis mengenai penggunaan data dalam membantu perusahaan untuk menyelesaikan kasus-kasus tertentu.</BEFORE>
+<AFTER>Dua soal pertama merupakan pertanyaan seputar pemrograman dan dua soal lainnya merupakan analisis mengenai penggunaan data dalam membantu perusahaan untuk menyelesaikan kasus-kasus tertentu.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada wawancara ini, penulis diwawancarai oleh <it>Marketing</it> <it>Technology</it> <it>Lead.</it> Pada tahap ini, penulis diberikan tiga jenis pertanyaan.</BEFORE>
+<AFTER>Pada wawancara tahap kedua, penulis diwawancarai oleh <it>Marketing</it> <it>Technology</it> <it>Lead</it> dan diberikan tiga jenis pertanyaan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pertanyaan pertama adalah sedikit mengenai kehidupan di kampus seperti aktivitas dan mata kuliah yang disukai.</BEFORE>
+<AFTER>Pertanyaan pertama adalah eksplorasin mengenai kehidupan di kampus seperti aktivitas dan mata kuliah yang disukai.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Meskipun pertanyaan pemrograman lebih mudah, namun pertanyaan analisis yang diberikan pada tahap kedua lebih sulit jika dibandingkan pertanyaan yang diberikan pada tahap pertama.</BEFORE>
+<AFTER>Pertanyaan pemrograman tahap kedua lebih mudah daripada pertanyaan pada tahap pertama, sebaliknya pertanyaan analisis yang diberikan pada tahap kedua lebih sulit.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sebagai <it>data-driven</it> <it>company,</it> segala keputusan bisnis yang ada di Traveloka harus berdasarkan data yang ada.</BEFORE>
+<AFTER>Sebagai <it>data-driven</it> <it>company,</it> segala keputusan bisnis yang ada di Traveloka harus didasari oleh data yang ada.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka namun belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.</BEFORE>
+<AFTER>Hasil pengukuran ini kemudian akan digunakan sebagai bahan pertimbangan perencanaan pemasangan TVC oleh tim <it>Media</it> <it>Planner.</it> Saat penulis memulai kerja praktik, perhitungan efektivitas dari TVC sudah dilakukan oleh Traveloka tetapi belum secara otomatis dan bersifat <it>adhoc</it> sehingga tidak memungkinkan untuk dilakukan visualisasi terhadap hasil perhitungan tersebut.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, meskipun tim <it>Media</it> <it>Planner</it> membutuhkan data efektivitas dari TVC setiap hari untuk merencanakan TVC keesokan harinya, namun perhitungan efektivitas tersebut dilakukan secara mingguan.</BEFORE>
+<AFTER>Selain itu, meskipun tim <it>Media</it> <it>Planner</it> setiap harinya membutuhkan data efektivitas TVC untuk merencanakan TVC keesokan hari, perhitungan efektivitas TVC dilakukan dengan frekuensi mingguan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hal ini dikarenakan proses bisnis yang masih belum efisien, dan proses perhitungan efektivitas yang masih belum otomatis sehingga akan sangat merepotkan apabila perhitungan tersebut dilakukan secara harian.</BEFORE>
+<AFTER>Frekuensi perhitungan tersebut terjadi karena proses bisnis yang masih belum efisien sehingga tidak dapat dilakukan secara harian.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hasil visualisasi ini kemudian digunakan oleh tim <it>Media</it> <it>Planner</it> untuk mendapakan <it>insight</it> terkait TVC dengan memanfaatkan data historis dari efektivitas TVC tersebut, untuk kemudian membuat keputusan terkait perencanaan TVC keesokan hari.</BEFORE>
+<AFTER>Hasil visualisasi ini kemudian digunakan oleh tim <it>Media</it> <it>Planner</it> untuk mendapatkan <it>insight</it> terkait TVC dengan memanfaatkan data historis dari efektivitas TVC tersebut, untuk kemudian membuat keputusan terkait perencanaan TVC keesokan hari.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>DBMS ini didesain agar dapat melakukan agregasi data dan <it>query</it> dengan sangat cepat, relatif terhadap DBMS lainnya.</BEFORE>
+<AFTER>DBMS ini didesain agar dapat melakukan agregasi data dan <it>query</it> dengan sangat cepat, jika dibandingkan dengan DBMS lainnya.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selama proyek kerja praktik, penulis menggunakan <it>tools</it> T untuk membuat <it>swimlane</it> diagram, <it>script</it> <it>flow,</it> ERD, dan diagram lainnya.</BEFORE>
+<AFTER>Selama proyek kerja praktik, penulis menggunakan T untuk membuat <it>swimlane</it> diagram, <it>script</it> <it>flow,</it> ERD, dan diagram lainnya.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis telah melaksanakan kerja praktik selama tiga bulan di Traveloka dengan posisi <it>Marketing</it> <it>Technology</it> <it>Intern</it> pada divisi <it>Marketing</it> <it>Technology</it> yang berada di bawah departement <it>Marketing</it> & <it>Analytics.</it> Selama menjalani kerja praktik, penulis diberikan tanggung jawab untuk mengotomatiskan proses pengelolaan data TVC dan melakukan visualisasi terhadap hasil perhitungan efektivitas dari TVC tersebut.</BEFORE>
+<AFTER>Penulis telah melaksanakan kerja praktik selama tiga bulan di Traveloka dengan posisi <it>Marketing</it> <it>Technology</it> <it>Intern</it> pada divisi <it>Marketing</it> <it>Technology</it> yang berada di bawah departement <it>Marketing</it> & <it>Analytics.</it> Selama menjalani kerja praktik, penulis diberikan tanggung jawab untuk mengotomasi proses pengelolaan data TVC dan melakukan visualisasi terhadap hasil perhitungan efektivitas dari TVC tersebut.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Meskipun tidak mudah, pemilihan tempat kerja praktik yang tepat merupakan hal fundamental pada mata kuliah kerja praktik ini.</BEFORE>
+<AFTER>Pemilihan tempat kerja praktik yang tepat merupakan hal fundamental.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis merasa pengalaman ini adalah pengalaman berharga dan Traveloka, terutama divisi <it>Marketing</it> <it>Technology,</it> merupakan salah satu tempat yang ideal untuk melaksanakan kerja praktik.</BEFORE>
+<AFTER>Menurut penulis, Traveloka, terutama divisi <it>Marketing</it> <it>Technology,</it> merupakan tempat yang baik untuk melaksanakan kerja praktik.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Available: https://sites.google.com/a/traveloka.com/working-at-traveloka/about-traveloka [Accessed : 14- Jun- 2016] [2]"Traveloka.com - Careers - Join a world class team in Indonesia!</BEFORE>
+<AFTER>Tersedia: https://sites.google.com/a/traveloka.com/working-at-traveloka/about-traveloka [Diakses : 14- Jun- 2016] [2]"Traveloka.com - Careers - Join a world class team in Indonesia!</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Available: https://www.traveloka.com/careers.</BEFORE>
+<AFTER>Tersedia: https://www.traveloka.com/careers.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>[Accessed: 30- Oct- 2016].</BEFORE>
+<AFTER>[Diakses: 30- Okt- 2016].</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itu pelaksana kerja praktik memiliki pertimbangan untuk mencari tempat kerja praktik yang bisa memberikan pengalaman yang lebih bagi pelaksana kerja praktik.</BEFORE>
+<AFTER>Oleh karena itu, pelaksana kerja praktik memiliki pertimbangan untuk mencari tempat kerja praktik yang bisa memberikan pengalaman yang lebih bagi pelaksana kerja praktik.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pekerjaan yang diminati oleh pelaksana kerja praktik adalah <it>Data</it> <it>Analyst,</it> <it>Business</it> <it>Development</it> atau <it>System</it> <it>Analyst.</it> Proses pencarian kerja praktik pelaksana kerja praktik dimulai dengan cara melamar ke beberapa startup seperti Traveloka, Kudo, dll.</BEFORE>
+<AFTER>Pekerjaan yang diminati oleh pelaksana kerja praktik adalah <it>data</it> <it>analytics,</it> <it>business</it> <it>development</it> atau <it>system</it> <it>analyst.</it> Proses pencarian kerja praktik pelaksana kerja praktik dimulai dengan cara melamar ke beberapa <it>startup</it> seperti Traveloka, Kudo, dll.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu bila pada website perusahaan tersebut tidak memiliki halaman penerimaan, pelaksana kerja praktik mengirim <it>e-mail</it> yang ditunjukan kepada <it>e-mail</it> perusahaan tersebut, baik <it>e-mail</it> penerimaan ataupun email informasi.</BEFORE>
+<AFTER>Selain itu, bila pada <it>website</it> perusahaan tersebut tidak memiliki halaman penerimaan, pelaksana kerja praktik mengirim <it>e-mail</it> yang ditunjukan kepada <it>e-mail</it> perusahaan tersebut, baik <it>e-mail</it> penerimaan ataupun email informasi.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada proses melamar ini pelaksana kerja praktik melampirkan <it>Curicullum</it> <it>Vitae</it> <it>(CV)</it> yang berisi biodata, kemampuan, dan pengalaman yang dimiliki pelaksana kerja praktik.</BEFORE>
+<AFTER>Pada proses melamar ini, pelaksana kerja praktik melampirkan <it>Curicullum</it> <it>Vitae(CV)</it> yang berisi biodata, kemampuan, dan pengalaman yang dimiliki pelaksana kerja praktik.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>E-mail</it> tersebut dibalas kurang dari setengah jam dari pelaksana kerja praktik mengirimkan <it>e-mail,</it> dan menunjukan ketertarikan dan mengundang untuk <it>interview.</it> Proses <it>interview</it> membahas pengalaman dan kemampuan teknis yang pelaksana kerja praktik miliiki dan yang perusahaan butuhkan.</BEFORE>
+<AFTER><it>E-mail</it> tersebut dibalas kurang dari setengah jam dari pelaksana kerja praktik mengirimkan <it>e-mail.</it> Isi <it>e-mail</it> balasan tersebut menunjukan ketertarikan dari pihak GO-JEK dan mengundang untuk sesi <it>interview.</it> Proses <it>interview</it> membahas pengalaman dan kemampuan teknis yang pelaksana kerja praktik miliiki dan yang perusahaan butuhkan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada akhirnya pelaksana kerja praktik diterima di GO- JEK sebagai <it>Business</it> <it>Intelligence</it> <it>Intern.</it></BEFORE>
+<AFTER>Pada akhirnya pelaksana kerja praktik diterima di GO-JEK sebagai <it>Business</it> <it>Intelligence</it> <it>Intern.</it></AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>GO-JEK merupakan sebuah <it>startup</it> teknologi informasi yang sedang berkembang dengan pesat.</BEFORE>
+<AFTER>GO-JEK merupakan sebuah startup teknologi informasi yang sedang berkembang dengan pesat.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Perkembangan ini ditandai dengan banyaknya mitra pengendara ojek dan layanan yang sudah lebih dari sepuluh kota di Indonesia.</BEFORE>
+<AFTER>Perkembangan ini ditandai dengan banyaknya mitra pengendara ojek dan layanan yang sudah ada di lebih dari sepuluh kota di Indonesia.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itulah dalam mengambil keputusan, perusahaan harus benar-benar cermat dan hati-hati.</BEFORE>
+<AFTER>Oleh karena itu, perusahaan dalam mengambil keputusan harus benar-benar cermat dan hati- hati.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>GO-JEK memanfaatkan data yang dimilikinya untuk dijadikan dasar dalam setiap mengambil keputusan.</BEFORE>
+<AFTER>GO- JEK memanfaatkan data yang dimilikinya untuk dijadikan dasar dalam setiap mengambil keputusan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Divisi <it>Business</it> <it>Intelligence</it> memiliki peran untuk mendukung perusahaan dalam mengambil keputusan berdasarkan <it>insight</it> dari data yang diolah dan dianalisis secara mendalam.</BEFORE>
+<AFTER>Divisi <it>Business</it> <it>Intelligence</it> inilah yang memiliki peran mendukung perusahaan dalam mengambil keputusan berdasarkan <it>insight</it> dari data yang dianalisis secara mendalam.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam menjalankan perannya divisi <it>Business</it> <it>Intelligence</it> di GO-JEK berada dekat dengan setiap produk atau layanan yang dimilikinya, hal ini bertujuan agar pengembangan produk atau layanan dapat terbantu dengan adanya <it>insight</it> yang diberikan oleh divisi <it>Business</it> <it>Intelligence.</it> Tugas utama dari divisi <it>Business</it> <it>Intelligence</it> yaitu <it>Extract,</it> <it>Transform,</it> <it>Load</it> <it>(ETL)</it> <it>Processing,</it> <it>data</it> <it>visualization,</it> <it>increasing</it> <it>the</it> <it>usability</it> <it>of</it> <it>data</it> <it>throughout</it> <it>business</it> <it>unit.</it> Ketiga tugas utama itu juga yang menjadi tugas <it>Business</it> <it>Intelligence</it> <it>intern</it> selama masa kerja praktik disana.</BEFORE>
+<AFTER>Hal ini bertujuan agar pengembangan produk atau layanan dapat terbantu dengan adanya <it>insight</it> yang diberikan oleh divisi <it>Business</it> <it>Intelligence.</it> Tugas utama dari divisi <it>Business</it> <it>Intelligence</it> yaitu <it>Extract,</it> <it>Transform,</it> <it>Load</it> <it>(ETL)</it> <it>Processing,</it> <it>data</it> <it>visualization,</it> <it>increasing</it> <it>the</it> <it>usability</it> <it>of</it> <it>data</it> <it>throughout</it> <it>business</it> <it>unit.</it> Ketiga tugas utama itu juga yang menjadi tugas <it>Business</it> <it>Intelligence</it> <it>intern</it> selama masa kerja praktik disana.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sebagian besar teknologi yang digunakan adalah teknologi baru bagi pelaksana kerja praktik, yang belum pernah digunakan oleh pelaksana kerja praktik sebelumnya.</BEFORE>
+<AFTER>Sebagian besar teknologi yang digunakan adalah teknologi baru bagi pelaksana ke rja praktik, yang belum pernah digunakan oleh pelaksana kerja praktik sebelumnya.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Teknologi yang digunakan diantaranya: • PostgresSQL, MySQL, dan MongoSQL yang merupakan <it>relational</it> <it>database</it> <it>management</it> <it>system</it> (RDMS) yang digunakan untuk penyimpanan data, • Python yang merupakan bahasa pemrograman yang digunakan oleh pelaksana kerja praktik untuk melakukan analisis terhadap data, • PHP, HTML, CSS, JSON, dan Javascript yang merupakan bahasa pemrograman yang digunakan oleh pelaksana kerja praktik untuk membuat <it>dashboard,</it> • Xampp yang merupakan <it>tools</it> yang digunakan oleh pelaksana kerja praktik untuk membuat <it>environtment</it> <it>local</it> dimana pelaksana kerja praktik melakukan <it>development</it> <it>system</it> • Geojson.io, yang digunakan pelaksana kerja praktik untuk memvalidasi dan melakukan <it>polygoning</it> peta, •  JIRA yang merupakan <it>project</it> <it>management</it> <it>tools,</it>  • Sequal Pro dan Mysql Workbench yang merupakan <it>database</it> <it>management</it> <it>tools,</it> dan • Slack, merupakan <it>tools</it> komunikasi antar karyawan.</BEFORE>
+<AFTER>Teknologi yang digunakan diantaranya: • PostgresSQL, MySQL, dan MongoSQL, yang merupakan <it>Relational</it> <it>Database</it> <it>Management</it> <it>System</it> (RDMS) yang digunakan untuk penyimpanan data, • Python, yang merupakan bahasa pemrograman yang digunakan oleh pelaksana kerja praktik untuk melakukan analisis terhadap data, • PHP, HTML, CSS, JSON, dan Javascript, yang merupakan bahasa pemrograman yang digunakan oleh pelaksana kerja praktik untuk membuat <it>dashboard,</it> • Xampp, yang merupakan <it>tools</it> yang digunakan oleh pelaksana kerja praktik untuk membuat <it>environtment</it> <it>local</it> dimana pelaksana kerja praktik melakukan <it>development</it> <it>system</it> , • Geojson.io, yang digunakan pelaksana kerja praktik untuk melakukan validasi dan melakukan <it>polygoning</it> peta, • JIRA, yang merupakan <it>project</it> <it>management</it> <it>tools,</it> • Sequal Pro dan Mysql Workbench, yang merupakan <it>database</it> <it>management</it> <it>tools,</it> dan • Slack, yang merupakan <it>tools</it> komunikasi antar karyawan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Terlebih pada bagian <it>data</it> <it>retrieval</it> dan <it>data</it> <it>warehousing.</it> • Dasar-Dasar Pemrograman (DDP)  Pemanfaatan materi kuliah DDP yang pelaksana kerja praktik rasakan pada pelaksanaan kerja praktik adalah konsep <it>OOP</it> <it>(Object</it> <it>Oriented</it> <it>Programming)</it> dan tipe data ketika pelaksana kerja praktik mengerjakan proyek yang membutuhkan kemampuan programming, seperti Gender Predictor, Dashboard System dll.</BEFORE>
+<AFTER>Terlebih pada bagian <it>data</it> <it>retrieval</it> dan <it>data</it> <it>warehousing.</it> • Dasar-Dasar Pemrograman (DDP)  Pemanfaatan materi kuliah DDP yang pelaksana kerja praktik rasakan pada pelaksanaan kerja praktik adalah konsep <it>OOP</it> <it>(Object</it> <it>Oriented</it> <it>Programming)</it> dan tipe data ketika pelaksana kerja praktik mengerjakan projek yang membutuhkan kemampuan programming, seperti <it>Gender</it> <it>Predictor,</it> <it>Dashboard</it> <it>System</it> dll.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>• Business Intelligence Pelaksana kerja praktik yang bekerja di divisi business intelligence tentu harus mempraktekan segala hal yang berhubungan dengan <it>database,</it> <it>data</it> <it>warehousing,</it> <it>report,</it> <it>dashboard,</it> <it>classification,</it> dll.</BEFORE>
+<AFTER>• Business Intelligence Pelaksana kerja praktik yang bekerja di divisi <it>Business</it> <it>Intelligence</it> tentu harus mempraktekan segala hal yang berhubungan dengan <it>database,</it> <it>data</it> <it>warehousing,</it> <it>report,</it> <it>dashboard,</it> <it>classification,</it> dll.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>• Proyek Pengembangan Sistem Informasi  Mata kuliah proyek pengembangan system informasi membantu pelaksana kerja praktik ketika membangun <it>dashboard</it> <it>sistem.</it> Dimulai dengan proses mengumpulkan <it>requirement</it> hingga pelaksana kerja praktikan dokumentasi yang baik dan benar.</BEFORE>
+<AFTER>• Proyek Pengembangan Sistem Informasi  Mata kuliah proyek pengembangan sistem informasi membantu pelaksana kerja praktik ketika membangun <it>dashboard</it> <it>system.</it> Dimulai dengan proses mengumpulkan <it>requirement</it> hingga pelaksana kerja praktikan dok umentasi yang baik dan benar.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Meskipun pelaksana kerja praktik belum mengambil mata kuliah tersebut pelaksana kerja praktik mencoba membaca silabus dan membaca bahan pembelajaran yang ada di course mata kuliah tersebut untuk menjadi landasan pelaksana kerja praktik mengerjakan proyek yang berhubungan dengan mata kuliah tersebut seperti <it>sentiment</it> <it>analysis,</it> <it>gender</it> <it>predictor</it> dan <it>NLP</it> <it>Analysis</it></BEFORE>
+<AFTER>Meskipun pelaksana kerja praktik belum mengambil mata kuliah tersebut pelaksana kerja praktik mencoba membaca silabus dan membaca bahan pembelajaran yang ada di <it>course</it> mata kuliah tersebut untuk menjadi landasan pelaksana kerja praktik mengerjakan proyek yang berhubungan dengan mata kuliah tersebut seperti <it>sentiment</it> <it>analysis,</it> <it>gender</it> <it>predictor</it> dan <it>NLP</it></AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pemilihan tempat kerja praktik yang sesuai dengan kemampuan dan keinginan pelaksana kerja praktik terbilang cukup sulit, hal ini dikarenakan kurangnya informasi terkait perusahaan yang menerima informasi.</BEFORE>
+<AFTER>Pemilihan tempat kerja praktik yang sesuai dengan kemampuan dan keinginan pelaksana kerja praktik terbilang cukup sulit.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Alangkah baiknya jika pihak fakultas memberikan informasi mengenai program kerja praktik di perusahaan-perusahaan yang sudah bekerja sama dengan pihak fakultas.</BEFORE>
+<AFTER>Alangkah baiknya jika pihak fakultas memberikan informasi mengenai program kerja praktik di perusahaan- perusahaan yang sudah bekerja sama dengan pihak fakultas.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu proses sosialiasi mata kuliah kerja praktik yang cukup telat bila dibandingkan dengan proses pencarian tempat kerja praktik juga menyulitkan pelaksana kerja praktik.</BEFORE>
+<AFTER>Selain itu, proses sosialiasi mata kuliah kerja praktik yang cukup telat bila dibandingkan dengan proses pencarian tempat kerja praktik juga menyulitkan pelaksana kerja praktik.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun karena pertimbangan jarak tempat yang cukup jauh dari domisili penulis di Depok, akhirnya penulis memutuskan untuk tidak melanjutkan ke tahapan tes wawancara.</BEFORE>
+<AFTER>Namun, karena pertimbangan jarak tempat yang cukup jauh dari domisili penulis di Depok, akhirnya penulis memutuskan untuk tidak melanjutkan ke tahapan tes wawancara.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selanjutnya penulis dipanggil untuk mengikuti seleksi di PLN <it>corporate</it> <it>university</it> sebagai <it>web</it> <it>developer,</it> namun karena pertimbangan posisi yang kurang diminati, penulis akhirnya memutuskan untuk tidak melanjutkan proses seleksi.</BEFORE>
+<AFTER>Selanjutnya penulis dipanggil untuk mengikuti seleksi di PLN <it>Corporate</it> <it>University</it> sebagai <it>web</it> <it>developer.</it> Namun, karena pertimbangan posisi yang kurang diminati, penulis akhirnya memutuskan untuk tidak melanjutkan proses seleksi.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Proses melamar hingga akhirnya diterima di Kudo sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> <it>intern</it> tidak terlalu lama sekitar 1 bulan.</BEFORE>
+<AFTER>Proses melamar hingga akhirnya diterima di Kudo sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> <it>intern</it> tidak terlalu lama sekitar satu bulan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada awalnya, penulis memperoleh informasi dari <it>broadcast</it> <it>message</it> dari salah satu teman, bahwa Kudo sedang mengadakan seleksi <it>Kudo</it> <it>Academy</it> <it>Program</it> 2016 <it>batch</it> 2 yaitu program magang untuk mahasiswa di bidang bisnis dan teknologi.</BEFORE>
+<AFTER>Pada awalnya, penulis memperoleh informasi dari <it>broadcast</it> <it>message</it> dari salah satu teman, bahwa Kudo sedang mengadakan seleksi Kudo <it>Academy</it> <it>Program</it> 2016 yaitu program magang untuk mahasiswa di bidang bisnis dan teknologi.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis kemudian tertarik dengan posisi <it>quality</it> <it>assurance</it> <it>analyst</it> karena lebih menekankan pada kemampuan analisis, namun masih memiliki <it>background</it> teknologi.</BEFORE>
+<AFTER>Penulis kemudian tertarik dengan posisi <it>quality</it> <it>assurance</it> <it>analyst</it> karena lebih menekankan pada kemampuan analisis, tetapi masih memiliki <it>background</it> teknologi.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah 2 minggu menunggu, penulis belum juga mendapat konfirmasi balasan terkait lamaran, sehingga penulis kembali mengirim <it>follow</it> <it>up</it> <it>email</it> untuk menanyakan status lamaran yang dikirim.</BEFORE>
+<AFTER>Setelah dua minggu menunggu, penulis belum juga mendapat konfirmasi balasan terkait lamaran, sehingga penulis kembali mengirim <it>follow</it> <it>up</it> <it>email</it> untuk menanyakan status lamaran yang dikirim.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sehari setelahnya, pihak Kudo menghubungi penulis melalui telepon namun sayangnya telefon tersebut terlewatkan dan tidak terjawab.</BEFORE>
+<AFTER>Sehari setelahnya, pihak Kudo menghubungi penulis melalui telepon tetapi sayangnya tidak terjawab.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kemudian penulis mulai menghubungi pihak Kudo terkait panggilan yang terlewat tersebut baik melalui <it>email</it> maupun mencoba menelefon balik, namun tidak ada jawaban.</BEFORE>
+<AFTER>Kemudian penulis mulai menghubungi pihak Kudo terkait panggilan yang terlewat tersebut melalui <it>email</it> tetapi tidak ada jawaban.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Akhirnya setelah menunggu 2 hari tepatnya pada tanggal 2 mei 2016, akhirnya pihak Kudo kembali menghubungi penulis dan mengabarkan bahwa penulis lolos untuk seleksi administrasi dan mengundang penulis untuk melakukan tes wawancara yang dijadwalkan keesokan harinya yaitu tanggal 3 mei 2016 di kantor Kudo daerah Radio Dalam, Jakarta Selatan.</BEFORE>
+<AFTER>Akhirnya setelah menunggu dua hari tepatnya pada tanggal 2 Mei 2016, akhirnya pihak Kudo kembali menghubungi penulis dan mengabarkan bahwa penulis lolos untuk seleksi administrasi dan mengundang penulis untuk melakukan tes wawancara yang dijadwalkan keesokan harinya yaitu tanggal 3 Mei 2016 di kantor Kudo daerah Radio Dalam, Jakarta Selatan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tes wawancara dilakukan 2 kali yaitu pertama dengan <it>human</it> <it>capital</it> (HC) dan yang kedua wawancara denga <it>user</it> yaitu <it>quality</it> <it>assurance</it> <it>lead.</it> Wawancara dengan <it>human</it> <it>capital</it> (HC) dilakukan selama kurang lebih 15 menit dengan suasana yang cukup santai tapi serius, dengan pertanyaan yang diberikan seputar informasi pribadi, pengalaman kerja dan juga pengalaman organisasi.</BEFORE>
+<AFTER>Tes wawancara dilakukan dua kali yaitu pertama dengan <it>human</it> <it>capital</it> (HC) dan yang kedua wawancara denga <it>user</it> yaitu <it>quality</it> <it>assurance</it> <it>lead.</it> Wawancara dengan <it>human</it> <it>capital</it> (HC) dilakukan selama kurang lebih lima belas menit dengan suasana yang cukup santai tapi serius.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam melaksanakan kerja praktik ini, penulis ditempatkan pada divisi <it>quality</it> <it>assurance</it> sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> yang secara lebih spesifik bertanggung jawab untuk melakukan <it>frontend</it> <it>testing</it> untuk aplikasi kudo mobile application dan kudo field officer.</BEFORE>
+<AFTER>Dalam melaksanakan kerja praktik ini, penulis ditempatkan pada divisi <it>quality</it> <it>assurance</it> sebagai <it>quality</it> <it>assurance</it> <it>analyst</it> yang secara lebih spesifik bertanggung jawab untuk melakukan <it>frontend</it> <it>testing</it> untuk aplikasi kudo <it>mobile</it> <it>application</it> (KMA) dan kudo <it>field</it> <it>officer</it> <it>application</it> (FO app).</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selama bekerja kurang lebih 2,5 bulan di Kudo, penulis mendapat bimbingan dari mentor untuk mengerjakan semua tugas yang diberikan.</BEFORE>
+<AFTER>Selama bekerja kurang lebih dua bulan di Kudo, penulis mendapat bimbingan dari mentor untuk mengerjakan semua tugas yang diberikan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, penulis juga ditempatkan bersama tim sesama peserta magang lainnya yang diberi tanggung jawab mengerjakan proyek khusus yaitu aplikasi kudo field officer.</BEFORE>
+<AFTER>Selain itu, penulis juga ditempatkan bersama tim sesama peserta magang lainnya yang diberi tanggung jawab mengerjakan proyek khusus yaitu FO app.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Di akhir masa kerja praktik, penulis bersama anggota tim lainnya diwajibkan untuk melakukan presentasi mengenai hasil proyek yang sudah dikerjakan.</BEFORE>
+<AFTER>Di akhir masa kerja praktik, penulis bersama anggota tim FO app lainnya diwajibkan untuk melakukan presentasi mengenai hasil proyek yang sudah dikerjakan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksanaan kerja praktik dilakukan selama 2 bulan mulai tanggal 13 Juni 2016 hingga 12 Agustus 2016.</BEFORE>
+<AFTER>Pelaksanaan kerja praktik dilakukan selama dua bulan mulai tanggal 13 Juni 2016 hingga 12 Agustus 2016.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dari pelaksanaan kerja praktik penulis dapat menerapkan pengetahuan yang sudah diperoleh selama masa perkuliahan sekaligus memperoleh pengetahuan baru baik secara teknis maupun non teknis.</BEFORE>
+<AFTER>Dari pelaksanaan kerja praktik di Kudo, penulis dapat memperoleh banyak pengetahuan baru baik secara teknis maupun non teknis.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Secara teknis, pengetahuan yang diperoleh terutama pada penggunaan <it>tools</it> untuk membantu melakukan <it>testing</it> secara menyeluruh yang sudah disebutkan pada sub bab teknologi.</BEFORE>
+<AFTER>Secara teknis, pengetahuan yang diperoleh yaitu penggunaan <it>tools</it> pada divisi <it>quality</it> <it>assurance</it> untuk melakukan <it>testing</it> aplikasi, prinsip dan detail dalam melaksanakan <it>testing,</it> serta kriteria kualitas produk yang baik.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Beberapa perusahaan yang sempat menarik perhatian saya adalah Bukalapak dan Tokopedia.</BEFORE>
+<AFTER>Beberapa perusahaan yang sempat menarik perhatian penulis adalah Bukalapak dan Tokopedia.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah diterima di Bukalapak, penulis sempat mencari beberapa informasi lain mengenai tempat kerja praktik, tetapi tidak sampai tahap melamar dikarenakan beberapa hal.</BEFORE>
+<AFTER>Setelah diterima di Bukalapak, penulis sempat mencari beberapa informasi mengenai tempat lainnya untuk kerja praktik, tetapi tidak sampai tahap melamar dikarenakan beberapa hal.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kerja praktik di Bukalapak di mulai pada 13 Juni 2016 hingga 26 Agustus 2016.</BEFORE>
+<AFTER>Kerja praktik di Bukalapak dimulai pada 13 Juni 2016 hingga 26 Agustus 2016.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis sendiri menginginkan kerja praktik di perusahaan korporat yang bergerak IT dengan alasan ingin mencari pengalaman baru karena sebelumnya penulis pernah melakukan kerja praktik di <it>startup.</it> Penulis memulai proses pencarian tempat kerja praktik pada bulan Februari 2016.</BEFORE>
+<AFTER>Penulis sendiri menginginkan kerja praktik di perusahaan korporat yang bergerak di bidang IT dengan alasan ingin mencari pengalaman baru karena sebelumnya penulis pernah melakukan kerja praktik di <it>startup.</it> Penulis memulai proses pencarian tempat kerja praktik pada bulan Februari 2016.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Saat itu, penulis memiliki beberapa target tempat kerja praktik yaitu perusahaan korporat di bidang IT dan Kantor Akuntan Publik (KAP).</BEFORE>
+<AFTER>Saat itu, penulis memiliki target tempat kerja praktik yaitu perusahaan korporat di bidang IT dan Kantor Akuntan Publik (KAP).</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Ketika sebuah <it>project</it> berhasil diselesaikan, <it>business</it> <it>intelligence</it> <it>intern</it> <it>team</it> memberikan presentasi hasil pekerjaan kepada penyelia, divisi <it>Business</it> <it>Intelligence,</it> dan <it>business</it> <it>unit</it> terkait.</BEFORE>
+<AFTER>Ketika sebuah <it>proyek</it> berhasil diselesaikan, <it>business</it> <it>intelligence</it> <it>intern</it> <it>team</it> memberikan presentasi hasil pekerjaan kepada penyelia, divisi <it>Business</it> <it>Intelligence,</it> dan <it>business</it> <it>unit</it> terkait.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hal tersebut disebabkan oleh banyak hal, seperti <it>load</it>pekerjaan yang banyak dan membutuhkan waktu pekerjaan yang cukup lama, kebutuhan untuk mempelajari materi dan pengetahuan yang berhubungan dengan <it>project,</it> serta penyelia yang terkadang terlalu sibuk.</BEFORE>
+<AFTER>Hal tersebut disebabkan oleh banyak hal, seperti <it>load</it> pekerjaan yang banyak dan membutuhkan waktu pekerjaan yang cukup lama, kebutuhan untuk mempelajari materi dan pengetahuan yang berhubungan dengan <it>proyek,</it> serta penyelia yang terkadang terlalu sibuk.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Di awal masa kerja praktik, penyelia telah membuat sekitar 40 <it>issues</it> di JIRA yang terdiri dari <it>project</it> dan <it>task</it> untuk dikerjakan oleh <it>business</it> <it>intelligence</it> <it>intern.</it> Kemudian, penulis dan <it>business</it> <it>intelligence</it> <it>intern</it> lain menentukan prioritas pengerjaan <it>project</it> dan pembagian <it>project</it> <it>manager</it> atau <it>person</it> <it>in</it> <it>charge</it> untuk setiap <it>projectnya.</it> <it>Feasibility</it> pengerjaan <it>project</it> menjadi salah satu bahan pertimbangan dalam menentukan prioritas pengerjaan <it>project.</it> Seiring berjalannya kerja praktik, <it>project</it> yang dikerjakan bertambah baik dari <it>request</it> penyelia maupun <it>business</it> <it>unit</it> lain.</BEFORE>
+<AFTER>Di awal masa kerja praktik, penyelia telah membuat sekitar 40 <it>issues</it> di JIRA yang terdiri dari proyek dan <it>task</it> untuk dikerjakan oleh <it>business</it> <it>intelligence</it> <it>intern.</it> <it>Issues</it> sendiri merupakan istilah di JIRA yang digunakan untuk menggambarkan suatu kegiatan, di mana kegiatan tersebut dapat berupa proyek atau <it>task.</it> Kemudian, penulis dan <it>business</it> <it>intelligence</it> <it>intern</it> lain menentukan prioritas <it>pengerjaan</it> <it>proyek</it> dan pembagian <it>project</it> <it>manager</it> atau <it>person</it> <it>in</it> <it>charge</it> untuk setiap proyeknya.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kerangka Acuan Kerja Praktik (KAKP)…………………...........…………………..21 Log Kerja Praktik…………………………………………………………………....23</BEFORE>
+<AFTER> Kerangka Acuan Kerja Praktik (KAKP) ……...........…………………..21 Log Kerja Praktik …..…………………………………………………….....23</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Bukalapak merupakan perusahaan <it>online</it> <it>marketplace</it> yang menyediakan <it>platform</it> jual-beli <it>online</it> dari <it>customer-to-customer.</it> Semua orang dapat berjualan dan belanja di Bukalapak.</BEFORE>
+<AFTER>​<it>online</it> dari  yang menyediakan Bukalapak merupakan perusahaan ​<it>online</it> <it>marketplace</it>  .</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Misi Bukalapak adalah menjadi <it>online</it> <it>marketplace</it> nomor 1 di Indonesia.</BEFORE>
+<AFTER>Misi Bukalapak adalah menjadi ​<it>online</it> <it>marketplace</it> nomor 1 di Indonesia.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sedangkan misi yang dibawa oleh Bukalapak sendiri adalah <it>Empowering</it> <it>Small</it> <it>and</it> <it>Medium</it> <it>Enterprises</it> <it>Across</it> <it>Indonesia</it> [3].</BEFORE>
+<AFTER>Sedangkan misi yang dibawa oleh  Bukalapak sendiri adalah ​<it>Empowering</it> <it>Small</it> <it>and</it> <it>Medium</it> <it>Enterprises</it> <it>Across</it> <it>Indonesia</it> [3].</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Secara singkat, Bukalapak memiliki seorang pemimpin yang disebut sebagai <it>President,</it> <it>President</it> ini yang kemudian membawahi <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) dan <it>Chief</it> <it>Operation</it> <it>Officer</it> (COO).</BEFORE>
+<AFTER>Secara singkat, Bukalapak memiliki seorang pemimpin yang disebut sebagai , ​<it>President</it> ini yang kemudian membawahi ​<it>Chief</it> <it>Technology</it> <it>Officer</it> <it>President</it> (CTO) dan ​<it>Chief</it> <it>Operation</it> <it>Officer</it>  (COO).</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Lebih lanjut, masing-masing dari CTO dan COO akan membawahi bidangnya masing-masing.</BEFORE>
+<AFTER>Lebih lanjut, masing-masing dari  CTO dan COO akan membawahi bidangnya masing-masing.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berikut adalah struktur organisasi singkat yang dimiliki Bukalapak: <it>Gambar</it> <it>1</it> <it>Struktur</it> <it>Organisasi</it> <it>di</it> <it>Bukalapak</it> Pada kerja praktik kali ini, penulis ditempatkan pada divisi <it>Engineering</it> yaitu sebagai <it>Software</it> <it>Engineering</it> <it>Infrastructure</it> yang langsung diawasi oleh CTO.</BEFORE>
+<AFTER>Berikut adalah   struktur organisasi singkat yang dimiliki Bukalapak: <it>Gambar</it> <it>1</it> <it>Struktur</it> <it>Organisasi</it> <it>di</it> <it>Bukalapak</it> Pada kerja praktik kali ini, penulis ditempatkan pada divisi ​<it>Engineering</it> yaitu  sebagai ​<it>Software</it> <it>Engineering</it> <it>Infrastructure</it> yang langsung diawasi oleh  CTO.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Metodologi yang digunakan pada KP kali ini adalah <it>Scrum,</it> dengan demikian untuk setiap <it>project</it> yang digunakan akan terdapat sebuah rapat <it>planning</it> yang dihadiri seluruh anggota <it>team.</it> Apabila seluruh anggota sudah mendapatkan gambaran ide mengenai apa yang harus dikerjakan selama periode tertentu, masing-masing <it>team</it> akan mengambil bagian masing-masing untuk kemudian dikerjakan hingga waktu yang ditentukan.</BEFORE>
+<AFTER>, dengan Metodologi yang digunakan pada KP kali ini adalah ​<it>Scrum</it>      demikian untuk setiap ​<it>project</it> yang digunakan akan terdapat sebuah rapat ​<it>planning</it> yang dihadiri seluruh anggota ​<it>team</it> .</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Secara umum, tidak terdapat perbedaan antara Kerangka Acuan Kerja Praktik (KAKP) dan apa yang sudah penulis kerjakan selama Kerja Praktik (KP).</BEFORE>
+<AFTER>tidak terdapat perbedaan antara Kerangka Acuan Kerja Secara umum, Praktik (KAKP) dan apa yang sudah penulis kerjakan selama Kerja Praktik (KP).</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam KAKP, awalnya, penulis hanya diminta untuk melakukan pembuatan <it>prototyping</it> sistem <it>logging</it> yang dapat digunakan untuk <it>infrastructure</it> terbaru yang akan digunakan oleh Bukalapak, namun seiring dengan berjalannya waktu KP, penulis diminta untuk membantu proses <it>scaling</it> dengan mencari solusi bagi <it>bottleneck</it> yang mungkin timbul dalam upaya pengembangan sistem tersebut.</BEFORE>
+<AFTER>Dalam KAKP, awalnya, penulis hanya diminta untuk melakukan proses ​<it>prototyping</it> sistem ​<it>logging</it> yang dapat digunakan untuk ​<it>infrastructure</it>  terbaru yang akan digunakan oleh Bukalapak, namun seiring dengan  berjalannya waktu KP, penulis diminta untuk membantu proses ​<it>scaling</it>  dengan mencari solusi bagi ​<it>bottleneck</it> yang mungkin timbul dalam upaya   pengembangan sistem tersebut.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, penulis juga diminta untuk melakukan mekanisme <it>stress</it> <it>testing</it> untuk mengetahui bagian mana saja yang memungkinkan untuk menjadi <it>bottleneck</it> dalam sistem yang sedang dikembangkan.</BEFORE>
+<AFTER>Selain itu, penulis juga diminta untuk melakukan mekanisme ​<it>stress</it> <it>testing</it> untuk mengetahui bagian mana saja  yang memungkinkan untuk menjadi ​<it>bottleneck</it> dalam sistem yang sedang  dikembangkan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berikut adalah deskripsi pekerjaan yang dilakukan oleh penulis: 1.</BEFORE>
+<AFTER>Berikut adalah deskripsi pekerjaan yang dilakukan oleh  penulis: , ​<it>library</it>  1.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pembuatan konfigurasi <it>metrics</it> dan <it>dashboard</it> yang dapat digunakan untuk melihat hasil <it>stress</it> <it>testing.</it> 7.</BEFORE>
+<AFTER>Pembuatan konfigurasi ​<it>metrics</it> dan ​<it>dashboard</it>  untuk melihat hasil ​<it>stress</it> <it>testing.</it> yang sedang dikembangkan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Available: https://www.bukalapak.com/about.</BEFORE>
+<AFTER>Available: ​https://www.bukalapak.com/about​.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Available: https://www.docker.com/what-docker.</BEFORE>
+<AFTER>Available: ​https://www.docker.com/what-docker​.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>[Diakses 20 Sept. 2016].</BEFORE>
+<AFTER>[Diakses  20 Sept. 2016].</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Ada beberapa kriteria spesifik mengenai perusahaan yang dicari oleh penulis, yaitu: • Memandang teknologi sebagai bagian dari nilai utama perusahaan, bukan sekedar alat bantu untuk mencapai tujuan bisnis • Berukuran menengah, memiliki setidaknya 50 karyawan namun bukan korporat yang sudah terlalu mapan • Memiliki produk yang signifikan di mata penulis, dengan pasar dan masalah konkret yang tervalidasi • Memiliki budaya kerja yang kondusif dan progresif • Memiliki visi jangka panjang yang jelas • Didirikan oleh orang-orang dengan reputasi dan rekam jejak yang baik Tujuan utama dari kriteria-kriteria tersebut adalah penulis ingin mendapat tanggung jawab dan pengalaman teknis sebanyak mungkin namun tetap dengan proporsional dengan kapabilitas penulis.</BEFORE>
+<AFTER>Ada beberapa kriteria spesifik mengenai perusahaan yang dicari oleh penulis, yaitu: • Memandang teknologi sebagai bagian dari nilai utama perusahaan, bukan sekedar alat bantu untuk mencapai tujuan bisnis • Berukuran menengah dan memiliki setidaknya 50 karyawan tetapi bukan korporat yang sudah terlalu mapan • Memiliki produk yang signifikan di mata penulis dengan pasar dan masalah konkret yang tervalidasi • Memiliki budaya kerja yang kondusif dan progresif • Memiliki visi jangka panjang yang jelas • Didirikan oleh orang-orang dengan reputasi dan rekam jejak yang baik Tujuan utama dari kriteria-kriteria tersebut adalah penulis ingin mendapat tanggung jawab dan pengalaman teknis sebanyak mungkin tetapi tetap proporsional dengan kapabilitas penulis.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Ninja Van adalah perusahaan rintisan berbasis di Singapura yang bergerak di bidang logistik <it>last-mile.</it> Penulis tertarik ke Ninja Van karena penulis juga memiliki keinginan untuk bekerja di Singapura, dan dari semua perusahaan teknologi Singapura yang ditemukan oleh penulis, Ninja Van merupakan pilihan yang paling menarik.</BEFORE>
+<AFTER>Ninja Van adalah perusahaan rintisan berbasis di Singapura yang bergerak di bidang logistik <it>last-mile.</it> Penulis tertarik ke Ninja Van karena penulis juga memiliki keinginan untuk bekerja di Singapura.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Meski sudah mendaftar melalui situs mereka, Bukalapak tidak memberi respons apa pun, dan penulis menduga posisi <it>software</it> <it>engineer</it> sudah penuh terisi.</BEFORE>
+<AFTER>Penulis mendaftar melalui situs Bukalapak tetapi tidak memberi respons apa pun.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah, bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API) atau metode apapun bagi pihak luar untuk berkomunikasi dengan sistem mutasi mereka.</BEFORE>
+<AFTER>Masalah utama dari pemrosesan transfer dalam konteks penunjangan layanan <it>online</it> saat ini adalah bank tidak memiliki <it>application</it> <it>programming</it> <it>interface</it> (API) atau metode apapun bagi pihak luar untuk berkomunikasi dengan sistem mutasi mereka.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk membuat proses tersebut lebih efisien dan mempermudah tugas tim operasional, Traveloka mengembangkan sistem <it>fetcher</it> dengan menggunakan teknologi <it>in-house</it> buatan sendiri untuk mengambil data mutasi transaksi bank dan mengolahnya untuk dimasukkan ke dalam sistem secara otomatis, secara hampir <it>real-time.</it> Setelah data pembayaran masuk, maka tagihan yang bersesuaian juga akan diproses secara otomatis sehingga pengguna akan langsung mendapat tiket atau <it>voucher</it> hotel langsung setelah mereka melakukan transfer.</BEFORE>
+<AFTER>Untuk membuat proses tersebut lebih efisien dan mempermudah tugas tim operasional, Traveloka mengembangkan sistem <it>fetcher</it> dengan menggunakan teknologi <it>in-house</it> buatan sendiri.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada situasi normal yang diharapkan, waktu dari pengguna selesai melakukan transfer hingga mendapat konfirmasi dari sistem adalah sekitar satu menit, dengan asumsi tidak terdapat kendala pada sistem, baik milik Traveloka (sistem <it>payment</it> dan <it>booking)</it> maupun maskapai atau hotel yang bersangkutan.</BEFORE>
+<AFTER>Pada situasi normal yang diharapkan, waktu dari pengguna selesai melakukan transfer hingga mendapat konfirmasi pemesanan adalah sekitar satu menit dengan asumsi tidak terdapat kendala pada sistem Traveloka (sistem <it>payment</it> dan <it>booking)</it> serta sistem maskapai atau hotel yang bersangkutan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sejak pertama kali diluncurkan, performa <it>fetcher</it> Traveloka mengalami fluktuasi dalam hal availabilitas dan waktu respons, baik karena faktor internal seperti pengubahan arsitektur <it>fetcher</it> maupun faktor eksternal seperti ketersediaan situs <it>internet</it> <it>banking</it> masing-masing bank.</BEFORE>
+<AFTER>Sejak pertama kali diluncurkan, performa <it>fetcher</it> Traveloka mengalami fluktuasi dalam hal availabilitas dan waktu respons yang dikarenakan faktor internal maupun eksternal, antara lain karena pengubahan arsitektur <it>fetcher</it> atau ketersediaan situs <it>internet</it> <it>banking</it> masing-masing bank.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Secara umum, lingkungan kerja Traveloka sangat profesional namun tidak hierarkis sehingga siapa pun bisa saling berinteraksi tanpa adanya kecanggungan.</BEFORE>
+<AFTER>Lingkungan kerja Traveloka sangat profesional tetapi tidak hierarkis sehingga siapa pun bisa saling berinteraksi tanpa adanya kecanggungan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Apabila penulis mengalami kendala di luar ranah tim <it>payment,</it> penulis bisa langsung menghubungi orang yang relevan tanpa pernah mendapat penolakan.</BEFORE>
+<AFTER>Apabila penulis mengalami kendala di luar ranah tim <it>payment,</it>penulis bisa langsung menghubungi orang yang relevan tanpa pernah mendapat penolakan.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Perancangan & Pemrograman Web dan Jaringan Komputer Seperti yang sudah penulis jabarkan sebelumnya, <it>fetcher</it> banyak menyinggung konsep yang berkaitan dengan internet.</BEFORE>
+<AFTER>Perancangan & Pemrograman Web dan Basis Data Seperti yang sudah penulis jabarkan sebelumnya, <it>fetcher</it> banyak menyinggung konsep yang berkaitan dengan internet.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Mata kuliah pemrograman sistem pada dasarnya memperkenalkan konsep dan pemakaian <it>terminal</it> ke mahasiswa.</BEFORE>
+<AFTER>Mata kuliah Pemrograman Sistem memperkenalkan konsep dan pemakaian <it>terminal</it> yang sangat bermanfaat bagi penulis.</AFTER>
+<ERRTYPE></ERRTYPE>
+</PAIR>
+

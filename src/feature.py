@@ -118,3 +118,11 @@ class Feature():
 			i += 1
 
 		return count
+
+	def similarity(self, query, document):
+		query = query.split(" ")
+		document = document.split(" ")
+		intersection = set(query).intersection(set(document))
+		union = set(query).union(set(document))
+
+		return float(float(len(intersection)) / float(len(union)))

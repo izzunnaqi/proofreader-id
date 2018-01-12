@@ -1,0 +1,429 @@
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.249190938511
+	precision: 0.110107996529
+	recall: 0.249190938511
+	f1: 0.122721752024
+
+Linear SVC :
+	accuracy: 0.187702265372
+	precision: 0.223110218615
+	recall: 0.187702265372
+	f1: 0.193360559963
+
+Naive Bayes :
+	accuracy: 0.0906148867314
+	precision: 0.0837916406813
+	recall: 0.0906148867314
+	f1: 0.0735360221096
+
+Logistic Regression :
+	accuracy: 0.391585760518
+	precision: 0.268467925564
+	recall: 0.391585760518
+	f1: 0.304226489949
+
+Random Forest :
+	accuracy: 0.368932038835
+	precision: 0.338393896135
+	recall: 0.368932038835
+	f1: 0.348307709795
+
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it, cb, cp
+==================================================
+SVC :
+	accuracy: 0.245954692557
+	precision: 0.109176866114
+	recall: 0.245954692557
+	f1: 0.12127558217
+
+Linear SVC :
+	accuracy: 0.174757281553
+	precision: 0.213033211051
+	recall: 0.174757281553
+	f1: 0.184288703095
+
+Naive Bayes :
+	accuracy: 0.106796116505
+	precision: 0.106266877615
+	recall: 0.106796116505
+	f1: 0.0909203834235
+
+Logistic Regression :
+	accuracy: 0.381877022654
+	precision: 0.267997480686
+	recall: 0.381877022654
+	f1: 0.300182300551
+
+Random Forest :
+	accuracy: 0.323624595469
+	precision: 0.291702984585
+	recall: 0.323624595469
+	f1: 0.30368464184
+
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it, cb, sim
+==================================================
+SVC :
+	accuracy: 0.281553398058
+	precision: 0.187999445935
+	recall: 0.281553398058
+	f1: 0.174364047241
+
+Linear SVC :
+	accuracy: 0.203883495146
+	precision: 0.277122758078
+	recall: 0.203883495146
+	f1: 0.215734833759
+
+Naive Bayes :
+	accuracy: 0.100323624595
+	precision: 0.0919247023409
+	recall: 0.100323624595
+	f1: 0.0804394376321
+
+Logistic Regression :
+	accuracy: 0.391585760518
+	precision: 0.256320112108
+	recall: 0.391585760518
+	f1: 0.297147788501
+
+Random Forest :
+	accuracy: 0.336569579288
+	precision: 0.302510280726
+	recall: 0.336569579288
+	f1: 0.317424925909
+
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it, cp, sim
+==================================================
+SVC :
+	accuracy: 0.281553398058
+	precision: 0.169299606574
+	recall: 0.281553398058
+	f1: 0.184031015109
+
+Linear SVC :
+	accuracy: 0.281553398058
+	precision: 0.269463905751
+	recall: 0.281553398058
+	f1: 0.237750662983
+
+Naive Bayes :
+	accuracy: 0.0970873786408
+	precision: 0.0919137271128
+	recall: 0.0970873786408
+	f1: 0.078344555021
+
+Logistic Regression :
+	accuracy: 0.385113268608
+	precision: 0.250866795921
+	recall: 0.385113268608
+	f1: 0.293239436363
+
+Random Forest :
+	accuracy: 0.411003236246
+	precision: 0.370561593347
+	recall: 0.411003236246
+	f1: 0.385366380566
+
+==================================================
+Feature Set: fc, cd, sld, cod, dd, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.245954692557
+	precision: 0.104368414206
+	recall: 0.245954692557
+	f1: 0.122154503993
+
+Linear SVC :
+	accuracy: 0.084142394822
+	precision: 0.168385260515
+	recall: 0.084142394822
+	f1: 0.0945453381468
+
+Naive Bayes :
+	accuracy: 0.0938511326861
+	precision: 0.0767040255859
+	recall: 0.0938511326861
+	f1: 0.0735548512502
+
+Logistic Regression :
+	accuracy: 0.313915857605
+	precision: 0.213920710807
+	recall: 0.313915857605
+	f1: 0.228033741232
+
+Random Forest :
+	accuracy: 0.268608414239
+	precision: 0.226881133733
+	recall: 0.268608414239
+	f1: 0.241908872489
+
+==================================================
+Feature Set: fc, cd, sld, cod, it, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.245954692557
+	precision: 0.109176866114
+	recall: 0.245954692557
+	f1: 0.12127558217
+
+Linear SVC :
+	accuracy: 0.155339805825
+	precision: 0.212754321599
+	recall: 0.155339805825
+	f1: 0.16956719884
+
+Naive Bayes :
+	accuracy: 0.126213592233
+	precision: 0.143209419324
+	recall: 0.126213592233
+	f1: 0.110195643616
+
+Logistic Regression :
+	accuracy: 0.388349514563
+	precision: 0.265382271635
+	recall: 0.388349514563
+	f1: 0.300316583979
+
+Random Forest :
+	accuracy: 0.362459546926
+	precision: 0.318996537443
+	recall: 0.362459546926
+	f1: 0.335473987275
+
+==================================================
+Feature Set: fc, cd, sld, dd, it, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.242718446602
+	precision: 0.11075043527
+	recall: 0.242718446602
+	f1: 0.120822968549
+
+Linear SVC :
+	accuracy: 0.152103559871
+	precision: 0.198336853198
+	recall: 0.152103559871
+	f1: 0.147609380235
+
+Naive Bayes :
+	accuracy: 0.0711974110032
+	precision: 0.249394601783
+	recall: 0.0711974110032
+	f1: 0.0799925496361
+
+Logistic Regression :
+	accuracy: 0.375404530744
+	precision: 0.268788200487
+	recall: 0.375404530744
+	f1: 0.285534392995
+
+Random Forest :
+	accuracy: 0.37216828479
+	precision: 0.314061466057
+	recall: 0.37216828479
+	f1: 0.335552262568
+
+==================================================
+Feature Set: fc, cd, cod, dd, it, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.249190938511
+	precision: 0.117914932963
+	recall: 0.249190938511
+	f1: 0.127376606288
+
+Linear SVC :
+	accuracy: 0.148867313916
+	precision: 0.201491503884
+	recall: 0.148867313916
+	f1: 0.160368369755
+
+Naive Bayes :
+	accuracy: 0.0809061488673
+	precision: 0.080869049046
+	recall: 0.0809061488673
+	f1: 0.0664201133742
+
+Logistic Regression :
+	accuracy: 0.343042071197
+	precision: 0.228738803232
+	recall: 0.343042071197
+	f1: 0.245509221767
+
+Random Forest :
+	accuracy: 0.339805825243
+	precision: 0.311609064836
+	recall: 0.339805825243
+	f1: 0.321493931956
+
+==================================================
+Feature Set: fc, sld, cod, dd, it, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.258899676375
+	precision: 0.163441736257
+	recall: 0.258899676375
+	f1: 0.134773321579
+
+Linear SVC :
+	accuracy: 0.174757281553
+	precision: 0.195160974204
+	recall: 0.174757281553
+	f1: 0.177653325817
+
+Naive Bayes :
+	accuracy: 0.0809061488673
+	precision: 0.0997951940966
+	recall: 0.0809061488673
+	f1: 0.0705727918208
+
+Logistic Regression :
+	accuracy: 0.37216828479
+	precision: 0.250494077356
+	recall: 0.37216828479
+	f1: 0.282466673391
+
+Random Forest :
+	accuracy: 0.323624595469
+	precision: 0.282621424808
+	recall: 0.323624595469
+	f1: 0.297829895883
+
+==================================================
+Feature Set: cd, sld, cod, dd, it, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.245954692557
+	precision: 0.109416205974
+	recall: 0.245954692557
+	f1: 0.121564025884
+
+Linear SVC :
+	accuracy: 0.168284789644
+	precision: 0.207479937839
+	recall: 0.168284789644
+	f1: 0.179543193855
+
+Naive Bayes :
+	accuracy: 0.0647249190939
+	precision: 0.0891721104845
+	recall: 0.0647249190939
+	f1: 0.0540644617495
+
+Logistic Regression :
+	accuracy: 0.388349514563
+	precision: 0.267364742308
+	recall: 0.388349514563
+	f1: 0.302354003887
+
+Random Forest :
+	accuracy: 0.359223300971
+	precision: 0.334420840222
+	recall: 0.359223300971
+	f1: 0.338932206199
+
+==================================================
+Feature Set: cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.242718446602
+	precision: 0.103125266777
+	recall: 0.242718446602
+	f1: 0.118468954391
+
+Linear SVC :
+	accuracy: 0.145631067961
+	precision: 0.123020814497
+	recall: 0.145631067961
+	f1: 0.116671110711
+
+Naive Bayes :
+	accuracy: 0.236245954693
+	precision: 0.12764615722
+	recall: 0.236245954693
+	f1: 0.164021219676
+
+Logistic Regression :
+	accuracy: 0.288025889968
+	precision: 0.117827191426
+	recall: 0.288025889968
+	f1: 0.154719079693
+
+Random Forest :
+	accuracy: 0.174757281553
+	precision: 0.157078374435
+	recall: 0.174757281553
+	f1: 0.160090700677
+
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it
+==================================================
+SVC :
+	accuracy: 0.430420711974
+	precision: 0.281239967162
+	recall: 0.430420711974
+	f1: 0.328634696418
+
+Linear SVC :
+	accuracy: 0.388349514563
+	precision: 0.246587828475
+	recall: 0.388349514563
+	f1: 0.291092257498
+
+Naive Bayes :
+	accuracy: 0.10355987055
+	precision: 0.110668411222
+	recall: 0.10355987055
+	f1: 0.0874234589145
+
+Logistic Regression :
+	accuracy: 0.391585760518
+	precision: 0.252379728053
+	recall: 0.391585760518
+	f1: 0.2926428008
+
+Random Forest :
+	accuracy: 0.385113268608
+	precision: 0.324838681635
+	recall: 0.385113268608
+	f1: 0.338372816273
+
+==================================================
+Feature Set: fc, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.239482200647
+	precision: 0.092026971341
+	recall: 0.239482200647
+	f1: 0.117373913676
+
+Linear SVC :
+	accuracy: 0.106796116505
+	precision: 0.0905182329981
+	recall: 0.106796116505
+	f1: 0.0895891296014
+
+Naive Bayes :
+	accuracy: 0.113268608414
+	precision: 0.0925750911173
+	recall: 0.113268608414
+	f1: 0.0799854021768
+
+Logistic Regression :
+	accuracy: 0.278317152104
+	precision: 0.113781214783
+	recall: 0.278317152104
+	f1: 0.148986842852
+
+Random Forest :
+	accuracy: 0.171521035599
+	precision: 0.146221547003
+	recall: 0.171521035599
+	f1: 0.154355591741
+

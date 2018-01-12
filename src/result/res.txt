@@ -1,0 +1,183 @@
+Unannotated: 146
+ITALIC: 30
+SPACE: 16
+CAPITAL: 4
+REDUNDANT: 14
+EFF: 26
+PUNCT: 16
+OTHERS: 116
+LOGIC: 6
+SPLIT: 2
+TYPO: 28
+PARALELLISM: 2
+WSTYLE: 0
+ABBR: 13
+TRANS: 9
+CONJ: 16
+INCOMPLETE: 2
+BOLD: 0
+Total Pair: 446
+
+daftar jenis perbedaan lain yang tidak ada pada jenis-jenis kesalahan yang telah didefinisikan:
+	- penggunaan kata tidak baku (algoritma -> algoritme, analisa -> analisis)
+	- kesalahan kata depan (penambahan/pengurangan kata depan) (secara, pada, dari)
+	- kalimat dengan makna tidak jelas (unclear meaning)/ambigu, sehingga dilakukan perubahan kata (penambahan, pengurangan, mengubah urutan)
+	- penambahan/pengurangan informasi pada kalimat (kalimat secara struktur dan makna sebelumnya sudah jelas dan benar)
+	- penggunaan kata tidak perlu
+	- simplifikasi penyebutan entitas (PT ABC Indonesia -> ABC)
+	- penambahan informasi pada entitas (PT A -> PT A Indonesia)
+	- kesalahan penggunaan kata kerja (salah makna, aktif pasif, dan lain-lain)
+	- kata kurang imbuhan
+	- kesalahan penggunaan kata ganti
+	- penggabungan kalimat
+
+Unannotated: 0
+PARALELLISM: 2
+WSTYLE: 0
+LOGIC: 7
+CONJ: 17
+CHANGE: 84
+BOLD: 0
+PUNCT: 15
+INCOMPLETE: 6
+TYPO: 28
+SPACE: 16
+REDUNDANT: 19
+STANDARD: 3
+VERB: 9
+SPLIT: 2
+CAPITAL: 4
+TRANS: 10
+EFF: 28
+JOIN: 0
+PRONOUN: 8
+ITALIC: 30
+PREP: 3
+ABBR: 13
+Total Pair: 304
+
+
+Unannotated: 0
+PARALELLISM: 2
+WSTYLE: 0
+LOGIC: 7
+CONJ: 17
+CHANGE: 82
+BOLD: 0
+PUNCT: 15
+INCOMPLETE: 6
+TYPO: 28
+SPACE: 16
+REDUNDANT: 19
+STANDARD: 3
+VERB: 7
+SPLIT: 2
+CAPITAL: 4
+TRANS: 10
+EFF: 28
+JOIN: 0
+PRONOUN: 8
+ITALIC: 30
+PREP: 3
+ABBR: 13
+Total Pair: 300
+
+
+Unannotated: 0
+PARALELLISM: 2
+WSTYLE: 0
+LOGIC: 7
+CONJ: 17
+CHANGE: 82
+BOLD: 0
+PUNCT: 15
+INCOMPLETE: 6
+TYPO: 29
+SPACE: 16
+REDUNDANT: 19
+STANDARD: 3
+VERB: 7
+SPLIT: 0
+CAPITAL: 4
+TRANS: 10
+EFF: 29
+JOIN: 0
+PRONOUN: 8
+ITALIC: 30
+PREP: 3
+ABBR: 13
+Total Pair: 300
+
+Kesalahan Ejaan: 15 + 29 + 16 = 60
+Kesalahan Tipografi: 4 + 30 = 34 
+Kesalahan Tata Bahasa: 2 + 6 + 29 = 37
+Kesalahan Pemilihan Kata: 17 + 19 + 3 + 7 + 10 + 8 + 3 + 13 = 80
+(STANDARD + VERB + PRONOUN) = (3 + 7 + 8) = 18
+LOGIC: 7
+CHANGE: 82
+
+===============================================================
+
+Unannotated: 0
+PARALELLISM: 2
+WSTYLE: 0
+LOGIC: 8
+CONJ: 18
+CHANGE: 82
+BOLD: 0
+PUNCT: 14
+INCOMPLETE: 6
+TYPO: 31
+SPACE: 16
+REDUNDANT: 20
+STANDARD: 4
+VERB: 7
+SPLIT: 0
+CAPITAL: 7
+TRANS: 10
+EFF: 27
+JOIN: 0
+PRONOUN: 8
+ITALIC: 31
+PREP: 3
+ABBR: 15
+Total Pair: 309
+
+==================================================================
+
+Unannotated: 0
+CHANGE: 82
+ITALIC: 31
+PRONOUN: 8
+SPACE: 16
+CAPITAL: 7
+REDUNDANT: 20
+STANDARD: 4
+PUNCT: 14
+VERB: 7
+LOGIC: 8
+EFF: 27
+TYPO: 31
+PARALELLISM: 2
+CONJ: 18
+TRANS: 10
+PREP: 3
+INCOMPLETE: 6
+ABBR: 15
+Total Pair: 309
+
+==================================================================
+
+-------------------------------------
+|			|	 pairs collected	|
+-------------------------------------
+| threshold	|   10doc	|	44doc	|
+-------------------------------------
+|    0.7	|	  93	|    271	|
+|    0.6	|	 107	|	 302	|
+|    0.5	|	 107	|	 303	|
+|    0.4	|	 108 	|	 357	|
+|    0.3	|	 121 	|	 384	|
+-------------------------------------
+
+==================================================================

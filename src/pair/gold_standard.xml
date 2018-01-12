@@ -1,0 +1,1855 @@
+<CORPUS>
+<PAIR>
+<BEFORE>Dengan adanya <it>Continuous</it> <it>Translation</it> <it>Tool</it> diharapkan tim <it>content</it> <it>writer</it> dapat melakukan proses penerjemahan konten secara independen serta lebih efektif dan efisien dengan adanya konteks yang jelas untuk konten yang akan diterjemahkan.</BEFORE>
+<AFTER>Dengan adanya <it>Continuous</it> <it>Translation</it> <it>Tool</it> diharapkan tim <it>content</it> <it>writer</it> dapat melakukan proses penerjemahan konten secara independen serta lebih efektif dan efisien.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dari masalah-masalah tersebut, pelaksana KP mencoba untuk menyelesaikan maslah denan berkonsultasi dengan mentor dan tim Android <it>Development.</it> Setelah melaksanakan kerja praktik ini, kemampuan menyelesaikan masalah pelaksana KP sangat meningkat terutama dalam mencari solusi yang efektif dan efisien.</BEFORE>
+<AFTER>Dari masalah-masalah tersebut, pelaksana KP mencoba untuk menyelesaikan masalah dengan berkonsultasi dengan mentor dan tim Android <it>Development.</it> Setelah melaksanakan kerja praktik ini, kemampuan menyelesaikan masalah pelaksana KP sangat meningkat terutama dalam mencari solusi yang efektif dan efisien.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>• Pengelolaan waktu Proyek <it>continuous</it> <it>translation</it> <it>tool</it> diharapkan dapat dilakukan percobaan sebelum rilis pada akhir bulan Juli 2016.</BEFORE>
+<AFTER>• Pengelolaan waktu Proyek <it>Continuous</it> <it>Ttranslation</it> <it>Tool</it> diharapkan dapat dilakukan percobaan sebelum rilis pada akhir bulan Juli 2016.</AFTER>
+<ERRTYPE>CAPITAL</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada tanggal 14 Maret 2016, penulis mengajukan lamaran sebagai <it>Android</it> <it>Developer</it> <it>Intern</it> di PT Bukalapak.com dengan mengirimkan surat elektronik berisi surat pengajuan lamaran magang, <it>resumee</it> dan <it>cover</it> <it>letter.</it> Pada hari yang sama, penulis mendapatkan balasan surat elektronik dari tim HRD terkait lamaran tersebut.</BEFORE>
+<AFTER>Pada tanggal 14 Maret 2016, penulis mengajukan lamaran sebagai <it>Android</it> <it>Developer</it> <it>Intern</it> di PT Bukalapak.com dengan mengirimkan surat elektronik berisi surat pengajuan lamaran magang, <it>resume,</it> dan <it>cover</it> <it>letter.</it> Pada hari yang sama, penulis mendapatkan balasan surat elektronik dari tim HRD terkait lamaran tersebut.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kemudian, pada tahap kedua, penulis melaksanakan tes wawancara dengan tim Android Developer PT Bukalapak.com.</BEFORE>
+<AFTER>Pada tahap kedua, penulis melaksanakan tes wawancara dengan tim Android Developer PT Bukalapak.com.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Halaman tersebut dinilai memiliki pengalaman penggunaan yang kurang baik.</BEFORE>
+<AFTER>Halaman tersebut dinilai memiliki pengalaman penggunaan yang kurang baik dan perlu diperbarui.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itu, <it>redesign</it> pada dua halaman tersebut dilakukan supaya pengguna lebih mudah memakainya.</BEFORE>
+<AFTER>Oleh karena itu, <it>redesign</it> pada dua halaman tersebut dilakukan supaya pengguna lebih mudah dan memberikan pengalaman baru pada saat memakainya.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Software ini dapat diunduh secara gratis, dan tersedia untuk OS Windows dan Mac.</BEFORE>
+<AFTER><it>Software</it> ini dapat diunduh secara gratis, dan tersedia untuk OS Windows dan Mac.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Software ini dapat diunduh secara gratis, dan tersedia untuk OS Windows dan Mac.</BEFORE>
+<AFTER>Software ini dapat diunduh secara gratis, dan tersedia untuk sistem operasi Windows dan Mac.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Genymotion menyediakan simulator untuk berbagai system operasi Android, seperti Lollipop, Kitkat, JellyBean dan system operasi Android yang lain.</BEFORE>
+<AFTER>Genymotion menyediakan simulator untuk berbagai sistem operasi Android, seperti Lollipop, Kitkat, JellyBean dan sistem operasi Android yang lain.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis memperkirakan kerja praktik selesai pada tanggal 19 Agustus, namun pada saat realisasi kerja praktik selesai pada tanggal 26 Agustus 2016.</BEFORE>
+<AFTER>Penulis memperkirakan kerja praktik selesai pada tanggal 19 Agustus, tetapi pada saat realisasi kerja praktik selesai pada tanggal 26 Agustus 2016.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Struktur Data Algoritma Pada mata kuliah ini, materi yang memiliki keterkaitan dengan pekerjaan penulis yaitu terkait pemilihan struktur data yang tepat dalam suatu masalah, dan menentukan algoritma yang tepat untuk masalah tersebut.</BEFORE>
+<AFTER>Struktur Data Algoritma Pada mata kuliah ini, materi yang memiliki keterkaitan dengan pekerjaan penulis yaitu terkait pemilihan struktur data yang tepat dalam suatu masalah, dan menentukan algoritme yang tepat untuk masalah tersebut.</AFTER>
+<ERRTYPE>STANDARD</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Banyak mata kuliah yang memiliki relevansi terhadap pekerjaan di Bukalapak, sperti Dasar-Dasar Pemrograman, Struktur Data Algoritma, Perencanaan dan Pemrograman Web, Rekayasa Perangkat Lunak dan Pemrograman Perangkat Lunak.</BEFORE>
+<AFTER>Banyak mata kuliah yang memiliki relevansi terhadap pekerjaan di Bukalapak, seperti Dasar-Dasar Pemrograman, Struktur Data Algoritma, Perencanaan dan Pemrograman Web, Rekayasa Perangkat Lunak dan Pemrograman Perangkat Lunak.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Terdapat 13 perusahaan yang penulis daftar hingga akhirnya penulis mendapatkan tempat magang.</BEFORE>
+<AFTER>Terdapat 13 perusahaan yang penulis lamar hingga akhirnya penulis mendapatkan tempat magang.</AFTER>
+<ERRTYPE>VERB</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Posisi yang penulis lamar pun beragam, mulai dari <it>product</it> <it>manager,</it> <it>information</it> <it>technology,</it> <it>quality</it> <it>assurance,</it> <it>product</it> <it>analyst,</it> <it>data</it> <it>analyst,</it> <it>web</it> <it>developer,</it> hingga <it>front</it> <it>end</it> <it>developer.</it> Penulis sendiri menginginkan kerja praktik di <it>startup</it> karena penulis memiliki bahwa di <it>startup</it> penulis dapat belajar banyak dengan suasana yang biasanya menyenangkan.</BEFORE>
+<AFTER>Posisi yang penulis lamar pun beragam, mulai dari <it>product</it> <it>manager,</it> <it>information</it> <it>technology,</it> <it>quality</it> <it>assurance,</it> <it>product</it> <it>analyst,</it> <it>data</it> <it>analyst,</it> <it>web</it> <it>developer,</it> hingga <it>front</it> <it>end</it> <it>developer.</it> Penulis sendiri menginginkan kerja praktik di <it>startup</it> karena penulis memiliki pemikiran bahwa di <it>startup</it> penulis dapat belajar banyak dengan suasana yang biasanya menyenangkan.</AFTER>
+<ERRTYPE>INCOMPLETE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis memulai pencarian kerja praktik pada tanggal 11 Maret 2016 untuk posisi <it>product</it> <it>manager</it> di Global Digital Prima yang biasa dikenal GDP.</BEFORE>
+<AFTER>Penulis memulai pencarian kerja praktik pada tanggal 11 Maret 2016 untuk posisi <it>product</it> <it>manager</it> di Global Digital Prima atau yang biasa dikenal GDP.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis pernah magang di GDP satu semester sebelum masa kerja praktik.</BEFORE>
+<AFTER>Penulis pernah magang di GDP pada bulan Desember hingga Februari 2016.</AFTER>
+<ERRTYPE>INCOMPLETE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Adapun maksud penulis mendaftar magang di GDP satu semester sebelumnya agar penulis mendapatkan pengalaman tambahan dan mempermudah pencarian magang ketika masa kerja praktik.</BEFORE>
+<AFTER>Adapun maksud penulis mendaftar magang di GDP satu semester sebelumnya agar penulis mendapatkan pengalaman kerja dan mempermudah pencarian magang ketika masa kerja praktik.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis sebenarnya mengetahui bahwa beberapa teman penulis sudah mendaftar magang di GDP semenjak Februari 2016, namun karena penulis memiliki pemikiran bahwa terlalu cepat untuk mendaftar magang lagi di sana, akhirnya surat lamaran magang di GDP baru penulis kirimkan 11 Maret 2016.</BEFORE>
+<AFTER>Penulis sebenarnya mengetahui bahwa beberapa teman penulis sudah mendaftar magang di GDP semenjak Februari 2016, namun penulis memiliki pemikiran bahwa terlalu cepat untuk mendaftar magang lagi di sana.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Akhirnya penulis menghubungi pembimbing yang telah membimbing penulis ketika magang di GDP.</BEFORE>
+<AFTER>Oleh karena itu, penulis menghubungi penyelia yang telah membimbing penulis ketika magang di GDP.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah pembimbing penulis mengonfirmasi kepada pihak HR, penulis diberi tahu oleh pembimbing bahwa magang dengan posisi <it>product</it> <it>manager</it> sudah penuh.</BEFORE>
+<AFTER>Setelah penyelia penulis mengonfirmasi kepada pihak HR, penulis diberi tahu bahwa magang dengan posisi <it>product</it> <it>manager</it> sudah penuh.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Perusahaan kedua yang penulis daftar yaitu Kios untuk Dagang Online atau yang biasa dikenal Kudo.</BEFORE>
+<AFTER>Perusahaan kedua yang penulis lamar yaitu Kios untuk Dagang Online atau yang biasa dikenal Kudo.</AFTER>
+<ERRTYPE>VERB</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada bulan Maret 2016, terdapat pesan dari teman angkatan bahwa jika ingin mendaftar magang di Kudo dapat mengirimkan <it>email</it> ke orang tertentu dengan <it>email</it> Kudo.</BEFORE>
+<AFTER>Pada bulan Maret 2016, terdapat pesan dari teman angkatan bahwa jika ingin mendaftar magang di Kudo dapat mengirimkan <it>email</it> ke orang tertentu.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis pun mengirimkan email kepada kontak yang tertera di pesan tersebut pada 21 Maret 2016, namun <it>email</it> tersebut tidak ada balasan.</BEFORE>
+<AFTER>Penulis pun mengirimkan email lamaran magang kepada kontak yang tertera di pesan tersebut pada 21 Maret 2016, namun <it>email</it> tersebut tidak ada balasan.</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain <it>email,</it> ada teman penulis yang mendapatkan email dari <it>Human</it> <it>Capital</it> (HC) Kudo yang mengatakan bahwa perlu mengisi <it>form</it> yang terlampir pada <it>email-nya</it> dan akan dilakukan wawancara bersama teman yang diajak oleh teman penulis itu.</BEFORE>
+<AFTER>Ada teman penulis yang mengirimkan email kepada <it>Human</it> <it>Capital</it> (HC) Kudo mengenai pendaftaran mangang dan mendapatkan balasan berisi <it>form</it> yang terlampir pada <it>email-nya</it> dan waktu wawancara.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah menunggu beberapa lama, penulis tidak mendapatkan email balasan.</BEFORE>
+<AFTER>Penulis mengirimkan <it>email</it> beberapa kali (21, 23, dan 31 Maret 2016) karena email yang penulis kirimkan tidak kunjung mendapat balasan.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah wawancara, penulis diberi tugas yang berisi apa yang ingin dipelajari dan apa <it>job</it> <it>desc</it> dari posisi yang penulis lamar, namun penulis tidak melanjutkan proses pendaftaran lebih lanjut karena melihat budaya dari perusahaan tersebut berkomunikasi menggunakan bahasa Inggris Penulis juga mengirimkan <it>email</it> pendaftaran magang ke Veritrans (yang kini telah berubah namanya menjadi Midtrans) dengan posisi <it>Business</it> <it>Development</it> pada 31 Maret 2016.</BEFORE>
+<AFTER>Setelah wawancara, penulis diberi tugas untuk membuat laporan mengenai hal yang ingin dipelajari dan apa <it>job</it> <it>desc</it> dari posisi yang penulis lamar.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun karena waktu mulai magang yang ditentukan oleh pihak IBM adalah masa perkuliahan, penulis tidak melanjutkan pendaftaran di sana.</BEFORE>
+<AFTER>Namun karena waktu mulai magang yang ditentukan oleh pihak IBM merupakan masa perkuliahan, penulis tidak melanjutkan pendaftaran di sana.</AFTER>
+<ERRTYPE>VERB</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dari <it>email</it> yang penulis kirimkan kepada <it>Human</it> <it>Capital</it> (HC) Kudo pada 4 Mei 2016, akhirnya dihubungi melalui telepon untuk melanjutkan ke proses wawancara.</BEFORE>
+<AFTER>Dari <it>email</it> yang penulis kirimkan kepada <it>Human</it> <it>Capital</it> (HC) Kudo pada 4 Mei 2016, akhirnya penulis dihubungi HC melalui telepon untuk melanjutkan ke proses wawancara.</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain ditelepon penulis juga diberikan email pada tanggal 9 Mei 2016 sebagai pengingat mengenai agenda wawancara.</BEFORE>
+<AFTER>Selain ditelepon, penulis juga diberikan email pada tanggal 9 Mei 2016 sebagai pengingat mengenai agenda wawancara.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Wawancara diagendakan untuk dilaksanakan pada Rabu, 11 Mei 2016.</BEFORE>
+<AFTER>Wawancara diagendakan pada Rabu, 11 Mei 2016.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis juga sempat bertanya-tanya kepada teman yang telah diterima di Kudo mengenai konten pertanyaan yang diajukan pada saat wawancara dan juga cara untuk sampai di kantor Kudo.</BEFORE>
+<AFTER>Penulis juga sempat bertanya-tanya kepada teman yang telah diterima di Kudo mengenai konten pertanyaan yang diajukan pada saat wawancara dan transportasi menuju kantor Kudo.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Ini dapat terbukti dengan adanya <it>release</it> <it>engineer</it> yang memastikan bahwa setiap rilis sudah memiliki laporan yang baik dari <it>quality</it> <it>assurance.</it> Untuk bisa dirilis, fitur/aplikasi hanya boleh memiliki kekurangan yang bisa ditoleransi atau bahkan tidak ada <it>bug</it> sama sekali.</BEFORE>
+<AFTER>Ini dapat terbukti dengan adanya tim <it>release</it> <it>engineer</it> yang memastikan bahwa setiap rilis sudah memiliki laporan yang baik dari <it>quality</it> <it>assurance.</it> Untuk bisa dirilis, fitur/aplikasi hanya boleh memiliki kekurangan yang bisa ditoleransi atau bahkan tidak ada <it>bug</it> sama sekali.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setiap kali rilis, semua pengembang harus mengecek secara manual fitur/aplikasi yang akan dirilis sehingga pengembang tidak fokus dalam mengembangkan aplikasi, tetapi juga harus melakukan pengetesan yang bisa memakan waktu yang lama.</BEFORE>
+<AFTER>Setiap kali rilis, semua pengembang harus mengecek secara manual fitur/aplikasi yang akan dirilis sehingga pengembang tidak fokus dalam mengembangkan aplikasi.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dengan Kudo memiliki perhatian kepada kualitas kepada setiap produknya, aplikasi <it>Field</it> Officer pun juga harus melewati proses pengecekan oleh <it>quality</it> <it>assurance.</it> Aplikasi <it>field</it> <it>officer</it> merupakan sebuah aplikasi yang pengembangannya diserahkan kepada peserta magang.</BEFORE>
+<AFTER>Dengan Kudo memiliki perhatian kepada kualitas kepada setiap produknya, aplikasi <it>Field</it> <it>Officer</it> pun juga harus melewati proses pengecekan oleh <it>quality</it> <it>assurance.</it> Pengembangan aplikasi <it>field</it> <it>officer</it> diserahkan kepada peserta magang.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dengan Kudo memiliki perhatian kepada kualitas kepada setiap produknya, aplikasi <it>Field</it> Officer pun juga harus melewati proses pengecekan oleh <it>quality</it> <it>assurance.</it> Aplikasi <it>field</it> <it>officer</it> merupakan sebuah aplikasi yang pengembangannya diserahkan kepada peserta magang.</BEFORE>
+<AFTER>Dengan Kudo memiliki perhatian kepada kualitas kepada setiap produknya, aplikasi <it>field</it> officer pun juga harus melewati proses pengecekan oleh <it>quality</it> <it>assurance.</it> Pengembangan aplikasi <it>field</it> <it>officer</it> diserahkan kepada peserta magang.</AFTER>
+<ERRTYPE>CAPITAL</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena masing-masing anggota <it>quality</it> <it>assurance</it> memiliki kesibukan tersendiri terhadap setiap proyeknya, pengetesan aplikasi <it>field</it> <it>officer</it> ditugaskan kepada penulis dan satu teman penulis.</BEFORE>
+<AFTER>Oleh karena masing-masing anggota tim <it>quality</it> <it>assurance</it> memiliki kesibukan tersendiri terhadap setiap proyeknya, pengetesan aplikasi <it>field</it> <it>officer</it> ditugaskan kepada penulis dan satu teman penulis.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kebutuhan akan aplikasi <it>field</it> <it>officer</it> ini dirasakan oleh Kudo karena <it>field</it> <it>officer</it> sering kesulitan untuk menawarkan produk yang tepat ke agen Kudo yang tepat.</BEFORE>
+<AFTER>Kebutuhan akan aplikasi ini dirasakan oleh Kudo setelah banyak <it>field</it> <it>officer</it> kesulitan untuk menawarkan produk yang tepat ke agen-agen Kudo.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Field</it> <it>officer</it> (FO) merupakan perwakilan yang mewakili Kudo untuk berkomunikasi dengan para agen Kudo sehingga Kudo pun bisa dapat dengan mudah memberikan promosi dan juga menerima saran dari agennya.</BEFORE>
+<AFTER><it>Field</it> <it>officer</it> (FO) merupakan <it>front-line</it> yang mewakili Kudo untuk berkomunikasi dengan para agen Kudo.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dengan genymotion, QA bisa melakukan testing terhadap suatu aplikasi dari beberapa perangkat berbeda tanpa harus benar-benar memilikinya.</BEFORE>
+<AFTER>Genymotion ini juga memungkinkan QA untuk melakukan testing terhadap suatu aplikasi dari beberapa perangkat berbeda tanpa harus benar-benar memilikinya.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dan diakhiri dengan penilaian penulis terhadap Kudo setelah melaksanakan kerja praktik.</BEFORE>
+<AFTER>Bagian ini diakhiri dengan penilaian penulis terhadap Kudo setelah melaksanakan kerja praktik.</AFTER>
+<ERRTYPE>INCOMPLETE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk menanganinya, penulis banyak bertanya kepada penyelia dan anggota QA lainnya mengenai <it>tool.</it> Selain bertanya, penulis juga berusaha belajar mandiri dari internet untuk mengetahui cara menggunakan <it>tool.</it> Selain <it>tool</it> yang begitu banyak, pada awal masa kerja praktik, penulis kebingungan fungsi tabel dan relasi antar tabel yang ada di basis data Kudo.</BEFORE>
+<AFTER>Untuk menanganinya, penulis banyak bertanya kepada penyelia dan anggota QA lainnya mengenai <it>tool.</it> Selain bertanya, penulis juga berusaha belajar mandiri dari internet untuk mengetahui cara menggunakan <it>tool.</it> Selain <it>tool</it> yang begitu banyak, pada awal masa kerja praktik, penulis kebingungan pada fungsi tabel dan relasi antar tabel yang ada di basis data Kudo.</AFTER>
+<ERRTYPE>PREP</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain mempelajari dokumentasi yang diberikan penyelia, penulis juga sering bertanya secara langsung beberapa tabel yang belum ada di dokumentasi dan penulis juga sering melakukan eksplorasi terhadap setiap tabel yang ada.</BEFORE>
+<AFTER>Selain mempelajari dokumentasi yang diberikan penyelia, penulis juga sering bertanya secara langsung beberapa tabel yang belum ada di dokumentasi.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>27 September 2016  <bo>Struktur</bo> <bo>Singkat</bo> <bo>Organisasi</bo> Struktur organisasi dari perusahaan JOB PTJM sendiri terdiri dari seorang <it>General</it> <it>Manager</it> yang dibantu oleh <it>Chief</it> <it>Audit,</it> <it>Commercial</it> <it>Head,</it> serta <it>Executive</it> <it>Secretary</it> dimana membawahi langsung 9 departemen (dipimpin oleh seorang <it>Manager)</it> dibawahnya.</BEFORE>
+<AFTER>27 September 2016  <bo>Struktur</bo> <bo>Singkat</bo> <bo>Organisasi</bo> Struktur organisasi dari perusahaan JOB PTJM sendiri terdiri dari seorang General Manager yang dibantu oleh Chief Audit, Commercial Head, serta Executive Secretary dimana membawahi langsung 9 departemen (dipimpin oleh seorang Manager) dibawahnya, antara lain QHSSE Department, Exploration Department, Subsurface Department, DWO & Engineering Department, Project Facility Department, Field Department, Supply Chain Management Department, Business Support Management, serta Finance Department.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Informasi lengkap perihal struktur organisasi pusat beserta departmen di bawahnya di perusahaan JOB PTJM, terdapat pada ilustrasi bagan berikut : Gambar 1.3 Struktur Organisasi Pusat Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016).</BEFORE>
+<AFTER>Informasi lengkap perihal struktur organisasi pusat beserta Departemen Supply Chain Management, selaku departemen dimana penulis melakukan kerja praktik, terdapat pada ilustrasi bagan berikut : Gambar 1.3 Struktur Organisasi Pusat Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016).</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Mata kuliah RPL membantu penulis memahami tahapan SDLC yang diterapkan di Bobobobo dan cara membuat use case spesification.</BEFORE>
+<AFTER>Mata kuliah RPL membantu penulis memahami tahapan SDLC yang diterapkan di Bobobobo dan cara membuat <it>use</it> <it>case</it> <it>specification.</it> Mata kuliah Basis Data membantu penulis dalam memahami <it>relational</it> <it>database.</it> Mata kuliah Propensi, khususnya, sangat membantu penulis dalam berbagai aspek.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tempat kerja tersebut juga diharapkan dapat mengembangkan potensi pelaksana KP yang berminat menjadi <it>software</it> <it>engineer.</it> Daftar calon perusahaan yang sesuai dengan kriteria tersebut diantaranya PT.</BEFORE>
+<AFTER>Tempat kerja tersebut juga diharapkan dapat mengembangkan potensi pelaksana KP yang berminat menjadi <it>software</it> <it>engineer.</it> Daftar calon perusahaan yang sesuai dengan kriteria tersebut di antaranya PT.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, pelaksana KP tahu betul bahwa PT.</BEFORE>
+<AFTER>Selain itu, pelaksana KP tahu bahwa PT.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Bukalapak.com, pelaksana KP melakukan pencarian di Google tentang rekrutmennya.</BEFORE>
+<AFTER>Bukalapak.com, pelaksana KP melakukan pencarian di Google tentang proses rekrutmennya.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksana KP belum juga mendapat konfirmasi apapun terkait lamaran kerja praktik setelah beberapa hari menunggu.</BEFORE>
+<AFTER>Pelaksana KP belum juga mendapat konfirmasi apa pun terkait lamaran kerja praktik setelah beberapa hari menunggu.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Ada dua tahapan tes wawancara yang dilakukan, pertama wawancara dengan HCM (<it>Human</it> <it>Capital</it> <it>Management,</it> kemudian wawancara dengan <it>user</it> (pada kasus ini adalah <it>senior</it> <it>software</it> <it>engineer).</it> Wawancara bersama HCM dilakukan kurang lebih 30 menit, pertanyaan yang diberikan seputar pengalaman kerja dan organisasi.</BEFORE>
+<AFTER>Ada dua tahapan tes wawancara yang dilakukan, pertama wawancara dengan HCM (<it>Human</it> <it>Capital</it> <it>Management),</it> kemudian wawancara dengan <it>user</it> (pada kasus ini adalah <it>senior</it> <it>software</it> <it>engineer).</it> Wawancara bersama HCM dilakukan kurang lebih 30 menit, pertanyaan yang diberikan seputar pengalaman kerja dan organisasi.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Bukalapak.com, pelaksana KP juga mencari-cari di Google mengenai informasi rekrutmen untuk perusahan lain di daftar.</BEFORE>
+<AFTER>Bukalapak.com, pelaksana KP juga mencari-cari di Google mengenai informasi rekrutmen untuk perusahan lain.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Vesperia, atau lengkapnya PT Vesperia Global Merdeka, adalah perusahaan yang bergerak dibidang teknologi informasi dan menerima beberapa proyek pekerjaan perangkat lunak.</BEFORE>
+<AFTER>Vesperia, atau lengkapnya PT Vesperia Global Merdeka, adalah perusahaan yang bergerak di bidang teknologi informasi dan menerima beberapa proyek pekerjaan perangkat lunak.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Perusahaan-perusahaan tersebut diantaranya Bizzy, Blackgarlic.id , Mainspring Technology, dan Tri-Niche Pte.</BEFORE>
+<AFTER>Perusahaan-perusahaan tersebut di antaranya Bizzy, Blackgarlic.id , Mainspring Technology, dan Tri-Niche Pte.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun mengingat pelaksana KP memiliki sasaran dan kriteria perusahaan tertentu untuk dijadikan tempat pelaksanaan KP, pelaksana KP memutuskan untuk menolak tawaran-tawaran tersebut.</BEFORE>
+<AFTER>Namun, mengingat pelaksana KP memiliki sasaran dan kriteria perusahaan tertentu untuk dijadikan tempat pelaksanaan KP, pelaksana KP memutuskan untuk menolak tawaran-tawaran tersebut.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kriteria perusahaan yang diinginkan pelaksana KP adalah <it>startup</it> yang bergerak dibidang teknologi informasi (TI) dengan sasaran posisi yang diinginkan adalah <it>software</it> <it>engineer.</it> <it>Startup</it> merupakan perusahaan muda yang mulai berkembang dalam mengembangkan bisnisnya.</BEFORE>
+<AFTER>Kriteria perusahaan yang diinginkan pelaksana KP adalah <it>startup</it> yang bergerak di bidang teknologi informasi (TI) dengan sasaran posisi yang diinginkan adalah <it>software</it> <it>engineer.</it> <it>Startup</it> merupakan perusahaan muda yang mulai berkembang dalam mengembangkan bisnisnya.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksana KP memilih kriteria tersebut karena menurut pelaksana KP perusahaan tersebut akan memberikan pengalaman yang lebih baik untuk karir pelaksana KP kedepannya.</BEFORE>
+<AFTER>Pelaksana KP memilih kriteria tersebut karena menurut pelaksana KP perusahaan tersebut akan memberikan pengalaman yang lebih baik untuk karir pelaksana KP ke depannya.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Perusahaan-perusahaan tersebut diantaranya Traveloka, Bukalapak, dan Tokopedia.</BEFORE>
+<AFTER>Perusahaan-perusahaan tersebut di antaranya Traveloka, Bukalapak, dan Tokopedia.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk pendaftaran Tokopedia dan Bukalapak sebetulnya hanya berdasarkan naluri dan ajakan teman pelaksana KP saja.</BEFORE>
+<AFTER>Pendaftaran Tokopedia dan Bukalapak hanya didasari oleh naluri dan ajakan teman pelaksana KP.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu Tokopedia dan Bukalapak juga memenuhi kriteria tempat pelaksanaan KP yang pelaksana inginkan sehingga pelaksana KP tetap mendaftarkan diri di kedua perusahaan tersebut.</BEFORE>
+<AFTER>Selain itu, Tokopedia dan Bukalapak memenuhi kriteria tempat pelaksanaan KP yang pelaksana inginkan.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itu pelaksana KP memutuskan untuk mulai bekerja di Traveloka pada tanggal 6 Juni 2016 dan menandatangani surat kerjasama yang diberikan oleh Traveloka.</BEFORE>
+<AFTER>Oleh karena itu, pelaksana KP memutuskan untuk mulai bekerja di Traveloka pada tanggal 6 Juni 2016 dan menandatangani surat kerjasama yang diberikan oleh Traveloka.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Posisi duduk mentor dan pelaksana KP berdekatan sehingga kedepannya memudahkan pelaksana KP untuk melakukan diskusi dan tanya jawab dengan mentor.</BEFORE>
+<AFTER>Posisi duduk mentor dan pelaksana KP berdekatan sehingga ke depannya memudahkan pelaksana KP untuk melakukan diskusi dan tanya jawab dengan mentor.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksana KP fokus untuk membuat satu modul tambahan yaitu modul <it>UserRiskDetection</it> untuk kedepannya dapat digunakan oleh seluruh tim <it>User</it> atau bahkan seluruh <it>software</it> <it>engineer</it> Traveloka.</BEFORE>
+<AFTER>Pelaksana KP fokus untuk membuat satu modul tambahan yaitu modul <it>UserRiskDetection</it> untuk ke depannya dapat digunakan oleh seluruh tim <it>User</it> atau bahkan seluruh <it>software</it> <it>engineer</it> Traveloka.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Halaman <it>administrator</it> memiliki beberapa fungsi, diantaranya:  Membuat atau menghapus suatu <it>rule</it> terkait deteksi perocabaan <it>login</it> tidak wajar yang dilakukan oleh suatu alamat IP.</BEFORE>
+<AFTER>Halaman <it>administrator</it> memiliki beberapa fungsi, di antaranya:  Membuat atau menghapus suatu <it>rule</it> terkait deteksi perocabaan <it>login</it> tidak wajar yang dilakukan oleh suatu alamat IP.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE> Memasukkan alamat IP kedalam daftar <it>while</it> <it>list.</it> <it>Deliverables</it> yang dihasilkan oleh pelaksana KP selama pelaksanaan kerja praktik diantaranya:  Dokumentasi Pelaksana KP diminta untuk membuat dokumentasi yang baik terkait fitur yang dibuat.</BEFORE>
+<AFTER> Memasukkan alamat IP kedalam daftar <it>while</it> <it>list.</it> <it>Deliverables</it> yang dihasilkan oleh pelaksana KP selama pelaksanaan kerja praktik di antaranya:  Dokumentasi Pelaksana KP diminta untuk membuat dokumentasi yang baik terkait fitur yang dibuat.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Proses belajar mandiri tidak hanya dilakukan oleh pelaksana KP, namun juga dilakukan oleh anggota lainnya.</BEFORE>
+<AFTER>Proses belajar mandiri tidak hanya dilakukan oleh pelaksana KP, tetapi juga dilakukan oleh anggota lainnya.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis melamar untuk magang di Google Inc. pada bulan November 2015, melalui jalur <it>referral,</it> yaitu jalur rekomendasi oleh orang yang telah bekerja tetap di Google Inc.. Kurang dari dua minggu setelah mengirim lamaran, perekrut dari pihak Google Inc. mengontak saya mengenai wawancara teknis yang akan dilakukan sebanyak dua kali.</BEFORE>
+<AFTER>Penulis melamar untuk magang di Google Inc. pada bulan November 2015, melalui jalur <it>referral,</it> yaitu jalur rekomendasi oleh orang yang telah bekerja secara tetap di Google Inc.. Kurang dari dua minggu setelah mengirim lamaran, perekrut dari pihak Google Inc. mengontak saya mengenai wawancara teknis yang akan dilakukan sebanyak dua kali.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>BigTable [2] adalah sebuah sistem basis data terstruktur secara terdistribusi.</BEFORE>
+<AFTER>BigTable [2] adalah sebuah sistem basis data terstruktur yang terdistribusi.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>BigTable didesain sedemikian rupa sehingga mampu digunakan hingga untuk skala yang sangat besar, mencapai ukuran data dalam satuan Petabytes dan dalam ribuan <it>server</it> terpisah.</BEFORE>
+<AFTER>BigTable didesain sedemikian rupa sehingga mampu digunakan hingga untuk skala yang sangat besar, mencapai ukuran data dalam satuan petabyte (PB) dan dalam ribuan <it>server</it> terpisah.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam kerja praktik ini, BigTable digunakan dalam dua hal, yaitu sebagai (1) struktur data yang digunakan untuk menyimpan <it>index</it> asli dari data yang akan dibangun <it>secondary</it> <it>index-nya,</it> serta sebagai (2) salah satu <it>backend</it> untuk membuat <it>secondary</it> <it>index</it> terhadap data awal yang telah terindeks.</BEFORE>
+<AFTER>Dalam kerja praktik ini, BigTable digunakan dalam dua hal, yaitu sebagai (1) struktur data yang digunakan untuk menyimpan indeks asli dari data yang akan dibangun <it>secondary</it> <it>index-nya,</it> serta sebagai (2) salah satu <it>backend</it> untuk membuat <it>secondary</it> <it>index</it> terhadap data awal yang telah terindeks.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Spanner [1] adalah sistem basis data lainnya yang dibuat oleh Google, yang memiliki fitur-fitur: Suatu basis data dapat memiliki banyak versi, terdistribusi secara global, serta terduplikasi/replikasi secara sinkronus.</BEFORE>
+<AFTER>Spanner [1] adalah sistem basis data lainnya yang dibuat oleh Google, yang memiliki fitur-fitur: Suatu basis data dapat memiliki banyak versi, terdistribusi secara global, serta terduplikasi/terreplikasi secara sinkronus.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>MapReduce menerima masukan berupa data dalam format pasangan <it>key</it> dan <it>pair,</it> dan mengeluarkan data dalam format <it>key</it> dan <it>pair</it> pula.</BEFORE>
+<AFTER>MapReduce menerima masukan berupa data dalam format pasangan <it>key</it> dan <it>value,</it> dan mengeluarkan data dalam format <it>key</it> dan <it>value</it> pula.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>MapReduce bekerja dengan cara memproses masukan menjadi keluaran dalam format <it>key</it> dan <it>pair</it> dengan menggunakan fungsi Map yang telah didefinisikan.</BEFORE>
+<AFTER>MapReduce bekerja dengan cara memproses masukan menjadi keluaran dalam format <it>key</it> dan <it>value</it> dengan menggunakan fungsi Map yang telah didefinisikan.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Keluaran dari fungsi Map tersebut kemudian diproses menggunakan fungsi Reduce menjadi keluaran akhir dalam format <it>key</it> dan <it>pair.</it> Dalam kerja praktik ini, MapReduce digunakan untuk melakukan <it>sampling</it> terhadap data yang terdapat pada sistem produksi.</BEFORE>
+<AFTER>Keluaran dari fungsi Map tersebut kemudian diproses menggunakan fungsi Reduce menjadi keluaran akhir dalam format <it>key</it> dan <it>value.</it> Dalam kerja praktik ini, MapReduce digunakan untuk melakukan <it>sampling</it> terhadap data yang terdapat pada sistem produksi.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>MapReduce dibutuhkan dalam melakukan <it>sampling</it> karena ukuran data sangat besar (lebih dari 10 Terabytes).</BEFORE>
+<AFTER>MapReduce dibutuhkan dalam melakukan <it>sampling</it> karena ukuran data sangat besar (lebih dari 10 TB).</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam mempertimbangkan tempat kerja praktik, pelaksana kerja praktik awalnya sangat berminat untuk melakukan kerja praktik pada posisi <it>software</it> <it>engineer</it> mengingat pelaksana kerja praktik sangat menyukai proses <it>problem</it> <it>solving.</it> Oleh karena itu, pada awal masa pencarian tempat kerja praktik, pelaksana kerja praktik kebanyakan melamar di <it>startup/software</it> <it>house</it> yang membuka <it>internship</it> pada posisi <it>software</it> <it>enginnering.</it> Pelaksana kerja praktik pun akhirnya dipanggil untuk mengikuti tahap wawancara di beberapa perusahaan.</BEFORE>
+<AFTER>Dalam mempertimbangkan tempat kerja praktik, pelaksana kerja praktik awalnya sangat berminat pada posisi <it>software</it> <it>engineer.</it> Hal ini dikarenakan pelaksana kerja praktik sangat menyukai proses <it>problem</it> <it>solving.</it> Oleh karena itu, pada awal masa pencarian tempat kerja praktik, pelaksana kerja praktik kebanyakan melamar di <it>startup/software</it> <it>house</it> yang membuka <it>internship</it> pada posisi <it>software</it> <it>engineering.</it> Pelaksana kerja praktik pun akhirnya dipanggil untuk mengikuti tahap wawancara di beberapa perusahaan.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Akan tetapi setelah beberapa kali melakukan wawancara <it>internship</it> untuk posisi <it>software</it> <it>engineering,</it> pelaksana kerja praktik mulai menyadari bahwa pelaksana kerja praktik tidak lagi memiliki minat yang besar terhadap bidang <it>software</it> <it>engineering.</it> Meskipun pada akhirnya pelaksana kerja praktik mendapatkan tawaran <it>internship</it> sebagai <it>software</it> <it>engineer</it> di salah satu perusahaan, penulis menolak tawaran tesebut karena ingin lebih mendalami bidang Sistem Informasi lainnya seperti <it>business</it> <it>intelligence</it> dan <it>knowledge</it> <it>management.</it> Pelaksana kerja praktik pun mulai mencari tempat kerja praktik yang membuka <it>internship</it> di bidang <it>business</it> <it>intelligence,</it> <it>knowledge</it> <it>management,</it> <it>project</it> <it>manager,</it> ataupun <it>system</it> <it>analyst.</it> Sekitar bulan April 2016, pelaksana kerja praktik mendapatkan informasi bahwa PT Go-Jek Indonesia membuka <it>internship</it> pada bidang <it>business</it> <it>intelligence.</it> Pelaksana kerja praktik pun mencoba melamar, namun ternyata panggilan yang didapatkan oleh pelaksana kerja praktik adalah untuk bidang <it>business</it> <it>development</it> PT Go-Jek Indonesia.</BEFORE>
+<AFTER>Akan tetapi, setelah beberapa kali melakukan wawancara <it>internship</it> untuk posisi <it>software</it> <it>engineering,</it> pelaksana kerja praktik mulai menyadari bahwa pelaksana kerja praktik tidak lagi memiliki minat yang besar terhadap bidang <it>software</it> <it>engineering.</it> Meskipun pada akhirnya pelaksana kerja praktik mendapatkan tawaran <it>internship</it> sebagai <it>software</it> <it>engineer</it> di salah satu perusahaan, pelaksana kerja praktik menolak tawaran tesebut karena ingin lebih mendalami bidang Sistem Informasi lainnya seperti <it>business</it> <it>intelligence</it> dan <it>knowledge</it> <it>management.</it> Pelaksana kerja praktik pun mulai mencari tempat kerja praktik yang membuka <it>internship</it> di bidang <it>business</it> <it>intelligence,</it> <it>knowledge</it> <it>management,</it> <it>project</it> <it>management,</it> ataupun <it>system</it> <it>analysis.</it> Sekitar bulan April 2016, pelaksana kerja praktik mendapatkan informasi bahwa GO-JEK Indonesia membuka <it>internship</it> pada bidang <it>business</it> <it>intelligence.</it> Pelaksana kerja praktik pun mencoba melamar, namun ternyata panggilan yang didapatkan oleh pelaksana kerja praktik adalah untuk bidang <it>business</it> <it>development</it> GO-JEK Indonesia.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Akan tetapi, setelah berkonsultasi dengan salah satu dosen kerja praktik, deskripsi pekerjaan dari bidang <it>business</it> <it>development</it> tidak memenuhi kriteria tempat kerja praktik sehingga pelaksana kerja praktik dengan berat hati harus menolak tawaran tesebut.</BEFORE>
+<AFTER>Akan tetapi, setelah berkonsultasi dengan salah seorang dosen kerja praktik, deskripsi pekerjaan dari bidang <it>business</it> <it>development</it> tidak memenuhi kriteria tempat kerja praktik sehingga pelaksana kerja praktik dengan berat hati harus menolak tawaran tesebut.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR> 
+
+<PAIR>
+<BEFORE>Pelaksana kerja praktik pun kembali mengirimkan lamaran dan mendapatkan balasan langsung dari <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence,</it> Crystal Widjaja yang langsung mengajak penulis untuk melakukan wawancara di kantor pusat PT.</BEFORE>
+<AFTER>Pelaksana kerja praktik pun kembali mengirimkan lamaran dan mendapatkan balasan langsung dari <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence,</it> Crystal Widjaja yang langsung mengajak pelaksana kerja praktik untuk melakukan wawancara di kantor pusat PT.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selama masa kerja praktik, pelaksana kerja praktik bersama 5 orang perserta kerja praktik lainnya tergabung kedalam satu tim <it>business</it> <it>intelligence</it> <it>intern</it> yang langsung diawasi oleh Crystal Widjaja selaku penyelia dan <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence.</it> Terdapat pula <it>stand-up</it> <it>meeting</it> secara berkala dimana tim <it>business</it> <it>intelligence</it> <it>intern</it> akan melaporkan hasil kerjanya kepada tim <it>business</it> <it>intelligence.</it> Selain itu, tim <it>business</it> <it>intelligence</it> <it>intern</it> juga mendapat bantuan dari anggota divisi <it>business</it> <it>intelligence</it> lainnya.</BEFORE>
+<AFTER>Selama masa kerja praktik, pelaksana kerja praktik bersama 5 orang perserta kerja praktik lainnya, yaitu Azis, Irene, Rika, Shilvi, dan Zultan tergabung ke dalam satu tim <it>business</it> <it>intelligence</it> <it>intern</it> yang langsung diawasi oleh Crystal Widjaja selaku penyelia dan <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence.</it> Terdapat pula <it>stand-up</it> <it>meeting</it> secara berkala di mana tim <it>business</it> <it>intelligence</it> <it>intern</it> akan melaporkan hasil kerjanya kepada tim <it>business</it> <it>intelligence.</it> Selain itu, tim <it>business</it> <it>intelligence</it> <it>intern</it> juga mendapat bantuan anggota divisi <it>business</it> <it>intelligence</it> lainnya seperti membuat dan menjalankan <it>query,</it> menjelaskan konsep-konsep yang belum dimengerti oleh tim, serta memberikan dukungan moral.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada awal masa kerja praktik, Crystal Widjaja selaku penyelia dan <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence</it> telah menyiapkan sejumlah proyek yang dapat diambil oleh tim <it>business</it> <it>intelligence</it> <it>intern.</it> Urutan pengerjaan proyek diserahkan kepapada tim <it>business</it> <it>intelligence</it> <it>intern</it> dengan manajemen proyek dilakukan menggunakan <it>kanban</it> <it>board.</it> Tim <it>business</it> <it>intelligence</it> <it>intern</it> juga melakukan <it>stand-up</it> <it>meeting</it> tiap minggunya, umumnya dilakukan pada hari Senin, Rabu, dan Jumat dan dihadiri oleh <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence,</it> anggota divisi <it>business</it> <it>intelligence,</it> dan anggota unit bisnis lainnya yang sedang terlibat secara langsung dengan salah stau proyek.</BEFORE>
+<AFTER>Pada awal masa kerja praktik, Crystal Widjaja selaku penyelia dan <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence</it> telah menyiapkan sejumlah proyek yang dapat dipilih oleh tim <it>business</it> <it>intelligence</it> <it>intern.</it> Urutan pengerjaan proyek diserahkan kepada tim <it>business</it> <it>intelligence</it> <it>intern</it> dengan manajemen proyek dilakukan menggunakan <it>kanban</it> <it>board.</it> Tim <it>business</it> <it>intelligence</it> <it>intern</it> juga melakukan <it>stand-up</it> <it>meeting</it> tiap minggunya, umumnya dilakukan pada hari Senin, Rabu, dan Jumat dan dihadiri oleh <it>VP</it> <it>of</it> <it>Business</it> <it>Intelligence,</it> anggota divisi <it>business</it> <it>intelligence,</it> dan anggota unit bisnis lainnya yang sedang terlibat secara langsung dengan salah stau proyek.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Beberapa proyek diassign ke beberapa anggota tim <it>business</it> <it>intelligence</it> <it>intern</it> saja, namun ada juga proyek yang dilakukan oleh semua anggota tim.</BEFORE>
+<AFTER>Sebagian proyek dipegang hanya oleh beberapa anggota tim saja, dan ada juga beberapa proyek yang dikerjakan bersama oleh semua anggota tim.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Beberapa mata kuliah yang relevan dan bermanfaat terhadap pekerjaan penulis selama masa kerja praktik diantaranya adalah:  Dasar-Dasar Pemrograman dan Struktur Data & Algoritma  Pengetahuan dasar mengenai alur kerja suatu program, konsep pemanggilan <it>class/method,</it> struktur data, dan konsep dasar beberapa algortma sangat membantu pelaksana kerja praktik dalam mempelajari dan mengerti bahasa pemrograman python yang belum pernah pelaksana kerja praktik gunakan.</BEFORE>
+<AFTER>Beberapa mata kuliah yang relevan dan bermanfaat terhadap pekerjaan pelaksana kerja praktik selama masa kerja praktik diantaranya adalah:  Dasar-Dasar Pemrograman dan Struktur Data & Algoritma  Pengetahuan dasar mengenai alur kerja suatu program, konsep pemanggilan <it>class/method,</it> struktur data, dan konsep dasar beberapa algoritma sangat membantu pelaksana kerja praktik dalam mempelajari dan mengerti bahasa pemrograman Python yang belum pernah pelaksana kerja praktik gunakan.</AFTER>
+<ERRTYPE>CAPITAL</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pengalaman ini sangat membantu penulis dalam melakukan <it>requirement</it> <it>gathering.</it>  Komunikasi Bisnis & Teknologi Selama masa kerja praktik, sebagian besar pekerjaan pelaksana kerja praktik dilakukan di kantor.</BEFORE>
+<AFTER>Pengalaman ini sangat membantu pelaksana kerja praktik dalam melakukan <it>requirement</it> <it>gathering.</it>  Komunikasi Bisnis & Teknologi Selama masa kerja praktik, sebagian besar pekerjaan pelaksana kerja praktik dilakukan di kantor.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, penulis juga menerapkan konsep <it>dashboard</it> yang baik sesuai dengan apa yang diajarkan pada mata kuliah <it>business</it> <it>intelligence</it> dalam pengembangan <it>dashboard</it> untuk kerja praktik ini.</BEFORE>
+<AFTER>Selain itu, pelaksana kerja praktik juga menerapkan konsep <it>dashboard</it> yang baik sesuai dengan apa yang diajarkan pada mata kuliah <it>business</it> <it>intelligence</it> dalam pengembangan <it>dashboard</it> untuk kerja praktik ini.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Agar mahasiswa memiliki kesemptana lebih besar diterima dan tidak gagal di tahap administrasi, mahasiswa perlu mempersiapkan dirinya sebaik mungkin serta menyusun <it>curriculum</it> <it>vitae</it> atau <it>resume.</it> Agar <it>curriculum</it> <it>vitae</it> yang dimiliki lebih baik, ada baiknya mahasiswa mencoba mengikuti kegiatan organisasi, mencari tahu minat dan bakat, serta mengikuti berbagai lomba.</BEFORE>
+<AFTER>Agar mahasiswa memiliki kesempataa lebih besar diterima dan tidak gagal di tahap administrasi, mahasiswa perlu mempersiapkan dirinya sebaik mungkin serta menyusun <it>curriculum</it> <it>vitae</it> atau <it>resume.</it> Agar <it>curriculum</it> <it>vitae</it> yang dimiliki lebih baik, ada baiknya mahasiswa mencoba mengikuti kegiatan organisasi, mencari tahu minat dan bakat, serta mengikuti berbagai lomba.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Awal proses pencarian tempat untuk melaksanakan Kerja Praktik (KP) penulis laksanakan pada bulan Maret.</BEFORE>
+<AFTER>Awal proses pencarian tempat untuk melaksanakan Kerja Praktik (KP) pelaksana KP laksanakan pada bulan Maret.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis awalnya berdiskusi dengan beberapa senior mengenai tempat yang tepat untuk melaksanakan KP.</BEFORE>
+<AFTER>Pelaksana KP awalnya berdiskusi dengan beberapa senior mengenai tempat yang tepat untuk melaksanakan KP.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah berdiskusi, penulis akhirnya menyusun daftar tempat KP yang memungkinkan untuk penulis lamar.</BEFORE>
+<AFTER>Setelah berdiskusi, pelaksana KP akhirnya menyusun daftar tempat KP yang memungkinkan untuk pelaksana KP lamar.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dari daftar yang sudah disusun, penulis memutuskan untuk mengajukan permohonan KP ke Global Digital Prima (GDP) terlebih dahulu.</BEFORE>
+<AFTER>Dari daftar yang sudah disusun, pelaksana KP memutuskan untuk mengajukan permohonan KP ke Global Digital Prima (GDP) terlebih dahulu.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Alasan penulis memilih GDP adalah karena saat itu GDP menawarkan posisi sebagai <it>Product</it> <it>Manager.</it> Posisi ini sangat berkaitan dengan mata kuliah yang sudah penulis ambil pada perkuliahan di Fasilkom, yaitu Manajemen Proyek sehingga penulis merasa tertarik untuk mengaplikasikan ilmu dari mata kuliah tersebut.</BEFORE>
+<AFTER>Alasan pelaksana KP memilih GDP adalah karena saat itu GDP menawarkan posisi sebagai <it>Product</it> <it>Manager.</it> Posisi ini sangat berkaitan dengan mata kuliah yang sudah pelaksana KP ambil pada perkuliahan di Fasilkom, yaitu Manajemen Proyek sehingga pelaksana KP merasa tertarik untuk mengaplikasikan ilmu dari mata kuliah tersebut.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun sayangnya, posisi sebagai <it>Product</it> <it>Manager</it> telah terisi penuh menurut <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) dari GDP.</BEFORE>
+<AFTER>Namun, posisi sebagai <it>Product</it> <it>Manager</it> telah terisi penuh menurut <it>Chief</it> <it>Technology</it> <it>Officer</it> (CTO) dari GDP.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tempat kedua yang penulis pilih adalah Neo Fusion.</BEFORE>
+<AFTER>Tempat kedua yang pelaksana KP pilih adalah Neo Fusion.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis melamar sebagai <it>Data</it> <it>Analyst</it> dan melewati beberapa tahapan seleksi yaitu tes tertulis dan wawancara.</BEFORE>
+<AFTER>Pelaksana KP melamar sebagai <it>Data</it> <it>Analyst</it> dan melewati dua tahapan seleksi yaitu tes tertulis dan wawancara.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah melalui tahapan seleksi, penulis harus menunggu beberapa hari untuk mengetahui hasil tes.</BEFORE>
+<AFTER>Setelah melalui tahapan seleksi, pelaksana KP harus menunggu beberapa hari untuk mengetahui hasil tes.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain Neo Fusion, penulis juga mendaftar di PT GO-JEK Indonesia sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> dalam waktu yang bersamaan.</BEFORE>
+<AFTER>Selain Neo Fusion, pelaksana KP juga mendaftar di PT GO-JEK Indonesia (selanjutnya ditulis GO-JEK) sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> dalam waktu yang bersamaan.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis mendapatkan informasi mengenai lowongan KP di PT GO-JEK Indonesia saat penulis mengikuti perkuliahan <it>Business</it> <it>Intelligence</it> yang menghadirkan dosen tamu dari PT GOJEK Indonesia.</BEFORE>
+<AFTER>Pelaksana KP mendapatkan informasi mengenai lowongan KP di GO-JEK saat pelaksana KP mengikuti perkuliahan <it>Business</it> <it>Intelligence</it> yang menghadirkan dosen tamu dari GOJEK.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah mendaftarkan diri, penulis dipanggil untuk melakukan wawancara.</BEFORE>
+<AFTER>Setelah mendaftarkan diri, pelaksana KP dipanggil untuk melakukan wawancara.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Di hari yang sama penulis dinyatakan diterima sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> di perusahaan tersebut.</BEFORE>
+<AFTER>Di hari yang sama pelaksana KP dinyatakan diterima sebagai <it>Business</it> <it>Intelligence</it> <it>Intern</it> di perusahaan tersebut.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis akhirnya memutuskan memilih PT GO-JEK Indonesia sebagai tempat melaksanakan KP dan tidak melanjutkan proses penerimaan di perusahaan Neo Fusion.</BEFORE>
+<AFTER>Pelaksana KP akhirnya memutuskan memilih GO-JEK sebagai tempat melaksanakan KP dan tidak melanjutkan proses penerimaan di perusahaan Neo Fusion karena pelaksana KP sudah terlebih dahulu diterima GO-JEK.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis sebagai pelaksana Kerja Praktik di PT GO-JEK Indonesia ditempatkan pada posisi <it>Business</it> <it>Intelligence</it> <it>Intern.</it> Posisi ini berada di bawah divisi <it>Business</it> <it>Intelligence</it> (BI).</BEFORE>
+<AFTER>Dalam menjalani KP, pelaksana KP ditempatkan pada posisi <it>Business</it> <it>Intelligence</it> <it>Intern.</it> Posisi ini berada dalam divisi <it>Business</it> <it>Intelligence</it> (BI).</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Divisi ini dibawahi oleh <it>Vice</it> <it>President</it> (VP) dari BI secara langsung yang bernama Crystal Widjaja.</BEFORE>
+<AFTER>Divisi ini dipimpin oleh seorang <it>Vice</it> <it>President</it> (VP) dari BI yang bernama Crystal Widjaja.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itu, dibutuhkan sebuah divisi BI yang dapat mengelola data tersebut.</BEFORE>
+<AFTER>Oleh sebab itu, diperlukan satu divisi yang secara khusus mengelola data hasil transaksi tersebut.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berikut merupakan pengetahuan yang penulis anggap relevan: - <it><bo>Programming</bo></it> Dalam perkuliahan di Fasilkom, terdapat beberapa mata kuliah yang berkaitan dengan <it>programming,</it> yaitu Dasar-Dasar Pemograman (DDP), Struktur Data dan Algoritma (SDA), Perancangan dan Pengembangan Web (PPW) dan Proyek Pengembangan Sistem Informasi (PROPENSI).</BEFORE>
+<AFTER>Berikut merupakan pengetahuan yang pelaksana KP anggap relevan: - <it><bo>Programming</bo></it> Dalam perkuliahan di Fasilkom, terdapat beberapa mata kuliah yang berkaitan dengan <it>programming,</it> yaitu Dasar-Dasar Pemograman (DDP), Struktur Data dan Algoritma (SDA), Perancangan dan Pengembangan Web (PPW) dan Proyek Pengembangan Sistem Informasi (PROPENSI).</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam pelaksanaan KP, penulis menggunakan kemampuan untuk menuliskan kode dan menggunakan cara berfikir tersebut untuk menyelesaikan permasalahan selama KP, dalam hal ini menyelesaikan <it>project</it> atau <it>task.</it> <it>Project</it> tersebut ada yang berupa pembuatan sistem sederhana atau <it>dashboard</it> sederhana untuk perusahaan sehingga ilmu <it>programming</it> sangat dibutuhkan penulis.</BEFORE>
+<AFTER>Dalam pelaksanaan KP, pelaksana KP menggunakan kemampuan untuk menuliskan kode dan menggunakan cara berfikir tersebut untuk menyelesaikan permasalahan selama KP, dalam hal ini menyelesaikan proyek atau <it>task.</it> Proyek tersebut ada yang berupa pembuatan sistem sederhana atau <it>dashboard</it> sederhana untuk perusahaan sehingga ilmu <it>programming</it> sangat dibutuhkan pelaksana KP.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis dan pelaksana KP lainnya akan berhubungan dengan pembuatan <it>query</it> untuk mengerjakan hampir semua <it>project</it> atau <it>task.</it> Oleh sebab itu, pengetahuan dasar mengenai data dan pembuatan <it>query</it> sangat membantu dalam KP kali ini.</BEFORE>
+<AFTER>Para pelaksana KP akan berhubungan dengan pembuatan <it>query</it> untuk mengerjakan hampir semua proyek atau <it>task.</it> Oleh sebab itu, pengetahuan dasar mengenai data dan pembuatan <it>query</it> sangat membantu dalam KP kali ini.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun, penulis merasa bahwa pembuatan <it>query</it> yang dijelaskan di perkuliahan jauh lebih sederhana dibandingkan dengan <it>query</it> yang harus dibuat oleh penulis dalam KP sehingga penulis juga masih harus banyak belajar.</BEFORE>
+<AFTER>Namun, pelaksana KP merasa bahwa pembuatan <it>query</it> yang dijelaskan di perkuliahan jauh lebih sederhana dibandingkan dengan <it>query</it> yang harus dibuat oleh pelaksana KP sehingga pelaksana KP juga masih harus banyak belajar.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>- <it><bo>Business</bo></it> <it><bo>Intelligence</bo></it> <bo>(BI)</bo> Pengetahuan BI yang didapat penulis dari perkuliahan di Fasilkom UI juga relevan dengan KP yang penulis jalani.</BEFORE>
+<AFTER>- <it><bo>Business</bo></it> <it><bo>Intelligence</bo></it> <bo>(BI)</bo> Pengetahuan BI yang didapat pelaksana KP dari perkuliahan di Fasilkom UI juga relevan dengan KP yang pelaksana KP jalani.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam perkuliahan penulis mendapatkan pengetahuan BI yang bersifat teoritis dan dalam KP penulis dapat mempraktekkan ilmu yang didapat dalam perkuliahan tersebut.</BEFORE>
+<AFTER>Dalam perkuliahan, pelaksana KP mendapatkan pengetahuan BI yang bersifat teoritis.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain ketiga hal tersebut, pelaksanaan KP penulis juga relevan dengan mata kuliah lain seperti Komunikasi Bisnis dan Teknologi (Kombistek).</BEFORE>
+<AFTER>Selain ketiga hal tersebut, mata kuliah yang juga relevan adalah komunikasi bisnis dan teknologi (Kombistek).</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam mata kuliah tersebut, penulis belajar cara berkomunikasi yang baik dengan klien.</BEFORE>
+<AFTER>Dalam mata kuliah tersebut, pelaksana KP belajar cara berkomunikasi yang baik dengan klien.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pengetahuan ini penulis gunakan saat berinteraksi dengan klien dari divisi BI, yaitu unit bisnis yang lain, seperti GO-FOOD.</BEFORE>
+<AFTER>Pengetahuan ini pelaksana KP gunakan saat berinteraksi pegawai lain atau unit bisnis lain.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selama menjalani proses Kerja Praktik (KP), penulis memiliki beberapa saran yang dapat dipertimbangkan, yaitu: - Sebelum melamar ke suatu tempat KP, calon pelaksana KP sebaiknya mengerti terlebih dahulu mengenai <it>job</it> <it>description</it> dari posisi yang akan dilamar.</BEFORE>
+<AFTER>Selama menjalani proses Kerja Praktik (KP), pelaksana KP memiliki beberapa saran yang dapat dipertimbangkan, yaitu: - Pelaksana KP harus mampu bekerja dalam kelompok dan individu dengan baik.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Terdapat kesesuaian dan perbedaan antara pelaksanaan kerja praktik dengan KAKP.</BEFORE>
+<AFTER><bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pelaksanaan kerja praktik memiliki sedikit perbedaan dengan KAKP.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Teknik yang digunakan penulis dalam mengolah data untuk ditampilkan di tabel adalah mengambil semua data kemudian di-render lalu di <it>paginate.</it> Teknik ini memakan waktu lebih dari 60 detik.</BEFORE>
+<AFTER>Dalam pengembangan tahap awal, teknik yang digunakan penulis dalam memperoleh data untuk ditampilkan di tabel adalah mengambil semua data terlebih dahulu kemudian memasukkannya kedalam satu halaman.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Teknik AJAX, memecahkan masalah penulis karena dengan AJAX ini, penulis dapat menampilkan data tabel hanya sesuai dengan jumlah yang ingin dilihat.</BEFORE>
+<AFTER>Teknik AJAX, memecahkan masalah penulis karena dengan AJAX ini, penulis dapat menampilkan data tabel hanya sesuai dengan jumlah data yang diminta.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sehingga, performa penampilan tabel menjadi lebih cepat hingga 1 detik.</BEFORE>
+<AFTER>Sehingga, performa dalam memperoleh data di tabel menjadi lebih cepat hingga 1 detik.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah menemukan beberapa QR Reader banyak dari QR Reader tersebut tidak akurat.</BEFORE>
+<AFTER>Setelah menemukan beberapa QR Reader di internet, banyak dari QR Reader tersebut tidak akurat.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, rekan kerja BNI pun sangat suportif terutama ketika ada pekerjaan yang beririsan.</BEFORE>
+<AFTER>Rekan kerja BNI pun sangat suportif terutama ketika ada pekerjaan yang beririsan.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Faktor-faktor yang harus dipahami ketika membuat aplikasi adalah arsitektur aplikasi tersebut serta alokasi penggunaan infrastruktur.</BEFORE>
+<AFTER>Faktor-faktor yang harus dipahami ketika membuat aplikasi yang scalable adalah arsitektur aplikasi tersebut dan alokasi penggunaan infrastruktur.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sebelum mencoba untuk mendaftar pada PT Appstrak Teknologi Indonesia, penulis telah mencari beberapa perusahaan untuk melakukan kerja praktik dan mengirimkan permohonan melakukan kerja praktik pada perusahaan-perusahaan tersebut, namun beberapa dari mereka ada yang menolak, ada yang tidak mengabari, dan ada juga yang mengabari setelah beberapa lama pada saat penulis sedang melakukan kerja praktik.</BEFORE>
+<AFTER>Sebelum mencoba untuk mendaftar pada PT Appstrak Teknologi, penulis telah mencari beberapa perusahaan untuk melakukan kerja praktik dan mengirimkan permohonan melakukan kerja praktik pada perusahaan-perusahaan tersebut, namun beberapa dari mereka ada yang menolak, ada yang tidak mengabari, dan ada juga yang mengabari setelah beberapa lama pada saat penulis sedang melakukan kerja praktik.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis mencari perusahaan untuk melakukan kerja praktik dari banyak sumber, salah satunya jobstreet.com, sebuah <it>website</it> yang menyediakan platform bagi para pencari kerja atau tempat magang untuk mencari lowongan pekerjaan atau lowongan magang.</BEFORE>
+<AFTER>Penulis mencari perusahaan untuk melakukan kerja praktik dari banyak sumber, salah satunya jobstreet.com, sebuah <it>website</it> yang menyediakan <it>platform</it> bagi para pencari kerja atau tempat magang untuk mencari lowongan pekerjaan atau lowongan magang.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain jobstreet.com, penulis juga mengikuti acara Job Fair yang diadakan Universitas Indonesia yang diadakan di balairung.</BEFORE>
+<AFTER>Selain jobstreet.com, penulis juga mengikuti acara <it>Job</it> <it>Fair</it> yang diadakan Universitas Indonesia yang diadakan di baialrung Universitas Indonesia.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain jobstreet.com, penulis juga mengikuti acara Job Fair yang diadakan Universitas Indonesia yang diadakan di balairung.</BEFORE>
+<AFTER>Selain jobstreet.com, penulis juga mengikuti acara Job Fair yang diadakan Universitas Indonesia yang diadakan di Baialrung Universitas Indonesia.</AFTER>
+<ERRTYPE>CAPITAL</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Saat penulis sedang mencari perusahaan untuk melakukan kerja praktik, penulis bertemu dengan penyelia, pada saat itu penyelia juga sedang mencari mahasiswa untuk melakukan kerja praktik pada PT Appstrak Teknologi Indonesia, karena pada saat itu penulis juga sedang mencari perusahaan untuk melakukan kerja praktik, penulispun menerima tawaran tersebut.</BEFORE>
+<AFTER>Saat penulis sedang mencari perusahaan untuk melakukan kerja praktik, penulis bertemu dengan penyelia, pada saat itu penyelia juga sedang mencari mahasiswa untuk melakukan kerja praktik pada PT Appstrak Teknologi, karena pada saat itu penulis juga sedang mencari perusahaan untuk melakukan kerja praktik, penulispun menerima tawaran tersebut.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis pun melakukan wawancara pekerjaan bersama penyelia dan CEO dari PT Appstrak Teknologi Indonesia di Sudirman, dan penulis pun diterima sebagai salah satu <it>back</it> <it>end</it> <it>developer</it> <it>intern</it> pada PT Appstrak Teknologi Indonesia.</BEFORE>
+<AFTER>Penulis pun melakukan wawancara pekerjaan bersama penyelia dan CEO dari PT Appstrak Teknologi di Sudirman, dan penulis pun diterima sebagai salah satu <it>back</it> <it>end</it> <it>developer</it> <it>intern</it> pada PT Appstrak Teknologi.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam mengerjakan proyek tim pengembang penulis menggunakan teknologi- teknologi yang membantu jalannya pekerjaan tim pengembang penulis, dalam mengerjakan proyek, karena <it>website</it> proyek tersebut berbasis web, tim pengembang memakai framework CI yang menggunakan bahasa pemograman HTML, PHP, dan Javascript.</BEFORE>
+<AFTER>Dalam mengerjakan proyek tim penulis menggunakan teknologi yang membantu jalannya pekerjaan tim penulis, dalam mengerjakan proyek, karena <it>website</it> proyek tersebut berbasis <it>web,</it> tim pengembang memakai <it>framework</it> CI yang menggunakan bahasa pemograman HTML, PHP, dan Javascript.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Menggunakan <it>version</it> <it>control</it> git dengan GUI sourctree dalam mengkontrol versi dan memudahkan dalam pembagian pekerjaan antar tim pengembang.</BEFORE>
+<AFTER>Menggunakan <it>version</it> <it>control</it> git dengan GUI <it>sourctree</it> dalam mengontrol versi dan memudahkan dalam pembagian pekerjaan antar tim pengembang.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam penggunaan <it>database,</it> tim pengembang tidak memiliki <it>server</it> yang dapat digunakan untuk menyimpan data yang akan digunakan, oleh karena itu tim pengembang penulis menggunakan XAMPP dan PHPMYAdmin sebagai server local sehingga data <it>database</it> dapat diakses secara local dari masing-masing laptop tim pengembang penulis.</BEFORE>
+<AFTER>Dalam penggunaan <it>database,</it> tim pengembang tidak memiliki <it>server</it> yang dapat digunakan untuk menyimpan data yang akan digunakan, oleh karena itu tim penulis menggunakan XAMPP dan PHPMYAdmin sebagai <it>server</it> <it>local</it> sehingga data <it>database</it> dapat diakses secara <it>local</it> dari masing-masing laptop tim pengembang penulis.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tim pengembang juga menggunakan Trello sebagai alat untuk mengatur penjadwalan dan penanda progress dari pekerjaan yang tim pengembang penulis kerjakan, tim pengembang penulis juga menggunakan Trello untuk melaporkan <it>progress</it> dari pekerjaan yang sudah dilakukan oleh tim pengembang penulis.</BEFORE>
+<AFTER>Tim pengembang juga menggunakan Trello sebagai alat untuk mengatur penjadwalan dan penanda <it>progress</it> dari pekerjaan yang tim penulis kerjakan, tim penulis juga menggunakan Trello untuk melaporkan <it>progress</it> dari pekerjaan yang sudah dilakukan oleh tim penulis.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam mengerjakan proyek tersebut para tim pengembang penulis juga tidak lupa mendokumentasikan dan menyimpan data-data penting seperti <it>entity</it> <it>relationship</it> <it>diagram,</it> laporan pekerjaan, atau database, tim penulis menggunakan Google Drive untuk melakukan dokumentasi tersebut.</BEFORE>
+<AFTER>Dalam mengerjakan proyek tersebut para tim pengembang penulis juga tidak lupa mendokumentasikan dan menyimpan data-data penting seperti <it>entity</it> <it>relationship</it> <it>diagram,</it> laporan pekerjaan, atau <it>database,</it> tim penulis menggunakan Google Drive untuk melakukan dokumentasi tersebut.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis juga pertama kali ini melakukan magang sehingga penulis belajar bagaimana rasanya terjun kedunia kerja.</BEFORE>
+<AFTER>Penulis juga pertama kali ini melakukan magang sehingga penulis belajar bagaimana rasanya terjun ke dunia kerja.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Proyek HukumLaw sebelumnya telah dikerjakan oleh pengembang lain sebelum penulis menjalankan kerja praktik di PT Appstrak Teknologi Indonesia.</BEFORE>
+<AFTER>Proyek HukumLaw sebelumnya telah dikerjakan oleh pengembang lain sebelum penulis menjalankan kerja praktik di PT Appstrak Teknologi.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tim pengembang penulis pun melakukan <it>backward</it> <it>engineering</it> dengan membuat dokumentasi berupa <it>Entity</it> <it>Relationship</it> <it>Diagram</it> atau sitemap.</BEFORE>
+<AFTER>Tim penulis pun melakukan <it>backward</it> <it>engineering</it> dengan membuat dokumentasi berupa <it>Entity</it> <it>Relationship</it> <it>Diagram</it> atau sitemap.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada awalnya tim pengembang penulis bersama penyelia datang ke kantor Appstrak setiap hari, tim pengembang penulis dan penyelia merasa kesulitan apabila harus datang ke kantor Appstrak setiap hari karena masalah transportasi dan konsumsi.</BEFORE>
+<AFTER>Pada awalnya tim penulis bersama penyelia datang ke kantor Appstrak setiap hari, tim penulis dan penyelia merasa kesulitan apabila harus datang ke kantor Appstrak setiap hari karena masalah transportasi dan konsumsi.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Karena tim pengembang penulis dan penyelia merasa bahwa biaya transportasi dan konsumsi yang dikeluarkan apabila dalam pengerjaan proyeknya harus pergi ke kantor setiap hari, maka dibuatlah kebijakan baru, yaitu bahwa tim pengembang penulis dan penyelia dapat mengerjakan proyek ditempat lain, sehingga dipilihlah fasilkom UI sebagai tempat tim pengembang menjalankan kerja praktik.</BEFORE>
+<AFTER>Karena tim penulis dan penyelia merasa bahwa biaya transportasi dan konsumsi yang dikeluarkan apabila dalam pengerjaan proyeknya harus pergi ke kantor setiap hari, maka dibuatlah kebijakan baru, yaitu bahwa tim penulis dan penyelia dapat mengerjakan proyek ditempat lain, sehingga dipilihlah fasilkom UI sebagai tempat tim pengembang menjalankan kerja praktik.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam melakukan kerja praktik, penulis mengerjakan proyek dengan mengembangkan <it>website,</it> tentu saja ini merupakan hal yang relevan dengan perkuliahan di Fasilkom UI, karena banyak sekali hal-hal yang saya pelajari di Fasilkom UI terpakai ketika mengerjakan proyek pengembangan <it>website</it> tersebut.</BEFORE>
+<AFTER>Dalam melakukan kerja praktik, penulis mengerjakan proyek dengan mengembangkan <it>website.</it> Tentu saja ini merupakan hal yang relevan dengan perkuliahan di Fasilkom UI.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Saran penulis untuk PT Appstrak Teknologi Indonesia, karena pada saat pertengahan pengerjaan proyek, klien dari proyek tersebut membutuhkan waktu yang sangat lama dalam membalas <it>requirement</it> yang diperlukan saat pengerjaan proyek, sehingga proyek tersebut ditunda beberapa lama, sebaiknya kontrak antara PT Appstrak Teknologi Indonesia dan klien tersebut dibuat milestonenya sehingga apabila klien tersebut tidak membalas <it>requirement</it> dari proyek, akan mendapatkan <it>penalty.</it></BEFORE>
+<AFTER>Saran penulis untuk PT Appstrak Teknologi, karena pada saat pertengahan pengerjaan proyek, klien dari proyek tersebut membutuhkan waktu yang sangat lama dalam membalas <it>requirement</it> yang diperlukan saat pengerjaan proyek, sehingga proyek tersebut ditunda beberapa lama, sebaiknya kontrak antara PT Appstrak Teknologi dan klien tersebut dibuat milestonenya sehingga apabila klien tersebut tidak membalas <it>requirement</it> dari proyek, akan mendapatkan <it>penalty.</it></AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Midtrans selama 10 minggu dibawah naungan divisi <it>Software</it> <it>Engineering.</it> Penulis dialkoasikan untuk mengerjakan proyek PATO yang merupakan <it>notification</it> <it>service</it> dan bertanggung jawab untuk mengirim http notification dan e-mail kepada <it>merchant</it> dan <it>customer.</it> Lingkup kerja yang dilakukan oleh penulis selama proses kerja praktik adalah berkaitan dengan pembuatan aplikasi <it>debug</it> <it>information</it> mulai dari pemahaman proses transaksi melalui layanan online payment gateway PT.</BEFORE>
+<AFTER>Midtrans selama 10 minggu di bawah naungan divisi <it>Software</it> <it>Engineering.</it> Penulis dialokasikan untuk mengerjakan proyek PATO yang merupakan <it>notification</it> <it>service</it> dan bertanggung jawab untuk mengirim http <it>notification</it> dan <it>e-mail</it> kepada <it>merchant</it> dan <it>customer.</it> Lingkup kerja yang dilakukan oleh penulis selama proses kerja praktik adalah berkaitan dengan pembuatan aplikasi <it>debug</it> <it>information</it> mulai dari pemahaman proses transaksi melalui layanan <it>online</it> <it>payment</it> <it>gateway</it> PT.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Di akhir kerja praktik, penulis berasa mendapatkan suatu pengalaman bahwa kerja praktik memberi gambaran nyata dunia kerja sehingga ilmu yang diperoleh selama kerja praktik dapat menambah ilmu yang didapat selama perkuliahan.</BEFORE>
+<AFTER>Di akhir kerja praktik, penulis mendapatkan suatu pengalaman bahwa kerja praktik memberi gambaran nyata dunia kerja sehingga ilmu yang diperoleh selama kerja praktik dapat menambah ilmu yang didapat selama perkuliahan.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Di MNC Play Media, penulis melamar pada divisi <it>User</it> <it>Interface</it> dan <it>User</it> <it>Experience.</it> Penulis melakukan psikotes dan wawancara bersama penyelia yang bertanggung jawab pada divisi <it>Front-End</it> <it>Developer</it> dengan membawa surat keterangan dari fakultas beserta transkrips nilai.</BEFORE>
+<AFTER>Di MNC Play Media, penulis melamar pada divisi <it>User</it> <it>Interface</it> dan <it>User</it> <it>Experience.</it> Penulis melakukan psikotes dan wawancara bersama penyelia yang bertanggung jawab pada divisi <it>Front-End</it> <it>Developer</it> dengan membawa surat keterangan dari fakultas beserta transkrip nilai.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah lebih dari 2 minggu, penulis mendapat kabar bahwa diterima untuk melakukan kerja praktik pada MNC Play Media mulai dari 1 Juni hingga akhir Agustus.</BEFORE>
+<AFTER>Setelah lebih dari 2 minggu, penulis mendapat kabar bahwa diterima untuk melakukan kerja praktik pada MNC Play Media mulai dari 1 Juni 2016 hingga akhir Agustus 2016.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah 2 minggu, penulis melakukan follow-up pada HRD PT.</BEFORE>
+<AFTER>Setelah 2 minggu, penulis melakukan <it>follow-up</it> pada HRD PT.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Akan tetapi, penulis menolak proses interview karena sudah diterima pada PT.</BEFORE>
+<AFTER>Akan tetapi, penulis menolak proses <it>interview</it> karena sudah diterima pada PT.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada saat itu pelaksana kerja praktik dijelaskan bahwa waktu jam kerja pelaksana kerja praktik adalah fleksible dengan jumlah jam kerja minimal 8 jam per hari.</BEFORE>
+<AFTER>Pada saat itu pelaksana kerja praktik mendapat penjelasan bahwa waktu jam kerja pelaksana kerja praktik adalah fleksible dengan jumlah jam kerja minimal 8 jam per hari.</AFTER>
+<ERRTYPE>PARALELLISM</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis (pelaksana kerja praktik) melaksanakan kerja praktik pada umumnya dari jam 09:00 - 18:00 kecuali beberapa hari terlambat dikarenakan ada kegiatan lain yang berhubungan dengan perkuliahan seperti pengisian IRS dan konsultasi dengan pembimbing akademis.</BEFORE>
+<AFTER>Penulis (pelaksana kerja praktik) melaksanakan kerja praktik pada umumnya dari jam 09:00 - 18:00 kecuali beberapa hari terlambat karena ada kegiatan lain yang berhubungan dengan perkuliahan seperti pengisian IRS dan konsultasi dengan pembimbing akademis.</AFTER>
+<ERRTYPE>PARALELLISM</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berdasarkan dari KAKP yang dibuat oleh penulis, terdapat kesesuaian dan perbedaan antara KAKP dengan pelaksanaan kerja praktik yang sesungguhnya.</BEFORE>
+<AFTER>Berdasarkan KAKP yang dibuat oleh penulis, terdapat kesesuaian dan perbedaan antara KAKP dengan pelaksanaan kerja praktik yang sesungguhnya.</AFTER>
+<ERRTYPE>PREP</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis bekerja sebagai <it>project</it> <it>manager,</it> <it>system</it> <it>analyst,</it> <it>technical</it> <it>writer</it> dan juga <it>tester.</it> Penulis bertanggung jawab dalam mengawasi jalannya proyek, perancangan fungsional dan arsitektur ERP, dokumentasi dan <it>testing</it> fungsionalitas ERP.</BEFORE>
+<AFTER>Penulis bekerja sebagai <it>project</it> <it>manager,</it> <it>system</it> <it>analyst,</it> <it>technical</it> <it>writer</it> dan juga <it>tester.</it> Penulis bertanggung jawab dalam mengawasi jalannya proyek, perancangan fungsional dan arsitektur ERP, dokumentasi proyek dan <it>testing</it> fungsionalitas ERP.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksanaan kerja praktik dimulai dengan penjelasan proyek secara umum oleh <it>stakeholder.</it> Penulis dan tim proyek lalu membuat sebuah kerangka awal perencanaan kerja untuk dipresentasikan kepada <it>stakeholder</it> sebagai <it>project</it> <it>plan.</it> Setelah itu, <it>stakeholder</it> menjelaskan mengenai proses bisnis dari Denbe dan juga <it>requirement</it> yang dibutuhkan dalam proyek ini.</BEFORE>
+<AFTER>Pelaksanaan kerja praktik dimulai dengan penjelasan proyek secara umum oleh <it>stakeholder.</it> Penulis dan tim proyek lalu membuat <it>timeline</it> kerja dan sebuah kerangka awal perencanaan kerja untuk dipresentasikan kepada <it>stakeholder</it> sebagai <it>project</it> <it>plan.</it> Setelah itu, <it>stakeholder</it> menjelaskan mengenai proses bisnis dari Denbe dan juga <it>requirement</it> yang dibutuhkan dalam proyek ini.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis melakukan <it>integration</it> <it>testing</it> pada setiap modul.</BEFORE>
+<AFTER>Penulis melakukan <it>integration</it> <it>testing</it> pada setiap modul dan keseluruhan sistem ERP.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Suasana kerja pun tidak terkesan kaku dan nyaman sehingga dapat membuat penulis fokus dalam bekerja.</BEFORE>
+<AFTER>Suasana kerja pun terkesan tidak kaku dan nyaman sehingga dapat membuat penulis fokus dalam bekerja.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Keunggulan Draw.io ialah lengkapnya modul-modul dalam pembuatan grafik ataupun tabel, sehingga dalam praktik Kerja KP dalam pembuatan <it>Use</it> <it>Case</it> <it>Diagram</it> dan ERD, penulis cukup menggunakan Draw.io, dan aplikasi ini juga bisa terintegrasi dengan google drive sehingga penulis dan teman KP lainnya dapat mengubah sesuai dengan kebutuhan proyek.</BEFORE>
+<AFTER>Keunggulan Draw.io ialah lengkapnya modul-modul dalam pembuatan grafik ataupun tabel-tabel, sehingga dalam praktik Kerja KP dalam pembuatan <it>Use</it> <it>Case</it> <it>Diagram</it> dan <it>Entity</it> <it>Relationship</it> <it>Diagram,</it> penulis cukup menggunakan Draw.io, dan aplikasi ini juga bisa terintegrasi dengan google drive sehingga penulis dan teman KP lainnya dapat mengubah sesuai dengan kebutuhan proyek yang sering berubah saat proyek berlangsung.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam melakukan kerja praktik, penulis mendapatkan ilmu yang tidak didapat pada saat kuliah di Fasilkom seperti praktik komunikasi yang baik dll.</BEFORE>
+<AFTER>Dalam melaksanakan kerja praktik, terdapat beberapa ilmu yang terkait dengan perkuliahan di Fasilkom UI seperti, RPL, basis data, Kombistek dan ERP.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Walaupun tingkat kesulitan yang dimiliki tidak seperti tugas anggota dari divisi <it>Business</it> <it>Intelligence</it> lainnya, akan tetapi penulis tetap bersentuhan dan berinteraksi langsung dengan data yang dimiliki oleh GO-JEK agar penulis bisa memberikan laporan maupun menyediakan data yang dibutuhkan oleh <it>business</it> <it>units</it> lainnya agar mereka dapat tetap menjalankan aktivitas mereka sehingga tetap menjaga agar GO-JEK terus berkembang.</BEFORE>
+<AFTER>Penulis bersentuhan dan berinteraksi langsung dengan data yang dimiliki oleh GO-JEK agar penulis bisa memberikan laporan maupun menyediakan data yang dibutuhkan oleh <it>business</it> <it>units</it> lainnya agar mereka dapat tetap menjalankan aktivitas mereka sehingga tetap menjaga agar GO-JEK terus berkembang.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Adanya beberapa <it>task</it> yang dikerjakan yang sebelumnya tidak dicantumkan pada KAKP, seperti melakukan Natural <it>Language</it> <it>Processing</it> (NLP).</BEFORE>
+<AFTER>Adanya beberapa <it>task</it> yang dikerjakan yang sebelumnya tidak dicantumkan pada KAKP, seperti melakukan <it>Natural</it> <it>Language</it> <it>Processing</it> (NLP).</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Adanya beberapa <it>task</it> yang dikerjakan yang sebelumnya tidak dicantumkan pada KAKP, seperti melakukan natural <it>language</it> <it>processing</it> (NLP).</BEFORE>
+<AFTER>Adanya beberapa <it>task</it> yang dikerjakan yang sebelumnya tidak dicantumkan pada KAKP, seperti melakukan <it>Natural</it> <it>Language</it> <it>Processing</it> (NLP).</AFTER>
+<ERRTYPE>CAPITAL</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berdasarkan pengalaman yang penulis dapatkan selama melaksanakan kerja praktik, penulis memiliki beberapa saran seperti berikut:  Sebelum melamar untuk kerja praktik atau magang, sebaiknya cari tahu terlebih dahulu tentang <it>job</it> <it>description</it> dari posisi yang akan dilamar.</BEFORE>
+<AFTER>Berdasarkan pengalaman yang penulis dapatkan selama melaksanakan kerja praktik, penulis memiliki beberapa saran untuk mahasiswa yang ingin melakukan magang atau kerja praktik:  Sebelum melamar untuk kerja praktik atau magang, sebaiknya cari tahu terlebih dahulu tentang <it>job</it> <it>description</it> dari posisi yang akan dilamar.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis sudah memiliki dasar dalam hal basis data, sehingga memudahkan penulis dalam melakukan <it>query</it> untuk mengeluarkan data.</BEFORE>
+<AFTER>Penulis sudah memiliki dasar dalam hal basis data, sehingga memudahkan penulis dalam melakukan <it>query</it> untuk mengeluarkan data <it>tickets</it> dari Power BI.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, hal lain yang berkaitan dengan <it>core</it> <it>business</it> perusahaan adalah, jika perusahaan sedang mengalami kendala, misalnya seperti sedang turunnya <it>revenue</it> dari perusahaan, maka akan mempengaruhi biaya yang dialokasikan untuk setiap divisi yang ada di perusahaan tersebut.</BEFORE>
+<AFTER>Selain itu, hal lain yang berkaitan dengan <it>core</it> <it>business</it> perusahaan adalah, jika perusahaan sedang mengalami kendala, misalnya seperti sedang turunnya <it>revenue</it> dari perusahaan, maka akan mempengaruhi dana yang dialokasikan untuk setiap divisi yang ada di perusahaan tersebut.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Karakteristik mudah dipahami inilah yang membuat bahasa pemrograman PHP masih berkembang dan digunakan masyarakat luas.</BEFORE>
+<AFTER>Karakteristik mudah dipahami inilah yang menyebabkan bahasa pemrograman PHP masih berkembang dan digunakan masyarakat luas.</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun pada pelaksanaan sesungguhnya, penulis menyelesaikan lebih rancangan <it>endpoint</it> lebih dulu, selesai mengimplementasi <it>feature</it> <it>authentication,</it> termasuk <it>forgot</it> dan <it>reset</it> <it>password,</it> dan mulai mengimplementasi <it>feature</it> data agen.</BEFORE>
+<AFTER>Namun pada pelaksanaan sesungguhnya, penulis menyelesaikan lebih rancangan <it>endpoint</it> lebih dulu, selesai mengimplementasikan <it>feature</it> <it>authentication,</it> termasuk <it>forgot</it> dan <it>reset</it> <it>password,</it> dan mulai mengimplementasikan <it>feature</it> data agen.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Prosedur ini mendapat banyak usulan dari berbagai pihak agar lebih baik lagi, terutama setelah <it>mid</it> <it>presentation.</it> Masukkan tersebut antara lain seperti kasus ketika <it>user</it> atau FO berada pada daerah dengan koneksi yang buruk, bagaimana sistem FO App sebelumnya mengatasi masalah kecurangan, dan sebagainya.</BEFORE>
+<AFTER>Prosedur ini mendapat banyak usulan dari berbagai pihak agar lebih baik lagi, terutama setelah <it>mid</it> <it>presentation.</it> Masukan tersebut antara lain seperti kasus ketika <it>user</it> atau FO berada pada daerah dengan koneksi yang buruk, bagaimana sistem FO App sebelumnya mengatasi masalah kecurangan, dan sebagainya.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis sempat mencari-cari informasi lowongan magang di tempat-tempat tersebut.</BEFORE>
+<AFTER>Penulis sempat mencari informasi lowongan magang di tempat-tempat tersebut.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun, karena kesibukan yang dihadapi oleh penulis di semester 6, yaitu beban kuliah sebanyak 23 SKS disertai banyaknya proyek akhir, asisten dosen mata kuliah Teori Bahasa dan Automata, dan rumah yang cukup jauh dari kampus (kurang lebih memakan waktu 4 jam perjalanan pulang pergi setiap harinya), penulis akhirnya memutuskan untuk mencoba mendaftar di satu tempat saja, yaitu di KUDO (Kios Untuk Dagang Online), sebuah perusahaan teknologi yang menciptakan peluang bagi masyarakat dengan kondisi ekonomi menengah ke bawah untuk menjadi <it>reseller</it> berbagai produk dengan mendapatkan komisi untuk produk yang terjual [1].</BEFORE>
+<AFTER>Namun, karena kesibukan yang dihadapi oleh penulis di semester 6, yaitu beban kuliah sebanyak 23 SKS disertai banyaknya proyek akhir, asisten dosen mata kuliah Teori Bahasa dan Automata, dan rumah yang cukup jauh dari kampus (kurang lebih memakan waktu 4 jam perjalanan pulang pergi setiap harinya), penulis akhirnya memutuskan untuk mencoba mendaftar di satu tempat saja, yaitu di KUDO (Kios Untuk Dagang <it>Online),</it> sebuah perusahaan teknologi yang menciptakan peluang bagi masyarakat dengan kondisi ekonomi menengah ke bawah untuk menjadi <it>reseller</it> berbagai produk dengan mendapatkan komisi untuk produk yang terjual [1].</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun, penulis tidak berhasil lolos dari tahap wawancara dikarenakan satu dan lain hal.</BEFORE>
+<AFTER>Namun, penulis tidak berhasil lolos dari tahap wawancara.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, penulis juga merasa bahwa kantor KUDO cukup sulit untuk diakses dan jauh dari rumah penulis sehingga penulis mengurungkan niatnya untuk melaksanakan kerja praktik di KUDO.</BEFORE>
+<AFTER>Selain itu, penulis juga merasa bahwa kantor KUDO cukup sulit untuk diakses dan jauh dari rumah penulis sehingga penulis mengurungkan niat untuk melaksanakan kerja praktik di KUDO.</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tokopedia dikarenakan penulis tidak perlu melewati tahap seleksinya lagi karena sudah pernah melakukan program magang disana sebelumnya.</BEFORE>
+<AFTER>Tokopedia sebab penulis tidak perlu melewati tahap seleksinya lagi berbekal pengalaman program magang disana sebelumnya.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah diskusi penyelenggara program magang dan <it>squad</it> <it>lead</it> setiap <it>squad,</it> penulis akhirnya bersama dengan 1 orang lain, Muhammad Luthfi, ditempatkan di <it>squad</it> Stitch berhubung <it>squad</it> Stitch sedang membutuhkan bantuan untuk proyek yang sedang mereka kerjakan.</BEFORE>
+<AFTER>Setelah diskusi penyelenggara program magang dan <it>squad</it> <it>leader</it> setiap <it>squad,</it> penulis akhirnya bersama dengan salah satu <it>intern</it> dari Fasilkom ditempatkan di <it>squad</it> Stitch berhubung <it>squad</it> Stitch sedang membutuhkan bantuan untuk proyek yang sedang mereka kerjakan.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun, seiring berjalannya waktu kerja praktik, dikarenakan pekerjaan penulis selesai lebih cepat dari waktu yang disediakan, penulis pun diberikan berbagai pekerjaan lain yang berbeda dari rencana awal pekerjaan yang diberikan untuk penulis.</BEFORE>
+<AFTER>Namun, seiring berjalannya waktu kerja praktik, pekerjaan penulis selesai lebih cepat dari waktu yang disediakan sehingga penulis pun diberikan berbagai pekerjaan lain yang berbeda dari rencana awal pekerjaan yang diberikan untuk penulis.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><bo>2.1.4.2.</bo> <bo>Bahasa</bo> <bo>Pemrograman</bo>Penulis menggunakan beberapa bahasa saat pelaksanaan kerja praktik, yaitu Go, PERL, JavaScript, SQL, dan tt2.</BEFORE>
+<AFTER><bo>2.1.4.2.</bo> <bo>Bahasa</bo> <bo>Pemrograman</bo>Penulis menggunakan beberapa bahasa pemrograman saat pelaksanaan kerja praktik, yaitu Go, PERL, JavaScript, SQL, dan tt23.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Phabricator pada <it>squad</it> Stitch digunakan untuk mendaftarkan <it>task-task</it> apa saja yang saat ini sedang berlangsung dengan kondisi <it>task</it> saat ini dan siapa yang bertanggung jawab untuk <it>task</it> tersebut.</BEFORE>
+<AFTER>Phabricator pada <it>squad</it> Stitch digunakan untuk mendaftarkan <it>task</it> apa saja yang saat ini sedang berlangsung dengan kondisi <it>task</it> saat ini dan siapa yang bertanggung jawab untuk <it>task</it> tersebut.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun dikarenakan sistem operasi yang dimiliki oleh penulis adalah Windows, penulis disarankan oleh penyelia untuk menggunakan <it>software</it> Vagrant untuk pelaksanaan kerja praktik.</BEFORE>
+<AFTER>Berhubung sistem operasi yang dimiliki oleh penulis adalah Windows, penulis disarankan oleh penyelia untuk menggunakan <it>software</it> Vagrant untuk pelaksanaan kerja praktik.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itu, penulis diberikan <it>task-task</it> lain sesuai dengan kebutuhan <it>squad</it> Stitch pada saat penulis melaksanakan kerja praktik.</BEFORE>
+<AFTER>Oleh karena itu, penulis diberikan <it>task</it> lain sesuai dengan kebutuhan <it>squad</it> Stitch pada saat penulis melaksanakan kerja praktik.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Task-task</it> yang diberikan oleh penyelia namun tidak ada di KAKP adalah: 1.</BEFORE>
+<AFTER><it>Tasks</it> yang diberikan oleh penyelia namun tidak ada di KAKP adalah: 1.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Mengimplementasi fitur baru pada proyek <it>walletweb</it> <bo>2.2.1.2.</bo> <bo>Kendala</bo> <bo>yang</bo> <bo>Dihadapi</bo> <bo>Penulis</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo> Penulis pada saat melaksanakan KP tentunya mengalami berbagai kendala.</BEFORE>
+<AFTER>Mengimplementasi fitur baru pada proyek <it>walletweb</it> <bo>2.2.1.2.</bo> <bo>Kendala</bo> <bo>yang</bo> <bo>Dihadapi</bo> <bo>Penulis</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo> Penulis pada saat melaksanakan KP mengalami berbagai kendala.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kendala yang dihadapi penulis pada pelaksanaan kerja praktik adalah adaptasi dengan teknologi yang baru digunakan dan kecanggungan berinteraksi dengan <it>tech</it> <it>lead.</it> Teknologi yang penulis gunakan dalam pelaksanaan kerja praktik kali ini berbeda dari teknologi yang penulis gunakan pada pelaksanaan kerja praktik sebelumnya.</BEFORE>
+<AFTER>Kendala yang dihadapi penulis pada pelaksanaan kerja praktik adalah adaptasi dengan teknologi yang baru digunakan dan kecanggungan berinteraksi dengan <it>tech</it> <it>leader.</it> Teknologi yang penulis gunakan dalam pelaksanaan kerja praktik kali ini berbeda dari teknologi yang penulis gunakan pada pelaksanaan kerja praktik sebelumnya.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Akhirnya untuk mengatasi kendala ini penulis bertanya ke <it>tech</it> <it>lead</it> dan meskipun <it>tech</it> <it>lead</it> sempat kebingungan juga, akhirnya masalah tersebut dapat teratasi.</BEFORE>
+<AFTER>Akhirnya untuk mengatasi kendala ini penulis bertanya ke <it>tech</it> <it>leader</it> dan meskipun <it>tech</it> <it>leader</it> sempat kebingungan juga, akhirnya masalah tersebut dapat teratasi.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kendala berikutnya yang dihadapi oleh penulis adalah kecanggungan interaksi dengan <it>tech</it> <it>lead</it> dikarenakan bahasa yang berbeda dan logat yang cukup sulit dimengerti.</BEFORE>
+<AFTER>Kendala berikutnya yang dihadapi oleh penulis adalah kecanggungan interaksi dengan <it>tech</it> <it>leader</it> dikarenakan perbedaan bahasa sehari-hari yang digunakan dan logat bahasa Inggris yang digunakan oleh <it>tech</it> <it>leader</it> cukup sulit dipahami.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Cara penulis mengatasi hal ini adalah dengan terus berinteraksi dengan <it>tech</it> <it>lead</it> sehingga penulis menjadi terbiasa mendengar pelafalan dan ucapan dari <it>tech</it> <it>lead.</it> Selain kendala yang telah disebutkan di atas, penulis juga menghadapi kendala lain, yaitu perasaan segan saat berinteraksi dengan <it>mentor.</it> Terkadang penulis perlu untuk bertanya kepada <it>mentor,</it> namun karena takut mengganggu pekerjaan yang dilakukan oleh <it>mentor,</it> penulis tidak jadi bertanya sehingga beberapa hal yang seharusnya cepat teratasi jika bertanya jadi sedikit terhambat.</BEFORE>
+<AFTER>Cara penulis mengatasi hal ini adalah dengan terus berinteraksi dengan <it>tech</it> <it>leader</it> sehingga penulis menjadi terbiasa mendengar pelafalan dan ucapan dari <it>tech</it> <it>leader.</it> Selain kendala yang telah disebutkan di atas, penulis juga menghadapi kendala lain, yaitu perasaan segan saat berinteraksi dengan <it>mentor.</it> Terkadang penulis perlu untuk bertanya kepada <it>mentor,</it> namun karena takut mengganggu pekerjaan yang dilakukan oleh <it>mentor,</it> penulis tidak jadi bertanya sehingga beberapa hal yang seharusnya cepat teratasi jika bertanya jadi sedikit terhambat.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada saat itu salah seorang teman penulis memiliki informasi mengenali lowongan magang pada PT Denbe Anugerah Solusindo.</BEFORE>
+<AFTER>Pada saat melakukan pencarian lowongan magang, salah seorang teman penulis memiliki informasi mengenali lowongan magang pada PT Denbe Anugerah Solusindo.</AFTER>
+<ERRTYPE>INCOMPLETE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sebelum memutuskan untuk magang di tersebut kami mempertimbangkan beberapa aspek terkait lowongan tersebut dengan KP kami.</BEFORE>
+<AFTER>Sebelum memutuskan untuk magang di tersebut penulis mempertimbangkan beberapa aspek terkait lowongan tersebut dengan teman-teman penulis.</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Beberapa aspet tersebut meliputi lokasi, lowongan yang dibuka, <it>scope</it> dan ruang lingkup dari pekerjaan.</BEFORE>
+<AFTER>Beberapa aspek tersebut meliputi lokasi, lowongan yang dibuka, <it>scope</it> dan ruang lingkup dari pekerjaan.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berdasarkan pertimabangan tersebut, kami sepakat dan memutuskan untuk magang di tempat tersebut.</BEFORE>
+<AFTER>Berdasarkan pertimbangan tersebut, penulis akhirnya sepakat dan memutuskan untuk magang di tempat tersebut.</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Agar dapat diterima magang di tempat tersebut, kami harus menyusun berkas untuk keperluan administrasi yang terdiri dari surat permohonan KP dari fakultas dan data dari diri kami masing-masing.</BEFORE>
+<AFTER>Sebelum diterima magang di tempat tersebut, penulis harus menyusun berkas untuk keperluan administrasi yang terdiri dari surat permohonan KP dari fakultas dan data dari diri penulis.</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Posisis penempatan yang diberikan kepada penulis pada KP ini adalah pada divisi App Dev & Support di bagian tim yang menangani proyek perancangan dan pengembangan ERP operasional PT Dembe Anugerah Solisindo yaitu Denbe ERP.</BEFORE>
+<AFTER>Posisis penempatan yang diberikan kepada penulis pada KP ini adalah pada divisi App Dev & Support di bagian tim yang menangani proyek perancangan dan pengembangan ERP operasional PT Dembe Anugerah Solisindo atau dapat disebut sebagai Denbe ERP.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sistem manajemen dalam sebuah ERP mengintegrasikan beberapa bidang dalam perusahaan seperti <it>planning,</it> <it>purchasing,</it> <it>inventory,</it> <it>sales,</it> <it>marketing,</it> <it>finance,</it> dan <it>human</it> <it>resource.</it> ERP pada umumnya digunakan dalam bentuk <it>software.</it> Saat ini penerapan ERP menjadi semakin popular.</BEFORE>
+<AFTER>Sistem manajemen dalam sebuah ERP mengintegrasikan beberapa bidang dalam perusahaan seperti <it>planning,</it> <it>purchasing,</it> <it>inventory,</it> <it>sales,</it> <it>marketing,</it> <it>finance,</it> dan <it>human</it> <it>resource.</it> ERP pada umumnya digunakan dalam bentuk <it>software.</it> Saat ini berbagai <it>software</it> telah dikembangkan untuk membantu perusahaan dalam menerapkan ERP [3].</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Folder</it> Drive yang digunakan hanya dibagikan kepada anggota tim yang mengerjakan proyek Denbe ERP.</BEFORE>
+<AFTER><it>Folder</it> Drive yang digunakan hanya dibagikan kepada anggota tim yang terlibat dan mengerjakan proyek Denbe ERP.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Beberapa contoh diagram yang dibuat ialah <it>use</it> <it>case</it> <it>diagram</it> (UCD), <it>sitemap</it> <it>diagram,</it> <it>database</it> <it>schema,</it> dan <it>sequence</it> <it>diagram.</it> <it>File</it> diagram yang dibuat akan disimpan di Google Drive dan dapat direvisi oleh temant-teman KP penulis apabila terdapat kesalahan.</BEFORE>
+<AFTER>Beberapa contoh diagram yang dibuat adalah <it>use</it> <it>case</it> <it>diagram</it> (UCD), <it>sitemap</it> <it>diagram,</it> <it>database</it> <it>schema,</it> dan <it>sequence</it> <it>diagram.</it> <it>File</it> diagram yang dibuat akan disimpan di Google Drive dan dapat direvisi oleh temant-teman KP penulis apabila terdapat kesalahan pada diagram tersebut.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksanaan kerja praktik dimulai dengan perkenalan dengan lingkungan kerja Denbe dan penyampaian instruksi untuk proyek Denbe ERP yang akan dikerjakan oleh penulis dan teman-teman KP penulis.</BEFORE>
+<AFTER>Pelaksanaan kerja praktik dimulai dengan perkenalan dengan lingkungan kerja Denbe dan penyampaian instruksi juga perencanaan untuk proyek Denbe ERP yang akan dikerjakan oleh penulis dan teman-teman KP penulis.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah <it>project</it> <it>plan</it> disetujui, penulis mulai melakukan <it>requirement</it> <it>gathering</it> secara bertahap dengan <it>stakeholder</it> yang terlibat.</BEFORE>
+<AFTER>Setelah <it>project</it> <it>plan</it> disetujui, penulis mulai melakukan <it>requirement</it> <it>gathering</it> secara bertahap dengan <it>stakeholder</it> yang terlibat dan menganalisis hasil dari <it>requirement</it> <it>gathering</it> tersebut.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Jika <it>requirement</it> <it>gathering</it> sudah selesai dilakukan, penulis dan temant-teman KP penulis melakukan analisis dan perancangan terkait hasil <it>requirement</it> <it>gathering</it> yang telah dilakukan.</BEFORE>
+<AFTER>Jika <it>requirement</it> <it>gathering</it> sudah selesai dilakukan, penulis dan teman-teman KP penulis melakukan analisis dan perancangan terkait hasil <it>requirement</it> <it>gathering</it> yang telah dilakukan.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berdasarkan hasil <it>reuirement</it> <it>gathering</it> terdapat enam modul yang perlu dirancang dan diimpelementasikan untuk Denbe ERP yaitu modul <it>General</it> <it>Feature,</it> modul <it>Fix</it> <it>Assets,</it> dan modul GL sebagai pengelola laporan keuangan Denbe.</BEFORE>
+<AFTER>Berdasarkan hasil <it>requirement</it> <it>gathering</it> terdapat enam modul yang perlu dirancang dan diimpelementasikan untuk Denbe ERP yaitu modul <it>General</it> <it>Feature,</it> modul <it>Fix</it> <it>Assets,</it> dan modul GL sebagai pengelola laporan keuangan Denbe.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>jika fitur-fitur untuk seitap modul telah diimplementasikan dan telah melalui prosess <it>testing.</it> Penulis melakukan <it>integration</it> <it>testing</it> yaitu <it>testing</it> secara keseluruhan setelah seluruh modul diintegrasikan untuk memastikan bahwa <it>software</it> yang dihasilkan dapat memenuhi kebutuhan yang diperlukan oleh <it>stakeholder</it> Denbe.</BEFORE>
+<AFTER>Jika fitur-fitur untuk seitap modul telah diimplementasikan dan telah melalui prosess <it>testing.</it> Penulis melakukan <it>integration</it> <it>testing</it> yaitu <it>testing</it> secara keseluruhan setelah seluruh modul diintegrasikan untuk memastikan bahwa <it>software</it> yang dihasilkan dapat memenuhi kebutuhan yang diperlukan oleh <it>stakeholder</it> Denbe.</AFTER>
+<ERRTYPE>CAPITAL</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>jika fitur-fitur untuk seitap modul telah diimplementasikan dan telah melalui prosess <it>testing.</it> Penulis melakukan <it>integration</it> <it>testing</it> yaitu <it>testing</it> secara keseluruhan setelah seluruh modul diintegrasikan untuk memastikan bahwa <it>software</it> yang dihasilkan dapat memenuhi kebutuhan yang diperlukan oleh <it>stakeholder</it> Denbe.</BEFORE>
+<AFTER>jika fitur-fitur untuk setiap modul telah diimplementasikan dan telah melalui prosess <it>testing.</it> Penulis melakukan <it>integration</it> <it>testing</it> yaitu <it>testing</it> secara keseluruhan setelah seluruh modul diintegrasikan untuk memastikan bahwa <it>software</it> yang dihasilkan dapat memenuhi kebutuhan yang diperlukan oleh <it>stakeholder</it> Denbe.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Perbedaan pelaksanaan dari perencanaan terdapat pada segi fungsionalitas dimana modul GL dihilangkan dari sistem karena <it>stakeholder</it> untuk modul tersebut sulit untuk dihubungi oleh pihak Denbe sehingga informasi untuk <it>requirement</it> yang diperoleh dari modul tersebut tidak dapat diperoleh.</BEFORE>
+<AFTER>Perbedaan pelaksanaan dari perencanaan terdapat pada segi fungsionalitas dimana modul GL dihilangkan dari sistem karena <it>stakeholder</it> untuk modul tersebut sulit untuk dihubungi oleh pihak Denbe.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Upaya untuk menanggulangi masalah tersebut yaitu penulis berangkat pada sekitar pukul enam atau 7 pagi karena pada waktu tersebut lalu lintas masih belum ramai sehingga penulis tidak terlambat dapat sampai tepat waktu di tempat KP.</BEFORE>
+<AFTER>Upaya untuk menanggulangi masalah tersebut yaitu penulis berangkat pada sekitar pukul enam atau tujuh pagi karena pada waktu tersebut lalu lintas masih belum ramai sehingga penulis tidak terlambat dan dapat sampai tepat waktu di tempat KP.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk menanggulangi kendala tersebut, penulis menggunakan referensi berdasarkan mata kuliah yang pernah diambil oleh penulis di fasilkom seperti Proyek Pengembangan Sistem Informasi (Propensi) dan Rekayasa Perangkat Lunak (RPL) sebagau acuan dalam pembuatan dokumen.</BEFORE>
+<AFTER>Untuk menanggulangi kendala tersebut, penulis menggunakan referensi berdasarkan mata kuliah yang pernah diambil oleh penulis di fasilkom seperti Proyek Pengembangan Sistem Informasi (Propensi) dan Rekayasa Perangkat Lunak (RPL) sebagau acuan.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Menurut pendapat penulis, suasanya kerja PT Denbe Anugerah Solusindo cukup baik, fleksibel dan nyaman.</BEFORE>
+<AFTER>Menurut pendapat penulis, suasana kerja PT Denbe Anugerah Solusindo cukup baik, fleksibel dan nyaman.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Komunikasi antar pegawai dan rekan kerja di lingkungan Denbe juga cukup fleksibel dan tidak terlalu kaku.</BEFORE>
+<AFTER>Komunikasi antar pegawai dan rekan kerja di lingkungan Denbe juga cukup fleksibel dan tidak terlalu kaku sehingga penulis menjadi tidak kesulitan apabila ingin berkomunikasi dan menjalin hubungan kerja yang baik dengan pegawai dan rekan kerja di lingkungan Denbe.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hal tersebut membuat penulis menjadi tidak kesulitan apabila ingin berkomunikasi dan menjalin hubungan kerja yang baik dengan pegawai dan rekan kerja di lingkungan Denbe.</BEFORE>
+<AFTER>Komunikasi antar pegawai dan rekan kerja di lingkungan Denbe juga cukup fleksibel dan tidak terlalu kaku sehingga penulis menjadi tidak kesulitan apabila ingin berkomunikasi dan menjalin hubungan kerja yang baik dengan pegawai dan rekan kerja di lingkungan Denbe.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tim perancangan dan pengambangan Denbe ERP yang terdiri dari penulis dan teman- temannya yang melaksanakan KP di PT Denbe Anugerah Solusindo telah menyelesaikan KP dengan baik karena <it>stakeholder</it> pada Denbe merasa puas dengan hasil dan performa kerja yang telah diberikan.</BEFORE>
+<AFTER>Tim perancangan dan pengambangan Denbe ERP yang terdiri dari penulis dan teman- temannya yang melaksanakan KP di PT Denbe Anugerah Solusindo telah menyelesaikan KP dengan baik karena <it>stakeholder</it> pada Denbe.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Meskipun pada proses pengerjaan terdapat beberapa perubahan pada jadwal dan <it>requirement</it> namun penulis dapat menyesuaikan perubahan tersebut dan tetap menyelesaikan pekerjaan sesuai dengan jangka waktu yang diberikan.</BEFORE>
+<AFTER>Meskipun pada proses pengerjaan terdapat beberapa perubahan pada jadwal dan <it>requirement,</it> penulis dapat menyesuaikan terhadap perubahan tersebut dan tetap menyelesaikan pekerjaan sesuai dengan jangka waktu yang diberikan.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Proses pencarian kerja praktik mulai dilakukan penulis sejak bulan Maret 2016.</BEFORE>
+<AFTER>Proses pencarian Kerja Praktik (KP) mulai dilakukan penulis sejak bulan Maret 2016.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis melamar ke berbagai perusahaan, yakni Prudential, Kudo, Flipbox, GDP Labs, Suitmedia, Veritrans, Garena Indonesia, Accenture, Xendit, Neo Fusion, PT GO-JEK Indonesia (selanjutnya ditulis GO-JEK) dan lain-lain.</BEFORE>
+<AFTER>Penulis melamar ke berbagai perusahaan, yakni Prudential, Kudo, Flipbox, GDP Labs, Suitmedia, Veritrans, Garena Indonesia, Xendit, Neo Fusion, PT GO-JEK Indonesia (selanjutnya ditulis GO-JEK) dan lain-lain.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Veritrans dan Xendit mengundang penulis untuk wawancara dan penulis lolos hingga tahap ke- 2 wawancara namun akhirnya ditolak oleh keduanya.</BEFORE>
+<AFTER>Veritrans dan Xendit mengundang penulis untuk wawancara dan penulis lolos hingga tahap ke-2 wawancara namun akhirnya ditolak oleh keduanya.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Aplikasi Github dipilih karena memiliki Graphic User Interface yang baik dan penulis sudah familiar dengan aplikasi tersebut.</BEFORE>
+<AFTER>Aplikasi Github dipilih karena memiliki <it>Graphic</it> <it>User</it> <it>Interface</it> yang baik dan penulis sudah familiar dengan aplikasi tersebut.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Aplikasi Github dipilih karena memiliki Graphic User Interface yang baik dan penulis sudah familiar dengan aplikasi tersebut.</BEFORE>
+<AFTER>Aplikasi Github dipilih karena memiliki <it>Graphic</it> <it>User</it> <it>Interface</it> (GUI) yang baik dan penulis sudah familiar dengan aplikasi tersebut.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, penulis juga diterangkan mengenai bagaimana proses <it>Disaster</it> <it>Recovery</it> <it>Plan</it> yang dimiliki oleh perushaan.</BEFORE>
+<AFTER>Kemudian, penulis juga diterangkan mengenai bagaimana proses dan mekanisme <it>Disaster</it> <it>Recovery</it> <it>Plan</it> (DRP) yang dimiliki oleh perushaan untuk melakukan <it>back</it> <it>up</it> data dari aplikasi yang telah dibuat.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>GDP Venture memiliki banyak anak perusahaan seperti PT Darta Media Indonesia (KASKUS), PT Global Digital Niaga (Blibli.com), Infokost.id, dan sebagainya.</BEFORE>
+<AFTER>GDP Venture termasuk dalam grup PT Djarum dan memiliki banyak anak perusahaan seperti PT Darta Media Indonesia (KASKUS), PT Global Digital Niaga (Blibli.com), Infokost.id, dan sebagainya.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Menyusun dokumen <it>requirement</it> Tahap ini merupakan tahapan penyusunan dokumen <it>requirement,</it> yang berisi  <it>Background,</it> berisi latar belakang dan objektif pengembangan fitur terkait  <it>Feature</it> <it>detail,</it> berisi <it>wireframe</it> yang telah disetujui penyelia dan alur skenario dari setiap fitur.</BEFORE>
+<AFTER>Menyusun dokumen <it>requirement</it> Tahap ini merupakan tahapan penyusunan dokumen <it>requirement,</it> yang berisi:  <it>Background,</it> berisi latar belakang dan objektif pengembangan fitur terkait  <it>Feature</it> <it>detail,</it> berisi <it>wireframe</it> yang telah disetujui penyelia dan alur skenario dari setiap fitur.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Training</it> Selain tahapan-tahapan diatas, penulis, karyawan, dan rekan-rekan pelaksana kerja praktik di GDP Labs mendapatkan sejumlah <it>training</it> yang berhubungan dengan tugas yang diberikan dan <it>training</it> lainnya mengenai perkembangan teknologi.</BEFORE>
+<AFTER><it>Training</it> Selain tahapan-tahapan diatas, penulis, karyawan, dan rekan-rekan kerja praktik di GDP Labs mendapatkan sejumlah <it>training</it> yang berhubungan dengan tugas yang diberikan dan <it>training</it> lainnya mengenai perkembangan teknologi.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah menyelessaikan proses administrasi, tim magang di PT Denbe Anugerah Solusindo resmi memulai magang pada tanggal 13 Juni 2016</BEFORE>
+<AFTER>Setelah menyelesaikan proses administrasi, tim magang di PT Denbe Anugerah Solusindo resmi memulai magang pada tanggal 13 Juni 2016</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><bo>2.1</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pada bab ini dijelaskan latar belakang pihak penyelia memberikan tugas kepada pelaksana, metodologi yang digunakan pelaksana dan tim, teknologi serta <it>softskills</it> yang diigunakan selama melaksanakan Kerja Praktik.</BEFORE>
+<AFTER><bo>2.1</bo> <bo>Pekerjaan</bo> <bo>dalam</bo> <bo>Kerja</bo> <bo>Praktik</bo> Pada bab ini dijelaskan latar belakang pihak penyelia memberikan tugas kepada pelaksana, metodologi yang digunakan pelaksana dan tim, teknologi serta <it>softskills</it> yang digunakan selama melaksanakan Kerja Praktik.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sementara menurut KBBI, proyek didefinisikan sebagai sebagai usaha sementara, temporer, dan bukan permanen, yang meiliki sasaran khhusus dengan waktu pelaksanaan yang tegas[3].</BEFORE>
+<AFTER>Sementara menurut KBBI, proyek didefinisikan sebagai usaha sementara, temporer, dan bukan permanen, yang memiliki sasaran khhusus dengan waktu pelaksanaan yang tegas[3].</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sementara menurut KBBI, proyek didefinisikan sebagai sebagai usaha sementara, temporer, dan bukan permanen, yang meiliki sasaran khhusus dengan waktu pelaksanaan yang tegas[3].</BEFORE>
+<AFTER>Sementara menurut KBBI, proyek didefinisikan sebagai usaha sementara, temporer, dan bukan permanen, yang memiliki sasaran khusus dengan waktu pelaksanaan yang tegas[3].</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh karena itu, barbagai macam <it>software</it> telah dikembangkan untuk membantu perusahaan dalam menerapkan ERP [4].</BEFORE>
+<AFTER>Oleh karena itu, berbagai macam <it>software</it> telah dikembangkan untuk membantu perusahaan dalam menerapkan ERP [4].</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk memanipulasi data yang tersimpan di suatu table, sistem harus memiliki relational operational operator dan code yang menjalankan relationship terhadap dua entity [6].</BEFORE>
+<AFTER>Untuk memanipulasi data yang tersimpan di suatu tabel, sistem harus memiliki relational operational operator dan code yang menjalankan relationship terhadap dua entity [6].</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berkut adalah teknologi yang digunakan selema perngerjaan proyek beserta alasan penggunaannya.</BEFORE>
+<AFTER>Berikut adalah teknologi yang digunakan selama perngerjaan proyek beserta alasan penggunaan.</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berkut adalah teknologi yang digunakan selema perngerjaan proyek beserta alasan penggunaannya.</BEFORE>
+<AFTER>Berikut adalah teknologi yang digunakan selama pengerjaan proyek beserta alasan penggunaannya.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tim pelaksana KP memilih XAMPP karena mudah digunakan dan menyediakan hal-hal yang dibutuhkan dalam pemasangan web server, seperti server aplikasi (Apache), database (MariaDB), scsripting language (PHP).</BEFORE>
+<AFTER>Tim pelaksana KP memilih XAMPP karena mudah digunakan dan menyediakan hal-hal yang dibutuhkan dalam pemasangan web server, seperti server aplikasi (Apache), database (MariaDB), scripting language (PHP).</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><bo>4.</bo> <bo>Sublime</bo> <bo>Text</bo> Sublime text adalah text editor yang dapat digunakan untuk kepeliuan <it>code</it> <it>generating,</it> <it>markup,</it> dll.</BEFORE>
+<AFTER><bo>4.</bo> <bo>Sublime</bo> <bo>Text</bo> Sublime text adalah text editor yang dapat digunakan untuk keperluan <it>code</it> <it>generating,</it> <it>markup,</it> dll.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Memiliki banyak package yang dapat membantu penggunanya 3.</BEFORE>
+<AFTER>Memiliki banyak package yang dapat membantu pengguna 3.</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><bo>1.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>dan</bo> <bo>Pengembangal</bo> <bo>Perangkat</bo> <bo>Lunak</bo> Metode pengembangan software jenis <it>agile</it> pernah dipelajari di mata kuliah Rekayasa Perangkat Lunak, dan pada mata kuliah pengembangan perangkat lunak digunakan metodologi Scrum yang merupakan saalah satu jenis dari <it>Agile.</it> Pada masa pelakasanaan KP, tim pelaksana KP menggunakan <it>Agile</it> sebagai acuan dalam metode perancangan dan pengambangan <it>software</it> yang dikembangkan.</BEFORE>
+<AFTER><bo>1.</bo> <bo>Rekayasa</bo> <bo>Perangkat</bo> <bo>Lunak</bo> <bo>dan</bo> <bo>Pengembangan</bo> <bo>Perangkat</bo> <bo>Lunak</bo> Metode pengembangan software jenis <it>agile</it> pernah dipelajari di mata kuliah Rekayasa Perangkat Lunak, dan pada mata kuliah pengembangan perangkat lunak digunakan metodologi Scrum yang merupakan salah satu jenis dari <it>Agile.</it> Pada masa pelaksanaan KP, tim pelaksana KP menggunakan <it>Agile</it> sebagai acuan dalam metode perancangan dan pengembangan <it>software</it> yang dikembangkan.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu pada akhir kuliah PPW peserta kuliah diminta membuat suatu <it>website</it> menggunakan <it>framework.</it> Selama pengembangan <it>software</it> pada masa pelaksanaan KP, penullis menggunakan <it>framework</it> yang dikembangkan menggunakan bahasa pemrograman PHP di lapisan <it>back-end,</it> dan HTML dan Javascript di lapisan <it>front-end.</it> Walaupun tidak ikut mengembangakan di bagian <it>front-end,</it> pengetahuan yang penulis dapatkan selama kuliah PPW membuat penulis memahami alur <it>framework</it> bekerja.</BEFORE>
+<AFTER>Selain itu pada akhir kuliah PPW peserta kuliah diminta membuat suatu <it>website</it> menggunakan <it>framework.</it> Selama pengembangan <it>software</it> pada masa pelaksanaan KP, penulis menggunakan <it>framework</it> yang dikembangkan menggunakan bahasa pemrograman PHP di lapisan <it>back-end,</it> dan HTML dan Javascript di lapisan <it>front-end.</it> Walaupun tidak ikut mengembangkan di bagian <it>front-end,</it> pengetahuan yang penulis dapatkan selama kuliah PPW membuat penulis memahami alur <it>framework</it> bekerja.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis melakukan pencarian tempat kerja praktik selama bulan Februari hingga bulan Juni tahun 2016.</BEFORE>
+<AFTER>Penulis melakukan pencarian tempat kerja praktik dari bulan Februari hingga bulan Juni tahun 2016.</AFTER>
+<ERRTYPE>PREP</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis mulai mencari informasi mengenai <it>internship</it> di beberapa perusahaan melalui <it>browsing</it> di internet maupun bertanya kepada orangtua penulis, serta menyiapkan dokumen yang dibutuhkan, seperti <it>curriculum</it> <it>vitae,</it> <it>application</it> <it>letter,</it> dan transkrip nilai sementara hingga semester 6.</BEFORE>
+<AFTER>Pada bulan Februari, penulis mulai mencari informasi mengenai <it>internship</it> di beberapa perusahaan dengan melakukan <it>browsing</it> di internet dan bertanya kepada orangtua penulis, serta menyiapkan dokumen yang dibutuhkan, seperti <it>curriculum</it> <it>vitae,</it> <it>application</it> <it>letter,</it> dan transkrip nilai sementara hingga semester 6.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada awal bulan Maret 2016, penulis melakukan pencarian tempat kerja praktik melalui <it>internet</it> dan menemukan informasi magang di kantor Gubernur DKI Jakarta.</BEFORE>
+<AFTER>Pada awal bulan Maret 2016, penulis melakukan pencarian tempat kerja praktik dengan menggunakan <it>internet</it> dan menemukan informasi magang di kantor Gubernur DKI Jakarta.</AFTER>
+<ERRTYPE>VERB</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun 4 hari kemudian, pihak panitia dari program magang kantor Gubernur memberikan respon terhadap <it>e-mail</it> penulis yang menyatakan bahwa lamaran penulis ditolak dikarenakan <it>slot</it> <it>magang</it> sudah penuh.</BEFORE>
+<AFTER>Namun 4 hari kemudian, pihak panitia dari program magang kantor Gubernur memberikan respon terhadap <it>e-mail</it> penulis yang menyatakan bahwa lamaran penulis ditolak dikarenakan <it>slot</it> magang sudah penuh.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selanjutnya, pada akhir bulan Maret 2016, penulis mengajukan lamaran ke Bank Indonesia dengan memberikan berkas-berkas yang diperlukan ke orangtua penulis agar kemudian diberikan langsung kepada pihak Bank Indonesia yang memiliki koneksi dengan orangtua penulis.</BEFORE>
+<AFTER>Selanjutnya, pada akhir bulan Maret 2016, setelah mendapatkan informasi dari orangtua penulis mengenai kesempatan magang di Bank Indonesia, penulis mengajukan lamaran ke bank tersebut dengan memberikan berkas-berkas yang diperlukan ke orangtua penulis agar kemudian diberikan langsung kepada Ibu Erli, rekan orangtua penulis yang bekerja di departemen pengembangan UMKM dalam Bank Indonesia.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun, pihak Bank Indonesia itu tidak memberikan respon apapun kepada penulis maupun orangtua penulis walaupun 3 minggu telah berlalu, terhitung sejak penulis mulai mengajukan lamaran.</BEFORE>
+<AFTER>Namun, Ibu Erli tidak memberikan respon apapun kepada penulis maupun orangtua penulis walaupun 3 minggu telah berlalu, terhitung sejak penulis mulai mengajukan lamaran.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hasil dari pertemuan itu adalah bahwa penulis dinyatakan diterima untuk melaksanakan kerja praktik di perusahaan tersebut.</BEFORE>
+<AFTER>Hasil dari pertemuan tersebut adalah penulis dinyatakan diterima sebagai <it>intern</it> yang bekerja di bidang pengembangan <it>software</it> dan konfigurasi jaringan.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Namun, karena penulis masih memiliki keinginan untuk mencoba melamar perusahaan lain dan juga periode kerja praktik itu baru dimulai pada awal bulan Juli 2016, penulis memutuskan untuk tetap mencari tempat kerja praktik yang lain hingga akhir bulan Juni 2016.</BEFORE>
+<AFTER>Namun, karena penulis masih memiliki keinginan untuk mencoba melamar perusahaan lain, dan juga periode kerja praktik baru dimulai pada awal bulan Juli 2016, penulis memutuskan untuk tetap mencari tempat kerja praktik yang lain hingga akhir bulan Juni 2016.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Secara umum, berikut adalah pekerjaan yang dilakukan selama pelaksanaan kerja praktik penulis:  Mempelajari hal-hal terkait aplikasi pembayaran <it>mobile</it> secara umum dan aplikasi Liquid Pay.</BEFORE>
+<AFTER>Berikut adalah pekerjaan yang dilakukan penulis dalam pelaksanaan kerja praktik:  Mempelajari hal-hal terkait aplikasi pembayaran <it>mobile</it> secara umum dan aplikasi Liquid Pay.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, penulis juga mempelajari rincian <it>testing</it> yang akan dilakukan dalam pelaksanaan kerja praktik serta JIRA <it>system</it> yang merupakan teknologi baru bagi penulis.</BEFORE>
+<AFTER>Selain itu, penulis juga mempelajari rincian <it>testing</it> yang akan dilakukan dalam pelaksanaan kerja praktik serta JIRA <it>system</it> (selanjutnya disingkat menjadi JIRA) yang merupakan teknologi baru bagi penulis.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tujuan dilakukannya aktifitas ini adalah untuk mempersiapkan penulis terhadap riset pasar dan proses <it>testing</it> yang akan dilakukan.</BEFORE>
+<AFTER>Tujuan dilakukannya aktifitas ini adalah untuk mempersiapkan penulis agar kegiatan riset pasar dan <it>testing</it> yang akan dilakukan dapat berjalan dengan lancar.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tujuan dilakukannya aktifitas ini adalah untuk meningkatkan pengetahuan penulis mengenai aplikasi pembayaran <it>mobile</it> dan juga untuk menganalisa peluang dan tantangan pemasaran aplikasi Liquid Pay di Indonesia.</BEFORE>
+<AFTER>Tujuan dari aktifitas ini adalah untuk meningkatkan pengetahuan penulis mengenai aplikasi pembayaran <it>mobile,</it> dan juga untuk menganalisis peluang serta tantangan pemasaran aplikasi Liquid Pay di Indonesia.</AFTER>
+<ERRTYPE>STANDARD</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE> Membuat <it>test</it> <it>case</it> dan melakukan <it>testing</it> untuk aplikasi Liquid Pay serta Liquid Merchant (selanjutnya disingkat menjadi Merchant) Android serta iOS versi 1.0 dan 2.0.</BEFORE>
+<AFTER> Membuat <it>test</it> <it>case</it> serta melakukan <it>testing</it> untuk aplikasi Liquid Pay dan Merchant Android serta iOS versi 1.0 dan 2.0.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah itu, penulis mencatat hasilnya, menganalisa perbedaan fitur atau flow antara versi Android dan iOS, dan kemudian mengidentifikasi <it>bugs</it> yang harus diperbaiki serta <it>improvements</it> yang dapat diimplementasi.</BEFORE>
+<AFTER>Setelah itu, penulis mencatat hasilnya, menganalisa perbedaan fitur atau <it>flow</it> aplikasi antara versi Android dan iOS, dan kemudian mengidentifikasi <it>bugs</it> yang harus diperbaiki serta <it>improvements</it> yang dapat diimplementasi.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk aplikasi versi 1.0, dilakukan juga UAT bersama-sama dengan para pedagang makanan di Singapura.</BEFORE>
+<AFTER>Untuk aplikasi versi 1.0, dilakukan juga UAT bersama-sama dengan para pedagang makanan di daerah Tiong Bahru, Singapura.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tujuan dilakukannya aktifitas ini adalah untuk meningkatkan kualitas dari kedua aplikasi tersebut.</BEFORE>
+<AFTER>Tujuan dilakukannya aktifitas ini adalah untuk meningkatkan kualitas aplikasi serta memastikan kedua aplikasi tersebut berfungsi dengan baik dalam <it>real</it> <it>life</it> <it>situation.</it></AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Lebih lanjut, <it>testing</it> ini dilakukan dengan metode <it>manual</it> dan tidak menggunakan <it>automated</it> <it>testing</it> <it>tool</it> tertentu.</BEFORE>
+<AFTER>Lebih lanjut, kegiatan <it>testing</it> dilakukan dengan metode <it>manual</it> dan tidak menggunakan <it>automated</it> <it>testing</it> <it>tool</it> tertentu.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Tool</it> ini digunakan oleh penulis untuk melaporkan <it>bugs</it> dan <it>improvements</it> yang diidentifikasi penulis agar segera digarap oleh tim pengembang perusahaan.</BEFORE>
+<AFTER><it>Tool</it> ini digunakan untuk melaporkan <it>bugs</it> dan <it>improvements</it> yang diidentifikasi penulis agar segera digarap oleh tim pengembang perusahaan.</AFTER>
+<ERRTYPE>REDUNDANT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pertama, akan dijelaskan mengenai kesesuaian dan perbedaan antara pelaksanaan kerja praktik yang sebenarnya dengan aktifitas yang tertulis dalam KAKP.</BEFORE>
+<AFTER>Pertama, akan dijelaskan mengenai kesesuaian dan perbedaan antara pelaksanaan kerja praktik yang sebenarnya dengan aktifitas yang tertulis dalam Kerangka Acuan Kerja Praktik (KAKP).</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selanjutnya, penulis akan memberikan penilaiannya terhadap perusahaan tempat penulis melaksanakan kerja praktik.</BEFORE>
+<AFTER>Selanjutnya, penulis akan memberikan penilaiannya terhadap perusahaan tempat penulis melakukan kerja praktik.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam pelaksanaan kerja praktik, terdapat beberapa mata kuliah yang mendukung penulis dalam kegiatan tersebut.</BEFORE>
+<AFTER>Terdapat beberapa mata kuliah yang mendukung pelaksanaan kerja praktik penulis.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Adapun mata kuliah yang mendukung antara lain Komunikasi Bisnis dan Teknis, Pengembangan dan Pemasaran Produk, Rekayasa Perangkat Lunak, dan Proyek Pengembangan Sistem Informasi.</BEFORE>
+<AFTER>Mata kuliah tersebut yaitu Komunikasi Bisnis dan Teknis, Pengembangan dan Pemasaran Produk, Rekayasa Perangkat Lunak, dan Proyek Pengembangan Sistem Informasi.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berikut merupakan penjelasan mengenai kesesuaian dan perbedaan pengetahuan mata kuliah tersebut.</BEFORE>
+<AFTER>Berikut ini merupakan penjelasan mengenai kesesuaian serta perbedaan pengetahuan mata kuliah tersebut.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE> Komunikasi Bisnis dan Teknis Dalam mata kuliah ini, penulis belajar untuk berkomunikasi secara sopan dan professional, baik secara lisan maupun non lisan.</BEFORE>
+<AFTER> Komunikasi Bisnis dan Teknis (Kombistek) Mata kuliah Kombistek telah diambil oleh penulis dan lulus pada semester 5 yang lalu.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pengetahuan ini saat bermanfaat ketika ingin mengirimkan <it>e-mail</it> ataupun ketika ingin berdiskusi dengan rekan pegawai.</BEFORE>
+<AFTER>Pengetahuan ini saat bermanfaat ketika ingin mengirimkan <it>e-mail</it> ataupun ketika ingin berdiskusi dengan rekan kerja penulis.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Untuk fakultas, penulis memiliki saran agar fakultas mempercepat proses pemeriksaan KAKP karena penulis merasa proses tersebut berjalan cukup lama dan ada beberapa KAKP milik peserta kerja praktik selain penulis yang tidak diperiksa hingga akhir masa kerja praktik mereka.</BEFORE>
+<AFTER>Untuk fakultas, penulis memiliki saran agar fakultas mempercepat proses pemeriksaan KAKP.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis sudah pernah melakukan kerja praktik pada awal tahun 2016.</BEFORE>
+<AFTER>Penulis sudah pernah melakukan kerja praktik di Tokopedia pada awal tahun 2016.</AFTER>
+<ERRTYPE>INCOMPLETE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis memutuskan untuk mencoba mendaftar dan tetap tinggal di Depok ketika masa liburan.</BEFORE>
+<AFTER>Penulis memutuskan untuk mencoba mendaftar dan tetap tinggal di Depok pada bulan Januari 2016.</AFTER>
+<ERRTYPE>INCOMPLETE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pemilihan tim Keroppi sebagai tempat penulis melakukan kerja praktik sepenuhnya dilakukan oleh pihak Tokopedia.</BEFORE>
+<AFTER>Keputusan penempatan penulis sebagai bagian dari tim Keroppi merupakan kebijakan dari pihak Tokopedia.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pemilihan tersebut didasarkan pada tim apa yang membutuhkan <it>software</it> <it>engineer</it> tambahan untuk membantu pekerjaan yang sudah dipersiapkan.</BEFORE>
+<AFTER>Kebijakan tersebut didasarkan pada tim apa yang membutuhkan <it>software</it> <it>engineer</it> tambahan untuk membantu pekerjaan yang sudah dipersiapkan.</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam pembuatan suatu aplikasi terdapat proses pengembangan aplikasi untuk dapat menghilangkan masalah-masalah yang ada dan membuat aplikasi tersebut semakin efisien.</BEFORE>
+<AFTER>Dalam pembuatan suatu aplikasi terdapat tahapan-tahapan pengembangan aplikasi tersebut, seperti mengatasi <it>bugs</it> yang ditemukan, penambahan dan penyesuaian fitur, dan sebagainya.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Salah satu contoh perusahaan logistik yang terkenal yaitu Gojek, yang menggunakan <it>pinpoint</it> sebagai informasi asal dan tujuan lokasi dalam menggunakan jasa yang disediakan.</BEFORE>
+<AFTER>Salah satu contoh perusahaan logistik yang terkenal yaitu Gojek, sebuah perusahaan yang menyediakan jasa pengiriman barang, yang menggunakan <it>pinpoint</it> sebagai informasi asal dan tujuan lokasi dalam menggunakan jasa yang disediakan.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Oleh sebab itu, dibutuhkan suatu <it>web</it> <it>service</it> untuk memvalidasi <it>pinpoint</it> yang dimasukkan oleh pengguna aplikasi Tokopedia.</BEFORE>
+<AFTER>Oleh sebab itu, dibutuhkan suatu <it>web</it> <it>service</it> untuk melakukan validasi <it>pinpoint</it> yang dimasukkan oleh pengguna aplikasi Tokopedia.</AFTER>
+<ERRTYPE>CHANGE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Metode pengembangan aplikasi yang digunakan di Tokopedia ialah metode <it>scrum.</it> Pada tim Keroppi, satu sprint memiliki periode selama dua minggu.</BEFORE>
+<AFTER>Metode pengembangan aplikasi yang digunakan di Tokopedia ialah metode <it>scrum.</it> Pada tim Keroppi, satu <it>sprint</it> memiliki periode selama dua minggu.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Memasukkan <it>pinpoint</it> pengiriman ketika melakukan pemesanan barang Masing-masing dari proses tersebut memiliki <it>web</it> <it>service</it> tersendiri yang memanggil ke API yang penulis implementasi pada <it>micro</it> <it>service</it> logistik Tokopedia.</BEFORE>
+<AFTER>Memasukkan <it>pinpoint</it> pengiriman ketika melakukan pemesanan barang Masing-masing dari proses tersebut memiliki <it>web</it> <it>service</it> tersendiri yang memanggil ke API yang penulis implementasikan pada <it>micro</it> <it>service</it> logistik Tokopedia.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Yang ke dua yaitu fitur <it>update</it> pada aplikasi <it>boundary</it> yang menggunakan <it>framework</it> Code Ignitor.</BEFORE>
+<AFTER>Yang kedua yaitu fitur <it>update</it> pada aplikasi <it>boundary</it> yang menggunakan <it>framework</it> Code Ignitor.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Beberapa mata kuliah tersebut yaitu Dasar-Dasar Pemrograman (DDP), Struktur Data dan Algoritma (SDA), Sistem Operasi (OS), Pemrograman Sistem (Sysprog), Perancangan dan Pemrograman Web (PPW), Basis Data (Basdat), Rekayasa Perangkat Lunak (RPL), Layanan dan Aplikasi Web (LAW), dan Proyek Perangkat Lunak (PPL).</BEFORE>
+<AFTER>Beberapa mata kuliah tersebut yaitu Dasar-Dasar Pemrograman (DDP), Struktur Data dan Algoritma (SDA), Sistem Operasi (OS), Pemrograman Sistem (<it>Sysprog),</it> Perancangan dan Pemrograman Web (PPW), Basis Data (Basdat), Rekayasa Perangkat Lunak (RPL), Layanan dan Aplikasi <it>Web</it> (LAW), dan Proyek Perangkat Lunak (PPL).</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dalam implementasi aplikasi <it>boundary</it> pada framework Code Ignitor digunakan bahasa tersebut.</BEFORE>
+<AFTER>Dalam implementasi aplikasi <it>boundary</it> pada <it>framework</it> Code Ignitor digunakan bahasa tersebut.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Database</it> di dalam komputer dikelola menggunakan <it>Database</it> <it>Management</it> <it>System</it> (DBMS), sebuah <it>software</it> yang dibuat untuk memudahkan penggunaan dan manajemen <it>database</it> (The Linux Information Project, 2006).</BEFORE>
+<AFTER><it>Database</it> di dalam komputer dikelola menggunakan <it>Database</it> <it>Management</it> <it>System</it> (DBMS).</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Microsoft Word juga menyediakan fitur <it>formatting</it> dokumen yang lebih familiar daripada Google Drive karena penulis dan sebagian besar rekan penulis telah terbiasa menggunakan Microsoft Word.</BEFORE>
+<AFTER>Microsoft Word juga menyediakan fitur <it>formatting</it> dokumen yang lebih <it>familiar</it> daripada Google Drive karena penulis dan sebagian besar rekan penulis telah terbiasa menggunakan Microsoft Word.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah proses pencarian tersebut pelaksana kerja praktik memutuskan untuk menghubungi PT Indocement Tunggal Prakarsa Tbk.</BEFORE>
+<AFTER>Setelah proses pencarian tersebut, pelaksana kerja praktik memutuskan untuk menghubungi PT Indocement Tunggal Prakarsa Tbk.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah menunggu selama dua minggu pelaksana kerja praktik mendapat kabar bahwa periode kerja praktik untuk bulan juni dan juli ditiadakan karena alasan tertentu.</BEFORE>
+<AFTER>Setelah menunggu selama dua minggu, pelaksana kerja praktik mendapat kabar bahwa periode kerja praktik untuk bulan juni dan juli ditiadakan karena alasan tertentu.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Surat tersebut berisi pernyataan bahwa pelaksana kerja praktik telah diterima untuk melaksanakan kerja praktik di PT Indocement Tunggal Prakarsa Tbk untuk periode bulan agustus hingga September.</BEFORE>
+<AFTER>Surat balasan dari PT Indocement tersebut berisi pernyataan bahwa pelaksana kerja praktik telah diterima untuk melaksanakan kerja praktik di PT Indocement Tunggal Prakarsa Tbk untuk periode bulan agustus hingga September.</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><bo>2.3</bo> <bo>Kesimpulan</bo> PT Indocement Tunggal Prakarsa merupakan sebuah perusahaan yang memproduksi berbagai tipe semen sebegai produk utamanya.</BEFORE>
+<AFTER><bo>2.3</bo> <bo>Kesimpulan</bo> PT Indocement Tunggal Prakarsa merupakan sebuah perusahaan yang memproduksi berbagai tipe semen sebagai produk utamanya.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada awal bulan April, penulis mencoba melamar ke IBM-JTI melalui senior yang bekerja disana, namun penulis mendapatkan informasi bahwa IBM-JTI tidak menerima kerja praktik termin pendek.</BEFORE>
+<AFTER>Pada awal bulan April, penulis mencoba melamar ke IBM-JTI melalui senior yang bekerja disana dan penulis mendapatkan informasi bahwa IBM-JTI tidak menerima kerja praktik termin pendek.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penulis menghadiri tes tersebut, namun tidak mendapat kejelasan atas hasil tes, sehingga penulis menyimpulkan bahwa penulis tidak lolos seleksi.</BEFORE>
+<AFTER>Penulis menghadiri tes tersebut, tetapi tidak mendapat kejelasan atas hasil tes, sehingga penulis menyimpulkan bahwa penulis tidak lolos seleksi.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Masih pada bulan April, penulis mencoba untuk melamar di Kudo sebagai <it>backend</it> <it>developer.</it> Beberapa waktu kemudian, penulis mendapat balasan dari Kudo untuk melakukan wawancara di kantor mereka.</BEFORE>
+<AFTER>Masih pada bulan April, penulis mencoba untuk melamar di Kudo sebagai <it>backend</it> <it>developer</it> dan penulis mendapat balasan dari Kudo untuk melakukan wawancara di kantor mereka.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Setelah 2 minggu berselang dari hari wawancara, penulis tidak mendapatkan kabar mengenai kelanjutan lamaran tersebut, sehingga penulis menyimpulkan bahwa ia tidak diterima di Kudo.</BEFORE>
+<AFTER>Sekitar 2 minggu dari hari wawancara, penulis tidak mendapatkan kabar mengenai kelanjutan lamaran tersebut.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada saat wawncara, penulis diberikan proyek untuk membuat sebuah sistem <it>web</it> <it>based</it> untuk divisi <it>Human</it> <it>Resources.</it> Penulis merasa <it>scope</it> yang diberikan oleh <it>interviewer</it> terlalu besar jika dikerjakan sendirian dan sulit jika harus selesai dalam waktu 3 bulan.</BEFORE>
+<AFTER>Pada saat wawancara, penulis diberikan proyek untuk membuat sebuah sistem <it>web</it> <it>based</it> untuk divisi <it>Human</it> <it>Resources.</it> Penulis merasa ruang lingkup pekerjaan yang diberikan oleh <it>interviewer</it> terlalu besar jika dikerjakan sendirian dan sulit jika harus selesai dalam waktu 3 bulan.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada awal bulan Juni, penulis mendapat informasi kesempatan kerja praktik di Bukalapak sebagai <it>quality</it> <it>assurance</it> melalui forum kerja praktik di scele.</BEFORE>
+<AFTER>Pada awal bulan Juni, penulis mendapat informasi kesempatan kerja praktik di Bukalapak sebagai <it>quality</it> <it>assurance</it> melalui forum kerja praktik di SCELE Fasilkom UI.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada pelaksanaannya, penulis berada pada tim <it>Android</it> <it>Mobile</it> yang terdiri atas <it>Project</it> <it>Manager,</it> <it>Developer,</it> <it>UI</it> <it>designer</it> dan <it>Quality</it> <it>Assurance.</it></BEFORE>
+<AFTER>Pada pelaksanaannya, penulis berada pada tim Android <it>Mobile</it> yang terdiri atas <it>Project</it> <it>Manager,</it> <it>Developer,</it> <it>UI</it> <it>designer</it> dan <it>Quality</it> <it>Assurance.</it></AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada pelaksanaannya, penulis berada pada tim <it>Android</it> <it>Mobile</it> yang terdiri atas <it>Project</it> <it>Manager,</it> <it>Developer,</it> <it>UI</it> <it>designer</it> dan <it>Quality</it> <it>Assurance.</it></BEFORE>
+<AFTER>Pada pelaksanaannya, penulis berada pada tim <it>Android</it> <it>Mobile</it> yang terdiri atas <it>Project</it> <it>Manager,</it> <it>Developer,</it> <it>UI</it> <it>Designer</it> dan <it>Quality</it> <it>Assurance.</it></AFTER>
+<ERRTYPE>CAPITAL</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kemudian, <it>Project</it> <it>Manager</it> dan <it>Project</it> <it>Owner</it> menentukan fitur dan fungsi apa yang akan dilakukan pada sebuah <it>sprint.</it> Selanjutnya dilakukan sesi <it>marketplace</it> untuk menentukan bobot dari setiap <it>backlog</it> yang diikuti oleh seluruh anggota tim <it>Mobile</it> Android.</BEFORE>
+<AFTER>Kemudian, <it>Project</it> <it>Manager</it> dan <it>Project</it> <it>Owner</it> menentukan fitur dan fungsi apa yang akan dilakukan pada sebuah <it>sprint.</it> Selanjutnya dilakukan sesi <it>marketplace</it> untuk menentukan bobot dari setiap <it>backlog</it> yang diikuti oleh seluruh anggota tim Mobile Android.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Proses selanjutnya adalah implementasi seluruh pekerjaan pada <it>sprint</it> tersebut diaplikasi Bukalapak Android.</BEFORE>
+<AFTER>Proses selanjutnya adalah implementasi seluruh pekerjaan pada <it>sprint</it> tersebut di aplikasi Bukalapak Android.</AFTER>
+<ERRTYPE>SPACE</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dengan kebutuhan untuk memosisikan halaman website pada rank pertama, terdapat teknik yang kita kenal dengan istilah <it>Search</it> <it>Engine</it> <it>Optimization</it> (SEO).</BEFORE>
+<AFTER>Dengan kebutuhan untuk memosisikan halaman <it>website</it> pada <it>rank</it> pertama, terdapat teknik yang kita kenal dengan istilah <it>Search</it> <it>Engine</it> <it>Optimization</it> (SEO).</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>SEO merupakan sebuah teknik yang dapat membantu meningkatkan peringkat halaman kita secara organik.</BEFORE>
+<AFTER>SEO merupakan sebuah teknik yang dapat membantu meningkatkan peringkat halaman <it>website</it> secara organik (Nisha & singh, 2014).</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Juga, terdapat fase-fase yang harus dilalui saat implementasi SEO agar mendapatkan hasil yang lebih maksimal.</BEFORE>
+<AFTER>Selain itu, terdapat fase-fase yang harus dilalui saat implementasi SEO agar mendapatkan hasil yang lebih maksimal.</AFTER>
+<ERRTYPE>CONJ</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selama kerja praktek, pelaksana menggunakan Google Webmaster untuk mengecek apakah artikel yang memuat <it>backlink</it> terhadap <it>website</it> kita sudah terindeks atau belum.</BEFORE>
+<AFTER>Selama kerja praktek, pelaksana menggunakan Google Webmasters untuk mengecek apakah artikel yang memuat <it>backlink</it> terhadap <it>website</it> sudah terindeks atau belum.</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain itu, kita juga dapat melakukan permintaan kepada Google untuk <it>crawl</it> <it>website</it> yang kita inginkan agar “cepat” terindeks.</BEFORE>
+<AFTER>Selain itu, pelaksana kerja praktek juga melakukan permintaan kepada Google untuk <it>crawl</it> <it>website</it> yang diinginkan agar “cepat” terindeks.</AFTER>
+<ERRTYPE>PRONOUN</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Moz merupakan produk freemium sehingga jika kita ingin melakukan “lebih” banyak dengan fitur-fitur yang ada, kita harus membeli lisensi.</BEFORE>
+<AFTER>Moz merupakan produk <it>freemium</it> sehingga jika kita ingin melakukan “lebih” banyak hal dengan fitur-fitur yang ada, kita harus membeli lisensi.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Kita juga dapat melihat seberapa banyak domain website yang memberikan backlink kepada website kita dengan fitur <it>backlink</it> <it>research.</it><bo>2.1.5.3</bo> <bo>Ahref</bo> Ahref merupakan sebuah produk yang memiliki seperangkat alat untuk menunjang kerja SEO.</BEFORE>
+<AFTER>Kita juga dapat melihat seberapa banyak domain <it>website</it> yang memberikan <it>backlink</it> kepada <it>website</it> kita dengan fitur <it>backlink</it> <it>research.</it> <bo>2.1.5.3</bo> <bo>Ahref</bo> Ahref merupakan sebuah produk yang memiliki seperangkat alat untuk menunjang kerja SEO (ahrefs, t.thn.).</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Lebihnya, kita dapat mengetahui prediksi posisi kita pada SERP dengan melihat nilai URL Rating (UR) website kita.</BEFORE>
+<AFTER>Kelebihannya, kita dapat mengetahui prediksi posisi kita pada SERP dengan melihat nilai <it>URL</it> <it>Rating</it> (UR) <it>website</it> kita.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>UR ini menunjukkan seberapa kuat url website yang kita miliki.</BEFORE>
+<AFTER>UR ini menunjukkan seberapa kuat <it>url</it> <it>website</it> yang kita miliki.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dengan ini pelaksana kerja praktek mendapatkan gambaran perkiraan posisi website pada SERP Google.</BEFORE>
+<AFTER>Dengan ini pelaksana kerja praktek mendapatkan gambaran perkiraan posisi <it>website</it> perusahaan pada SERP Google.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Search Engine Optimization merupakan sebuah pekerjaan yang membutuhkan pengetahuan dasar yang dipelajari oleh pelajar ilmu komputer.</BEFORE>
+<AFTER><it>Search</it> <it>Engine</it> <it>Optimization</it> merupakan sebuah pekerjaan yang membutuhkan pengetahuan dasar yang dipelajari oleh pelajar ilmu komputer.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hal ini sulit dilakukan jika SEO <it>Specialist</it> tidak memiliki pengetahuan dasar mengenai pemrograman web.</BEFORE>
+<AFTER>Hal ini sulit dilakukan jika SEO <it>Specialist</it> tidak memiliki pengetahuan dasar mengenai pemrograman <it>web.</it> Selain itu, seorang SEO juga harus dapat mengerti cara sebuah <it>search</it> <it>engine</it> bekerja.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksana KP melakukan <it>listing</it> calon-calon tempat magang yang dirasa cocok.</BEFORE>
+<AFTER>Pelaksana KP menyusun daftar calon-calon tempat magang yang dirasa cocok.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dari rentang bulan Februari – Maret 2016 pelaksana KP melamar ke perusahaan-perusahaan tersebut dan mendaftar sebagai <it>Software</it> <it>Engineer.</it> Pelaksana KP melakukan tahap <it>online</it> <it>test</it> di Bukalapak, Tokopedia, dan GPD Labs namun tidak berhasil ke tahap berikutnya.</BEFORE>
+<AFTER>Selama periode bulan Februari – Maret 2016, pelaksana KP melamar ke perusahaan-perusahaan tersebut dan mendaftar sebagai <it>Software</it> <it>Engineer.</it> Pelaksana KP melakukan tahap <it>online</it> <it>test</it> di Bukalapak, Tokopedia, dan GDP Labs, tetapi tidak berhasil ke tahap berikutnya.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada bulan April 2016, pelaksana KP melaksanakan <it>interview</it> di Kudo dan Traveloka.</BEFORE>
+<AFTER>Pada bulan April 2016, pelaksana KP melaksanakan wawancara di Kudo dan Traveloka.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Sedangkan untuk persiapan <it>interview</it> di Traveloka, pelaksana KP membuka kembali <it>slide-slide</it> mata kuliah Struktur Data dan Algoritma (SDA) dan Basis Data.</BEFORE>
+<AFTER>Sedangkan, untuk persiapan wawancara di Traveloka, pelaksana KP membuka kembali <it>slide-slide</it> mata kuliah Struktur Data dan Algoritma (SDA) dan Basis Data.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE><it>Interview</it> di Traveloka dilaksanakan di Wisma 77 Tower 2 di Slipi dan berlangsung dua tahap.</BEFORE>
+<AFTER>Wawancara di Traveloka dilaksanakan di Wisma 77 Tower 2 di Slipi dan berlangsung dua tahap.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksana KP berhasil menyelesaikan setiap <it>problem</it> dengan sedikit <it>hint</it> dari <it>interviewer.</it> Karena masih ada sisa waktu, pelaksana KP menyempatkan diri untuk bertanya-tanya bagaimana kultur dan teknologi yang diterapkan di Traveloka.</BEFORE>
+<AFTER>Pelaksana KP berhasil menyelesaikan setiap <it>problem</it> dengan sedikit <it>hint</it> dari pewawancara.</AFTER>
+<ERRTYPE>TRANS</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Tiga hari kemudian, pelaksana KP mendapat telepon dari Kudo yang menyatakan pelaksana KP diterima di Kudo dengan posisi <it>Backend</it> <it>API</it> <it>intern.</it> Namun Kudo tidak memberikan <it>deadline</it> bagi saya untuk menerima tawaran tersebut, sehingga pelaksana KP belum menanggapi tawaran tersebut sampai mendapat <it>email</it> balasan dari Traveloka.</BEFORE>
+<AFTER>Tiga hari kemudian, pelaksana KP mendapat telepon dari Kudo yang menyatakan pelaksana KP diterima di Kudo dengan posisi <it>Backend</it> <it>API</it> <it>intern.</it> Namun, Kudo tidak memberikan <it>deadline</it> bagi pelaksana KP untuk menerima tawaran tersebut.</AFTER>
+<ERRTYPE>EFF</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Seluruh data transaksi (<it>issuing,</it> <it>booking,</it> <it>cancellation,</it> dll) dari TERA saat ini masih disimpan di DBMS MongoDB.</BEFORE>
+<AFTER>Seluruh data transaksi (<it>issuing,</it> <it>booking,</it> <it>cancellation)</it> dari TERA saat ini masih disimpan di DBMS MongoDB.</AFTER>
+<ERRTYPE>ABBR</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pada proses ini data akan diambil (<it>extracted)</it> dari sumber data, dikonversi (<it>transformed)</it> menjadi bentuk yang dapat dianalisa, dan disimpan (<it>loaded)</it> di <it>data</it> <it>warehouse</it> atau sistem lain [1].</BEFORE>
+<AFTER>Pada proses ini, data akan diambil (<it>extracted)</it> dari sumber data, dikonversi (<it>transformed)</it> menjadi bentuk yang dapat dianalisis, dan disimpan (<it>loaded)</it> di <it>data</it> <it>warehouse</it> atau sistem lain [1].</AFTER>
+<ERRTYPE>STANDARD</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Selain hal-hal teknis yang pelaksana KP dapatkan selama proses kerja praktik, pelaksana KP juga mendapatkan beberapa hal non-teknis.</BEFORE>
+<AFTER>Selain hal-hal teknis yang pelaksana KP dapatkan selama proses kerja praktik, pelaksana KP juga mempelajari beberapa hal non-teknis.</AFTER>
+<ERRTYPE>VERB</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Pelaksana KP juga pernah mengikuti meeting dengan seseorang dari Filipina sehingga harus menggunakan bahasa Inggris.</BEFORE>
+<AFTER>Pelaksana KP juga pernah mengikuti <it>meeting</it> dengan seseorang dari Filipina sehingga harus menggunakan bahasa Inggris.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Dikarenakan adanya beberapa teknologi yang belum pernah ditemui sebelumnya pada saat perkuliahan maupun di tempat lain.</BEFORE>
+<AFTER>Beberapa teknologi belum pernah dipelajari oleh pelaksana KP sebelumnya, baik pada saat perkuliahan maupun di tempat lain.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Minimnya <it>in-code</it> <it>documentation</it> pada beberapa kode yang sudah ada, membuat kode tersebut sulit untuk dibaca dan dipahami, sehingga pelaksana KP harus membaca <it>wiki</it> / Confluence untuk memahami <it>flow</it> dari kode tersebut meskipun terkadang tidak ada di wiki.</BEFORE>
+<AFTER>Minimnya <it>in-code</it> <it>documentation</it> pada beberapa kode yang sudah ada, membuat kode tersebut sulit untuk dibaca dan dipahami, sehingga pelaksana KP harus membaca <it>wiki</it> / Confluence untuk memahami <it>flow</it> dari kode tersebut.</AFTER>
+<ERRTYPE>LOGIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Hal ini bisa disebabkan karena setiap <it>engineer</it> di Traveloka lebih fokus ke penyelesaian ketimbang membuat dokumentasi, dan juga setiap tim tidak terlalu mewajibkan <it>in-code</it> <it>documentation</it> meskipun sudah di- <it>encourage</it> oleh Traveloka.</BEFORE>
+<AFTER>Bahkan ada juga dokumentasi yang tidak ditulis di wiki sehingga pelaksana KP harus bertanya langsung ke <it>engineer</it> yang membuat kode tersebut.. Hal ini bisa disebabkan karena setiap <it>engineer</it> di Traveloka lebih fokus ke penyelesaian fitur dibandingkan membuat dokumentasi, dan juga setiap tim tidak terlalu mewajibkan <it>in-code</it> <it>documentation</it> meskipun sudah di-<it>encourage</it> oleh Traveloka.</AFTER>
+<ERRTYPE>STANDARD</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Proyek <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> yang dikerjakan oleh pelaksana KP ini sangat sering terjadi perubahan <it>requirements.</it> Bahkan sampai minggu terakhir pelaksanaan kerja praktik masih ada perubahan dan perlu diadakan diskusi lagi mengenai <it>requirements</it> tersebut.</BEFORE>
+<AFTER>Pada proyek <it>Market</it> <it>Manager</it> <it>Production</it> <it>Dashboard</it> yang dikerjakan oleh pelaksana KP, sangat sering terjadi perubahan <it>requirements.</it> Bahkan sampai minggu terakhir pelaksanaan kerja praktik, masih ada perubahan dan perlu diadakan diskusi lagi mengenai <it>requirements</it> proyek tersebut.</AFTER>
+<ERRTYPE>PUNCT</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Traveloka juga menawarkan fasilitas-fasilitas yang semakin memanjakan karyawannya, seperti urusan tempat parkir, makan siang, <it>printer,</it> dan permainan- permainan seperti <it>board</it> <it>game</it> dan meja pingpong.</BEFORE>
+<AFTER>Traveloka juga menawarkan fasilitas-fasilitas yang memberikan kemudahan dan kenyamanan untuk karyawannya, seperti tempat parkir, makan siang, <it>printer,</it> dan permainan-permainan seperti <it>board</it> <it>game</it> dan meja pingpong.</AFTER>
+<ERRTYPE>VERB</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Traveloka tidak membedakan fasilitas terhadap pegawai full-time maupun dengan <it>intern.</it> Di <it>mission</it> TERA, juga tidak terdapat <it>gap</it> antara pelaksana KP dengan pegawai <it>full-</it> <it>time</it> yang lain.</BEFORE>
+<AFTER>Traveloka tidak membedakan fasilitas terhadap pegawai <it>full-time</it> maupun dengan <it>intern.</it> Di <it>mission</it> TERA, juga tidak terdapat <it>gap</it> antara pelaksana KP dengan pegawai <it>full-</it> <it>time</it> yang lain.</AFTER>
+<ERRTYPE>ITALIC</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Penggunaan berbagai teknologi yang baru membuka pandangan pelaksana KP terdahap perkembangan teknologi yang sangat pesat saat ini.</BEFORE>
+<AFTER>Penggunaan berbagai teknologi yang baru membuka pandangan pelaksana KP terhadap perkembangan teknologi yang sangat pesat saat ini.</AFTER>
+<ERRTYPE>TYPO</ERRTYPE>
+</PAIR>
+
+<PAIR>
+<BEFORE>Berada di Traveloka dan di <it>mission</it> TERA juga memberikan pelajaran <it>soft</it> <it>skill</it> bagi pelaksana KP seperti komunikasi, <it>time</it> <it>management,</it> kemampuan pemecahan masalah, dan lain-lain.</BEFORE>
+<AFTER>Berada di Traveloka dan di <it>mission</it> TERA juga menunjang pembelajaran <it>soft</it> <it>skill</it> bagi pelaksana KP seperti komunikasi, <it>time</it> <it>management,</it> kemampuan pemecahan masalah, dan lain-lain.</AFTER>
+<ERRTYPE>VERB</ERRTYPE>
+</PAIR>
+</CORPUS>

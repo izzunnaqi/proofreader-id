@@ -1,0 +1,198 @@
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.25
+	precision: 0.0721830985915
+	recall: 0.25
+	f1: 0.112021857923
+
+Linear SVC :
+	accuracy: 0.173333333333
+	precision: 0.212856022732
+	recall: 0.173333333333
+	f1: 0.179101974067
+
+Naive Bayes :
+	accuracy: 0.07
+	precision: 0.0894199463262
+	recall: 0.07
+	f1: 0.0631593437806
+
+Logistic Regression :
+	accuracy: 0.363333333333
+	precision: 0.260299911033
+	recall: 0.363333333333
+	f1: 0.281603643742
+
+Random Forest :
+	accuracy: 0.336666666667
+	precision: 0.307689673725
+	recall: 0.336666666667
+	f1: 0.319683091392
+
+==================================================
+Feature Set: fc, cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.24
+	precision: 0.0731598513011
+	recall: 0.24
+	f1: 0.112136752137
+
+Linear SVC :
+	accuracy: 0.0933333333333
+	precision: 0.0984596276044
+	recall: 0.0933333333333
+	f1: 0.0891903895501
+
+Naive Bayes :
+	accuracy: 0.0966666666667
+	precision: 0.0779393039049
+	recall: 0.0966666666667
+	f1: 0.0665237319431
+
+Logistic Regression :
+	accuracy: 0.28
+	precision: 0.115493290392
+	recall: 0.28
+	f1: 0.151525549614
+
+Random Forest :
+	accuracy: 0.16
+	precision: 0.148407257156
+	recall: 0.16
+	f1: 0.148863195298
+
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it
+==================================================
+SVC :
+	accuracy: 0.43
+	precision: 0.283173421289
+	recall: 0.43
+	f1: 0.328834432168
+
+Linear SVC :
+	accuracy: 0.37
+	precision: 0.257514705141
+	recall: 0.37
+	f1: 0.283841887332
+
+Naive Bayes :
+	accuracy: 0.06
+	precision: 0.159963636364
+	recall: 0.06
+	f1: 0.0563846136973
+
+Logistic Regression :
+	accuracy: 0.38
+	precision: 0.2850651288
+	recall: 0.38
+	f1: 0.280816979656
+
+Random Forest :
+	accuracy: 0.383333333333
+	precision: 0.321628410669
+	recall: 0.383333333333
+	f1: 0.332018824356
+
+==================================================
+Feature Set: fc, cd, sld, cod, dd, it, cb
+==================================================
+SVC :
+	accuracy: 0.3
+	precision: 0.238384240815
+	recall: 0.3
+	f1: 0.1948412404
+
+Linear SVC :
+	accuracy: 0.16
+	precision: 0.210575781785
+	recall: 0.16
+	f1: 0.165897784978
+
+Naive Bayes :
+	accuracy: 0.0666666666667
+	precision: 0.152402917264
+	recall: 0.0666666666667
+	f1: 0.0615864918115
+
+Logistic Regression :
+	accuracy: 0.363333333333
+	precision: 0.264685598248
+	recall: 0.363333333333
+	f1: 0.273568980897
+
+Random Forest :
+	accuracy: 0.32
+	precision: 0.311150233324
+	recall: 0.32
+	f1: 0.310740394962
+
+==================================================
+Feature Set: cb, cp, sim
+==================================================
+SVC :
+	accuracy: 0.24
+	precision: 0.0731598513011
+	recall: 0.24
+	f1: 0.112136752137
+
+Linear SVC :
+	accuracy: 0.103333333333
+	precision: 0.0991227572901
+	recall: 0.103333333333
+	f1: 0.0937400389303
+
+Naive Bayes :
+	accuracy: 0.236666666667
+	precision: 0.128607010062
+	recall: 0.236666666667
+	f1: 0.164756391035
+
+Logistic Regression :
+	accuracy: 0.286666666667
+	precision: 0.120816993464
+	recall: 0.286666666667
+	f1: 0.155458703255
+
+Random Forest :
+	accuracy: 0.183333333333
+	precision: 0.161426153496
+	recall: 0.183333333333
+	f1: 0.166318710073
+
+==================================================
+Feature Set: cd, sld, cod, dd, it
+==================================================
+SVC :
+	accuracy: 0.426666666667
+	precision: 0.280356238592
+	recall: 0.426666666667
+	f1: 0.325163840774
+
+Linear SVC :
+	accuracy: 0.353333333333
+	precision: 0.239238171919
+	recall: 0.353333333333
+	f1: 0.262850821824
+
+Naive Bayes :
+	accuracy: 0.0566666666667
+	precision: 0.142170829544
+	recall: 0.0566666666667
+	f1: 0.0494704996669
+
+Logistic Regression :
+	accuracy: 0.363333333333
+	precision: 0.263180996961
+	recall: 0.363333333333
+	f1: 0.266157471826
+
+Random Forest :
+	accuracy: 0.406666666667
+	precision: 0.327373717734
+	recall: 0.406666666667
+	f1: 0.347860381635
+

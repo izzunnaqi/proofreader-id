@@ -64,7 +64,7 @@
 	<page id="6">
 		<title><bo>KATA</bo> <bo>PENGANTAR/UCAPAN</bo> <bo>TERIMA</bo> <bo>KASIH</bo></title>
 		<segment>
-			Pertama-tama, marilah kita ucapkan puji syukur ke hadirat Allah SWT, Tuhan Yang Maha Kuasa, karena atas rahmat dan nikmat-Nya, penulis dapat menyelesaikan Laporan Kerja Praktik yang penulis lakukan di JOB Pertamina- Talisman Jambi Merang ini dengan sebaik-baiknya. Penulisan laporan ini sendiri dilakukan dalam rangka memenuhi salah satu syarat untuk kelulusan mata kuliah Kerja Praktik untuk semester ganjil 2016/2017. Tentu bahwa terdapat banyak kekurangan di dalam penulisan laporan ini. Dan tak lupa juga, saya mengucapkan terima kasih kepada para pihak yang telah membantu dalam rangka pelaksanaan kerja praktik maupun penulisan laporan ini sendiri, antara lain : 1) Bapak Muhammad Baharuddin Jusuf, S.Kom., M.I.S, selaku dosen mata kuliah kerja praktik yang telah membantu banyak hal dalam penyusunan laporan kerja praktik maupun presentasi kerja praktik, serta penilaian akhir mata kuliah kerja praktik 2) Ibu Lia Sadita, S.Kom, M.Eng, selaku dosen mata kuliah kerja praktik terdahulu yang telah meluangkan waktu, tenaga, dan pikiran, dalam hal penyusunan kerangka acuan kerja praktik serta log kerja praktik 3) Pihak Perusahaan JOB Pertamina Talisman Jambi Merang, khususnya Bapak Agus Maryanto dan Bapak Ediyanto Pujiono selaku penyelia sekaligus <it>mentor</it> selama pelaksanaan kerja praktik Akhir kata, semoga laporan ini dapat memberikan manfaat bagi berbagai pihak terkait. Depok, 4 Oktober 2016 Penulis Dennis Pratama Kamah  v 
+			Pertama-tama, marilah kita ucapkan puji syukur ke hadirat Allah SWT, Tuhan Yang Maha Kuasa, karena atas rahmat dan nikmat-Nya, penulis dapat menyelesaikan Laporan Kerja Praktik yang penulis lakukan di JOB Pertamina- Talisman Jambi Merang ini dengan sebaik-baiknya. Penulisan laporan ini sendiri dilakukan dalam rangka memenuhi salah satu syarat untuk kelulusan mata kuliah Kerja Praktik untuk semester ganjil 2016/2017. Tentu bahwa terdapat banyak kekurangan di dalam penulisan laporan ini. Dan tak lupa juga, saya mengucapkan terima kasih kepada para pihak yang telah membantu dalam rangka pelaksanaan kerja praktik maupun penulisan laporan ini sendiri, antara lain : 1) Bapak Muhammad Baharuddin Jusuf, S.Kom., M.I.S, selaku dosen mata kuliah kerja praktik yang telah membantu banyak hal dalam penyusunan laporan kerja praktik maupun presentasi kerja praktik, serta penilaian akhir mata kuliah kerja praktik 2) Ibu Lia Sadita, S.Kom, M.Eng, selaku dosen mata kuliah kerja praktik terdahulu yang telah meluangkan waktu, tenaga, dan pikiran, dalam hal penyusunan kerangka acuan kerja praktik serta log kerja praktik 3) Pihak Perusahaan JOB Pertamina Talisman Jambi Merang, khususnya Bapak Agus Maryanto dan Bapak Ediyanto Pujiono selaku penyelia sekaligus mentor selama pelaksanaan kerja praktik Akhir kata, semoga laporan ini dapat memberikan manfaat bagi berbagai pihak terkait. Depok, 4 Oktober 2016 Penulis Dennis Pratama Kamah  v 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
@@ -79,7 +79,7 @@
 	<page id="8">
 		<title><bo>ABSTRAK</bo></title>
 		<segment>
-			: Dennis Pratama Kamah Nama Program Studi : Ilmu Komputer Judul : Pengembangan <it>Cost</it> <it>Reduction</it> <it>System</it> dan <it>Supply</it> <it>Chain</it> <it>Management</it> <it>Dashboard</it> Berbasis <it>Web</it>  Laporan ini membahas seputar kegiatan kerja praktik yang telah dilakukan oleh peserta kerja praktik atas nama Dennis Pratama Kamah di perusahaan Joint Operating Body Pertamina Talisman Jambi Merang (JOB PTJM) pada Departemen <it>Supply</it> <it>Chain</it> <it>Management</it> dimulai pada 13 Juni 2016 dan diselesaikan pada 26 Agustus 2016. Peserta KP berperan sebagai <it>web</it> <it>developer</it> untuk mengembangkan implementasi proyek aplikasi GO-Hemat dan SCM Dashboard berbasis <it>web.</it> Proses model yang digunakan adalah <it>prototyping</it> <it>model</it> dimana implementasinya tidak menggunakan <it>web-framework</it> tertentu dan hanya memanfaatkan <it>library</it> pendukung. Kesulitan selama implementasi adalah pada penetapan <it>requirement</it> yang belum begitu jelas di awal dan membutuhkan pembaruan di setiap iterasi. Kedua aplikasi telah berhasil diimplementasikan dan memenuhi fitur dan <it>requirement</it> dasar maupun tambahan yang dibutuhkan. Kata Kunci: Pengembangan <it>Web,</it> <it>Business</it> <it>Process</it> <it>Gathering,</it> Analisis, Pemodelan, <it>Debugging</it>  vii 
+			: Dennis Pratama Kamah Nama Program Studi : Ilmu Komputer Judul : Pengembangan Cost Reduction System dan Supply Chain Management Dashboard Berbasis Web  Laporan ini membahas seputar kegiatan kerja praktik yang telah dilakukan oleh peserta kerja praktik atas nama Dennis Pratama Kamah di perusahaan Joint Operating Body Pertamina Talisman Jambi Merang (JOB PTJM) pada Departemen Supply Chain Management dimulai pada 13 Juni 2016 dan diselesaikan pada 26 Agustus 2016. Peserta KP berperan sebagai web developer untuk mengembangkan implementasi proyek aplikasi GO-Hemat dan SCM Dashboard berbasis web. Proses model yang digunakan adalah prototyping model dimana implementasinya tidak menggunakan web-framework tertentu dan hanya memanfaatkan library pendukung. Kesulitan selama implementasi adalah pada penetapan requirement yang belum begitu jelas di awal dan membutuhkan pembaruan di setiap iterasi. Kedua aplikasi telah berhasil diimplementasikan dan memenuhi fitur dan requirement dasar maupun tambahan yang dibutuhkan. Kata Kunci: Pengembangan Web, Business Process Gathering, Analisis, Pemodelan, Debugging  vii 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
@@ -93,34 +93,34 @@
 	<page id="10">
 		<title><bo>DAFTAR</bo> <bo>ISI</bo></title>
 		<segment>
-			<bo>HALAMAN</bo> <bo>JUDUL</bo> <bo>.............................................................................................</bo> <bo>i</bo> <bo>HALAMAN</bo> <bo>PERNYATAAN</bo> <bo>ORISINALITAS</bo> <bo>...............................................</bo> <bo>ii</bo> <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>................................................................................................................................</bo> <bo>iii</bo> <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>PENYELIA</bo> <bo>.......................................................</bo> <bo>iv</bo> <bo>KATA</bo> <bo>PENGANTAR</bo> <bo>...........................................................................................</bo> <bo>v</bo> <bo>HALAMAN</bo> <bo>PERNYATAAN</bo> <bo>PERSETUJUAN</bo> <bo>PUBLIKASI</bo> <bo>KARYA</bo> <bo>ILMIAH</bo> <bo>UNTUK</bo> <bo>KEPENTINGAN</bo> <bo>AKADEMIS</bo> <bo>...........................................</bo> <bo>vi</bo> <bo>ABSTRAK</bo> <bo>...........................................................................................................</bo> <bo>vii</bo> <bo>ABSTRACT</bo> <bo>........................................................................................................</bo> <bo>viii</bo> <bo>DAFTAR</bo> <bo>ISI</bo> <bo>.........................................................................................................</bo> <bo>ix</bo> <bo>DAFTAR</bo> <bo>GAMBAR</bo> <bo>............................................................................................</bo> <bo>xi</bo> <bo>DAFTAR</bo> <bo>TABEL</bo> <bo>...............................................................................................</bo> <bo>xii</bo> <bo>DAFTAR</bo> <bo>LAMPIRAN</bo> <bo>......................................................................................</bo> <bo>xiii</bo> 1.1 1.2 <bo>BAB</bo> <bo>1</bo> <bo>PENDAHULUAN</bo> <bo>.....................................................................................</bo> <bo>1</bo> Proses Pencarian Kerja Praktik ................................................................ 1 Tempat Kerja Praktik ............................................................................... 3 1.2.1. Profil Tempat Kerja Praktik ......................................................... 3 1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi ............................................................................................... 10 2.1 <bo>BAB</bo> <bo>2</bo> <bo>ISI</bo> <bo>.............................................................................................................</bo> <bo>12</bo> Pekerjaan Kerja Praktik.......................................................................... 12 2.1.1 Latar Belakang Pekerjaan .......................................................... 12 2.1.2 Tinjauan Pustaka ........................................................................ 13 2.1.3 Metodologi ................................................................................. 13 2.1.4 Teknologi ................................................................................... 14 2.1.5 Non Teknis ................................................................................. 16 2.1.6 Sampel Hasil Pekerjaan.............................................................. 16 2.2 Analisis ................................................................................................... 19 2.2.1 Pelaksanaan Kerja Praktik.......................................................... 19 2.2.2 Relevansi dengan Perkuliahan di Fasilkom UI .......................... 25 BAB 3 PENUTUP ............................................................................................ 27 3.1 Kesimpulan ............................................................................................ 27 3.2 Saran ....................................................................................................... 27 <bo>DAFTAR</bo> <bo>REFERENSI</bo> <bo>......................................................................................</bo> <bo>29</bo>  ix 
+			<bo>HALAMAN</bo> <bo>JUDUL</bo> <bo>.............................................................................................</bo> <bo>i</bo> <bo>HALAMAN</bo> <bo>PERNYATAAN</bo> <bo>ORISINALITAS</bo> <bo>...............................................</bo> <bo>ii</bo> <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>DOSEN</bo> <bo>MATA</bo> <bo>KULIAH</bo> <bo>KERJA</bo> <bo>PRAKTIK</bo> <bo>................................................................................................................................</bo> <bo>iii</bo> <bo>HALAMAN</bo> <bo>PERSETUJUAN</bo> <bo>PENYELIA</bo> <bo>.......................................................</bo> <bo>iv</bo> <bo>KATA</bo> <bo>PENGANTAR</bo> <bo>...........................................................................................</bo> <bo>v</bo> <bo>HALAMAN</bo> <bo>PERNYATAAN</bo> <bo>PERSETUJUAN</bo> <bo>PUBLIKASI</bo> <bo>KARYA</bo> <bo>ILMIAH</bo> <bo>UNTUK</bo> <bo>KEPENTINGAN</bo> <bo>AKADEMIS</bo> <bo>...........................................</bo> <bo>vi</bo> <bo>ABSTRAK</bo> <bo>...........................................................................................................</bo> <bo>vii</bo> <bo>ABSTRACT</bo> <bo>........................................................................................................</bo> <bo>viii</bo> <bo>DAFTAR</bo> <bo>ISI</bo> <bo>.........................................................................................................</bo> <bo>ix</bo> <bo>DAFTAR</bo> <bo>GAMBAR</bo> <bo>............................................................................................</bo> <bo>xi</bo> <bo>DAFTAR</bo> <bo>TABEL</bo> <bo>...............................................................................................</bo> <bo>xii</bo> <bo>DAFTAR</bo> <bo>LAMPIRAN</bo> <bo>......................................................................................</bo> <bo>xiii</bo> 1.1 1.2 <bo>BAB</bo> <bo>1</bo> <bo>PENDAHULUAN</bo> <bo>.....................................................................................</bo> <bo>1</bo> Proses Pencarian Kerja Praktik ................................................................ 1 Tempat Kerja Praktik ............................................................................... 3 1.2.1. Profil Tempat Kerja Praktik ......................................................... 3 1.2.2. Posisi Penempatan Pelaksana Kerja Praktik dalam Struktur Organisasi ................................................................................................. 7 2.1 <bo>BAB</bo> <bo>2</bo> <bo>ISI</bo> <bo>...............................................................................................................</bo> <bo>8</bo> Pekerjaan Kerja Praktik............................................................................ 8 2.1.1 Latar Belakang Pekerjaan ............................................................ 8 2.1.2 Tinjauan Pustaka .......................................................................... 9 2.1.3 Metodologi ................................................................................... 9 2.1.4 Teknologi ................................................................................... 10 2.1.5 Non Teknis ................................................................................. 11 2.1.6 Sampel Hasil Pekerjaan.............................................................. 12 2.2 Analisis ................................................................................................... 17 2.2.1 Pelaksanaan Kerja Praktik.......................................................... 17 2.2.2 Relevansi dengan Perkuliahan di Fasilkom UI .......................... 22 BAB 3 PENUTUP ............................................................................................ 23 3.1 Kesimpulan ............................................................................................ 23 3.2 Saran ....................................................................................................... 23 <bo>DAFTAR</bo> <bo>REFERENSI</bo> <bo>......................................................................................</bo> <bo>24</bo>  ix 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="11">
 		<segment>
-			<bo>LAMPIRAN</bo> <bo>.........................................................................................................</bo> <bo>30</bo> <bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KAKP</bo> <bo>........................................................................................</bo> <bo>30</bo> <bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KP</bo> <bo>....................................................................................</bo> <bo>33</bo>  x 
+			<bo>LAMPIRAN</bo> <bo>.........................................................................................................</bo> <bo>25</bo> <bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KAKP</bo> <bo>........................................................................................</bo> <bo>25</bo> <bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KP</bo> <bo>....................................................................................</bo> <bo>28</bo>  x 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="12">
 		<title><bo>DAFTAR</bo> <bo>GAMBAR</bo></title>
 		<segment>
-			Gambar 1.1. Profil Perusahaan JOB PTJM ............................................................. 4 Gambar 1.2. Profil Penghargaan yang Diperoleh Perusahaan JOB PTJM ............. 5 Gambar 1.3. Struktur Organisasi Pusat Perusahaan JOB PTJM ............................. 6 Gambar 1.4. Struktur Organisasi QHSSE Department Perusahaan JOB PTJM ..... 6 Gambar 1.5. Struktur Organisasi Exploration Department Perusahaan JOB PTJM 7 Gambar 1.6. Struktur Organisasi Subsurface Department Perusahaan JOB PTJM 7 Gambar 1.7. Struktur Organisasi DWO &amp; Engineering Department Perusahaan JOB PTJM ............................................................................................................... 8 Gambar 1.8. Struktur Organisasi Project Facility Department Perusahaan JOB PTJM ....................................................................................................................... 8 Gambar 1.9. Struktur Organisasi Field Department Perusahaan JOB PTJM ......... 9 Gambar 1.10. Struktur Organisasi SCM Department Perusahaan JOB PTJM ....... 9 Gambar 1.11. Struktur Organisasi Business Support Department Perusahaan JOB PTJM ..................................................................................................................... 10 Gambar 1.12. Struktur Organisasi Finance Department Perusahaan JOB PTJM . 10 Gambar 1.13. Struktur Organisasi Spesifik SCM Department Perusahaan JOB PTJM ..................................................................................................................... 11 Gambar 2.1. <it>ER</it> <it>Diagram</it> Aplikasi Go-Hemat ..................................................... 17 Gambar 2.2. Kode <it>File</it> header.php untuk Aplikasi SCM Dashboard ................... 17 Gambar 2.3. <it>Homepage</it> Aplikasi GO-Hemat ....................................................... 18 Gambar 2.4. <it>Homepage</it> SCM Dashboard ............................................................. 18  xi 
+			Gambar 1.1. Profil Perusahaan JOB PTJM ............................................................. 4 Gambar 1.2. Profil Penghargaan yang Diperoleh Perusahaan JOB PTJM ............. 5 Gambar 1.3. Struktur Organisasi Pusat Perusahaan JOB PTJM ............................. 6 Gambar 1.4. Struktur Organisasi SCM Department Perusahaan JOB PTJM ......... 6 Gambar 1.5. Struktur Organisasi Spesifik SCM Department Perusahaan JOB PTJM ....................................................................................................................... 7 Gambar 2.1. Use Case Diagram Aplikasi Go-Hemat ........................................... 13 Gambar 2.2. Class Diagram Aplikasi SCM Dashboard ....................................... 14 Gambar 2.3. ER Diagram Aplikasi SCM Dashboard ........................................... 15 Gambar 2.4. Kode File header.php untuk Aplikasi SCM Dashboard ................... 15 Gambar 2.5. Homepage Aplikasi GO-Hemat ....................................................... 16 Gambar 2.6. Homepage SCM Dashboard ............................................................. 16  xi 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="13">
 		<title><bo>DAFTAR</bo> <bo>TABEL</bo></title>
 		<segment>
-			Tabel 2.1. Perbandingan Waktu Rencana Jadwal KAKP dengan Pelaksanaan Nyata Kerja Praktik ............................................................................................... 20 Tabel 2.2. Kendala selama Kerja Praktik dan Cara Penanganannya .................. 22  xii 
+			Tabel 2.1. Perbandingan Waktu Rencana Jadwal KAKP dengan Pelaksanaan Nyata Kerja Praktik ............................................................................................... 18 Tabel 2.2. Kendala selama Kerja Praktik dan Cara Penanganannya .................. 20  xii 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="14">
 		<title><bo>DAFTAR</bo> <bo>LAMPIRAN</bo></title>
 		<segment>
-			Lampiran 1: KAKP ............................................................................................... 30 Lampiran 2: LOG KP ............................................................................................ 33  xiii 
+			Lampiran 1: KAKP ............................................................................................... 25 Lampiran 2: LOG KP ............................................................................................ 28  xiii 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
@@ -132,7 +132,7 @@
 		</segment>
 		<title><bo>1.1.</bo></title>
 		<segment>
-			<bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis melakukan berbagai macam metode dalam mencari perusahaan sebagai tujuan untuk melakukan kerja praktik. Pencarian dimulai sekitar bulan Januari 2016 (menjelang kegiatan perkuliahan pada semester genap 2015/2016). Pertama, penulis mencoba melamar ke Bank Indonesia atas rekomendasi orang tua penulis. Prosedurnya adalah dengan mengirimkan dokumen-dokumen pendukung yang dibutuhkan secara langsung melalui pos. Namun, tidak ada kabar sama sekali dari institusi tersebut. Penulis lalu mencoba melamar ke <it>NAIST</it> <it>Internship</it> dimana lowongan tersebut diumumkan di Forum Lowongan di situs Scele Fasilkom UI dan Ibu Mirna mengirimkan surel ke penulis bahwa penulis tidak diterima. Penulis kemudian mendapat lowongan seputar <it>Adaro</it> <it>Intern</it> <it>Student</it> <it>Program</it> dimana telah sampai tahap wawancara namun kemudian tidak ada balasan dari pihak Adaro. Kemudian penulis kembali beralih ke situs Scele Fasilkom UI dan mendapatkan informasi seputar kerja praktik di IBM. Penulis diperkenankan untuk mengirimkan dokumen CV melalui surel, akan tetapi tidak ada balasan dari pihak IBM. Di situs yang sama, penulis melamar ke perusahaan ILCS (<it>Indonesia</it> <it>Logistics</it> <it>Community</it> <it>Service),</it> hingga sampai tahap wawancara, namun tidak ada kejelasan yang pasti meskipun pihak dari ILCS terbuka untuk menerima anak magang. Lalu penulis beralih ke kegiatan <it>Job</it> <it>Fair</it> yang diselenggarakan 
+			<bo>Proses</bo> <bo>Pencarian</bo> <bo>Kerja</bo> <bo>Praktik</bo> Penulis melakukan berbagai macam metode dalam mencari perusahaan sebagai tujuan untuk melakukan kerja praktik. Pencarian dimulai sekitar bulan Januari 2016 (menjelang kegiatan perkuliahan pada semester genap 2015/2016). Pertama, penulis mencoba melamar ke Bank Indonesia atas rekomendasi orang tua penulis. Prosedurnya adalah dengan mengirimkan dokumen-dokumen pendukung yang dibutuhkan secara langsung melalui pos. Namun, tidak ada kabar sama sekali dari institusi tersebut. Penulis lalu mencoba melamar ke NAIST Internship dimana lowongan tersebut diumumkan di Forum Lowongan di situs Scele Fasilkom UI dan Ibu Mirna mengirimkan surel ke penulis bahwa penulis tidak diterima. Penulis kemudian mendapat lowongan seputar Adaro Intern Student Program dimana telah sampai tahap wawancara namun kemudian tidak ada balasan dari pihak Adaro. Kemudian penulis kembali beralih ke situs Scele Fasilkom UI dan mendapatkan informasi seputar kerja praktik di IBM. Penulis diperkenankan untuk mengirimkan dokumen CV melalui surel, akan tetapi tidak ada balasan dari pihak IBM. Di situs yang sama, penulis melamar ke perusahaan ILCS (Indonesia Logistics Community Service), hingga sampai tahap wawancara, namun tidak ada kejelasan yang pasti meskipun pihak dari ILCS terbuka untuk menerima anak magang. Lalu penulis beralih ke kegiatan Job Fair yang diselenggarakan Fasilkom UI dan penulis mendaftarkan diri ke FlipBox dikarenakan perusahaan lain mensyaratkan lamaran secara full-time. 
 		</segment>
 		<pagenum> 1</pagenum>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
@@ -140,89 +140,49 @@
 	<page id="16">
 		<pagenum>2</pagenum>
 		<segment>
-			Fasilkom UI dan penulis mendaftarkan diri ke FlipBox dikarenakan perusahaan lain mensyaratkan lamaran secara <it>full-time.</it> Penulis juga memanfaatkan situs pencarian kerja yaitu jobstreet.com, dimana penulis mendapat panggilan dari Cigna dan DHL Global-Forwarding Indonesia. Pihak Cigna mensyaratkan agar kerja praktik sesegera mungkin, namun penulis menolak karena masih dalam kegiatan perkuliahan aktif, sedangkan pada perusahaan DHL, penulis dipanggil hingga tahap wawancara. Penulis juga mendaftarkan diri ke PT.IFS Solutions Indonesia hingga tahap tes pemrograman dan wawancara bersama dua orang teman penulis. Dan terakhir, penulis memanfaatkan peluang lowongan di situs CDC UI untuk mendaftar ke Siemens Indonesia, Program CO-Operative PLN Pusdiklat, serta JOB Pertamina-Talisman Jambi Merang (JOB PTJM). Singkatnya, penulis diterima di DHL, Pusdiklat PLN, serta JOB Pertamina- Talisman Jambi Merang. Sedangkan di ILCS sendiri, pihak dari perusahaan tersebut mempersilahkan saja bagi peserta magang untuk langsung datang pada waktu ketika sudah mulai dapat melakukan kerja praktik, namun penulis mengurungkan diri untuk kerja praktik di sana, meskipun sudah sempat tahap wawancara. Sementara itu, penulis mengirimkan pernyataan mengundurkan diri melalui surel kepada FlipBox, ILCS, serta PT.IFS Solutions Indonesia. Untuk kesempatan di IFS, penulis mengundurkan diri dikarenakan agar dapat memberi tempat pada dua orang teman penulis dimana IFS hanya menerima <bo>dua</bo> <bo>orang</bo> saja dari kami bertiga. Dan tentu saja, hal yang sama dilakukan penulis kepada pihak DHL dan Pusdiklat PLN. Hal yang menjadi pertimbangan bagi penulis untuk memilih JOB PTJM adalah dikarenakan lokasi kerja yang relatif dekat dengan Depok, persyaratan kemampuan pemrograman yang tidak terlalu memberatkan, serta keinginan penulis untuk mengetahui seluk-beluk pemanfaatan teknologi informasi di perusahaan berbasiskan pertambangan dan perminyakan. Lokasi kerja dari Pusdiklat PLN (sekitar daerah Ragunan) serta DHL (sekitar areal Bandara 
+			Penulis juga memanfaatkan situs pencarian kerja yaitu jobstreet.com, dimana penulis mendapat panggilan dari Cigna dan DHL Global-Forwarding Indonesia. Pihak Cigna mensyaratkan agar kerja praktik sesegera mungkin, namun penulis menolak karena masih dalam kegiatan perkuliahan aktif, sedangkan pada perusahaan DHL, penulis dipanggil hingga tahap wawancara. Penulis juga mendaftarkan diri ke PT.IFS Solutions Indonesia hingga tahap tes pemrograman dan wawancara bersama dua orang teman penulis. Dan terakhir, penulis memanfaatkan peluang lowongan di situs CDC UI untuk mendaftar ke Siemens Indonesia, Program CO-Operative PLN Pusdiklat, serta JOB Pertamina-Talisman Jambi Merang (JOB PTJM). Singkatnya, penulis diterima di DHL, Pusdiklat PLN, serta JOB Pertamina- Talisman Jambi Merang. Sedangkan di ILCS sendiri, pihak dari perusahaan tersebut mempersilahkan saja bagi peserta magang untuk langsung datang pada waktu ketika sudah mulai dapat melakukan kerja praktik, namun penulis mengurungkan diri untuk kerja praktik di sana, meskipun sudah sempat tahap wawancara. Sementara itu, penulis mengirimkan pernyataan mengundurkan diri melalui surel kepada FlipBox, ILCS, serta PT.IFS Solutions Indonesia. Untuk kesempatan di IFS, penulis mengundurkan diri dikarenakan agar dapat memberi tempat pada dua orang teman penulis dimana IFS hanya menerima <bo>dua</bo> <bo>orang</bo> saja dari kami bertiga. Dan tentu saja, hal yang sama dilakukan penulis kepada pihak DHL dan Pusdiklat PLN. Hal yang menjadi pertimbangan bagi penulis untuk memilih JOB PTJM adalah dikarenakan lokasi kerja yang relatif dekat dengan Depok, persyaratan kemampuan pemrograman yang tidak terlalu memberatkan, serta keinginan penulis untuk mengetahui seluk-beluk pemanfaatan teknologi informasi di perusahaan berbasiskan pertambangan dan perminyakan. Lokasi kerja dari Pusdiklat PLN (sekitar daerah Ragunan) serta DHL (sekitar areal Bandara Internasional Soekarno-Hatta) yang cukup jauh, khususnya dengan kampus, membuat penulis mengurungkan diri untuk melakukan kerja praktik di sana. 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="17">
 		<pagenum>3</pagenum>
-		<segment>
-			Internasional Soekarno-Hatta) yang cukup jauh, khususnya dengan kampus, membuat penulis mengurungkan diri untuk melakukan kerja praktik di sana. 
-		</segment>
 		<title><bo>1.2.</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
 		<title><bo>1.2.1</bo> <bo>Profil</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
 		<segment>
-			  <bo>Bidang</bo> <bo>Inti</bo> <bo>Bisnis</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo>  Perusahaan JOB PERTAMINA - TALISMAN Jambi Merang (JOBPTJM) adalah badan operasi bersama milik PT. Pertamina Hulu Energi Jambi Merang, Talisman (Jambi Merang) Ltd. dan Pacific Oil &amp; Gas Ltd. (Jambi Merang). Pembagiannya sendiri, yaitu sebesar 50% untuk PT. Pertamina Hulu Energi Jambi Merang , 25% untuk Talisman (Jambi Merang) Ltd., serta 25% untuk Pacific Oil &amp; Gas Ltd. (Jambi Merang). JOBPTJM memiliki dua lapangan operasi yaitu Sungai Kenawang dan Pulai Gading yang berlokasi di kecamatan Bayung Lencir, Kabupaten Musi Banyuasin, Sumatera Selatan. Visi JOBPTJM yakni menjadi JOB terbaik dan terbesar dalam produksi gas. Dan misi JOBPTJM adalah meningkatkan dan memelihara keselamatan, kesehatan kerja dan lingkungan kerja yang kondusif; meningkatkan cadangan, produksi dan laba dengan menerapkan teknologi modern dan strategi eksplorasi yang tepat serta mengimplementasikan Good Corporate Governance dengan menerapkan etika bisnis yang baik.  JOBPTJM berkomitmen untuk mendukung produksi nasional dengan menjalankan teknik peningkatan produksi dengan hasil yang baik. Sejak tahun 2011, rata-rata produksi tahunan JOBPTJM mencapai 128 BBTUPD untuk gas dan 6000 BPD untuk condensate. Dan berikut adalah ilustrasi <it>company</it> <it>profile</it> dari perusahaan JOB PTJM beserta ilustrasi penghargaan yang pernah diperoleh oleh perusahaan JOB PTJM yang mengutip dari dokumen resmi perusahaan : 
+			  <bo>Bidang</bo> <bo>Inti</bo> <bo>Bisnis</bo> <bo>Tempat</bo> <bo>Kerja</bo> <bo>Praktik</bo>  Perusahaan JOB PERTAMINA - TALISMAN Jambi Merang (JOBPTJM) adalah badan operasi bersama milik PT. Pertamina Hulu Energi Jambi Merang, Talisman (Jambi Merang) Ltd. dan Pacific Oil &amp; Gas Ltd. (Jambi Merang). Pembagiannya sendiri, yaitu sebesar 50% untuk PT. Pertamina Hulu Energi Jambi Merang , 25% untuk Talisman (Jambi Merang) Ltd., serta 25% untuk Pacific Oil &amp; Gas Ltd. (Jambi Merang). JOBPTJM memiliki dua lapangan operasi yaitu Sungai Kenawang dan Pulai Gading yang berlokasi di kecamatan Bayung Lencir, Kabupaten Musi Banyuasin, Sumatera Selatan. Visi JOBPTJM yakni menjadi JOB terbaik dan terbesar dalam produksi gas. Dan misi JOBPTJM adalah meningkatkan dan memelihara keselamatan, kesehatan kerja dan lingkungan kerja yang kondusif; meningkatkan cadangan, produksi dan laba dengan menerapkan teknologi modern dan strategi eksplorasi yang tepat serta mengimplementasikan Good Corporate Governance dengan menerapkan etika bisnis yang baik.  JOBPTJM berkomitmen untuk mendukung produksi nasional dengan menjalankan teknik peningkatan produksi dengan hasil yang baik. Sejak tahun 2011, rata-rata produksi tahunan JOBPTJM mencapai 128 BBTUPD untuk gas dan 6000 BPD untuk condensate. Dan berikut adalah ilustrasi company profile dari perusahaan JOB PTJM beserta ilustrasi penghargaan yang pernah diperoleh oleh perusahaan JOB PTJM yang mengutip dari dokumen resmi perusahaan : 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="18">
 		<pagenum>4</pagenum>
 		<segment>
-			Gambar 1.1 Profil Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Digital</it> <it>Infographic</it> (halaman 1). 27 September 2016 
+			Gambar 1.1 Profil Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). Digital Infographic (halaman 1). 27 September 2016 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="19">
 		<pagenum>5</pagenum>
 		<segment>
-			Gambar 1.2 Profil Penghargaan yang Diperoleh Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Digital</it> <it>Infographic</it> (halaman 2). 27 September 2016   <bo>Struktur</bo> <bo>Singkat</bo> <bo>Organisasi</bo>  Struktur organisasi dari perusahaan JOB PTJM sendiri terdiri dari seorang <it>General</it> <it>Manager</it> yang dibantu oleh <it>Chief</it> <it>Audit,</it> <it>Commercial</it> <it>Head,</it> serta 
+			Gambar 1.2 Profil Penghargaan yang Diperoleh Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). Digital Infographic (halaman 2). 27 September 2016   <bo>Struktur</bo> <bo>Singkat</bo> <bo>Organisasi</bo>  Struktur organisasi dari perusahaan JOB PTJM sendiri terdiri dari seorang General Manager yang dibantu oleh Chief Audit, Commercial Head, serta Executive Secretary dimana membawahi langsung 9 departemen (dipimpin oleh 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="20">
 		<pagenum>6</pagenum>
 		<segment>
-			<it>Executive</it> <it>Secretary</it> dimana membawahi langsung 9 departemen (dipimpin oleh seorang <it>Manager)</it> dibawahnya. Informasi lengkap perihal struktur organisasi pusat beserta departmen di bawahnya di perusahaan JOB PTJM, terdapat pada ilustrasi bagan berikut : Gambar 1.3 Struktur Organisasi Pusat Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 1). 27 September 2016 Gambar 1.4 Struktur Organisasi <it>QHSSE</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 2). 27 September 2016 
+			seorang Manager) dibawahnya, antara lain QHSSE Department, Exploration Department, Subsurface Department, DWO &amp; Engineering Department, Project Facility Department, Field Department, Supply Chain Management Department, Business Support Management, serta Finance Department. Informasi lengkap perihal struktur organisasi pusat beserta Departemen Supply Chain Management, selaku departemen dimana penulis melakukan kerja praktik, terdapat pada ilustrasi bagan berikut : Gambar 1.3 Struktur Organisasi Pusat Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). Organization Chart (halaman 1). 27 September 2016 Gambar 1.4 Struktur Organisasi SCM Department Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). Organization Chart (halaman 11). 27 September 2016 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="21">
 		<pagenum>7</pagenum>
+		<title><bo>1.2.2</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo> <bo>Organisasi</bo></title>
 		<segment>
-			Gambar 1.5 Struktur Organisasi <it>Exploration</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 3). 27 September 2016 Gambar 1.6 Struktur Organisasi <it>Subsurface</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 4). 27 September 2016 
+			Dengan mengacu pada surat keputusan penerimaan kerja praktik dengan nomor BS-J/16-0467 yang dikeluarkan pada 7 Juni 2016 (Mirasfi, 2016), penulis ditempatkan pada Supply Chain Management (SCM) Department, dimana tepatnya penulis berada di posisi Material Database &amp; System Support Analyst di bawah bimbingan langsung Bapak Ediyanto Pujiono selaku mentor selama pelaksanaan kerja praktik serta Bapak Agus Maryanto selaku Logistic Head sebagai penyelia kerja praktik dari penulis (komunikasi melalui email dengan Bapak Ediyanto Pujiono dan Gadisya Deayusdita, 26 September 2016). Secara spesifik berikut, posisi penempatan penulis selaku pelaksana kerja praktik dalam struktur organisasi SCM Department berikut dengan bagian yang dilingkari kuning, yang mengacu pada Gambar 1.4 sebelumnya: Gambar 1.5 Struktur Organisasi Spesifik SCM Department Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). Satuan Kerja Khusus SCM Department. 27 September 2016 (telah diolah kembali) 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="22">
-		<segment>
-			Gambar 1.7 Struktur Organisasi <it>DWO</it> &amp; <it>Engineering</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 5). 27 September 2016 
-		</segment>
-		<pagenum>8</pagenum>
-		<segment>
-			Gambar 1.8 Struktur Organisasi <it>Project</it> <it>Facility</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 6). 27 September 2016 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="23">
-		<segment>
-			Gambar 1.9 Struktur Organisasi <it>Field</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 8). 27 September 2016 
-		</segment>
-		<pagenum>9</pagenum>
-		<segment>
-			Gambar 1.10 Struktur Organisasi <it>SCM</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 11). 27 September 2016 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="24">
-		<pagenum>10</pagenum>
-		<segment>
-			Gambar 1.11 Struktur Organisasi <it>Business</it> <it>Support</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 11). 27 September 2016 Gambar 1.12 Struktur Organisasi <it>Finance</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart</it> (halaman 14). 27 September 2016 
-		</segment>
-		<title><bo>1.2.2</bo> <bo>Posisi</bo> <bo>Penempatan</bo> <bo>Pelaksana</bo> <bo>Kerja</bo> <bo>Praktik</bo> <bo>dalam</bo> <bo>Struktur</bo></title>
-		<segment>
-			<bo>Organisasi</bo> Dengan mengacu pada surat keputusan penerimaan kerja praktik dengan nomor BS-J/16-0467 yang dikeluarkan pada 7 Juni 2016 (Mirasfi, 2016), penulis 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="25">
-		<pagenum>11</pagenum>
-		<segment>
-			ditempatkan pada <it>Supply</it> <it>Chain</it> <it>Management</it> <it>(SCM)</it> <it>Department,</it> dimana tepatnya penulis berada di posisi <it>Material</it> <it>Database</it> &amp; <it>System</it> <it>Support</it> <it>Analyst</it> di bawah bimbingan langsung Bapak Ediyanto Pujiono selaku <it>mentor</it> selama pelaksanaan kerja praktik serta Bapak Agus Maryanto selaku <it>Logistic</it> <it>Head</it> sebagai penyelia kerja praktik dari penulis (komunikasi melalui email dengan Bapak Ediyanto Pujiono dan Gadisya Deayusdita , 26 September 2016). Secara spesifik berikut, posisi penempatan penulis selaku pelaksana kerja praktik dalam struktur organisasi <it>SCM</it> <it>Department</it> berikut dengan bagian yang dilingkari kuning, yang mengacu pada Gambar 1.10 : Gambar 1.13 Struktur Organisasi Spesifik <it>SCM</it> <it>Department</it> Perusahaan JOB PTJM Sumber : JOB PTJM (24 Februari 2016). <it>Satuan</it> <it>Kerja</it> <it>Khusus</it> <it>SCM</it> <it>Department.</it> 27 September 2016 (telah diolah kembali) 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="26">
 		<title><bo>BAB</bo> <bo>2</bo></title>
 		<title><bo>ISI</bo></title>
 		<segment>
@@ -230,136 +190,151 @@
 		</segment>
 		<title><bo>2.1.1</bo> <bo>Latar</bo> <bo>Belakang</bo> <bo>Pekerjaan</bo></title>
 		<segment>
-			Secara umum, lowongan <it>internship</it> (<it>PHP</it> <it>Internship)</it> yang dibuka dan diumumkan pada situs CDC UI oleh perusahaan tempat penulis melakukan kerja praktik, yaitu JOB Pertamina Talisman Jambi Merang 
+			Secara umum, lowongan internship (PHP Internship) yang dibuka dan diumumkan pada situs CDC UI oleh perusahaan tempat penulis melakukan kerja praktik, yaitu JOB Pertamina Talisman Jambi Merang 
 		</segment>
 		<title>(JOB PTJM),</title>
 		<segment>
-			dilatarbelakangi oleh adanya kebutuhan untuk membantu mengerjakan proyek yang dipegang oleh penyelia KP dari penulis, yaitu berupa proyek aplikasi untuk menyelesaikan permasalahan perhitungan proses kinerja efisiensi biaya pada internal Departemen <it>Supply</it> <it>Chain</it> <it>Management</it> (SCM), khususnya pada <it>Logistics</it> dan <it>Procurement,</it> serta proyek aplikasi untuk membuat suatu <it>dashboard</it> bagi Departemen SCM dalam hal melakukan penilaian kinerja Departemen SCM itu sendiri yang nantinya akan digabungkan dengan basis penilaian yang lainnya (diharapkan semacam <it>portal).</it> Dua proyek aplikasi ini sendiri diharapkan dirancang dan diimplementasikan agar dapat dijalankan berbasis <it>web</it> dan dapat diakses dari <it>internal</it> <it>server</it> perusahaan JOB PTJM itu sendiri oleh setiap personalia di Departemen SCM. Dan juga, apabila tingkat kepuasan dari penggunaan aplikasi ini cukup tinggi, maka akan direncanakan juga bahwa dua aplikasi ini dapat juga digunakan oleh departemen yang lain di JOB PTJM. 
+			dilatarbelakangi oleh adanya kebutuhan untuk membantu mengerjakan proyek yang dipegang oleh penyelia KP dari penulis, yaitu berupa proyek aplikasi untuk menyelesaikan permasalahan perhitungan proses kinerja efisiensi biaya pada internal Departemen Supply Chain Management (SCM), khususnya pada Logistics dan Procurement, serta proyek aplikasi untuk membuat suatu dashboard bagi Departemen SCM dalam hal melakukan penilaian kinerja Departemen SCM itu sendiri yang nantinya akan digabungkan dengan basis penilaian yang lainnya (diharapkan semacam portal). Dua proyek aplikasi ini sendiri diharapkan dirancang dan diimplementasikan agar dapat dijalankan berbasis web dan dapat diakses dari internal server perusahaan JOB PTJM itu sendiri oleh setiap personalia di Departemen SCM. Dan juga, apabila tingkat kepuasan dari penggunaan aplikasi ini cukup tinggi, maka akan direncanakan juga bahwa dua aplikasi ini dapat juga digunakan oleh departemen yang lain di JOB PTJM. 
 		</segment>
-		<pagenum> 12</pagenum>
+		<pagenum> 8</pagenum>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
-	<page id="27">
-		<pagenum>13</pagenum>
+	<page id="23">
+		<pagenum>9</pagenum>
 		<title><bo>2.1.2</bo> <bo>Tinjauan</bo> <bo>Pustaka</bo></title>
 		<segment>
-			  <it>Prototyping</it> <it>Model</it>  Pressman (2010) menyebutkan bahwa model proses secara <it>prototyping</it> yang termasuk ke dalam <it>Evolutionary</it> <it>Model</it> <it>Process</it> , dapat mendukung pengembang maupun <it>stakeholder</it> lain dalam pengembangan suatu aplikasi ketika <it>requirement</it> yang ada belum begitu jelas dan ambigu. Seorang pengembang aplikasi dituntut untuk membuat suatu sistem secara aktual dalam bentuk <it>prototype.</it>   GO-Hemat  Go-Hemat merupakan produk rancangan yang diharapkan dapat meningkatkan hasil proses kinerja efisiensi biaya pada internal Departemen <it>Supply</it> <it>Chain</it> <it>Management,</it> khususnya pada <it>Logistics</it> dan <it>Procurement,</it> dengan mengelola data penghemaran (<it>cost</it> <it>saving)</it> yang dilakukan oleh setiap pegawai di JOB PTJM (JOB PTJM, 2016). Terdapat dua <it>user</it> untuk aplikasi ini, yaitu <it>user</it> biasa yang berperan untuk melakukan CRUD (<it>Create,</it> <it>Read,</it> <it>Update,</it> <it>Delete)</it> pada data <it>cost</it> <it>saving</it> masing-masing yang dikelolanya serta <it>coordinator</it> yang berperan untuk memvalidasi apakah suatu tindakan oleh <it>user</it> <it>biasa</it> cukup valid untuk dianggap sebagai suatu penghematan (<it>saving).</it>   SCM Dashboard  SCM Dashboard berperan sebagai semacam <it>portal</it> yang menghubungkan antara beberapa aplikasi untuk menghitung indikator penilaian kinerja di Departemen <it>Supply</it> <it>Chain</it> <it>Management</it> (mengacu pada KKKS 2015) dan data mengenai penghematan (<it>cost</it> <it>saving)</it> yang berhasil dilakukan (SKK Migas, 2016) 
+			  Prototyping Model  Pressman (2010) menyebutkan bahwa model proses secara prototyping yang termasuk ke dalam Evolutionary Model Process , dapat mendukung pengembang maupun stakeholder lain dalam pengembangan suatu aplikasi ketika requirement yang ada belum begitu jelas dan ambigu. Seorang pengembang aplikasi dituntut untuk membuat suatu sistem secara aktual dalam bentuk prototype.   GO-Hemat  Go-Hemat merupakan produk rancangan yang diharapkan dapat meningkatkan hasil proses kinerja efisiensi biaya pada internal Departemen Supply Chain Management, khususnya pada Logistics dan Procurement, dengan mengelola data penghemaran (cost saving) yang dilakukan oleh setiap pegawai di JOB PTJM (JOB PTJM, 2016).   SCM Dashboard  SCM Dashboard berperan sebagai semacam portal yang menghubungkan antara beberapa aplikasi untuk menghitung indikator penilaian kinerja di Departemen Supply Chain Management (mengacu pada KKKS 2015) dan data mengenai penghematan (cost saving) yang berhasil dilakukan (SKK Migas, 2016) 
 		</segment>
 		<title><bo>2.1.3</bo> <bo>Metodologi</bo></title>
 		<segment>
-			Metodologi atau model proses yang penulis gunakan selama pengembangan sistem atau kedua aplikasi yang ada adalah dengan <it>Evolutionary</it> <it>Model</it> <it>Process,</it> yaitu <it>Prototyping</it> <it>Model.</it> Pressman (2010) dalam bukunya yang berjudul 
+			Metodologi atau model proses yang penulis gunakan selama pengembangan sistem atau kedua aplikasi yang ada adalah dengan Evolutionary Model Process, yaitu Prototyping Model. Pressman (2010) dalam bukunya yang berjudul “Software  Engineering:  A  Practitioner’s  Approach,  7th  edition”,  menyebutkan  bahwa  Prototyping  Model  lebih  mengedepankan  pada  pengembangan  yang  berkesinambungan pada sistem yang ada secara iteratif, meskipun sudah ditetapkan requirement dasar di awal pengembangan. Artinya, sistem dikembangkan secara bertahap dengan tidak langsung mengedepankan pada 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
-	<page id="28">
-		<pagenum>14</pagenum>
+	<page id="24">
+		<pagenum>10</pagenum>
 		<segment>
-			“Software  Engineering:  A  Practitioner’s  Approach,  7th  edition”,  menyebutkan  bahwa  <it>Prototyping</it>  <it>Model</it>  lebih  mengedepankan  pada  pengembangan  yang  berkesinambungan pada sistem yang ada secara iteratif, meskipun sudah ditetapkan <it>requirement</it> dasar di awal pengembangan. Artinya, sistem dikembangkan secara bertahap dengan tidak langsung mengedepankan pada penyelesaian fitur yang ada, melainkan menunggu umpan-balik secara intensif dari <it>user</it> yang ada, hingga nantinya mencapai versi final dari sistem yang ada. Hal inilah yang melandasi dasar dari penulis untuk menerapkan metodologi selama pengembangan sistem. Setiap kali menyelesaikan suatu fitur, penulis kerap berkomunikasi dengan penyelia KP secara intens, dengan tujuan untuk menunggu respon apakah <it>prototype</it> dari fitur yang ada sesuai dengan yang diharapkan. Terlebih lagi, penyelia KP senantiasa mengubah <it>requirement</it> fitur lama dengan fitur lain kemampuan yang berbeda (jika satu fitur tidak cocok, maka digantikan dengan fitur yang lebih tepat). Oleh karena itu, penulis mengambil kesimpulan bahwa seiring dengan permintaan dari <it>user,</it> yaitu penyelia KP, yang cukup dinamis, maka sebaiknya pengembangan sistem tidak dilakukan secara statis dan harus senantiasa beradaptasi dengan permintaan dari <it>user,</it> yang sejalan dengan prinsip <it>Prototyping</it> <it>Model.</it> 
+			penyelesaian fitur yang ada, melainkan menunggu umpan-balik secara intensif dari user yang ada, hingga nantinya mencapai versi final dari sistem yang ada. Hal inilah yang melandasi dasar dari penulis untuk menerapkan metodologi selama pengembangan sistem. Setiap kali menyelesaikan suatu fitur, penulis kerap berkomunikasi dengan penyelia KP secara intens, dengan tujuan untuk menunggu respon apakah prototype dari fitur yang ada sesuai dengan yang diharapkan. Terlebih lagi, penyelia KP senantiasa mengubah requirement fitur lama dengan fitur lain kemampuan yang berbeda. Oleh karena itu, penulis mengambil kesimpulan bahwa seiring dengan permintaan dari user, yaitu penyelia KP, yang cukup dinamis, maka sebaiknya pengembangan sistem tidak dilakukan secara statis dan harus senantiasa beradaptasi dengan permintaan dari user, yang sejalan dengan prinsip Prototyping Model. 
 		</segment>
 		<title><bo>2.1.4</bo> <bo>Teknologi</bo></title>
 		<segment>
 			Teknologi yang dipakai oleh penulis dalam mengembangkan dua proyek aplikasi tersebut adalah menggunakan bahasa pemrograman PHP versi 5.6.21 dan MySQL 
 		</segment>
-		<title>5.0.11 (untuk mengembangkan bagian <it>backend)</it> serta HTML 5, CSS 3, dan</title>
+		<title>5.0.11 (untuk mengembangkan bagian backend) serta HTML 5, CSS 3, dan</title>
 		<segment>
-			JavaScript 1.5 (untuk mengembangkan bagian <it>frontend).</it> Selain itu, penulis juga memanfaatkan <it>library</it> lain yang bersifat <it>open-source</it> yang berguna untuk menunjang dan mempermudah implementasi dari sistem yang akan dikembangkan, antara lain :   JQuery 3.0.0, yang berfungsi sebagai <it>JavaScript</it> <it>Framework</it> untuk  mendukung pengembangan sisi <it>frontend,</it> seperti fitur animasi dan aspek dinamis pada tampilan; 
+			JavaScript 1.5 (untuk mengembangkan bagian frontend). Selain itu, penulis juga memanfaatkan library lain yang bersifat open-source yang berguna untuk menunjang dan mempermudah implementasi dari sistem yang akan dikembangkan, antara lain :   JQuery 3.0.0, yang berfungsi sebagai JavaScript Framework untuk  mendukung pengembangan sisi frontend, seperti fitur animasi dan aspek dinamis pada tampilan;   w3.css,  yang berfungsi  sebagai  CSS  Framework  sekaligus  main  template  untuk mengembangkan sisi frontend;   plotly.js,  salah  satu  dari  JavaScript  Framework  yang  digunakan,  untuk  menunjang implementasi pemodelan data dalam bentuk grafik;   FPDF,  salah  satu  dari  JavaScript  Framework  yang  digunakan,  untuk  menunjang implementasi menampilkan data dalam format .pdf; 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="25">
+		<pagenum>11</pagenum>
+		<segment>
+			  PHPExcel, salah satu dari  JavaScript  Framework  yang digunakan, untuk  menunjang implementasi menampilkan data dalam format .xls atau .xlsx. Spesifikasi singkat perangkat, berupa notebook yang disediakan JOB PTJM selama pelaksanaan kerja praktik ini, antara lain : Operating System : Windows® 7 Professional  Processor Memory : Intel® Core(TM) i3 CPU  
+		</segment>
+		<title>: 4 GB</title>
+		<segment>
+			Screen Resolution : 1366 x 768 Dan tentu saja beberapa perangkat lunak yang penulis gunakan untuk menunjang pengembangan kedua sistem yang ada, yaitu : implementasi kode (coding) pada kedua aplikasi yang ada;   Notepad++  6.9.2  dan  Sublime  Text  3,  berfungsi  untuk  melakukan    Micsoroft  Visio  2013,  berfungsi  untuk  merancang  use  case  diagram  dan    yEd  Graph  Editor  3.16.1,  berfungsi  untuk  merancang  ER  diagram  dan    TortoiseHg,  berfungsi  sebagai  control  versions  system  agar  dapat  class diagram; Relational Schema; mengetahui perkembangan implementasi yang telah dilakukan setiap harinya. 
+		</segment>
+		<title><bo>2.1.5</bo> <bo>Non</bo> <bo>Teknis</bo></title>
+		<segment>
+			Untuk aspek non teknis, beberapa hal yang perlu diperhatikan selama pelaksanaan kerja praktik yang lebih mengarah ke kemampuan softskill, antara lain :   Kemampuan  berkomunikasi,  dimana  hal  ini  diperlukan  sekali  dalam  hal  komunikasi dengan user dalam hal ini penyelia KP dari penulis dimana diharapkan penulis dapat mengerti dan memahami secara penuh apa yang diinginkan dari requirement pada kedua aplikasi yang ada, sehingga tidak ada lagi salah interpretasi di kedua pihak; 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="26">
+		<pagenum>12</pagenum>
+		<segment>
+			  Kemampuan bekerja sama, dalam hal ini memang penulis melakukan kerja  praktik sekaligus mengerjakan kedua aplikasi yang ada secara mandiri, artinya tidak ada partner yang melakukan pekerjaan yang sama. Akan tetapi, kerja sama diperlukan agar dapat memecahkan solusi yang ada secara efektif dengan penyelia KP, dari sisi non teknis;   Kemampuan analisis dan problem-solving, dimana hal ini sangat berguna  dalam menerjemahkan apa yang diinginkan oleh user agar dapat diimplementasikan dengan cara atau teknologi yang tepat dan efektif;   Kemampuan  memberikan  presentasi  yang  baik,  dimana  hal  ini  sangat  berguna agar penulis dapat menyampaikan suatu hal yang sebenarnya bersifat teknis, namun dapat dipahami oleh user dalam ruang lingkup yang lebih sederhana dan tidak menimbulkan kerancuan maupun kebingungan. 
+		</segment>
+		<title><bo>2.1.6</bo> <bo>Sampel</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<segment>
+			Berikut penulis akan memperlihatkan beberapa sampel tampilan hasil screenshoot pada dua proyek aplikasi yang penulis kerjakan selama kerja praktik : 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="27">
+		<segment>
+			  Use Case Diagram untuk Aplikasi GO-Hemat  
+		</segment>
+		<pagenum>13</pagenum>
+		<segment>
+			Gambar 2.1 Use Case Diagram Aplikasi GO-Hemat 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="28">
+		<segment>
+			  Class Diagram untuk Aplikasi SCM-Dashboard  
+		</segment>
+		<pagenum>14</pagenum>
+		<segment>
+			Gambar 2.2 Class Diagram Aplikasi SCM Dashboard 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="29">
+		<segment>
+			  ER Diagram untuk Aplikasi SCM Dashboard  
+		</segment>
 		<pagenum>15</pagenum>
 		<segment>
-			  w3.css,  yang berfungsi  sebagai  <it>CSS</it> <it>Framework</it>  sekaligus  <it>main</it> <it>template</it>  untuk mengembangkan sisi <it>frontend;</it>   plotly.js,  salah  satu  dari  <it>JavaScript</it>  <it>Framework</it>  yang  digunakan,  untuk  menunjang implementasi pemodelan data dalam bentuk grafik;   FPDF,  salah  satu  dari  <it>JavaScript</it>  <it>Framework</it>  yang  digunakan,  untuk  menunjang implementasi menampilkan data dalam format .pdf;   PHPExcel, salah satu dari  <it>JavaScript</it>  <it>Framework</it>  yang digunakan, untuk  menunjang implementasi menampilkan data dalam format .xls atau .xlsx. Spesifikasi singkat perangkat, berupa <it>notebook</it> yang disediakan JOB PTJM selama pelaksanaan kerja praktik ini, antara lain : <it>Operating</it> <it>System</it> : Windows® 7 Professional  <it>Processor</it> <it>Memory</it> : Intel® Core(TM) i3 CPU  
-		</segment>
-		<title>: 4 GB</title>
-		<segment>
-			<it>Screen</it> <it>Resolution</it> : 1366 x 768 Dan tentu saja beberapa perangkat lunak yang penulis gunakan untuk menunjang pengembangan kedua sistem yang ada, yaitu : implementasi kode (<it>coding)</it> pada kedua aplikasi yang ada;   Notepad++  6.9.2  dan  Sublime  Text  3,  berfungsi  untuk  melakukan    Micsoroft  Visio  2013,  berfungsi  untuk  merancang  <it>use</it>  <it>case</it>  <it>diagram</it>  dan    yEd  Graph  Editor  3.16.1,  berfungsi  untuk  merancang  <it>ER</it>  <it>diagram</it>  dan    TortoiseHg,  berfungsi  sebagai  <it>control</it>  <it>versions</it>  <it>system</it>  agar  dapat  <it>class</it> <it>diagram;</it> <it>Relational</it> <it>Schema;</it> mengetahui perkembangan implementasi yang telah dilakukan setiap harinya. 
+			Gambar 2.3 ER Diagram Aplikasi SCM Dashboard   Potongan Kode untuk Aplikasi SCM Dashboard  Gambar 2.4 Kode File header.php untuk Aplikasi SCM Dashboard 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="30">
-		<pagenum>16</pagenum>
-		<title><bo>2.1.5</bo> <bo>Non</bo> <bo>Teknis</bo></title>
 		<segment>
-			Untuk aspek non teknis, beberapa hal yang perlu diperhatikan selama pelaksanaan kerja praktik yang lebih mengarah ke kemampuan <it>softskill,</it> antara lain :   Kemampuan  berkomunikasi,  dimana  hal  ini  diperlukan  sekali  dalam  hal  komunikasi dengan <it>user</it> dalam hal ini penyelia KP dari penulis dimana diharapkan penulis dapat mengerti dan memahami secara penuh apa yang diinginkan dari <it>requirement</it> pada kedua aplikasi yang ada, sehingga tidak ada lagi salah interpretasi di kedua pihak. Kemampuan juga diperlukan dalam hal beradaptasi dengan lingkungan kantor serta bersosialisasi dengan sesama peserta kerja praktik atau karyawan kantor yang lain;   Kemampuan bekerja sama, dalam hal ini memang penulis melakukan kerja  praktik sekaligus mengerjakan kedua aplikasi yang ada secara mandiri, artinya tidak ada <it>partner</it> yang melakukan pekerjaan yang sama. Akan tetapi, kerja sama diperlukan agar dapat memecahkan solusi yang ada secara efektif dengan penyelia KP, dari sisi non teknis;   Kemampuan analisis dan <it>problem-solving,</it> dimana hal ini sangat berguna  dalam menerjemahkan apa yang diinginkan oleh <it>user</it> agar dapat diimplementasikan dengan cara atau teknologi yang tepat dan efektif;   Kemampuan  memberikan  presentasi  yang  baik,  dimana  hal  ini  sangat  berguna agar penulis dapat menyampaikan suatu hal yang sebenarnya bersifat teknis, namun dapat dipahami oleh <it>user</it> dalam ruang lingkup yang lebih sederhana dan tidak menimbulkan kerancuan maupun kebingungan. Penulis nantinya dapat menjelaskan langkah penyelesaian masalah yang ada dengan terstruktur dalam istilah yang bersifat non-teknis maupun nantinya menjelaskan alur kerja dari aplikasi yang ada dengan kalimat yang lebih sederhana. 
+			  Tampilan Homepage Aplikasi GO-Hemat  
 		</segment>
-		<title><bo>2.1.6</bo> <bo>Sampel</bo> <bo>Hasil</bo> <bo>Pekerjaan</bo></title>
+		<pagenum>16</pagenum>
 		<segment>
-			Berikut penulis akan memperlihatkan beberapa sampel tampilan hasil <it>screenshoot</it> pada dua proyek aplikasi yang penulis kerjakan selama kerja praktik : 
+			Gambar 2.5 Homepage Aplikasi GO-Hemat   Tampilan Homepage Aplikasi SCM Dashboard  Gambar 2.6 Homepage SCM Dashboard 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="31">
-		<segment>
-			  <it>ER</it> <it>Diagram</it> untuk Aplikasi Go-Hemat  Gambar 2.1 <it>ER</it> <it>Diagram</it> Aplikasi Go-Hemat   Potongan Kode untuk Aplikasi SCM Dashboard  
-		</segment>
 		<pagenum>17</pagenum>
 		<segment>
-			Gambar 2.2 Kode File header.php untuk Aplikasi SCM Dashboard 
+			<bo>2.2</bo> <bo>Analisis</bo> 
+		</segment>
+		<title><bo>2.2.1</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
+		<segment>
+			o <bo>Ulasan</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Jika mengacu dengan ruang lingkup KAKP yang ada, maka didapatkan kesesuaian antara apa yang telah penulis dan penyelia KP rencanakan dan setujui pada KAKP dengan pelaksanaanya di lapangan selama kegiatan kerja praktik. Pada poin-poin yang terdapat pada dokumen KAKP, penulis bertanggung jawab secara keseluruhan pada pengembangan sistem yang ada, yang meliputi : a. Requirement Gathering dalam Bentuk Komunikasi dengan Penyelia KP Dalam realitanya, penulis sering secara aktif berkomunikasi dengan penyelia, terutama di awal-awal pengembangan sistem pada saat awal pelaksanaan kerja praktik; b. Perencanaan dan Penjadwalan dari Pengembangan Sistem yang ada Penulis menjadwalkan seakurat mungkin dan merencanakan kegiatan yang ada sesuai realita yang ada. Penulis juga berkompromi dengan penyelia KP agar perencanaan disesuaikan dengan kemampuan teknis dari penulis; c. Pemodelan dan Implementasi Penulis merancang diagram-diagram penunjang yang dibutuhkan, seperti ER Diagram dan sebagainya, dengan tujuan agar penulis dapat lebih mudah dalam mengimplementasikannya dalam bentuk kode. Implementasi juga dilakukan oleh penulis dengan baik tanpa permasalahan yang berarti; d. Ujicoba (Testing) dan Debugging Penulis secara langsung melakukan testing dan debugging ketika telah menyelesaikan suatu fitur; e. Presentasi Aplikasi yang Dikembangkan dan Deploy Aplikasi ke Internal Server Penulis tidak melaksanakan tanggung jawab ini dikarenakan penyelia KP sendiri yang mempresentasikan cara kerja aplikasi yang ada. Untuk 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="32">
-		<segment>
-			  Tampilan <it>Homepage</it> Aplikasi GO-Hemat  
-		</segment>
 		<pagenum>18</pagenum>
 		<segment>
-			Gambar 2.3 <it>Homepage</it> Aplikasi GO-Hemat   Tampilan <it>Homepage</it> Aplikasi SCM Dashboard  Gambar 2.4 <it>Homepage</it> SCM Dashboard 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="33">
-		<pagenum>19</pagenum>
-		<title><bo>2.1.</bo> <bo>Analisis</bo></title>
-		<title><bo>2.2.1</bo> <bo>Pelaksanaan</bo> <bo>Kerja</bo> <bo>Praktik</bo></title>
-		<segment>
-			o <bo>Ulasan</bo> <bo>Kesesuaian</bo> <bo>dan</bo> <bo>Perbedaan</bo> <bo>dengan</bo> <bo>KAKP</bo> Jika mengacu dengan ruang lingkup KAKP yang ada, maka didapatkan kesesuaian antara apa yang telah penulis dan penyelia KP rencanakan dan setujui pada KAKP dengan pelaksanaanya di lapangan selama kegiatan kerja praktik. Pada poin-poin yang terdapat pada dokumen KAKP, penulis bertanggung jawab secara keseluruhan pada pengembangan sistem yang ada, yang meliputi : a. <it>Requirement</it> <it>Gathering</it> dalam Bentuk Komunikasi dengan Penyelia KP Dalam realitanya, penulis sering secara aktif berkomunikasi dengan penyelia, terutama di awal-awal pengembangan sistem pada saat awal pelaksanaan kerja praktik. Penulis juga melaporkan kemajuan dari pengembangan sistem yang ada, untuk berjaga-jaga jika penyelia KP menghendaki perubahan <it>requirement</it> yang ada; b. Perencanaan dan Penjadwalan dari Pengembangan Sistem yang ada Penulis menjadwalkan seakurat mungkin dan merencanakan kegiatan yang ada sesuai realita yang ada. Penulis juga berkompromi dengan penyelia KP agar perencanaan disesuaikan dengan kemampuan teknis dari penulis; c. Pemodelan dan Implementasi Penulis merancang diagram-diagram penunjang yang dibutuhkan, seperti <it>ER</it> <it>Diagram</it> dan sebagainya, dengan tujuan agar penulis dapat lebih mudah dalam mengimplementasikannya dalam bentuk kode. Implementasi juga dilakukan oleh penulis dengan baik tanpa permasalahan yang berarti; d. Ujicoba (<it>Testing)</it> dan <it>Debugging</it> Penulis secara langsung melakukan <it>testing</it> dan <it>debugging</it> ketika telah menyelesaikan suatu fitur; e. Presentasi Aplikasi yang Dikembangkan dan <it>Deploy</it> Aplikasi ke <it>Internal</it> <it>Server</it> 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="34">
-		<pagenum>20</pagenum>
-		<segment>
-			Penulis tidak melaksanakan tanggung jawab ini dikarenakan penyelia KP sendiri yang mempresentasikan cara kerja aplikasi yang ada dalam suatu forum yang dinamakan CIP. Untuk kegiatan <it>deploy</it> sendiri, penulis telah melakukannya dengan berhubungan langsung dengan karyawan lain yang memiliki wewenang dan akses ke <it>internal</it> <it>server</it> milik JOB PTJM. Jika dilihat dari uraian poin-poin di atas, perbedaan hanya pada ruang lingkup untuk melaksanakan presentasi yang tidak dilaksanakan oleh penulis. Perbedaan lain antara KAKP dengan pelaksanaan kerja praktik di lapangan adalah pada perencanaan jadwal dengan pelaksanaannya. Ketidaksesuaian terjadi pada tahap implementasi (<it>coding</it> / <it>development)</it> dimana pelaksanaannya berlangsung lebih lama dikarenakan banyaknya revisi maupun perubahan <it>requirement</it> dari fitur yang diinginkan oleh penyelia KP. Waktu implementasi yang memakan cukup lama ada pada aplikasi <it>Cost</it> <it>Reduction</it> <it>System</it> (selanjutnya digantikan dengan nama <it>GO-Hemat).</it> Hal ini menyebabkan pengembangan pada aplikasi SCM Dashboard tidak berjalan begitu optimal dan hanya memenuhi <it>requirement</it> dasarnya, meskipun tidak ada masalah dengan versi final dari aplikasi yang ada. Ketidaksesuian juga terjadi dimana pembuatan <it>mockup</it> atau <it>wireframe</it> untuk tampilan aplikasi tidak dilakukan dikarenakan tidak memerlukan tampilan tertentu dan diserahkan pada penulis oleh penyelia KP untuk diimplementasikan dalam bentuk kode. Tabel 2.1 Perbandingan Waktu Rencana Jadwal KAKP dengan Pelaksanaan Nyata Kerja Praktik Waktu Rencana Jadwal KAKP Pelaksanaan Nyata Kerja Praktik 13 Juni 2016 –  1  Juli  2016  o <it>Requirement</it> o <it>Requirement</it> <it>gathering</it> dan <it>gathering</it> dan <it>analysis</it> untuk <it>analysis,</it> <it>system</it> 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="35">
-		<pagenum>21</pagenum>
-		<segment>
-			aplikasi 
+			kegiatan deploy sendiri, penulis telah melakukannya dengan berhubungan langsung dengan karyawan lain yang memiliki wewenang dan akses ke internal server milik JOB PTJM. Jika dilihat dari uraian poin-poin di atas, perbedaan hanya pada ruang lingkup untuk melaksanakan presentasi yang tidak dilaksanakan oleh penulis. Perbedaan lain antara KAKP dengan pelaksanaan kerja praktik di lapangan adalah pada perencanaan jadwal dengan pelaksanaannya. Ketidaksesuaian terjadi pada tahap implementasi (coding / development) dimana pelaksanaannya berlangsung lebih lama dikarenakan adanya revisi berupa perubahan requirement dari fitur yang diinginkan oleh penyelia KP. Waktu implementasi yang memakan cukup lama ada pada aplikasi Cost Reduction System (selanjutnya digantikan dengan nama GO-Hemat. Ketidaksesuian juga terjadi dimana pembuatan mockup atau wireframe untuk tampilan aplikasi tidak dilakukan dikarenakan tidak memerlukan tampilan tertentu dan diserahkan pada penulis oleh penyelia KP untuk langsung diimplementasikan dalam bentuk kode. Tabel 2.1 Perbandingan Waktu Rencana Jadwal KAKP dengan Pelaksanaan Nyata Kerja Praktik Waktu Rencana Jadwal KAKP Pelaksanaan Nyata Kerja Praktik 13 Juni 2016 –  1  Juli  2016  o Requirement o Requirement gathering dan gathering dan analysis untuk analysis, system aplikasi 
 		</segment>
 		<title>GO-</title>
 		<segment>
-			dan <it>program</it> Hemat o <it>System</it> <it>Design</it> <it>design,</it> <it>designing</it> serta pada dan <it>Program</it> basis data untuk <it>Design</it> aplikasi Hemat untuk 
+			dan program Hemat o System Design design, designing serta pada dan Program basis data untuk Design aplikasi untuk 
 		</segment>
 		<title>GO-</title>
 		<segment>
 			aplikasi Hemat 
 		</segment>
 		<title>GO-</title>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="33">
+		<pagenum>19</pagenum>
 		<segment>
-			o Implementasi o <it>Designing</it> pada basis data untuk kode untuk (<it>coding)</it> aplikasi aplikasi Hemat 
+			Hemat o Implementasi o Designing pada basis data untuk kode untuk (coding) aplikasi aplikasi Hemat 
 		</segment>
 		<title>GO-</title>
 		<segment>
-			GO-Hemat 11 Juli 2016 –  29  Juli  2016  o Membuat <it>mockup</it> o Melanjutkan untuk aplikasi implementasi GO-Hemat untuk aplikasi o Implementasi GO-Hemat kode untuk (<it>coding)</it> aplikasi GO-Hemat o <it>System</it> <it>testing</it> pada aplikasi GO- Hemat o <it>Requirement</it> <it>gathering</it> dan <it>analysis</it> aplikasi untuk 
+			GO-Hemat 11 Juli 2016 –  29  Juli  2016  o Membuat mockup aplikasi untuk o Melanjutkan implementasi untuk aplikasi GO-Hemat GO-Hemat o Implementasi kode untuk (coding) aplikasi GO-Hemat o System testing pada aplikasi GO- Hemat o Requirement gathering dan analysis aplikasi untuk 
 		</segment>
 		<title>SCM</title>
 		<segment>
-			Dashboard 1 Agustus 2016 –  12  Agustus 2016  o <it>System</it> <it>Design</it> o <it>Requirement</it> dan <it>Program</it> <it>gathering</it> dan <it>Design</it> aplikasi untuk 
+			Dashboard 1 Agustus 2016 –  12  Agustus 2016  o System Design o Requirement dan Program gathering dan Design aplikasi untuk 
 		</segment>
 		<title>SCM</title>
 		<segment>
-			Dashboard <it>analysis,</it> <it>system</it> dan <it>program</it> <it>design,</it> serta 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="36">
-		<pagenum>22</pagenum>
-		<segment>
-			o <it>Designing</it> pada <it>designing</it> pada basis data untuk basis data untuk aplikasi 
+			Dashboard o Designing pada analysis, system dan program design, designing serta pada basis data untuk basis data untuk aplikasi 
 		</segment>
 		<title>SCM</title>
 		<segment>
@@ -367,83 +342,61 @@
 		</segment>
 		<title>SCM</title>
 		<segment>
-			Dashboard Dashboard o Implementasi kode untuk (<it>coding)</it> aplikasi SCM Dashboard o Implementasi o Melanjutkan implementasi untuk aplikasi SCM Dashboard kode untuk (<it>coding)</it> aplikasi GO-Hemat o <it>System</it> <it>testing</it> pada aplikasi GO- Hemat 15 Agustus 2016 –  26  Agustus 2016  Sumber : Data Rencana Jadwal Kerja Praktik pada Dokumen KAKP (telah diolah kembali) o <bo>Ulasan</bo> <bo>tentang</bo> <bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo> Selama pelaksanaan kerja praktik, penulis selaku pelaksana kerja praktik menemui beberapa kendala yang cukup menghambat dalam pengembangan kedua sistem yang ada, yang diuraikan pada tabel berikut, antara lain : Tabel 2.2 Kendala selama Kerja Praktik dan Cara Penanganannya No Kendala Cara Menanganinya Penulis Tidak adanya referensi yang berusaha mengetahui secara teknis dan bertanya men-detail untuk bertanya dan seputar permasalahan dalam memahami implementasi sistem solusi (<it>coding).</it> 
+			Dashboard Dashboard o Implementasi kode untuk (coding) aplikasi 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="34">
+		<pagenum>20</pagenum>
+		<segment>
+			SCM Dashboard o Melanjutkan implementasi untuk aplikasi SCM Dashboard 15 Agustus 2016 –  26  Agustus 2016  o Implementasi kode untuk (coding) aplikasi GO-Hemat o System testing pada aplikasi GO- Hemat Sumber : Data Rencana Jadwal Kerja Praktik pada Dokumen KAKP (telah diolah kembali) o <bo>Ulasan</bo> <bo>tentang</bo> <bo>Kendala</bo> <bo>dan</bo> <bo>Cara</bo> <bo>Menanganinya</bo> Selama pelaksanaan kerja praktik, penulis selaku pelaksana kerja praktik menemui beberapa kendala yang cukup menghambat dalam pengembangan kedua sistem yang ada, yang diuraikan pada tabel berikut, antara lain : Tabel 2.2 Kendala selama Kerja Praktik dan Cara Penanganannya No Kendala Cara Menanganinya 1. Tidak adanya referensi yang Penulis berusaha bertanya dan mengetahui secara teknis dan memahami solusi yang diberikan oleh men-detail untuk bertanya seputar penyelia KP, meskipun hanya secara permasalahan dalam umum saja, kemudian berinisiatif untuk implementasi sistem (coding). mencari referensi terkait yang lebih terperinci di internet. 2. Kesulitan untuk beradaptasi Penulis berusaha berkenalan dan dengan lingkungan kantor. berteman baik dengan karyawan kantor lain, khususnya yang rentang usianya tidak terlalu jauh dengan usia penulis. Kemudian juga, berusaha berkawan baik dengan sesama peserta kerja praktik lain. 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="35">
+		<pagenum>21</pagenum>
+		<segment>
+			3. Kesulitan untuk memahami Penulis berusaha secara aktif untuk proses bisnis maupun mengkomunikasikan dengan penyelia requirement pada kedua aplikasi 
+		</segment>
+		<title>KP</title>
+		<segment>
+			seputar perkembangan atau secara lebih gamblang kemajuan terbaru dari implementasi sistem yang sedang dilakukan. 4. Kesulitan untuk bertanya-tanya Penulis berinisiatif untuk bertanya atau dengan penyelia KP ketika berkomunikasi dengan karyawan kantor sedang sibuk atau sedang tidak lain yang lebih memiliki wewenang dan berada di kantor informasi lebih untuk menangani hal tertentu o <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>KP</bo> Secara umum, penulis menilai bahwa perlakuan yang diterima penulis selama pelaksanaan kerja praktik oleh perusahaan tempat KP cukup baik. Penulis diperlakukan secara koorperatif dan ramah oleh seluruh karyawan di kantor, termasuk penyelia KP maupun pihak HRD. Dalam hal pekerjaan, penulis menilai bahwa perusahaan tempat KP penulis memberikan kesempatan yang sangat baik untuk dilibatkan pada dua proyek aplikasi dimana nantinya akan benar-benar digunakan oleh karyawan di departemen tempat penulis melakukan KP. Penulis sendiri kerap kali diajak untuk melakukan meeting perihal proyek tersebut untuk memberikan masukan terkait implementasi fitur tertentu sesuai pengetahuan penulis. Penulis juga diberi kebebasan tertentu untuk mengembangkan aplikasi yang ada sesuai dengan kemampuan penulis. Penulis juga menilai bahwa asas profesionalitas dan kredibilitas sangat dijunjung tinggi di tempat KP penulis. Penulis diposisikan seolah-olah sebagai vendor untuk mengerjakan suatu proyek dimana tempat KP penulis bertindak sebagai client / user. Oleh karena itu, kemampuan teknis tertentu yang matang, khususnya analisis dan pemrograman, sangat diperlukan untuk menunjang 
+		</segment>
+		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
+	</page>
+	<page id="36">
+		<pagenum>22</pagenum>
+		<segment>
+			pengerjaan proyek-proyek di tempat KP penulis karena diharapkan peserta KP sudah cakap dalam kemampuan tersebut. 
+		</segment>
+		<title><bo>2.2.2</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
+		<segment>
+			Pengetahuan maupun ilmu yang digunakan selama pelaksanaan kerja praktik berelevansi dan berasal dari materi-materi perkuliahan selama berkuliah di Fasilkom UI, antara lain : A. Perancangan dan Pemrograman Web Mata kuliah ini memberikan pengetahuan pada penulis seputar pengembangan aplikasi atau program berbasis web (sisi client dan server). Tugas-tugas maupun tutorial yang diberikan selama perkuliahan mata kuliah ini sangat berguna sebagai sarana berlatih untuk menghadapi suatu proyek aplikasi berbasis web yang sesungguhnya. B. Basis Data Mata kuliah ini memberikan pengetahuan seputar perancangan suatu basis data yang tepat pada suatu sistem, baik dari proses perancangan dan analisis hingga implementasi dengan SQL Query. C. Rekayasa Perangkat Lunak Mata kuliah ini memberikan pengetahuan seputar metodologi dan siklus pengembangan perangkat lunak yang dimulai dari fase requirement analysis dan gathering hingga fase testing serta final deployment ke user. Pengetahuan seputar model proses dalam pengembangan suatu perangkat lunak juga dipelajari melalui mata kuliah ini. D. Proyek Perangkat Lunak Mata kuliah ini memberikan pengalaman secara nyata sebagai lanjutan dari mata kuliah rekayasa perangkat lunak dimana penulis benar-benar dihadapkan dengan suatu proyek untuk membuat perangkat lunak berbasis web dalam satu tim. Mata kuliah ini memberikan bekal ilmu yang cukup bagi penulis agar siap menghadapi proyek yang benar-benar penulis hadapi selama pelaksanaan kerja praktik. 
 		</segment>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 	<page id="37">
-		<pagenum>23</pagenum>
-		<segment>
-			yang diberikan oleh penyelia 
-		</segment>
-		<title>KP,</title>
-		<segment>
-			meskipun hanya secara umum saja, kemudian berinisiatif untuk mencari referensi terkait yang lebih terperinci di internet. 2. Kesulitan untuk beradaptasi Penulis berusaha berkenalan dan dengan lingkungan kantor. berteman baik dengan karyawan kantor lain, khususnya yang rentang usianya tidak terlalu jauh dengan usia penulis. Kemudian juga, berusaha berkawan baik dengan sesama peserta kerja praktik lain yang departemennya berbeda. 3. Kesulitan untuk memahami Penulis berusaha secara aktif untuk proses bisnis maupun mengkomunikasikan dengan <it>requirement</it> pada kedua penyelia KP seputar perkembangan 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="38">
-		<pagenum>24</pagenum>
-		<segment>
-			aplikasi secara lebih atau kemajuan terbaru dari gamblang implementasi sistem yang sedang dilakukan, dimana nantinya penyelia KP dapat memberikan umpan balik perihal kemajuan yang ada. 4. Kesulitan untuk bertanya- Penulis berinisiatif untuk bertanya tanya dengan penyelia KP atau berkomunikasi dengan ketika sedang sibuk atau karyawan kantor lain yang lebih sedang tidak berada di kantor memiliki wewenang dan informasi lebih untuk menangani hal tertentu o <bo>Penilaian</bo> <bo>Individu</bo> <bo>terhadap</bo> <bo>Tempat</bo> <bo>KP</bo> Secara umum, penulis menilai bahwa perlakuan yang diterima penulis selama pelaksanaan kerja praktik oleh perusahaan tempat KP cukup baik. Penulis diperlakukan secara koorperatif dan ramah oleh seluruh karyawan di kantor, termasuk penyelia KP maupun pihak HRD. Penulis merasa bahwa tidak ada perlakuan yang terlalu berbeda, baik antara karyawan magang / kerja praktik maupun karyawan tetap. Seluruh karyawan, khususnya di departemen tempat penulis melakukan kerja praktik, ramah dan mudah untuk diajak berkomunikasi tanpa mengenal jabatan. Dalam hal pekerjaan, penulis menilai bahwa perusahaan tempat KP penulis memberikan kesempatan yang sangat baik untuk dilibatkan pada dua proyek aplikasi dimana nantinya akan benar-benar digunakan oleh karyawan di departemen tempat penulis melakukan KP. Penulis sendiri kerap kali diajak untuk melakukan <it>meeting</it> perihal proyek tersebut untuk memberikan masukan terkait implementasi fitur tertentu sesuai pengetahuan penulis. Penulis juga diberi kebebasan tertentu untuk mengembangkan aplikasi yang ada sesuai dengan kemampuan penulis. 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="39">
-		<pagenum>25</pagenum>
-		<segment>
-			Penulis juga menilai bahwa asas profesionalitas dan kredibilitas sangat dijunjung tinggi di tempat KP penulis. Penulis diposisikan seolah-olah sebagai vendor untuk mengerjakan suatu proyek dimana tempat KP penulis bertindak sebagai <it>client</it> / <it>user.</it> Oleh karena itu, kemampuan teknis tertentu yang matang, khususnya analisis dan pemrograman, sangat diperlukan untuk menunjang pengerjaan proyek-proyek di tempat KP penulis karena diharapkan peserta KP sudah cakap dalam kemampuan tersebut. Tentu hal ini menjadi pengalaman yang sangat berharga yang telah diberikan oleh tempat KP penulis untuk menghadapi dunia kerja yang sesungguhnya. 
-		</segment>
-		<title><bo>2.2.2</bo> <bo>Relevansi</bo> <bo>dengan</bo> <bo>Perkuliahan</bo> <bo>di</bo> <bo>Fasilkom</bo> <bo>UI</bo></title>
-		<segment>
-			Pengetahuan maupun ilmu yang digunakan selama pelaksanaan kerja praktik berelevansi dan berasal dari materi-materi perkuliahan selama berkuliah di Fasilkom UI, antara lain : A. Perancangan dan Pemrograman Web Mata kuliah ini memberikan pengetahuan pada penulis seputar pengembangan aplikasi atau program berbasis <it>web</it> (sisi <it>client</it> dan <it>server).</it> Tugas-tugas maupun tutorial yang diberikan selama perkuliahan mata kuliah ini sangat berguna sebagai sarana berlatih untuk menghadapi suatu proyek aplikasi berbasis <it>web</it> yang sesungguhnya. B. Basis Data Mata kuliah ini memberikan pengetahuan seputar perancangan suatu basis data yang tepat pada suatu sistem, baik dari proses perancangan dan analisis hingga implementasi dengan <it>SQL</it> <it>Query.</it> C. Rekayasa Perangkat Lunak Mata kuliah ini memberikan pengetahuan seputar metodologi dan siklus pengembangan perangkat lunak yang dimulai dari fase <it>requirement</it> <it>analysis</it> dan <it>gathering</it> hingga fase <it>testing</it> serta <it>final</it> <it>deployment</it> ke <it>user.</it> Pengetahuan seputar model proses dalam pengembangan suatu perangkat lunak juga dipelajari melalui mata kuliah ini. D. Proyek Perangkat Lunak 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="40">
-		<pagenum>26</pagenum>
-		<segment>
-			Mata kuliah ini memberikan pengalaman secara nyata sebagai lanjutan dari mata kuliah rekayasa perangkat lunak dimana penulis benar-benar dihadapkan dengan suatu proyek untuk membuat perangkat lunak berbasis <it>web</it> dalam satu tim. Mata kuliah ini memberikan bekal ilmu yang cukup bagi penulis agar siap menghadapi proyek yang benar-benar penulis hadapi selama pelaksanaan kerja praktik. 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="41">
 		<title><bo>BAB</bo> <bo>3</bo></title>
 		<title><bo>PENUTUP</bo></title>
 		<segment>
-			Bab ini menjelaskan perihal kesimpulan yang diperoleh penulis selama melaksanakan kerja praktik serta saran bagi pelaksana kerja praktik yang akan datang. 
+			Bab ini menjelaskan perihal kesimpulan yang diperoleh penulis selama melaksanakan kerja praktik serta saran bagi pelaksana kerja praktik yang akan datang. <bo>2.3</bo> <bo>Kesimpulan</bo> Penulis telah selesai melakukan kerja praktik di perusahaan JOB PTJM dimana penulis telah berhasil menyelesaikan implementasi dari fase awal hingga fase akhir pada dua proyek aplikasi Go-Hemat dan SCM Dashboard. Penulis mengambil peran baik dalam hal analisis maupun implementasi (development) pada kedua aplikasi yang ada. Kegiatan kerja praktik yang ada telah memberikan pengalaman yang cukup berharga bagi penulis sehingga penulis dapat memahami dan mengetahui alur kerja full-stack developer ketika turun langsung ke dunia kerja yang nyata, khususnya pada perusahaan yang tidak berbasiskan teknologi informasi. Penulis juga berkesimpulan bahwa penggunaan proses model tradisional, seperti prototyping model, masih tetap diperlukan dengan catatan agar implementasinya diterapkan secara dinamis. <bo>2.4</bo> <bo>Saran</bo> Penulis pihak yang telah selesai dan pernah melakukan kerja praktik di perusahaan JOB PTJM menyarankan beberapa hal sebagai bekal pengalaman dan pengetahuan bagi pihak-pihak yang terkait. Pertama adalah bahwa calon peserta kerja praktik, khususnya yang akan berperan developer, agar dapat menyiapkan bekal yang cukup sehingga nantinya dapat dengan mudah mengerjakan proyek yang dibutuhkan. Kedua adalah bahwa pihak dari perusahaan JOB PTJM diharapkan dapat menyediakan fasilitas dan pengarahan yang cukup sehingga calon peserta kerja praktik tidak kesulitan dalam mengerjakan proyek yang ada. Dan terakhir adalah bahwa dua proyek aplikasi yang ada dapat mengotomatisasi secara bertahap pekerjaan yang sebelumnya masih dilakukan secara manual. 
 		</segment>
-		<title><bo>3.1.</bo> <bo>Kesimpulan</bo></title>
-		<segment>
-			Penulis telah selesai melakukan kerja praktik di perusahaan JOB PTJM dimana penulis telah berhasil menyelesaikan implementasi dari fase awal hingga fase akhir pada dua proyek aplikasi Go-Hemat dan SCM Dashboard. Penulis mengambil peran baik dalam hal analisis maupun implementasi (<it>development)</it> pada kedua aplikasi yang ada. Kegiatan kerja praktik yang ada telah memberikan pengalaman yang cukup berharga bagi penulis sehingga penulis dapat memahami dan mengetahui alur kerja <it>full-stack</it> <it>developer</it> ketika turun langsung ke dunia kerja yang nyata, khususnya pada perusahaan yang tidak berbasiskan teknologi informasi. Penulis juga berkesimpulan bahwa penggunaan proses model tradisional, seperti <it>prototyping</it> <it>model,</it> masih tetap diperlukan dengan catatan agar implementasinya diterapkan secara dinamis. 
-		</segment>
-		<title><bo>3.2.</bo></title>
-		<segment>
-			<bo>Saran</bo> Penulis pihak yang telah selesai dan pernah melakukan kerja praktik di perusahaan JOB PTJM menyarankan beberapa hal sebagai bekal pengalaman dan pengetahuan bagi pihak-pihak yang terkait. Pertama adalah bahwa calon peserta kerja praktik, khususnya yang akan berperan <it>developer,</it> agar dapat menyiapkan bekal yang cukup sehingga nantinya dapat dengan mudah mengerjakan proyek yang dibutuhkan. Kedua adalah bahwa pihak dari perusahaan JOB PTJM diharapkan dapat menyediakan fasilitas dan pengarahan yang cukup sehingga 
-		</segment>
-		<pagenum> 27</pagenum>
+		<pagenum> 23</pagenum>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
-	<page id="42">
-		<pagenum>28</pagenum>
-		<segment>
-			calon peserta kerja praktik tidak kesulitan dalam mengerjakan proyek yang ada. Dan terakhir adalah bahwa dua proyek aplikasi yang ada dapat mengotomatisasi secara bertahap pekerjaan yang sebelumnya masih dilakukan secara manual. 
-		</segment>
-		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
-	</page>
-	<page id="43">
+	<page id="38">
 		<title><bo>DAFTAR</bo> <bo>REFERENSI</bo></title>
 		<segment>
-			Deayusdita, Gadisya. (26 September 2016). Pertanyaan Data Profil Perusahaan. 27 September 2016. Gadisya.Deayusdita@jambimerang.co.id JOB PTJM (24 Februari 2016). <it>Digital</it> <it>Infographic.</it> 27 September 2016<it>.</it> https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_action=get&amp;_mbox=I NBOX&amp;_uid=1382&amp;_part=2&amp;_frame=1&amp;_extwin=1.  JOB PTJM (24 Februari 2016). <it>Organization</it> <it>Chart.</it> 27 September 2016<it>.</it> https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_action=get&amp;_mbox=I NBOX&amp;_uid=1382&amp;_part=2&amp;_frame=1&amp;_extwin=1. JOB PTJM (24 Februari 2016). <it>Satuan</it> <it>Kerja</it> <it>Khusus</it> <it>SCM</it> <it>Department.</it> 27 September 2016<it>.</it> https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_uid=1384&amp;_mbox=IN BOX&amp;_action=get&amp;_part=2&amp;_embed=1&amp;_mimeclass=image. JOB PTJM (25 Juli 2016). <it>Go-Hemat</it> <it>User</it> <it>Manual.</it> Mirasfi, Teuku. (2016). <it>Surat</it> <it>Keputusan</it> <it>Penerimaan</it> <it>Kerja</it> <it>Praktik</it> <it>Nomor</it> <it>BS-</it> <it>J/16-0467.</it> Jakarta: JOB PTJM. Pressman, Roger S.. (2010). <it>Software</it> <it>Engineering:</it> <it>A</it> <it>Practitioner’s</it>  <it>Approach,</it>  <it>7th</it> <it>Edition.</it> New York: McGraw-Hill International. Pujiono, Ediyanto. (26 September 2016). Pertanyaan Data Profil Perusahaan. 27 September 2016. Ediyanto.Pujiono@jambimerang.co.id. SKK Migas (26 Januari 2016). <it>Form</it> <it>Penilaian</it> <it>KPI</it> <it>KKKS</it> <it>2015.</it> 4 Oktober 2016. https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_action=get&amp;_mbox=I NBOX&amp;_uid=1300&amp;_part=2&amp;_download=1 
+			Deayusdita, Gadisya. (26 September 2016). Pertanyaan Data Profil Perusahaan. 27 September 2016. Gadisya.Deayusdita@jambimerang.co.id JOB PTJM (24 Februari 2016). Digital Infographic. 27 September 2016. https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_action=get&amp;_mbox=I NBOX&amp;_uid=1382&amp;_part=2&amp;_frame=1&amp;_extwin=1.  JOB PTJM (24 Februari 2016). Organization Chart. 27 September 2016. https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_action=get&amp;_mbox=I NBOX&amp;_uid=1382&amp;_part=2&amp;_frame=1&amp;_extwin=1. JOB PTJM (24 Februari 2016). Satuan Kerja Khusus SCM Department. 27 September 2016. https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_uid=1384&amp;_mbox=IN BOX&amp;_action=get&amp;_part=2&amp;_embed=1&amp;_mimeclass=image. JOB PTJM (25 Juli 2016). Go-Hemat User Manual. Mirasfi, Teuku. (2016). Surat Keputusan Penerimaan Kerja Praktik Nomor BS- J/16-0467. Jakarta: JOB PTJM. Pressman, Roger S.. (2010). <it>Software</it> <it>Engineering:</it> <it>A</it> <it>Practitioner’s</it>  <it>Approach,</it>  7th Edition. New York: McGraw-Hill International. Pujiono, Ediyanto. (26 September 2016). Pertanyaan Data Profil Perusahaan. 27 September 2016. Ediyanto.Pujiono@jambimerang.co.id. SKK Migas (26 Januari 2016). Form Penilaian KPI KKKS 2015. 4 Oktober 2016. https://webmail.ui.ac.id/roundcube2/?_task=mail&amp;_action=get&amp;_mbox=I NBOX&amp;_uid=1300&amp;_part=2&amp;_download=1 
 		</segment>
-		<pagenum> 29</pagenum>
+		<pagenum> 24</pagenum>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
-	<page id="44">
-		<pagenum>30</pagenum>
+	<page id="39">
 		<title><bo>LAMPIRAN</bo></title>
 		<title><bo>LAMPIRAN</bo> <bo>1:</bo> <bo>KAKP</bo></title>
 		<title><bo>LAMPIRAN</bo> <bo>2:</bo> <bo>LOG</bo> <bo>KP</bo></title>
+		<pagenum> 25</pagenum>
 		<footer><bo>Universitas</bo> <bo>Indonesia</bo></footer>
 	</page>
 

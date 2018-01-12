@@ -62,7 +62,7 @@
 <PAIR>
 <BEFORE>Struktur Data Algoritma Pada mata kuliah ini, materi yang memiliki keterkaitan dengan pekerjaan penulis yaitu terkait pemilihan struktur data yang tepat dalam suatu masalah, dan menentukan algoritma yang tepat untuk masalah tersebut.</BEFORE>
 <AFTER>Struktur Data Algoritma Pada mata kuliah ini, materi yang memiliki keterkaitan dengan pekerjaan penulis yaitu terkait pemilihan struktur data yang tepat dalam suatu masalah, dan menentukan algoritme yang tepat untuk masalah tersebut.</AFTER>
-<ERRTYPE>STANDART</ERRTYPE>
+<ERRTYPE>STANDARD</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1364,7 +1364,7 @@
 <PAIR>
 <BEFORE>Tujuan dilakukannya aktifitas ini adalah untuk meningkatkan pengetahuan penulis mengenai aplikasi pembayaran <it>mobile</it> dan juga untuk menganalisa peluang dan tantangan pemasaran aplikasi Liquid Pay di Indonesia.</BEFORE>
 <AFTER>Tujuan dari aktifitas ini adalah untuk meningkatkan pengetahuan penulis mengenai aplikasi pembayaran <it>mobile,</it> dan juga untuk menganalisis peluang serta tantangan pemasaran aplikasi Liquid Pay di Indonesia.</AFTER>
-<ERRTYPE>STANDART</ERRTYPE>
+<ERRTYPE>STANDARD</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1478,13 +1478,13 @@
 <PAIR>
 <BEFORE>Dalam pembuatan suatu aplikasi terdapat proses pengembangan aplikasi untuk dapat menghilangkan masalah-masalah yang ada dan membuat aplikasi tersebut semakin efisien.</BEFORE>
 <AFTER>Dalam pembuatan suatu aplikasi terdapat tahapan-tahapan pengembangan aplikasi tersebut, seperti mengatasi <it>bugs</it> yang ditemukan, penambahan dan penyesuaian fitur, dan sebagainya.</AFTER>
-<ERRTYPE></ERRTYPE>
+<ERRTYPE>CHANGE</ERRTYPE>
 </PAIR>
 
 <PAIR>
 <BEFORE>Salah satu contoh perusahaan logistik yang terkenal yaitu Gojek, yang menggunakan <it>pinpoint</it> sebagai informasi asal dan tujuan lokasi dalam menggunakan jasa yang disediakan.</BEFORE>
 <AFTER>Salah satu contoh perusahaan logistik yang terkenal yaitu Gojek, sebuah perusahaan yang menyediakan jasa pengiriman barang, yang menggunakan <it>pinpoint</it> sebagai informasi asal dan tujuan lokasi dalam menggunakan jasa yang disediakan.</AFTER>
-<ERRTYPE></ERRTYPE>
+<ERRTYPE>SHANGE</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1754,7 +1754,7 @@
 <PAIR>
 <BEFORE>Pada proses ini data akan diambil (<it>extracted)</it> dari sumber data, dikonversi (<it>transformed)</it> menjadi bentuk yang dapat dianalisa, dan disimpan (<it>loaded)</it> di <it>data</it> <it>warehouse</it> atau sistem lain [1].</BEFORE>
 <AFTER>Pada proses ini, data akan diambil (<it>extracted)</it> dari sumber data, dikonversi (<it>transformed)</it> menjadi bentuk yang dapat dianalisis, dan disimpan (<it>loaded)</it> di <it>data</it> <it>warehouse</it> atau sistem lain [1].</AFTER>
-<ERRTYPE>STANDART</ERRTYPE>
+<ERRTYPE>STANDARD</ERRTYPE>
 </PAIR>
 
 <PAIR>

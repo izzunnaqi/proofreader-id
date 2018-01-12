@@ -9,13 +9,11 @@ errors = {
 			"TYPO":0,
 			"PUNCT":0,
 			"SPACE":0,
-			"SPLIT":0,
 			"PARALELLISM":0,
 			"INCOMPLETE":0,
 			"EFF":0,
 			"CAPITAL":0,
 			"ITALIC":0,
-			"BOLD":0,
 			"ABBR":0,
 			"REDUNDANT":0,
 			"CONJ":0,
@@ -25,8 +23,6 @@ errors = {
 			"PRONOUN":0,
 			"PREP":0,
 			"LOGIC":0,
-			"WSTYLE":0,
-			"JOIN":0,
 			"CHANGE":0,
 			"":0
 		}
@@ -41,6 +37,7 @@ for p in pair:
 
 	errors[key] += 1
 
+print "\n"
 for key, value in errors.iteritems():
 	if key == "":
 		print "Unannotated: " + str(value)
@@ -48,7 +45,3 @@ for key, value in errors.iteritems():
 		print key + ": " + str(value)
 
 print "Total Pair: " + str(len(pair))
-
-
-
-

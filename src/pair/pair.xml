@@ -440,7 +440,7 @@
 <PAIR>
 <BEFORE>Dalam mempertimbangkan tempat kerja praktik, pelaksana kerja praktik awalnya sangat berminat untuk melakukan kerja praktik pada posisi <it>software</it> <it>engineer</it> mengingat pelaksana kerja praktik sangat menyukai proses <it>problem</it> <it>solving.</it> Oleh karena itu, pada awal masa pencarian tempat kerja praktik, pelaksana kerja praktik kebanyakan melamar di <it>startup/software</it> <it>house</it> yang membuka <it>internship</it> pada posisi <it>software</it> <it>enginnering.</it> Pelaksana kerja praktik pun akhirnya dipanggil untuk mengikuti tahap wawancara di beberapa perusahaan.</BEFORE>
 <AFTER>Dalam mempertimbangkan tempat kerja praktik, pelaksana kerja praktik awalnya sangat berminat pada posisi <it>software</it> <it>engineer.</it> Hal ini dikarenakan pelaksana kerja praktik sangat menyukai proses <it>problem</it> <it>solving.</it> Oleh karena itu, pada awal masa pencarian tempat kerja praktik, pelaksana kerja praktik kebanyakan melamar di <it>startup/software</it> <it>house</it> yang membuka <it>internship</it> pada posisi <it>software</it> <it>engineering.</it> Pelaksana kerja praktik pun akhirnya dipanggil untuk mengikuti tahap wawancara di beberapa perusahaan.</AFTER>
-<ERRTYPE>SPLIT</ERRTYPE>
+<ERRTYPE>TYPO</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -800,7 +800,7 @@
 <PAIR>
 <BEFORE>Dalam melakukan kerja praktik, penulis mengerjakan proyek dengan mengembangkan <it>website,</it> tentu saja ini merupakan hal yang relevan dengan perkuliahan di Fasilkom UI, karena banyak sekali hal-hal yang saya pelajari di Fasilkom UI terpakai ketika mengerjakan proyek pengembangan <it>website</it> tersebut.</BEFORE>
 <AFTER>Dalam melakukan kerja praktik, penulis mengerjakan proyek dengan mengembangkan <it>website.</it> Tentu saja ini merupakan hal yang relevan dengan perkuliahan di Fasilkom UI.</AFTER>
-<ERRTYPE>SPLIT</ERRTYPE>
+<ERRTYPE>EFF</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1412,7 +1412,7 @@
 <PAIR>
 <BEFORE>Selanjutnya, penulis akan memberikan penilaiannya terhadap perusahaan tempat penulis melaksanakan kerja praktik.</BEFORE>
 <AFTER>Selanjutnya, penulis akan memberikan penilaiannya terhadap perusahaan tempat penulis melakukan kerja praktik.</AFTER>
-<ERRTYPE>VERB</ERRTYPE>
+<ERRTYPE>CHANGE</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1430,7 +1430,7 @@
 <PAIR>
 <BEFORE>Berikut merupakan penjelasan mengenai kesesuaian dan perbedaan pengetahuan mata kuliah tersebut.</BEFORE>
 <AFTER>Berikut ini merupakan penjelasan mengenai kesesuaian serta perbedaan pengetahuan mata kuliah tersebut.</AFTER>
-<ERRTYPE>PRONOUN</ERRTYPE>
+<ERRTYPE>CHANGE</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1490,7 +1490,7 @@
 <PAIR>
 <BEFORE>Oleh sebab itu, dibutuhkan suatu <it>web</it> <it>service</it> untuk memvalidasi <it>pinpoint</it> yang dimasukkan oleh pengguna aplikasi Tokopedia.</BEFORE>
 <AFTER>Oleh sebab itu, dibutuhkan suatu <it>web</it> <it>service</it> untuk melakukan validasi <it>pinpoint</it> yang dimasukkan oleh pengguna aplikasi Tokopedia.</AFTER>
-<ERRTYPE>VERB</ERRTYPE>
+<ERRTYPE>CHANGE</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1524,12 +1524,6 @@
 </PAIR>
 
 <PAIR>
-<BEFORE>Secara umum <it>database</it> dapat diumpamakan sebagai kumpulan rekaman yang berisi potongan-potongan informasi mengenai sebuah entitas.</BEFORE>
-<AFTER>Secara umum <it>database</it> dapat diumpamakan sebagai kumpulan catatan entitas yang berbeda-beda dan saling terkait satu sama lain dimana masing- masing entitas berisi informasi terkait sebuah item di dalam entitas tersebut.</AFTER>
-<ERRTYPE>CHANGE</ERRTYPE>
-</PAIR>
-
-<PAIR>
 <BEFORE><it>Database</it> di dalam komputer dikelola menggunakan <it>Database</it> <it>Management</it> <it>System</it> (DBMS), sebuah <it>software</it> yang dibuat untuk memudahkan penggunaan dan manajemen <it>database</it> (The Linux Information Project, 2006).</BEFORE>
 <AFTER><it>Database</it> di dalam komputer dikelola menggunakan <it>Database</it> <it>Management</it> <it>System</it> (DBMS).</AFTER>
 <ERRTYPE>EFF</ERRTYPE>
@@ -1539,12 +1533,6 @@
 <BEFORE>Microsoft Word juga menyediakan fitur <it>formatting</it> dokumen yang lebih familiar daripada Google Drive karena penulis dan sebagian besar rekan penulis telah terbiasa menggunakan Microsoft Word.</BEFORE>
 <AFTER>Microsoft Word juga menyediakan fitur <it>formatting</it> dokumen yang lebih <it>familiar</it> daripada Google Drive karena penulis dan sebagian besar rekan penulis telah terbiasa menggunakan Microsoft Word.</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
-</PAIR>
-
-<PAIR>
-<BEFORE>Dasar-dasar Pemrograman, Struktur Data dan Algoritme, dan Proyek Perangkat Lunak merupakan mata kuliah yang paling disukai oleh penulis, dan hal itu membuat penulis sangat minat dalam pengembangan perangkat lunak khususnya pengembangan <it>mobile</it> <it>application.</it> Selain itu, penulis juga melihat bahwa perkembangan <it>mobile</it> <it>application</it> sangat pesat dalam lima tahun terakhir ini.</BEFORE>
-<AFTER>Dasar-dasar Pemrograman, Struktur Data dan Algoritme, dan Proyek Perangkat Lunak merupakan mata kuliah yang diminati oleh penulis, dan hal itu membuat penulis tertarik dalam pengembangan perangkat lunak khususnya pengembangan <it>mobile</it> <it>application.</it> Selain itu, penulis juga melihat bahwa perkembangan <it>mobile</it> <it>application</it> sangat pesat dalam lima tahun terakhir ini.</AFTER>
-<ERRTYPE>CHANGE</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1586,7 +1574,7 @@
 <PAIR>
 <BEFORE>Masih pada bulan April, penulis mencoba untuk melamar di Kudo sebagai <it>backend</it> <it>developer.</it> Beberapa waktu kemudian, penulis mendapat balasan dari Kudo untuk melakukan wawancara di kantor mereka.</BEFORE>
 <AFTER>Masih pada bulan April, penulis mencoba untuk melamar di Kudo sebagai <it>backend</it> <it>developer</it> dan penulis mendapat balasan dari Kudo untuk melakukan wawancara di kantor mereka.</AFTER>
-<ERRTYPE>EFF</ERRTYPE>
+<ERRTYPE>CONJ</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1634,7 +1622,7 @@
 <PAIR>
 <BEFORE>SEO merupakan sebuah teknik yang dapat membantu meningkatkan peringkat halaman kita secara organik.</BEFORE>
 <AFTER>SEO merupakan sebuah teknik yang dapat membantu meningkatkan peringkat halaman <it>website</it> secara organik (Nisha & singh, 2014).</AFTER>
-<ERRTYPE>CHANGE</ERRTYPE>
+<ERRTYPE>PRONOUN</ERRTYPE>
 </PAIR>
 
 <PAIR>
@@ -1698,12 +1686,6 @@
 </PAIR>
 
 <PAIR>
-<BEFORE>Hal ini dapat dipelajari dari mata kuliah <it>Information</it> <it>Retrieval</it> karena salah satu aplikasinya ialah <it>search</it> <it>engine.</it> Keuntungan yang didapatkan ialah seorang SEO dapat dengan mudah memahami dan mempelajari bagaimana ide Google melakukan pengindeksan terhadap dokumen.</BEFORE>
-<AFTER>Hal ini dapat dipelajari dari mata kuliah <it>Information</it><it>Retrieval</it> karena salah satu aplikasinya ialah <it>search</it> <it>engine.</it> Keuntungan yang didapatkan ialah seorang SEO <it>specialist</it> dapat dengan mudah memahami dan mempelajari bagaimana ide Google melakukan pengindeksan terhadap dokumen.</AFTER>
-<ERRTYPE>CHANGE</ERRTYPE>
-</PAIR>
-
-<PAIR>
 <BEFORE>Pelaksana KP melakukan <it>listing</it> calon-calon tempat magang yang dirasa cocok.</BEFORE>
 <AFTER>Pelaksana KP menyusun daftar calon-calon tempat magang yang dirasa cocok.</AFTER>
 <ERRTYPE>TRANS</ERRTYPE>
@@ -1764,12 +1746,6 @@
 </PAIR>
 
 <PAIR>
-<BEFORE>Pelaksana KP harus sering berkomunikasi dengan anggota tim yang lain karena sering diadakannya <it>meeting</it> yang mendadak.</BEFORE>
-<AFTER>Pelaksana KP harus berkomunikasi dengan anggota tim yang lain perihal jam datang ke kantor karena sering diadakannya <it>meeting</it> yang insidental, sehingga beberapa kali jadwal <it>meeting</it> diatur ulang karena ada anggota tim yang belum atau tidak datang ke kantor.</AFTER>
-<ERRTYPE>CHANGE</ERRTYPE>
-</PAIR>
-
-<PAIR>
 <BEFORE>Pelaksana KP juga pernah mengikuti meeting dengan seseorang dari Filipina sehingga harus menggunakan bahasa Inggris.</BEFORE>
 <AFTER>Pelaksana KP juga pernah mengikuti <it>meeting</it> dengan seseorang dari Filipina sehingga harus menggunakan bahasa Inggris.</AFTER>
 <ERRTYPE>ITALIC</ERRTYPE>
@@ -1784,13 +1760,13 @@
 <PAIR>
 <BEFORE>Minimnya <it>in-code</it> <it>documentation</it> pada beberapa kode yang sudah ada, membuat kode tersebut sulit untuk dibaca dan dipahami, sehingga pelaksana KP harus membaca <it>wiki</it> / Confluence untuk memahami <it>flow</it> dari kode tersebut meskipun terkadang tidak ada di wiki.</BEFORE>
 <AFTER>Minimnya <it>in-code</it> <it>documentation</it> pada beberapa kode yang sudah ada, membuat kode tersebut sulit untuk dibaca dan dipahami, sehingga pelaksana KP harus membaca <it>wiki</it> / Confluence untuk memahami <it>flow</it> dari kode tersebut.</AFTER>
-<ERRTYPE>EFF</ERRTYPE>
+<ERRTYPE>LOGIC</ERRTYPE>
 </PAIR>
 
 <PAIR>
 <BEFORE>Hal ini bisa disebabkan karena setiap <it>engineer</it> di Traveloka lebih fokus ke penyelesaian ketimbang membuat dokumentasi, dan juga setiap tim tidak terlalu mewajibkan <it>in-code</it> <it>documentation</it> meskipun sudah di- <it>encourage</it> oleh Traveloka.</BEFORE>
 <AFTER>Bahkan ada juga dokumentasi yang tidak ditulis di wiki sehingga pelaksana KP harus bertanya langsung ke <it>engineer</it> yang membuat kode tersebut.. Hal ini bisa disebabkan karena setiap <it>engineer</it> di Traveloka lebih fokus ke penyelesaian fitur dibandingkan membuat dokumentasi, dan juga setiap tim tidak terlalu mewajibkan <it>in-code</it> <it>documentation</it> meskipun sudah di-<it>encourage</it> oleh Traveloka.</AFTER>
-<ERRTYPE>PUNCT</ERRTYPE>
+<ERRTYPE>STANDARD</ERRTYPE>
 </PAIR>
 
 <PAIR>

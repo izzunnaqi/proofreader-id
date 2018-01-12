@@ -209,7 +209,7 @@ def partial_sentence(text1, text2):
 
 	jacc = jaccard_similarity(query, document)
 
-	if jacc > 0.2:
+	if jacc > 0.3:
 		return True
 	else:
 		return False
@@ -228,14 +228,15 @@ def main():
 
 	candidate = []
 	res = ""
-
+	count_pair = 0
 	for a, b in partial_seg:
 
 		sent_a = sent_tokenize(a)
 		sent_b = sent_tokenize(b)
 
 		full_sent, partial_sent = sentence_align(sent_a, sent_b)
-
+		count_pair += len(partial_sent)
+		
 		for x, y in partial_sent:
 			res += "<PAIR>\n"
 			res += "<BEFORE>" + x + "</BEFORE>\n"
@@ -252,6 +253,7 @@ def main():
 	with open(options.o, 'a') as f:
 		f.write(res)
 
+	print 'Pair collected: ', str(count_pair)
 
 
 if __name__ == '__main__':
