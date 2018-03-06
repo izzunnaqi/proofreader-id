@@ -22,6 +22,7 @@ from sklearn.model_selection import StratifiedKFold
 from sklearn.model_selection import StratifiedShuffleSplit
 from bs4 import BeautifulSoup
 
+
 errors = [
 			"TYPO",
 			"PUNCT",
@@ -56,6 +57,7 @@ def get_pair(xmldoc):
 
 	pair = soup.find_all('PAIR')
 
+	# membentuk list pasangan kalimat sebelum dan sesudah revisi
 	for p in pair:
 		before = "".join(str(e) for e in p.BEFORE.contents)
 		after = "".join(str(e) for e in p.AFTER.contents)
@@ -71,6 +73,7 @@ def extract_class(xmldoc):
 
 	pair = soup.find_all('PAIR')
 
+	# mengekstrak list kelas/jenis error dari tiap-tiap pasangan kalimat
 	for p in pair:
 		c = "".join(str(e) for e in p.ERRTYPE.contents)
 		err.append(c)
@@ -78,8 +81,10 @@ def extract_class(xmldoc):
 	return err
 
 def classify_error(clf, pair_data, pair_label):	
+	# buat k-buah fold
 	skf = StratifiedKFold(n_splits=10)
 
+	# prediksi jenis error menggunakan k-fold cross validation
 	predicted = cross_val_predict(clf, pair_data, pair_label, cv=skf)
 	scores = cross_val_score(clf, pair_data, pair_label, cv=skf)
 
@@ -87,6 +92,7 @@ def classify_error(clf, pair_data, pair_label):
 
 
 def evaluate(pair_label, predicted, name):
+	# evaluasi hasil prediksi dengan menghitung nilai akurasi, presisi, recall, dan f1 score dari hasil prediksi
 	acc = accuracy_score(pair_label, predicted)
 	precision, recall, fscore, support = precision_recall_fscore_support(pair_label, predicted, average='micro')
 
@@ -127,6 +133,7 @@ def feature_generate(pair):
 	ftr = feature.Feature()
 	res = []
 
+	#  ekstraksi fitur-fitur pasangan kalimat dalam bentuk list
 	for x, y in pair:
 		fc = ftr.first_capital(x, y)
 		cd = ftr.capital_diff(x, y)
@@ -138,7 +145,7 @@ def feature_generate(pair):
 		cp = ftr.count_postag(x, y)
 		sim = ftr.similarity(x, y)
 
-		res.append([fc, cd, sld, cod, dd, it])
+		res.append([fc, cd, sld, cod, dd, it, cp, cd, sim])
 
 	return res  
 
@@ -146,31 +153,42 @@ def main():
 	config()
 	train_in = sys.argv[1]
 
+	# memperoleh pasangan kalimat dalam bentuk list
 	train_pair = get_pair(train_in)
+
+	# memperoleh label jenis kesalahan dari dokumen gold standard
 	pair_label = extract_class(train_in)
 
+	# ekstraksi fitur pasangan kalimat
 	pair_data = feature_generate(train_pair)
 
 	print '=================================================='
-	print 'Feature Set: fc, cd, sld, cod, dd, it'
+	print 'Feature Set: fc, cd, sld, cod, dd, it, cp, cd, sim'
 	print '=================================================='
+	# klasifikasi menggunakan SVM
 	pred_svm = classify_error(SVC(), pair_data, pair_label)
 
 	
 	evaluate(pair_label, pred_svm, "SVC")
-	# cm = confusion_matrix(pair_label, pred_svm, labels=errors)
-	# plot_confusion_matrix(cm, classes=errors)
-	# plt.savefig("conf-mat-svm.png")
+
+	# buat confusion matrix dari hasil prediksi menggunakan SVM
+	cm = confusion_matrix(pair_label, pred_svm, labels=errors)
+	plot_confusion_matrix(cm, classes=errors)
+	plt.savefig("conf-mat-svm.png")
 	
+
 	pred_lsvm = classify_error(LinearSVC(), pair_data, pair_label)
 	evaluate(pair_label, pred_lsvm, "Linear SVC")
 	
+	# klasifikasi menggunakan Naive Bayes
 	pred_nb = classify_error(GaussianNB(), pair_data, pair_label)
 	evaluate(pair_label, pred_nb, "Naive Bayes")
 	
+	# klasifikasi menggunakan Logistic Regression
 	pred_lr = classify_error(LogisticRegression(), pair_data, pair_label)
 	evaluate(pair_label, pred_lr, "Logistic Regression")
 	
+	# klasifikasi menggunakan Random Forest
 	pred_rf = classify_error(RandomForestClassifier(), pair_data, pair_label)
 	evaluate(pair_label, pred_rf, "Random Forest")
 

@@ -18,7 +18,7 @@ def extract_xml(argv):
 	pages = tree.getroot()
 	allpage = pages.findall("page")
 
-
+	# heading dokumen XML
 	temp = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<document>\n"
 	
 	# read page
@@ -36,6 +36,7 @@ def extract_xml(argv):
 				
 				if t.text.isspace() or t.text is None:
 					
+					# penutup tag bold dan italic jika flag = 1
 					if flag_bo == 1:
 						line = line + "</bo>"
 						flag_bo = 0
@@ -56,12 +57,14 @@ def extract_xml(argv):
 					elif t.text == '<':
 						line = line + "&lt;"
 					else:
+						# berikan tag italic jika flag = 0 dan ditemukan atribut italic
 						if "Italic" in t.attrib['font'] and flag_it == 0:
 							flag_it = 1
 
 							if line is "" or not line[-1].isalpha():
 								line = line + "<it>"
 						
+						# berikan tag bold jika flag = 0 dan ditemukan atribut Bold
 						if "Bold" in t.attrib['font'] and flag_bo == 0:
 							flag_bo = 1
 
@@ -82,6 +85,7 @@ def extract_xml(argv):
 			if not item.isspace():
 				trim = re.sub('<bo>|</bo>|<it>|</it>', '', item)
 
+				# mendadai segmen dan title dari dokumen
 				if re.match('[0-9]+\.+[0-9]+\.+[0-9]*\.*\s+', trim) is not None or (trim.isupper() and "." not in trim) :
 					if flag_seg == 0:
 						segment = segment + "\n\t\t</segment>" + "\n\t\t<title>" + item[:-1] + "</title>"
@@ -89,6 +93,8 @@ def extract_xml(argv):
 					else:
 						segment = segment + "\n\t\t<title>" + item[:-1] + "</title>"
 						flag_seg = 1
+
+				# tandai Universitas Indonesia sebagai footer
 				elif "<bo>Universitas</bo> <bo>Indonesia</bo>" in item:
 					
 					if flag_seg == 0:
@@ -98,6 +104,7 @@ def extract_xml(argv):
 						segment = segment + "\n\t\t<footer>" + item[:-1] + "</footer>"
 						flag_seg = 1
 				
+				# regex untuk mencari nomor halaman dan menandai dengan tag pagenum
 				elif (trim.strip().isdigit() and len(trim.strip()) <= 4) or (re.match(r'\b[vix]+\b(?![,])', trim) is not None and len(trim.strip()) <= 4):
 					if flag_seg == 0:
 						segment = segment + "\n\t\t</segment>" + "\n\t\t<pagenum>" + item[:-1] + "</pagenum>"
@@ -112,7 +119,7 @@ def extract_xml(argv):
 					else:
 						segment = segment + item
 		
-
+		#  tag yang menandai suatu halaman
 		page_tag = '\t<page id=\"'+ p.attrib['id']+'\">'
 		
 		if flag_seg == 0:

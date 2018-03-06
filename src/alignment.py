@@ -1,4 +1,4 @@
-#!/usr/bin/env python -W ignore::DeprecationWarning
+5  #!/usr/bin/env python -W ignore::DeprecationWarning
 # -*- coding: utf-8 -*-qq
 
 import sys
@@ -10,9 +10,7 @@ from nltk import word_tokenize
 from nltk import sent_tokenize
 from random import randint
 from Levenshtein import distance
-from collections import Counter
 
-WORD = re.compile(r'\w+')
 
 def config():
 	reload(sys)
@@ -20,6 +18,7 @@ def config():
 
 
 def simplify(xmldoc):
+	# header dokumen XML
 	res = "<?xml version=\"1.0\" encoding=\"utf-8\" ?>\n<document>"
 
 	with open(xmldoc) as fp:
@@ -33,6 +32,7 @@ def simplify(xmldoc):
 			a = unicode(p.pagenum.string)
 			a = str(a)
 
+			# simplifikasi dokumen dengan menghilangkan tag page, pagenum, dan footer
 			if a.isdigit() and len(a) < 4:
 				for item in p.contents:
 					if item.name != "pagenum" and item.name != "footer" and item.name is not None:
@@ -44,6 +44,7 @@ def simplify(xmldoc):
 
 	res = res + "\n</document>"
 
+	# menggabungkan dua segmen yang berurutan
 	res = re.sub("</segment><segment>", "", res)
 	res = res.encode('utf-8')
 	
@@ -66,6 +67,7 @@ def segment_align(arg1, arg2):
 
 	indexes = []
 
+	# mencocokkan title yang sama dari pasangan dokumen
 	for a in title_1:
 		for b in title_2:
 			if a == b:
@@ -89,6 +91,7 @@ def segment_align(arg1, arg2):
 
 
 	if len(not_match) > 0:
+		# lakukan partial match pada pasanganan yang tidak full match
 		partial_match, not_match = partial_segment(not_match, 10, 5)
 		
 	return full_match, partial_match, not_match
@@ -99,6 +102,8 @@ def partial_segment(x, k, t):
 	not_match = x
 	
 	for a, b in not_match:
+
+		# tokenisasi segmen
 		token_a = word_tokenize(a)
 		token_b = word_tokenize(b)
 
@@ -108,8 +113,10 @@ def partial_segment(x, k, t):
 			if len(token_a) - t > 0:
 				m = randint(0, len(token_a) - t)
 
+			# pilih secara randon n-kata berurut
 			rand_a = " ".join(token_a[m:m+t])
 			
+			# cek apakah urutan kata tersebut ada di kedua segmen
 			if rand_a in b:
 				not_match.remove([a, b])
 
@@ -124,6 +131,7 @@ def sentence_align(sentlist_a, sentlist_b):
 	not_match = []
 	partial = []
 
+	# hilangkan spasi ganda
 	sentlist_a = trim_double_space(sentlist_a)
 	sentlist_b = trim_double_space(sentlist_b)
 
@@ -133,12 +141,14 @@ def sentence_align(sentlist_a, sentlist_b):
 	n = len(sentlist_b)
 	
 	while (i < m and j < n):
+
 		regex_1 = re.compile('(.*)%s(.*)'%re.escape(sentlist_a[i]), re.IGNORECASE)
 		regex_2 = re.compile('(.*)%s(.*)'%re.escape(sentlist_b[j]), re.IGNORECASE)
 		
 		if i != (m-1) and j != (n-1):
 			if len(sentlist_a[i]) > 15 and len(sentlist_b[j]) > 15 and len(sentlist_a[i+1]) > 15 and len(sentlist_b[j+1]) > 15:
 
+				# lakukan full match
 				if regex_1.match(sentlist_b[j]):
 					match.append([sentlist_a[i], sentlist_b[j]])
 					
@@ -149,6 +159,7 @@ def sentence_align(sentlist_a, sentlist_b):
 					match.append([sentlist_a[i], sentlist_b[j+1]])
 
 				else:
+					# jika tidak memenuhi kondisi full match, lakukan partial match
 					if partial_sentence(sentlist_a[i], sentlist_b[j]):
 						partial.append([sentlist_a[i], sentlist_b[j]])
 					
@@ -180,35 +191,19 @@ def trim_double_space(sentence_list):
 
 	return res
 
-def jaccard_similarity(query, document):
-    intersection = set(query).intersection(set(document))
-    union = set(query).union(set(document))
+def jaccard_similarity(sent_1, sent_2):
+    intersection = set(sent_1).intersection(set(sent_2))
+    union = set(sent_1).union(set(sent_2))
 
     return float(float(len(intersection)) / float(len(union)))
 
-def get_cosine(vec1, vec2):
-     intersection = set(vec1.keys()) & set(vec2.keys())
-     numerator = sum([vec1[x] * vec2[x] for x in intersection])
-
-     sum1 = sum([vec1[x]**2 for x in vec1.keys()])
-     sum2 = sum([vec2[x]**2 for x in vec2.keys()])
-     denominator = math.sqrt(sum1) * math.sqrt(sum2)
-
-     if not denominator:
-        return 0.0
-     else:
-        return float(numerator) / denominator
-
-def text_to_vector(text):
-     words = WORD.findall(text)
-     return Counter(words)
-
 def partial_sentence(text1, text2):
-	query = text1.split(" ")
-	document = text2.split(" ")
+	sent_1 = text1.split(" ")
+	sent_2 = text2.split(" ")
 
-	jacc = jaccard_similarity(query, document)
+	jacc = jaccard_similarity(sent_1, sent_2)
 
+	# partial match pada kalimat menggunakan threshold nilai kesamaan
 	if jacc > 0.3:
 		return True
 	else:
@@ -221,22 +216,28 @@ def main():
 	doc1 = sys.argv[1]
 	doc2 = sys.argv[2]
 
+	# lakukan simplifikasi dokumen XML
 	xml_1 = simplify(doc1)
 	xml_2 = simplify(doc2)
 	
+	# lakukan pencocokan segmen pada pasangan dokumen
 	full, partial_seg, not_match = segment_align(xml_1, xml_2)
 
 	candidate = []
 	res = ""
 	count_pair = 0
+
+	# lakukan pencocokan kalimat pada pasangan segmen yang cocok secara parsial
 	for a, b in partial_seg:
 
 		sent_a = sent_tokenize(a)
 		sent_b = sent_tokenize(b)
 
+		# pencocokan kalimat
 		full_sent, partial_sent = sentence_align(sent_a, sent_b)
 		count_pair += len(partial_sent)
 		
+		# tulis hasil pencocokan
 		for x, y in partial_sent:
 			res += "<PAIR>\n"
 			res += "<BEFORE>" + x + "</BEFORE>\n"
